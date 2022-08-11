@@ -1,0 +1,72 @@
+Recipe number:
+217233.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-19T02:06:52.05
+helpfulCount:
+0
+userID:
+1789242
+Display Name:
+dan g
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+294
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and easy.  Also good with bourbon.
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-20T13:31:01.23
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This drink has convinced me that I am a whiskey drinker.

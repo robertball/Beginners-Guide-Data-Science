@@ -1,0 +1,37 @@
+Recipe number:
+261653.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-28T02:37:35.697
+helpfulCount:
+0
+userID:
+10856457
+Display Name:
+LazyFoodieGirl
+isPro:
+False
+followersCount:
+211
+followingCount:
+0
+madeRecipesCount:
+94
+favoritesCount:
+177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3666133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+SUPER easy to make - even easier to devour. The baking/broiling of the graham crackers made them extra crispy. I used mini marshmallows instead or large ones and enjoyed the way it turned out - the outsides were crackly just like over a campfire, but the insides were nice and gooey and hot. So simple to throw together for a last-minute dessert, and even my 11-year-old niece helped make it with me (I just put the pan in the oven, but she did all the prep work by herself).

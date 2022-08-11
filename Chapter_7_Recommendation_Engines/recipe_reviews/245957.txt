@@ -1,0 +1,76 @@
+Recipe number:
+245957.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-24T10:02:46.073
+helpfulCount:
+3
+userID:
+14518073
+Display Name:
+sunnybluesky
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+344
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6439739.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The first to review, how fun! I did not change anything, it's very tasty.  And pretty. However... the preparation for this does not work well.
+If I made this again, I would:
+1. cook the chicken, set aside
+2. cook the rice by itself, according to package directions
+3. cook the garlic and kale, then just toss it all together.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-25T23:39:47.953
+helpfulCount:
+0
+userID:
+12582315
+Display Name:
+Meg Shattuck-Lowe
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+417
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2031985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum! This was delicious and very easy:)

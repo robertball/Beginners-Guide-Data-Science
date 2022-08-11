@@ -1,0 +1,37 @@
+Recipe number:
+244333.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-20T00:43:38.077
+helpfulCount:
+3
+userID:
+20218418
+Display Name:
+Al & Al
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+291
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We thought this was delicious!  I used a plain pork tenderloin as I couldn't find a seasoned one.  As a result, I sprinkled some mesquite applewood spice on the medallions before dipping them in the honey mustard mixture.  I was careful to only flip the medallions once as the coating didn't stick as well as it could have - perhaps I didn't have enough oil. Will definitely make it again!

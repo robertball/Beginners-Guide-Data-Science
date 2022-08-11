@@ -1,0 +1,37 @@
+Recipe number:
+262649.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-04T02:52:16.837
+helpfulCount:
+0
+userID:
+8742256
+Display Name:
+Joba
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+150
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5733692.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are much like peanut butter cups!  Very rich!  The recipe turned out well except they did not keep a ball shape.  I'm sure they need more than 20 mins to chill before rolling.  So mine are more oval shaped.  The chocolate also definitely wouldn't set at room temperature for 10 minutes.  I put mine in the freezer for 30 mins and then they had a nice chocolate shell.  I'm going to keep them in the fridge.  A nice decadent "healthier" treat though.  PS. I melted my chocolate chips in a double boiler (bowl on top of pot on stove).

@@ -1,0 +1,107 @@
+Recipe number:
+101464.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-05-14T10:54:14.497
+helpfulCount:
+4
+userID:
+939980
+Display Name:
+Butterfly Flutterby
+isPro:
+False
+followersCount:
+164
+followingCount:
+0
+madeRecipesCount:
+1112
+favoritesCount:
+889
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+While the taste is there, this is too much meat for the amount of other ingredients. I made this with 1 lb. of beef with 16 oz of velveeta and one cup of salsa (actually I used Rotel) and I liked it much better. Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2006-05-14T06:26:48.437
+helpfulCount:
+4
+userID:
+646981
+Display Name:
+aCookInLaQuintaCA
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/13290.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for a party and placed it next to a platter of ice cold jumbo shrimp. This dip was the FIRST thing to go. Go figure! Everyone asked me how I made it-- I was a little embarrassed to tell them how easy. :)
+Review:
+Rating:
+2
+dateLastModified:
+2008-02-03T11:59:20.62
+helpfulCount:
+1
+userID:
+1810291
+Display Name:
+L. Rakic
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+62
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/162219.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This didn't turn out well for me. It was very salty.

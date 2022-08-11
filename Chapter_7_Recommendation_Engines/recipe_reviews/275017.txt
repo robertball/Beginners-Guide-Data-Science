@@ -1,0 +1,37 @@
+Recipe number:
+275017.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-08-03T19:13:50.54
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+392
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have some craisins that I need to use up and I fell upon this recipe which sounded good but unfortunately it is not.  Thank goodness I halved the recipe! First off, it took 40 minutes to fully bake in the center. After 30 minutes I had to cover the edges since they were starting to be overly golden. Second they were extremely crumbly, did not hold together very well. And lastly they just were not tasty, rather bland. Sorry but this is a recipe I will not make again.

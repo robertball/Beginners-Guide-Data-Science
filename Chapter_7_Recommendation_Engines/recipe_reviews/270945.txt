@@ -1,0 +1,37 @@
+Recipe number:
+270945.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-04-08T14:29:36.74
+helpfulCount:
+0
+userID:
+16311572
+Display Name:
+Dianne Boyer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6298066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They were okay.... BUT I would peel the eggplant next time.  And precook them before adding all the other ingredients.  The peel was very hard to cut and chew.

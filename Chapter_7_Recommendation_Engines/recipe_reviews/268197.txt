@@ -1,0 +1,37 @@
+Recipe number:
+268197.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-21T18:05:38.907
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty soup.. I preferred it without the apple topping and a bit of spice added to the soup

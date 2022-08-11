@@ -1,0 +1,37 @@
+Recipe number:
+231384.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-04-26T09:00:56.453
+helpfulCount:
+0
+userID:
+8113889
+Display Name:
+militaryman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+132
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/833961.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for my Anniversary and it was delish! I followed the recipe as written and it turned out great. I did find that it was a bit on the salty side and I think that had to do with the brand of Dark Choc. Chips I used which was not Nestle. Next time I will try Nestle Chips

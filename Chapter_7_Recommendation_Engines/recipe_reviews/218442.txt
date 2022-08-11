@@ -1,0 +1,73 @@
+Recipe number:
+218442.txt
+Review:
+Rating:
+2
+dateLastModified:
+2011-08-07T19:33:30.507
+helpfulCount:
+12
+userID:
+1311094
+Display Name:
+Javagoddess
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm so sorry--I really wanted to love this dish. I'm not very familiar with low-country cooking, but like Cajun, and all of the ingredients in this recipe, so thought this would be great. A few things that earned this a low rating: 1) Way too many steps for the end product. I think that veg and meat could be combined and steps saved. 2) I really didn't care for the red wine-okra sauce. The okra soaked up the wine, and really did not taste good. 3) Just not enough spice for so many bland ingredients (rice, eggplant), though tabasco helped at the end. 4) The bacon was just lost in the process, and added too much fat for the end result.
+I wish that I had something better to say, but I don't think that I'll be making this again.
+Review:
+Rating:
+3
+dateLastModified:
+2011-09-09T15:18:38.693
+helpfulCount:
+6
+userID:
+7646736
+Display Name:
+tiffanythecook
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I understand why some people wouldn't like this, but my family and I enjoyed trying it.  Not one of my favorites but I probably will make it sometime again.  It was a little time consuming and detailed but I'd still rate it 3.

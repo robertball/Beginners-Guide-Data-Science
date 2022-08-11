@@ -1,0 +1,32 @@
+Recipe number:
+94427.txt
+Review:
+Rating:
+1
+dateLastModified:
+05/24/2006
+helpfulCount:
+1
+userID:
+1913135
+Display Name:
+DanielleG
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My husband and I thought that it tasted way to vinegary (if that is a word).  We even tried adding a little honey to see if that would help but it did not.
+Review:
+Rating:
+3
+dateLastModified:
+07/16/2006
+helpfulCount:
+0
+userID:
+595916
+Display Name:
+JDVMD
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/408423.jpg
+text:
+Not the best recipe. Won't be making again.

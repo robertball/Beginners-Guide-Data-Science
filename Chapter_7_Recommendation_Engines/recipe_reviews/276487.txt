@@ -1,0 +1,37 @@
+Recipe number:
+276487.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-04T00:25:14.743
+helpfulCount:
+0
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1031
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found the flavor of the polenta to be too bland, but that's an easy fix.  This was easy to prepare and the topping was delicious!

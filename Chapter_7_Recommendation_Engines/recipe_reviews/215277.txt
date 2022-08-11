@@ -1,0 +1,37 @@
+Recipe number:
+215277.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-13T01:23:16.853
+helpfulCount:
+0
+userID:
+3687268
+Display Name:
+Colleen Bruce
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3797018.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this. I mixed the ingredients in the rice cooker, nixed the beef and made jerk chicken with it instead. Tasted like my favourite restaurants jollof. Thanks for sharing!

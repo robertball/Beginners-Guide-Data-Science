@@ -1,0 +1,40 @@
+Recipe number:
+256948.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-03-19T21:56:08.72
+helpfulCount:
+0
+userID:
+11819513
+Display Name:
+Saratoga Griller
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+45
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4068320.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not great unfortunately. I thought it was a long shot to turn out well, but I had some extra pizza dough about to expire and thought I'd give it a shot.  It was fun to make,
+ but it wasn't good. Not offensive or terrible, but I wouldn't make it again.
+
+If you do decide to try this I'd recommend being light handed w the filling, and don't heat the peanut butter or jelly too much. I used a little too much, plus heated it too much, and it was a little runny and as a result combined a bit too much. Still tasted like a pbj but didn't have separate layers like a sandwich would.

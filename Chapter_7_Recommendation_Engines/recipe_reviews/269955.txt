@@ -1,0 +1,72 @@
+Recipe number:
+269955.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-22T23:59:20.863
+helpfulCount:
+0
+userID:
+24627028
+Display Name:
+Ben Buehler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6035556.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty, but calculating the calories myself, this came out to only 176 calories per serving rather than 304. I added some farro to fill it out a bit more and add some more texture to it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-29T23:34:36.42
+helpfulCount:
+0
+userID:
+22343424
+Display Name:
+Galen Matson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5761672.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's hearty for a veggie stew. I added turmeric, clove, pepper, and ginger to spice it up.

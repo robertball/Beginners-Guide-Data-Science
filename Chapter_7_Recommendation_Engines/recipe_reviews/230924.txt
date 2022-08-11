@@ -1,0 +1,72 @@
+Recipe number:
+230924.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-10T17:22:09.237
+helpfulCount:
+7
+userID:
+9994737
+Display Name:
+olivia528
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was easy and quite delicious, as the bruschetta is very flavorful.  No idea what Canadian Parmesan is (the recipe comes from the Dairy Farmers of Canada), so I just used regular Italian parmesan.  I also whisked some grated parmesan into the frittata itself because I thought it might be too plain otherwise.
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-31T02:53:46.8
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and yummy. I used parmiggiano reggiano and added some fontina. These were nice for appetizers.  Thanks for the recipe.

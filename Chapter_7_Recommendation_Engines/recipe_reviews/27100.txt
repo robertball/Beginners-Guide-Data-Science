@@ -1,0 +1,37 @@
+Recipe number:
+27100.txt
+Review:
+Rating:
+4
+dateLastModified:
+2002-03-26T15:36:59.153
+helpfulCount:
+13
+userID:
+5686
+Display Name:
+Rebslo
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+199
+favoritesCount:
+480
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A quick and healthy meal.  Taste was OK, although I left out the chilis so that may have changed the recipe.  I added taco seasoning to taste with fresh garlic and some salsa.

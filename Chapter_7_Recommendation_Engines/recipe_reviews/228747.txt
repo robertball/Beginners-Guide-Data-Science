@@ -1,0 +1,37 @@
+Recipe number:
+228747.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-09-06T11:25:44.363
+helpfulCount:
+0
+userID:
+7548290
+Display Name:
+Golden Mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty blah.  I have never heard of cotija cheese and couldn't find it so substituted shredded italian blend.  Everything else I did to a T, including the radiatore pasta, and it was only so-so.  I would think any past would work.  This definitely needed more flavoring.

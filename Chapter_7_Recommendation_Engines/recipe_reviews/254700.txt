@@ -1,0 +1,37 @@
+Recipe number:
+254700.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-08-29T14:26:34.477
+helpfulCount:
+0
+userID:
+20338465
+Display Name:
+Chris Jaskowiec
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3893985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was labor intensive.   The presentation was wonderful, but somehow the recipe was lacking.   Given all the work, I would have wanted it to be excellent.   I wish it were more flavorful.

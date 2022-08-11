@@ -1,0 +1,37 @@
+Recipe number:
+270424.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-02T18:38:43.683
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1120
+favoritesCount:
+2295
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very similar to how we usually eat papaya (with lime juice and honey). The addition of balsamic vinegar scared me a bit, so I cut that back to just a sprinkle (probably more like 1 tsp). It wasn't that noticeable, so maybe it would have been fine with the entire amount, but I was afraid it would ruin it for us. I did add some toasted coconut on top, and garnished it with fresh mint. Very pretty and refreshing. I'd gladly serve this to dinner guests.

@@ -1,0 +1,37 @@
+Recipe number:
+163437.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-06-02T07:59:11.023
+helpfulCount:
+12
+userID:
+2861017
+Display Name:
+Hot Mama
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good flavor, but the marinade itself was rather thick for a light flaky fish.  Especially once cooked down.

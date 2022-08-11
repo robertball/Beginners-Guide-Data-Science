@@ -1,0 +1,37 @@
+Recipe number:
+82466.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-11-11T17:12:02.88
+helpfulCount:
+8
+userID:
+2599890
+Display Name:
+Nancy Britson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3032832.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good. I tweaked it a bit by adding a little soy sauce, lemon juice, milk, curry powder, and some sugar to the dressing.  I used light mayo as a base, but used a lot less than a cup and used honey mustard instead of yellow.  I also doubled the tuna, but I wished I had used chicken instead. I didn't have shoestring potatoes, so I just used crunched up potato chips.

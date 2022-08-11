@@ -1,0 +1,72 @@
+Recipe number:
+244408.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-25T16:07:38.187
+helpfulCount:
+5
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's official! Peaches and burrata are a perfect couple. I used saturn peaches, so I had to use more than indicated but the ratio is unimportant. If you have more of one, just use it to sop up the delicious juices on your plate. Do use raspberry vinegar, it is so fruity and tart that it gives a boost to your tastebuds. Serve with a cool glass of white wine and let the summer heat slide right by you. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-29T04:48:38.503
+helpfulCount:
+1
+userID:
+16019130
+Display Name:
+astroeducator
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+196
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7604007.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this! It's not fresh peach season, so I used sliced strawberries instead (though I suspect frozen/thawed peaches would have been really good in a pinch). Basil goes really well with strawberries and balsamic vinegar. And I drizzled the dish with 25-year aged balsamic vinegar, which has a sweetness, thickness, and fruitiness all by itself. This is definitely on my appetizer list for the future!

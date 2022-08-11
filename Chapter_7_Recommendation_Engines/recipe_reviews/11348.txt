@@ -1,0 +1,72 @@
+Recipe number:
+11348.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-11-05T09:10:49.137
+helpfulCount:
+3
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I let this chill for 24 hours, cut it and it crumbled. I didn't have time to re-chill this so I added in an egg, stuck in mini muffin cups, I pressed an indentation after baking and then filled with jam. They taste very good...
+Review:
+Rating:
+3
+dateLastModified:
+2002-03-16T16:05:28.933
+helpfulCount:
+3
+userID:
+279438
+Display Name:
+Wyoming Carol
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These did not call for enough liquid. Tried to cut them and they just crumbled. Was going to toss the dough, but worked in some orange juice and re-refrigerated them, sliced and baked and they were not too bad.

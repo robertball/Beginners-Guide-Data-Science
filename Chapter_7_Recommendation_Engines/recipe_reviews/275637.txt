@@ -1,0 +1,37 @@
+Recipe number:
+275637.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-13T16:44:28.61
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Flavor is fine but I ended up using 1/2 cup of oil to get a smooth sauce. Once the cheese was added, I couldn’t stir it. Otherwise, it was perfect.

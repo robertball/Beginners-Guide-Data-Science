@@ -1,0 +1,37 @@
+Recipe number:
+272505.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-13T21:07:09.443
+helpfulCount:
+0
+userID:
+17544176
+Display Name:
+Katy Reiling
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3277349.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious. The taste of this is great and a nice twist on comfort food.

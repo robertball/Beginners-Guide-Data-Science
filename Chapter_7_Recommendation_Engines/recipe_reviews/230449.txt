@@ -1,0 +1,107 @@
+Recipe number:
+230449.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-04T02:47:19.603
+helpfulCount:
+0
+userID:
+20331182
+Display Name:
+James Sivewright
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5367803.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe per the instructions. Very rich dessert, addictive as can be! Great with a glass of milk.
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-18T10:32:18.277
+helpfulCount:
+0
+userID:
+9918726
+Display Name:
+crystaldurairaj
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These taste like they were made in a five-star restaurant... indulgent and extraordinary. I've saved the recipe for holidays, birthdays, and special gifts.  you for an incredible recipe!
+Review:
+Rating:
+2
+dateLastModified:
+2014-05-15T17:54:15.417
+helpfulCount:
+0
+userID:
+197016
+Display Name:
+Show Low Bob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+134
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4357339.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's very expensive to make and it's too sweet to consume. I made it just as the recipe was written.

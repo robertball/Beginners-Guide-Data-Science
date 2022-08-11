@@ -1,0 +1,72 @@
+Recipe number:
+215757.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-08T11:51:07.867
+helpfulCount:
+5
+userID:
+1062301
+Display Name:
+TNCOLLEGEGIRL
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/776275.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is similar to what I do - Instead of mincemeat I use turkey or ground beef. To add more flavor, i add garlic, diced tomatos, can of mushrooms, and a shake of red pepper flakes.  Fast way to jazz up a basic jar of sauce. Top with parmesan!
+Review:
+Rating:
+3
+dateLastModified:
+2015-03-09T05:11:59.6
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+On pasta with just some cheese, I thought it was just ok. I didn't use a jar sauce but a homemade version of pasta sauce found on this website. I used canned mincemeat. Thank you kane for your recipe.

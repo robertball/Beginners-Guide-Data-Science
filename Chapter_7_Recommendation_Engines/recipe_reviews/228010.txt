@@ -1,0 +1,72 @@
+Recipe number:
+228010.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-07-21T04:37:48.263
+helpfulCount:
+5
+userID:
+7265372
+Display Name:
+cloverleaf_bella
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/813856.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super fresh and healthy. Great for vegetarians. Love it in the summer time.
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-04T01:01:32.17
+helpfulCount:
+1
+userID:
+2302740
+Display Name:
+Buff Cree Barr
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4177259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added about 1/4 teaspoon of sesame oil to my cooked noodles and added about 3 T of sweet chili sauce to my tofu. I reduced the olive oil added at the end and instead added about 4T red wine vinegar.  Fresh dill, parsley, basil, salt and pepper and some black sesame seeds at the end.

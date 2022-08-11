@@ -1,0 +1,37 @@
+Recipe number:
+273969.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-21T21:46:38.16
+helpfulCount:
+0
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6663
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as directied and the only reason I'm giving  this 4 stars is that I'm not fond of baby greens (aka weeds). Otherwise this is a great  salad.

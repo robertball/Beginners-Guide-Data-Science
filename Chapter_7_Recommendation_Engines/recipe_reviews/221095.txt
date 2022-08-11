@@ -1,0 +1,144 @@
+Recipe number:
+221095.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-09T03:00:59.45
+helpfulCount:
+3
+userID:
+23691636
+Display Name:
+Allison Bowen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5381253.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made these for a Derby party and they turned out great! Here is the mixture I used:
+4 1/2 cups sugar, 4 1/2 cups water for the simple syrup. 
+When i put it together, i used a 1.75 liter of Kentucky bourbon with the simple syrup mix. It was REALLY strong so I diluted it with 1-2 liters of club soda and 1 liter of water. A 10 lb bag of ice with the mixture in a cooler did the trick! It was delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2012-05-07T08:16:09.04
+helpfulCount:
+2
+userID:
+4836462
+Display Name:
+elizabeth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is perfect--we followed the "cook's note" and used 6 cups of water and sugar for the simple syrup.
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-01T22:36:44.107
+helpfulCount:
+1
+userID:
+23023315
+Display Name:
+Craig Ibbotson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4812384.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is close - I made 6 cups of the simple syrup, based on the comments.   I thought it was too sweet with that amount, although the original 3 cups was not sweet enough.   As you keep tasting it’s hard to judge the sweetness - I thought I had it right, then came back a few hours later to determine it was way too sweet.  People said they enjoyed it, but I had a lot leftover, which I think speaks more than words.  I found another recipe that has more exact measurements (http://www.foodnetwork.com/recipes/damaris-phillips/mint-julep-party-pitcher-2387909), I’m going to try that next time.
+Review:
+Rating:
+3
+dateLastModified:
+2014-01-01T10:19:52.923
+helpfulCount:
+1
+userID:
+2976605
+Display Name:
+k00kykelly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Worked well for New Years, but didn't go as fast as drinks from year's past. We went a bit sweeter. The feedback while good overall included a number of "strong" and "too sweet" comments. We'll experiment with adding lemon juice to the leftovers (we premixed it to avoid the recipe variation you get from filling the fountain while drunk).

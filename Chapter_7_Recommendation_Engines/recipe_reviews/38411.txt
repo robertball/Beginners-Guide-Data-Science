@@ -1,0 +1,72 @@
+Recipe number:
+38411.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-12-15T15:40:49.077
+helpfulCount:
+5
+userID:
+1679955
+Display Name:
+bonnie_lynn2001
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a little to sweet for me.
+Review:
+Rating:
+4
+dateLastModified:
+2013-11-14T11:00:20.613
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was a really nice stew. I did season the meatballs as I was making them and would suggest you do so.. also add some of the same seasonings to the soup. It tames down the sweetness of the peppers

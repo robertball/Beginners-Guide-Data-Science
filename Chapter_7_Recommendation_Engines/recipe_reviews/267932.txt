@@ -1,0 +1,37 @@
+Recipe number:
+267932.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-12T23:35:57.437
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2128
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First off, the bake time is way off. I gave the recipe the benefit of the doubt, but after only 10 mins, my granola was already getting pretty brown.  I lowered the temp to 275F and kept going, hoping for the best. I ended up taking it out at 35 mins and it was way too dark and looked and tasted burnt. Unfortunately I had to waste ingredients and toss it. I tried it a second time and this time I started it out at 275F, stirred it at 10 mins, and took it out at 20 mins. MUCH better. Next time I might even try 15 mins. Nuts and seeds brown much faster than an oat-based granola.

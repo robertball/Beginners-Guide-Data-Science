@@ -1,0 +1,72 @@
+Recipe number:
+41296.txt
+Review:
+Rating:
+2
+dateLastModified:
+2003-01-14T22:12:57.717
+helpfulCount:
+7
+userID:
+710591
+Display Name:
+TINKERBELL926
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+376
+favoritesCount:
+545
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I AM ONLY GIVING THIS TWO STARS AT THE TIME BECAUSE IT THINK IT WAS THE GROUND CLOVES I DID NOT LIKE. I WILL TRY THIS AGAIN WITHOUT THEM AND I THINK I WILL CHANGE MY RATING.
+Review:
+Rating:
+5
+dateLastModified:
+2005-08-01T20:20:22.543
+helpfulCount:
+1
+userID:
+977713
+Display Name:
+Chrissy DeCosmo Fessler
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+514
+favoritesCount:
+1750
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2992836.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were delicious. The whole family loved them. The BBQ makes this sandwich. They were super easy to make too which is always a good thing. I will make these again.

@@ -1,0 +1,37 @@
+Recipe number:
+276153.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-31T05:14:12.19
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very good. This is a lovely way to serve okra for those who don’t care for slimy texture, because this doesn’t have it. I’ll bet this would workin the airfryer. I made my own chaat masala. Don’t leave it out.

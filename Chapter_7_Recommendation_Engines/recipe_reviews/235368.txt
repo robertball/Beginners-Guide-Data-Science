@@ -1,0 +1,107 @@
+Recipe number:
+235368.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-18T01:52:15.67
+helpfulCount:
+1
+userID:
+8979108
+Display Name:
+Rana
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and the pork was so flavorful and delicious. I also like that it wasn't too complicated and used ingredients that I typically have in my kitchen. Mmmm Mmmm.
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-27T14:15:09.853
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious.. I never have cooked with brown ale before and I like it very much. I used Sweet Baby Ray's Hickory BBQ sauce. Will definitely make this again next time pork is on sale
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-29T02:25:39.81
+helpfulCount:
+0
+userID:
+145256
+Display Name:
+Cheryl Shuff Hutton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4675654.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good

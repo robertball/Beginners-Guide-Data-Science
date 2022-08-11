@@ -1,0 +1,73 @@
+Recipe number:
+219567.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-12-25T09:58:10.207
+helpfulCount:
+8
+userID:
+788118
+Display Name:
+Krista Jones
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/87128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this recipe as I was looking for a finger food to add to my christmas eve snack collection. I did not make mine into knots but rather rolled it into a log after filling and folding in half. I then sliced it into 1/2 to 1" slices and set side ways on parchment paper. I drizzled a little extra cheese ontop of each piece. 
+Overall this may be a do again but i'm not sure if it tastes as good as the picture looks or recipe sounds. Maybe next time i'll add a hint of marinara sauce before rollling.
+Review:
+Rating:
+4
+dateLastModified:
+2013-01-03T20:26:43.54
+helpfulCount:
+1
+userID:
+1912536
+Display Name:
+Drakyl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/949288.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoyed making these. I thought they needed a bit more flavour as they tasted a bit bland. Friends and family loved them. The pastry made them nice and fluffy.

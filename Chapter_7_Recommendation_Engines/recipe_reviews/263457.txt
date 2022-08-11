@@ -1,0 +1,107 @@
+Recipe number:
+263457.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-11T18:27:41.113
+helpfulCount:
+0
+userID:
+15040234
+Display Name:
+Tessisamomof3
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added a sprinkle of cocoa powder! Yumm!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-13T23:35:16.283
+helpfulCount:
+0
+userID:
+14644532
+Display Name:
+Liz Fisher
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1667032.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’m a fan of pudding and appreciate healthy alternatives!  I did replace the Almond Milk with Rice Milk due to allergies  and frozen blueberries instead of fresh, which were  a tad chewy but I’m not picky.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-09T16:08:15.897
+helpfulCount:
+0
+userID:
+706790
+Display Name:
+Stephanie Sagheb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+66
+favoritesCount:
+560
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/91818.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy and delicious!  I garnished mine with extra berries and ground flaxseed for a nice nutty flavor.

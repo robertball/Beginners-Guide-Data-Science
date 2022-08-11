@@ -1,0 +1,37 @@
+Recipe number:
+242388.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-19T19:22:12.127
+helpfulCount:
+3
+userID:
+8449119
+Display Name:
+Michael Flory
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+82
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3635020.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This came out really good!  The onions and the hot sauce helped make the patties flavorful.  There was practically no spice from the hot sauce, it was the perfect  amount to add flavor to the meat. I also cooked the patties in the pan as I cooked the bacon, so that probally helped too.

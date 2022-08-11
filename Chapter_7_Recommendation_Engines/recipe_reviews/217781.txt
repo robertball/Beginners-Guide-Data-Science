@@ -1,0 +1,217 @@
+Recipe number:
+217781.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-02T12:11:14.01
+helpfulCount:
+9
+userID:
+2732741
+Display Name:
+4givnCyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You can use whatever green chile pepper you like, or if you're not familiar with chiles start with a mild one like Anaheim and go from there.
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-11T20:29:08.37
+helpfulCount:
+1
+userID:
+9134678
+Display Name:
+Dollzie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good.  Cooked the potatoes for an additional 15 minutes before adding chicken though as they take longer to cook.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-09T22:43:19.59
+helpfulCount:
+0
+userID:
+16220099
+Display Name:
+Pawlok Dass
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+152
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2519698.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My modifications:
+- left out turmeric pwd
+- left out tomatoes as yogurt was sour enough for me
+- boiled the potatoes separately
+- used only black ground pepper - no green chillies
+- used a whole chicken (cut it up myself) instead of breasts... bone in chicken has much better flavour
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-23T16:39:29.317
+helpfulCount:
+0
+userID:
+1964788
+Display Name:
+Mary M.
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+157
+favoritesCount:
+263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this vegan by using a chicken substitute and omitting the dairy products. Otherwise, I followed the recipe as written. It was absolutely delicious with enough spice to make me happy without being too spicy for the more tender mouths in my family. Will absolutely be making this again. I think adding some bell peppers of any color might be tasty, so I will likely try that at some point.
+Review:
+Rating:
+3
+dateLastModified:
+2014-12-17T20:42:01.847
+helpfulCount:
+0
+userID:
+669958
+Display Name:
+EROCK101
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+257
+favoritesCount:
+264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/273080.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wasn't hard to cook, but the flavor wasn't quite there. Tasted like craemy chicken porridge.
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-08T11:55:13.76
+helpfulCount:
+0
+userID:
+839210
+Display Name:
+Sue Seidenspinner Durjan
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+79
+favoritesCount:
+204
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1260908.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wish I could give this 6 stars! Next time I want to serve it in a bread bowl! I did leave the tomatoes out. The only thing I had to sub was 2 tbsp butter instead of the heavy cream. Great recipe, this will be a favorite!

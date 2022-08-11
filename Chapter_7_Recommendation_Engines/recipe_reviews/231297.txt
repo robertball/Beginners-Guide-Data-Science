@@ -1,0 +1,143 @@
+Recipe number:
+231297.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-07T05:13:23.09
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't expecting this to be as good as it is. The sauce will win you over from the first bite. Even the smell will make your mouth water. Very nice recipe, thank you for sharing it with us.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-01T12:04:30.203
+helpfulCount:
+1
+userID:
+10583085
+Display Name:
+Stevenson1278
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+387
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent. I kept the ingredients the same. (Well, added a little garlic chili sauce as I only had 1/2 bottle of the ketchup-style chili sauce.) My only concern was the cooking time and that the chicken would end up too dry. To fix this, I put the oven at 400, baked the chicken for 20 minutes, pulled it out and added the sauce (spooning currents on top of chicken for very nice effect!) and put it back in for another 15 minutes. YUM! Very moist. Thanks for the awesome recipe...it is now a permanent
+fixture for my winter rotation.
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-20T18:12:35.373
+helpfulCount:
+1
+userID:
+21037640
+Display Name:
+Sam M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After reviewing the ingredient list, I wasn't sure that this would in fact be edible. But it looked simple and quick to make, so I gave it a shot, and man was I impressed. The wine, chili, and currant jelly mixed together very well, and created a very flavorful sauce. Just a quick note, we ended up with a LOT of cause left over after cooking 6 whole breasts. You should make the sauce using half the ingredients listed.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-26T04:32:48.007
+helpfulCount:
+0
+userID:
+20035938
+Display Name:
+Tom Teller
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I definitely recommend this dish, the sauce seems like a strange combination and on it's own has an interesting flavor. Once baked onto the chicken though it is a perfect addition to the dish and makes this quick and easy meal something I will definitely have again.

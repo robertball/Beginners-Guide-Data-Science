@@ -1,0 +1,38 @@
+Recipe number:
+272987.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-05T19:39:42.6
+helpfulCount:
+2
+userID:
+7722271
+Display Name:
+RainbowJewels
+isPro:
+False
+followersCount:
+305
+followingCount:
+0
+madeRecipesCount:
+441
+favoritesCount:
+629
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3447701.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as directed. It was very sweet and refreshing. I did find it a touch too boozy for my personal taste, so I ended up diluting it a little more with the club soda. You could also just cut back on the rum according to what you like. 
+My watermelon wasn't super ripe yet, so I definitely needed the full amount of simple syrup, but if you have a really ripe one add half of the syrup and do a taste test, you may not need it all.

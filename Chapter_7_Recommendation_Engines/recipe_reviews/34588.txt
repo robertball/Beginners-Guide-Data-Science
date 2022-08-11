@@ -1,0 +1,72 @@
+Recipe number:
+34588.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-09-09T20:14:30.923
+helpfulCount:
+3
+userID:
+3502873
+Display Name:
+kellieann
+isPro:
+False
+followersCount:
+205
+followingCount:
+0
+madeRecipesCount:
+1092
+favoritesCount:
+1761
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/843887.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good. I subbed parmesan for the fontina and I used a fresh garlic ceasar dressing. This made a LOT of salad, it made 6 servings for us.
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-15T03:08:24.533
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+222
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a nice mix of veggies.  I used parmesan cheese and Caesar dressing. It was a filling salad for dinner.

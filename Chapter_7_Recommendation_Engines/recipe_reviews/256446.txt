@@ -1,0 +1,37 @@
+Recipe number:
+256446.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-31T04:23:06.307
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wimped out on the raw egg and used whipped cream instead. Made this for my husband and he really liked it. He did say that he would have preferred it with less honey. Word of advice, get your zest prior to slicing it up for the juice you need. I forgot to do so and my zest was more in clumps than evenly distributed over the cream as it should have been. This drink would be excellent if you had a cold.

@@ -1,0 +1,72 @@
+Recipe number:
+153154.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-21T15:12:16.783
+helpfulCount:
+1
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1637
+followingCount:
+0
+madeRecipesCount:
+778
+favoritesCount:
+1386
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoyed this!  It is a bit of a sweet drink, but I enjoyed it, nonetheless.  It's probably not something I'd make again, but it was a nice change of pace.  THANKS for the recipe, Dudelander!
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-13T02:01:09.7
+helpfulCount:
+0
+userID:
+3547659
+Display Name:
+Amy Kress Taylor
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2469552.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A refreshing summery cocktail.

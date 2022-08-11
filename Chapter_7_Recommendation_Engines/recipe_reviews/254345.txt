@@ -1,0 +1,143 @@
+Recipe number:
+254345.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-04T02:52:54.813
+helpfulCount:
+0
+userID:
+22076369
+Display Name:
+Jivko J
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is the third time i am making it and it is amazing every time. love it 
+j
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-04T22:11:44.46
+helpfulCount:
+0
+userID:
+7366627
+Display Name:
+Mary J. Gatslick
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4497484.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good addition to my Vegetarian repertoire. Looks so beautiful. Tasted delicious too.   I definitely will be making it again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-01T21:18:42.643
+helpfulCount:
+0
+userID:
+11198118
+Display Name:
+Megan Noel Baker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good.  My husband didn't miss the meat, which is unusual for him.
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-12T01:42:56.837
+helpfulCount:
+0
+userID:
+6158127
+Display Name:
+Kara D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1729030.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, simple. I tweaked my recipe quite a bit to match family tastes for meat sauce, and we had GF lasagna for days!

@@ -1,0 +1,107 @@
+Recipe number:
+7944.txt
+Review:
+Rating:
+2
+dateLastModified:
+2000-07-14T16:32:24.497
+helpfulCount:
+32
+userID:
+9046
+Display Name:
+rlc7777
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+183
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Kind of dense and not alot of flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2011-01-23T14:53:29.34
+helpfulCount:
+22
+userID:
+548043
+Display Name:
+Carol Bilbao
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+783
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3616326.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I modified this a bit ~ used the white cake mix, 1/2 c of applesauce, 1 c of water, the extracts listed and added 1 tsp of lemon extract and used 1/2 c egg whites instead of egg substitute. I baked for 35 minutes then poked with a fork and glazed with a mixture of 1/4 c sugar and 1/3 c lemon juice simmered until sugar was dissolved (poured over while cake was still warm). Good base recipe for something low-fat, thanks for sharing!
+Review:
+Rating:
+3
+dateLastModified:
+2013-03-30T05:26:33.687
+helpfulCount:
+1
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I do not keep egg substitute on hand--what I did was use enough egg whites to equal a quarter cup, then added plain applesauce up to a half cup. This was okay. I frosted this with a whipped cream frosting (one tub whipped topping, one package sugar free cheesecake pudding, half cup lowfat milk) which helped it some. Even so, the family wasn't too enthused about the cake itself.

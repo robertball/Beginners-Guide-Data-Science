@@ -1,0 +1,47 @@
+Recipe number:
+257022.txt
+Review:
+Rating:
+5
+dateLastModified:
+09/07/2019
+helpfulCount:
+0
+userID:
+26035876
+Display Name:
+Kin'tel
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6965424.jpg
+text:
+I’m an amateur when it comes to the kitchen...I followed this recipe as is and the cake was delicious...thanks for sharing this one!
+Review:
+Rating:
+5
+dateLastModified:
+12/26/2019
+helpfulCount:
+0
+userID:
+24570520
+Display Name:
+Jevon Duncan
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8136608.jpg
+text:
+Made this recipe for an office party and everyone loved it. Thanks for sharing this recipe they re begging me to Make another one.
+Review:
+Rating:
+5
+dateLastModified:
+04/13/2020
+helpfulCount:
+0
+userID:
+27332089
+Display Name:
+Angie Bryant
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7963974.jpg
+text:
+This cake is so delicious and super moist and I didn’t even use all sugar that was required!!

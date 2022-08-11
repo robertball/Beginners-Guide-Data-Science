@@ -1,0 +1,108 @@
+Recipe number:
+237276.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-02-02T22:56:41.063
+helpfulCount:
+0
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made some changes to the flours in this recipe, so I can't give it a fair rating, but I like to post what didn't work out so others don't make the same mistakes that I did.  I used a GF flour mix with white rice, tapioca, and sweet rice instead of brown rice and sweet rice. I used teff grains instead of teff flour. I omitted the nuts. I also accidentally used 1 tsp vanilla instead of 1 Tbsp. My batter was soupy and the waffles rubbery. I added 1 C more GF flour, and that helped the texture. In the future, I'd reduce the amount of milk. It for sure needs salt, at least 1/2 tsp, I think.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-12T16:36:57.34
+helpfulCount:
+0
+userID:
+11586979
+Display Name:
+sanpasi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very moist! nice waffle!
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-23T17:31:46.427
+helpfulCount:
+0
+userID:
+6767358
+Display Name:
+Lillie Passwaiter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/753223.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this recipe with one change as I didn't have any teff flour and never heard of it until seeing it in this recipe. I used corn meal and almond milk. 
+Sprayed the waffle iron with "Pam Baking spray" and the waffles came out very good. They were a little crumbly but had a delicious taste and nice and brown. Maybe the Teff flour would help them hold together better?

@@ -1,0 +1,72 @@
+Recipe number:
+12366.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-03-18T05:42:46.847
+helpfulCount:
+7
+userID:
+3243554
+Display Name:
+LMF443
+isPro:
+False
+followersCount:
+36
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+132
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/416193.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really tasty!  I made two and brought them to two separate dinner parties and in both situations people asked for the recipe.  It was my first attempt at a "cheesecake" so I'm sure I made a few mistakes along the way.  It split like crazy but that might have had something to do with the way I cooked it.  I used my homemade crust so the baking had to be a little different.  I baked at 450º for the first 10 minutes, and then cooked it the rest of the way at 250º.  But who cares if there are cracks when you are just going to cover it with green whipped cream anyway?  At the end I couldn't resist putting a couple of drops of peppermint extract into the whipped topping because there is just something about chocolate, cream, and mint I love!  Finally I garnished it with some green colored sugar right before I served it.  Very good taste and great texture.  Definitely silky!
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-19T11:16:25.43
+helpfulCount:
+1
+userID:
+3316399
+Display Name:
+Mrs. Ramdog
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+189
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This has been a St. Patty's day staple in our house since I was little so I was thrilled to come across this recipe.  My mom recently started substituting 1/4 cup milk w/a 1/2 tsp peppermint extract for the Irish Mist in the filling, then another 1/2 tsp peppermint extract in the topping since we don't like to drink the liquer and it's a little pricey.  However, this is my favorite version and I think it's worth the splurge!

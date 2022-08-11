@@ -1,0 +1,37 @@
+Recipe number:
+263028.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-21T04:34:46.407
+helpfulCount:
+0
+userID:
+25331207
+Display Name:
+Emil Lopez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6470621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was ok. But its different from the original steamed fried rice from cebu

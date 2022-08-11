@@ -1,0 +1,109 @@
+Recipe number:
+220904.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-14T16:12:12.84
+helpfulCount:
+9
+userID:
+10408879
+Display Name:
+hoboat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just tried it. If you're not a fan of goat cheese you'll need to omit it from the recipe as it will overpower everything else in the dish. I doubled the shrimp since 1/6 pound/person seemed a little light. Might go 2 1/2 pounds next time.
+
+With the exception of the shrimp, the proportions of the ingredients where great. Nice consistency, good presentation and very filling. Ours was served with a side of chilled asparagus.
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-14T07:21:26.543
+helpfulCount:
+2
+userID:
+1294272
+Display Name:
+Laura Bloomer Hoerth
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+62
+favoritesCount:
+441
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1209607.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoyed this recipe.  I prepared exactly as directed and wished it had a bit more flavor, but overall it was a nice, comforting dish. Next time, I would add more cheese and maybe a little red pepper flake for some heat.  I needed to add quite a bit of salt to add flavor.  Perhaps I will try the recommendation of cooking the grits in chicken stock next time to see if that adds more flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-13T03:35:58.687
+helpfulCount:
+0
+userID:
+20362998
+Display Name:
+Ann Loveless
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5734458.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and even better the next day when the flavors melded.

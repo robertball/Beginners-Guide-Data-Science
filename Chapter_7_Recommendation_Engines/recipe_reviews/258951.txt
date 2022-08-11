@@ -1,0 +1,73 @@
+Recipe number:
+258951.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-04T20:57:14.51
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved these.  I didnt have whole wheat bread crumbs so I used what was in the cupboard.  Golden beets may be a little tricky to find.. I only found them in organic vegetable area, not with regular vegetables. The almonds were the best part of the trail mix I used in the burger so next time I will use a higher ratio of those I think..  I had these cold too during 110 degree weather.. yum
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-09T02:12:12.933
+helpfulCount:
+0
+userID:
+24366952
+Display Name:
+Mike Nedrow
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5847958.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As this recipe is, the burgers are too mushy. I do really like the taste, though! I gave it 4 stars only with the following changes.
+Use only 1-1/2 cups mashed sweet potatoes. Drain the beets. I think these two mod's will provide for a firmer burger. Other than that, they are delicious!

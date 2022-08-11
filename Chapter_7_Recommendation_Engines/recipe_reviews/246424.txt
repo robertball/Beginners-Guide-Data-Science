@@ -1,0 +1,37 @@
+Recipe number:
+246424.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-21T08:16:23.287
+helpfulCount:
+2
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+774
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3988
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The veggies have the predominant flavor in this smoothie, particularly the cucumber. However, the fruits "brighten" up the flavor, giving it a fresher quality. I needed to add some stevia to truly enjoy it for my breakfast.

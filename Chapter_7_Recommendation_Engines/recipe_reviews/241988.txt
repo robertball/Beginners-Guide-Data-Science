@@ -1,0 +1,37 @@
+Recipe number:
+241988.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-24T22:58:42.903
+helpfulCount:
+1
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good and tasted better than it looked. Maybe some alterations would help. Definitely did not need to be in the oven for 30-40 minutes. 25 would be good.

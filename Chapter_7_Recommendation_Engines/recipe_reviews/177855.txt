@@ -1,0 +1,109 @@
+Recipe number:
+177855.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-03-05T09:31:20.763
+helpfulCount:
+9
+userID:
+2845283
+Display Name:
+Emily Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+189
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First of all, the picture is wrong for this recipe, but anyways...  For as quick and easy as this dish is, it really is yummy.  I seasoned the meat really well with spices salt, pepper, garlic powder, etc and had to add another can of tomato soup.  I also had to throw in a LOT more chili powder and cumin to give it flavor, and it was still no where near spicy, so definitely add according to your taste.  This is more than worth the short time it takes for a quick and tasty dinner.
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-27T15:37:47.8
+helpfulCount:
+5
+userID:
+5970251
+Display Name:
+nad
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very simple and so tasty!! 
+The only change i had to make was to add two cans of soup instead of one. 
+Other than that, this is wonderful! I make it all the time ;)
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-12T17:28:09.6
+helpfulCount:
+4
+userID:
+9010871
+Display Name:
+Shannon Hoague
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+147
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3692904.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5 stars with the adjustments I made.  I actually used a full pound of ground beef.  Added a pinch of cumin and cilantro. Added just about a half can of rotel with liquid (my husband doesn't like tomatoes), added about half a package of onion soup mix.  In the last 10 minutes I added about a half cup of quick cook rice to soak up some of the liquids.  This was super hearty and slightly on the spicy side but not too much.

@@ -1,0 +1,107 @@
+Recipe number:
+275987.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-01T23:20:25.65
+helpfulCount:
+0
+userID:
+13544529
+Display Name:
+Dan Swink
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1777534.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is very  good,
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-27T17:44:13.793
+helpfulCount:
+0
+userID:
+9170959
+Display Name:
+Di
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No  changes, delicious will definitely make again!
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-10T14:28:43.767
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+190
+followingCount:
+0
+madeRecipesCount:
+534
+favoritesCount:
+696
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The risotto was perfect texture, but I found it to be very bland. I should have trippled the flavors for this recipe. I would make it again and follow the steps exactly, but increase all favlors.

@@ -1,0 +1,107 @@
+Recipe number:
+151542.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-03T13:20:06.633
+helpfulCount:
+30
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1661
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe exactly according to directions only adding a teaspoon of vanilla to the cake part (I subtracted a teaspoon of water from the recipe so it wouldn't affect the outcome). I didn't have candy coated chocolate pieces for the top but I did have peanuts so I just went with the peanuts. Very pretty looking bar cookie and quite simple to make. My husband and kids thought this bar recipe was great. Very peanut butter-y. I think the chunky peanut butter and the peanuts on top made this recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2009-10-24T12:22:09.783
+helpfulCount:
+4
+userID:
+4119243
+Display Name:
+ROCK N ROLL
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/285852.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+SOUNDS GOOD , (HERES A TINY LITTLE TIP YOU MIGHT WANT TO TRY ADDING A PICTURE PEOPLE LIKE TO SEE WHAT IT WILL TURN OUT TO BE OR THEY MIGHT NOT TRY IT) HAVE A GOOD DAY-ROCK N ROLL
+Review:
+Rating:
+4
+dateLastModified:
+2014-03-03T10:17:05.507
+helpfulCount:
+0
+userID:
+1973399
+Display Name:
+Wendy Fl.
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/17.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+These were good, and easy to make. Kids love these!

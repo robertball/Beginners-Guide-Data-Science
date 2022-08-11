@@ -1,0 +1,72 @@
+Recipe number:
+242167.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-04T23:51:52.733
+helpfulCount:
+0
+userID:
+14429831
+Display Name:
+Athena Rose
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+78
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1666756.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I so enjoyed this! thank you for sharing it
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-25T01:57:27.35
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2460
+favoritesCount:
+2263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not sure if I was supposed to but I used the flavor packet in the only wild rice I could find and I loved it. The cardamom was the part I did not like. I don't think it was necessary. Good recipe and one that would go GREAT with wild game such as duck or venison.

@@ -1,0 +1,72 @@
+Recipe number:
+272453.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-10T22:54:34.197
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and these are really good. My only complaint is in the onions. They didn't get near cooked but cooking them longer would have gotten the peppers overcooked. I recommend cooking them a few minutes by themselves prior to adding the peppers. Overall good recipe and one I would make again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-30T18:10:57.703
+helpfulCount:
+0
+userID:
+3131233
+Display Name:
+Angelika
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+107
+favoritesCount:
+218
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/183427.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were very tasty and although we didn't use monterey jack cheese, there was still tons of flavor to go around! I like my food spicy so I heaped in some extra seasonings. This recipe taught me that swai is a versatile and tasty fish, and I keep finding it for a steal at my local store so I'm happy to add this to my rotation of midweek dinners! Thank you!

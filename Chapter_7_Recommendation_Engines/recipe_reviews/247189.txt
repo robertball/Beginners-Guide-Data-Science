@@ -1,0 +1,107 @@
+Recipe number:
+247189.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-18T10:54:39.747
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank goodness your grandma revealed this secret. Super creamy and super-duper delicious indeed. Don't change a thing. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-16T01:29:07.787
+helpfulCount:
+1
+userID:
+3395151
+Display Name:
+rita
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+555
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with some apples I had to use up,so glad that I did.This is really good and the only thing I added was some cinnamon.Thanks for your recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-08T15:20:43.997
+helpfulCount:
+1
+userID:
+2772033
+Display Name:
+Josephine Roeper
+isPro:
+False
+followersCount:
+159
+followingCount:
+0
+madeRecipesCount:
+1270
+favoritesCount:
+2628
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1902560.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Scaled up to 28 servings to make 8 cups. I will be using the applesauce in baked goods so I will update my review once I know how compatible it is with other recipes. As is, the applesauce is very tart with just a hint of honey. Personally, I wouldn't eat it this way. *** UPDATE*** Used with Pumpkin Muffins with Streusel Topping off AR. Tasted great and I'm glad I chose an applesauce recipe with no sugar in it.

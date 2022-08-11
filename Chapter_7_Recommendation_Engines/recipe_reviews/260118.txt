@@ -1,0 +1,37 @@
+Recipe number:
+260118.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-17T00:57:19.097
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were fun and we really liked them. I chose to use mild Italian sausage in place of breakfast sausage because it only made sense to me. You don't even need the milk. Water work just fine. I already plan on making these again but next time I will add some mushrooms and olives to the filling.

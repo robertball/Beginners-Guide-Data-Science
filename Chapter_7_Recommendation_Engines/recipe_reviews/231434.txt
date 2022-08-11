@@ -1,0 +1,107 @@
+Recipe number:
+231434.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-03-25T20:09:49.293
+helpfulCount:
+3
+userID:
+6277505
+Display Name:
+theparsley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+967
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty good, but the flavor was not unique enough to warrant the 2 hours+ it took to cook in my opinion. Somehow my rice took longer to cook than directed and I had to keep adding more coconut milk. You could not taste the five-spice at all; I would perhaps double it. I ate mine without cheese but my husband thought the pepper jack made for a strange combination. We both kept adding salt. I like the idea of this recipe but will not make again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-17T03:08:20.897
+helpfulCount:
+0
+userID:
+22132112
+Display Name:
+Nikole Sherman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are definitely the best stuffed peppers I have ever had. I didn’t cooked the onion for an hour only about 10 minutes and added more of the Chinese spice to the rice mix. The total cook time was about 75 minutes.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-28T04:00:53.67
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good combination with the turkey, coconut, and pineapple. Needed a little more taste to it though. I used shredded monterey jack cheese and would probably change that next time. Will make again!

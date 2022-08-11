@@ -1,0 +1,72 @@
+Recipe number:
+238033.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-03T02:36:42.543
+helpfulCount:
+1
+userID:
+10906019
+Display Name:
+Wynter Skye
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+433
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6846479.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This tasted so good! My husband, who normally doesn't comment on food, said it was really good after the first bite then said it again a few bites later. When he was finished eating dinner he said he had to have one more helping because it was "calling to him".
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-04T00:24:18.8
+helpfulCount:
+0
+userID:
+26575581
+Display Name:
+David
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everyone loved this recipe. I will be making it again!!!!

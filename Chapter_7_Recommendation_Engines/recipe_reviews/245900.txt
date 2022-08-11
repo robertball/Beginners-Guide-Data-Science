@@ -1,0 +1,72 @@
+Recipe number:
+245900.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-24T10:07:34.167
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe as written and this was super fun! I do not care for cornbread but made this for my husband. I did take a nibble but left the verdict up to the husband. I didn't care for the corn but he liked it. The one thing we agreed on is that it could use a tad bit more sugar. Other than that, this was perfect! These are super fun and make a wonderful presentation.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-16T23:22:02.3
+helpfulCount:
+1
+userID:
+4552495
+Display Name:
+charm
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+615
+favoritesCount:
+1475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6040593.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an excellent savory waffle recipe.  I did mix all the ingredients together and then fold in the egg whites instead of starting with the whites because that's how I think waffles are made.  I used my waffle bowl maker and served a waffle bowl buffet with bacon, chicken, cheese, etc.  Delicious!

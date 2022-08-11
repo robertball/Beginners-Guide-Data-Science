@@ -1,0 +1,143 @@
+Recipe number:
+244454.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-14T20:09:24.317
+helpfulCount:
+1
+userID:
+11208956
+Display Name:
+schulz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good, quick and easy. I also agree with the other reviewer that it needed Pineapple. I added fresh pineapple slices to mine instead of the tomato.
+Review:
+Rating:
+2
+dateLastModified:
+2017-10-07T01:04:40.31
+helpfulCount:
+0
+userID:
+21623426
+Display Name:
+Gary G.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+269
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+was just so so not as I expected at all.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-22T03:33:17.313
+helpfulCount:
+0
+userID:
+21678366
+Display Name:
+Katherine Liew-Tan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so super easy to make and so delicious! My son is a picky eater and he asked for second helping.
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-03T15:30:18.133
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12229
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These really tired to fall apart while grilling.  I chilled the formed patties because they seemed too moist, not sure if that helped or not.  They were hard to turn and without exceptional care would have become fuel for the fire.  
+The taste was great.  Hubby asked where the grilled pineapple was.  Opps, next time!

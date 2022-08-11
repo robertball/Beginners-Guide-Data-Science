@@ -1,0 +1,37 @@
+Recipe number:
+222753.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-19T17:48:40.323
+helpfulCount:
+4
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8908
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had 3 pears that needed to be used up, and this recipe fit the bill. I scaled this down to 4 servings. I didn't have a can of sour cherries on hand, but I did have some dried cherries. I just soaked them for about 20 minutes in hot water, and then drained.  Worked great! I really liked the pear/cherry combination. I baked mine in ramekins for 30 minutes. Thanks!

@@ -1,0 +1,37 @@
+Recipe number:
+220829.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-11T01:39:40.777
+helpfulCount:
+0
+userID:
+21784582
+Display Name:
+Terri Ward
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with salmon and improvised a white sauce I so I could use all the juices of the morel mushrooms. It was fantastic. The parchment puffed up so nicely with the straw method. I would make this again. It shows as an elegant entree but is very easy.

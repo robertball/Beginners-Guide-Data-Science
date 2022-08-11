@@ -1,0 +1,142 @@
+Recipe number:
+265333.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-11T22:58:46.547
+helpfulCount:
+0
+userID:
+22799940
+Display Name:
+AK Drummonds
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6277523.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added a few more spices that I found on other recipes and served with corn bread muffins. It was great!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-06T21:27:33.663
+helpfulCount:
+0
+userID:
+10983539
+Display Name:
+Jean Levesque
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7452555.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This dish was very good!  It’s hearty and filling.  I did add another can of diced tomatoes and it could have used more beans as someone else mentioned.  I also added some leftover quinoa which made it thicker and hearty!  It could have used a little more salt but you can salt and pepper to taste.  It’s a keeper!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-03T22:43:40.54
+helpfulCount:
+0
+userID:
+11225567
+Display Name:
+Karen Waldron
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7319648.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for the first time in the crock pot and it came out great, just like in my Le Cruset.   I do not use any peppers as I am allergic.  But even so it still comes out really well.  I change it up a bit each time, sometimes using butternut squash in place of sweet potato.  I prefer things more savory than sweet, so will omit OJ if I use sweet potato.   I also tend to double the tomato and beans.  such a great recipe base.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-12T22:46:46.66
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+187
+followingCount:
+0
+madeRecipesCount:
+530
+favoritesCount:
+692
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavors of the sweet potatoes and orange juice makes this chili taste different than most. It doesn't have that deep rich tomato flavor and it was a nice change to my usual chili recipes. I used the slow cooker on low for 7 hours.

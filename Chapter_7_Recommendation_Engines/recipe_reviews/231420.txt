@@ -1,0 +1,37 @@
+Recipe number:
+231420.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-08-14T17:26:59.427
+helpfulCount:
+1
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+423
+followingCount:
+0
+madeRecipesCount:
+1034
+favoritesCount:
+1861
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really expected more spice out of this recipe, it was surprising how mild it wound up being.  I used chicken breast rather than a whole chicken.  Wouldn't make again, but it wasn't bad.

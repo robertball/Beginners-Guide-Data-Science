@@ -1,0 +1,72 @@
+Recipe number:
+245992.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-25T16:24:32.693
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!!  I made the dressing exactly as written but improvised on the vegetables. I suggest adjusting method a bit though. I would mix half the dressing with the noodles. Then, I would toss the vegetables with the other half of the dressing. As written, the noodles soak up the dressing and it's difficult to get an evenly distributed salad. I think the flavor is wonderful and I don't like orange.  Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-13T15:40:39.66
+helpfulCount:
+1
+userID:
+17648425
+Display Name:
+Jill
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and easy. I think I used a little too much miso because it was a bit salty. I will definitely make it again, maybe today.

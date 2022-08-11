@@ -1,0 +1,37 @@
+Recipe number:
+240628.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-04T19:31:53.45
+helpfulCount:
+0
+userID:
+25942236
+Display Name:
+Lmjinfla
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had some goat milk that I wanted to use, and came upon this recipe.  I started this in a saucepan, and very quickly changed to a dutch oven type pot.  When this first starts to boil, it will boil up fast, and can potentially make a huge mess on your stove.  Use a pot much bigger than you'll think you'll need.  The mixture took about 20 minutes to reach 245 degrees, and yes, it's a LOT of stirring, but well worth it!  It's a very tasty fudge!!!

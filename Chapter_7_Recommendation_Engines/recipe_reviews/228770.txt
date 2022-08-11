@@ -1,0 +1,214 @@
+Recipe number:
+228770.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-16T00:09:43.93
+helpfulCount:
+1
+userID:
+24230267
+Display Name:
+Alanna Little
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5754857.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made some changes to this recipe because it didn’t seem hearty enough. I added chicken, cream, and cheese  after cooking the broccoli and onion in a slow cooker for four hours. I found it more filling and flavorful after. Fair warning, when you cook just the broccoli and onion it smells really bad. It smelled and tasted better after blending and adding the cream and cheese. Probably will top with more cheese and it can certainly stand to hold more chicken as well.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-06T23:36:07.293
+helpfulCount:
+0
+userID:
+14432488
+Display Name:
+MarkandSusie McGuire
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1536524.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added a few tablespoons of lime juice rather than the lemon juice. Also added a stalk of celery and a carrot. We loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-16T04:18:22.203
+helpfulCount:
+0
+userID:
+4863833
+Display Name:
+Dori
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5224758.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my family and everyone loved it. My kids, who don't particularly like broccoli, not only loved this soup, they asked for seconds. 
+I calculated the ingredients I used and each serving (if your pot makes 6 servings) is approximately 15 grams of net carbs.
+This recipe will definitely be added to the monthly rotation!
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-22T01:07:15.95
+helpfulCount:
+0
+userID:
+6896143
+Display Name:
+M. Cricket 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious but I skipped the lemon juice entirely and added two stalks of celery. I chopped two heads of broccoli...not sure how much they weighed but it wasn't too thin. Was delicious without the cheese. Will skip salt in the future, as well. Love how low calorie this is. Amazing recipe-- well done!
+Review:
+Rating:
+3
+dateLastModified:
+2016-03-09T16:54:17.473
+helpfulCount:
+0
+userID:
+17609007
+Display Name:
+Shannon Marie Burr
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3315940.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too much lemon. I was the only one that ate but I enjoyed it!!! Will play around with the ingredients!
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-15T15:06:32.597
+helpfulCount:
+0
+userID:
+17157144
+Display Name:
+Doug Purdy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3051111.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This came out great. I threw in some left over cooked cauliflower too and it was great. I used 1/8 cup lemon juice and it was great. It gave it a nice flavor. Will definitely be making this again.

@@ -1,0 +1,37 @@
+Recipe number:
+148168.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-05-26T23:50:44.89
+helpfulCount:
+6
+userID:
+1917973
+Display Name:
+LML
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+114
+favoritesCount:
+180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a lot of stuff to have on hand for a cocktail, but we tried it this weekend and wow was it good!! The layers make a pretty drink. Couldn't do too many of these.

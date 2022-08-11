@@ -1,0 +1,37 @@
+Recipe number:
+228986.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-05-16T14:40:22.07
+helpfulCount:
+0
+userID:
+3883699
+Display Name:
+moaa
+isPro:
+False
+followersCount:
+110
+followingCount:
+0
+madeRecipesCount:
+727
+favoritesCount:
+1342
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/586780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Found this to be an interesting combo but didn't really care for the overall taste.  Using cooked shrimp can be a convenience, but if you are seeking for a fresh tasting salad, put a little more effort and cook fresh shrimp.  That way, you won't be biting into a rubberish shrimp.  I used spanish olives because I didn't want to open up a can of black olives, however, I wouldn't add it next time.  I also whisked in minced red onions with the vinegar/oil dressing for a little boost on flavor.

@@ -1,0 +1,37 @@
+Recipe number:
+261558.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-02T16:51:46.967
+helpfulCount:
+1
+userID:
+14695013
+Display Name:
+Jodi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+156
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a definite winner! The only change I made was to cut the bay down to 2 leaves and only shred the meat I was going to use that night. It makes quite a lot. I also made my own Spanish rice recipe as it’s much easier. I have already made this recipe twice it’s that great ??

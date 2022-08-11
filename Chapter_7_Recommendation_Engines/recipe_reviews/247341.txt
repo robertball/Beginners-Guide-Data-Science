@@ -1,0 +1,72 @@
+Recipe number:
+247341.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-26T06:24:05.493
+helpfulCount:
+1
+userID:
+6951748
+Display Name:
+Ingrid Ferreira
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made lamb as the main dish of our Christmas dinner,  this dish complemented the lamb in  wonderful way. Everyone loved it!
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-13T23:23:35.593
+helpfulCount:
+0
+userID:
+7502436
+Display Name:
+Smurfetteski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5493898.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and tangy! Pairs nice as a sauce for hot noodles, brown rice, or quinoa as well as crackers.

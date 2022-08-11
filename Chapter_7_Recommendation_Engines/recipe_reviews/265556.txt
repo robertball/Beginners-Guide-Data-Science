@@ -1,0 +1,72 @@
+Recipe number:
+265556.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-12T03:55:28.21
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great overall soup base! The best part is adding different spices for every day of the week to change up the flavor profile. If you want noodles in your soup, break them up small enough that they "cook" in the time it takes to reheat the soup. I also recommend using veg or chicken broth instead of water for extra flavor. The possibilities here are endless.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-11T01:05:42.247
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+190
+followingCount:
+0
+madeRecipesCount:
+531
+favoritesCount:
+696
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great base soup! I used lentils, Italian Seasoning, and about 6 cups of water. I accidentally let it run 4 hours on high, but it was fine.

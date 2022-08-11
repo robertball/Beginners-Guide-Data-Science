@@ -1,0 +1,76 @@
+Recipe number:
+11200.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-21T16:41:00.84
+helpfulCount:
+4
+userID:
+4536409
+Display Name:
+toomanycooks
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+1614
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/594768.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you!  This is the closest thing I've ever found to my grandmother's recipe.  She was German, though I don't know whether the recipe was or not, since she got a lot of recipes from friends over the years.  Instead of rolling out and cutting the dough, I rolled the dough into 3 dozen balls (not quite 1 inch diameter) and flattened them with my palm.  If you want the cookies crispy the whole way through (and you do!), bake them on a baking stone until the edges are lightly browned and leave them sit on the stone for a minute or two after you remove them from the oven.  These cookies made my day!
+Review:
+Rating:
+5
+dateLastModified:
+2012-02-25T18:02:03.403
+helpfulCount:
+2
+userID:
+8469375
+Display Name:
+Mirshe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were amazing!! A definite keeper....I made a few adjustments to accomodate my pantry and son's egg allery.
+
+Used whole wheat flour
+Reduced sugar to half cup
+Replaced the egg with 1 tablespoon yogurt.

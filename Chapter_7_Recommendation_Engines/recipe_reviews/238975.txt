@@ -1,0 +1,37 @@
+Recipe number:
+238975.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-26T16:48:18.1
+helpfulCount:
+1
+userID:
+21551943
+Display Name:
+JKB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! It's the first time I cut butter into flour, and the result was light and fluffy even though it was whole wheat. I used frozen wild berries that were picked on my grandma's land a couple of years ago, and made 4 cups of the berry and sugar mixture. I saved extra for spreading on biscuits or toast!

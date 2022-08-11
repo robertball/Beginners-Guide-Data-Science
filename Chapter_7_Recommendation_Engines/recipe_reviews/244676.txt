@@ -1,0 +1,107 @@
+Recipe number:
+244676.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-12T19:32:21.417
+helpfulCount:
+3
+userID:
+21467543
+Display Name:
+Charlie Allen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After reading the other reviews, I added a generous amount of orange juice ( 250-400ml?) and about 100ml of water and stirred before putting into the oven for an hour. Millet softened and it tasted great with vanilla soya yogurt!
+Review:
+Rating:
+3
+dateLastModified:
+2015-09-13T01:05:27.083
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like the idea of a two-ingredient anything especially when neither of those is sugar. The only issue I had was the millet never got soft, but always have that crunchy edge to it. I added the cinnamon directly into the mixture before baking. It took a lot longer than 90 minutes for me. I used a Jonagold apple that I shredded with a spiral vegetable cutter and followed the recipe exactly. I ended up mixing the leftover with some warm milk making a breakfast cereal out of it the next day. Thank you for the recipe.
+Review:
+Rating:
+2
+dateLastModified:
+2016-01-05T02:31:19.367
+helpfulCount:
+0
+userID:
+17188128
+Display Name:
+TammitT
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the idea of this recipe but was disappointed.   I had the same problem as the other reviewer, the millet never softened even though I followed the recipe exactly.

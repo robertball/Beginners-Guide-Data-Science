@@ -1,0 +1,73 @@
+Recipe number:
+139305.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-10-05T17:16:28.453
+helpfulCount:
+8
+userID:
+2385232
+Display Name:
+Emma McFarland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5181283.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this.  The only changes i made was omit the celery and onion, as I'm not a fan, but everything else was great.  My boyfriend liked it, but not loved it as he isn't a big seafood fan, and suggested next time for me just to put in the squid and no other seafood.  I plan to make this a regular meal for me whenever my boyfriend is away.
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-05T05:53:26.1
+helpfulCount:
+2
+userID:
+804007
+Display Name:
+VIVNIDHI
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1680
+favoritesCount:
+1524
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just made the polenta according to the recipe. Was quite nice.
+Tried with veggies also. Nice and even better with crisped up polenta.

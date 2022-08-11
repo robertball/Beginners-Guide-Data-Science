@@ -1,0 +1,72 @@
+Recipe number:
+242219.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-30T23:10:45.46
+helpfulCount:
+1
+userID:
+18167003
+Display Name:
+kim
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very moist! Cooked about 4 minutes longer. Did not have almond milk on hand, so I used soy milk. Nice way to use up an abundance of kiwi I grew this year.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-22T13:32:34.01
+helpfulCount:
+0
+userID:
+12711751
+Display Name:
+Erica Siebert Mulligan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6131119.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were delicious! I not only added kiwi but also strawberry for a little extra sweet.

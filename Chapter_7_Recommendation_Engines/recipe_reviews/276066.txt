@@ -1,0 +1,37 @@
+Recipe number:
+276066.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-23T16:20:15.35
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8905
+followingCount:
+0
+madeRecipesCount:
+1113
+favoritesCount:
+2273
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made these as directed, but dipped only half in the white chocolate, and the balance in milk chocolate. They are very tasty. It was a little difficult to get them into nicely shaped round balls, but not a big deal. I'm testing freezing these (as I'd like to put them away for Thanksgiving). I'll report back on the results once my test is complete. UPDATE (11/28/19): Took these out of the freezer to serve with dinner tonight. They thawed out beautifully, and the chocolate did not turn white in the freezer, which is what I was afraid of. Thanks for the recipe!

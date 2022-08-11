@@ -1,0 +1,37 @@
+Recipe number:
+257843.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-14T23:27:53.52
+helpfulCount:
+0
+userID:
+12771586
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+82
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6200381.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty easy to make (and fun for a happy hour party :-), but the spots are nearly impossible to apply.

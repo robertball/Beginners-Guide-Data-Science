@@ -1,0 +1,72 @@
+Recipe number:
+260367.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-21T15:56:49.697
+helpfulCount:
+0
+userID:
+12573343
+Display Name:
+Debbie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Recipe calls for 1/2 tsp salt which is way Too salty.  Next time I’ll just add a small pinch.  Would have rated a 5 except for the saltiness.  I also added dark 85% cacao chocolate chips to the batter.
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-29T23:28:58.16
+helpfulCount:
+0
+userID:
+24015944
+Display Name:
+Gaye James
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm giving this a 4 stars when considering it is low carb. If I were to compare to regular brownies, it would get a negative 4, lol. But there is definitely a chocolate taste that helps ease the sweet tooth. And they were easy to make.

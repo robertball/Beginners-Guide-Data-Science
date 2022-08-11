@@ -1,0 +1,72 @@
+Recipe number:
+22891.txt
+Review:
+Rating:
+1
+dateLastModified:
+2001-12-28T11:54:07.53
+helpfulCount:
+28
+userID:
+549562
+Display Name:
+COOKKID
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very similar to Betty Crocker's only it is best to bring honey and molassis to a boil (stir continuously) and then let it cool to room temp. first otherwise, your molassis and honey don't blend properly making for a rock hard cookie (I know, I tried the recipe!!!) My mom and I made Betty Crocker's and it came out fine...... so remeber boil honey and molassis first!!!
+Review:
+Rating:
+1
+dateLastModified:
+2013-12-16T06:18:38.6
+helpfulCount:
+0
+userID:
+2253345
+Display Name:
+Kathy S.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They had too much of a molasses flavor and not the typical lebkuchen flavor.  I also baked them at 350 for 12 minutes - definitely not long enough.

@@ -1,0 +1,37 @@
+Recipe number:
+246097.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-08T12:04:43.937
+helpfulCount:
+1
+userID:
+9550403
+Display Name:
+Jennifer Aleman
+isPro:
+False
+followersCount:
+7279
+followingCount:
+0
+madeRecipesCount:
+207
+favoritesCount:
+831
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6012647.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very healthy. Many, many flavors. It was a little bit thick so I added some ice and it was better. I used almond coconut milk and added a nice touch. I used leftovers of a spirulina shake and regular brown sugar. The milk added the coconut flavor that the coconut sugar might had had.

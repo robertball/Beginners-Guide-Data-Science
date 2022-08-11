@@ -1,0 +1,37 @@
+Recipe number:
+260191.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-16T14:17:35.367
+helpfulCount:
+0
+userID:
+12170653
+Display Name:
+Chitownchef
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2554369.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy and made with things I had on hand. I like that you can control how tart you want it by decreasing or increasing the lime and syrup. Definitely felt restaurant worthy!

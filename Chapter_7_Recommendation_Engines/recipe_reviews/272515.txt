@@ -1,0 +1,39 @@
+Recipe number:
+272515.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-24T18:16:16.223
+helpfulCount:
+0
+userID:
+16354666
+Display Name:
+ssminoe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6866422.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly.  While waiting for it to cool down, after about 5 minutes I smelt it burning.  I looked into the pot and it had turned brown and the bottom of the instant pot was starting to turn black.  The instructions said to give it 10 - 15 minutes.  I'm thinking I should have lifted the pot out of the cooker after 2-3 minutes.  But the instructions said nothing about that.  I am waiting for it to cool all the way so I can taste it.  I hope I can use it, but have my doubts.
+
+Just tasted it!  Mmmmm good.  It taste nutty.  With a little salt it would be wonderful!

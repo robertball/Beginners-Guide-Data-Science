@@ -1,0 +1,72 @@
+Recipe number:
+130748.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-12-17T06:04:14.927
+helpfulCount:
+4
+userID:
+2141102
+Display Name:
+Rosie Myres
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+733
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/206974.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe reads like that for a very sweet Manhattan.  I scaled it down to one drink and as promisedit WAS very sweet, so not fair of me to judge. (The hot water is there to melt the sugar, I imagine).  If you omit the sugar and sub grenadine (maraschino cherry "juice") that actually might lesson the toothache factor.  I'm a sucker for a Bourbon Manhattan so this is a fun recipe to toy with!
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-01T15:52:55.62
+helpfulCount:
+1
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The hubs....aka the Manhattan King....loved it.  The bitters do help with the extra sugar.  Added extra cherry juice, just for his personal preference.

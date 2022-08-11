@@ -1,0 +1,37 @@
+Recipe number:
+229632.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-04-14T09:03:56.477
+helpfulCount:
+2
+userID:
+7867112
+Display Name:
+Laura Dawn Gud
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7189776.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The concept of this recipe is great, and reading over the spices I thought too that they'd taste wonderful with the sweet potato. Like Thanksgiving and pumpkin pie. The first couple bites were yummy, but beyond that, there was some nagging taste that was off putting for me. I have tried a similar recipe which included onion, and I found that helped to balance the flavours, so perhaps a sweet onion here would as well. We did skip the brown sugar, and didn't stuff the potato skins, simply mashed and served.

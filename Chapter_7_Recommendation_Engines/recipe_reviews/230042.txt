@@ -1,0 +1,72 @@
+Recipe number:
+230042.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-16T12:30:36.09
+helpfulCount:
+0
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a simple recipe with a great result! It is very similar to my usual method, but the little extra from the tequila really adds a nice zing. I will be making this again!
+Review:
+Rating:
+4
+dateLastModified:
+2012-11-24T06:35:04.303
+helpfulCount:
+0
+userID:
+6140563
+Display Name:
+Judi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great tasty recipe. I put all the cranberries in at once instead of half at a time as the recipe calls for. I also added a pinch of nutmeg & a healthy dash of cinnamon.

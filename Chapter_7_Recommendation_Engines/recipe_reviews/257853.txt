@@ -1,0 +1,37 @@
+Recipe number:
+257853.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-30T00:21:31.963
+helpfulCount:
+0
+userID:
+23433220
+Display Name:
+Eileen Herrera
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5201710.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hummus gives this dish a nice creaminess.  I added Sri Racha sauce to spice it up along with two chopped scallions, half a thinly sliced cucumber and three thinly sliced radishes it add more crunchiness and flavor.

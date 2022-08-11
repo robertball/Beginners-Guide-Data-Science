@@ -1,0 +1,37 @@
+Recipe number:
+223258.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-08T18:56:11.633
+helpfulCount:
+1
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6666
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This deserves more than five stars! When I first tasted it I couldn't detect  the spicy heat and then it snuck up on me and slapped me in the back of the head, "wake up boy." The perfect balance of spicy heat. Admittedly I used more than 3 drops of hot sauce and a bigger chili but this is easily adaptable to suit your tastes. This is good enough to slather on anything. Thank you Riverscry for an incredible recipe.

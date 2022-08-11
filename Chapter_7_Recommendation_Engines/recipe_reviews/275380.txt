@@ -1,0 +1,107 @@
+Recipe number:
+275380.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-25T00:26:09.08
+helpfulCount:
+2
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic! You'd be hard-pressed to find a tastier veggie pizza, especially if you're into imaginative and unique combos! The CAULIPOWER crust also makes it much easier to follow a low-carb lifestyle, plus it's gluten-free! I cooked my pizza directly on the rack, as I find the crust gets more crispy that way.  The goat cheese mixture really takes the pizza over the top. The finished product is like a symphony of flavors and textures  in your mouth - sweet, tangy, creamy, peppery. This makes a lot of arugula, so if you're serving it on the side, make the full amount. If you're serving it as a topping, you can probably get away with half. I also didn't use the full amount of lemon juice, since 1-2 teaspoons was plenty. I will definitely be making this again!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-01T02:39:25.133
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Gluten-free pizzas are the better-for-you trend for a reason! This was delicious tasting and the ingredients on this one are a nice change to top a pizza! The crust came out crispy and the toppings were smooth and tasty! Will definitely make again!
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-17T02:47:54.63
+helpfulCount:
+0
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+74
+followingCount:
+0
+madeRecipesCount:
+370
+favoritesCount:
+1322
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What an interesting take on Pizza!  I really enjoyed it and our guests were very impressed. Everyone loved the goat cheese and the arugula salad on top and could not believe this was a CAULIPOWER crust, it was so nice and crispy.  I would cut back on the lemon juice next time around, maybe use the juice of half a lemon.  I also used just one roasting pan to save some cleanup.  This was a nice delicious-tasting change up for pizza night.  Thanks for the Great Recipe

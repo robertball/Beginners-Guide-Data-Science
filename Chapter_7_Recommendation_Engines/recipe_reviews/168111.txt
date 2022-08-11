@@ -1,0 +1,37 @@
+Recipe number:
+168111.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-05-31T17:20:11.82
+helpfulCount:
+3
+userID:
+2151575
+Display Name:
+Clark in Texas
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+542
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/119.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+No complaints on the spicing. But seriously, an animal died to give you this meal. Do not slather a prime cut with near-catsup. This would be great for a select cut.

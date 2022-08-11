@@ -1,0 +1,37 @@
+Recipe number:
+255869.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-10T18:01:29.77
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these for my granddaughters (and to clean out some ingredients from my fridge!), and they really liked them.  I thought they weren't necessarily something I'd make again, but I have a feeling that they will want some more.  Interesting muffins, and healthy, too!  My granddaughters thank you for these!

@@ -1,0 +1,109 @@
+Recipe number:
+277268.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-25T23:10:54.81
+helpfulCount:
+0
+userID:
+25331278
+Display Name:
+Suzanne Brown
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6470667.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A great dessert. My husband said it reminded him of an apple fritter. Best right of of oven and lightly cooled.   Easy to do.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-02T22:17:27.15
+helpfulCount:
+0
+userID:
+12821803
+Display Name:
+mimilvs2cook
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this Christmas morning for the grandchildren  - they loved it.  Will make again next week for our Christmas  with the great-grandchildren.  I'm sure they will enjoy it also.
+Made it exactly like the recipe, very easy, quick and impressive,  but inexpensive.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-27T17:00:47.143
+helpfulCount:
+0
+userID:
+26149032
+Display Name:
+Rebecca
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7053215.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Another WINNER .... DELICIOUS and easy to make!   Everyone loved it .... and I will make this again next holiday season, OR other times when something THIS delicious is needed for a party or get together!   YUMMY!
+Thanks for sharing!

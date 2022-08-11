@@ -1,0 +1,37 @@
+Recipe number:
+246646.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-12T15:42:39.313
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cooked my ribs in the smoker instead of the grill so my review is based strictly on the marinade and not the cooking method. These were awesome! The flavor is just awesome! The only thing I would have liked to taste more of is the sesame oil. It is there but I would have just liked more of it. I'm a huge fan of that taste though so I think as written would be best for most people. I did use beef ribs but am now anxious to try this recipe with pork ribs. Thanks for sharing!

@@ -1,0 +1,111 @@
+Recipe number:
+68430.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-12-26T08:00:06.8
+helpfulCount:
+10
+userID:
+2704800
+Display Name:
+BillyBob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you follow this recipe as laid out it works out fantastic and is very delicious. I have cooked it for one Christmas party and for a Christams Eve dinner this year (2007), I ended up passing on the recipe to another 6 people they liked it so much.
+
+One variation I did for the Christmas was to use 1/2 cup less of the brown and white sugars to make it a little less sweet, I also cooked it on a cookie sheet with parchment paper, it took only 60 minutes to cook. It was just as delicious and a little less sweet which went well with the turkey dinner. Both times I cooked this the sausage was fully cooked and you could not even tell it was in the bread.
+
+Lastly - no worries about the sausage being cooked and yes I mixed it in raw. It does not look very apatizing prior to cooking; but, it is outstanding once cooked and looks a little like the traditional fruit cakes.
+Review:
+Rating:
+1
+dateLastModified:
+2007-10-19T14:28:01.05
+helpfulCount:
+8
+userID:
+706146
+Display Name:
+THERESA_M
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's possible that I didn't do something right, but this bread was terrible.  Not knowing what I was supposed to do with the sausage, I added it raw to the wet ingredients per the instructions, and it made kind of a thick sludge to which the dry ingredients were added.  Once baked off, the bread was just very dense with a strange flavor, vaguely resembling sausage, and clashing horribly with the spices and sweetness.  I also thought the bread was too sweet, but then again I tend to not like things as sweet as the average person.  Perhaps the sausage should have been cooked and crumbled, and then folded into the bread batter?  I could almost see that -- sort of a sweet/savory kind of holiday bread.  I hope I just misunderstood the instructions!
+Review:
+Rating:
+2
+dateLastModified:
+2019-03-17T22:54:29.303
+helpfulCount:
+0
+userID:
+10590505
+Display Name:
+Lisa Val
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3113189.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Non traditional.  Family, friends and myself did not care for it.

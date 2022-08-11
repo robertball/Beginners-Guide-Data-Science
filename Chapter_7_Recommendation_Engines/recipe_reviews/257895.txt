@@ -1,0 +1,81 @@
+Recipe number:
+257895.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-04-16T21:28:16.197
+helpfulCount:
+3
+userID:
+7130588
+Display Name:
+Katie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The next time I make these, I'm going to make the following changes and review again with the results. Reasons are elaborated on below.
+
+•Reduce the agar agar to two teaspoons. 
+•Make the agar agar mixture as the sugar mixture starts to reach temperature, rather than before making the syrup.
+
+I was surprised to see this recipe called for two TABLESPOONS of agar agar, whereas most recipes call for a couple teaspoons. I always make a recipe as written the first time, even when something about it is obviously going to go wrong. And it did. The agar agar in that amount of water didn't dissolve. It quickly absorbed the water, some of it still partly dry, and formed semi-dry clumps, instead of dissolving. I had to add more than twice the amount of water called for to get two tablespoons of agar agar to dissolve. This threw off the final texture a bit, but I wonder if most of those who are new to agar agar would know that the agar agar-to-water ratio needed to be adjusted, or how to adjust it. The fact that it is already clumped meant that, though I did my best to get any remaining clumps out, some little ones made their way into the final product, so you occasionally have this little rubbery piece in your mouth.
+
+The fact that this recipe calls for the agar agar mixture to be made before the sugar mixture also contributed to the clumps. It takes some time for syrup to reach soft ball stage, and agar agar begins to set very quickly.
+
+While this recipe has a helpful note on how to kn
+Review:
+Rating:
+1
+dateLastModified:
+2019-08-11T01:55:02.63
+helpfulCount:
+0
+userID:
+25972841
+Display Name:
+Vegetarian Kid
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I spent $18.50 on agar agar and wasted it all. The agar agar sucked up all the water. I am not going out and getting more agar agar. I am just a vegetarian wanting some vegetarian marshmallows on the lounge crying. I just wanted something that tasted like a marshmello.

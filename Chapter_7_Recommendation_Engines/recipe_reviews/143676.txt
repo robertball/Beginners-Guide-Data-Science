@@ -1,0 +1,37 @@
+Recipe number:
+143676.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-02-18T21:00:29.657
+helpfulCount:
+3
+userID:
+5122746
+Display Name:
+Cindy
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+216
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4435411.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Actually a pretty good brownie. I did make some changes though; used butter instead of spread, used 3/4 cup cocoa with 4 tablespoons oil ( substitute for 4 squares unsweetened chocolate) added 6 ounces chocolate chips and baked in a 9x9 pan at 325 for 25 minutes. Texture is different, a little spongey, but flavor is good. Each brownie made this way cut in 16 servings is 18 carbs as opposed to Duncan Hines which would be 27 carbs each. Son is diabetic so we have to think about this!! If you love brownies ( and who doesn’t) I would count for the extra 9 grams of carbs

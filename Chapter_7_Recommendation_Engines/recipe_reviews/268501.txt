@@ -1,0 +1,107 @@
+Recipe number:
+268501.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-12T23:27:28.02
+helpfulCount:
+1
+userID:
+7011316
+Display Name:
+Luc-Rock Paquin
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1878174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great! The number of ingredients and steps seems daunting, but it’s actually quite simple. Our cake was very moist and flavourful.!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-09T20:12:35.593
+helpfulCount:
+0
+userID:
+13597892
+Display Name:
+Susan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been craving fruit cake for a long time and decided this recipe sounded good even though there were only 2 reviews posted.  Just had my first slice of "heaven"  - it is moist and delicious and I would definitely make this particular recipe again.  The only thing I did different was to change up the dates and add currants and prune slices and the candied fruit mix was 1/8 plus another 1/8 sliced graced cherries.  I brushed the finished product with grand marnier.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-25T15:51:22.8
+helpfulCount:
+0
+userID:
+24701332
+Display Name:
+Cholena Humphrey
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent ideas to make for the holidays, there are a lot of ingredients though which can make it a little spendy.

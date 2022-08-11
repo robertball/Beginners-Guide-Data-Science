@@ -1,0 +1,37 @@
+Recipe number:
+239444.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-22T09:20:54.15
+helpfulCount:
+6
+userID:
+9832359
+Display Name:
+Francine Lizotte Club Foody
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+2645
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2412350.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Smooth rich flavor after a few modifications. I decreased the yolks down to 3 which still provided a good amount of binder. I added a 1/4 cup more of heavy cream mixed with canned pumpkin to compensate for using less egg yolks. Just before churning my mixture, I tasted it and added an extra 1/4 tsp. of pumpkin pie spice, knowing it would lose some depth in flavor. I also simplified the recipe by combining half-and-half, yolks, sugar, vanilla and pumpkin spice together and whisking the mixture on medium-low heat for 15 minutes until heated through. Overall, good ice cream

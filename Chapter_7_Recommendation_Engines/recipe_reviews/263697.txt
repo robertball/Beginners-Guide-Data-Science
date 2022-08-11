@@ -1,0 +1,37 @@
+Recipe number:
+263697.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-19T22:14:35.717
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+774
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3988
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had some pulled pork in my freezer, leftover from barbecue for a family reunion. This was a perfect recipe for using it. Easy to put together and yet have a good dinner after a long day away from home. Next time I will use less pepper since that flavor is very strong.

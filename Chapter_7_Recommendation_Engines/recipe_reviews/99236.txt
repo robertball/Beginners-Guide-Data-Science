@@ -1,0 +1,37 @@
+Recipe number:
+99236.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-11-14T08:53:38.84
+helpfulCount:
+24
+userID:
+2855916
+Display Name:
+olsonwilli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a delicious recipe!!!!  THERE IS NO LEMON IN THE RECIPE IF YOU PUT TOO MUCH LEMON ON THEN IT'S YOUR OWN FAULT!!!!  Either way I have made this twice for family and friends and it was a big hit.

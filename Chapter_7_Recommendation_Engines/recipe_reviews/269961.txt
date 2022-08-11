@@ -1,0 +1,32 @@
+Recipe number:
+269961.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/05/2019
+helpfulCount:
+0
+userID:
+24872099
+Display Name:
+James Edgar
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6281811.jpg
+text:
+A very nice dish. I think 15 minutes in the air fryer is a bit too long as the bread was just a touch on the burn side. Next time I'll bake it for 12 minutes. Other than that it's very tasty.
+Review:
+Rating:
+5
+dateLastModified:
+02/07/2019
+helpfulCount:
+0
+userID:
+24439413
+Display Name:
+Vida Greene Ebron
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5899407.jpg
+text:
+I did it a lot lesser than the 15 minutes. Delicious!

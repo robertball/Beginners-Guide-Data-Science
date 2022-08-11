@@ -1,0 +1,107 @@
+Recipe number:
+254334.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-09T00:38:25.227
+helpfulCount:
+3
+userID:
+20937435
+Display Name:
+Ethan Recker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4267141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The pie was very good! The corn bread made it taste very scrumptious.
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-10T02:20:13.423
+helpfulCount:
+2
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hubby absolutely hated it. I thought it was ok. I used Jiffy cornbread so I don't know why it was on the sweet side. My yogurt was plain Greek. However the chicken mixture was delicious.
+Review:
+Rating:
+3
+dateLastModified:
+2018-04-10T12:27:02.327
+helpfulCount:
+1
+userID:
+11702567
+Display Name:
+Nan Dickens
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+471
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1706548.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The chicken mixture was good but not sure the cornbread got completely done. If we make it again I might try mexican cornbread and cook it longer.

@@ -1,0 +1,37 @@
+Recipe number:
+255345.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-01T17:21:58.07
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. Next time I will add more salsa and another pepper. This was super easy and it is a recipe that is easily adaptable to suit your individual taste.

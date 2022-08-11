@@ -1,0 +1,37 @@
+Recipe number:
+277969.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-30T02:26:56.793
+helpfulCount:
+0
+userID:
+16001797
+Display Name:
+Steph
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good! I only had a half cup of noodles so I halved the recipe and it made enough for a big bowl of Mac n cheese. I didn’t have powdered mustards so I used regular mustard but next time I would use just a squirt. I will make this again.

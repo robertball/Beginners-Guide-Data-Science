@@ -1,0 +1,74 @@
+Recipe number:
+247429.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-11T01:23:05.68
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2460
+favoritesCount:
+2263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made 2 changes. I fried my tofu separately and added it to the final dish because we like ours crunchy and my other change was bellas instead of shiitake because I had some on hand that needed used and because they are more affordable. This was good. The instructions are a little hard to follow but other than that I have no complaints.
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-26T05:52:49.76
+helpfulCount:
+0
+userID:
+20322756
+Display Name:
+Katrina Otero
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3883786.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe for Beef Sukiyaki! It's kind of hard to find the thinly sliced beef near where I live, so I use the meat that's pre-sliced that they use for Philly Cheesesteak at Walmart. 
+Instead of raw egg, I pick out the ingredients that I want from the pot into an individual bowl of rice, and me and my family share it as a hotpot. 
+You can throw in some pre-made potstickers if you can't find the noodles.

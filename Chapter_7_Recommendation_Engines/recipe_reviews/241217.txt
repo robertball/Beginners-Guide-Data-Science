@@ -1,0 +1,72 @@
+Recipe number:
+241217.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-17T22:23:49.583
+helpfulCount:
+0
+userID:
+3670472
+Display Name:
+Jennifer Joling
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+416
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6390260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out very well! I doubled the recipe and had to substitute for a few of the ingredients that our local grocer didn't have and they were great.  The kids like them too. We will keep these stocked.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-13T17:43:14.657
+helpfulCount:
+0
+userID:
+1717297
+Display Name:
+Lindsay Williston
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2876584.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious!!  And completely guilt-free with all those incredibly healthy ingredients!  I omitted cardamom because I didn't have it (and increased cinnamon to 1/2 tsp).  I did have to substitute peanut butter for almond butter because I didn't have any, so it was probably a bit sweeter than the original version.  I used the full amount of spirulina and maca powder, and you could definitely taste them, but it was subtle.

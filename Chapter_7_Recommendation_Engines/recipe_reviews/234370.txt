@@ -1,0 +1,37 @@
+Recipe number:
+234370.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-06-13T12:58:10.2
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and good! The girls LOVED it! I just served this w/ some tortilla chips for a snack. the peach and mango flavors were great together...I would make this again! Thanks for sharing. :)

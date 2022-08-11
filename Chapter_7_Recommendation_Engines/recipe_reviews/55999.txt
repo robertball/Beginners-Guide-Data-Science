@@ -1,0 +1,37 @@
+Recipe number:
+55999.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-08-14T19:06:43.89
+helpfulCount:
+2
+userID:
+877787
+Display Name:
+4-HCOUNTRYCHICK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+205
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This pie is great!  It's SOO easy and tasty.  I made it and entered it in the Iowa State Fair in open competition.  I didn't have very high expectations for it going in since it seemed so simple, but the judge loved it!  She gave it an Honorable Mention (which are only given out occasionally).  The judge loved how you could taste the peanut butter yet it wasn't too overpowering.  I used regular cream cheese instead of light (only because I couldn't find light at the store).  This is an award-winning pie!  Give it a try!!

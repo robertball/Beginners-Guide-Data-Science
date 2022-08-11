@@ -1,0 +1,72 @@
+Recipe number:
+241781.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-20T23:06:48.28
+helpfulCount:
+0
+userID:
+7304073
+Display Name:
+jawserwog
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6344473.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+so simple so good. Thank God I made double. you'd never now it by the way they disappeared. I will do them Again.
+Review:
+Rating:
+3
+dateLastModified:
+2015-04-05T07:00:17.12
+helpfulCount:
+0
+userID:
+952547
+Display Name:
+Kitchen Kitty
+isPro:
+False
+followersCount:
+70
+followingCount:
+0
+madeRecipesCount:
+120
+favoritesCount:
+640
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1700194.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was ok as is, but could be easily enhanced with other ingredients. I microwaved my bacon for a few minutes first before wrapping and broiling in the oven. I used parchment paper as suggested, but it started browning and smoking so I had to pull it out. Use foil instead. I used a greek feta, which I found too strong if the chunks were too big. I dipped a few in maple syrup, which was not bad, and a few I ate with a wedge of tomato. Pretty good.

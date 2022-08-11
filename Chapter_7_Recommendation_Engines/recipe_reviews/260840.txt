@@ -1,0 +1,37 @@
+Recipe number:
+260840.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-01T17:42:39.433
+helpfulCount:
+0
+userID:
+16305025
+Display Name:
+sarahe66
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!

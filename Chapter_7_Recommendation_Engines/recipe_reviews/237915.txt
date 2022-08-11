@@ -1,0 +1,37 @@
+Recipe number:
+237915.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-07T15:41:31.043
+helpfulCount:
+0
+userID:
+24864725
+Display Name:
+Lisa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+190
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We added herbs and garlic and hand-mixed it instead of using the bread machine.  It's now our go-to pizza crust recipe!

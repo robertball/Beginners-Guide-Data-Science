@@ -1,0 +1,72 @@
+Recipe number:
+200575.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-07-06T12:44:39.343
+helpfulCount:
+6
+userID:
+742713
+Display Name:
+KOALAGIRL
+isPro:
+False
+followersCount:
+70
+followingCount:
+0
+madeRecipesCount:
+552
+favoritesCount:
+441
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/59460.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love serving this as a side dish in the summer when the New Jersey tomatoes are in season.  I always toss in some fresh basil from my garden and use balsamic vinegar in place of the red wine vinegar.  So simple, yet so delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-09T14:45:35.877
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12266
+followingCount:
+0
+madeRecipesCount:
+1000
+favoritesCount:
+2673
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, simple but oh so good.

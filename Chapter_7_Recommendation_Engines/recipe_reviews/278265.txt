@@ -1,0 +1,217 @@
+Recipe number:
+278265.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-03T00:04:37.423
+helpfulCount:
+2
+userID:
+22201384
+Display Name:
+Alison Meyer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7686590.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are amazing. We kept some warm as suggested, and it was great. We didn't make the sauce out of laziness, but they are so crispy and delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-31T02:21:53.88
+helpfulCount:
+1
+userID:
+26957942
+Display Name:
+Paige Ludvigsen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7674751.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made them according to the recipe for dinner and they were amazing! They were ever so slightly too salty for my taste but i will adjust and make them again. They were so crispy and tasty.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-27T21:49:45.71
+helpfulCount:
+1
+userID:
+26944433
+Display Name:
+tzalabak
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7664021.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this tonight,  with no changes to the recipe.  They are fantastic.  Wife and daughters all loved them.  My wife and I liked the sauce. One daughter liked it, one didn't.
+
+Great recipe.  I will definitely be making this again...several times.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-26T17:09:20.09
+helpfulCount:
+1
+userID:
+22918334
+Display Name:
+August B. Rain
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4652596.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a dinner event and made this as an appetizer, super easy and I didn't have a single one left within 5 minutes! 
+
+I made a second batch with almond flour as a gluten free option but they weren't as good as Chef John's recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-19T02:37:13.71
+helpfulCount:
+0
+userID:
+14461287
+Display Name:
+Lee Meek
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+156
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1554042.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these without modifications in an air fryer.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-04T02:51:35.467
+helpfulCount:
+0
+userID:
+26929074
+Display Name:
+Katie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7652553.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These little things are awesome. As someone relatively new to cooking, I've never deep-fried anything before, but these were super easy to cook. I might try this recipe with other cheeses some day just to see how it comes out.
+Only thing I changed was that I doubled the ingredients. The amount of dough that came from the list here made enough for about 4 balls, not 8, but I may have just been making them too big. Either way, they taste amazing.

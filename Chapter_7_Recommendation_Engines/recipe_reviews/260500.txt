@@ -1,0 +1,107 @@
+Recipe number:
+260500.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-05T19:38:56.957
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty. I  cooked it in the microwave for 5 minutes, stirring every minute. I decreased the almond milk to 3/4 cup and replaced 1/4 cup with I.D. Sugar Free Pumpkin Coffee Creamer. I then topped it with minced walnuts. I thoroughly enjoyed it.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-27T17:44:28.733
+helpfulCount:
+0
+userID:
+24701332
+Display Name:
+Cholena Humphrey
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My co-worker said, "It is good."  So, I guess that means that she likes it.  And, she went back to the kitchen for more because she said it was good.
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-10T20:04:29.537
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1344
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good. Nice pumpkin and spice flavor.

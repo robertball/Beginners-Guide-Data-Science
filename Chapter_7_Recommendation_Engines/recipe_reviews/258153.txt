@@ -1,0 +1,37 @@
+Recipe number:
+258153.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-28T19:25:53.87
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out great! I didn't want to make a special trip to the Asian market for dried prawn for such a small amount so I substituted with diced up cooked shrimp. I dipped mine in soy sauce but hubby chose sweet chile sauce and said it was excellent with these too. I would have liked more sesame oil flavor and will add more next time. Excellent recipe!

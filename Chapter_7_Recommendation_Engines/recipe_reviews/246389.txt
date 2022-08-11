@@ -1,0 +1,72 @@
+Recipe number:
+246389.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-25T22:00:18.37
+helpfulCount:
+0
+userID:
+24168443
+Display Name:
+Tina
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+192
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and I added my left over vegetables from my St. Patrick’s Day meal plus a couple other leftover items and it turned out great.  My husband said “ You can make that again!”;)
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-09T17:50:54.523
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12226
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A great way to reinvent leftover corned beef into a tasty breakfast.  It was a thin quiche, I think it would be better baked in 3 or 4 small ramekins.   I baked this in the Panasonic Induction Oven (Bake 350) and it took 20 minutes.

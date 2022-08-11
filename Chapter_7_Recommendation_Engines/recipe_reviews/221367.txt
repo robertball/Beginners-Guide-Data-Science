@@ -1,0 +1,107 @@
+Recipe number:
+221367.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-09-16T07:53:03.84
+helpfulCount:
+5
+userID:
+1661199
+Display Name:
+Shawna Hoffman
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+245
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1833116.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great base soup! I used the ingredient search to find it and as I live in Germany it seems quite appropriate!  I used approx. the same amount of vegetables but added in a chopped up leek.  After simmering for an hour I added the parsley and blended it smooth.  I used 2 cups of 3.5% milk, not 1/2 & 1/2, only 1 tsp. of salt and added a pinch of crushed red pepper.  I added in small meatballs for protein and garnished with green onions - delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-19T15:31:20.997
+helpfulCount:
+0
+userID:
+18059721
+Display Name:
+Maria Griffin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband love it.
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-21T02:46:00.78
+helpfulCount:
+0
+userID:
+433531
+Display Name:
+DiablosMom
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+187
+favoritesCount:
+274
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out really good! I recently moved to Germany and these are all ingredients I could find here. I used a bundle of suppengruen (a leek, 2 carrots, a slice of celeriac and some parsley) plus a half an onion for the veggies. I actually forgot to add the half and half and it was still excellent. I used bockwurst and added it with the potatoes to brown it up a little. That meant that when I used the stick blender it blended up the sausage too, but that was just fine. Served it with yummy German bread.

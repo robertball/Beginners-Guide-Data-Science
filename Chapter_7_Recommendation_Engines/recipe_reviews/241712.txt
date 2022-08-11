@@ -1,0 +1,37 @@
+Recipe number:
+241712.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-04T16:51:51.93
+helpfulCount:
+1
+userID:
+10850001
+Display Name:
+Ann Freele
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1782973.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice recipe. We enjoyed it. The only thing I would change on it is use lemon juice instead of the extra as I thought it was odd not to use it since zesting a lemon anyway

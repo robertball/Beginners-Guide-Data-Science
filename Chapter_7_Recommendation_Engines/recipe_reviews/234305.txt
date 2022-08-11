@@ -1,0 +1,37 @@
+Recipe number:
+234305.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-09-14T06:53:17.463
+helpfulCount:
+4
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used white onion instead of green.  The crunchy apple with the smooth avocado and peaches made this good!  My jalapeno pepper was quite hot, so I appreciated the cool fruits!  This is a great recipe during peach season!

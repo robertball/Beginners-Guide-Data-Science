@@ -1,0 +1,37 @@
+Recipe number:
+277476.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-15T16:07:29.463
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As written, this did not work. The butterscotch chips do not melt in the microwave. The consistency was like a thick peanut butter and start to scorch early on. I had to scramble and do some quick thinking. I added margarine (lots of it) and finally got it to the consistency you'd want in a bark but then as soon as I added the almonds and dried fruits it went right back to way too thick to swirl the chocolate mixture in. My only option at that point was to spread it all on the baking sheet and flatten it with a rubber spatula as flat as I could. Even with my attempt to save it, it was way too thick and unspreadable. The taste is good but as written this does not work.

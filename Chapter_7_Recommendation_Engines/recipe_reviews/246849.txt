@@ -1,0 +1,37 @@
+Recipe number:
+246849.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-27T18:49:08.797
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Man, I love easy recipes. This is as good as it is easy. I served it over some quinoa. Thank you for the recipe.

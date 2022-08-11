@@ -1,0 +1,37 @@
+Recipe number:
+261048.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-16T01:12:41.737
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This had good flavor but turned out grainy for me. I tried to save it by adding more milk but that didn't work either and then I ended up with too thin of dip. I'm hoping the graininess was something I did wrong. I would like to try this again. If I do, I will add some chili powder and cumin.

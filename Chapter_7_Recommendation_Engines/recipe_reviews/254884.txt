@@ -1,0 +1,37 @@
+Recipe number:
+254884.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-24T22:15:55.257
+helpfulCount:
+3
+userID:
+7940057
+Display Name:
+Renee Jacobson Helm
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5345666.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am almost 70 years old, and this is, by far, the best turkey I have ever tasted.  I followed the recipe as written and it was awesome.  The meat literally fell off the bone.  The next day it was still incredibly tender and juicy.  I can't wait to try it on a roasting chicken.??

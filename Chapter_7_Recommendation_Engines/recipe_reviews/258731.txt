@@ -1,0 +1,37 @@
+Recipe number:
+258731.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-02T21:02:12.027
+helpfulCount:
+0
+userID:
+21467865
+Display Name:
+Shannon Sullivan Martinez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6990345.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect amount of oil. My Black and Decker air dryer required a bit more time (prob 25 min total) and I am a salt fiend so I added Lawry's seasoned salt. Delicious!

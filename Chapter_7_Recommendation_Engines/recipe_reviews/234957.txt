@@ -1,0 +1,37 @@
+Recipe number:
+234957.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-02-16T12:51:44.413
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is a good starting place but as written I can only give it a 3 star rating. Originally the only thing I changed is that I added some fresh zucchini to give it more color and nutrition. I kept adding salt but that wasn't working so I added a dash of Worcestershire and some hot pepper sauce which made it better but it was still lacking in something. I will play around with this more but I definitely think some fresh herbs are in order. That and some shredded parm as a garnish. Thanks for sharing!

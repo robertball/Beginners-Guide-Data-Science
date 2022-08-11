@@ -1,0 +1,37 @@
+Recipe number:
+213696.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-11-27T12:20:01.373
+helpfulCount:
+8
+userID:
+5679419
+Display Name:
+LynMartin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy pie to put together! However, I wasn't too pleased with the appearance of the pie once it was out of the oven. So I took the 2nd pie crust and cut lattice strips out and layed them over the poptart layer, then baked for an additional 13 minutes (on top of the 15 extra I had to do after taking the tin foil off). I hope it tastes good!! will update after family get together.

@@ -1,0 +1,72 @@
+Recipe number:
+228031.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-04-11T11:13:19.43
+helpfulCount:
+3
+userID:
+844886
+Display Name:
+It's A New Day
+isPro:
+False
+followersCount:
+288
+followingCount:
+0
+madeRecipesCount:
+450
+favoritesCount:
+522
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/615239.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasting this right out of the ice cream machine, it tastes like a light lime sherbet.  I think some coconut extract might help with the coconut taste.  I halved the recipe to fit in my small ice cream maker and I only had one can of coconut milk.  I can see making this again and again.  Thanks!
+Review:
+Rating:
+3
+dateLastModified:
+2017-08-08T05:02:39.977
+helpfulCount:
+0
+userID:
+5263381
+Display Name:
+remittancegirl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6012549.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's tangy and nice but very light-bodied. Half-way between an ice cream and a sorbet.  A little too light for my taste, but excellent if that's what you're looking for.

@@ -1,0 +1,72 @@
+Recipe number:
+260683.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-18T22:49:32.573
+helpfulCount:
+0
+userID:
+6258270
+Display Name:
+Nancy C. Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+710
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6754347.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it very much. I’m not into “spicy”, so I left out cayenne, but it still had a kick to it. Also- didn’t have shallots, so added extra onions. Served it with rice. Just a LOT of spices!!!!!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-03T22:18:02.707
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good flavors, but be warned it's on the spicy side. I used only 3 chicken thighs, but would do more next time. I added about 2 cups of water to cover my chicken and it made for a very rich sauce. Served with rice and some sour cream.

@@ -1,0 +1,37 @@
+Recipe number:
+235477.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-21T18:52:02.613
+helpfulCount:
+6
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't remember ever having a knish as an adult,, maybe I did but cannot remember. This definitely is my first time making them.  I wasn't sure what "very thin" really meant so I googled it. Anyone coming after me, it really mean paper thin. I know I didn't roll this out thin enough but I think I did okay for a first timer. It seemed the preferred topping on this was spicy mustard so that's what I used. Really tasty.. I liked them both hot and cold

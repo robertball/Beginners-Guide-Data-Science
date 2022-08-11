@@ -1,0 +1,72 @@
+Recipe number:
+59904.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-02-16T21:09:02.97
+helpfulCount:
+46
+userID:
+500319
+Display Name:
+Mrs. Evelyn Paradies
+isPro:
+False
+followersCount:
+31
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/300830.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We could not find the sazon seasoning packets in our little grocery store so Juanita and I used Lowry's seasoning salt instead.  I did not have to use buckshot to get my duck since I had a lot of ducks already in the pen thinking they were going to get some sour mash. I chose the fat duck which would have been greasy but I poked it full of holes first and set it upon celery stalks which kept it out of it's own grease. Very good duck and we all liked it.
+Review:
+Rating:
+4
+dateLastModified:
+2011-02-19T20:46:58.493
+helpfulCount:
+15
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9649
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a couple of changes. My bird was nowhere near 4 pounds and so I was too nervous to cook it at 450. I chose 350 instead and it was done in two hours. We also didn't keep the innards because we do not like them so I completely skipped this step. Hard to give an accurate review since my bird was not what the recipe called for but I do think the combo of flavors and the sazon was good for the duck. Thank you!

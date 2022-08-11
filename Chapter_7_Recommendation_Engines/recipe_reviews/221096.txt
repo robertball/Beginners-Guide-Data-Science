@@ -1,0 +1,107 @@
+Recipe number:
+221096.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-04T12:59:18.55
+helpfulCount:
+7
+userID:
+860165
+Display Name:
+Carol Hammond
+isPro:
+False
+followersCount:
+27
+followingCount:
+0
+madeRecipesCount:
+209
+favoritesCount:
+573
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/340346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I scaled this recipe back a little (there are just 2 of us).  I used lean farm-raised (longhorn lean) stewing beef and farm-raised pork.  I didn't used chicken or chicken broth - I used beef broth.  I used all spices recommended by this recipe, including Sweet Baby Ray's Hickory & Brown Sugar barbecue sauce.  Except for the onion, carrot and potato, I use whatever vegetables we like - it's all good.  Serve with sweet corn bread and honey butter.  YUMMMMM!
+Review:
+Rating:
+3
+dateLastModified:
+2012-08-01T18:59:08.053
+helpfulCount:
+4
+userID:
+7304269
+Display Name:
+Julianne George
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3652489.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good, but nothing special. Just tasted like a normal stew. I had some leftover raw chicken, pork, & beef from other recipes earlier this week, so it worked well to throw them all together. I added only 1/4 the BBQ sauce it called for, kind of wish I hadn't added any. It really just adds sugar to the soup. It's not a bad standard stew recipe, though.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-28T23:57:15.65
+helpfulCount:
+0
+userID:
+5784036
+Display Name:
+The Cooker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For the meat I used pulled pork. I had about a pound and a half leftover pulled pork and decided to use it. This Burgoo recipe is wonderful. The whole family loved it.

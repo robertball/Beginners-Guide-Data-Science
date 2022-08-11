@@ -1,0 +1,74 @@
+Recipe number:
+237024.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-04T18:19:52.097
+helpfulCount:
+0
+userID:
+7507473
+Display Name:
+Stony
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+385
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made no changes.  I follow recipes to the letter on the first time.  I WILL NOT change anything on this one.  It is tied with the best I have ever had!
+
+OK - We had friends over and I followed the recipe exactly BUT did change a little.  After cooking and letting stand - I put the shrimp in a bowl with paper towels.  Then I took the shrimp and put them on ICE.  The warm shrimp is OK, but putting the shrimp on ICE was the best I have ever had...
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-08T20:02:00.657
+helpfulCount:
+0
+userID:
+3027265
+Display Name:
+erica
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm giving this recipe 5 stars. It was simple and fast. I also thought it was delicious . I paired it with fresh pasta in a garlic parsley butter sauce with lots of fresh lemon.

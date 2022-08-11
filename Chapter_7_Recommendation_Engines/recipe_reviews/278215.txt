@@ -1,0 +1,37 @@
+Recipe number:
+278215.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-05T00:40:32.547
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+764
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic and bursting with flavor. No changes needed! I served this over basmati rice for a tasty and quick weeknight meal. The only change I made was to use a green chile since the store I stopped at didn't have red.

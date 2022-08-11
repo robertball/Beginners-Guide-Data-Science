@@ -1,0 +1,142 @@
+Recipe number:
+146078.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-11-19T19:31:13.32
+helpfulCount:
+14
+userID:
+1985972
+Display Name:
+Chris I.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+69
+favoritesCount:
+520
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4575739.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very easy and very interesting.  I would not have thought to put salmon and mushrooms together, but it works well.  My husband gave this a 5 and I gave it a 3 so the 4 star rating is an average.  My reason for the 3 star is that the flavor is a little too intense.  When I make this again I will dilute the oyster sauce, maybe with some stock, to soften the flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-29T17:51:58.667
+helpfulCount:
+4
+userID:
+17916612
+Display Name:
+Dr, dad & chef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time I made it, followed the recipe and the result was just ok. Second time, I decreased the amount of the oyster sauce to 1 tbsp. Added sesame oil, soy sauce, teriyaki marinade, fish sauce and rice vinegar. Also lowered the oven temp to 300F and increased the time to 18 mins. Make sure the salmon is placed skin side down. It came out perfect.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-18T04:38:07.487
+helpfulCount:
+1
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have always loved salmon with mushrooms and this recipe was super easy and tasted great! I would use more mushrooms next time and maybe some garlic.
+Review:
+Rating:
+2
+dateLastModified:
+2014-07-26T09:35:07.487
+helpfulCount:
+0
+userID:
+2152829
+Display Name:
+Barb the Bee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The oyster sauce was so thick I couldn't even pour it out of the bottle, and had to use more wine to thin it enough to even mix with the mushrooms.  It ended up masking the flavor of both the salmon and the mushrooms.  I won't make this one again.

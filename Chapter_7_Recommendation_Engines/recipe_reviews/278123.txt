@@ -1,0 +1,39 @@
+Recipe number:
+278123.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-05T05:08:50.333
+helpfulCount:
+2
+userID:
+2572533
+Display Name:
+Jody Schoth
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1176504.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love it!  Easy and forgiving recipe, you can make it just about any way you want and it will be delicious.  The only change I made was I used the full 12 oz of chorizo, can't imagine it would have been good enough with just 4 oz!  
+
+Next time, we are putting diced and seeded jalapenos in as well.  Easy and delicious layered dip that is delicious right out of the skillet!

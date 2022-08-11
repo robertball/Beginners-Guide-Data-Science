@@ -1,0 +1,37 @@
+Recipe number:
+256371.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-12-16T19:51:21.183
+helpfulCount:
+4
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The amount of rum ruined this super moist cake.  I thought 1 1/2 cups of rum was a bit too much and it is.  This could be a good cake but some adjustments must be made. I find it to be almost inedible, that's how strong it is.. The longer it sits the stronger it gets.

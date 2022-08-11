@@ -1,0 +1,73 @@
+Recipe number:
+244966.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-15T10:46:40.373
+helpfulCount:
+0
+userID:
+22098953
+Display Name:
+Lare Bear
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6255911.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow! Healthy, delicious, quick and easy to make.
+ I will definitely make these again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-18T22:13:56.01
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really tasty.. took them to church to try and get healthier snacks into them.  They aren't very sweet which was perfect

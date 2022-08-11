@@ -1,0 +1,72 @@
+Recipe number:
+254993.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-08T22:38:04.483
+helpfulCount:
+1
+userID:
+13584485
+Display Name:
+Tmg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed recipe except used dried cranberries. It was great!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-06T00:12:39.74
+helpfulCount:
+0
+userID:
+14701636
+Display Name:
+Leah Tissi Wilson
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5823199.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A tasty and healthy lunch option - I loved it! Next time, I might increase the olive oil/apple cider vinegar/honey mix at the end to give a bit more moisture (I like stuff saucy!) But it was a hit and I’ll definitely make it again.

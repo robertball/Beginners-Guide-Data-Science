@@ -1,0 +1,37 @@
+Recipe number:
+245150.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-10T18:53:18.917
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These taste fine, a little dry, but good overall. I used a tablespoon and rolled them into balls. I made half a batch and got 16 balls.

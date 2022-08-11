@@ -1,0 +1,39 @@
+Recipe number:
+261202.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-24T19:49:13.93
+helpfulCount:
+0
+userID:
+25345117
+Display Name:
+bjt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent dessert/ snack ! Best chilled as recommended. Tastes like a small moist brownie! 
+I recently started eating vegan for health reasons. This is a wonderful healthy option. I left out the coconut and still delicious! Even my picky friends loved it! I toasted my almonds, a personal preference . 
+Enjoy!

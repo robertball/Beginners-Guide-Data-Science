@@ -1,0 +1,72 @@
+Recipe number:
+244657.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-01T00:55:34.76
+helpfulCount:
+0
+userID:
+4138942
+Display Name:
+Lydia Jackson
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1394678.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Mine was not sweet at all. I used left over turkey breast that I had cooked in the instant pot. I will definitely make it again and will put in my meal plan rotation.
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-20T10:34:22.377
+helpfulCount:
+0
+userID:
+11415180
+Display Name:
+cristol_the_pistol
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2670658.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not make any changes. It was a subtlety sweet, not overbearing, I liked it.  I'll probably add more sour dough crumbs next time. I may have made it too wet with the zucchini because I like to process my zucchini twice through the processor.  So it was probably like I added a 1/2-1 cup of water.  This was a good way to use up the zucchini in our garden! Good recipe. I will make again.

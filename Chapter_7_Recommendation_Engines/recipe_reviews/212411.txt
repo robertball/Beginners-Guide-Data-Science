@@ -1,0 +1,37 @@
+Recipe number:
+212411.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-03-17T14:18:50.893
+helpfulCount:
+1
+userID:
+4694776
+Display Name:
+CEECEE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have not yet made this bread, but it sounds good.  I am considering using splenda instead of stevia as that is what I have on hand.  I like recipes that use sugar subs so I will try this one tonight ;)

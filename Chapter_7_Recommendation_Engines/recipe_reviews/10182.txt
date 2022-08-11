@@ -1,0 +1,74 @@
+Recipe number:
+10182.txt
+Review:
+Rating:
+3
+dateLastModified:
+2000-05-10T19:17:53.233
+helpfulCount:
+9
+userID:
+75430
+Display Name:
+ANTONSTER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Antoher shape for this cookie is like a leaf with cut sides. Another favorite is to add a topping to this of powered sugar with evaporated milk, lemon juice, lemon rind and melted butter.
+
+This recipe was helpful but the pine nuts were overberring.
+Review:
+Rating:
+2
+dateLastModified:
+2019-09-19T18:51:02.137
+helpfulCount:
+0
+userID:
+26154330
+Display Name:
+Misti Leon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7057050.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This didn't really taste as I expected it to. I thought it would be sweet. I didn't really taste the figs, and it had an unusual smell. Unfortunately, I will not be making this again.

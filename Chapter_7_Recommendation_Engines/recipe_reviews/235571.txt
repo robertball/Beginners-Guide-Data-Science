@@ -1,0 +1,72 @@
+Recipe number:
+235571.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-25T12:08:24.263
+helpfulCount:
+3
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I dried the pineapple, and that was great!  The rest of the soup was easy to put together.  I used cashew milk instead of cream, and had a creamy smooth texture with bits of vegetables.  This is a marvellous soup! Next time, I will make my own peanut butter for this soup!
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-03T13:19:05.197
+helpfulCount:
+0
+userID:
+6410043
+Display Name:
+Janet Cordingly Stout
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+56
+favoritesCount:
+551
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4153415.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm having a tea for some ladies and wanted to serve a different soup. I made this and really really like it, but it is to heavy for a ladies tea. I will find a lighter one for that, but I will be making this again for a cold snowy day!

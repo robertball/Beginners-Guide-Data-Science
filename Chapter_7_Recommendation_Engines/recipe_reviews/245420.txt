@@ -1,0 +1,37 @@
+Recipe number:
+245420.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-24T09:31:49.43
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You don't have to be gluten free to enjoy these muffins. The overall flavor is quite mild and not too sweet. I used half white teff and half dark teff, mixed. I did add the banana and nuts.  I was weary of the high temperature though and so I baked them at 185°C (365°F) for 20 minutes and they were perfect. Half the recipe yielded 9 regular sized muffins. Thank you for the recipe.

@@ -1,0 +1,113 @@
+Recipe number:
+106401.txt
+Review:
+Rating:
+4
+dateLastModified:
+06/15/2006
+helpfulCount:
+0
+userID:
+1479322
+Display Name:
+Seattle Cook
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Not bad at all.
+Review:
+Rating:
+4
+dateLastModified:
+03/02/2009
+helpfulCount:
+0
+userID:
+3586307
+Display Name:
+Ritapita1
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Easy to make, substituted OJ for apple juice one day.
+Review:
+Rating:
+5
+dateLastModified:
+07/19/2007
+helpfulCount:
+0
+userID:
+2432401
+Display Name:
+jules91291
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+alright, so i changed the recipie quite a bit simply because i didnt have a lot of the stuff but what i ended up with were the best cookies ive ever had. ever.
+
+i recommend not using the oats, but crushed grahm crackers.
+i didnt have raisins. or apple juice concentrate.
+i just used apple sauce and a TON of apple pieces.
+also, skip the molasses.
+i honestly dont even know what molasses is.
+Review:
+Rating:
+3
+dateLastModified:
+06/15/2006
+helpfulCount:
+0
+userID:
+1902966
+Display Name:
+SnowChews
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The flavors were nice, but very mild.  I didn’t care for the texture; it’s a cross between a cookie and a muffin.  I like cookies and I like muffins, but meeting half-way wasn’t good for me.
+Review:
+Rating:
+5
+dateLastModified:
+06/15/2006
+helpfulCount:
+0
+userID:
+1591269
+Display Name:
+beth
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/136635.jpg
+text:
+I really liked these.  They were soft and moist and had a great texture.  They were not too sweet, but the apples and raisins created the perfect flavor.
+Review:
+Rating:
+4
+dateLastModified:
+06/15/2006
+helpfulCount:
+0
+userID:
+1659879
+Display Name:
+Jaden Ravenscraft
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/63780.jpg
+text:
+These are pretty good.  It has some flavor, but is still a little flat tasting.
+Review:
+Rating:
+2
+dateLastModified:
+06/15/2006
+helpfulCount:
+0
+userID:
+1327639
+Display Name:
+MAELSTROM
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1545.jpg
+text:
+Didn't care for this one, cookie was too bland and the fruit bits (apple, raisin, etc) too strong.  Felt like eating a bland salad in small, round, bite-sized form.

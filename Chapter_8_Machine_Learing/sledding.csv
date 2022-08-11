@@ -1,0 +1,13 @@
+﻿snowing,temperature,wind,time,predictor(sledding)
+yes,below_freezing,high,morning,yes
+yes,freezing,high,morning,yes
+yes,above_freezing,low,afternoon,yes
+yes,below_freezing,low,afternoon,yes
+yes,freezing,medium,morning,no
+yes,below_freezing,low,afternoon,yes
+no,freezing,medium,afternoon,yes
+no,above_freezing,medium,morning,no
+no,above_freezing,medium,morning,no
+no,below_freezing,low,afternoon,yes
+no,freezing,low,afternoon,no
+no,above_freezing,high,afternoon,no

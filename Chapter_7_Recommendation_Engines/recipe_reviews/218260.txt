@@ -1,0 +1,38 @@
+Recipe number:
+218260.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-08-02T07:56:04.07
+helpfulCount:
+4
+userID:
+6522850
+Display Name:
+hatetocook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The kabobs were amazing!  I added green peppers, onions, cherry tomatoes, and potatoes (slightly boiled, soft with fork).  I soaked everything in a bottle of italian dressings in fridge for two hours...omg sooooo good!
+The pasta was bland, but we added parm cheese on top....that helped

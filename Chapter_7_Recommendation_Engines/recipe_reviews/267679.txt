@@ -1,0 +1,37 @@
+Recipe number:
+267679.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-12T15:13:51.127
+helpfulCount:
+3
+userID:
+23711387
+Display Name:
+JillD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe as is and it was a big hit with my husband who doesn’t usually like to try new foods. I used bottled sweet and sour sauce but the meatballs were delicious! I will definitely make these again.

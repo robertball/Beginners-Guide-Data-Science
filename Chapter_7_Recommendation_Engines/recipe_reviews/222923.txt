@@ -1,0 +1,37 @@
+Recipe number:
+222923.txt
+Review:
+Rating:
+2
+dateLastModified:
+2012-08-08T18:33:55.81
+helpfulCount:
+12
+userID:
+2550485
+Display Name:
+McBacon
+isPro:
+False
+followersCount:
+89
+followingCount:
+0
+madeRecipesCount:
+341
+favoritesCount:
+6612
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/146.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I had never made fried green tomatoes before and this looked like something I could enjoy. The recipe is easy enough to follow, it came out the way it's supposed to.  However, I ran into a problem with taste :/  My family and I felt this was very salty and the Ranch and salt made the tomatoes taste very acidic. I am not sure if it's the Ranch seasoning or the additional salt that did it, but if you choose this recipe, I think the additional sea salt is best left out. Otherwise, it's easy, they become a nice golden color and have very good texture. I am sorry that we didn't enjoy it.

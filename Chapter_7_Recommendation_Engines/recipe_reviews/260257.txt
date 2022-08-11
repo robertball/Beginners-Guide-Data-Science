@@ -1,0 +1,107 @@
+Recipe number:
+260257.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-02-28T20:00:52.423
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8999
+followingCount:
+0
+madeRecipesCount:
+1151
+favoritesCount:
+2451
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did make a few modifications to this recipe. First, I only made 1/4 of the recipe (1 block of cream cheese), and I ended up with 6 cheesecakes in a regular size muffin tin. I could also tell that the milk and sour cream amounts were going to leave the batter too watery, so I cut the milk back to about 1 Tbls and 1 Tbls of sour cream for my 1/4 batch. I also added a bit of green food coloring to give the cheesecakes a "minty" look to them. With that said, I have a couple of recommendations. First - you need to add some butter to the cookie crumbs. I did not, and the bottoms were just a bunch of crumbs, and they didn't hold together, so much of the minty bottoms were left in the muffin tin when I removed them. If you add some butter and maybe a bit of sugar to the mixture, and press it firmly into the muffin tin, I think the crust will hold together better. The flavor was just okay.  I wouldn't make these again, sorry!
+Review:
+Rating:
+3
+dateLastModified:
+2018-02-26T03:04:45.743
+helpfulCount:
+0
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+290
+followingCount:
+0
+madeRecipesCount:
+694
+favoritesCount:
+3511
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There were good and bad points to this cheesecake recipe for me.  We did like the slight mint flavor that came from the cookie crust.  It was just the right amount of mint for us.   We were not fond of the cheesecake portion.  The cheesecake was a little spongy and not creamy like most cheesecakes.  The filling and crust also made quite a bit more mini cheesecakes than the recipe stated.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-24T18:42:28.907
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+578
+favoritesCount:
+799
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I halfed this recipe and ended up with 30 mini cheesecakes. They were great! Followed the recipe exactly. Everyone loved the mint flavor that came only from the cookies on the bottom. I let them cool for 30 minutes and put them in the refrigerator for a few hours. Great for a party!

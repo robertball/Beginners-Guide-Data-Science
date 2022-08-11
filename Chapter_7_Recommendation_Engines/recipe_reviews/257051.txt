@@ -1,0 +1,107 @@
+Recipe number:
+257051.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-20T17:41:51.953
+helpfulCount:
+4
+userID:
+14105758
+Display Name:
+Stasty Cook
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+1730
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2709390.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tripled this recipe so it would make a nice layered salad for 6 people. I also used a slightly larger amount of grape tomatoes . The recipe was delicious and looked great as a layered salad.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-20T03:51:00.923
+helpfulCount:
+3
+userID:
+12181453
+Display Name:
+KZrod
+isPro:
+False
+followersCount:
+44
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3768659.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this recipe.  I make fried chicken very similar to this but I never used Cajun seasoning and it was so good! This dish is great because the chicken can be hot or cold. I was having friends over for dinner last minute and I was able to whip this up quick and actually get all the bowls set and ready on the table for when they arrived.  The only things I tweaked was using  vegetable oil instead of olive, added cucumbers and I used multi colored grape tomatoes. It was delicious, fast and beautiful to look at!
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-09T03:08:39.7
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9646
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! The one change I made during prep was to slice my chicken prior to breading. The reason I chose to do this was so that I wouldn't lose the breading while slicing and also so that I would have breading on all sides of the chicken. I also chose a spring mix over lettuce simply for the fact we prefer it better. This is a fast and easy recipe and one that is easily adaptable to what you like on your salad. Thanks for sharing!

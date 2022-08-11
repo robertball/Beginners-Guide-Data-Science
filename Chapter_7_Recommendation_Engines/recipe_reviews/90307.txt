@@ -1,0 +1,37 @@
+Recipe number:
+90307.txt
+Review:
+Rating:
+1
+dateLastModified:
+2013-03-07T06:22:49.663
+helpfulCount:
+1
+userID:
+7820704
+Display Name:
+Debbie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was absolutely awfull.  The 7 lemons & coconut milk = SOUR.  The sugared nuts...not enough butter to melt the sugar and it sure doesn't happen between 7 & 10 minutes...don't waste your time.  A simple citrus & honey recipe is great on fruit salad...Glad I didn't pour it over my beautiful fruit!!

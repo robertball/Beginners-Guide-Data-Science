@@ -1,0 +1,37 @@
+Recipe number:
+24963.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-08-12T13:38:09.503
+helpfulCount:
+11
+userID:
+566099
+Display Name:
+Connie-O
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+212
+favoritesCount:
+417
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+As the first to reveiw, I'm sorry I can't give this more than 3 stars.  I followed the directions exactly.  The recipe is easy but is lacking in a couple of ways.  I think the addition of vanilla or almond extract to the batter and a sprinkling of cinnamon on top would give it a big boost.  I used a 10" dark nonstick springform pan and the cake was over-cooked at 30 minutes; I'm glad I checked when I did.  Also my peaches were rather small & 4 were plenty.  The cornmeal was an "interesting" touch.

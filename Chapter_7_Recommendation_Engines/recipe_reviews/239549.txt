@@ -1,0 +1,37 @@
+Recipe number:
+239549.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-06T02:05:43.737
+helpfulCount:
+5
+userID:
+1153011
+Display Name:
+naples34102
+isPro:
+False
+followersCount:
+4543
+followingCount:
+0
+madeRecipesCount:
+3627
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7786532.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+7-5-2016  ~What a shame I have to give this less than five stars all because the recipe is poorly written.  Neither parsley nor peas are mentioned in the ingredients list, yet both are in the directions.  Simple to correct, but a sloppy error nonetheless. Other than that, while I did not measure anything, only using ingredients at my own discretion, this is pasta as pasta should be.

@@ -1,0 +1,72 @@
+Recipe number:
+240826.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-15T14:48:44.403
+helpfulCount:
+2
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6665
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Granddaughter approved as an after school snack. She enjoyed making these flavorful apples.
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-21T01:15:14.277
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My teenage kids made these yesterday and they loved them. I sent them the email of the recipe and they made them on their own. I suggested soaking the slices in some cold water with lemon to help keep them from browning but make sure you pat them dry with a paper towel first; peanut butter doesn't spread well on a wet apple. They used homemade "granola" using corn flakes, raisins, coconut and jimmies-whatever they could find really. Great recipe for teaching kids to follow a recipe and clean up after themselves. Thank you experimental chef for the idea!

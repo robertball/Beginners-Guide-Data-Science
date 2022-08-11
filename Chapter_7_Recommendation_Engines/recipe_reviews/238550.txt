@@ -1,0 +1,37 @@
+Recipe number:
+238550.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-13T22:58:43.41
+helpfulCount:
+1
+userID:
+3769249
+Display Name:
+Gilbert Ramirez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1374287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just made into muffins . Used non-fat vanilla yogurt  instead of  sour cream . Brown sugar replaced raw. Added cinnamon , peanut butter , shredded coconut , hemp seeds , sesame seeds , sunflower seeds . Ground seeds and nuts just slightly . Didn't have teff nor poppy seeds . Baked for about 17 minutes . Made a dozen regular size muffins and one mini loaf . Very moist , not too sweet . Will definitely make again .

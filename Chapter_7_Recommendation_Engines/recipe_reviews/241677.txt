@@ -1,0 +1,142 @@
+Recipe number:
+241677.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-23T23:55:48.98
+helpfulCount:
+0
+userID:
+15718135
+Display Name:
+Debbi Brandau
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+350
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5398724.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick and easy. Awesome recipe for fresh fluffy snow.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-20T20:32:29.63
+helpfulCount:
+0
+userID:
+24493352
+Display Name:
+Danielle Gagnon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5937311.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We didn't measure the snow, probably had way more than what the recipe calls for. The snow was icy but still yummy-  more like a snow cone. Kids mixed chocolate syrup in theirs.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-20T00:40:18.013
+helpfulCount:
+0
+userID:
+10610976
+Display Name:
+Winston W. BéLisle
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4375482.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When Egg Nog was still around, would use it to flavor it with..
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-04T20:28:29.13
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+432
+favoritesCount:
+912
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the easiest snow cream recipe out there! I did use more snow than what the recipe calls for, I used 12-13 cups instead of 8. This made it more of an ice cream like consistency. Note- I used vanilla bean paste... that isn't dirt in my snow cream pic,lol.

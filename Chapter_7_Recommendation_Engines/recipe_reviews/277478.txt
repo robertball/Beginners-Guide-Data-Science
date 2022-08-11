@@ -1,0 +1,72 @@
+Recipe number:
+277478.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-12-21T21:43:00.107
+helpfulCount:
+0
+userID:
+24595778
+Display Name:
+Tiffany R.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out more like a Taffy than brittle and we even let it stay in the fridge over night... still nothing. Other people brought up the fact that this recipe calls for baking powder when other peanut brittle recipes usually call for baking soda, maybe that's why it didn't turn out? I'm tempted to try it again but with baking soda to see what happens.  Also, noticed the under side of the "concoction" is EXTREMELY sugary as if all the sugar settled there. Not like normal brittle at all.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-21T04:16:07.05
+helpfulCount:
+0
+userID:
+5245238
+Display Name:
+vickied
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’ve been making this recipe for over 30 yrs (I got it from my Mother In Law) our measurements & times are a little different, but basically the same recipe. I make several batches every Christmas for family & friends & NEVER had it not turn out. Everyone always request it & raves about it.

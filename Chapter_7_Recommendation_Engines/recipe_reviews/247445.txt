@@ -1,0 +1,72 @@
+Recipe number:
+247445.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-20T01:00:10.433
+helpfulCount:
+1
+userID:
+11110863
+Display Name:
+LindaM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did double the vinaigrette, but otherwise no changes.  It was awesome!  I will definitely make this again!
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-06T17:56:41.02
+helpfulCount:
+0
+userID:
+13337335
+Display Name:
+Valoree Hamilton
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2479140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very eye appealing salad that has  a fresh garden taste. the recipe called for vinegar but didn't specify which type. I thought white vinegar would be too strong so I used red wine vinegar and it was perfect. I didn't have an outdoor grill so I buttered the corn and placed it on a foil lined baking sheet under the broiler in my oven. Worked just as well. I omitted the basil, because I don't like it.  I have made a similar recipe before and my daughter didn't like it , but  she gave this one a big thumbs up. I will definitely save and make this again.

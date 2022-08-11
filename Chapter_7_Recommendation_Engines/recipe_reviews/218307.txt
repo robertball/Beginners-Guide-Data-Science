@@ -1,0 +1,72 @@
+Recipe number:
+218307.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-03-27T08:21:18.107
+helpfulCount:
+11
+userID:
+712042
+Display Name:
+Jennifer Scholl
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+459
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7215871.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Beautiful cake!  Everyone commented that they loved the blue compared to the currently hyped-up red velvet.  The only thing I would change is to lessen the amount of sugar in the cake mix.  Way too sweet for me!  But I will definitely make this again.  Thank you for sharing!
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-04T11:45:37.48
+helpfulCount:
+1
+userID:
+14658488
+Display Name:
+LowCarbLongIslandsoundguy
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1816240.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Impressive looking cake - the only changes I made was to switch out the blueberry for raspberry extract, eliminate the walnuts, and I make it low carb.

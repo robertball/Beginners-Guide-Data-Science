@@ -1,0 +1,72 @@
+Recipe number:
+258833.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-08-28T14:57:50.42
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was so excited when I found this recipe that included so many of my favorite summer flavors.  Wasn't the prettiest salad I've ever made, but then I've always thought red wine vinegar and mayo just looked odd together.  There was tons of great texture, but something in the mix was just off and left a bitter aftertaste.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-19T16:47:55.887
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except for one small change. I've never had green olives go bad until now but mine  were definitely no good so I had to resort to plan B. I used sliced black olives instead which worked fine. It got me thinking that next time I make this I will use both green and black olives. This had a lot of flavor and texture going on which I like but the color of the watered down mayo wasn't very appealing to the eye. In my honest opinion I think it could be left out altogether and I will try it that way next time. Regardless, this is a good salad and one that would go over well at any picnic.

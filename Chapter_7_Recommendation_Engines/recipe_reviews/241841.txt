@@ -1,0 +1,37 @@
+Recipe number:
+241841.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-23T03:59:51.593
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9651
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I chose to serve with a tomato inspired dipping sauce instead of the marmalade sauce. I knew the cereal was plenty sweet on its own for our tastes so it was only due to personal preference. Great recipe and far better than any coconut shrimp I've ever had!

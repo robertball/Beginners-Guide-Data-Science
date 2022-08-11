@@ -1,0 +1,47 @@
+Recipe number:
+214254.txt
+Review:
+Rating:
+5
+dateLastModified:
+05/04/2011
+helpfulCount:
+2
+userID:
+1722026
+Display Name:
+Rhonda C
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I really liked the flavor and how moist these were. I was scared by the amount of ginger it called for but it was not overpowering at all. I did have to add 3 tbl of sugar to the frosting though as it was just not sweet enough for me.
+Review:
+Rating:
+5
+dateLastModified:
+10/28/2010
+helpfulCount:
+2
+userID:
+5658440
+Display Name:
+Mi'Quelle Stewart
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3097769.jpg
+text:
+Very Delicioussss..I want my mom to try and make these for me
+Review:
+Rating:
+3
+dateLastModified:
+02/16/2011
+helpfulCount:
+0
+userID:
+5213615
+Display Name:
+Lisa
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Although these were okay they didn't really taste like carrot or ginger cupcakes. They were a little too much like pound cake.

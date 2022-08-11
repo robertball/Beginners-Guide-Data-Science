@@ -1,0 +1,37 @@
+Recipe number:
+219525.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-11T20:15:30.197
+helpfulCount:
+0
+userID:
+11841071
+Display Name:
+Laura Ann
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1656752.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious, though I made a few changes. First, I coated a beef chuck roast in flour, garlic, and pepper then browned it in oil. I put the beef in my crock pot and covered it with mushrooms, onions, and minced garlic. Added the pasta sauce, Worcestershire, and dried parsley on top of that. Cooked on low for 10-12hrs and PERFECT! It fed my family of 5 adults and four kids and even the picky eaters loved it.

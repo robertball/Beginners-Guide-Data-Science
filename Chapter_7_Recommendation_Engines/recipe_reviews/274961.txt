@@ -1,0 +1,37 @@
+Recipe number:
+274961.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-08-30T20:52:01.753
+helpfulCount:
+0
+userID:
+6458219
+Display Name:
+mfrank56
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+965
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only negative I had was the chickpea pasta.  The consistency just wasn't 'quite right'.  Other than that the dish was tasty!  Full disclosure, I didn't have sherry vinegar so I used balsamic vinegar instead.  That wasn't the issue with the actual pasta.  Will make again with regular pasta shells.

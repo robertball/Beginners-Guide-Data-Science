@@ -1,0 +1,37 @@
+Recipe number:
+270375.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-21T02:30:33.877
+helpfulCount:
+2
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I chose to air fry my egg rolls rather than frying them in oil. They came out very good. The combination of cream cheese and chocolate is delicious. I will be making these again.

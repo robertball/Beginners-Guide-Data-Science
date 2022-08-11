@@ -1,0 +1,72 @@
+Recipe number:
+231119.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-08T23:21:16.263
+helpfulCount:
+0
+userID:
+24509500
+Display Name:
+Magarac
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious! In the old days, no traditional Dalmatian wedding would be complete without this dish. I used fresh herbs from the garden, and the results were outstanding. Thanks for this great recipe!
+Review:
+Rating:
+1
+dateLastModified:
+2017-01-17T02:17:20.55
+helpfulCount:
+0
+userID:
+5603762
+Display Name:
+Betty Hoyt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7198243.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was inedible in my opinion, I made it as written, and threw it away. What a waste of food ,vegetables and wine

@@ -1,0 +1,107 @@
+Recipe number:
+239766.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-03T23:53:52.42
+helpfulCount:
+0
+userID:
+26611122
+Display Name:
+Susan Weaver Moenkhaus
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7427270.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good cookies. The caramel stays soft, and the cookies stayed crisp. I used a tablespoon-size cookie scoop, but I would use a smaller size next time as they are very rich. I’m making them for a cookie walk and feel confident they will be popular.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-19T13:09:57.827
+helpfulCount:
+0
+userID:
+23461896
+Display Name:
+Baker Mel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7083004.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great yummy easy recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-12T20:25:42.693
+helpfulCount:
+0
+userID:
+4129504
+Display Name:
+Heather
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+169
+favoritesCount:
+608
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7462415.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+See notes.

@@ -1,0 +1,72 @@
+Recipe number:
+258032.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-15T16:53:31.12
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent as written! No changes needed.
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-28T23:39:54.76
+helpfulCount:
+3
+userID:
+23651541
+Display Name:
+Katyana Randall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5354164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just made this and it's fantastic! Whole family enjoyed it just as it is.

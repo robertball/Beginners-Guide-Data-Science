@@ -1,0 +1,37 @@
+Recipe number:
+80847.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-24T13:20:05.427
+helpfulCount:
+4
+userID:
+12951782
+Display Name:
+CBuck
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2691071.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is as close to my Grandmother's recipe as I can find.  The only thing I do differently is broil the liver with salt, and add an extra tablespoon of the rendered fat at the end.   Sometimes I'll put it all through my hand cranked food grinder for a finer texture and less time spent chopping for when I'm feeling lazy.  Thanks for the recipe!  :)

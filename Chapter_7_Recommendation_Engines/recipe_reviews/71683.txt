@@ -1,0 +1,47 @@
+Recipe number:
+71683.txt
+Review:
+Rating:
+4
+dateLastModified:
+03/05/2008
+helpfulCount:
+2
+userID:
+2764635
+Display Name:
+Avrienne
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+A nice change from regular chickpea hummus.
+Review:
+Rating:
+4
+dateLastModified:
+10/22/2008
+helpfulCount:
+1
+userID:
+2590320
+Display Name:
+Erin
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8028918.jpg
+text:
+Yum!  I was looking for a way to use up some great northern beans and this was terrific.  Even the kids loved it!   I served it with warm pita bread.  I used dried parsley, but next time I will use fresh.  I can't wait to try it with the roasted red pepper variation.
+Review:
+Rating:
+4
+dateLastModified:
+05/29/2004
+helpfulCount:
+1
+userID:
+1095241
+Display Name:
+SIMPLYSARAH
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was my first attempt at making hummus.  The recipe was easy.  I may try adding more spice next time.  Overall, very good for something so very simple.

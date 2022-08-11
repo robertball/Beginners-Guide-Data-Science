@@ -1,0 +1,73 @@
+Recipe number:
+261272.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-14T14:49:29.973
+helpfulCount:
+8
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good with some adjustments but I feel some of the amounts are off and that there might even be and ingredient left out. For starters, 1 pound of potatoes was 2 fairly small potatoes which is not nearly enough to serve 8 people. It's also not enough to balance 3 cups of sour cream, 4 cups of cheese, and a pound of bacon. I believe 1 pound of potatoes has to be a typo. The other issue is the sour cream mixture itself. Once everything is blended it is extremely thick making it impossible to stir your potatoes to get them incorporated in the mixture. I feel a liquid was left out. Milk, heavy cream, or half and half perhaps? The sour cream mixture just stays in a big blob and does not thin down over the potatoes while baking which results in a dry casserole. If I were to make again I'd add 1/2 cup of half and half to the sour cream mixture prior to adding the potatoes.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-05T22:04:58.75
+helpfulCount:
+0
+userID:
+5704829
+Display Name:
+Joan Long
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+347
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7035749.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious,  easier than making individual twice-baked potatoes~AND if you do have any of this casserole left over,
+it's wonderful the next day!

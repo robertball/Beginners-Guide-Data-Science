@@ -1,0 +1,108 @@
+Recipe number:
+256656.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-13T13:36:22.123
+helpfulCount:
+0
+userID:
+23478589
+Display Name:
+Gutierrez Oliver Amarely
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+120
+favoritesCount:
+590
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5234157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't usually make this type of breakfast. But I thought I would try it and it came out fantastic. My daughter loves bananas and this yielded a few servings. Thanks.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-15T12:36:55.533
+helpfulCount:
+0
+userID:
+22269944
+Display Name:
+Sariah Griffin
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+237
+favoritesCount:
+970
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6980967.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This oatmeal is banana heaven.  i made this and had breakfast set all week.  
+I would highly recommend this.  Will make over and over again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-12T14:24:10.407
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'd never tried steel-cut oats before, and this was fantastic! I've never eaten a bowl of oatmeal so fast. I put both bananas in the oatmeal and then topped with more brown sugar and the walnuts. So, so good! I was freaked out by the calorie count at first, but I got 4 nice servings out of this, not just 2.

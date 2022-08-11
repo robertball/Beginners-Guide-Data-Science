@@ -1,0 +1,37 @@
+Recipe number:
+242416.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-15T05:38:16.35
+helpfulCount:
+2
+userID:
+10080044
+Display Name:
+FPN007
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+321
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a little twist. I used a cup of Coconut milk instead of the plain milk. I also added the zest from the Lemon, but I ALWAYS add more lemon to ANY Lemon recipe because "LEMON" is my favorite flavor. Ever since I was a child I can peel them & eat them like Oranges. No such thing as too lemony for me. After everyone has stopped puckering, I would admit that I don't recommend this "Lemon-Juicing" for everyone.

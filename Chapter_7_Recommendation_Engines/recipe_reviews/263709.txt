@@ -1,0 +1,37 @@
+Recipe number:
+263709.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-05T13:50:24.623
+helpfulCount:
+0
+userID:
+12854718
+Display Name:
+unis3
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+908
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We thought this was a great recipe and a nice change of pace from tvp or lentil taco meat.

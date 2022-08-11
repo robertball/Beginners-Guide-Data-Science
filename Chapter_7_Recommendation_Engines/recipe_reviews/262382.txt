@@ -1,0 +1,37 @@
+Recipe number:
+262382.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-15T01:05:15.313
+helpfulCount:
+0
+userID:
+9492874
+Display Name:
+J Summers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+184
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2094701.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really nice! However, I think its best to put in the tomato paste prior to cooking. I agree that the lemon juice can be last since the flavour breaks down.  Anyway just a small adjustment to a wonderful chili recipe. Thanks for sharing.

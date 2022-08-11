@@ -1,0 +1,107 @@
+Recipe number:
+240222.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-03T01:12:50.407
+helpfulCount:
+2
+userID:
+15894115
+Display Name:
+Pam Keene
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2340086.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was wonderful! I can across the recipe while searching for recipes using grated ginger since I had just harvested some from the garden. My budget didn't allow me to add Cardamom or grapeseed oil (subbed EVOO) and I forgot the ground cloves, but it was wonderful and I'll make this one again!
+Review:
+Rating:
+2
+dateLastModified:
+2017-11-24T03:34:50.923
+helpfulCount:
+0
+userID:
+633346
+Display Name:
+Carmela McCleary
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+280
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5144126.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really wanted to like it, especially since I was happy to find a recipe that did not call for the usual oj and brown sugar, but nope ; the flavor to me was blech...I have so many leftover and I think I’ll give it the dogs
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-23T06:33:56.91
+helpfulCount:
+0
+userID:
+4345897
+Display Name:
+Bibi
+isPro:
+False
+followersCount:
+432
+followingCount:
+0
+madeRecipesCount:
+398
+favoritesCount:
+2020
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7784017.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wondered if I would like this, after I took a look at the spices.  I tried it anyway, because I love ginger, and wow, this brings it!  Very pungent spices really zing up this dish.  I found myself sampling one slice, and then another, until I had "sampled" almost a full serving!  Beware though, I used only 4 large sweet potatoes, and they were more than a single layer in a sheet pan.  This recipe could definitely use a weight amount for the sweet potatoes, so use your judgment, or be ready to do two pans.

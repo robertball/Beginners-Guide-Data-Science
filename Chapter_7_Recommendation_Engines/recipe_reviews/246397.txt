@@ -1,0 +1,107 @@
+Recipe number:
+246397.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-30T02:43:27.33
+helpfulCount:
+0
+userID:
+23181839
+Display Name:
+Katie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it!! Used a 13.5” cast iron skillet. Would recommend adding 1/2 cup chicken broth when putting in the over. Cook for 15, take out and stir and add smidge more broth. Cook for 15, remove. Once chicken is taken out, add a bit of broth in remaining mixture and pop back in oven. Our rice cooked perfectly.
+Review:
+Rating:
+1
+dateLastModified:
+2017-10-16T19:57:39.49
+helpfulCount:
+0
+userID:
+22584441
+Display Name:
+Anne L
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was a flop. The rice never cooked. We ended up pulling the chicken out of the rice/bean mix and eating it alone. The chicken was moist, juicy and flavorful.  I think the problem was that the cast iron skillet was so full of food and with the chicken on top of everything all did not cook properly. I would like to try again and cook the chicken in a separate casserole dish from the rice and bean mixture. We also added mozzarella cheese on top of the chicken.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-02T14:34:43.813
+helpfulCount:
+0
+userID:
+21178052
+Display Name:
+Robb Roberge
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4858849.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really tasty but recommend a dutch oven. Way too much for a 12" skillet.

@@ -1,0 +1,107 @@
+Recipe number:
+262211.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-17T17:17:46.827
+helpfulCount:
+2
+userID:
+1791490
+Display Name:
+Doughgirl8
+isPro:
+False
+followersCount:
+363
+followingCount:
+0
+madeRecipesCount:
+143
+favoritesCount:
+355
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1122366.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this! It makes a ton, which is great, because it lasts a long time. I have a big ol' sauerkraut crock that I used to let it ferment for the first night, before transferring it into two big containers for the fridge. I used the slicing blade on my Cuisinart for the cabbage and the shredder for the beet and carrot, so it wasn't an overwhelming prep chore, either. It makes about a gallon; we ate it up over the course of a month. Oh--I omitted the vegetable oil. Sometimes I drizzled good olive oil over my portion, sometimes I didn't. The picture is of one last ramekin of salad! Time to make more.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-23T18:04:07.11
+helpfulCount:
+2
+userID:
+23215809
+Display Name:
+Todd Cooper
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5043877.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely wonderful !!!!! Great recipe; easy to follow and delicious results. There is a deli nearby that sells this; but I liked it so much....I am glad to have made it myself.
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-22T22:50:14.9
+helpfulCount:
+0
+userID:
+16868505
+Display Name:
+Craig Messa
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2871602.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Needs to sit for a few days in the fridge.

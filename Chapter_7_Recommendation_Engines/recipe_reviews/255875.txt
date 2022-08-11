@@ -1,0 +1,37 @@
+Recipe number:
+255875.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-23T16:06:35.673
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is quick, easy, and delicious. No need for the honey. I used almond milk instead of dairy. Thank you for the recipe.

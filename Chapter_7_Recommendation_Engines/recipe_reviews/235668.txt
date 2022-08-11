@@ -1,0 +1,219 @@
+Recipe number:
+235668.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-20T12:40:15.13
+helpfulCount:
+39
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12226
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These really are authentic tamales!  There are a couple of problems with the way the recipe is written, but nothing that couldn't be easily figured out.  Reserve all the broth from the pork - you are going to need one cup for the masa and at least one cup for your chili sauce (I used 2 cups broth instead of 1 cup broth + 1 cup water)  When steaming I stand them on end, folded side down, you want to gently steam them and keep an eye on the water level so your pan doesn't run out of water. Tamales freeze well and I have a few set aside for New Years morning.  Thanks for a truly authentic recipe.
+Review:
+Rating:
+1
+dateLastModified:
+2014-12-24T15:59:39.667
+helpfulCount:
+2
+userID:
+4751737
+Display Name:
+gvrecon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it came out crumbly.
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-08T15:54:44.353
+helpfulCount:
+1
+userID:
+4403153
+Display Name:
+Paty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6360232.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I adjusted portions:
+7# pork shoulder roast (doubled onion and garlic)
+Reduced the broth to 5-6 qts
+12 oz dried chili’s (quadruped broth, water, salt, garlic, cumin)
+Instead of water for the chili sauce, I used the water in which they were boiled, reduced to 1 qt.
+1 gallon of broth for Mesa (this must have been a typo in the original recipe)
+I like my Mesa thin so it doesn’t over shadow the filling, and prefer it moist rather than dry.
+I also wanted some extra chili sauce to serve with the tamales, as well as use some to prepare the side dish of rice, and a  little in the guacamole and a salsa base.
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-12T23:29:34.51
+helpfulCount:
+1
+userID:
+20740263
+Display Name:
+Keri Gonzales
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4641951.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The masa recipe has a lot of issues.  Adding 2 cus of broth is not nearly enough.  All in all I probably added 6 cups of broth and them some hot water to thin it out just before spreading.  The meat is good.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-22T15:48:25.163
+helpfulCount:
+0
+userID:
+26160974
+Display Name:
+Teri Spaid
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7062007.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! I used Ancho chilies for a different flavor. Spot on!
+Review:
+Rating:
+3
+dateLastModified:
+2017-07-13T16:34:53.7
+helpfulCount:
+0
+userID:
+22169314
+Display Name:
+Carmen VanDyke
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The pork filling is tasty. The masa, however, is dryer than dry, even after adding an extra cup of pork broth to the recipe and 3-hours of steaming.  Maybe they're authentic, but they're not very amazing.

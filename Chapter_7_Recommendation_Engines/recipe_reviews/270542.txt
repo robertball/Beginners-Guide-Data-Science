@@ -1,0 +1,72 @@
+Recipe number:
+270542.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-02-17T00:20:14.437
+helpfulCount:
+0
+userID:
+24776111
+Display Name:
+Dave D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good, but not good enough to warrant the time it takes to make it.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-15T01:47:09.69
+helpfulCount:
+0
+userID:
+24521614
+Display Name:
+Andy Watson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5957003.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe doesn't make room for cool down on the baked souffles. Should they really be served at 350 deg. right out of the oven? I let them cool down for about 20 min.  Valentine's night dinner ended very sweetly.

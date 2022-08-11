@@ -1,0 +1,111 @@
+Recipe number:
+232374.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-04-24T03:34:26.973
+helpfulCount:
+9
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made two small changes in this recipe--I did not have the dried chile peppers but I did have chili garlic sauce (it's made by Huy Fong Foods, it has a rooster on the jar). I used a heaping teaspoon, it's got quite a kick and a little goes a long way. I also used one small package boneless, skinless chicken THIGHS instead of chicken breasts. This turned out FABULOUS. I served this with homemade vegetable fried rice--NO LEFTOVERS. My husband asked me to make a double recipe next time to make sure there is leftovers.......or at least extra for seconds. This is a very economical recipe to make.
+Review:
+Rating:
+4
+dateLastModified:
+2013-05-13T18:26:38.887
+helpfulCount:
+2
+userID:
+3096268
+Display Name:
+alan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It tasted good. 
+I followed the recipe exactly omitting the peppers. 
+The sauce was too thick and had a chalky texture. I think there was way too much corn starch for my liking in this recipe. 
+In the future, I would take out the 1/4 cup corn starch and use a 1 tsp corn starch 1 tsp water slurry to thicken the sauce. 
+Otherwise, it's delicious and worth making.
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-26T17:52:57.223
+helpfulCount:
+0
+userID:
+12266429
+Display Name:
+itascuis91
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious! I used shallots instead of green onion because I had them on hand. I put in half a red and half a green bell pepper, and the added flavor was delightful. When I make it again (which I absolutely will!)I will also probably put half the sugar in, as it was a bit too sweet for our taste. Overall a great recipe!

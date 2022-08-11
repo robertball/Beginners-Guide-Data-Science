@@ -1,0 +1,37 @@
+Recipe number:
+263245.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-06T19:36:20.77
+helpfulCount:
+0
+userID:
+4977471
+Display Name:
+SK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+606
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe using 2 salmon filets so I reduced the ingredients by half. The sauce for basting the fish was delicious.  I did not have honey mustard so I used a teaspoon of yellow mustard and a teaspoon of honey.  Alas, I did not have enough of the sauce left over to make the wine sauce, but will definitely plan to make it next time.  I cooked the fish in my Waring toaster oven on broil with great results.  Fish was moist and perfectly cooked.  I look forward to making this again.  Thanks for the recipe.

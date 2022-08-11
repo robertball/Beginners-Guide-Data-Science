@@ -1,0 +1,72 @@
+Recipe number:
+246433.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-05T02:39:14.633
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and I wouldn't consider this a tzatziki but more of a cucumber chimichurri but a good one at that. This would pair well with many different things and one I will make again.
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-16T21:45:11.56
+helpfulCount:
+2
+userID:
+20191445
+Display Name:
+bug
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree - not a tzatziki but quite tasty. I didn't have enough cucumbers so I added some shredded zucchini. I love the crunch it adds.

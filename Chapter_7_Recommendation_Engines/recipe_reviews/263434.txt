@@ -1,0 +1,107 @@
+Recipe number:
+263434.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-16T23:25:17.277
+helpfulCount:
+0
+userID:
+9983690
+Display Name:
+Tiffany J Brooks
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+465
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5213991.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The taste was good, but the asparagus really needed to be cooked a little bit longer.  Maybe 8 - 10 minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-11T22:03:05.193
+helpfulCount:
+0
+userID:
+15077382
+Display Name:
+jenny b
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+404
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added a sprinkle of Romano fresh grated cheese (Parmesan fresh grated works too) and it really peeked flavor...just a sprinkle for flavor and don’t smother it.....YUMMMM.  My husband who hates vegetables even liked it.
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-04T23:24:46.613
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super simple and full of flavor. My only complaint is that 5 minutes was too long. It got overcooked and soggy. My micro does seem to be pretty potent though. Next time I will start at 3 minutes and go from there.

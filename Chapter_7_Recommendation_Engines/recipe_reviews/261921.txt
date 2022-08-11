@@ -1,0 +1,79 @@
+Recipe number:
+261921.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-16T11:29:49.21
+helpfulCount:
+1
+userID:
+7504647
+Display Name:
+Kamies
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great simple recipe. I had to substitute peanut butter for almond butter because I didn’t have almond butter. I love that it is quick and easy. I sprinkled monk fruit sweetener on top for a little sweetness.  Will definitely make again!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-25T02:20:17.493
+helpfulCount:
+0
+userID:
+8256458
+Display Name:
+charquesa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7652908.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I purchased a silicone candy tray from Michael's and made these delights yesterday. (see in photos)
+Slight modification: Added Splenda Naturals (stevia/erythritol blend) and Pink Himalayan Pink salt on top of each. 
+Perfect treat any time of the day! Next time I will add vanilla extract. The only thing I would like to find out is what I can use other than "corn syrup" to make these shiny. 
+
+Each fat bomb has:
+1.4 g Net Carbs
+11.3 g Fat
+2.3 g Protein

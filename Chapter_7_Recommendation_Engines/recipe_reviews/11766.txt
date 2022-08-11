@@ -1,0 +1,185 @@
+Recipe number:
+11766.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-11-04T15:53:37.383
+helpfulCount:
+6
+userID:
+42290
+Display Name:
+SUSANNAH
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A litte different, but it grows on you.  Didn't have any creme fraiche, so I used sour cream.  Came out fine.  Will fix it again!
+Review:
+Rating:
+4
+dateLastModified:
+2006-10-26T18:18:50.217
+helpfulCount:
+4
+userID:
+2134033
+Display Name:
+Ankora
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tossed the hot penne with sour cream prior to adding the hot tomato sauce--very silky.  Instead of tuna I added pre-cooked Chinese BBQ pork.  Kids loved it.
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-16T16:56:32.173
+helpfulCount:
+2
+userID:
+8635191
+Display Name:
+lobalt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Some people might say that I didn't really have this dish, at all, but lacking some ingredients, I got a little imaginative with substitutions:
+Lacking a leek, I subbed a small onion and some minced garlic
+diced tomatoes (with juice) did fine instead of crushed
+I forgot the honey. :(
+Dales steak marinade worked well instead of soy sauce (they have somewhat similar flavors).
+And with no 5-spice, no creme fraiche, and no sour cream, I used (don't laugh) ranch dressing, ground cloves, ground cinnamon, basil, parsley, and ground black pepper
+I also threw some crunchy chow mein noodles on top before serving.
+
+Maybe I changed too much, but my wife ate it, and I'm looking forward to leftovers for lunch tomorrow. :)
+Review:
+Rating:
+4
+dateLastModified:
+2005-02-01T04:59:31.81
+helpfulCount:
+1
+userID:
+1172698
+Display Name:
+PRACTICINGJOY
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+59
+favoritesCount:
+251
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoy the flavors in this simple dish that is sure to satisfy. While it might not be a favorite, it's one I always come back to. I like to make it a little creamier than the recipe calls for. Try pairing it with salad and the Asian Ginger Dressing.
+Review:
+Rating:
+4
+dateLastModified:
+2014-03-10T16:10:19.99
+helpfulCount:
+0
+userID:
+3805733
+Display Name:
+AllieDream
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+134
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I can see how this would be an acquired taste for some. I liked it a lot, and it was easy to throw together with ingredients I already had in the house.

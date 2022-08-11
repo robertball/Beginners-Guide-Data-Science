@@ -1,0 +1,72 @@
+Recipe number:
+236195.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-06T18:08:40.03
+helpfulCount:
+1
+userID:
+2184906
+Display Name:
+Minnesota_Girl
+isPro:
+False
+followersCount:
+51
+followingCount:
+0
+madeRecipesCount:
+346
+favoritesCount:
+822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/331644.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious, I was honestly sad when it was gone and contemplated making another one.  I really enjoyed the flavor combinations and the addition of sunflower seeds.  I made as written, but used lite veggie cream cheese.  Not sure it needs the mayo, I might try leaving it out next time.  Give this one a shot!
+Review:
+Rating:
+4
+dateLastModified:
+2015-10-10T15:28:15.557
+helpfulCount:
+0
+userID:
+16431469
+Display Name:
+Harry Hopkins III
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6029680.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty...I have to explore the use of cream cheese in meat sandwichs more often...thanks for the start

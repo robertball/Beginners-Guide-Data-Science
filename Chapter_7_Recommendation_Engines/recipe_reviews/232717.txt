@@ -1,0 +1,72 @@
+Recipe number:
+232717.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-26T20:18:04.82
+helpfulCount:
+2
+userID:
+8492492
+Display Name:
+Michelle Blum Potratz
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2157830.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This side dish recipe is a keeper, my family loved it! I got this recipe out of a cookbook my Auntie had, Auntie made it for Christmas dinner... I just had to have that recipe lol
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-26T19:57:44.593
+helpfulCount:
+0
+userID:
+3448271
+Display Name:
+C. Davidson
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+938
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/459944.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Grew up eating this with a fried fish meal. The only difference from my mother's recipe is the use of poppy seeds instead of celery seed. I use either red onions, or vidalia.  Love it as a nice contrast to the fried meal.

@@ -1,0 +1,72 @@
+Recipe number:
+245796.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-13T23:05:27.487
+helpfulCount:
+0
+userID:
+14596557
+Display Name:
+Sarah LoTurco
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1638141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I mixed premade pesto with the spinach.  I also baked at 350 for 40 mins.  I also find rolling chicken very difficult so I placed the mixture between two pounded chicken thighs and it turned out very well.
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-18T21:35:21.88
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My daughter loved this.  She said this is amazing, definitely 5 stars.  The center is creamy and delicious.  I hate microwaved food so I baked it at 375 for 30 minutes.  It came out perfect.  Everyone requested I make this again.

@@ -1,0 +1,37 @@
+Recipe number:
+256547.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-01T23:56:01.167
+helpfulCount:
+2
+userID:
+17507702
+Display Name:
+nkamm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+209
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came as close as possible to the original Tarte Flambe I had in Strasbourg.  Loved it and so did my husband.  Will definitely make it again.  I used small chopped ham instead of bacon to give it a more authentic taste.

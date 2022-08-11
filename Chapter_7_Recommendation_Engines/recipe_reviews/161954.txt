@@ -1,0 +1,62 @@
+Recipe number:
+161954.txt
+Review:
+Rating:
+5
+dateLastModified:
+09/24/2008
+helpfulCount:
+2
+userID:
+3158317
+Display Name:
+male
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+You can add baby spinach and lettuce tastes great.
+Review:
+Rating:
+4
+dateLastModified:
+07/15/2008
+helpfulCount:
+1
+userID:
+3023950
+Display Name:
+angelajoh
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Wonderful! I used regular tuna (the type in a packet instead of a can) and replaced olives with grape tomatoes. Wonderful! Light but satisfing.
+Review:
+Rating:
+5
+dateLastModified:
+06/26/2009
+helpfulCount:
+0
+userID:
+2396724
+Display Name:
+HolisticMomma
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is the perfect, easy lunch or side dish. I didn't have parsley or mint when I made this and it still tasted incredible.  ----- Tried it a second time using canned salmon which was just incredible. Better than the tuna, I think.
+Review:
+Rating:
+4
+dateLastModified:
+04/15/2008
+helpfulCount:
+0
+userID:
+2825154
+Display Name:
+AzzaJaba
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This salad tasted really good as a light, quick meal even though I didn't add cilantro or parsley.  I served it with soup. Thank you!

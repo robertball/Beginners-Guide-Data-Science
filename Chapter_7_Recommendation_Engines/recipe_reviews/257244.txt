@@ -1,0 +1,37 @@
+Recipe number:
+257244.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-26T02:08:29.757
+helpfulCount:
+0
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+274
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3431
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cake was just ok for us.  I am not sure that the sweetened condensed milk is necessary  in the boxed cake mix.  I don't know that it actually did anything for the cake considering a box mix is already sweet.  The pears stuck to the bottom of the pan, so, I ended up losing part of them.   I also after cooking the pear filling I tasted the pear mixture before putting it in the cake and we did not care for it, so, I left it out.  I did think the frosting had good flavor.  It was very light and not overly sweet.  It was soft because it is a whipped cream frosting, so, as the recipe author states it is better after refrigerating.

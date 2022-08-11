@@ -1,0 +1,72 @@
+Recipe number:
+268658.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-01T00:47:37.767
+helpfulCount:
+1
+userID:
+24802588
+Display Name:
+Hanna Donahue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I also used Roast Beef as a option as well. It was quick and easy. Great tip
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-27T10:25:36.14
+helpfulCount:
+1
+userID:
+17908286
+Display Name:
+tntwo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6446135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These will be great for a football party. Instead of white bread, I would use toasted Baguette slices and Black Forest ham instead of honey ham. Even grille them lightly on a pancake griddle. Thanks for a great idea.

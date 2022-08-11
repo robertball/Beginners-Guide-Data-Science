@@ -1,0 +1,62 @@
+Recipe number:
+19283.txt
+Review:
+Rating:
+5
+dateLastModified:
+09/09/2003
+helpfulCount:
+2
+userID:
+833780
+Display Name:
+BABYDUDESMOM
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Perfect! I had an order for cookies from this lady who asked me to make her favorite cookies from her childhood. She described them to me and I found this recipe and its the perfect one! thank you so much!
+Review:
+Rating:
+4
+dateLastModified:
+11/16/2012
+helpfulCount:
+1
+userID:
+cookandahalf
+Display Name:
+Cook and a half
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/634548.jpg
+text:
+This taste pretty good. The dough was a bit crumbly and not really easy to work with. They turned out very nice and they are nice and soft.
+Review:
+Rating:
+4
+dateLastModified:
+03/09/2012
+helpfulCount:
+1
+userID:
+2638455
+Display Name:
+Gentiana Page
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2701197.jpg
+text:
+Made these with my kids. Our bakery sells a similar cookie called Speckle Cookies and we wanted to make our own. Not disappointed almost the same cookie! Can't decide which is better though the dough or the finished product!
+Review:
+Rating:
+5
+dateLastModified:
+03/15/2008
+helpfulCount:
+0
+userID:
+1184946
+Display Name:
+QUILTINGCHICKENS
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These are great! They are light and fluffy and deeeeeee-lish!

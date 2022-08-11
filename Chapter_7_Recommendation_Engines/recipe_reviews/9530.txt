@@ -1,0 +1,72 @@
+Recipe number:
+9530.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-10-05T10:51:24.2
+helpfulCount:
+3
+userID:
+2317889
+Display Name:
+mermaid
+isPro:
+False
+followersCount:
+28
+followingCount:
+0
+madeRecipesCount:
+300
+favoritesCount:
+501
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+From the blurb under the title about fresh ingredients, I was a bit shocked that it called for processed cheese food. I know it's a popular dip, but use some other kind of cheese.
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-01T18:06:21.61
+helpfulCount:
+2
+userID:
+1564325
+Display Name:
+Daisy K
+isPro:
+False
+followersCount:
+24
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+1154
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/367761.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this in a crockpot for our Christmas day buffet.  It was really good.  The addition of fresh veggies makes it taste great!  I added more jalapeno because we like it spicy!

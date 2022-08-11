@@ -1,0 +1,37 @@
+Recipe number:
+263556.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-13T01:54:34.703
+helpfulCount:
+0
+userID:
+9591054
+Display Name:
+Revger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+76
+favoritesCount:
+390
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice mixture of flavors and easy to prepare.

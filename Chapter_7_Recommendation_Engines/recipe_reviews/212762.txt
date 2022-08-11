@@ -1,0 +1,72 @@
+Recipe number:
+212762.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-09-17T14:27:45.53
+helpfulCount:
+2
+userID:
+5397074
+Display Name:
+lauli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added garlic cloves (2), sm pc/ginger, and dollop of yogurt to smooth it out
+Review:
+Rating:
+3
+dateLastModified:
+2010-06-14T01:57:22.137
+helpfulCount:
+0
+userID:
+2761942
+Display Name:
+DiamondGirl amanecer
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+350
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/593907.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was a little disappointed with this recipe. At first, I didn't like a brownish color of this chutney. At second, I had a difficulty to blend this chutney to a paste, I had just small dry mint pieces. This recipe, in my opinion, consists too less liquid, so I had to add oil to grind. If you add just water, it doesn't help, or you need too much water. The taste was a little bland.

@@ -1,0 +1,37 @@
+Recipe number:
+255602.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-17T21:07:35.59
+helpfulCount:
+2
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6666
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wait! Before you think, oh KALE no, hear me out. I'm not a big fan of kale either but let me tell you, this one works. If you still want to pass on the kale use something like romaine because this dressing is great. C'mon I dare you to try the kale and dressing, it is really good.

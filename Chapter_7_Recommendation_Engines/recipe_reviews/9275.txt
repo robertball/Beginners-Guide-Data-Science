@@ -1,0 +1,39 @@
+Recipe number:
+9275.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-07-28T04:00:57.48
+helpfulCount:
+38
+userID:
+2971220
+Display Name:
+GeorgieGirlNZ
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very robust to changes of ingredients.  I changed the types of fruit and nuts, but kept the same proportions and it worked beautifully.  
+
+Thanks for this!  My dad loved it.

@@ -1,0 +1,62 @@
+Recipe number:
+236316.txt
+Review:
+Rating:
+5
+dateLastModified:
+04/11/2016
+helpfulCount:
+1
+userID:
+christina
+Display Name:
+Christina
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8555880.jpg
+text:
+Loved it! I used this as an overnight marinade for flat iron steak (for steak salads). Great blend of flavors...a definite keeper~YUM! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+05/08/2016
+helpfulCount:
+0
+userID:
+chefmo
+Display Name:
+Chef Mo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6687890.jpg
+text:
+Quick and easy to make. I had everything on hand and it gave the steaks great flavor!
+Review:
+Rating:
+5
+dateLastModified:
+10/16/2018
+helpfulCount:
+0
+userID:
+6967063
+Display Name:
+Joanne
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very good I ll make this again for sure
+Review:
+Rating:
+5
+dateLastModified:
+08/03/2020
+helpfulCount:
+0
+userID:
+4978925
+Display Name:
+Robin Stark Humphrey
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1880678.jpg
+text:
+Excellent. Good flavor without overwhelming the meat.

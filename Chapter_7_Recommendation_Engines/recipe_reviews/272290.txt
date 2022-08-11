@@ -1,0 +1,37 @@
+Recipe number:
+272290.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-12T23:45:50.913
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+396
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just ok. I didn't dislike it but I really didn't care for it either. I found it an the bland side, needed some vanilla and maybe some almonds. Thank you for sharing but I won't be making this again.

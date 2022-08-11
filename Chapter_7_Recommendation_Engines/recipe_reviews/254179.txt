@@ -1,0 +1,108 @@
+Recipe number:
+254179.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-07T20:35:09.94
+helpfulCount:
+0
+userID:
+11188223
+Display Name:
+Martha Simmons
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1307329.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We only had macadamia nuts and used those instead of the almonds for a good result!
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-06T13:01:13.897
+helpfulCount:
+0
+userID:
+21537105
+Display Name:
+FishTank4CT
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I sliced the sprouts and sauteed them in a tablespoon of oil until wilted.  I used sliced almonds, and had no fresh lemon, so I used a bit of lemon juice.
+I am no fan of sprouts but I will definitely make this again because the flavors went well together and left me wanting seconds.
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-10T16:29:16.423
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I used slivered almonds instead of whole one because I already had them on hand. This turned out really good. My only complaint is that the the nice golden brown panko get soggy when mixed with the sprouts. The flavor is still good but they lose that great texture. Next time I will try just adding them to the top of the already plated sprouts so that they keep their crunch. Thanks for sharing!

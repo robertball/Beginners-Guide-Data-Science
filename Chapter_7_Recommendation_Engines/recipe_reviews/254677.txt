@@ -1,0 +1,107 @@
+Recipe number:
+254677.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-21T04:40:10.497
+helpfulCount:
+0
+userID:
+13446223
+Display Name:
+Ashley R. Hansen
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1736922.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this glaze a lot but to me it tasted a little too sweet and like powdered sugar. I would still use it again tho!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-03T18:09:25.407
+helpfulCount:
+0
+userID:
+15141066
+Display Name:
+sissyneck
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+257
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this!  And my husband couldn't keep away!  It has the moderate sweetness and feel of a mix of banana bread and cake.  It used up some of my old yogurt and bananas, and was easy to make without a stand mixer!  I made the icing with regular milk and sprinkled coconut and sliced almonds on top of the glaze - it was beautiful!  Thank you for the recipe, I will make this again!
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-20T21:44:04.723
+helpfulCount:
+0
+userID:
+16569015
+Display Name:
+Susannah Kim
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+56
+favoritesCount:
+256
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4434946.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good way to use up old Greek yogurt. My hubby liked this more than my usual carrot cake.  But the allspice made this flavor a bit older so the kids weren’t fans.  I’ll keep this recipe as an ole standby for expiring Greek yogurt, but i won’t exactly run out to get ingredients just to be able to make this again.

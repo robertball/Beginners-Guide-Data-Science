@@ -1,0 +1,76 @@
+Recipe number:
+274445.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-02-18T20:58:48.593
+helpfulCount:
+0
+userID:
+10009481
+Display Name:
+Kayrom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These might work better as a loaf than a muffin. It doesn't make a batter but rather a fairly heavy dough. 
+
+It was really difficult to get the dough into muffin cups in the first place, and they didn't rise much, if at all, during baking. I've yet to try one, as they're straight out of the oven, but if they didn't rise and were heavy going in, I'm pretty sure they're going to be heavy coming out. (Baking powder and baking soda fresh within the past month.)
+
+This recipe does not make the big, over-sized muffins you'd expect. Probably wouldn't make them again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-21T20:46:41.397
+helpfulCount:
+0
+userID:
+14409904
+Display Name:
+Bob Grant
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1523397.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This simple scratch recipe makes the best muffins, not cake texture, but light enough. I used a sugar substitute made for baking and it worked out. I am always cautious when using it, but we are diabetic, a a full cup of real sugar would take these off of my wife’ s menu.

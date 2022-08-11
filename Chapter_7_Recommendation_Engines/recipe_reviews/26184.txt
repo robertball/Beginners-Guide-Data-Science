@@ -1,0 +1,72 @@
+Recipe number:
+26184.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-12-07T14:51:50.64
+helpfulCount:
+11
+userID:
+548263
+Display Name:
+Cindy Nastasi
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+730
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1423061.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2008-10-19T13:25:16.75
+helpfulCount:
+2
+userID:
+3214106
+Display Name:
+cookie1224
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is just how I remembered it. My Mom will be so surprised when I bake her  a batch of these. Thank you so much for sharing this wonderful recipe.

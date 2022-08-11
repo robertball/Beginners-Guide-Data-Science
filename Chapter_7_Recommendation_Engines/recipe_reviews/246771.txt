@@ -1,0 +1,72 @@
+Recipe number:
+246771.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-24T08:36:11.777
+helpfulCount:
+5
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This ain't your momma's boxed mac 'n cheese! This is creamy, ooey gooey goodness that melts in your mouth. It's pretty simple to put together, too. I used Barilla GF Rotini and tossed in a handful of Barilla's GF Elbows I had hanging around. They have two different cooking times but neither suffered and, at 7 minutes, they were both ready for their blanket of sauce. I followed the notes about popping this under the broiler, but added some GF bread crumbs and used grated Pecorino Romano seeing that I'd used up all my cheddar in the sauce. Definitely a potluck worthy treat. A quick mention about portions. This stuff is so good, make extra. What is written here for 6, fed 3 regular sized adults, with normal appetites but "golosi". So, schedule me an intervention if you want, but know that you will want large portions. It is THAT good. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-20T00:42:16.67
+helpfulCount:
+2
+userID:
+3086352
+Display Name:
+ldemmert
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+258
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I could not find potato starch so I used cornstarch and it was still amazing

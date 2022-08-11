@@ -1,0 +1,37 @@
+Recipe number:
+276076.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-25T22:01:13.97
+helpfulCount:
+0
+userID:
+10573412
+Display Name:
+Dspade
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Prepared as per directions, very good, nice change from traditional dark or milk chocolate drink! Will make again!

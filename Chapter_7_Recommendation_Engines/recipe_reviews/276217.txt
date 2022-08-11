@@ -1,0 +1,37 @@
+Recipe number:
+276217.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-13T22:55:39.363
+helpfulCount:
+0
+userID:
+1860088
+Display Name:
+Ruth McCoskey
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3474416.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I skipped the bacon because we are on a low sodium diet. It was awesome!!!

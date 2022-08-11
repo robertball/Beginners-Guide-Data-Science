@@ -1,0 +1,72 @@
+Recipe number:
+277794.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-21T13:34:22.94
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+969
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This works pretty well. I don’t have a see-through lid, but it works with a regular one. I topped mine with melted habanero lime butter. Next time, I’ll spray with chipotle oil. It was delicious. And no splatter mess!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-21T16:42:32.51
+helpfulCount:
+0
+userID:
+11367939
+Display Name:
+Patrick Swick
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+117
+favoritesCount:
+692
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7419266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+yummy

@@ -1,0 +1,72 @@
+Recipe number:
+107017.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-03-12T14:42:03.803
+helpfulCount:
+8
+userID:
+2771981
+Display Name:
+SRINATH KN
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This south Indian cuisine is always the best with upma
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-18T11:30:13.99
+helpfulCount:
+0
+userID:
+5769473
+Display Name:
+jenn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+45
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The first time I made this was for Diwali, with a family visiting from India (I am not Indian nor am i particularly familiar with Indian cooking).  Stressful!  I thought it was delicious and they seemed to like it, 4 stars.

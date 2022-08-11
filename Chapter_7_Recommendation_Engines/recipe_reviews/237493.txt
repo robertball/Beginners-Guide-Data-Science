@@ -1,0 +1,72 @@
+Recipe number:
+237493.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-09T14:33:43.36
+helpfulCount:
+0
+userID:
+23847776
+Display Name:
+Lori
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Instead of using potatoes, I saved some time and used sliced black olives. It turned out really neat. The only reason I rated this a 4 instead of a 5 is because of the unhealthy ingredients. It tastes really good, but definitely not something you'd want to eat too often. I made it as an appetizer actually, and everyone loved it. Very festive looking.
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-10T13:33:36.687
+helpfulCount:
+0
+userID:
+23561359
+Display Name:
+Manny Dineen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5291918.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+nice and good

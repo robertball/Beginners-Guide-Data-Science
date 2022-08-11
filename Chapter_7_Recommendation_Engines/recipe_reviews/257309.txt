@@ -1,0 +1,37 @@
+Recipe number:
+257309.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-07T04:37:16
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I can't say enough good about this. We loved it! The chips and parm combo are a bit salty on their own but the fresh basil ties it all together into perfection. 5 stars all the way!

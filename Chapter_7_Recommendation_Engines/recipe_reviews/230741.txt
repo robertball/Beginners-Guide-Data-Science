@@ -1,0 +1,37 @@
+Recipe number:
+230741.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-16T08:39:19.437
+helpfulCount:
+0
+userID:
+595028
+Display Name:
+ANATUCUMANA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I haven't actually tried it but it's very similar to the empanadas we used to make just across the Andes, in Tucuman, Argentina. Our family has also adapted it to a pie. It is indeed very good. For Tucuman flavor, use small whole olives, chop up one or two hard boiled eggs and add them to the final mixture, and also add hot pepper flakes to taste for a little bite. It does make very good leftovers.

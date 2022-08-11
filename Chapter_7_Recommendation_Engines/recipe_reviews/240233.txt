@@ -1,0 +1,72 @@
+Recipe number:
+240233.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-24T17:48:33.973
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I only used half of the ramen noodles the recipe called for due to personal preference. There was already a lot of crunch going on and I didn't seen the need to add the extra calories. This was great! I'm not a huge fan of fruit in my salad but I loved it in this recipe. The browned butter really brought all of the flavors together. This one is a keeper!
+Review:
+Rating:
+3
+dateLastModified:
+2019-07-09T17:39:53.17
+helpfulCount:
+0
+userID:
+13650975
+Display Name:
+ChilePequin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+1417
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5957282.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+recipe didnt specify what type of vinegar. I used apple cider vinegar. didnt like it with acv. may be a good base to start with.

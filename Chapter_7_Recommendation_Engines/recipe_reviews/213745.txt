@@ -1,0 +1,107 @@
+Recipe number:
+213745.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-03-09T08:17:05.58
+helpfulCount:
+17
+userID:
+4526033
+Display Name:
+Swiss Phil
+isPro:
+False
+followersCount:
+168
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/343665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am the submitter of this recipe. ostrich is NOT a poultry-type meat, but is a red meat and is best cooked to medium rare or rare, otherwise it goes very leathery. So when cooking the steaks it would not be possible to get a golden brown on each side and to get rid of all the pink! Cook the steaks more gently rather than sear them, and treat them as you would treat Venison.
+Review:
+Rating:
+5
+dateLastModified:
+2010-05-07T00:39:15.547
+helpfulCount:
+13
+userID:
+1001329
+Display Name:
+David Robinson
+isPro:
+False
+followersCount:
+77
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+221
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1673366.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They brought ostrich to Colorado years ago in an attempt to introduce us to the delicate meat. The project failed miserably and never became mainstream I think because the birds were so large, unusual and regal but a few restaurants still prepare it. Very meaty and lean it is delicious when prepared properly. I'm a fan although it is no longer sold retail here. California Cafe in Denver still features it and it expensive but incredible and worth it! (30.00 a steak)
+Review:
+Rating:
+5
+dateLastModified:
+2011-03-20T05:50:20.83
+helpfulCount:
+4
+userID:
+3448006
+Display Name:
+Michaela
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/614380.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you :)  I had no idea how to cook ostrich steaks and this really hit the spot.  FANTASTIC Sunday lunch.  My bf LOOOOOVED it.  I didn't have apple brandy so I substituted apricot brandy and it was still delicious.  Can't wait to make it again!

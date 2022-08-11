@@ -1,0 +1,80 @@
+Recipe number:
+274235.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-11T14:00:51.367
+helpfulCount:
+0
+userID:
+14044627
+Display Name:
+Alison Collins Wright
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1327450.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+AMAZING!!  Makes a LOT of sauce, and uses a lot of spices, but OMG it is so worth it.  My husband scarfed it up (so did I).  It has exactly the right amount of heat, just a little zip.  I used boneless, skinless chicken thighs - which I would highly recommend.  I used less butter, and had to sub sour cream for the plain yogurt, so it's tweakable - but the spice combination is heavenly.  I served it with white rice and steamed snow peas.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-20T21:51:35.31
+helpfulCount:
+0
+userID:
+11243129
+Display Name:
+mark blum
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6039947.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First: I'll make this again this weekend.
+
+Second: apologies to the author, since I *thought* I followed the recipe to the letter.
+
+Third: this week I will learn how to read, and NOT add 4T cayenne when it calls for much less!  I coulda killed a moose!!!
+
+More later, since I really, really love curry.
+
+If I don't kill myself in the kitchen.

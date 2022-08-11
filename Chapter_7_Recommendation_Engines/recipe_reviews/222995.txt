@@ -1,0 +1,37 @@
+Recipe number:
+222995.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-06-11T20:17:01.76
+helpfulCount:
+4
+userID:
+1846950
+Display Name:
+Zia
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+88
+favoritesCount:
+198
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/667869.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this today after my neighbor gave me a huge bag of loquats.  They are a very cool, crisp fruit.  The only problem I had is with oxidation/browning of the fruit as I cut them.  So I put them in the lime juice and I used the juice of the whole lime instead of the 1 tbsp.  Next time I may use a lemon instead.   The salsa came out perfect to go on top of our fish dinner!  This is a great summer salsa! It takes a few extra minutes peel and slice those loquats, but it wasn't so bad.

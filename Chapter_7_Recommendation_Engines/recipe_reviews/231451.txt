@@ -1,0 +1,107 @@
+Recipe number:
+231451.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-04-20T21:41:50.707
+helpfulCount:
+1
+userID:
+8971981
+Display Name:
+tamaribu
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just made this, super fast and easy. Didn't have gomasio, used a little shiso furikake and dash of sea salt. Delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-14T06:12:58.113
+helpfulCount:
+1
+userID:
+3931335
+Display Name:
+Giant Brain
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was only the second time I've cooked collards. First time, my wife wouldn't eat them. This time, she had seconds. Caveats: I didn't have mirin, so I used sake + raw sugar. I didn't have gomasio, so I used furikake, and only 1T of that. I did use the optional onions. I was quite pleased, especially since my large bunch of collards cost 29 cents.
+Review:
+Rating:
+3
+dateLastModified:
+2014-12-30T23:09:13.997
+helpfulCount:
+0
+userID:
+2291153
+Display Name:
+Wilma Laura Wiggins
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+103
+favoritesCount:
+651
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2154838.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was, as advertised, quick and easy. But the collards tasted bitter. Maybe it was my batch. I was disappointed.

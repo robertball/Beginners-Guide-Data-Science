@@ -1,0 +1,37 @@
+Recipe number:
+272907.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-20T21:14:52.88
+helpfulCount:
+2
+userID:
+4221042
+Display Name:
+BarbB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+548
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5750290.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe almost exactly & we loved these beans!  We also loved having 3 qt. sized freezer bags leftover.  We like spicy & we don't worry too much about fat and calories so this is a keeper! Forgot the photo, but will get it next time.

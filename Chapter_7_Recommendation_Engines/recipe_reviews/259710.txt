@@ -1,0 +1,37 @@
+Recipe number:
+259710.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-16T17:13:29.1
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This has a great flavor, and I am enjoying it reheated days later. However, I'm so glad I didn't put it in the crock pot overnight. I made this during the day because I was skeptical of the long cooking time. I checked it at 4 1/2 hours, and it was already sticking very badly to the pot and just about to burn. Next time, I would either decrease the oats to 1 3/4 cup or increase the water by at least 1/2 cup, and only cook for 4 hours. It is very tasty though!

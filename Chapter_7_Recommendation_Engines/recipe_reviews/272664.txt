@@ -1,0 +1,39 @@
+Recipe number:
+272664.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-09T23:16:00.8
+helpfulCount:
+0
+userID:
+24395386
+Display Name:
+Sean Flater
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5868516.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely enjoyed it! I did make a few small changes, such as no corn/corn byproducts because of allergies, and honestly, who needs cheap fillers like that with all of the other good stuff in this recipe? Used smoked spices because I didn't have liquid smoke, (I also blackened the smoked spices onto the pork roast when I browned it, which was amazing.) All in all, I look forward to making it again!
+
+My brother-from-another-mother won't give me his Abuela's secret recipie; but this was close enough that it curbed the cravings!

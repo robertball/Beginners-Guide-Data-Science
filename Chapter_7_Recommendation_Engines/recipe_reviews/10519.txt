@@ -1,0 +1,72 @@
+Recipe number:
+10519.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-05-20T13:48:23.327
+helpfulCount:
+5
+userID:
+35469
+Display Name:
+WILLIAMS01
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice surprise.  It was easy to make and the cookies were very flaky and buttery.
+Review:
+Rating:
+3
+dateLastModified:
+2015-04-04T08:59:53.697
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As written.. 3 stars.  First thing, the dough was way too moist to roll out. I added a little more flour.. didn't seem to help much and I didn't want to add too much or else this would turn into a bread. So I sort of squished it into balls and smooshed into the muffin cups ( I used minis) and then topped with the jam. If the dough had been able to be rolled, I might have been able to add more jam but as it was, the cookies were not very sweet. I topped these with a bit of glaze and that improved it. I tried them this morning from the fridge and that is how I liked them best... cold with the glaze. Once they came to room temperature, not as much

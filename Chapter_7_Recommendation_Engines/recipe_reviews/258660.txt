@@ -1,0 +1,72 @@
+Recipe number:
+258660.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-17T20:02:18.247
+helpfulCount:
+0
+userID:
+23310724
+Display Name:
+LAB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This chicken was a huge hit with my family and it's an easy recipe.  I only did a couple of things differently:  I used a teaspoon each of salt and red pepper flakes instead of the tablespoon of each that was called for.  And I added garlic powder to the marinade, probably 1/8 to 1/4 teaspoon of garlic powder.  Yum.  Definitely a do-again!
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-28T19:43:38.333
+helpfulCount:
+0
+userID:
+12236606
+Display Name:
+Jeremy Ritter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1277483.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked how this marinade worked out; I only did a small batch of chicken thighs, because I wanted to use an indoor grill. After marinating for five hours(wrapped), I grilled it at 375, closed, for twelve minutes, then transferred it to a 375 preheated oven for an additional fifteen. Flavor is excellent, but chargrilled would definitely yield a better flavor!

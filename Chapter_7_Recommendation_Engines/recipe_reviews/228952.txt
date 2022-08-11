@@ -1,0 +1,72 @@
+Recipe number:
+228952.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-10-18T10:13:40.113
+helpfulCount:
+3
+userID:
+8856022
+Display Name:
+FeedMySheep
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/873560.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe needs to state a specific type of rice to use. The rice vinegar was too overpowering in the rice.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-09T22:58:19.88
+helpfulCount:
+1
+userID:
+21858771
+Display Name:
+Jared Gordon
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was amazing I recommend it. Best sushi I ever had

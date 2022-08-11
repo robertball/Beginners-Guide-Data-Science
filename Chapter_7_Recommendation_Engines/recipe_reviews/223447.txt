@@ -1,0 +1,39 @@
+Recipe number:
+223447.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-15T08:28:18.063
+helpfulCount:
+0
+userID:
+16504370
+Display Name:
+MNseasonlover
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed this recipe as it was written and when tasting the individual layers, felt the sundried tomato pesto was going to over power the rest.  However, after layering it and chilling it, the lemon layer was the strongest, which I actually liked!
+
+I wish the photo showed the 3 separate layers with the red tomato pesto, green basil pesto, and then the lighter lemon pesto.  I plan to make this again for our Christmas party this Sunday and will try to remember to take a photo and post it showing the layers.

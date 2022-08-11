@@ -1,0 +1,72 @@
+Recipe number:
+218468.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-07-15T13:59:23.057
+helpfulCount:
+12
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We absolutely loved this. I've got a bit of a summer cold, so I drank a good portion of this myself. It was simple, the ingredients were cheap and easy to obtain and it was delicious! This may just be our new summer drink--and the husband and I talked about making this an adult cocktail with a little vodka!
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-30T02:44:50.917
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very refreshing and so easy to make! Would be nice with a little vodka for an adult drink too! Will make throughout summer!

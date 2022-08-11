@@ -1,0 +1,37 @@
+Recipe number:
+244316.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-07-05T13:33:40.56
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was different and I am glad I tried it. It really just tasted like almond butter with cheese... rather than cheese. Maybe more nutritional yeast? It wasn't bad.. just a little odd.

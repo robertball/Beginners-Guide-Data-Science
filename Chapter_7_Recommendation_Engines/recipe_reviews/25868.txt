@@ -1,0 +1,72 @@
+Recipe number:
+25868.txt
+Review:
+Rating:
+4
+dateLastModified:
+2004-09-26T18:20:23.007
+helpfulCount:
+11
+userID:
+523750
+Display Name:
+Ronda Rountree
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+134
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6405135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very Nice!!  I did not add the steak sauce, and used pre-cooked shrimp.  Quick and easy.
+Review:
+Rating:
+1
+dateLastModified:
+2001-07-28T10:51:49.483
+helpfulCount:
+11
+userID:
+403474
+Display Name:
+TAMATHAK
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+49
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The steak sauce and Worcestershire sauce overpowered all other flavors.  I recommend reducing these items by at least half.

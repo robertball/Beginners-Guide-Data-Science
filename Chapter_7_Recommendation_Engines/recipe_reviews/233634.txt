@@ -1,0 +1,107 @@
+Recipe number:
+233634.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-15T18:21:29.373
+helpfulCount:
+6
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+774
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3991
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this after lunch and then served it to two grandchildren after their naps. They liked it. Then I served it as dessert for my husband and me after dinner. Considering I have not eaten sweets in 8 weeks, I thought it was very refreshing. It's definitely a healthy alternative to sugar laden sweets and snacks and something I don't feel guilty eating. The only problem I see is that the bananas darkened a little. I'm wondering if they will darken even more by tomorrow.
+Review:
+Rating:
+3
+dateLastModified:
+2014-06-16T12:48:59.977
+helpfulCount:
+2
+userID:
+1498968
+Display Name:
+Tina Nielsen Yeagley
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+153
+favoritesCount:
+1969
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1638108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The taste was good, but the texture was not. My kids and I didn't like the pieces of orange in it. Maybe a bit of orange juice instead, or mandarin oranges might be better to us as far as the texture goes.
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-23T14:57:44.563
+helpfulCount:
+0
+userID:
+15100556
+Display Name:
+Irma Smajlovic
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2824247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is such a scrumptious snack and very healthy.:)

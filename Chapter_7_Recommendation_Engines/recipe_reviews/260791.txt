@@ -1,0 +1,37 @@
+Recipe number:
+260791.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-21T21:27:38.683
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+400
+followingCount:
+0
+madeRecipesCount:
+1107
+favoritesCount:
+3213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very rich but very good. I used sugar free hot chocolate mix and fat free evaporated milk. I can only imagine how much richer it would be with full fat evaporated milk. I would make this again.  Thank you for the recipe.

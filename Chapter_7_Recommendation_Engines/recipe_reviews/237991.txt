@@ -1,0 +1,107 @@
+Recipe number:
+237991.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-05T15:45:29.507
+helpfulCount:
+1
+userID:
+2382398
+Display Name:
+djpcan1964
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+408
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+totally bland though, added horseradish to give it some bite
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-26T04:21:56.297
+helpfulCount:
+1
+userID:
+16055917
+Display Name:
+"Flame"ingo Hot sauces
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I left out tofu and used a dolop of helmans mayo and 2 dolop of sour cream to the Greek yogurt stirred by hand heavy on the dill and just used a cheese grater for stripe pealed cucumbers, you can even use your choice of vinegar in place of lemon ,I use lemon garlic rice vinegar only use small amounts,as it will break down and lose its thick consistency also pat dry with a paper towels your grated cucumbers  .maybe ill post my own but love the bones of this recipe it's great as is this just where my flavor saver took me:) enjoy.
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-15T16:34:33.4
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this a tad bland. I added some harissa to give it some kick. I used firm silken tofu and blended it in the blender. It came out rich and creamy.

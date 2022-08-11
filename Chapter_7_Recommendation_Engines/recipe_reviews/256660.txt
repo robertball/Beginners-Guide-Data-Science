@@ -1,0 +1,107 @@
+Recipe number:
+256660.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-12T17:10:55.117
+helpfulCount:
+0
+userID:
+12229283
+Display Name:
+Todd Drackley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7022242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delicious, the whole family loved it.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-20T18:44:13.123
+helpfulCount:
+0
+userID:
+10241678
+Display Name:
+Kathryn Tuckerman Little
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+157
+favoritesCount:
+1153
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1827737.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used guacamole in lieu of avocado.  Easy and filling.  I will prepare again, but try to add additional flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-28T16:02:12.567
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good... my only change was to saute the red and green peppers... I added lettuce for crunch

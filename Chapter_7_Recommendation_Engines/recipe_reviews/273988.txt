@@ -1,0 +1,38 @@
+Recipe number:
+273988.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-25T00:29:15.563
+helpfulCount:
+0
+userID:
+14189389
+Display Name:
+Lola Estrada
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2379673.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it in my instant pot. 
+Pork shoulder and rice and beans came out so juicy.

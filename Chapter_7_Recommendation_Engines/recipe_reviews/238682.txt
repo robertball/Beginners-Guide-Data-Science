@@ -1,0 +1,37 @@
+Recipe number:
+238682.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-21T15:23:59.303
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not a pretty dish to look at but it sure tasted good! When I make this again I'll use more parm and also fresh basil. Good recipe!

@@ -1,0 +1,37 @@
+Recipe number:
+274751.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-08-29T01:44:07.453
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+519
+favoritesCount:
+2121
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't love it on its own, but I think the chicken would great as part of a dish (chicken wraps, or on top of salad, etc), combined with other flavors. That's not to say it didn't taste good, the flavors just didn't pop as much as I would have liked. When I mixed up the marinade, I did find it to be delicious though! I marinated the chicken for the minimum 1 hour, however I would suggest going longer than that for maximum flavor.  Also take care grilling the chicken; the honey tends to want to burn. Medium heat instead of medium-high helps with that.

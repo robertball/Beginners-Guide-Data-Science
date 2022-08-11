@@ -1,0 +1,72 @@
+Recipe number:
+272897.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-19T13:57:05.08
+helpfulCount:
+0
+userID:
+4141307
+Display Name:
+Molly
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+402
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1152909.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great but for me, but I did make a lot of changes. I felt there was too much oil and not enough zing, so I added more salt, vinegar, more lemon juice, and some lemon zest. to counteract all the craisins . I would reduce the amount of craisins next time. I think three quarters or half the amount would be fine. I used whole baby kale leaves instead of regular. (I think arugula would be a good green to use as well.) Additionally, I used a yellow pepper instead of red because I just prefer them and how they look in a salad. Lastly,  before serving I threw on some toasted pine nuts and mixed them in with the kale. They were the perfect addition. Yum!
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-13T12:45:09.797
+helpfulCount:
+0
+userID:
+24295502
+Display Name:
+Melody Gruenhagen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6332117.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will make again. My husband and grown son even liked it. I think next time I will add almonds for some crunch.

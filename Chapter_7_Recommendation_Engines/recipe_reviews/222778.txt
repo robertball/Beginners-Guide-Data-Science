@@ -1,0 +1,73 @@
+Recipe number:
+222778.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-24T12:26:38.597
+helpfulCount:
+1
+userID:
+12938568
+Display Name:
+RK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my go-to recipe (with some personal tweaks) for burgers every year for my 4th of July BBQ. Great flavor!
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-14T06:48:54.603
+helpfulCount:
+1
+userID:
+12992352
+Display Name:
+scott mauck
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2273899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very Tasty and a nice change.
+A little cucumber sauce and your there!

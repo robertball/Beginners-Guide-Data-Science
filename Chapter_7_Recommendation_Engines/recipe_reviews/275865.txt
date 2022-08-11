@@ -1,0 +1,74 @@
+Recipe number:
+275865.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-20T23:10:42.487
+helpfulCount:
+1
+userID:
+10958993
+Display Name:
+Ken
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't make changes to the recipe, and I can confirm the apple pie is great. Just forget the cheese. After refrigeration the cheese is hard and dry
+ Even reheating didn't improve it. The poured on treatment was excellent and the crust was outstanding.  It will be my go-to for apple pie. BTW, I used gala apples.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-14T16:37:43.03
+helpfulCount:
+0
+userID:
+14175289
+Display Name:
+sunny weather girl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this pie and love the creamy sauce inside. My husband loves the cheese aspect because he never has enough cheese in his diet... Lol. 
+It's delicious and the next day for breakfast with a cup of coffee too. Yum

@@ -1,0 +1,72 @@
+Recipe number:
+182042.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-12-11T14:56:54.287
+helpfulCount:
+4
+userID:
+1073585
+Display Name:
+Karen McIntyre Farrell
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+627
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2996920.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to alter this based on the ingredients I had on hand.  I skipped the mushrooms, and used frozen broccoli florets - which I cooked by throwing in with the tortellini.  This was quick, delicious, and tasted like I spent MUCH more time than required to make dinner!  Husband said it's a definite keeper.
+Review:
+Rating:
+2
+dateLastModified:
+2009-01-13T09:58:28.12
+helpfulCount:
+0
+userID:
+3240680
+Display Name:
+jennyhahn1
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+981
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/524115.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was just OK for us.  Easy YES, but it seemed like something was missing.  In think it would be good as soup...maybe

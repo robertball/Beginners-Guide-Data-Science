@@ -1,0 +1,37 @@
+Recipe number:
+80003.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-08-07T12:06:10.217
+helpfulCount:
+0
+userID:
+575179
+Display Name:
+DELTAQUEEN50
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+355
+favoritesCount:
+1039
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/41813.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just used the marinade for the sirloin steaks I was BBQing and it was great.  A real difference from my usual Teriyaki-Ginger or Red Wine Marinades.  The steaks were tender and juicy, with a mild mustardy-garlic flavor with a bit of a kick.  We really liked this marinade and I will be using it often.

@@ -1,0 +1,37 @@
+Recipe number:
+262595.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-10T18:27:33.113
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Scaled this down to 2 servings and made as written. This didn't look the prettiest but the flavor was great. The pickled jalapeno really made this one stand out. I actually made 3 different vegan ceviche's last night and this one was my husbands favorite. He said it had a smoky flavor and one that stood out. We did both agree that it needed more cilantro and so I added it but other than that I wouldn't change anything next time.

@@ -1,0 +1,37 @@
+Recipe number:
+247297.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-01T14:17:10.777
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were good but too sweet in our opinion. I made as written but scaled the recipe down because there is only two of us. Captain Morgan was my spiced rum of choice. The only thing I did differently was to keep the lemon lime soda on the side and I did that for two reasons. Again there is only two of us and I knew this would not all be consumed in one setting so I didn't want the soda going flat. The other reason I kept it separate is that hubs likes his drinks a lot more stout than I do. So, by keeping it separate we could add as little or as much as we wanted to suit out own taste. This would have been a perfect drink without the sugar. The soda alone is all  the sweetness you need.

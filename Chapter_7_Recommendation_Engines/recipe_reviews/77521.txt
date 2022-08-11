@@ -1,0 +1,107 @@
+Recipe number:
+77521.txt
+Review:
+Rating:
+1
+dateLastModified:
+2005-12-01T14:23:05.623
+helpfulCount:
+16
+userID:
+1518320
+Display Name:
+Shelly Carter Jordan
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1360025.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awful! I was looking forward to this dish but it was not good. Sorry.
+Review:
+Rating:
+3
+dateLastModified:
+2009-05-12T06:17:48.797
+helpfulCount:
+6
+userID:
+1446852
+Display Name:
+EILISH40
+isPro:
+False
+followersCount:
+22
+followingCount:
+0
+madeRecipesCount:
+586
+favoritesCount:
+889
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry to give this a lower rating but to make it very acceptable (to our tastes) substitute plain Greek style yoghurt and some grated lime rind.   This way it is not too sweet.
+Review:
+Rating:
+3
+dateLastModified:
+2015-02-07T19:43:04.423
+helpfulCount:
+0
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This rating is based on changes I made, which was to use plain Greek yogurt instead of key-lime yogurt (as EILISH40 suggested) and omit almonds (didn't have any). I really liked the sauce, so I am glad I made the change to plain yogurt as I think the key-lime yogurt would have made it way too sweet. I feel like something was missing, though. It probably was the almonds, but maybe raisins would be good, as well? I'm not good at figuring out the magic ingredients that make dishes extra yummy.

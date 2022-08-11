@@ -1,0 +1,107 @@
+Recipe number:
+22178.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-11-09T07:45:57.42
+helpfulCount:
+8
+userID:
+1593845
+Display Name:
+Theresa M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make a chunky veggie spaghetti sauce and had some leftovers on the stove when I found this recipe so I thought I'd give it a try. Very, very good and it's a great way to use leftover veggies. I'd still like to try the original recipe with asparagus and carrots.
+Review:
+Rating:
+4
+dateLastModified:
+2005-08-10T09:36:25.06
+helpfulCount:
+8
+userID:
+1366414
+Display Name:
+MATTHEWF335
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/18.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice idea, putting the eggs right in the veggies.  I didn't like the idea of the spaghetti sauce though, so I made a gravy from a packet of the chicken seasoning that you get in ramen noodles.  Spinach works really nice here; also a sprinkling of fresh parmesan right before serving
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-15T05:23:15.027
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and easy to follow. I added some zucchini.

@@ -1,0 +1,37 @@
+Recipe number:
+274772.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-24T16:30:57.73
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very flavorful breakfast idea! I used turkey breakfast sausage instead of pork, for a healthier option.  You may need to add salt to the meat mixture, depending on the sausage you use.  You may also need to add in some oil while cooking the sweet potato mixture. I think this would be even more of a neat breakfast idea served with a fried egg over top. A tasty combination of spices and it smells fantastic while cooking!

@@ -1,0 +1,37 @@
+Recipe number:
+261163.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-11T17:24:18.527
+helpfulCount:
+0
+userID:
+22170712
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+274
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5744620.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+really good

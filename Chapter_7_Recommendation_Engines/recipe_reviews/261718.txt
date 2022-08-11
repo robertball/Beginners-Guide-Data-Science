@@ -1,0 +1,37 @@
+Recipe number:
+261718.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-15T00:58:16.623
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did leave out the optional sunflower seeds which would have added some flavor but we don't care for nuts in our food so I didn't. This is okay but it definitely needs more seasoning or some type of sauce to give it some flavor.

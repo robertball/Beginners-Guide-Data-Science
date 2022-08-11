@@ -1,0 +1,37 @@
+Recipe number:
+246065.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-03-03T15:40:09.253
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8908
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2280
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had issues with this recipe. The softened butter and sour cream did not mix together very well, as my sour cream was cold and caused my butter to seize up, making it chunky rather than "fluffy". I'm wondering if the sour cream should be room temperature? My next issue was baking time. I had to bake these for a full 15 minutes, and still, the edges were not brown, and when I tried to remove them from the pan, the bottoms stuck something terrible to the parchment paper and pretty much took the bottoms off of the cookie. They tasted okay (my kids won't eat them - said they're too sweet), but these are not something that I'd make again. Sorry!

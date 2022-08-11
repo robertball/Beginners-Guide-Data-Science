@@ -1,0 +1,37 @@
+Recipe number:
+237363.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-26T15:29:30.747
+helpfulCount:
+0
+userID:
+9057456
+Display Name:
+JennaLovesToCook
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+809
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3232916.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came across this recipe by accident and I'm glad I did. It's not even fully cooled and everyone's digging in! Store-bought granola is so expensive and (let's face it) ingredient lists are LONG. I substituted a cup of some healthy cereal that my kids wouldn't eat for a cup of the oatmeal, added peanuts rather than cashews (what I had). Great versatile recipe. Thanks for sharing with us!

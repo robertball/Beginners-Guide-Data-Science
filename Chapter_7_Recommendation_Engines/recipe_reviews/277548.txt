@@ -1,0 +1,37 @@
+Recipe number:
+277548.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-20T18:27:14.553
+helpfulCount:
+0
+userID:
+26909264
+Display Name:
+Shannonu
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was delicious. Great cranberry and orange flavors. The crust was not so "doughy" and fell to the bottom when I cooked it. This made it very thick. When I cooked it with the curd, it boiled over then cooled uneven, but it was great to eat! I did not strain it for lack of time and unless you mind a little cranberry seed or orange piece it is fine. I used a vitamix to blend so it was very smooth. I will make again!

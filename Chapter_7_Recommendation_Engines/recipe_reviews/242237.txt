@@ -1,0 +1,187 @@
+Recipe number:
+242237.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-25T20:10:14.663
+helpfulCount:
+5
+userID:
+12058699
+Display Name:
+doris_smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+233
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!  I did change two things.  I added more rose water because I liked a stronger taste (It would have been fine with the listed amount), and I coated it heavily in powdered sugar.  I live in the south.  We have a lot of moisture.  So, my finished product kept sweating.  It tastes amazing and sets up great!  Perfect!
+Review:
+Rating:
+3
+dateLastModified:
+2018-03-19T03:57:49.65
+helpfulCount:
+4
+userID:
+8361324
+Display Name:
+Jeannie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First, cornflour and cornstarch are exactly the same product.  One is simply the British name for the other.  Apparently, a previous reviewer and her daughter used cornmeal, if the texture was like a tortilla.
+
+Second, in answer to the other previous reviewer who was confused about the 3/4c. and 1 1/2c. confectioner’s sugar amounts: if you read the recipe, you’ll see they are two separate amounts listed and used at two separate times for two separate purposes in this recipe.  Always read your recipe completely through several times before starting, and have all ingredients and tools mise en placed so that everything runs smoothly.  With baking and confectionery, timing and exact measurements are essential, as is following to a “T” the exact instructions.  Fumbling around and measuring as you go is a guarantee for failure.
+
+Third, depending on the wattage of tbe microwave used to make this recipe, the time it takes to bloom the gelatin will vary widely.  It can take as little as four and as many as twelve minutes.  You must carefully watch your mixture and use common sense.
+
+Finally, if your finished product “sweats” or seeps, it was not cooked long enough and did not cure long enough before cutting and tossing in the confectioner’s sugar/cornstarch coating.  Turkish Delight should really rest a minimum of 24 hours, and up to 2 days, covered with plastic wrap, before being cut and finished.  And storing it in tbe refrigerator is a guarantee that your candy will become sticky a
+Review:
+Rating:
+1
+dateLastModified:
+2016-12-04T01:30:19.883
+helpfulCount:
+2
+userID:
+20868638
+Display Name:
+ksassarini
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My daughter and I made this because of the lion, the Witch, and the wardrobe. A few key factors in why the rating is so low. It is, in fact,  supposed to be cornstarch NOT Corn flour! We used Corn flour and it tasted like a jello tortilla. I also am unsure of the 1 1/2 cups powdered sugar to be added into the wet mixture. Is it the 3/4 cup mentioned in the recipe, just sifted? And it may just be that we are not suited to the texture of Turkish delight after all...
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-07T03:04:59.723
+helpfulCount:
+0
+userID:
+1494805
+Display Name:
+AndreaRose1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/146.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. 
+Traditional texture and flavor.
+ SO easy!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-01T20:14:22.403
+helpfulCount:
+0
+userID:
+20207710
+Display Name:
+Deanna M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Is the recipe using Corn Flour or Corn Starch or are they the same thing? Other recipes I'm seeing say to use cornstarch. 
+
+This looks much easier cooking in a microwave rather than cooking over the stove.  This is the first recipe I've seen that is using the microwave.

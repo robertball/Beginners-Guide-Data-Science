@@ -1,0 +1,72 @@
+Recipe number:
+260070.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-11-06T18:06:13.213
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2282
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you are used to eating sugar-free or someone who has to avoid sugar due to health reasons, this might be for you. I couldn't get past the after-taste that this leaves in  your mouth, and I ended up adding some regular powdered sugar along with a bit of heavy cream, to get it to the point where I could eat it.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-05T04:37:07.05
+helpfulCount:
+0
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This tasted suprisingly descent to me. I am not a big fan of frosting as I find it mostly way too sweet. This was only lightly sweet tasting. The texture was fine too with the addition of the cornstarch. I find vanilla bean a bit pricey. So, I just did a couple of drops of real vanilla extract. I tested the recipe with making half. I am a fan of chocolate, so I added 2 Tblsp of baking cocoa for half the recipe. Ty

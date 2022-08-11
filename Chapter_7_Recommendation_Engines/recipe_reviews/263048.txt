@@ -1,0 +1,72 @@
+Recipe number:
+263048.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-16T22:21:21.927
+helpfulCount:
+0
+userID:
+21853725
+Display Name:
+grandmakar
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+176
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good, After I tasted it I did add some blanched squash and mushrooms with Italian seasoning.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-01T01:11:11.243
+helpfulCount:
+0
+userID:
+13495641
+Display Name:
+Teresa Ejinaka
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6703847.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delicious on three-cheese ravioli. I didn’t have salmon so substituted bacon and mushroom. I thought it said 1 Tablespoon of tomato paste so that is what I used and it was just the right amount. Next time I will double the recipe for our family.

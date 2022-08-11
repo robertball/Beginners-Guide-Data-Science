@@ -1,0 +1,37 @@
+Recipe number:
+211050.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-01-28T15:13:21.613
+helpfulCount:
+5
+userID:
+3500098
+Display Name:
+sparkytoo
+isPro:
+False
+followersCount:
+27
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+367
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/347380.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good basic recipe -- and oh, so quick-and-easy!  -- and very edible, but nothing incredibly special (So sorry!).  The second time, I browned a pound of extra lean ground beef, sauteed fresh onion, bell pepper, celery, mushrooms, and a bag of frozen peas and carrots, and then added the sauce (Not Ragu).  I also took a step out of the Easy Spaghetti page and cooked the noodles with the sauce.  (I would give it 12*) :D

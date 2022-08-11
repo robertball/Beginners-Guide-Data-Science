@@ -1,0 +1,37 @@
+Recipe number:
+258853.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-16T17:22:21.653
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was really looking forward to this "cake." All seemed to be going well, but the 45 min cooking time is way too long. I checked it at 39 min when I noticed a slight burnt smell. The edges are burned. I salvaged the middle, but it is slightly dry. It probably should come out of the oven between 30-35 minutes. The flavor was good when I added some ice cream on top.

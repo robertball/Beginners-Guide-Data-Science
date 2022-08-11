@@ -1,0 +1,177 @@
+Recipe number:
+268708.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-14T03:34:33.597
+helpfulCount:
+2
+userID:
+10192230
+Display Name:
+Elaine Barbee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5971666.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So amazing!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-13T19:38:07.637
+helpfulCount:
+2
+userID:
+24539339
+Display Name:
+Debbie Gremlin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5969578.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow! this looks delicious!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-13T18:54:26.587
+helpfulCount:
+2
+userID:
+24539065
+Display Name:
+Isis Sample
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5969385.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+absolutely delicious! i was skeptical about canned yams, but the Bruce's Yams in Syrup were absolutely wonderful and added a special extra to the pie. Looking forward to making this again!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-13T16:23:50.293
+helpfulCount:
+2
+userID:
+24538136
+Display Name:
+Laurie Lufkin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5968741.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Can't wait to make this pie again for Thanksgiving!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-13T15:43:19.327
+helpfulCount:
+0
+userID:
+20065214
+Display Name:
+Michaela Mercer Rosenthal
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3791620.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This pie is very easy to put together. Very creamy and rich even without the whipped cream.

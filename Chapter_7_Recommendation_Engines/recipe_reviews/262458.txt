@@ -1,0 +1,72 @@
+Recipe number:
+262458.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-04T19:26:23.527
+helpfulCount:
+1
+userID:
+17574660
+Display Name:
+Kabrina Orchard
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+178
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3295428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It definitely has a lot of potential but it was way too salty. I let it cool but it was still runny, so I put it in the microwave. Perfect texture! Next time, I’ll mix the mustard in the egg mixture.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-08T04:16:34.52
+helpfulCount:
+1
+userID:
+24055158
+Display Name:
+Trinity Rose
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5629233.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did it with coconut flour and coconut oil, didn't add tomatoes, did it with a pie pan and yes I will cook it again.

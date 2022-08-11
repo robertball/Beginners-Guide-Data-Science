@@ -1,0 +1,37 @@
+Recipe number:
+238584.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-07-28T16:05:13.533
+helpfulCount:
+1
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1593
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was nice to grill our entire meal, but the bacon never got done (and I used thin bacon, for just this reason).  The potatoes and onions were almost overdone when I waved the white flag for the bacon.  Aside from the bacon issue (which may just be me), these flavors were just ok for me.  I prefer roasted potatoes.  THANKS for the recipe (and a cool kitchen ;) )!

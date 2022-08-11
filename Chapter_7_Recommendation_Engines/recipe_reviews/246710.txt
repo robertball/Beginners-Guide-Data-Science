@@ -1,0 +1,107 @@
+Recipe number:
+246710.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-11T18:21:58.487
+helpfulCount:
+0
+userID:
+12553594
+Display Name:
+Sara Grossman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7140843.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this EXACTLY as written; therefore, I can accurately review the recipe AS WRITTEN.  It is surprisingly good considering how simple it is.  I suspect this will become the basis for a regular soup on our menu rotation.  I topped the soup with homemade croutons and grated Parmigiano Reggiano,  and I served with it a crusty bread and a dry white wine.  Best bread:  La Brea Bakery's Take and Bake Tuscan Loaf.     A great starting point.  I recommend you make it as written before you start improvising.  Have fun; there is a lot of room for experimentation.  Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-08T01:54:09.187
+helpfulCount:
+0
+userID:
+1858154
+Display Name:
+Robin B.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+103
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to change this up some only because I have a daughter with a dairy allergy and my other daughter is vegetarian. I used vegetable broth and coconut cream. I used three cans of white beans and added more broth. I used an immersion blender but left some beans and asparagus, tried to get most of rosemary blended. Great flavor and something different that was quick and easy. Oh, I used my slow cooker and just had it on low all day. Really a good recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-18T18:34:04.89
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+771
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I must admit...weird recipes intrigue me. I would never have thought of putting white beans and asparagus together. But it works! I used Great Northern Beans and followed the recipe exactly. It creates a smooth and silky "cream of" soup so much better tasting and better for you than canned soup.

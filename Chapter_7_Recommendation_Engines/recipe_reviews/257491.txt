@@ -1,0 +1,107 @@
+Recipe number:
+257491.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-04T21:46:38.49
+helpfulCount:
+1
+userID:
+3624311
+Display Name:
+Jo Steinberg
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+126
+favoritesCount:
+612
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/767916.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made the salad and the dressing.  I made the salad was a little time consuming but very good.  I can't get enough of the dressing.  I eat it morning, noon and night ,whenever I get the munchies.  A few sticks of celery and that dressing is what does the trick.   Nothing like it in the world.  Thanks Chef John.  You help me gain weight and lose it!  Nice job.
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-16T00:52:04.063
+helpfulCount:
+0
+userID:
+18007226
+Display Name:
+Grandma Cat Jeter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5983888.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and fine to make, I just didn't dig it.
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-28T17:07:04.867
+helpfulCount:
+0
+userID:
+20650746
+Display Name:
+RolandnSheila
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a favourite for our packed lunches. The dressing is delicious.

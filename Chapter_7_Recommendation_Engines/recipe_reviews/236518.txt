@@ -1,0 +1,107 @@
+Recipe number:
+236518.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-04-20T09:43:43.657
+helpfulCount:
+4
+userID:
+4285625
+Display Name:
+Aimee Caccavale Chambers
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1142002.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These have a little too much Dijon for my liking, so I would tweak it to 2TBS, but other than that they are pretty good.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-30T17:04:31.25
+helpfulCount:
+0
+userID:
+12560849
+Display Name:
+rb78c0
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing recipe! It's a hit everywhere I take it!
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-05T14:32:30.493
+helpfulCount:
+0
+userID:
+15544939
+Display Name:
+Sarah Clark
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2167541.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this recipe...doubled it and swapped one tbs dijon for one tbs habanero mustard Everyone loved the extra kick!!

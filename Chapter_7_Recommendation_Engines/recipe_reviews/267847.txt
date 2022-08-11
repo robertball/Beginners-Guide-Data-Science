@@ -1,0 +1,72 @@
+Recipe number:
+267847.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-11-29T14:03:27.47
+helpfulCount:
+0
+userID:
+26585386
+Display Name:
+Purple Heron
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7383295.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There was far too much corn syrup to put on the top of the cheesecake. It all soaked into the cheesecake and flowed over the edge of my pie. There was too much batter and syrup to fit in a regular 9-inch pie crust. I used a 10 inch pie crust and there wasn't enough space left to pour in all of the syrup. the syrup soaked into the batter, making it altogether too sweet, and it underbaked in the time limit given above. I baked it past the time recommended, and it still was under baked and gooey. The pecans start to burn on top of the pie, and they covered the cheesecake so you couldn't tell if the cheesecake was baked or not. It tasted like cream cheese frosting because of the sweetness, and me and my family couldn't eat it because it was overly sweet and the consistency was not that of a cheesecake because it soaked into the batter and the batter became runny.
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-20T00:10:14.273
+helpfulCount:
+0
+userID:
+25466713
+Display Name:
+Susan Glembin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6566725.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It Definitely filled the 10.5 inch spring form pan! I haven't taken it out of the pan yet,  not cool enough, but it sure looks good! A little bit  fussy with all the waiting for things to cool, so don't plan to make this quickly.  And  be careful with the pecan filling. Seems to get a crust after the second baking. I hope that it is like pecan pie under the crust.! I will update this after I have tried it.

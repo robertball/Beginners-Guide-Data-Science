@@ -1,0 +1,72 @@
+Recipe number:
+235865.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-05T17:33:34.35
+helpfulCount:
+0
+userID:
+24686077
+Display Name:
+George Wisser Jr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6077610.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it with whole wheat flour, second batch I knew to add 2 tbsp. water to make the dough more workable.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-17T22:26:18.8
+helpfulCount:
+0
+userID:
+5882972
+Display Name:
+NancySSS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5124703.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are very good!  I roll them in confectioner's sugar after cooling for several minutes.  Instead of jam and cornstarch, I use different flavored fillings from the Solo can.  Yum

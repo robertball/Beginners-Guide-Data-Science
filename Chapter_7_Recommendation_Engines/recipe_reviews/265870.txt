@@ -1,0 +1,72 @@
+Recipe number:
+265870.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-14T16:35:37.233
+helpfulCount:
+11
+userID:
+6549646
+Display Name:
+Angela Sackett Superhotmama
+isPro:
+False
+followersCount:
+195
+followingCount:
+0
+madeRecipesCount:
+112
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2406088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Be sure to let this sit for 5-10 minutes after mixing.  The alternative flour blend needs time to absorb moisture and it will bring the texture to a scoop-able dough (you won't be able to pick this up and roll it).  I used a large cookie/cupcake scoop to make mounds on a parchment-lined cookie sheet.  These were light and fluffy and full of flavor!  I created an "everything bagel" flavored version and they were DELICIOUS.
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-03T18:20:35.59
+helpfulCount:
+3
+userID:
+15263947
+Display Name:
+Heather MacKenzie
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2006729.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They tasted wonderful but mine were full of air holes.  Not sure where I went wrong. But great to use as burger buns when grilling.

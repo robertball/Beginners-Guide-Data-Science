@@ -1,0 +1,177 @@
+Recipe number:
+214507.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-08-11T11:43:52.367
+helpfulCount:
+12
+userID:
+2079610
+Display Name:
+Cathy Myers
+isPro:
+False
+followersCount:
+141
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+385
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/461230.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I scaled the recipe down to 6 servings as it is just the two of us. I followed the exact recipeand was a little concerned after tasting it when done reducing the sauce. I didn't find it super interesting. A big however, I was wrong! I did not use the sauce as a "mop" but rather a marinade for b/s chicken breasts. Marinated for about 8 hrs and then my husband grilled on our charcoal Weber. Tender, juicy and flavorful. My husband said he liked it as an alternative to Sweet Baby Ray's. We will definitely be having this sauce again. Thank you, go_vikes!
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-07T16:14:52.103
+helpfulCount:
+1
+userID:
+20523195
+Display Name:
+Dave Langley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Go Vikes this recipe rocks! Made it and it brought me home! Nicely done! SKOL!!!
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-08T09:48:04.523
+helpfulCount:
+1
+userID:
+14169175
+Display Name:
+Sweet Pea
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe, just used Horseradish mustard instead of Dijon. Turned out great!  Wonderful on pulled pork!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-24T09:37:43.01
+helpfulCount:
+0
+userID:
+26385439
+Display Name:
+James Theeck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7228957.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+taste very good will make more
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-31T15:26:39.83
+helpfulCount:
+0
+userID:
+2105931
+Display Name:
+Rebecca Spalding Evans
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+276
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5079309.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent Flavor.

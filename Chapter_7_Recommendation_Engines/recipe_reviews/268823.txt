@@ -1,0 +1,37 @@
+Recipe number:
+268823.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-14T05:37:21.773
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is good. The one thing I will say is that the recipe calls for 8 think chicken breast. No such cut. Butterfly your breast and pound them out. That is the only way you will get them to roll. On that note, cheese or something melty would have been good in the middle. Overall good recipe but you could turn these from good to great with a few tweaks.

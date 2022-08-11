@@ -1,0 +1,72 @@
+Recipe number:
+165515.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-12-08T18:17:59.657
+helpfulCount:
+1
+userID:
+4131404
+Display Name:
+EML84
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly but we had to put it down the drain. It tasted ok but something was missing. It didn't look appealing at all so i would recommend swirling the chocolate in but not blending so that the rice doesn't turn brown.
+Review:
+Rating:
+4
+dateLastModified:
+2009-10-05T11:15:44.57
+helpfulCount:
+1
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the rice part exactly, but for the pear part I screwed up and poached using another recipe I had been looking at that had a little wine instead of cinnamon. The dish is very sweet, more of a dessert than a meal. I think the rice was lacking something, not sure what since I am not good at figuring that out, but what was lacking may very well have been the heavy cinnamon that would have come from the pears had I poached them right. All in all, quite good. When I make it again with the pears poached the right way, I'll re-rate.

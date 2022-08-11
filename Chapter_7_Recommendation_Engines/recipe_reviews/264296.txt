@@ -1,0 +1,107 @@
+Recipe number:
+264296.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-28T22:52:08.92
+helpfulCount:
+0
+userID:
+5664907
+Display Name:
+goozeake
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Don't have a quick pot, so I roasted in oven.  Potatoes were done seperately with herbs and oil.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-18T21:04:09.307
+helpfulCount:
+0
+userID:
+22103620
+Display Name:
+arnita hampton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a cut up chicken. All the pieces were juicy and well flavored. I will make this recipe again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-03T00:19:20.097
+helpfulCount:
+0
+userID:
+22530897
+Display Name:
+Jon Dickson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5444493.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty dish!  Tweaked the cooking process due to a glass cooktop and an oven that was out of commission. What else does a guy have to cook with? A gas grill! Used chicken breasts instead. Put the chicken in a iron skillet and a bit of chicken broth to brown each side, then added the potatoes and herbs/lemon mixture. Low heat for about half an hour. Turned out great with plenty of leftovers.  Will be using this while camping in the summer/fall season. Two thumbs up!

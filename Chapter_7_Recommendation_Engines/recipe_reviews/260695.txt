@@ -1,0 +1,37 @@
+Recipe number:
+260695.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-04T01:46:49.273
+helpfulCount:
+1
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This needs more flavor. It was bland as written. The fact it has homemade pesto was irrelevant. In fact, save yourself some time. If you make it don’t even make homemade pesto it won’t impact the taste at all. It needs more than salt, pepper, sun dried tomatoes and pesto.

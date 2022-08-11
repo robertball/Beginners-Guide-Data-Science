@@ -1,0 +1,142 @@
+Recipe number:
+260178.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-20T00:17:34.503
+helpfulCount:
+0
+userID:
+17007986
+Display Name:
+Amanda Potter
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+252
+favoritesCount:
+201
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6068962.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious & nutritious!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-20T13:10:55.41
+helpfulCount:
+0
+userID:
+21520722
+Display Name:
+Paule Desaulniers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5219439.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I improvised a bit as I did not have the Patak’s sauce packets, but I had a pouch of  madras lentils with tomatoes that I added to the baked vegetables.  The dish turned out pretty good and easy to make.  I used sweet potatoes, carrots and zucchini and added some onions.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-19T03:39:51.03
+helpfulCount:
+0
+userID:
+9660002
+Display Name:
+Kim Hampton
+isPro:
+False
+followersCount:
+71
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+158
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3639937.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I couldn't find the Tandoori, so I made it with the Patek Korma Sauce.  I used half green chili olive oil, and half Canola oil. I used purple turnips, carrots, red potatoes, sweet potatoes, and  leeks as my root vegetables, and blackeye peas in place of lentils because I was not gonna spend $5 on a can of red lentils, and some of my UK friends would substitute blackeyes for lentils in their currys. I threw in a tsp of shaved fresh ginger root.  Korma is a milder curry, but it was still  outstanding.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-16T04:02:28.203
+helpfulCount:
+0
+userID:
+16369057
+Display Name:
+Amber Vejraska
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5051122.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a lot of root vegetables to use up so decided to make this recipe. It was a little hard to find the sauce but I had everything else on hand. Followed the instructions perfectly and added roast jalapeño for extra heat, and everything was nice and tender but the parsnips. Next time I’ll roast the parsnips alone first for an extra 10 minutes. The flavor was nice and me and the boyfriend both loved it served with naan. 5/5 will definitely make again.

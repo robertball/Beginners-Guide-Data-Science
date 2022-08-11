@@ -1,0 +1,144 @@
+Recipe number:
+255640.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-20T16:32:20.083
+helpfulCount:
+5
+userID:
+7950097
+Display Name:
+Bonnie Deyo
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/906272.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this Mom's creamy stew almost as the recipe says. I did improvise a bit but other wise, it was the same. It was sooooo good.   I don't like cilantro so I didn't use 
+that . I did use the cream. Never did that before. What a great look and taste it gave the stew.
+I will definitely make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-15T15:49:43.61
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except I waited to add the peas in the last 5 minutes of cooking so that they would hold their bright  green color. This was good and I really enjoyed all of the fresh veggies but it was in need of herbs  in my opinion. Maybe some oregano, thyme, or parsley? I absolutely love cilantro and very much enjoyed it as a garnish to this soup but I'm not sure everyone would agree with me on this. If you're not a big fan of cilantro I suggest replacing it with fresh parsley instead. All in all this was a good soup but I would add some herbs or maybe even a bay leaf if I were to make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-29T03:58:37.677
+helpfulCount:
+1
+userID:
+24427128
+Display Name:
+x0sweetpea
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5890918.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came out very good. Left out the mushrooms and didn’t do cilantro either. Was slightly lacking as far as flavor, definitely needs some spices. All in all, very yummy and easy to prepare. Will make again. :)
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-27T01:53:01.147
+helpfulCount:
+0
+userID:
+937230
+Display Name:
+Debbie Elledge
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+65
+favoritesCount:
+449
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1243686.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the flavor. The only thing I did differently was omit the mushrooms and I cooked the chicken in the pressure cooker instead of the skillet. I'll make again.

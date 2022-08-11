@@ -1,0 +1,107 @@
+Recipe number:
+274180.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-17T12:54:42.59
+helpfulCount:
+1
+userID:
+14346113
+Display Name:
+Shannon Alexander
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1487481.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty and Easy!  Baked at 375 covered with foil for 30 minutes and uncovered the last 10 minutes.  I'll be making this again
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-16T17:37:50.853
+helpfulCount:
+1
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+432
+favoritesCount:
+912
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my kids for brunch. I could not find the 10oz cans of biscuits so I used 2 of the regular16oz cans (adding an extra 2 oz of biscuit dough) otherwise I made this recipe as written. I baked for 35 minutes, allowed to cool 5 minutes and then when I went to invert the pan, I discovered the biscuits were not done yet. I turned the oven back on and baked for an additional 10 minutes, it was better but still doughy but my kids ate it (while complaining of the doughy-ness).
+Review:
+Rating:
+2
+dateLastModified:
+2019-09-05T17:15:23.84
+helpfulCount:
+0
+userID:
+12079814
+Display Name:
+Carol
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had to put bread back in the oven as it was not fully baked.  Not much sausage per slice

@@ -1,0 +1,72 @@
+Recipe number:
+228021.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-07-23T02:47:54.163
+helpfulCount:
+24
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut this recipe in half, just in case it wasn't a hit with the kids. I followed the recipe exact. I made each kid a bowl this morning, using 1/4 cup of water and microwaving it for a minute and a half. The kids really liked it. This would be a great base recipe to play with and make it personal to your own family.
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-23T08:46:20.16
+helpfulCount:
+1
+userID:
+512267
+Display Name:
+ChristyK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+198
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This has a pretty strong flavor, but that's just the way my son likes it. With the instant store bought ones, he uses three packets and a tiny bit of water in order to keep the flavor (way too dry for me). You can imagine how quickly he was going through the packets. Sorry, but I did make a minor change which does not negate yours - I skipped the instant milk and used whole milk rather than water to make it. Now just need to figure out other flavor mixtures like the maple and brown sugar.

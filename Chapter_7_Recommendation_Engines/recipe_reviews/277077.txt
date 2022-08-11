@@ -1,0 +1,72 @@
+Recipe number:
+277077.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-20T15:44:39.98
+helpfulCount:
+1
+userID:
+22113903
+Display Name:
+Sandra Pool
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added a small slice of bacon to each slit!  Yummy!!
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-27T03:49:18.47
+helpfulCount:
+0
+userID:
+25821869
+Display Name:
+Fiona
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great side option for a meal and it was delicious!

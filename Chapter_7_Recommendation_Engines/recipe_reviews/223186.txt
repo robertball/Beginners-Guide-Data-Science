@@ -1,0 +1,72 @@
+Recipe number:
+223186.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-07-03T17:14:24.84
+helpfulCount:
+3
+userID:
+2463488
+Display Name:
+Emily Tisdale
+isPro:
+False
+followersCount:
+21
+followingCount:
+0
+madeRecipesCount:
+229
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/154.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Hope you're not overly sensitive about alterations...but I can't eat bell peppers...so I deleted that item.  I used home-canned turnip greens instead of fresh spinach and all we can say is: "WOW...this was very good!"  I'm sure the original recipe would be very great as well...but  I had to make do with what I had.  Hubby was initially hesitant to try...but after an initial bite...dug in with so much enthusiam there were no leftovers!
+Review:
+Rating:
+4
+dateLastModified:
+2012-06-18T19:28:31.103
+helpfulCount:
+0
+userID:
+7053207
+Display Name:
+chrisjones
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3865752.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy! Everyone in my family loved this even the children!  It has just the right kick.

@@ -1,0 +1,72 @@
+Recipe number:
+255348.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-06-15T14:56:35.223
+helpfulCount:
+1
+userID:
+2412694
+Display Name:
+Aliceof1derland
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+194
+favoritesCount:
+4331
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5917399.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it exactly as written, and it just fell flat.  it was a bit messy to make, and came out surprisingly bland.  I've found better, easier recipes that I'll probably stick with in the future.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-09T12:14:07.863
+helpfulCount:
+1
+userID:
+12509971
+Display Name:
+Tamara A
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3952652.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this recipe, also added some capers to my portion!

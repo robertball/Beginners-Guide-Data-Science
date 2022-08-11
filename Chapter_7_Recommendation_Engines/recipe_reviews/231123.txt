@@ -1,0 +1,107 @@
+Recipe number:
+231123.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-13T17:46:13
+helpfulCount:
+5
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+244
+followingCount:
+0
+madeRecipesCount:
+1334
+favoritesCount:
+2826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good.  I pan fried the chicken with the celery and added some mushrooms (based on the cooks note). Made the sauce in the pan that I fried the chicken in. I think that this would have been great out of the pot. I liked the crispy noodles but my guys didn't love them. I'd make this one again but I'd cover for the baking. Just a personal preference.  Nice recipe mikemsd. I only needed to bake it for 30 minutes.
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-05T14:35:23.05
+helpfulCount:
+2
+userID:
+6445744
+Display Name:
+Kimberly Mencke
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1216448.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought that it was a little bland, but my kids loved it.  I did cover it for part of the time in the oven as I knew that they would not like crunchy noodles.
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-07T20:23:02.16
+helpfulCount:
+1
+userID:
+11796633
+Display Name:
+Lynnette Purvis
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2530336.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe, I used leftover chicken in mine so skipped cooking the chicken. I added celery salt since I didn't cook chicken with celery. And as a PP had said it only needed 35 minutes in the oven. BTW I had an opps moment and forgot to put the bread crumbs in first so sprinkled them on top and covered them with the cheese came out fine. A very forgiving recipe. I will make this again

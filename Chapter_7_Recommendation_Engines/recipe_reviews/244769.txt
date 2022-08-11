@@ -1,0 +1,72 @@
+Recipe number:
+244769.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-05T13:17:49.777
+helpfulCount:
+1
+userID:
+25529578
+Display Name:
+Destination-bbq.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very close to my family's recipe. Having lived in SC  all but one of my 53 years and having written about SC BBQ for the last seven years, I have a lot of experience with the large variety of mustard sauces we have in this state. It's probably not surprising that our recipe is my favorite, but like I said, this one is very close. The addition of ketchup is an interesting twist, but it is not without precedent. In fact, the "Rust Gravy" served by the many Dukes BBQ that litter SC (not a chain, btw) includes both ketchup and mayo!
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-22T21:24:05.523
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this ahead of time and have not tested this on actual meat but for now I will say that it is mega tart and I like it! I have a whole hog on the way that will be smoked here in a few days and I cannot wait to try this out on it!

@@ -1,0 +1,37 @@
+Recipe number:
+256772.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-03T14:33:08.93
+helpfulCount:
+1
+userID:
+2112806
+Display Name:
+cowgirll
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+1078
+favoritesCount:
+1689
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/28463.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really surprisingly good. I couldn't find blackberry syrup at the grocery store, but I found boysenberry, which seemed close enough. We were all a little skeptical about the addition of the syrup, so I served it without it and let people add at the table, but after trying it both ways we all agreed that it was much better with it. Next time I make this, I'll just top it with the syrup as written.

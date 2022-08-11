@@ -1,0 +1,39 @@
+Recipe number:
+270953.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-07T04:11:56.51
+helpfulCount:
+0
+userID:
+9887290
+Display Name:
+ID Sparks
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+261
+favoritesCount:
+93
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1875947.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+O’SoDelicious! O’SoYummy! O’SoGreat!
+
+ Options: Substitute vanilla pudding with 1 5.1 OZ package instant pistachio pudding (+ a few drops green food coloring) and omit candies. For other holidays change flavors, colors, designs as you like to match holiday.

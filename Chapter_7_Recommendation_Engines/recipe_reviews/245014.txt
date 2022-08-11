@@ -1,0 +1,37 @@
+Recipe number:
+245014.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-11T03:26:30.943
+helpfulCount:
+0
+userID:
+8039104
+Display Name:
+peonydam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this yummy bread years ago from a ball canning book. Lost the recipe. I'm so glad to have found it again.Thank you so much!!

@@ -1,0 +1,47 @@
+Recipe number:
+101383.txt
+Review:
+Rating:
+4
+dateLastModified:
+05/01/2006
+helpfulCount:
+6
+userID:
+1879580
+Display Name:
+xtremeskiing
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The sauce looked nothing like the one in the picture, but it still came out great.  Served on top of lightly buttered egg noodles and carrots seasoned lightly with thyme
+Review:
+Rating:
+3
+dateLastModified:
+06/01/2006
+helpfulCount:
+2
+userID:
+1884074
+Display Name:
+Minow
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+A nice different way to do mushrooms. My partner really liked this one though I prefer something a bit sweeter.
+Review:
+Rating:
+3
+dateLastModified:
+12/31/2006
+helpfulCount:
+0
+userID:
+1303905
+Display Name:
+LILY20
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was good, but nothing special.  Won't make again unless I'm really in a hurry.

@@ -1,0 +1,47 @@
+Recipe number:
+11940.txt
+Review:
+Rating:
+1
+dateLastModified:
+10/30/2004
+helpfulCount:
+12
+userID:
+839685
+Display Name:
+MZOJIBWAY
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Icky.
+Review:
+Rating:
+2
+dateLastModified:
+02/14/2004
+helpfulCount:
+12
+userID:
+759648
+Display Name:
+michellew
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Made this recipe and didn't really like it.  I found the sauce didn't stick to the pasta which is what I generally like to see happen.  I did add more bacon and more cheese.  Don't think I'll be making this one again.
+Review:
+Rating:
+2
+dateLastModified:
+02/16/2004
+helpfulCount:
+5
+userID:
+536781
+Display Name:
+Wilemon
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5030.jpg
+text:
+We didn't really like the carrots and bell pepper in this recipe.  I am going to try it again using an onion and Velveeta.

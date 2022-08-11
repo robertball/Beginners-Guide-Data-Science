@@ -1,0 +1,37 @@
+Recipe number:
+64890.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-01-16T18:40:56.857
+helpfulCount:
+7
+userID:
+1200757
+Display Name:
+NMChef1
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+469
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We looked forward to having this for quite a few weeks, having to wait until my local store got fresh apricots in stock. I collected genuine spring water from one of the many live local springs in Manitou Springs, CO. The juice was easy to make, but frankly, I was a bit disappointed. The juice was pretty weak-tasting. It was okay, but nothing special, so I'll give it a 3-star rating. I only had some of it, and gave the rest to The Woman I Love. She, on the other hand, loved the juice, and would give it a 5-star rating herself.

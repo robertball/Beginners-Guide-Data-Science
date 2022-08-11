@@ -1,0 +1,37 @@
+Recipe number:
+274459.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-08-22T16:30:30.657
+helpfulCount:
+1
+userID:
+2774365
+Display Name:
+dmac
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly, even though I was dubious about the base.  The crumbs didn’t bake into a firm crust at all.  The chocolate chips weren’t fully melted.  I had to broil the top to melt the marshmallows.  It looked great out of the oven, but it was a mess to try to cut and serve.  I think it would be possible to fix the recipe, by actually baking a crust, melting the chips, then putting it under a broiler for a few minutes without the grahams on top.  I don’t know that I’ll try this again.  It’s sad to spend time and money on a disappointing recipe.

@@ -1,0 +1,72 @@
+Recipe number:
+275253.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-28T02:49:58.323
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out good. I cooked mine for a full hour to get a nice crisp on the shell. They've got to be super crisp if I expect the husband to eat the shell. If you haven't tried cooking baked potatoes in the air fryer, you need to. Overall good recipe and one I would make again.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-12T03:56:38.373
+helpfulCount:
+0
+userID:
+8937272
+Display Name:
+fruitdog
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+313
+favoritesCount:
+730
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3930066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cook time in my fryer was perfect! Will do it this way again.

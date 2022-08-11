@@ -1,0 +1,37 @@
+Recipe number:
+260158.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-29T00:06:00.12
+helpfulCount:
+3
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really tasty soup. I enjoyed it a lot. Only changes were using canned pintos and I used a milder chili pepper because I am a wimp

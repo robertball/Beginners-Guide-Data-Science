@@ -1,0 +1,74 @@
+Recipe number:
+259337.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-19T17:04:34.567
+helpfulCount:
+0
+userID:
+24767037
+Display Name:
+Alli Strnad
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6136842.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for Thanksgiving, and everyone loved it! I added extra nutritional  yeast and apple cider vinegar, as well as lemon juice as it helps hide any cashew taste. I also blended in a bit of crushed red pepper for a kick!
+
+Making it again for Christmas!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-04T22:44:41.88
+helpfulCount:
+0
+userID:
+3031597
+Display Name:
+barbara
+isPro:
+False
+followersCount:
+129
+followingCount:
+0
+madeRecipesCount:
+594
+favoritesCount:
+257
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/254187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+delicious! I was surprised how yummy it tasted

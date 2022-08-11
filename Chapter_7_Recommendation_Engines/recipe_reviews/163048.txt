@@ -1,0 +1,72 @@
+Recipe number:
+163048.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-06-30T19:38:05.77
+helpfulCount:
+14
+userID:
+3822309
+Display Name:
+garyo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My wife and I both loved this recipe.  Spices are not overwhelming, but definitely interesting.  Can't wait for a chance to have leftovers tomorrow.  I added a spoonful of plain yogurt on top, garnished with some whole cilantro leaves. Delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2010-01-05T18:35:40.13
+helpfulCount:
+5
+userID:
+3682179
+Display Name:
+Azure Rae Robinson
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2457138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful and even better the next day. Make sure to salt to taste right before serving

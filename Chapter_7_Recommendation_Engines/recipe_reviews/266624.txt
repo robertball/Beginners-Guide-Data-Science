@@ -1,0 +1,72 @@
+Recipe number:
+266624.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-05T22:53:03.657
+helpfulCount:
+2
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9069
+followingCount:
+0
+madeRecipesCount:
+617
+favoritesCount:
+994
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This didn’t have quite the cheesecake taste like I thought it might have had. I would NOT let this chill longer than 4 hours, because even with the dish covered, the cream layer cracked and dried out. It is a fast dessert to make and can be modified by using different fruit.
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-03T20:16:47.14
+helpfulCount:
+0
+userID:
+1998286
+Display Name:
+Linda Wilcher
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7557383.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+ok....not great!

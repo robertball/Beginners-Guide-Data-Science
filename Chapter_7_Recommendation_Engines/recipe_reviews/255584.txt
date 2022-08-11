@@ -1,0 +1,37 @@
+Recipe number:
+255584.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-25T23:51:13.843
+helpfulCount:
+0
+userID:
+15323454
+Display Name:
+Tiffany Judkins
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5397259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made the recipe exactly as it shows in the directions and it was wonderful

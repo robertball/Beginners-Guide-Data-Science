@@ -1,0 +1,37 @@
+Recipe number:
+236524.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-07T14:30:29.733
+helpfulCount:
+2
+userID:
+14188614
+Display Name:
+Joan K
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!

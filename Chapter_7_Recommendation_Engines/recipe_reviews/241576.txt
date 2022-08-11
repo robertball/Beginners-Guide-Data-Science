@@ -1,0 +1,72 @@
+Recipe number:
+241576.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-01-18T23:29:47.417
+helpfulCount:
+0
+userID:
+12928380
+Display Name:
+Linda D.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't much care for it. Had to add a lot of sweetener to make it edible. I believe it would be much better if you eliminate the lemon juice.
+Review:
+Rating:
+1
+dateLastModified:
+2015-04-29T16:43:20.963
+helpfulCount:
+0
+userID:
+3289032
+Display Name:
+Barb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+158
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry, but I thought this had a horrible flavor.  I made it exactly as the recipe is written.

@@ -1,0 +1,108 @@
+Recipe number:
+219975.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-02T14:39:38.593
+helpfulCount:
+7
+userID:
+328951
+Display Name:
+Jennifer Baker
+isPro:
+False
+followersCount:
+9972
+followingCount:
+0
+madeRecipesCount:
+330
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3605993.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are pink and I have 2 daughters--need I say more?  I did have to substitute strawberry Jell-O for the cranberry, but it worked well.  The mini M&M's didn't stay whole when added, so I think I would either leave them out or try the regular-sized ones next time.  
+This is a fun treat!
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-02T06:45:21.8
+helpfulCount:
+5
+userID:
+5270503
+Display Name:
+Karen Degarmo
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6799566.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My kids loved this, so did her class it was a big hit for snack time. I'll be making this again.
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-13T18:13:02.283
+helpfulCount:
+2
+userID:
+6046193
+Display Name:
+donna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an awesome snack, treat or breakfast bar!  I did not have the exact things called for so I used cherry Jello, and instead of candy I sprinkled mini chocolate chips over the top when done and pressed them in.  Cherry-chocolate bars!  I even used organic cereal to counteract my guilt about the food coloring in the Jello, lol.  Loved this!

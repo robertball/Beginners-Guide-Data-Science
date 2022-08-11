@@ -1,0 +1,72 @@
+Recipe number:
+164701.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-09-24T05:42:34.66
+helpfulCount:
+9
+userID:
+2370355
+Display Name:
+Nancy O
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent. I only made 2 slight changes to the recipe: I used 3/4 cup of brown sugar (instead on 1 cup) and 2 tablespoons crushed pineapple and 2 tablespoons canola oil (instead of 1/4 cup of oil.) My husband will want this again (as will I.)
+Review:
+Rating:
+3
+dateLastModified:
+2009-02-06T07:16:38.227
+helpfulCount:
+1
+userID:
+632419
+Display Name:
+TRINANETT
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+162
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very healthy, but not so tasty.  Mine was a little to gooey.

@@ -1,0 +1,37 @@
+Recipe number:
+254204.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-18T22:04:20.09
+helpfulCount:
+1
+userID:
+5341328
+Display Name:
+Mama Marilyn
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+2345
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delightful! (I was unable to find quail...) I used a small Rock Cornish Hen. Turned out perfectly!

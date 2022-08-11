@@ -1,0 +1,72 @@
+Recipe number:
+216116.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-11-07T13:46:32.273
+helpfulCount:
+8
+userID:
+3352370
+Display Name:
+Stacie Bonner
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+367
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1137784.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good pie to make, I went a little different with it,I didn't have any molasses or couldn't find any so I used dark waffle syrup. Was told couldn't find any difference, also didn't have a lemon to peel so I didn't use that but I was told the pie was great! I called my mother over to try out the pie for me ( yeah, I made the pie but don't eat pecan pies, I made it for church ). I saw the corners of her mouth come up and she said 'Oh, it's so bad! You just might as well leave this with me'. I knew she was lying through her teeth. So enjoy making this, just don't ask your mother to taste it for you.
+Review:
+Rating:
+1
+dateLastModified:
+2010-11-26T16:51:36.92
+helpfulCount:
+2
+userID:
+2429382
+Display Name:
+Brian
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+109
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/297881.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The lemon peel ruins it.  It doesn't taste anything like Pecan Pie.

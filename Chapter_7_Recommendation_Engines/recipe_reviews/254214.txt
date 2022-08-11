@@ -1,0 +1,72 @@
+Recipe number:
+254214.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-05T14:35:48.45
+helpfulCount:
+0
+userID:
+25940870
+Display Name:
+Mr baker1235
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6904354.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It looks cool
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-09T17:34:44.517
+helpfulCount:
+0
+userID:
+22170712
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+269
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5744620.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for my granddaughter and was a huge hit

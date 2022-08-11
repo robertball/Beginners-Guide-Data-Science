@@ -1,0 +1,72 @@
+Recipe number:
+238952.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-15T08:13:57.03
+helpfulCount:
+2
+userID:
+5188333
+Display Name:
+Kimberly Towey-Helt
+isPro:
+False
+followersCount:
+23
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+242
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3006345.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you!  I have been looking for a simple and fast recipe for this.  Used to be called "Chit on a Shingle" and was served over toast (my apologies for the language, but that's what my dad called it.  Said it was a staple when he was in Nam)
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-14T03:53:19.43
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty easy recipe and tastes like comfort food. Peas, ham, and cheesy cream just work together. I made up a quick, homemade four cheese sauce. I don't know what the jarred stuff tastes like, but I can't help but think a jalapeño or at least some black pepper would've really helped out. Next time, I will try serving this on jalapeño cornbread or mix up some jalapeño biscuits. :-) Thank you for the recipe.

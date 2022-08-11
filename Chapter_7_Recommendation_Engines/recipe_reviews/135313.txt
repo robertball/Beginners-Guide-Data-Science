@@ -1,0 +1,37 @@
+Recipe number:
+135313.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-07-02T08:56:54.44
+helpfulCount:
+7
+userID:
+3913562
+Display Name:
+Kyla Dawson
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/251171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've never made this before but I have eaten it and absolutely loved it.  I was pretty sure it was okra when I ate it by the seeds in it.  I was wonderful alongside a head-on grilled fish, roasted sweet potatoes, and rice. Can't wait to make my own, it does look unappetizing, but is VERY delicious if you like okra!

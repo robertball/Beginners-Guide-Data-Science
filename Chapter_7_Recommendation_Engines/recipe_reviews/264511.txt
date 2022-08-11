@@ -1,0 +1,72 @@
+Recipe number:
+264511.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-14T15:26:04.94
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this! I knew 1/3 cup of mint was too much for our liking so I scaled that in half. Next time I will scale back on the parsley too. This was so fresh and healthy tasting and it is one I highly recommend. You might just want to scale back on the herbs so that the cauliflower is the star.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-13T18:18:41.3
+helpfulCount:
+0
+userID:
+13595320
+Display Name:
+JCoy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I left out the mint, added some diced cucumber and some Cumin.

@@ -1,0 +1,107 @@
+Recipe number:
+85711.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-01-22T15:48:46.157
+helpfulCount:
+2
+userID:
+992643
+Display Name:
+Lesley
+isPro:
+False
+followersCount:
+96
+followingCount:
+0
+madeRecipesCount:
+1005
+favoritesCount:
+2738
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2633140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We enjoyed very much.  I also made virgin Daiquiris for the kids.  Great for summer!
+Review:
+Rating:
+3
+dateLastModified:
+2006-07-26T10:01:07.123
+helpfulCount:
+1
+userID:
+615195
+Display Name:
+Aspiring Chef Rita
+isPro:
+False
+followersCount:
+52
+followingCount:
+0
+madeRecipesCount:
+744
+favoritesCount:
+1699
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/146.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Just your basic frozen daiquiri mix.  Not as good as those served at resorts or restaurants!
+Review:
+Rating:
+5
+dateLastModified:
+2006-08-02T09:08:18.467
+helpfulCount:
+0
+userID:
+408596
+Display Name:
+Paula Wood
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+71
+favoritesCount:
+696
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2762087.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tese are fabulous!  My sister made these for us and after many years of bartending they are just as good as many restaurant!  Thanks :)

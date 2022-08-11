@@ -1,0 +1,72 @@
+Recipe number:
+156602.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-02-26T16:01:07.293
+helpfulCount:
+2
+userID:
+2462033
+Display Name:
+Jordan
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2264428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very yummy and it looked so gourmet! I used thawed out frozen sole and I replaced the bread crumbs with rice. I also baked it with a tomato herb alfredo sauce. DELICIOUS!
+Review:
+Rating:
+4
+dateLastModified:
+2008-02-22T05:29:14.523
+helpfulCount:
+1
+userID:
+268713
+Display Name:
+LINDA MCLEAN
+isPro:
+False
+followersCount:
+643
+followingCount:
+0
+madeRecipesCount:
+2417
+favoritesCount:
+3410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/330227.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added more seasonings, but other than that, this was the perfect dish for me. Thank you!

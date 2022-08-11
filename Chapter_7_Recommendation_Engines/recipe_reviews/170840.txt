@@ -1,0 +1,33 @@
+Recipe number:
+170840.txt
+Review:
+Rating:
+2
+dateLastModified:
+08/05/2008
+helpfulCount:
+2
+userID:
+3059061
+Display Name:
+Nicole
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The recipe seemed great at first. After making it I thought it had a really strange taste. It would probably taste better if you put icecream in it and use fruit syrup instead of fruit with seeds.
+Review:
+Rating:
+2
+dateLastModified:
+11/28/2008
+helpfulCount:
+0
+userID:
+2555528
+Display Name:
+sueon
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is a good recipe for a base smoothie. I made it just the way it reads, like Nicole, I also found a funny taste--it was the Cinn. I added a bit more sugar so that I wouldn't notice it. 
+It needs something else but, not sure what yet. If I figure it out, I'll let you guys know.

@@ -1,0 +1,37 @@
+Recipe number:
+150881.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-06-17T16:53:59.407
+helpfulCount:
+1
+userID:
+2053401
+Display Name:
+Ann Philbeck
+isPro:
+False
+followersCount:
+35
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+437
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2321746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+About twice a year I want a margarita to go with my mexican dinner that I make. I make it like this too, but I add 1/2 oz. of coffee liquor. Try it, it is really good. Thanks for the recipe!

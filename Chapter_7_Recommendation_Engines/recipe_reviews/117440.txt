@@ -1,0 +1,107 @@
+Recipe number:
+117440.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-09-09T14:15:38.52
+helpfulCount:
+5
+userID:
+2921440
+Display Name:
+Paris Dockery
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2849253.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+over all alright.. the creps are fine but the recipe it self is flawed.. For best Chocolaate Whipped cream, melt chocolate squares in a double boiler or metal bowl set in a pan of boiling water once the chocolate is melted turn off the heat but leave in the water start to add the whipping cream a little at a time whipping as you go... once it all added you can transfer to a mixer if you wish or finish by hand.
+Review:
+Rating:
+3
+dateLastModified:
+2008-09-02T16:28:27.187
+helpfulCount:
+4
+userID:
+1153294
+Display Name:
+Audrey Mezowe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3787807.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The chocolate whipping cream should be made with cocoa powder instead of melted chocolate.  Nutella with cherries and plain whipped cream is what I might try next time.
+Review:
+Rating:
+2
+dateLastModified:
+2007-04-22T18:01:35.767
+helpfulCount:
+4
+userID:
+2037822
+Display Name:
+Colleen Chittick Robichaud
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+714
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1373560.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+when I tried this the crepes were great, but the filling totally flopped. I did let the chocolate cool but as soon as I put it in the whipping cream it hardened and made a gritty mess instead of a nice smooth cream. Should I hae brought the cream to room temperature first before trying to mix them?

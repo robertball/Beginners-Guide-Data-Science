@@ -1,0 +1,108 @@
+Recipe number:
+276109.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-17T22:31:34.34
+helpfulCount:
+1
+userID:
+26681805
+Display Name:
+Will Burdick
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7570221.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this!
+We ate these right out of the oven with dinner.  There were no left-overs.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-10T23:29:02.917
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+245
+followingCount:
+0
+madeRecipesCount:
+1342
+favoritesCount:
+2864
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are tasty! Used fresh cauliflower, took it through the cheese grater in my food processor  and microwaved it for 7 minutes then started with the cheesecloth step. I have them stored in an airtight dish but they get soggy. So next time I have to figure that part out.  When I want them I toss a few on a pan in my toaster oven and crisp them up. These are super good with guacamole.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-15T23:04:05.623
+helpfulCount:
+0
+userID:
+20425101
+Display Name:
+Ed Guyer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3942067.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent.  I increased the ranch seasoning and added paprika and Tabasco rather than cayenne.  I also reduced the temp by 25 degrees to bake a little longer on my convection setting.

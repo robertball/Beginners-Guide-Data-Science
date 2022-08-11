@@ -1,0 +1,37 @@
+Recipe number:
+277813.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-10T19:56:41.67
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.10.20  I typically roast my potatoes at a much higher temperature, so I had my doubts about these potatoes browning/crisping at 325ºF.  Yes, they do take a little longer to roast, but they cooked up beautifully.  Nothing fancy here, just a solid, basic recipe for oven roasted potatoes.  I did think more salt was needed, so right before serving, I sprinkled with sea salt flakes.

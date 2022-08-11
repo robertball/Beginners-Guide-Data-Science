@@ -1,0 +1,73 @@
+Recipe number:
+260459.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-02-18T03:23:16.04
+helpfulCount:
+0
+userID:
+11963666
+Display Name:
+Andy Braithwaite
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+364
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4786428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had read the previous comment about the soup being bland so I added some extra Oregano and some Italian Seasoning (didn’t have any Greek Seasoning). I added a tin of crushed tomatoes to give it some extra veg and then used Vegetable  Stock instead of water.
+It still turned out bland.
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-12T19:06:28.19
+helpfulCount:
+0
+userID:
+10631216
+Display Name:
+OCDawn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4481248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Soup was bland - had to add Tapatio to make it better. Looking forward to others' ideas on how to make it tastier.

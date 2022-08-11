@@ -1,0 +1,37 @@
+Recipe number:
+240743.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-08T21:10:18.373
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We liked this! I did make a major change, by using romaine in place of the kale b/c we do not care for it. Really enjoyed all of the flavors in this salad. I mixed all the dressing ingredients in a separate bowl and added a bit of garlic...tasty! I think this would also be great using spinach or with some onion added. I would make this again for sure! Thanks for sharing. :)

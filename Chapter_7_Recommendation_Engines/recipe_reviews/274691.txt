@@ -1,0 +1,37 @@
+Recipe number:
+274691.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-03T13:58:51.83
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good, but the texture was not as creamy as our favorite panna cotta recipe on this site (the one by CHERYLA33). I did like the slight hint of lemon in this, and it paired well with the fresh berries.

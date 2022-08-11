@@ -1,0 +1,73 @@
+Recipe number:
+260461.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-24T00:16:01.54
+helpfulCount:
+4
+userID:
+4473212
+Display Name:
+Maureen Sullivan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was in the All recipes magazine. I didn't have custard cups, so I made it in a 12-inch round glass pan.  I am GF, so I subbed almond flour.  The taste was fabulous.  I think a good quality vanilla really makes a difference in a dish like this.  And because there was 1/3 of a pear in each serving, we could tell ourselves that it was healthier than a lot of other options. When I make it again (in a large dish), I would probably cut back a bit on the cream so it was firmer. A great basic recipe that would work well with many fresh fruits.
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-07T22:43:29.48
+helpfulCount:
+2
+userID:
+15968071
+Display Name:
+DingDong64
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Saw this recipe in the magazine while waiting in a doc's office.
+Sounded good so decided to try.  Overall it's light and fluffy, a tad time consuming to make, but tasty.  Just not enough taste of the pear for us.  Had two red pears on hand.  Not sure if they are milder than green which could have caused that.  Also, I never use the amount of sugar called for in any recipe, and yet sugar was the predominant taste in this clafouti.  Might try again with green pears or another fruit, perhaps berries.  A tad disappointed in the taste after all the effort.

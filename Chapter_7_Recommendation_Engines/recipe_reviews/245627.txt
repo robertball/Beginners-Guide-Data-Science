@@ -1,0 +1,37 @@
+Recipe number:
+245627.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-29T09:54:36.14
+helpfulCount:
+0
+userID:
+13899510
+Display Name:
+Jes1s
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+121
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  Entire family enjoyed it, will definitely be making this again.  Not a whole lot of heat though, next time I will use 1 tsp. of the chipotle chili pepper powder.

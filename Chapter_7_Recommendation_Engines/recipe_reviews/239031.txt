@@ -1,0 +1,37 @@
+Recipe number:
+239031.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-21T02:28:44.42
+helpfulCount:
+0
+userID:
+20067300
+Display Name:
+Chuck N Christina Hoppe
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow this is the most amazing pudding on this site! I microwaved the milk until it steamed, which made the cooking faster. I will use this with any fresh fruit ~ thankyou!!

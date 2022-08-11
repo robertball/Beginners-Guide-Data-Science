@@ -1,0 +1,77 @@
+Recipe number:
+213580.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-03-12T18:57:10.113
+helpfulCount:
+4
+userID:
+937798
+Display Name:
+NYFFER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very Easy to make. For the topping I did half a cup milk chocolate chips and a half a cup mint chocolate chips.
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-15T19:05:18.327
+helpfulCount:
+0
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My son loves Minty Nanaimo Bars, I chose this recipe because it did not have coconut or nuts in the base which Nanaimo Bars traditionally have but we don't like them that way!
+I used green paste colouring for the liquid, reduced the butter in the topping to 2 tbsps from 1/4 cup and topped up the cup of chips for the topping with semi sweet as I did not have enough.
+I do not refrigerate the bars after I add the topping as I find them too hard to cut, I put them in a Tupperware container overnight then cut for nicer edges.
+#Allrecipesallstarscanada
+#Christmasbaking 
+#FacelessNoMore

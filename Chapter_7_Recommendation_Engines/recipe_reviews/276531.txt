@@ -1,0 +1,37 @@
+Recipe number:
+276531.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-23T02:53:30.76
+helpfulCount:
+0
+userID:
+25707813
+Display Name:
+digitalsignalx
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+432
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6737543.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I took the plunge and tried this recipe, however to save some calories I only did 1/2 honey and used brown sugar with a couple tablespoons water for the second half. I also left out the nut filling. It was superb! I'd say it would be even better with the richer ingredients if diet isn't an issue.

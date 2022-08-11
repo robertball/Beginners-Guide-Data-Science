@@ -1,0 +1,72 @@
+Recipe number:
+239590.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-06T17:04:57.61
+helpfulCount:
+1
+userID:
+15620127
+Display Name:
+Janis McVey Beffort
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2206715.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+my family loved it,made for Superbowl and it went fast. Will be my main dip for a group or for ourselves....thank you
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-04T15:02:01.517
+helpfulCount:
+0
+userID:
+8548043
+Display Name:
+carmen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+will make again!

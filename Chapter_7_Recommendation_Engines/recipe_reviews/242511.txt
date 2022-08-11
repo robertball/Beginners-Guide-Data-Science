@@ -1,0 +1,37 @@
+Recipe number:
+242511.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-02-18T19:54:12.637
+helpfulCount:
+0
+userID:
+18356958
+Display Name:
+mcgovern.fitzpatrick@gmail.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe says to shape the "dough," but there is no dough.  This recipe resulted in a dry, granola-like text.  Is there something missing from the recipe to hold the ingredients together?  Maybe peanut butter?  I added extra water, but it was still a mystery.

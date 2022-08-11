@@ -1,0 +1,72 @@
+Recipe number:
+247103.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-24T02:08:47.293
+helpfulCount:
+2
+userID:
+26176908
+Display Name:
+Kristin Harling
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7073810.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so delicious. I love the combo of coconut milk and tamarind. Absolutely amazing. I subbed a couple things based on what I had spice wise, but it really needs nothing. Will definitely make again.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-25T00:34:26.493
+helpfulCount:
+0
+userID:
+6997856
+Display Name:
+Angela
+isPro:
+False
+followersCount:
+39
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+936
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2414.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband really enjoyed this "Brinjal (Eggplant) in Coconut Milk," which makes it a winner in my book.  The next time I make it I will use smaller Indian eggplants for a firmer texture. I reduced the chile powder to 1 teaspoon because that is about as much heat as I can handle. Thank you Aysha Shifna for sharing your recipe.

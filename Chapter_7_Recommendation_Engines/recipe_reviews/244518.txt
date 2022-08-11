@@ -1,0 +1,108 @@
+Recipe number:
+244518.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-08T18:03:53.657
+helpfulCount:
+3
+userID:
+2907293
+Display Name:
+Michelle Irwin
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+756
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1434915.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This just delicious!  I found it too sweet so next time I will omit the sugar.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-08T15:55:56.787
+helpfulCount:
+0
+userID:
+26636710
+Display Name:
+Tricia T Robateau
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7421755.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will def make again. 
+I soaked the bread in the milk mixture until it soaked before transferring it to a pan.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-25T03:51:34.543
+helpfulCount:
+0
+userID:
+11501615
+Display Name:
+Monique Jeffery
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+159
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2823192.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My son's favorite dessert. Decadent Home cooking with the Caribbean flair

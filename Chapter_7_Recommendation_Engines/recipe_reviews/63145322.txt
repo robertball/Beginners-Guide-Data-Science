@@ -1,0 +1,38 @@
+Recipe number:
+63145322.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-24T01:30:49.537
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+244
+followingCount:
+0
+madeRecipesCount:
+1340
+favoritesCount:
+2854
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was scrumptious. I made as written except I had mint extract so I doubled it. ccouldn't find the mint chips so I subbed double the amount  of dark chips. 
+Baked for 45 minutes.  Dusted the bundt with powdered sugar and cocoa powder.

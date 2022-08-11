@@ -1,0 +1,74 @@
+Recipe number:
+149592.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-07-13T06:46:17.273
+helpfulCount:
+6
+userID:
+2964615
+Display Name:
+wingles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I can't believe you don't have more comments for this! I love the recipe. The veggeroni comes out a bit dry so it keeps really well in the fridge and is easy to freeze and thaws fast. In salads it soaks up the extra liquid, and it it can be soaked for stir fries. I like the chewiness of it, though.
+
+Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-12T19:31:46.253
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is wonderful stuff. Only thing I had trouble finding was dry tomato soup. I ended up using some sazon goya tomato and cilantro seasoning. Worked great. Will make again.

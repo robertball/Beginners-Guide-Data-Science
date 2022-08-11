@@ -1,0 +1,72 @@
+Recipe number:
+241233.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-31T18:26:31.03
+helpfulCount:
+0
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Although I like each and everyone of the ingredients the combined flavor just didn't work for me.
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-23T18:26:04.76
+helpfulCount:
+0
+userID:
+3891860
+Display Name:
+StarMoon Mommi
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+121
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1172557.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't add the pine nuts as I didn't have any and used coconut milk. I had it over zucchini noodles, I liked it, so did my 2 year old, thanks!

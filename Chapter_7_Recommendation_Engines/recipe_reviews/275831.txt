@@ -1,0 +1,37 @@
+Recipe number:
+275831.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-19T18:30:30.753
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12441
+followingCount:
+0
+madeRecipesCount:
+432
+favoritesCount:
+914
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe as written but subbing gluten-free all-purpose flour. Overall, it is corn casserole, the downside is that is was very bland. It needs more salt than 1/4 tsp plus cheese like many corn casseroles have would help and it would still be vegetarian.

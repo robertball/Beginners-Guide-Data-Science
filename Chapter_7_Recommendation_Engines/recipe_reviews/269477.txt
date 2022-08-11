@@ -1,0 +1,72 @@
+Recipe number:
+269477.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-12T21:21:27.263
+helpfulCount:
+1
+userID:
+20346817
+Display Name:
+Cam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+350
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for dinner at our ladies' bible study and everyone said that it was great! It's easy to make. I used ground turkey instead of beef and used white corn tortillas.  I topped it with black olives, chopped tomatoes and scallions with sour cream, avocado slices and lime wedges on the side with a simple salad. I will make this again because I really like casseroles and mexican food. It seems to be more like an enchilada style casserole to me than burrito. Thank you for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-30T23:14:23.49
+helpfulCount:
+1
+userID:
+11773583
+Display Name:
+Christie Massey Joseph
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so easy and so tasty!  I probably used the wrong size tortillas because 8 wasn’t enough and I couldn’t cut them into 2” strips but otherwise it was amazing!!

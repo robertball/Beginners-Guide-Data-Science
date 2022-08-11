@@ -1,0 +1,107 @@
+Recipe number:
+218373.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-06T14:10:33.967
+helpfulCount:
+7
+userID:
+3225201
+Display Name:
+EmmaLee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+155
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/129326.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't think it can get much better than this! I can't quit eating it! I put all the salty snacks in the bark and none on top because I didn't think the potato chips would stay crsip being exposed to the air. I hope there is some left for my husband when he gets home, lol.
+Review:
+Rating:
+5
+dateLastModified:
+2011-11-01T13:41:59.23
+helpfulCount:
+7
+userID:
+3827445
+Display Name:
+Wooded Garden Chef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+744
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was absolutely wonderful;  so easy and quick; great for those of us who like dark chocolate and salty tastes combined.
+Review:
+Rating:
+5
+dateLastModified:
+2012-02-17T09:54:13.807
+helpfulCount:
+4
+userID:
+7028938
+Display Name:
+Kelsi Bailey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5965925.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good!! it was a great combination of salty and sweet. I made it for a party at church and everyone loved it. The only change i made was to substitute milk chocolate chips for half of the dark chocolate chips. I did this because i know a lot of people who don't like dark chocolate. But overall it was a really good recipe!! :)

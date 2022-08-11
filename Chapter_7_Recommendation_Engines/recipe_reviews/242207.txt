@@ -1,0 +1,107 @@
+Recipe number:
+242207.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-24T14:48:43.29
+helpfulCount:
+4
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I would suggest drying the potatoes before putting them into the hot oil or it will cause the oil to violently splatter and can cause injury or a fire. Other than that, these were very easy to make and very, VERY addicting. The whole family LOVED these...a keeper for sure~YUM, YUM, YUM!!!! Thanks for sharing. :)
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-25T03:18:16.533
+helpfulCount:
+2
+userID:
+20612910
+Display Name:
+Bim Bolera
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4062460.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Even for a starter like me, this recipe was easy. The only problem was the time for the potatoes to be immersed in water (with salt solution) was not mentioned. I soaked it for more than 10mins and the potatoes turned out really salty even without the remaining salt being sprinkled on top. I guess soaking it  for 5-10 minutes would be enough.
+Review:
+Rating:
+3
+dateLastModified:
+2017-06-11T21:42:12.76
+helpfulCount:
+0
+userID:
+18128756
+Display Name:
+Aimee Pragle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was very good, but it took forever to fry, and the consistency isn't very "Potato chipy". I used a mandolin to cut up my potatoes and they kept sticking to the bottom of the pan. It was also a little out of my salt range. But despite all of that is was good.I 'll probably make it again (because I have a bunch of potatoes to use up).

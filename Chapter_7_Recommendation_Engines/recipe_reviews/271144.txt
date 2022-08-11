@@ -1,0 +1,74 @@
+Recipe number:
+271144.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-18T12:17:49.433
+helpfulCount:
+0
+userID:
+6958789
+Display Name:
+charlie-d
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe and it came out awesome. Tasted more like a crepe. Loved it.
+
+charlie-d
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-08T18:11:08.13
+helpfulCount:
+0
+userID:
+18227750
+Display Name:
+Dawn Houle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3693511.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed instructions. Love this. Very similar to English recipes

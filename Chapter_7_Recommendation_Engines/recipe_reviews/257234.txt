@@ -1,0 +1,111 @@
+Recipe number:
+257234.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-01T00:45:34.487
+helpfulCount:
+0
+userID:
+6007664
+Display Name:
+kelslee28
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+146
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's missing something. Additional seasonings would maybe help it out. 
+
+I followed the recipe except I added some leftover pinto beans to the rice mixture to use them up. I also only had 1 fresh tomato so I used that plus 28 oz canned whole tomatoes and did not need to add additional tomato sauce. 
+
+Was overall pretty good and I will likely be making it again and trying to tweak the seasoning.
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-01T17:58:08.92
+helpfulCount:
+0
+userID:
+4641753
+Display Name:
+KBJR
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+251
+favoritesCount:
+228
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7533484.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the basil in the rice filling, and the tomato sauce was delicious...but the green peppers were still bitter.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-11T03:09:29.903
+helpfulCount:
+0
+userID:
+26105523
+Display Name:
+Sarah Paris
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7019549.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hubby’s favorite

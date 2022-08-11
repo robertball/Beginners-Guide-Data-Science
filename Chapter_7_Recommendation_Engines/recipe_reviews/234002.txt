@@ -1,0 +1,72 @@
+Recipe number:
+234002.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-12-03T18:20:20.387
+helpfulCount:
+2
+userID:
+166708
+Display Name:
+Jan Mowbray
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+428
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2530650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+With all due respect to the recipe poster, there appears to be something wrong with the ingredient amounts. I followed the recipe to a T - I even went out and bought stuff I would never have in the house.  There is too much moisture in this recipe - they become pudding cake plops.  The balls were so soft, I had to roll them in some more crumbs just so I could roll them into balls.  After freezing 5 minutes they were still way too soft.  And after the twice dipping in almond bark, the sticks don't hold up easily in such a soft interior.  Almond bark is another issue - by definition almond bark has almonds in it - whole almonds.  How the heck one supposed to work around the whole almonds is another problem.  I really wanted to make this recipe work, so I tried melted chocolate - same thing.  It's the interior that's way too soft.  When I put the balls on the lined tray, they flattened on the bottom side. - not pretty.  Though they taste okay, they're nothing outstanding, certainly nothing to die for. I hope the poster will double check the ingredients because it either needs only 4oz cream cheese AND only 1/4 of jar of marshmallow creme or it needs a lot more cookie crumbs to firm it up for handling.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-03T03:37:04.933
+helpfulCount:
+1
+userID:
+25316298
+Display Name:
+Sasha
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy to make and fast compared to traditional cake pops, a real crowd pleaser . I made 25 with recipe, took them to a party and they were gone fast

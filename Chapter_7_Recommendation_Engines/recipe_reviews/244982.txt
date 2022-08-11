@@ -1,0 +1,37 @@
+Recipe number:
+244982.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-24T20:06:35.107
+helpfulCount:
+0
+userID:
+23863267
+Display Name:
+Lainey curran
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7416205.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! Great fresh out of the oven. When scooping the muffins into the tray you will want to scoop only once or the muffins will split during the baking process.

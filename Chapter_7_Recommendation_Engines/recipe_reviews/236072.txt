@@ -1,0 +1,37 @@
+Recipe number:
+236072.txt
+Review:
+Rating:
+2
+dateLastModified:
+2014-05-29T19:29:13.957
+helpfulCount:
+0
+userID:
+5405460
+Display Name:
+addielleyes
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wrote a really detailed review of this poorly written recipe, but my cat erased it. Long story short, I will not be making these again. Look elsewhere.

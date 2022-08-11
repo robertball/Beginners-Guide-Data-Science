@@ -1,0 +1,72 @@
+Recipe number:
+274986.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-10T19:07:08.1
+helpfulCount:
+0
+userID:
+16234884
+Display Name:
+Becky and Donn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!  These were light and a touch crisp. Only change I made was to use kefir instead of buttermilk because that is what I had. And vanilla instead of maple flavoring.  Never would guess there was ricotta cheese in them.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-01T19:16:07
+helpfulCount:
+0
+userID:
+25026914
+Display Name:
+scooterbivens74
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made exactly as described...left out the pecans because of an allergy. Great texture and flavor. It’s a winner!

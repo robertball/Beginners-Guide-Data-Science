@@ -1,0 +1,37 @@
+Recipe number:
+260868.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-11T04:35:43.767
+helpfulCount:
+0
+userID:
+24203634
+Display Name:
+Katie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+512
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the 1st recipe I have reviewed. I was glad to come across this recipe-my mother used to make something similar. My bowls were too small, so I reduced everything. The only thing else I changed was to use regular M & M s, instead of peanuts, just because!

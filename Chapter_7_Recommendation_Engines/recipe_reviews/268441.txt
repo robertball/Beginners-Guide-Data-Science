@@ -1,0 +1,144 @@
+Recipe number:
+268441.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-03T03:47:02.81
+helpfulCount:
+1
+userID:
+26565612
+Display Name:
+ChrisS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and easy to make!
+Next time, I'll mix the sliced persimmons with the sugar mixture in a bowl first, and then pour into the crust. This way all the persimmons are coated.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-14T00:23:00.35
+helpfulCount:
+0
+userID:
+15698146
+Display Name:
+butternut recipe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+246
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Two persimmon trees in yard. Lots of persimmons so we made two pies! Took them to a party where there were other pies--ours were gone before we went home!
+Super easy, too!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-04T23:45:44.167
+helpfulCount:
+0
+userID:
+20946800
+Display Name:
+FLASH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+GREAT, SIMPLE RECIPE ! THE FRUIT IS NATURALY SWEET. WITH BUTTER AND SUGAR, HOW CAN IT BE BAD ? THE ONLY WAY IT COULD BE BETTER IS IF I COULD WRAP IN BACON AND FRY IT !!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-16T19:43:50.823
+helpfulCount:
+0
+userID:
+615128
+Display Name:
+Wink Fantastico
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5851266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple, and delicious! Much better, in my opinion, that the typical pureed persimmon fillings, which always seem "thin" in flavor, this is buttery-persimmony but the lemon juice keeps it from being too rich or cloying.

@@ -1,0 +1,111 @@
+Recipe number:
+218506.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-08-26T19:18:07.923
+helpfulCount:
+9
+userID:
+7458174
+Display Name:
+L
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2352.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty and nutritious.  Substituted turkey bacon for pork chops and fresh garlic for garlic salt.  Omitted salt and seasoned salt.  Recommend quartering ingredients for more accurate serving sizes.
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-08T06:14:01.767
+helpfulCount:
+2
+userID:
+5736769
+Display Name:
+Colin Johnson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1946970.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great way to empty the fridge of all the greens before they go bad. We followed the recipe for the most part. Added some diced jalapenos to spice it up a bit and they really made it that much tastier. Next time I am going to make this with chicken instead of pork and see how that turns out. We used Tony's and some Old Bay for the seasoning.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-05T23:24:28.09
+helpfulCount:
+0
+userID:
+4613594
+Display Name:
+jyxtrant
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have turnip greens or mustard greens, so I omitted those.  It turned out amazing, but a little dry.  I ended up adding about 12 ounces of water on top of the reserved spinach liquid to get it to the correct consistency.  
+
+However, it was absolutely delicious, and a fabululous way to use up a whole lot of green veggies at once.  
+
+I would definitely make this again

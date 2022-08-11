@@ -1,0 +1,37 @@
+Recipe number:
+230991.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-05T03:26:10.413
+helpfulCount:
+0
+userID:
+15045301
+Display Name:
+Lora
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is AMAZING! Make sure you line the baking dish with foil or be prepared to soak it. Why are things that taste so good so bad for you?

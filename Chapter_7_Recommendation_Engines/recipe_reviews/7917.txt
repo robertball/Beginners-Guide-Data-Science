@@ -1,0 +1,37 @@
+Recipe number:
+7917.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-05-11T01:29:36.73
+helpfulCount:
+18
+userID:
+2369540
+Display Name:
+Liz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe makes an awesome cake! The first time I made this, I followed the directions exactly. The cake got great reviews from friends & family. The next time I made it though, I melted one 2 ounce square of chocolate and blended it in the mix - YUM! It's even better now (especially topped with cream cheese icing)!

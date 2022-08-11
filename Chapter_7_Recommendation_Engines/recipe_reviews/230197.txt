@@ -1,0 +1,186 @@
+Recipe number:
+230197.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-08T10:15:00.893
+helpfulCount:
+6
+userID:
+8766714
+Display Name:
+Red Hot Cookin' Ann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/965183.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty. I made a 2 lb. portion of beef. Next time I wouldn't use so much Soy sauce and may add more heat to it.
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-08T09:11:11.467
+helpfulCount:
+5
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12229
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2670
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I put this together in the morning for that nights dinner.  The Worcestershire sauce was a little overwhelming in both smell and taste.  Our steak wasn't as tender as I would like but I doubt if that was the fault of the recipe but more the cut of meat.  Maybe marinating longer would have helped that.
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-26T12:37:19.267
+helpfulCount:
+4
+userID:
+3228570
+Display Name:
+TENNESSEE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+68
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/166962.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very simple marinade.  It's tasty nonetheless. At this time there 
+are only two other reviews.  One cited too much soy sauce while the other
+cited too much Worcestershire sauce.  It's simple enough to test. Just mix
+equal parts of soy sauce and Worcestershire sauce, say 1Tsp each and a dash
+of garlic powder (not garlic salt). That's the flavor it will impart to the
+meat.  But this marinade is for taste only. It will not tenderize as there is
+no real acidity in it.  To tenderize you need to add wine, vinegar or both,
+or maybe citric acid such as lime or lemon. True it will change the taste a
+bit, but more complexity just might benefit this recipe.  Thanks, Renee Manz.
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-25T15:07:01.63
+helpfulCount:
+0
+userID:
+11105204
+Display Name:
+Susan Sobel-Stevens
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+144
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2903067.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good and insanely simple marinade!  I add a splash or two of canola oil for a little extra tenderization.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-13T22:49:41.5
+helpfulCount:
+0
+userID:
+24700840
+Display Name:
+karen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent!  Will make again and change nothing
+Karen

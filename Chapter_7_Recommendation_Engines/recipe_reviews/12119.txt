@@ -1,0 +1,37 @@
+Recipe number:
+12119.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-20T02:27:27.713
+helpfulCount:
+4
+userID:
+2761942
+Display Name:
+DiamondGirl amanecer
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+350
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/593907.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+In whole, this pie is interesting and delicious, but I think, it needs one modification. It was very sweet in spite of using only 1/2 cup white sugar, instead of 3/4. Next time I will definately cut the sugar to 1/4 cup or maybe more. Thanks, Rosina, for a great idea.

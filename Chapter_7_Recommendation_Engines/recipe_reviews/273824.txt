@@ -1,0 +1,72 @@
+Recipe number:
+273824.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-06T19:37:37.833
+helpfulCount:
+0
+userID:
+21202712
+Display Name:
+Jerry Cagle
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4419151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great recipe for me to use. I filled mine with no bake cheesecake and topped in caramel stripes
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-03T01:51:20.11
+helpfulCount:
+0
+userID:
+25933946
+Display Name:
+Candace Phillips
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6896214.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did they last 5mins

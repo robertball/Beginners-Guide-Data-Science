@@ -1,0 +1,37 @@
+Recipe number:
+268564.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-21T04:48:16.993
+helpfulCount:
+1
+userID:
+22532501
+Display Name:
+Mandy Evenson Hahn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6572352.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So delicious and easy!  I followed recipe as written, usually I do some tweaking to every recipe I use but this was perfectly yummy as is!

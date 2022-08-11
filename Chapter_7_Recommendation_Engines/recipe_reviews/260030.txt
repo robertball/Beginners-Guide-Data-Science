@@ -1,0 +1,37 @@
+Recipe number:
+260030.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-30T16:03:15.51
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! The title is deceiving but  I'm thinking this would work great with wings too. If you are sensitive to heat I recommend leaving out the hot pepper altogether. I liked the flavor it added but it did pack a punch.  This was super simple and one I will definitely make again. 5 stars all the way!

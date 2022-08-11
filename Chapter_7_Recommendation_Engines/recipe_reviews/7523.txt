@@ -1,0 +1,187 @@
+Recipe number:
+7523.txt
+Review:
+Rating:
+4
+dateLastModified:
+2004-04-16T14:24:15.327
+helpfulCount:
+34
+userID:
+1075637
+Display Name:
+JAZZCOOK1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasted great!  We will definitely use this recipe again next Easter.  A few comments -
+
+* After creaming the butter & sugar, I had trouble mixing in the water.  Maybe it should have been room temp water?  Maybe I should have added it more gradually?
+
+* The dough is very stiff. "Folding" in the beaten egg whites was an amusing activity.
+
+* I had extra batter.  Which was OK, since I baked that in a separate little pan & we got to sample that before Easter Dinner :-)
+
+* I baked it for 45 minutes & even tho the toothpick came out clean, it was still raw in the center.  Next year we'll go for 60 minutes.
+
+* To the JOSMITH - think of this as a pound cake. You need such a dense cake to show the details of the lamb from the mold.
+Review:
+Rating:
+2
+dateLastModified:
+2001-12-11T06:09:49.233
+helpfulCount:
+27
+userID:
+421616
+Display Name:
+JOSMITH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The outside of the cake has the same consistency of waffles due to the egg whites.  It is a very heavy cake.  If the kids want to help ice it this would be the cake they wouldn't tear up.  However, it's not the one I would use for a wedding cake or an easter cake.
+Review:
+Rating:
+5
+dateLastModified:
+2010-03-23T18:21:11.837
+helpfulCount:
+13
+userID:
+4716335
+Display Name:
+Sweet Sue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+add coconut to the white icing and set on a bed of green colored coconut . Add a few jelly beans on the "grass"...
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-15T21:53:27.107
+helpfulCount:
+0
+userID:
+9027174
+Display Name:
+Kiley Baricevic
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3805964.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+did enjoy making it...i changed it up and added a spice mix for my flour but basically followed this recipe...came out really good can't wait to eat it...i'm trying to figure out how to post pics...i did buttercream fur instead of coconut like a lot of other makers do...but this was a project wanted to do for a while i can knock it off my bucket list...lol
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-13T17:54:41.003
+helpfulCount:
+0
+userID:
+9828947
+Display Name:
+Nancy LoBalbo
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3829440.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cake was very dense but tasty! Will def make this again for Easter

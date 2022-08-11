@@ -1,0 +1,72 @@
+Recipe number:
+258826.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-24T17:49:41.917
+helpfulCount:
+2
+userID:
+1951898
+Display Name:
+Phyllis Trinke Funk
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+118
+favoritesCount:
+361
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4503147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was just a bit hesitant to try out this recipe but thought what the heck. I did make a few changes because I didn't have all the ingredients on hand. Mostly I change the cheese to a combination of Swiss and pepper jack. I also did double the garlic. Yum Yum Yum. I will definitely try this one again. Oh yes, I also used regular milk instead of the almond milk.
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-06T21:31:49.027
+helpfulCount:
+0
+userID:
+3330989
+Display Name:
+Lindsey Atkinson Lillywhite
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1312755.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good.    Even my 13 year old said it was ok.

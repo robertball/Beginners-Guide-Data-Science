@@ -1,0 +1,37 @@
+Recipe number:
+255022.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-06-14T04:16:47.89
+helpfulCount:
+0
+userID:
+10832712
+Display Name:
+Sahara B
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+103
+favoritesCount:
+218
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6330601.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Chef, while I appreciate all you create, this one not so keen on. Matzoh ball soup should be made with a true chicken stock. Nice try, but not for this gal. I like the fluff of light matzoh balls since my family likes firm, but sorry... no on the turkey stock.

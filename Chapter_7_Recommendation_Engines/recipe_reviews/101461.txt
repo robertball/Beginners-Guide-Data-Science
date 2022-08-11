@@ -1,0 +1,72 @@
+Recipe number:
+101461.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-06-22T05:41:10.997
+helpfulCount:
+2
+userID:
+992643
+Display Name:
+Lesley
+isPro:
+False
+followersCount:
+96
+followingCount:
+0
+madeRecipesCount:
+1005
+favoritesCount:
+2738
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2633140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I ended up doing mine a little different.  I simmered the ribs in water over the stove for about an hour.  Then I rubbed the salt/sugar mixture on the ribs and put on the grill for a minute or two before coating them with the bbq sauce and grilling.  They were very flavorful and probably the most tender ribs that I have made yet.  Will try on bbq chicken also.
+Review:
+Rating:
+5
+dateLastModified:
+2006-04-21T04:21:48.297
+helpfulCount:
+2
+userID:
+1243646
+Display Name:
+L. Brooks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/20.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+These were wonderful and easy.

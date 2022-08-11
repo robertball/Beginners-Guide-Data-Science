@@ -1,0 +1,72 @@
+Recipe number:
+261295.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-03T15:18:41.987
+helpfulCount:
+0
+userID:
+7173320
+Display Name:
+nana
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+93
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6296292.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I served this at a family dinner for dessert and had rave reviews.  There was nothing left.  I did use sugar free maple syrup but followed everything else to the letter..  Definitely making again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-28T01:35:09.987
+helpfulCount:
+0
+userID:
+24621238
+Display Name:
+Apple Lover
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6031255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes good, relatively easy to make. I would *definitely* recommend making half a batch more of the topping, as the given amount doesn't cover the pan completely, slightly drying out the apples. Also, the poster's picture is misleading, as you would need three or four cast iron skillets to hold everything.

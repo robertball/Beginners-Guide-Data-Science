@@ -1,0 +1,144 @@
+Recipe number:
+236004.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-12T15:08:00.627
+helpfulCount:
+1
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2215
+favoritesCount:
+2558
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like my potatoes very well done, so I set my cast iron skillet in a 425° oven and when preheated  added red potatoes (personal preference) and baked them until they were well browned.  The other substitution I made was to use regular bacon.   Serve with a little sour cream and you have a yummy treat.
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-17T13:00:24.567
+helpfulCount:
+1
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12229
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The amount of toppings that can be added to this are endless.  Next time, I would roast the potato wedges at 400 - 425.   Perfect football food!
+Review:
+Rating:
+5
+dateLastModified:
+2015-09-27T15:30:12.34
+helpfulCount:
+0
+userID:
+2795842
+Display Name:
+Anne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+74
+favoritesCount:
+291
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/231594.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful and easy!  I thought the seasoning was a bit basic though so I did add some garlic powder, onion powder and paprika.  My family raved over these potatoes!
+
+By the way... they weren't 100% done by the time I took them out but they were fine.  Also, my cast iron skillet wasn't big enough for all the potatoes so I cooked two batches, then I put them in a baking dish to bake.
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-10T10:57:43.517
+helpfulCount:
+0
+userID:
+741843
+Display Name:
+Ms. Chef Esh
+isPro:
+False
+followersCount:
+422
+followingCount:
+0
+madeRecipesCount:
+594
+favoritesCount:
+2088
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7535256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree with the other reviewer, I roasted them at 400 and for a bit longer, 35-40 mins, I like them really crispy.  I used cracked pepper bacon because that is what I had and would do that again the next time!  Don't forget a side of sour cream!

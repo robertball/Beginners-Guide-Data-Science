@@ -1,0 +1,142 @@
+Recipe number:
+275429.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-06T11:53:17.403
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8908
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really need to use my air fryer more! These were so easy and delicious, and I didn't have to heat up the kitchen by cranking the oven up to 400 degrees! I made these as directed, using multi-colored potatoes. They were all very odd sized, so I had to cut the larger ones in quarters in order to get even sized with the smaller ones. Because of this, I should have adjusted the time slightly, as they were just a little bit over-done. The purple ones LOOK extremely over-done, but they weren't, it was just because of their dark color. I was surprised at how crispy these were on the outside, and nice and creamy on the inside. Will definitely make these again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-03T01:42:32.993
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved how simple and flavorful this was and I loved how I was able to incorporate my fresh rosemary that I don't use often. On that note, my rosemary did burn a bit so I will reduce the temp next time. Excellent recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-03T19:33:58.497
+helpfulCount:
+0
+userID:
+21921246
+Display Name:
+Doug Nunemaker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added baby carrots to the mix, used granulated garlic, and skipped the lemon, but they came out great!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-04T21:27:18.96
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and so easy to put together.  The center is creamy and the seasoning is perfect.

@@ -1,0 +1,85 @@
+Recipe number:
+273658.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-11-18T23:48:13.217
+helpfulCount:
+0
+userID:
+6059385
+Display Name:
+Stacr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I do a low carb eating regimen and when I feel upon the chicken pizza crust, I was so hopeful.
+What's healthier than pure protein chicken crust?!
+
+Eager to try the recipe, I made the pizza. 
+I added fresh garlic & fresh mozzarella to enhance the flavor. 
+
+The pizza looked delish!
+However,  the end result was disappointing. 
+The crust was about 1/2" thick, which made it taste like a chicken burger pizza.  Nothing like one would consider pizza of any sort. 
+
+If anyone does try it,  definitly make the 'crust' thinner,  maybe make 2 smaller pizzas. 
+You'll def need the crust thinner so it's not like a chicken burger. 
+
+Needless to say, I won't be making this again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-01T23:12:33.083
+helpfulCount:
+0
+userID:
+5798981
+Display Name:
+Trisha Wolfe Rarick
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+218
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3630067.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was kind of leery to try this because it’s not the usual pizza crust, but I did it exactly like the recipe and was pleasantly surprised how good it is!

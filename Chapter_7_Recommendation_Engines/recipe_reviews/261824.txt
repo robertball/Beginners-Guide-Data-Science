@@ -1,0 +1,73 @@
+Recipe number:
+261824.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-13T14:20:27.65
+helpfulCount:
+3
+userID:
+4544984
+Display Name:
+paulmike
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+169
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavours are amazing.  The veggies should be cooked before adding to the dish.  I cooked the potatoes a out half way but they were still underdone. 
+suggest more tomatoes both for the juice and the fruit.i used veggie broth to keep it moist.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-24T14:20:32.717
+helpfulCount:
+0
+userID:
+24431762
+Display Name:
+All Know-How
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5894109.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing !!

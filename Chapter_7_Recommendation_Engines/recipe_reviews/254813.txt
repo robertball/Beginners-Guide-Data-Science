@@ -1,0 +1,107 @@
+Recipe number:
+254813.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-04T12:05:53.333
+helpfulCount:
+0
+userID:
+5453545
+Display Name:
+Mark Schorse
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5893695.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used  taco shells and it was good
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-19T22:48:14.223
+helpfulCount:
+0
+userID:
+23850654
+Display Name:
+L. Higgins
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It worked well and was fairly easy to make. The only change I would make would be to season the pork more than I had because it turns out a bit bland.
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-07T01:27:07.283
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good way to use of leftover pulled pork. I used fresh jalapeno instead of bell pepper due to personal preference but that is the only change I made.

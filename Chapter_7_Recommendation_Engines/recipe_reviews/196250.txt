@@ -1,0 +1,62 @@
+Recipe number:
+196250.txt
+Review:
+Rating:
+5
+dateLastModified:
+04/29/2009
+helpfulCount:
+5
+userID:
+3713344
+Display Name:
+Karen
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Mmmmmmm. The name of this recipe grabbed me. We tried it, and it was a great twist on a classic.
+Review:
+Rating:
+4
+dateLastModified:
+05/17/2010
+helpfulCount:
+1
+userID:
+2873662
+Display Name:
+Ginger Lee
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1442001.jpg
+text:
+Different but very good.  Better the next day.  I can only give this a four because frankly, I have better chicken soup recipes that I'd rather make.  But this was light and refreshing.
+Review:
+Rating:
+5
+dateLastModified:
+03/03/2010
+helpfulCount:
+0
+userID:
+4633361
+Display Name:
+lschoe02
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7939781.jpg
+text:
+YUMMM....This recipe turned out very well! I didn't like that the soup was very light in color so I added a few drops of yellow food coloring to liven it up.I would definatly make again.
+Review:
+Rating:
+5
+dateLastModified:
+12/01/2009
+helpfulCount:
+0
+userID:
+3730834
+Display Name:
+Amy Nesz Wright
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5268369.jpg
+text:
+Our new favorite! Used with Trader joes wild rice.

@@ -1,0 +1,142 @@
+Recipe number:
+240226.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-29T09:18:28.703
+helpfulCount:
+4
+userID:
+4462283
+Display Name:
+What's for dinner, mom?
+isPro:
+False
+followersCount:
+11593
+followingCount:
+0
+madeRecipesCount:
+555
+favoritesCount:
+1378
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3274570.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great pickles!  I did can a few jars for later use with pickling cucumbers but I also did some as refrigerator pickles.  I waited just a few days for the refrigerator batch to ripen and they were really good.  Crisp, good vinegar bite and spice level.  If the canning jars come out as good then we will make a larger batch for certain!
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-04T15:22:32.167
+helpfulCount:
+2
+userID:
+7295538
+Display Name:
+JIG the Cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+193
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2886719.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the best kosher dill recipe I've tried yet. However, processing for 15 minutes tends to make the slices a little mushy. I prefer my pickles crunchy. Trying a shorter processing time, or only using small whole pickles to see if that works better. The taste is wonderful and can actually be used after just 2 days in the brine!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-09T20:15:41.19
+helpfulCount:
+1
+userID:
+8322243
+Display Name:
+Kristin Abbott Mokarry
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2185266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have tried multiple recipes and this is my favorite! I will make these over and over!
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-28T16:46:28.73
+helpfulCount:
+1
+userID:
+6415749
+Display Name:
+MaryEllen Malloy
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4371382.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good crunchy pickels.  Needed a bit of sugar added.

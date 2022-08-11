@@ -1,0 +1,37 @@
+Recipe number:
+276275.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-15T23:31:58.887
+helpfulCount:
+0
+userID:
+15873291
+Display Name:
+Deb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe. Made as posted. Was called delicious!

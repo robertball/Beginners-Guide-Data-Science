@@ -1,0 +1,72 @@
+Recipe number:
+222874.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-04-10T08:17:18.557
+helpfulCount:
+10
+userID:
+1789456
+Display Name:
+Eileen Fuore
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+740
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1373308.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this ham for Easter dinner.  It sounded delicious, but it turned out quite disappointing.  I used a picnic ham, as the recipe calls for.  The honey mustard sauce was too bland for this type of ham.  Perhaps if the recipe called for actual honey and mustard, it would have been more flavorful.  I will definitely not be making this again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-08T00:22:09.01
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sauce was a little too sweet so I ended up adding some yellow mustard to it.  It was still too sweet for me but hubs loved it after the addition of mustard. This was super simple and one I'd make again.

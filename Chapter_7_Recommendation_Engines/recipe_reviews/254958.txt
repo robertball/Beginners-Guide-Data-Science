@@ -1,0 +1,72 @@
+Recipe number:
+254958.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-03-24T00:56:12.863
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8908
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had such high hopes for this recipe. I scaled it to 6 servings and followed the recipe to a "T", cooking this in my Instant Pot. It smelled wonderful, but I thought the flavors were lacking in the finished product. Almost too watered down tasting, which was surprising to me.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-11T04:14:01.127
+helpfulCount:
+0
+userID:
+15065037
+Display Name:
+Susan Smoter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1900462.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out perfect - we loved it.  Using the pressure cooker was great and saved so much time.

@@ -1,0 +1,37 @@
+Recipe number:
+244356.txt
+Review:
+Rating:
+1
+dateLastModified:
+2015-07-14T21:53:07.233
+helpfulCount:
+2
+userID:
+16005616
+Display Name:
+teambrown4
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We tried two batches, one with wax paper and one with wax paper sprayed with Pam and both times the wax paper still stuck to the mix so badly that we couldn't get it all off. It was so disappointing

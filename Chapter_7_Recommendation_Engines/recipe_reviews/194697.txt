@@ -1,0 +1,37 @@
+Recipe number:
+194697.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-04-26T18:16:18.713
+helpfulCount:
+3
+userID:
+11306896
+Display Name:
+LegalCook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent taste and texture. Though I added cinnamon butter sugar instead of the vegetable oil. I'll reduce the sugar by 30 per cent in the future.  A nice easy recipe.

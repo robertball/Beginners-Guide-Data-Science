@@ -1,0 +1,37 @@
+Recipe number:
+272562.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-30T01:46:17.217
+helpfulCount:
+0
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+302
+followingCount:
+0
+madeRecipesCount:
+252
+favoritesCount:
+1638
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7778502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love cold soba noodles, and this dish was good, too! I think it needed a little more mirin to counter the salty miso taste. But the lime juice is perfect!

@@ -1,0 +1,72 @@
+Recipe number:
+11264.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-03-31T10:32:03.55
+helpfulCount:
+9
+userID:
+4247223
+Display Name:
+LadySparkle
+isPro:
+False
+followersCount:
+174
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+1682
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/943931.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite tasty! I used parchment paper and baked on a cookie sheet. The dough was very stiff and hard to incorporate all the flour, but I resisted the urge to add anything. I rolled it between two layers of parchment, directly onto the cookie sheet. We don't care for candied citron so I added 1/2 c. raisins and no nuts. I made a vanilla glaze and applied it while still warm. Great with my morning coffee.
+Review:
+Rating:
+3
+dateLastModified:
+2016-12-20T00:56:28.103
+helpfulCount:
+0
+userID:
+21032026
+Display Name:
+Thomas C. Downes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut the amount of brown sugar in half.   Probably a mistake.

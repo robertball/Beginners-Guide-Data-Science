@@ -1,0 +1,107 @@
+Recipe number:
+258774.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-14T14:51:32.91
+helpfulCount:
+0
+userID:
+1569391
+Display Name:
+C. Beebe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Family loved it!  Didn't miss the beef at all.  Very flavorful and less heavy/fatty than beef.  Will definitely make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-25T00:02:11.943
+helpfulCount:
+0
+userID:
+15562604
+Display Name:
+Elizabeth Swift
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+557
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2177627.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only changes I made were adding minced garlic along with the garlic powder, and I added a lot more cilantro. This was very good. I was honestly surprised. I’m watching my cholesterol so this recipe is a keeper. I don’t even think my boyfriend knew it was turkey instead of beef.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-05T14:28:36.517
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were a great alternative to beef tacos for those watching their cholesterol. I really liked the addition of the green sauce. I think the recipe needed more cilantro but that is the only change I will make next time.

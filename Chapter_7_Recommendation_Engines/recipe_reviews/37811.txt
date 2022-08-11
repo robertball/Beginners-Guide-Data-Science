@@ -1,0 +1,32 @@
+Recipe number:
+37811.txt
+Review:
+Rating:
+5
+dateLastModified:
+11/07/2004
+helpfulCount:
+0
+userID:
+1235644
+Display Name:
+ice100
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+ice100
+Review:
+Rating:
+4
+dateLastModified:
+02/07/2006
+helpfulCount:
+0
+userID:
+693504
+Display Name:
+Lisa Ritter
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7787649.jpg
+text:
+This was good.  I used a whole 12 oz. box of bow tie pasta and a whole broccoli "crown" and proportions were fine.  After sitting in the refrigerator overnight, it was a little dry so I stirred in about a quarter cup more mayonase.

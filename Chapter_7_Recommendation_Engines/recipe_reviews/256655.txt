@@ -1,0 +1,73 @@
+Recipe number:
+256655.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-04-26T00:32:45.023
+helpfulCount:
+0
+userID:
+23640695
+Display Name:
+Meagan Johnston
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5346743.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+With no flavor development for this, made for a bland dish, as expected. Not bad. Bland. I added some shredded cheese, a dab of Crystals and a sprinkling of red pepper. 
+I added 1/2 cup of water, as directed and it took about 30 minutes for it to all simmer off.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-12T21:43:56.61
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We like all of these ingredients separately, but I wasn't sure how it was gonna go with them combined...we liked it!  I only ended up adding a few Tbsps. of water instead of the full 1/2 cup, and that worked great. We really liked the flavors and different textures. This was nice for  a different side. Thanks for sharing. :)

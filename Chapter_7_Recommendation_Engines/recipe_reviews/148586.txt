@@ -1,0 +1,73 @@
+Recipe number:
+148586.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-09-20T22:29:41.32
+helpfulCount:
+2
+userID:
+2474631
+Display Name:
+Lauren Crehan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+My family enjoyed this. Cooked for 3 hours and the ribs were nice and tender.
+Nice flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2008-01-06T11:49:29.847
+helpfulCount:
+1
+userID:
+2600137
+Display Name:
+Laura
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe turned out great for me. Followed it to a T.

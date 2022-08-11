@@ -1,0 +1,72 @@
+Recipe number:
+236489.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-04T09:59:30.827
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty. Had a very strong veggie flavor which I liked. It is very thick so some extra stock might be needed. I did need more hot sauce..Do add the crab.I tried it with and without and it is really wonderful with the crab
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-09T18:59:21.77
+helpfulCount:
+1
+userID:
+4747692
+Display Name:
+FollowYourBliss
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+966
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Found this recipe after eating this soup at a Caribbean restaurant in Tulsa. This is great! I used chicken broth instead of water. Had to add extra seasonings to "kick up" the flavor. Will make it again.

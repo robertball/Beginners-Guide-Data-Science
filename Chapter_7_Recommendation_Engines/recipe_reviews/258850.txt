@@ -1,0 +1,62 @@
+Recipe number:
+258850.txt
+Review:
+Rating:
+5
+dateLastModified:
+02/15/2019
+helpfulCount:
+1
+userID:
+2405620
+Display Name:
+valerie
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Great comfort food; a wonderful pantry meal. I don t think you can go wrong using this structure. I substituted pork sausage for the ground beef and green olives because that s what I had on hand. Also used a tablespoon of chili powder. Thanks for the recipe!
+Review:
+Rating:
+2
+dateLastModified:
+03/27/2020
+helpfulCount:
+0
+userID:
+4634944
+Display Name:
+ruthncls
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Husband had seconds. Myself, I didn't care for it and next time I'm in the mood for Tamale Pie, I will look for a different recipe.  Probably one of the other ones that used a Jiffy cornbread mix.
+Review:
+Rating:
+4
+dateLastModified:
+07/07/2018
+helpfulCount:
+0
+userID:
+22176842
+Display Name:
+Don Anderson
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is really good and easy to make.
+Review:
+Rating:
+2
+dateLastModified:
+04/26/2020
+helpfulCount:
+0
+userID:
+26160490
+Display Name:
+Curtis
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Not my fave! The cornmeal did not separate from the filling during cooking as I expected from my experience with similar recipes, resulting in a mushy mess.  I'll choose a recipe that involves prebaking the crust next time.

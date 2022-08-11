@@ -1,0 +1,73 @@
+Recipe number:
+18525.txt
+Review:
+Rating:
+1
+dateLastModified:
+2002-10-17T15:26:00.293
+helpfulCount:
+27
+userID:
+673713
+Display Name:
+AQUARIUS2058
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have to wonder about some recipes; if people really have tried them as stated, or if they tend to not work with a recipe at all, and they just sort of guess at the quantities in these recipes and write down anything if asked for a recipe.     
+    Well, my experience with this grapeseed crust was less than stellar. Firstly, the grapeseed oil never froze to any degree of hardness at all.  I left it in my freezer for 24 hours too(my freezer does work).  It stayed a cold, thick liquid.  Ok, bad for a flakey pie crust. Secondly, 3/4 cup oil was way to much oil for the amount of dry ingredients.
+Review:
+Rating:
+3
+dateLastModified:
+2009-05-23T01:43:12.28
+helpfulCount:
+5
+userID:
+3752121
+Display Name:
+Muslimah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Grapeola grape seed oil can be purchased on ebay if you can't find it elsewhere.

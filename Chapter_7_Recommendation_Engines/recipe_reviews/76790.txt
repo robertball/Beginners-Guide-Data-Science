@@ -1,0 +1,72 @@
+Recipe number:
+76790.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-06-19T15:57:03.1
+helpfulCount:
+17
+userID:
+1896015
+Display Name:
+Jackie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/492401.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love that this is one of the quickest treats I've ever done. When I added the sugar, the dough became fairly dry and I had a little difficulty mixing in the cereal and getting the nuts to stick. Maybe just add the sugar a little at a time till the dough seems to be of a good consistency. The contrast of the salty peanuts is wonderful against the sweet crispy peanut butter mixture.
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-24T20:08:19.603
+helpfulCount:
+2
+userID:
+9458928
+Display Name:
+Madi Rawlins
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/971162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe won "Best Tasting" at a party I took it to tonight out of over 20 dishes!  It really was so good everyone kept asking me for the recipe and said it was so good it was addictive!  I don't think I had the consistency right because it would break apart more than I think it should have so play around with the amounts of peanut butter and butter you use to get it to hold together better, but as far as taste.  It's a huge winner!

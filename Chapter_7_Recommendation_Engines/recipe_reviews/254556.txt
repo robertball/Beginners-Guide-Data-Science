@@ -1,0 +1,37 @@
+Recipe number:
+254556.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-21T15:20:09.463
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I only made one serving and cut the maple syrup to 1/4 c. It was OK and plenty sweet. I gave the rest to my 3 year-old to drink.

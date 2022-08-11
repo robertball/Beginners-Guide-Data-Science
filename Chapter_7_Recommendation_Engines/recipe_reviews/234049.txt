@@ -1,0 +1,37 @@
+Recipe number:
+234049.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-14T23:49:23.067
+helpfulCount:
+0
+userID:
+17513499
+Display Name:
+Molly Smith
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3259115.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I haven't made this yet but know it will be a delicious dinner.  Hubs smoked a turkey breast this weekend so I've been looking for different recipes to use it.   This will be wonderful prepped, frozen and cooked in the crock pot on a day when I'm too busy to cook.  I'll get a picture of it for you when I do, thanks for the recipe.

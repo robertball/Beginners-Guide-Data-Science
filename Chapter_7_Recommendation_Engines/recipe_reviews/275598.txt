@@ -1,0 +1,37 @@
+Recipe number:
+275598.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-28T20:25:34.33
+helpfulCount:
+0
+userID:
+4419080
+Display Name:
+jeannie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7210721.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were a big hit and so easy to make!  I made a large batch with croissants from Costco ($5 ish) and kept them in the fridge so they would stay fresh.   I also added a sprinkle of garlic powder before baking. Thanks for the recipe. I definitely recommend!

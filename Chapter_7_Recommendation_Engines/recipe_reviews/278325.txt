@@ -1,0 +1,62 @@
+Recipe number:
+278325.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/16/2020
+helpfulCount:
+2
+userID:
+1207514
+Display Name:
+JULETTA
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+pretty good,  very easy and I added a little  sausage, bell pepper
+Review:
+Rating:
+5
+dateLastModified:
+10/18/2020
+helpfulCount:
+0
+userID:
+9723134
+Display Name:
+Debby Kirchner Korby
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1342393.jpg
+text:
+Oh my goodness so good!!! I made a second batch and left in for 6 minutes instead of 5 and was so much better! A little crunchier crust. I will defiantly make again and try some other toppings besides pepperoni. My photo is too big. Wont let me share.
+Review:
+Rating:
+5
+dateLastModified:
+03/05/2020
+helpfulCount:
+0
+userID:
+25913940
+Display Name:
+Jeff Aysse
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Super easy and tasty! Perfect for a "pizza night"!
+Review:
+Rating:
+4
+dateLastModified:
+02/28/2020
+helpfulCount:
+0
+userID:
+12292205
+Display Name:
+Queen Mother
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+It’s pretty darned good.  When you’re ketoIng or low carbing you’re often looking for new yummy stuff to replace those long time favorites.  These chaffels really do the trick!

@@ -1,0 +1,73 @@
+Recipe number:
+255036.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-14T21:55:57.2
+helpfulCount:
+1
+userID:
+21158820
+Display Name:
+Linda Douglas
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4398134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh my word. These are just sinful. I used walnuts instead of pecans. I’m going to be so popular!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-20T23:14:33.483
+helpfulCount:
+0
+userID:
+16051862
+Display Name:
+Brigitte Joannette
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Actually it was awsome
+chose half weath recipe and used whole cloves icing with this recipe and it turned out pretty awsome... both my kids and myself loved it

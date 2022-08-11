@@ -1,0 +1,107 @@
+Recipe number:
+268909.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-29T22:38:04.16
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2832
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved this. It’s quite rich, but delicious. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-27T14:29:24.427
+helpfulCount:
+0
+userID:
+26224612
+Display Name:
+Catherine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love spinach so I love finding new ways of eating it. I enjoyed this recipe. It does not reheat great, so since I'm the only one in the house who loves spinach, I'll be sure to make less. For some reason the onion/flour mixture didn't make a paste, it ended up being just onion coated in flour. Not sure what I did wrong there, but the recipe came out just fine anyway.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-23T00:18:50.3
+helpfulCount:
+0
+userID:
+22633622
+Display Name:
+mrs b
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5163421.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was good. I washed  the spinach and the remaining water on the leaves caused there  to be too much liquid in the spinach phase. I should have drained the spinach at that  point.

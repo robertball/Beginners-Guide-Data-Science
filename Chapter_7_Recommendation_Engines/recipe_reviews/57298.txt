@@ -1,0 +1,72 @@
+Recipe number:
+57298.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-01-10T14:34:41.46
+helpfulCount:
+6
+userID:
+1478639
+Display Name:
+J. Nightingale
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good!  A nice sauce with a bit of a zip to it.  I wanted something a bit different than traditional sauce for some chicken mozzarella ravioli.  I was looking for a cream based sauce and didn't want it to be very heavy so this looked like it would be interesting. I used Mr/Mrs T bloody mary mix for the juice and only 32 oz.  I was afraid with so much liquid, the sauce would be too thin for our taste.  I also drained the diced tomatos for the same reason. The sauce turned out the consistancy we like.   A very easy recipe to add spice to your pasta.  A keeper for sure.
+Review:
+Rating:
+4
+dateLastModified:
+2011-08-04T17:16:00.51
+helpfulCount:
+3
+userID:
+7450058
+Display Name:
+whit6
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+568
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy and had everything (or equivalent) in my pantry! My kids ate it over penne pasta with parmesan cheese on top.

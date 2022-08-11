@@ -1,0 +1,72 @@
+Recipe number:
+246003.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-26T02:09:22.747
+helpfulCount:
+2
+userID:
+17007457
+Display Name:
+Jill Chadbourne-Parks
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2958780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I must've not made them correctly because they were very wet and sticky, but I gave 5 stars because they were still DELICIOUS!  I will make these again; hopefully, the right way next time.
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-04T10:59:14.01
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum... good base recipe using almond flour.  I liked the texture and the mild flavor it added.  Will make again and jazz up with some other things.. wanted to make per recipe first time

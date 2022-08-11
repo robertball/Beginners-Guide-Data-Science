@@ -1,0 +1,72 @@
+Recipe number:
+246364.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-28T22:53:16.83
+helpfulCount:
+0
+userID:
+17740758
+Display Name:
+Lisa Axnix
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+148
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3394652.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good way to add a lot of flavor to the squash, and I love anything that uses swiss chard, we really liked it, just shy of loved it.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-27T22:32:53.11
+helpfulCount:
+0
+userID:
+4345897
+Display Name:
+Bibi
+isPro:
+False
+followersCount:
+433
+followingCount:
+0
+madeRecipesCount:
+399
+favoritesCount:
+2026
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7784017.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is tasty, but beware of the red pepper flakes!  Too much, for us, but otherwise, a tasty side dish or light lunch.  All the flavor of a pasta dish, but without the carbs.  Thanks for posting!

@@ -1,0 +1,107 @@
+Recipe number:
+247005.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-24T17:38:54.48
+helpfulCount:
+0
+userID:
+15382124
+Display Name:
+Melissa Frey
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2628377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The filling was WAY too sweet & I had a ton leftover.  The cookies were really good & the recipe is simple.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-25T17:18:50.163
+helpfulCount:
+0
+userID:
+25594405
+Display Name:
+AlishaFulford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6657086.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made exactly as recipe called for & they turned out so good. Much better after they were in the fridge overnight!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-20T16:18:59.75
+helpfulCount:
+0
+userID:
+13017383
+Display Name:
+Kim Davis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5951925.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were delicious. Not overly sweet which was delicious with the sweet frosting. I made them gluten free with Bob’s red mill 1 to 1 flour.

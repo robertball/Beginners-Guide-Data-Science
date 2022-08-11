@@ -1,0 +1,107 @@
+Recipe number:
+269742.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-29T16:25:32.807
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for some chicken legs to go in the smoker and it turned out great! This would go great on any grilled or smoked meat. I'll be making a big batch to keep on hand. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-19T03:09:27.463
+helpfulCount:
+0
+userID:
+24899227
+Display Name:
+Helen Qualls
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6230727.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is now my go to seasoning, use it on meats, vegetables and just about anything that I cook. Will definitely keep some on hand at all times.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-07T07:27:58.873
+helpfulCount:
+0
+userID:
+2688700
+Display Name:
+Michael Brandon Offutt
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2887285.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A food processor can be good for blending spices.

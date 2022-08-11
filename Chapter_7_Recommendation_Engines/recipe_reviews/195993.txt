@@ -1,0 +1,107 @@
+Recipe number:
+195993.txt
+Review:
+Rating:
+1
+dateLastModified:
+2014-04-18T06:43:30.713
+helpfulCount:
+3
+userID:
+4002259
+Display Name:
+Susana Magalhaes Burgess
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+45
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2605184.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The measurements are off. Most of the liquid evaporates after simmering for 20 minutes. It filled 1/4 of the blender only and it tasted like a prune shake. I added another cup of water, 2 tsp of sugar and only 1 tsp of flour to save it.
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-04T17:20:16.447
+helpfulCount:
+2
+userID:
+3463948
+Display Name:
+mwmetge
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great plum sauce.  I like my BBQ with more spice but I was looking for a healthier style BBQ sauce and came across this recipe.  I cooked up some chicken in the pressure cooker and then put this sauce on it as is.  Very good and it led to seconds.  Thanks.
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-30T17:28:09.977
+helpfulCount:
+0
+userID:
+6717976
+Display Name:
+Rebecca Carina
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+214
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a delicious sauce - just tangy enough to truly capture the flavor of plums and not too sweet.  I did spoon some over ice cream tonight (great) but it would go great with any meat.  I had no problems with measurements.

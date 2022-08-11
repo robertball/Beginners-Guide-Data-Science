@@ -1,0 +1,37 @@
+Recipe number:
+270947.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-01T01:26:02.563
+helpfulCount:
+0
+userID:
+8977699
+Display Name:
+edysert53
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+1408
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to prepare--excellent both as an appetizer and main course

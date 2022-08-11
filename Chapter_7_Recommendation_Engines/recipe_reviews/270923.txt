@@ -1,0 +1,37 @@
+Recipe number:
+270923.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-19T02:50:47.06
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If using the entire 32 ounce bag of fries, this needs more cheese in my opinion. I used real bacon bits for convenience and they worked just fine. This is a fun recipe and one that wouldn't last long at a gathering. I mean who doesn't love french fries, cheese, bacon, and jalapenos?

@@ -1,0 +1,37 @@
+Recipe number:
+247144.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-17T18:04:55.69
+helpfulCount:
+0
+userID:
+12591447
+Display Name:
+tcasa
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+778
+favoritesCount:
+1510
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2386212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made all of my own baby food for all of our children, this is a great tutorial for new moms wanting to make their own healthy homemade baby food. If the plum mixture is to thin you can thicken it up with some cereal or thin it out with formula, breast milk or the cooking water  (the cooking water has some vitamins & nutrients which get leached out during steaming). As baby gets older  I add in some spices such as; cinnamon, nutmeg, vanilla, etc.

@@ -1,0 +1,38 @@
+Recipe number:
+246083.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-27T11:11:50.91
+helpfulCount:
+0
+userID:
+17678336
+Display Name:
+gret
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice creme brulee variant, thanks to the uploader. I made it and my family liked it.
+Just one comment: 3 apples seems to me too much for 6 ramekins, next time I will try to put only 1 slice to each.

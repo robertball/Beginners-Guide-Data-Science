@@ -1,0 +1,37 @@
+Recipe number:
+241010.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-26T11:38:43.947
+helpfulCount:
+1
+userID:
+3044977
+Display Name:
+Jennifer C. Martin
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2403554.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A great recipe. I used red quinoa and it was excellent. Left out basil on accident; still good. Will be making this again. Ate it with homemade whole wheat sourdough pita and homemade red pepper hummus.

@@ -1,0 +1,37 @@
+Recipe number:
+239043.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-11T19:19:21.86
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1334
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was interesting. I liked it okay as written.  I think I'll try it again but only use almonds. Also, I'll use more coffee ice cubes--it was too liquidy. It seemed to need more substance to offset the nuts and seeds. Some people may want to add sweetner, but I thought it was fine without. I used unsweetened almond milk.

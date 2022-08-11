@@ -1,0 +1,37 @@
+Recipe number:
+242519.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-04T19:47:53.417
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8917
+followingCount:
+0
+madeRecipesCount:
+1121
+favoritesCount:
+2303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I scaled this down to 1 serving to use up some fresh spinach that I had on hand. It did taste like I was drinking something healthy, that's for sure. I prefer my smoothies more on the sweeter side. No fault of the recipe, just my own personal taste. I drank it all, but it's not one that I'd make again.

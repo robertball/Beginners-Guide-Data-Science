@@ -1,0 +1,107 @@
+Recipe number:
+233568.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-09-09T17:09:44.767
+helpfulCount:
+11
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+766
+followingCount:
+0
+madeRecipesCount:
+519
+favoritesCount:
+2119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love the Crystal Light Mocktail flavors, but had yet to try the Mojito. I stumbled across this recipe and it sounded so good that I ran out right away and bought the drink mix. This is THE PERFECT summer drink. Very refreshing, very easy, what more could you want on a hot day?  This is now a staple in my house! Thanks for the recipe Tammy Jean!
+Review:
+Rating:
+3
+dateLastModified:
+2015-03-23T20:43:44.57
+helpfulCount:
+1
+userID:
+9019303
+Display Name:
+Joseph Gomes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2173035.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+its healthy and refreshing
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-23T10:31:37.233
+helpfulCount:
+0
+userID:
+3901347
+Display Name:
+Kimber Wilson
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+488
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very refreshing. Not sweet but tart but much less than lemonade. I also love the smell of the cucumber before taking a sip.

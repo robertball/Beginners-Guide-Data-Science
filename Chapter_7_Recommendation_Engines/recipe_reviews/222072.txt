@@ -1,0 +1,37 @@
+Recipe number:
+222072.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-25T11:25:53.057
+helpfulCount:
+5
+userID:
+2100575
+Display Name:
+MrsFisher0729
+isPro:
+False
+followersCount:
+283
+followingCount:
+0
+madeRecipesCount:
+997
+favoritesCount:
+988
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/910802.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a really great punch recipe. Everyone loved it. I couldn't find white grape-peach juice, so I used a can of white grape juice concentrate and a 12 ounce can of peach nectar. The color is a little brownish red but the raspberries and mint really jazz it up.

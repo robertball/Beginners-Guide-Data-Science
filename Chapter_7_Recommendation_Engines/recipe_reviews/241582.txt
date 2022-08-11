@@ -1,0 +1,37 @@
+Recipe number:
+241582.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-16T23:56:07.687
+helpfulCount:
+0
+userID:
+4079855
+Display Name:
+kerkwards
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We don't eat a lot of potatoes in our household.  This recipe provided a nice change of pace on a hot summers night.  We skipped the bacon and added fresh cilantro and honey mustard to this recipe and it was a hit.  Thank you forprovidng the base ingredients for a very good recipe.

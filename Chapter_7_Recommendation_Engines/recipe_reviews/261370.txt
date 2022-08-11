@@ -1,0 +1,37 @@
+Recipe number:
+261370.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-14T23:00:31.607
+helpfulCount:
+0
+userID:
+17650983
+Display Name:
+Julie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used waffles leftover from earlier breakfast and gave them a warm-up in the oven so they weren't soft.  gravy was good, chicken coating was nothing to get overly excited over.  pretty basic.

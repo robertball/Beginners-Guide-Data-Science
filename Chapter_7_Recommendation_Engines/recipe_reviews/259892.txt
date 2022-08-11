@@ -1,0 +1,38 @@
+Recipe number:
+259892.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-17T18:50:21.527
+helpfulCount:
+0
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+222
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+865
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Replace the mayo with cream cheese and adding a little garlic would make this a five star recipe. I loved the crunch of the water chestnuts and the hint of ginger. 
+I made this for the Canadian Allstar Hosting Challenge.

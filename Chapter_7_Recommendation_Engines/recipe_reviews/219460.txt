@@ -1,0 +1,37 @@
+Recipe number:
+219460.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-11T17:13:58.483
+helpfulCount:
+9
+userID:
+13117105
+Display Name:
+awied
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband made this dish for my birthday.  I have never had rabbit before and was a little skeptical.  I must say I was surprised this dish was excellent.  Very easy to make and tastes great.  We will definitely be adding this to our favorites.

@@ -1,0 +1,37 @@
+Recipe number:
+104182.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-09-02T04:55:59.527
+helpfulCount:
+0
+userID:
+995405
+Display Name:
+Curlygirl
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+496
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/46.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this when in-laws were coming over for dinner. They both raved about it the rest of their visit! (And they've never done that!) Was really simple to prepare other than the time needed to roast the garlic. Could probably also roast in the oven with a meat thermometer if you don't want to grill during the winter months.

@@ -1,0 +1,37 @@
+Recipe number:
+228309.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-25T21:04:47.263
+helpfulCount:
+3
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2816
+favoritesCount:
+6006
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.25.17  New flavor sensation???  Well, I don't know if I'd say that, but it certainly was interesting, and most certainly  "outside the box."  At any rate, you'll definitely recognize some of those familiar pork flavors in this cocktail. Don't know if I'll be making this one again, but I had to try it!

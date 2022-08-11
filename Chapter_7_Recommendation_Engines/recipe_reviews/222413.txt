@@ -1,0 +1,74 @@
+Recipe number:
+222413.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-11-09T16:13:26.893
+helpfulCount:
+7
+userID:
+2866576
+Display Name:
+aronblue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+In the corresponding video (nicely done, AllRecipes!), JJ the bartender specifically says an ounce and a half of vermouth, not half an ounce. This is a pervasive problem among martini/gibson drinkers. If they're not drinking sweet goo in a martini glass, they're drinking straight gin (or vodka). JJ over on Park Avenue is exactly right-- a good martini is a proper mix of vermouth and gin. 
+
+On the other hand, the recipe tells you to stir and not shake, which is preferable. Why is this so important? Because when you shake the ice, you break the ice. This means little pieces of ice will melt into your martini, watering it down slightly. Bartenders need to shake for presentation-- a part of the job is to put on a little show, but at home you can safely stir.
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-22T20:47:12.877
+helpfulCount:
+0
+userID:
+26517534
+Display Name:
+Jesse El Negro Chavez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7328266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like an extra onion in mine.

@@ -1,0 +1,107 @@
+Recipe number:
+172530.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-10-14T14:26:13.653
+helpfulCount:
+3
+userID:
+1217797
+Display Name:
+CookinNurse
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+68
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/75619.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are amazing! I love that it uses a cookie mix - so easy. I used a different filling: 1 stick butter, 1/2 cup peanut butter, 3 c XX sugar, 2 oz cream cheese. Sandwich, then refrigerate for an amazing treat!
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-23T14:08:04.233
+helpfulCount:
+1
+userID:
+3316659
+Display Name:
+Let's Eat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good cookies, and simple to make.  Filling is a little sweeter than my family likes, but overall, very good.
+Review:
+Rating:
+5
+dateLastModified:
+2008-11-10T11:33:23.83
+helpfulCount:
+0
+userID:
+2795742
+Display Name:
+Michelle O'Banion
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1989776.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have had rave reviews about these cookies.  They are really moist and you can't really taste the banana.  I made a couple of small changes that worked out great.  For the filling/frosting I used vanilla yogurt and added 2 oz. of cream cheese.  Then instead of making sandwiches out of them I melted choc. almond bark and coated the bottom with choc. I just used a spoon to spread it on the bottom and laid them choc. side down on wax paper to let them cool.  Once cool I put the frosting on top with choc sprinkles.  They were a hit!

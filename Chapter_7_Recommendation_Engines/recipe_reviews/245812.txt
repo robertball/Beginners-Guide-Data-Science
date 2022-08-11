@@ -1,0 +1,72 @@
+Recipe number:
+245812.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-19T17:17:59.353
+helpfulCount:
+0
+userID:
+2108013
+Display Name:
+Judy Christenson
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+305
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5812031.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My Mom always made these at Christmas time but I never asked her for the recipe and had no idea where she got it from, had never seen a written copy (like some of her recipes written by hand in the back of an old Five Roses cookbook) She called them Frying Pan Cookies. When I was growing up they weren't my favourite because I didn't like dates, but now I guess my tastes have changed, because I was missing them along with my Mom at Christmas time and so glad I found this. Just made them and they brought back so many good memories of Christmases past.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-31T03:15:55.683
+helpfulCount:
+0
+userID:
+3252329
+Display Name:
+Linda Heil Pluke
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good!  It takes a bit of work, but if you have the ingredients measured out ahead of time, that makes it easier.

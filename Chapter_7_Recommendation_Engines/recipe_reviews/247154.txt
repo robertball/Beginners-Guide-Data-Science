@@ -1,0 +1,37 @@
+Recipe number:
+247154.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-18T17:57:23.44
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is quick and easy to put together and pretty tasty. I thought it could use a bit more flavor, though.  I used Sriracha and added some hot peppers as well as some ginger. I used tofu instead of soy beans and rice noodles to keep it gluten free and vegan. Thank you for the recipe.

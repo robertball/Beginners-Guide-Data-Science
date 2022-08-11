@@ -1,0 +1,37 @@
+Recipe number:
+255927.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-22T19:08:03.36
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavors just didn't pop like I wanted. I would add more spices to give more flavors. I also had a hard time getting it to s smooth texture. Some twists and this could turn out to be a good dip.

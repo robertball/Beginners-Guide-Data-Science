@@ -1,0 +1,107 @@
+Recipe number:
+247157.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-11T20:05:43.69
+helpfulCount:
+3
+userID:
+10293469
+Display Name:
+pattiG
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+661
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/935123.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been searching for a recipe similar to what we enjoy in a local Vietnamese restaurant. I liked the idea of letting everyone top their noodles as they preferred, so I set out bowls of shredded veggies (carrots, cabbage, green onions, etc) coarsely crushed peanuts, fresh chopped cilantro, diced cooked meat (beef, chicken or shrimp,etc) and a bottle of sriracha sauce for extra flavor and heat. This is a fun meal to serve! Also, I have served the noodles in a spicy broth, with same toppings. Either way, it’s wonderful.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-31T06:03:55.397
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fresh and delicious! I used soba noodles because I didn't have any glass noodles. This recipe is perfect for a buffet style meal so everyone can pick and choose the ingredients and their amounts as desired. The sauce is delicious as is, then I added a bit of rice vinegar, fermented bean paste, and hot chilies to the sauce. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-13T02:43:47.893
+helpfulCount:
+0
+userID:
+14086589
+Display Name:
+Rachel Lee Naasz
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+285
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1350308.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious!  It's kinda like a fresh spring roll without the roll.  I added shrimp and pork to make it a little more filling.  I think it could have been improved with a different sauce that was thicker and richer than soy sauce -like some sort of teriyaki, stir fry or peanut sauce-, but as is, this is really really good.

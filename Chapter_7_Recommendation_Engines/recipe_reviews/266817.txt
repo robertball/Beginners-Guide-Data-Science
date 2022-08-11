@@ -1,0 +1,37 @@
+Recipe number:
+266817.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-10T18:41:13.677
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I normally don’t like Chai Tea, but this recipe has changed my mind. I didn’t add the optional spices and the tea I got was vanilla chai, so I didn’t add the vanilla. Everything else was as the recipe stated. The cookies came out great! I would classify them as a spicy shortbread cookie. An enjoyable changed from a snickerdoodle. The cookies did get a little overdone on the edges, but it didn’t impact the flavor at all.

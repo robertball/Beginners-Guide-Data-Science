@@ -1,0 +1,107 @@
+Recipe number:
+9780.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-12-18T12:27:27.357
+helpfulCount:
+5
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+892
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'd really give these 3 1/2 stars if I  could. They taste wonderful. I had some problems with this recipe, however. I followed the recipe exactly, and I'm an accomplished baker. The first problem I ran into was that the chocolate chips would not melt. After 5 minutes in the oven (as the recipe states) the chocolate chipswould not swirl. The filling was just beginnig to warm up at that point. Three minutes later, the chips still weren't melted, but the filling was beginning to firm up on the top. I used Nestle mini morsels, which I ended up leaving "as is" on top of the filling.  The next problem I ran into was removing the tarts from the pan. After coolling slightly, the tarts were impossible to remove from the pan without breaking. After cooling longer, the bottoms of the tarts stuck in many of the cups and were left behind when the tarts were removed.  The saving grace is the taste. The recipe also calls for one egg, but it should call for just one egg YOLK, as the white is not used in the tarts.
+Review:
+Rating:
+3
+dateLastModified:
+2006-07-27T18:58:17.373
+helpfulCount:
+4
+userID:
+2001824
+Display Name:
+Portico's Daughter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These taste quite good, although they look kind of weird- especially if they've been sitting out for a while.  They came out a little greenish and wrinkly for me, but they tasted fine.
+Review:
+Rating:
+4
+dateLastModified:
+2007-08-25T07:14:12.167
+helpfulCount:
+3
+userID:
+2425077
+Display Name:
+Beth B.
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/39283.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty tasty. I used regular-sized muffin tins, since I don't have the mini ones, and I got 11 out of the recipe. I liked their flavor, and even my husband (who doesn't like cheesecake, sour cream or cream cheese) enjoyed them!

@@ -1,0 +1,108 @@
+Recipe number:
+139693.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-03-31T11:40:55.5
+helpfulCount:
+11
+userID:
+2567051
+Display Name:
+GodivaGirl
+isPro:
+False
+followersCount:
+738
+followingCount:
+0
+madeRecipesCount:
+702
+favoritesCount:
+1483
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/48917.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I always enjoy trying new tea bread recipes since I drink a lot of fresh brewed tea from leaves in the winter.  Since there were no reviews I decided to halve the recipe to try it out.  DELICIOUS!  My dates were already bought chopped and were slightly sugar coated in the package.  I decided to cut back on the sugar to 1/2 cup (halved recipe) to make sure the bread was not too sweet.  I used 2 "mini" loaf pans and baked on 350 for 45 minutes.  They were slightly darker than I would have liked them to be so next time I will start checking at 35 minutes (this may allow an even moister bread).  The bread is slightly dense, moist and has a nice sweetness with the dates.  Personally, I would 'not' add cream cheese on top because I think the bread is sweet enough on its own.
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-22T11:43:01
+helpfulCount:
+1
+userID:
+3403557
+Display Name:
+Shari Anthony
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1564389.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow, what a great little baked good to take along during the hollidays. Very good as is, however I did add about a teaspoon of cinnamon to the wet mixture.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-26T22:24:04.97
+helpfulCount:
+0
+userID:
+5330398
+Display Name:
+Toine Zxy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4104454.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Did not have cream of tartar, so replaced baking soda and cream of tartar with 2 teaspoons of baking powder.
+Worked a treat, lovely moist and delicious

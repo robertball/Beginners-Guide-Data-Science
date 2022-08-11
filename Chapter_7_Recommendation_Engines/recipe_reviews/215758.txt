@@ -1,0 +1,37 @@
+Recipe number:
+215758.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-26T19:41:06.803
+helpfulCount:
+0
+userID:
+3632174
+Display Name:
+BigShotsMom
+isPro:
+False
+followersCount:
+186
+followingCount:
+0
+madeRecipesCount:
+637
+favoritesCount:
+1878
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very close to what I recall my grandmother making.  I did cut the allspice back to 1/4 tsp.  The next time I will use 6 apples since I thought there could me more filling in a 9" pie and I may cut the sugar back to 3/4 cup, but those are personal choices and no reflection on the recipe.  Thanks, Rosa!

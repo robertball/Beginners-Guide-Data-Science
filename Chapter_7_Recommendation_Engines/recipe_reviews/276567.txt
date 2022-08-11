@@ -1,0 +1,107 @@
+Recipe number:
+276567.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-12-21T03:59:10.073
+helpfulCount:
+0
+userID:
+14188690
+Display Name:
+chaya harris
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5949989.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not sure if I did something wrong, but the cookie itself was way too crumbly to slice neatly, and it didn't have much flavor aside from the melted chocolate.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-20T00:20:19.23
+helpfulCount:
+0
+userID:
+11768834
+Display Name:
+Potterylori
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+176
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made without the melted chocolate because I didn’t want a really sweet cookie! Perfect!
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-19T21:00:15.887
+helpfulCount:
+0
+userID:
+25904780
+Display Name:
+Robert L Richmond
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6875789.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+(Yumm) loved every minute of it these cookies are deliriously delightful...

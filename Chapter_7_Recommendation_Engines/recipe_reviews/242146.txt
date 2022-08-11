@@ -1,0 +1,37 @@
+Recipe number:
+242146.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-06-07T15:35:51.78
+helpfulCount:
+0
+userID:
+3180296
+Display Name:
+GlynisTM
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+936
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5889087.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies came out cakey (cake mix) and we just did not care for them at all.  Sorry!

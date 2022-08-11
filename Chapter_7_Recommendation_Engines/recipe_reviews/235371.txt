@@ -1,0 +1,72 @@
+Recipe number:
+235371.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-01T04:48:54.013
+helpfulCount:
+0
+userID:
+17141232
+Display Name:
+Jean
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic!  Used only one onion & apple cider vinegar.  This will be our new family favorite for pork chops!  I bet it even better the next day.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-15T17:37:49.08
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made as written and left out the optional mushrooms only because I didn't have any on hand. This turned out good and I really liked that it used pork chops instead of a roast. This was a tad too sweet for me so next time I'd reduce the sugar and add more malt vinegar but I'm sure most folks would enjoy this just as written.

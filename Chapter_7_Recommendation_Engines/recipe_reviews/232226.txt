@@ -1,0 +1,72 @@
+Recipe number:
+232226.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-10T16:37:43.217
+helpfulCount:
+4
+userID:
+4597531
+Display Name:
+veggie val
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4548795.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was really really good!  I was using up some hamburger meat so I used 2# ground deer, 1# deer sausage and 1# hamburger meat.  so I doubled the recipe.  I didn't have any brandy... so I used 1/2 c white zinfandel wine.  I left out the sage b/c I didn't have any.  I DID use the buns according to directions.  I was TEMPTED to use bread crumbs,,, but didn't.  AND I am glad I didn't because it was OUTSTANDING!!!
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-01T00:17:56.45
+helpfulCount:
+1
+userID:
+14453392
+Display Name:
+Tina Patrick
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1548987.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not have the buns so I used stove top stuffing (turkey flavor). I had fresh ground pork and fresh ground venison. I also used Jameson instead of the Christian brothers as well. I followed the receipt as close as possible. Omitted the red pepper flakes as well. I have a 5 year old that doesn't do spicy foods.  It turned out great. My daughter didn't even know it was deer meat. LOL

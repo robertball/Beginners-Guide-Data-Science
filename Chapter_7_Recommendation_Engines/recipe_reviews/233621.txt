@@ -1,0 +1,107 @@
+Recipe number:
+233621.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-19T00:46:10.56
+helpfulCount:
+2
+userID:
+25141601
+Display Name:
+Racine Chaney
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this recipe! It was a bit to spicy but great overall
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-07T09:03:57.763
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2294
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the different flavors in this and it  was borderline too spicy but still good. The one issue I did have is that after 30 minutes of  simmering over medium heat my sauce had reduced down so much that there wouldn't have been much of anything after an hour. I recommend turning the heat down to low.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-08T02:57:08.387
+helpfulCount:
+0
+userID:
+20915690
+Display Name:
+Chef Roy
+isPro:
+False
+followersCount:
+49
+followingCount:
+0
+madeRecipesCount:
+211
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4484693.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great sauce recipe! Family and I loved it and can't wait to make it again. Stick to the recipe!

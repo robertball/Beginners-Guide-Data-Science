@@ -1,0 +1,37 @@
+Recipe number:
+267568.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-28T20:12:57.57
+helpfulCount:
+0
+userID:
+24139643
+Display Name:
+Donna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Changes:  I added all spice totaling what the cinnamon, cloves, etc. added up to and I added a teaspoon of vanilla.  My son loved it so much I gave him the receipe.

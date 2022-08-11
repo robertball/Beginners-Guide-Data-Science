@@ -1,0 +1,72 @@
+Recipe number:
+239835.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-04T04:08:49.47
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delightful, absolutely delightful. A refreshing and light salad that is so delicious you'll steal it from your family. I made this at lunchtime to have it ready for a late dinner. I ate the whole thing myself for lunch. I think the key is the fresh and flavourful ingredients. I used leftover, very flavourful, chicken and a nice, ripe avocado. I added a fresh hot pepper, liking things a bit spicy, and not-too-ripe tomatoes. The whole thing just worked. The crunch and nutty flavour of the quinoa and the smooth, fresh avocado mixture with the tasty chicken all just seemed to blend perfectly together. The colors and tastes are so vibrant and inviting you convince yourself to eat your partner's share and say "I've got sandwich fixin's in the fridge, right?"  I made mine in a layer form instead of mixing it all together and it was beautiful but either way it is delicious. Thank you Sroch for this wonderful meal.
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-30T15:38:24.707
+helpfulCount:
+0
+userID:
+7714038
+Display Name:
+angela
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Make this! love it!

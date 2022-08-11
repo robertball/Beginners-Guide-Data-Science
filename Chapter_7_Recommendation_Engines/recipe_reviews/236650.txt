@@ -1,0 +1,72 @@
+Recipe number:
+236650.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-09T14:15:14.243
+helpfulCount:
+2
+userID:
+2753412
+Display Name:
+Lucky Noodles
+isPro:
+False
+followersCount:
+296
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+2823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/60059.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  I used regular milk and vanilla flavored vodka.  A great start to the weekend, thanks Lexy821!  #MyAllrecipes #AllrecipesFaceless
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-01T20:43:55.023
+helpfulCount:
+0
+userID:
+3524517
+Display Name:
+Patty Cakes
+isPro:
+False
+followersCount:
+341
+followingCount:
+0
+madeRecipesCount:
+546
+favoritesCount:
+3026
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4561464.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Deliciously Delightful! Perfect after a Long hard week at work or warm summer evening dessert sipper. Thank You Lexi821

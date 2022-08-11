@@ -1,0 +1,72 @@
+Recipe number:
+257509.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-26T02:05:39.593
+helpfulCount:
+0
+userID:
+2915945
+Display Name:
+Linda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+578
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were very tasty I doubled the recipe and we ate them for dinner with stir fried veggies.  Next time I think I'll add some onion and red pepper flakes.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-30T05:42:59.267
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were yummy.  I won some goji berries and was looking for a non dessert to use them in.  I think next time I will chop up a few and mix them with the filling.  I didnt have a steamer, but you can google instructions how to make one with aluminum foil and a plate and it worked just fine

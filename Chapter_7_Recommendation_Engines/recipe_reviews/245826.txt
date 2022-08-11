@@ -1,0 +1,72 @@
+Recipe number:
+245826.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-11T02:00:11.067
+helpfulCount:
+9
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2822
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love the idea of vegan condensed milk; can't believe I hadn't thought of it sooner. It took me 1.5 hours or so to get it to one cup though, so expect to spend some time on it. I used an induction stove on setting 3, whisking about every 5 minutes. I used it to make vegan coffee whitener and loved the flavor. Oddly, the coconut taste subsides when cooking even though still fragrant. I made up another can, using coconut sugar (and forgot the vanilla). Itwas delicious. I used that to make vegan salted caramels. Awesome recipe. Thank you for sharing it with us!
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-08T02:09:15.973
+helpfulCount:
+0
+userID:
+11616157
+Display Name:
+Mollie Lawton
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4267718.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it with  milk since I don't like coconut.  Fingers crossed it works perfectly in my recipe tomorrow!

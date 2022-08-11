@@ -1,0 +1,37 @@
+Recipe number:
+24113.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-06-01T17:29:54.483
+helpfulCount:
+2
+userID:
+3166668
+Display Name:
+Danielle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The crust is a good idea. It's a tasty part. I didn't know if I should serve it hot or put it back in the fridge. I didn't have non instant pudding (I actually didn't know it existed) and that's probably why mine didn't cut into pie pieces, it just blobbed onto the plate. We didn't care, it still tasted good.

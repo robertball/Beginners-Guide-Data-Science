@@ -1,0 +1,37 @@
+Recipe number:
+231779.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-30T10:04:54.397
+helpfulCount:
+2
+userID:
+9523307
+Display Name:
+malikile
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for  a dinner party with 2 other homemade liqueurs.  This is the only one I don't have left overs of and the others were good too.  People put it on ice cream, angel food cake, in hot cocoa, coffee, and drank it straight.   I never have sweetened condensed milk or chocolate syrup on hand so I appreciated that I could make this entire recipe without buying special ingredients.  Only change, I didn't have Irish whiskey so I used Kentucky whiskey.  I will make this again. I did not put the coconut in, by the way.

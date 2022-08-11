@@ -1,0 +1,37 @@
+Recipe number:
+268440.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-15T01:55:31.43
+helpfulCount:
+2
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+274
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3437
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't sure what to expect from this, but, we really liked it! It isn't overly sweet as prepared, but, we liked it that way.  I used Jiffy cornbread mix which has some sweetness to it already.  I did think it was a little dense and think I might prefer it in muffin form instead.

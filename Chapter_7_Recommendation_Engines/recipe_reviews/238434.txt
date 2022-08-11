@@ -1,0 +1,72 @@
+Recipe number:
+238434.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-24T04:48:37.11
+helpfulCount:
+2
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not add the additional sugar. Mine turned out chunkier than I like, it could be my blender. The taste was great. Next time I would make this without the ice, I think I would like it a lot better.
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-19T14:03:52.48
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is one heck of a dessert drink!  Yum! Yum!  I thought it would be too sweet, so I almost didn't put in the sugar--but it all works out well.  Thanks so much, superwoman!

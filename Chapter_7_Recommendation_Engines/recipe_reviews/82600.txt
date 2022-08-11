@@ -1,0 +1,37 @@
+Recipe number:
+82600.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-10-22T22:37:07.47
+helpfulCount:
+25
+userID:
+2762566
+Display Name:
+SunnyByrd
+isPro:
+False
+followersCount:
+1151
+followingCount:
+0
+madeRecipesCount:
+986
+favoritesCount:
+1143
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/258648.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great! We loved these. The only thing I would change next time is to cut back a little on the vinegar and possibly mix the walnut oil with another, lighter oil - otherwise excellent, will repeat. Thanks for the recipe!!

@@ -1,0 +1,37 @@
+Recipe number:
+222553.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-01T15:34:57.74
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Required a lot more champagne than 1T to fill the glass.  This would be either a HUGE shot as stated, or if you fill with champagne, will fill one flute.  I missed the bitters in this recipe.

@@ -1,0 +1,72 @@
+Recipe number:
+260817.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-22T20:19:51.857
+helpfulCount:
+1
+userID:
+12197609
+Display Name:
+dabeau1
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2044096.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic and filling meatless meal. Full of flavor!  I added zucchini and used my slow cooker (five hours on low).    I made 12 rolls and didn't double a thing.  I did add some tomato sauce to the stock for a more flavorful sauce. Oh.  Freeze the cabbage for an hour and then carefully peel  and remove the leaves.  The only way to prepare cabbage rolls!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-07T22:19:15.493
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+541
+favoritesCount:
+702
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This kinda reminded me of making lasagna. You gotta do all the different steps to get the authentic feel and taste! Very yummy insides to these cabbage rolls. I did have filling left over for about 6 more rolls. It has the sweetness of the golden raisins, rich tomato flavor, and the yogurt mint sauce! I made no changes.

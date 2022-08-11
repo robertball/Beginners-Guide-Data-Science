@@ -1,0 +1,107 @@
+Recipe number:
+217340.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-06-30T19:49:32.107
+helpfulCount:
+12
+userID:
+2732138
+Display Name:
+Sara Perry
+isPro:
+False
+followersCount:
+29
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6946452.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+DELICIOUS! Here in Texas it's a little hard to find walleye so I used cod since it is nice and flaky too.  I would suggest serving it with fresh lemon at the end as well, since most of the lemon flavor cooks away and it's soooo yummy. Also, when opening the pouches, make sure you have them over the plate so the juices don't drip everywhere (and because you don't want to waste them).
+Review:
+Rating:
+4
+dateLastModified:
+2011-07-20T15:39:40.55
+helpfulCount:
+9
+userID:
+6657172
+Display Name:
+Charla Turner
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6198277.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+good dish! I found it a tad bland. I would recommend more seasoning depending on your taste. Very fresh and enjoyable!
+Review:
+Rating:
+3
+dateLastModified:
+2018-10-10T04:18:52.877
+helpfulCount:
+0
+userID:
+17007986
+Display Name:
+Amanda Potter
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+251
+favoritesCount:
+202
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6068962.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+VERY easy & quick to make. Has a nice flavour but not my fave, possibly I’m just not a huge pickerel fan. I think I would enjoy it more prepared differently

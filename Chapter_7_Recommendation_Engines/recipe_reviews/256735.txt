@@ -1,0 +1,37 @@
+Recipe number:
+256735.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-12T14:58:52.81
+helpfulCount:
+1
+userID:
+16048090
+Display Name:
+alexis a
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Found this recipe desperate for AIP breakfast. And wow! I never give a review for recipes but this saved my mornings! So yummy My friends who aren’t AIP can’t even tell. Its just a delicious, fancy breakfast in there eyes haha

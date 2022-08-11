@@ -1,0 +1,73 @@
+Recipe number:
+245046.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-09T21:36:21.367
+helpfulCount:
+2
+userID:
+5139980
+Display Name:
+Carmen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+431
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this several times for various family members making variations such as sometimes used avocado instead of pickles.  Gherkins sweet pickles instead of dill pickles.    Spinach or other salad green. I make my tuna using green apple diced & celery diced with a little mayonnaise...that's all!!
+Or even added cherry tomatoes on top for color
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-03T16:11:40.02
+helpfulCount:
+1
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this!!  So simple and easy, and it tastes great!

@@ -1,0 +1,72 @@
+Recipe number:
+273110.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-09T12:22:01.24
+helpfulCount:
+0
+userID:
+25380161
+Display Name:
+Leah Hudgins
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6504343.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+One of the best cakes I've ever made! Rave reviews from everyone. This cake is perfect for a dish that needs to be prepared a day in advance as a time saver. Definitely cook the cake 28-30 minutes so it is completely done- you will be pouring a lot of liquid on it right after it comes out of the oven! Also, I found that letting it sit on the countertop for 4 hours after pouring on the liquids allows it to cool completely, absorb the liquids & firm back up. After the 4 hours, I ice it with the whipped topping and coconut. Store in the fridge until it's gone...which will be in one day!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-06T01:36:01.67
+helpfulCount:
+0
+userID:
+6941180
+Display Name:
+Colleen Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+643
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved this cake.  It did not stay around very long.

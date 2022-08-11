@@ -1,0 +1,107 @@
+Recipe number:
+258806.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-25T02:30:57.98
+helpfulCount:
+5
+userID:
+10196359
+Display Name:
+Anna Ress
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+222
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6715263.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and awesome recipe - this came out better than the jackfruit tacos I had at a fancy vegan restaurant in LA! The jackfruit came out flavorful and tender. I used homemade taco seasoning.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-28T11:58:14.56
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite delicious. I like the instructions to rinse the jackfruit first. It takes away that brine flavor. I shredded the fruit instead of cutting into pieces. It gives it a nice texture for tacos and tostadas. I highly recommend trying this recipe. Even if you aren’t vegan, these tacos are delicious and will make you happy. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-09T02:55:35.523
+helpfulCount:
+0
+userID:
+17320112
+Display Name:
+Jacqueline Smith
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7478272.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this following the recipe as directed. It was excellent!!

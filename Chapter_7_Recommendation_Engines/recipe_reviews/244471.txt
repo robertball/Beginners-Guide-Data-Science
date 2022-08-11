@@ -1,0 +1,75 @@
+Recipe number:
+244471.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-06T23:37:10.937
+helpfulCount:
+4
+userID:
+3265830
+Display Name:
+Elaine
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+354
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5178923.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These grapes are really good!
+  I don't like star anise, so I left it out.  And I didn't have cinnamon sticks or whole allspice.    I substituted  1/4 teaspoon of ground cinnamon and 1/4 teaspoon ground allspice.  It  turned out great!  
+  These  would be a great addition to  the cheese plate during the holidays.   They taste like the holidays!
+     Thanks CJ, for something so different and  good.
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-28T20:40:33.72
+helpfulCount:
+2
+userID:
+11182708
+Display Name:
+sugarhats
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Interesting flavor; I think it will be better after more time. After one day they didn't seem "pickled through". Also, I had too much liquid by about a cup. Next time, I will use more onions: they are my favorite part!

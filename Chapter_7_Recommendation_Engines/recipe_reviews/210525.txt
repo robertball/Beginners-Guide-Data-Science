@@ -1,0 +1,37 @@
+Recipe number:
+210525.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-08-01T14:57:03.08
+helpfulCount:
+2
+userID:
+1964788
+Display Name:
+Mary M.
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+157
+favoritesCount:
+263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Flavors are good, but mine required about double the cooking time, and I never did manage to turn the dal into a "paste," even after 8 hours of soaking. We ended up with a tasty chana dal dish, but I assume the texture was "wrong" since I never achieved that paste. I might make this again, even so.

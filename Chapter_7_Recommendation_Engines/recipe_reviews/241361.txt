@@ -1,0 +1,37 @@
+Recipe number:
+241361.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-28T12:24:28.383
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and loved every bite. The spicy brown mustard and IPA beer blended perfectly. I made 2 different corned beef recipes for St. Patrick's Day and hands down this one was my favorite.

@@ -1,0 +1,72 @@
+Recipe number:
+219500.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-29T13:17:55.97
+helpfulCount:
+12
+userID:
+844886
+Display Name:
+It's A New Day
+isPro:
+False
+followersCount:
+288
+followingCount:
+0
+madeRecipesCount:
+450
+favoritesCount:
+522
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/615239.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I halved the recipe and made it in my small crockpot.   I subbed diced dried apricots instead of cherries and added a small handful of crystallized ginger.  I wish I had been able to stay close by when it was cooking because at 2 hours it was definitely done but the edges and bottom were on the verge of being burnt.  I think 90 minutes would be more reasonable at least for the smaller cake.  Overall the taste was good but it wasn't heavily ginger tasting which I would have liked more.  It tasted more like spice cake to me.  I will probably make this again but tweak it a bit to make it more moist and gingery.
+Review:
+Rating:
+2
+dateLastModified:
+2012-12-09T14:55:18.133
+helpfulCount:
+2
+userID:
+1286422
+Display Name:
+OCEANVIXEN79
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+179
+favoritesCount:
+508
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The edges burned, even after cutting them off and trying to serve with ice cream, no one was impressed. Too much trouble to try again.

@@ -1,0 +1,37 @@
+Recipe number:
+245743.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-15T22:01:29.64
+helpfulCount:
+0
+userID:
+17878586
+Display Name:
+BakingGirl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not use this icing but I did follow the recipe for the cake it self. Why I gave it a four is because it was not red enough i had to add red food colouring to make it red. Over all it was great love the taste!

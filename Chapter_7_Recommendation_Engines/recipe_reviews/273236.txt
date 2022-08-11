@@ -1,0 +1,72 @@
+Recipe number:
+273236.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-31T23:31:04.17
+helpfulCount:
+1
+userID:
+14632589
+Display Name:
+Karyl Carlson
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3196139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did make changes. I added cubed fillet of "Ocean Rockfish", a splash of lemon juice, and left off the egg, figuring we had our protein from the fish. It was delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-09T00:11:36.88
+helpfulCount:
+1
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+302
+followingCount:
+0
+madeRecipesCount:
+252
+favoritesCount:
+1638
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7778502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe!!! It's very similar to what we make and call "breakfast fried rice".  Instead of mixing the egg in, I made a very thin, flat omelet to place over the rice, and topped with both ketchup and a kewpie mayonnaise mix.  I also subbed edamame for the peas because I didn't have frozen peas handy. So delicious!!! Thank you!

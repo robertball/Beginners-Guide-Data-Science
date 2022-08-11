@@ -1,0 +1,109 @@
+Recipe number:
+22834.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-09-20T20:16:59.71
+helpfulCount:
+11
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+874
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very good dip. I tasted it before adding the almonds and just felt it needed a little something. I added 1/4 tsp. of almond extract and was very pleased with the result. I also toasted the almonds and let them cool before adding to the dip. Very tasty!
+Review:
+Rating:
+4
+dateLastModified:
+2012-04-17T10:55:28.697
+helpfulCount:
+4
+userID:
+9057609
+Display Name:
+Natalie Freeman
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2787040.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made this a a few other dips for my sons birthday party.......added the almond extract another reviewer suggested and it came out awesome
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-30T00:49:34.747
+helpfulCount:
+0
+userID:
+10921478
+Display Name:
+Moppel
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+105
+favoritesCount:
+1071
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful! I did not have almonds, so I just added some almond extract. I served it with a big fruit platter as dessert. The kids did not like the dip, but I loved it and even my husband who had tried to get out of eating any fruit ate his and then half of the kids'.
+
+It goes wonderful with grapes, apples, bananas and oranges.

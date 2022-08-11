@@ -1,0 +1,37 @@
+Recipe number:
+22269.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-07-06T12:28:49.577
+helpfulCount:
+6
+userID:
+1133021
+Display Name:
+Mamacherie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+150
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh my!  We shared this with another couple and none of our kids (we have 8 between us!) and we ate THE WHOLE PAN!!  My hubby's not a dessert fan and my friend's not a coffee fan but they couldn't stop themselves!

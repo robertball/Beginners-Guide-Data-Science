@@ -1,0 +1,107 @@
+Recipe number:
+257696.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-06T17:41:25.23
+helpfulCount:
+1
+userID:
+12570788
+Display Name:
+Kelly Anne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+95
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cooked some medium size shrimp separately then chilled them. Combined it all right before serving. Was delicious !
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-17T11:50:29.91
+helpfulCount:
+1
+userID:
+13944648
+Display Name:
+alexandria
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+1421
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! I used ground turkey breast in place of the pork. I sautéed the turkey with some of the dressing. I also used vermicelli in place of the rice noodles. It held up as leftovers the next day. I also used fresh mint vs. dried. Excellent!
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-28T19:19:41.3
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was awesome! My store did not have snow peas so I used snap peas instead. Other than that I made as written. This recipe is full of flavor. If you like things spicy, garnish with crushed chile flakes or Sriracha. Definitely a keeper!

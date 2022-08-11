@@ -1,0 +1,62 @@
+Recipe number:
+244328.txt
+Review:
+Rating:
+5
+dateLastModified:
+11/25/2016
+helpfulCount:
+2
+userID:
+5345005
+Display Name:
+saford
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Made this for Thanksgiving and put cranberry sauce instead of the dried cranberries it called for. It was great!
+Review:
+Rating:
+5
+dateLastModified:
+04/23/2017
+helpfulCount:
+1
+userID:
+11432280
+Display Name:
+Liz52
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I made this and added fresh mushrooms. It was delicious. I found it took longer than 30 minutes to cook however I may not have had package sealed tight enough. Very easy clean up.
+Review:
+Rating:
+4
+dateLastModified:
+01/24/2019
+helpfulCount:
+0
+userID:
+24130726
+Display Name:
+Lisa Costello Matis
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5682897.jpg
+text:
+I liked this recipe for the tart cranberry. I would like to try making it again and reserving drippings and blending into a sauce instead of whole.
+Review:
+Rating:
+5
+dateLastModified:
+02/03/2020
+helpfulCount:
+0
+userID:
+26922078
+Display Name:
+Coach AnnaMary
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Good flavor! I only used 1/2 cup broth. It took longer to cook than directed though. Roasted at 375 for almost 40 minutes. Meat thermometer read 145 when I pulled it out. Perfectly cooked juicy and flavorful.

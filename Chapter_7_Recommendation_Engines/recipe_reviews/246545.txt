@@ -1,0 +1,37 @@
+Recipe number:
+246545.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-23T13:04:49.053
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+194
+followingCount:
+0
+madeRecipesCount:
+545
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is out of the box! I thought it was really neat how the eggs cooked up. Everything tasted really good! I could see how it would be a good snack or light meal. No changes made!

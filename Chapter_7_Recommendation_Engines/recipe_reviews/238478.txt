@@ -1,0 +1,111 @@
+Recipe number:
+238478.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-29T03:11:51.31
+helpfulCount:
+1
+userID:
+22866473
+Display Name:
+Gary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make, and everyone enjoyed it.  Reminds me of chili the way my mother used to make in large volumes; always good to enjoy for a couple days after.
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-15T17:22:02.797
+helpfulCount:
+1
+userID:
+1995357
+Display Name:
+Crystal Barlow Robens
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2066768.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great easy recipe.  My 16 year old made it for the family.  I doubled the tomatoes, added a can of Rotel and it was just enough for four hearty sized bowls.
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-01T19:38:27.273
+helpfulCount:
+1
+userID:
+14374535
+Display Name:
+coderlen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was in a hurry, and this recipe came up in my search. Outstanding! And it was unbelievably easy and quick to make.
+I had some canned chicken breast, and I used kidney beans instead of pinto beans. Worked great.
+I didn't have any chili seasoning mix, so I had to make one. I used this recipe, http://allrecipes.com/Recipe/Chili-Seasoning-Mix-II/Detail.aspx, which was quite aromatic even before I added it to the skillet.
+My wife liked this dish, which is saying something, and she said that our daughter, who has 3 girls, would like this recipe.
+Five stars for this one!

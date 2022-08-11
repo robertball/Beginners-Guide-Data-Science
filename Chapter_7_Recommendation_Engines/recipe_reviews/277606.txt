@@ -1,0 +1,37 @@
+Recipe number:
+277606.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-05T17:22:22.457
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+471
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cake is perfection! Not overpoweringly sweet and absolutely easy to make. This recipe reminds you that not every cake has to be a tall layered cake with an inch of frosting to taste great. Thank you for a fantastic recipe!

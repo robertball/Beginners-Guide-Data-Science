@@ -1,0 +1,92 @@
+Recipe number:
+211018.txt
+Review:
+Rating:
+5
+dateLastModified:
+02/16/2010
+helpfulCount:
+13
+userID:
+3905025
+Display Name:
+Steve972
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/562072.jpg
+text:
+Very easy, very good! I recommend this.
+Review:
+Rating:
+5
+dateLastModified:
+10/14/2010
+helpfulCount:
+12
+userID:
+2283699
+Display Name:
+Melchizedek
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Easy and delicious
+Review:
+Rating:
+5
+dateLastModified:
+01/12/2011
+helpfulCount:
+9
+userID:
+6234165
+Display Name:
+dragonbabe05
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+absolutely wonderful and very easy to make, will definitely make it again.... awesome over potatoes :)
+Review:
+Rating:
+3
+dateLastModified:
+03/28/2011
+helpfulCount:
+7
+userID:
+6805782
+Display Name:
+SaritaRuth
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I did not care for it
+Review:
+Rating:
+4
+dateLastModified:
+03/09/2011
+helpfulCount:
+6
+userID:
+6669487
+Display Name:
+Heather Smith
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1433875.jpg
+text:
+the kids liked it alot, great for getting those veggies down :)
+Review:
+Rating:
+5
+dateLastModified:
+01/29/2012
+helpfulCount:
+1
+userID:
+1111625
+Display Name:
+MTCHYG
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5984310.jpg
+text:
+Yup.. very good.

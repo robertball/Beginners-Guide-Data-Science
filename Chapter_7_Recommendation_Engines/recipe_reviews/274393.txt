@@ -1,0 +1,37 @@
+Recipe number:
+274393.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-07-18T02:17:19.64
+helpfulCount:
+1
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+2011
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While we did enjoy eating this, we felt that the sauce lacked a bit of flavor. Somehow, even with adding a full can of pineapple and its juice, the overall pineapple flavor was lost. I also felt that the sauce wasn't quite sweet enough. In the future, I would add more pineapple, maybe some brown sugar, and bit more heat to the dish as well. I sprinkled on some seasoned rice wine vinegar just before serving and that helped spruce it up a bit more as well. For the ease of this dish though, I would make it again, but with adjustments.

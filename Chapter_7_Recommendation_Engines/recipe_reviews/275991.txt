@@ -1,0 +1,37 @@
+Recipe number:
+275991.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-10T22:26:49.883
+helpfulCount:
+0
+userID:
+8937272
+Display Name:
+fruitdog
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+312
+favoritesCount:
+722
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3930066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a little less lemon, tahini and oil because my eggplant was a bit on the smaller side, so I just guessed. Didn't cut back on the garlic, cumin or paprika...did add extra salt. Total time in my air fryer was 13 minutes...this was one of the better Baba Ganoush recipes I have made. I can see me doing this again and playing with the seasonings for variety!

@@ -1,0 +1,37 @@
+Recipe number:
+234951.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-16T02:30:49.683
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9644
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2252
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good. I just so happened to have the tomatillo's in the crisper that I didn't use for another dish and we had our first hard freeze early this year and had snagged all of the little green tomatoes off of my plants. The avocado's are optional but I had one and used it and I think you need to at least add one to get that creamy texture. This is good as a dip with chips and even better poured over a taco with jalapenos. Either way, I will be making this again next summer when I have green tomatoes again.

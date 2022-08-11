@@ -1,0 +1,107 @@
+Recipe number:
+256626.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-10T12:33:06.56
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+975
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I haven't purchased the CIO because it isn't available in my area yet. I couldn't wait to make this though. I made the cauliflower in the oven and cooked the tofu on my grill. Tofu and cauliflower area perfect match, the teriyaki just pushes it over the top. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-19T23:11:20.07
+helpfulCount:
+2
+userID:
+4083861
+Display Name:
+duboo
+isPro:
+False
+followersCount:
+6512
+followingCount:
+0
+madeRecipesCount:
+369
+favoritesCount:
+1088
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2500802.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great flavor from a healthy, light dish.  My tofu stuck to my grill, so I will oil lightly next time, but other than that, I wouldn't change a thing.   This would be great with a side of fried broccoli.     I can see a lot of possibilities (a lot not so healthy) for the cauliflower made in this manner.   Thanks bd!
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-14T20:13:42.757
+helpfulCount:
+2
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+766
+followingCount:
+0
+madeRecipesCount:
+519
+favoritesCount:
+2119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious! Just goes to show you that few ingredients can indeed make a flavorful meal! Genius idea to cook the cauliflower first, then 'rice' it. I will use this method from now on.  I'm always looking for healthy dinner options and this fits the bill! A very filling portion too.  I used my Ninja blender to rice the cauliflower - I just hit the pulse button 3-4 times and it was the perfect consistency. A keeper!

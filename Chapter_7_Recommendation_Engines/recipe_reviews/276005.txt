@@ -1,0 +1,37 @@
+Recipe number:
+276005.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-26T03:33:26.41
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everything about this was excellent. The pork and salsa complimented each other perfectly. One helpful tip I will share is to place the cubed pork in a bowl, drizzle with oil and massage. Then add the seasoning and massage again. It is much easier to skewer it this way and the jerk/coconut  seasoning sticks nicely and doesn't make nearly as much as a mess.

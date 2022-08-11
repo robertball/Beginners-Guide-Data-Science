@@ -1,0 +1,74 @@
+Recipe number:
+222551.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-24T13:08:09.03
+helpfulCount:
+6
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1593
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was nice, though I must admit, as written it's a little perplexing to me.  It's too much for a shooter, yet not enough (and too sweet) for a "cocktail" (though it's called a "cocktail").  I solved this by simply topping it off w/Diet 7-Up for a very enjoyable cocktail.  Cheers!
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-23T14:56:11.617
+helpfulCount:
+2
+userID:
+17760661
+Display Name:
+Timothy Sutton
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3406746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a southern classic!
+Expect sweet!!!
+To some the name suggests a shooter but it is a Collins glass cocktail. Slammer refers to its dangerously deceptive sweet over strong nature.

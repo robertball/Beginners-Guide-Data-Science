@@ -1,0 +1,37 @@
+Recipe number:
+72685.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-23T10:52:17.06
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used homemade lemonade, so I was able to control the sweetness level.  If I had used commercial lemonade I think it would have been too sweet.  The lychee put it nicely over the 'average' cocktail!

@@ -1,0 +1,72 @@
+Recipe number:
+237101.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-01T21:03:14.22
+helpfulCount:
+1
+userID:
+22668132
+Display Name:
+Don And-Nancy Reynolds
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4781226.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used to go to town with my Mom 50 years ago and we always ate at the S&W Cafeteria in Lynchburg Va.  I always got spoon bread and love it.  This recipe tastes and lloks just like that wonderful Southern spoon bread. Loved it as is.
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-05T15:40:22.12
+helpfulCount:
+0
+userID:
+695024
+Display Name:
+Kristen K.
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+132
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this recipe to use up light cream I had on hand.  I usually use another recipe that is similar, but with 2% milk.  This had good taste -I like the addition of honey- but was ultimately too heavy for our tastes.

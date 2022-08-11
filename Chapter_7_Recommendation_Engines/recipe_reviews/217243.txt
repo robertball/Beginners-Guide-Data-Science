@@ -1,0 +1,37 @@
+Recipe number:
+217243.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-29T04:49:04.287
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+STOUT! Good but stout enough to grow hairs in your chest!

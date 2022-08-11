@@ -1,0 +1,72 @@
+Recipe number:
+240754.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-26T06:47:33.53
+helpfulCount:
+8
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+519
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2068
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am the submitter of this recipe. A couple of things here....this is a very soft chocolate so it needs to be kept cool or it can melt very quickly. The original recipe called for two eggs but I switched to egg substitute (to avoid salmonella poisoning potential in raw eggs) and it still works great. Hope you enjoy this smooth and creamy chocolate treat.
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-11T01:53:04.243
+helpfulCount:
+0
+userID:
+22909061
+Display Name:
+Ruth Danner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Totally yummy, but I used 1/2 cup of dry “Egg Replacer,” the powdered egg. The recipe left me second guessing whether I should have reconstituted the egg powder. In the end I had to add water, so I am guessing the author used liquid egg substitute.

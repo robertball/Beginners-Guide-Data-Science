@@ -1,0 +1,72 @@
+Recipe number:
+247217.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-11T22:00:48.01
+helpfulCount:
+1
+userID:
+1359553
+Display Name:
+Molly
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/145949.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We've been making these for 20+ years.  Use Bacardi frozen margarita mix if possible.  It's so much better than making with Limeade.  Only one bottle of 7-Up, not two.  You have to use Corona!  I'm not sure about the ounces of Tequila.  We eyeball it in the bacardi can.  1/2-3/4 full depending on your personal taste or how much you've had to drink.  ;-)  I've converted many of my friends who now only make margaritas this way.
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-11T13:44:04.537
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We enjoyed these very much. They were light , refreshing, and screamed summer time.  I did think 12 ounces of tequila was too much so I started out with 8 ounces first and that ended up being perfect for me. I definitely recommend starting with less and tasting as you go until you get it where you like it.  These flavors work great together and I already can't wait to make them again. I'm going to try them slushy style next instead of on the rocks.

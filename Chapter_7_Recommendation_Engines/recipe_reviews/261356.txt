@@ -1,0 +1,72 @@
+Recipe number:
+261356.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-18T13:35:09.303
+helpfulCount:
+0
+userID:
+15141916
+Display Name:
+WoodlandsMom Offour
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious and a big hit with my family!  I paired it with curry chicken.  The only mistake I made was using Jasmine rice.  The Jasmine Rice is too sticky.  I recommend  Long grain.  I tweaked the recipe and used a combo of raw nuts and "cashews" which was suggested by my neighbor and glad I did.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-21T23:20:45.273
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was EXCELLENT! The curry leaves were optional and I left them out due to personal preference. I can't say enough good about this recipe and for the record, I'm not a huge fan of rice, love peanuts but typically dislike them inside my food, and a little bit of turmeric goes a long way. The results with this recipe shocked me. The roasted peanuts and everything else combined  is absolutely incredible. 5 stars all the way!

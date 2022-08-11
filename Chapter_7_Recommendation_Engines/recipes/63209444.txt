@@ -1,0 +1,32 @@
+URL:
+https://www.allrecipes.com/personal-recipe/63209444/my-test-recipe/
+Title:
+My test recipe Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+beer
+cake
+frosting
+
+Directions:
+mix all and serve
+
+Submitter: 
+kala
+Description: 
+here is a descriptiong
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+10 min
+Ready in:
+NA
+Number of servings: 
+23
+Nutritional Facts:
+NA

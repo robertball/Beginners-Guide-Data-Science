@@ -1,0 +1,72 @@
+Recipe number:
+260835.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-08T22:25:49.073
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good. I used an immersion blender rather than a regular blender. Frothed up nicely.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-15T13:50:33.21
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is quite delicious. I don’t have access to Mexican chocolate, so I used 65g Sicilian cinnamon  chocolate from Modica. It uses an Aztec recipe, so it’s almost exactly the same as Mexican chocolate. Thank you for the recipe.

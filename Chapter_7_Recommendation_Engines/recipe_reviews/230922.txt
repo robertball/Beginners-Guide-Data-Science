@@ -1,0 +1,107 @@
+Recipe number:
+230922.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-03T11:42:48.747
+helpfulCount:
+2
+userID:
+14122022
+Display Name:
+DH-L
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick, easy and most important my grandchildren "love love love it" yes it got three loves from them! !
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-19T20:11:55.73
+helpfulCount:
+1
+userID:
+15744305
+Display Name:
+Mich A
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought it was a really good basic recipe but made some adjustments that really boosted the flavor. I used fire roasted diced tomatoes instead of regular ones. Also instead of the cream, I used 1 cup of roasted garlic parmesen sauce. Really made a huge difference! great mix of spicy and creamy.
+Review:
+Rating:
+1
+dateLastModified:
+2014-10-15T19:05:15.297
+helpfulCount:
+1
+userID:
+14461596
+Display Name:
+Yannick St-Gérard
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1554238.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tried the recipe and was so disappointed. Nothing to jump to the ceiling really, will not do again! :-(

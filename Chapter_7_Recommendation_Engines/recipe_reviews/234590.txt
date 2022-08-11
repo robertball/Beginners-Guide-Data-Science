@@ -1,0 +1,62 @@
+Recipe number:
+234590.txt
+Review:
+Rating:
+5
+dateLastModified:
+11/09/2013
+helpfulCount:
+1
+userID:
+1111369
+Display Name:
+SugarMommy
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/49851.jpg
+text:
+This was quick easy and tasty. Thanks.
+Review:
+Rating:
+5
+dateLastModified:
+11/10/2019
+helpfulCount:
+0
+userID:
+15885968
+Display Name:
+Tracie Jones
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2336085.jpg
+text:
+I've made this for our tailgates for the last 2 years and EVERYONE loves it. I've given the recipe out more times then I can count. So simple but crazy flavorful. It's also great with Ritz crackers.
+Review:
+Rating:
+5
+dateLastModified:
+08/21/2014
+helpfulCount:
+0
+userID:
+661271
+Display Name:
+AFWife88
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/60717.jpg
+text:
+SugarMommy nailed it...quick easy and really really tasty. This one's a definite keeper!
+Review:
+Rating:
+4
+dateLastModified:
+03/19/2017
+helpfulCount:
+0
+userID:
+derbakermom
+Display Name:
+Derbakermom
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2635460.jpg
+text:
+This is a great go-to in a hurry dip recipe that tastes great and allows you to change up according to your liking. I didn't layer I mixed it all up and baked. I also put it under the broiler for a minute to finish up browning.

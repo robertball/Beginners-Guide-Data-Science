@@ -1,0 +1,143 @@
+Recipe number:
+12693.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-29T13:35:19.19
+helpfulCount:
+2
+userID:
+8040851
+Display Name:
+Jessicalr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+207
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was amazing!! Made for Thanksgiving and everyone loved it. I did make my own crust but didn't change anything and it turned out great.
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-24T17:00:28.8
+helpfulCount:
+1
+userID:
+7653054
+Display Name:
+Merry Gray
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+107
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6787088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this 3 times over the holidays with both wheat based crust & gluten free...every one loved it. It's a little softer than I'm used to but it contrasted nicely with the crunch of the pecans
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-27T19:18:08.827
+helpfulCount:
+0
+userID:
+7984066
+Display Name:
+spice dumpling
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+84
+favoritesCount:
+564
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The family loved it and thank you for suppling a twists of two of our favorites.
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-11T16:36:17.25
+helpfulCount:
+0
+userID:
+9735794
+Display Name:
+Jaana Smith Bauman
+isPro:
+False
+followersCount:
+97
+followingCount:
+0
+madeRecipesCount:
+92
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1215746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not too sweet, great flavor, our whole family loved it! 
+Thanks for the great recipe!

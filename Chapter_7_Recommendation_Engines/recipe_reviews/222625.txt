@@ -1,0 +1,72 @@
+Recipe number:
+222625.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-05-25T10:30:14.093
+helpfulCount:
+2
+userID:
+9340241
+Display Name:
+manda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was pretty yummy, but cooked until internal temp was 180.  Hubby loved the arugula
+Review:
+Rating:
+3
+dateLastModified:
+2012-05-31T17:16:41.06
+helpfulCount:
+1
+userID:
+7111996
+Display Name:
+Stirring up Trouble
+isPro:
+False
+followersCount:
+66
+followingCount:
+0
+madeRecipesCount:
+89
+favoritesCount:
+533
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/18.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+These were really dry and I even used the yolk to try and add moisture.  Flavor was good though.

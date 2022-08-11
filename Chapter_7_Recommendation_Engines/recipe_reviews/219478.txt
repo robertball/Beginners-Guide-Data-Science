@@ -1,0 +1,72 @@
+Recipe number:
+219478.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-01-22T03:58:14.69
+helpfulCount:
+1
+userID:
+12983039
+Display Name:
+1984homecomingqueen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used leftover rice pilaf and fresh baby spinach and it was delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-05T01:45:30.01
+helpfulCount:
+0
+userID:
+16123705
+Display Name:
+Sandra Borzomí
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2464091.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didnt have all the ingredients,  so I improvised. I mixed white rice, string beans and avocado.

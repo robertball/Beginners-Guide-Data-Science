@@ -1,0 +1,73 @@
+Recipe number:
+142731.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-06-11T05:55:04.933
+helpfulCount:
+10
+userID:
+1440270
+Display Name:
+CHRISYANEN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good, healthy dressing. I felt it could use a little more flavor though and added one more tablespoon each of soy sauce and vinegar, plus a tablespoon of sesame oil and black pepper.
+Be prepared to have a very large amount of dressing on your hands!
+Review:
+Rating:
+2
+dateLastModified:
+2015-01-04T12:10:11.48
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12223
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This needed a lot of doctoring up for us.  Even with the addition of Wasabi it had a 'flat' taste.   As written I would not make this again.  Sorry, it just wasn't for us.

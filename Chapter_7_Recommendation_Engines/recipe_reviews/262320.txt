@@ -1,0 +1,72 @@
+Recipe number:
+262320.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-28T19:37:44.927
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out perfect! My roma's were small so I used 3 but that is the only change I made. There never seems to be enough liquid in the recipes I've made in the past but this one was spot on. The only change I would make next time is to use cilantro instead of parsley. Either way, this was excellent!
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-05T17:46:15.7
+helpfulCount:
+1
+userID:
+14489599
+Display Name:
+
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4463705.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for our school's church this past Friday for no meat soups. It was a hit. The chili gives it a nice kick. Would def make this again for my family.

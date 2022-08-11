@@ -1,0 +1,72 @@
+Recipe number:
+77523.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-11-19T12:19:09.02
+helpfulCount:
+6
+userID:
+2551562
+Display Name:
+peatunia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/17.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I ended up adding some soy creamer (or half and half if you prefer) to this because it was a little dry and not as creamy as I had hoped. But still delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-02T15:02:44.38
+helpfulCount:
+0
+userID:
+596344
+Display Name:
+Angie Fuller
+isPro:
+False
+followersCount:
+77
+followingCount:
+0
+madeRecipesCount:
+185
+favoritesCount:
+362
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2697848.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+VERy unique. I needed to add a bit oh half and half as it needed a bit more thinning down and I also nearly doubled the amount of beans. This makes plenty of sauce and for me a little goes a long way.

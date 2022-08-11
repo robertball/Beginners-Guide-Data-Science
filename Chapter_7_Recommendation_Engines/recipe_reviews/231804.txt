@@ -1,0 +1,107 @@
+Recipe number:
+231804.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-19T21:33:36.397
+helpfulCount:
+5
+userID:
+2982761
+Display Name:
+Leslie Ann
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6330890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+WE make a recipe like this at my work but instead of onions and tomatoes we put diced chicken on it. It's so delicious!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-05T09:34:08.177
+helpfulCount:
+1
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9210
+followingCount:
+0
+madeRecipesCount:
+626
+favoritesCount:
+1190
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick yummy lunch. Instead of using regular flour tortillas I used a spinach herb sandwich wrap... perfect!
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-31T14:17:22.74
+helpfulCount:
+0
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+239
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I bought a packaged artichoke dip at the store that no one liked. Instead of tossing it, I recreated it with this. I used pizza crusts instead of tortilla. The family loved it. I don't think they ever realized the base was the same dip!

@@ -1,0 +1,142 @@
+Recipe number:
+246902.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-16T18:51:27.457
+helpfulCount:
+1
+userID:
+3411340
+Display Name:
+Lynn Dudar Hagan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6292492.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had no beer in the house so I used a cup of Diet Pepsi. I think it tastes divine. I will make it again for sure. :)
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-17T01:18:43.4
+helpfulCount:
+1
+userID:
+20051496
+Display Name:
+Lorri Himes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3782848.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful. I omitted the liquid smoke and used mission fig balsamic vinegar. This is the best sauce.  It is even great with cheese and crackers!
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-20T00:42:30.96
+helpfulCount:
+1
+userID:
+21942013
+Display Name:
+Gwen Fillhart
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made it and love it! It's good on grilled chicken. We're planning make more to can for the winter.
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-17T15:01:31.24
+helpfulCount:
+1
+userID:
+21930650
+Display Name:
+Joel B
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added a little more heat, delicious

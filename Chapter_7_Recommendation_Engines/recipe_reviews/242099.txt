@@ -1,0 +1,107 @@
+Recipe number:
+242099.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-13T14:51:51.56
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very Good as is (besides needing a bit of salt, IMO), but awesome w/ a couple little additions...I did use olive oil cooking spray to cut down on the fat and that worked fine. Cooked the green beans and the rice as instructed. The feta gave this a nice twang, but when I tasted it I felt it needed something more. I added in some minced garlic and a drizzle of sesame oil (maybe 1/2 teaspoon) and that did the trick, SO GOOD! We really, REALLY enjoyed this along w/ our fish for dinner tonight...Thanks so much for the idea, I will be making this again and again~YUM!!!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-12T22:01:32.833
+helpfulCount:
+0
+userID:
+25051372
+Display Name:
+Sue Ann Dufour
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6370721.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My 16 year old son is going all healthy so I made him this and he loved it.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-19T01:06:26.603
+helpfulCount:
+0
+userID:
+17320112
+Display Name:
+Jacqueline Smith
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7478272.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! Very easy! Loved it!

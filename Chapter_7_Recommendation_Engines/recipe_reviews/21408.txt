@@ -1,0 +1,112 @@
+Recipe number:
+21408.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-11-15T22:35:22.39
+helpfulCount:
+13
+userID:
+915867
+Display Name:
+ABASS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+80
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The last reviewer must not undersand what deviled crab is....it ISN'T a crab cake!  This recipe was great if you know what deviled crab is.
+Review:
+Rating:
+4
+dateLastModified:
+2000-11-13T22:05:40.587
+helpfulCount:
+9
+userID:
+69345
+Display Name:
+JOEMOMMA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/499853.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wonder if it was supposed to include an egg with the crab cakes, I had to in
+order to make the cake stick together.  I also threw in a few of the bread
+crumbs. I also question the amt. of flour to butter in the sauce, it made it too 
+thick. The recipe did not specify when to add the lemon juice or the garlic.
+The flavor was good overall.  I especially enjoyed the hint of hot sauce in 
+the crab.
+Review:
+Rating:
+1
+dateLastModified:
+2012-05-24T18:32:45.983
+helpfulCount:
+0
+userID:
+8275720
+Display Name:
+Keith1717
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The directions were imcomplete.  There were ingredients that didnt go into the directions.  The crab cakes fell apart.  Way to much sauce for the crabcakes.  All around disapointed.

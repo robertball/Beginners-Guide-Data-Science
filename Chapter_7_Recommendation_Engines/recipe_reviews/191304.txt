@@ -1,0 +1,72 @@
+Recipe number:
+191304.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-04-06T18:40:25.35
+helpfulCount:
+4
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+YAY! A smoothie without added sugar. The combination of fruits was perfect. Both my kids and I loved it.
+Review:
+Rating:
+3
+dateLastModified:
+2012-01-16T04:42:59.553
+helpfulCount:
+1
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1594
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not sure if I'm just not a smoothie person or if I just didn't really care for THIS smoothie.  I 1/2ed the recipe to make just one breakfast smoothie.  The only change I made was I realized I'd picked up plain greek yogurt, as opposed to vanilla.  It's just not my cup of tea.  I'm giving an extra star benefit of the doubt since none of these fruits are really in season right now, but I can't say I'll be trying it again when they are.  That being said, I noticed the only other reviewer is someone who's opinions I trust and she and her sons loved it, so perhaps smoothies just aren't my cup of tea. I guess you'll have to try it for yourself to see how YOU feel about it...

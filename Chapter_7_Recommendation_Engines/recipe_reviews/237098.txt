@@ -1,0 +1,107 @@
+Recipe number:
+237098.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-17T02:51:49.3
+helpfulCount:
+0
+userID:
+26298423
+Display Name:
+Shangard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I asked - what should I do with this broccoli? Answer - I don't know, can you make some kind of broccoli/tomato mix? I found this most interesting recipe - and it is delicious!! I did not have pine nuts, so for my serving, I tossed in some dry roasted edamame (that was a snack in my pantry that I did not like eating by itself - and it added some crunch, and did not kill the dish LOL). Next time tho, I will get the pine nuts.  Nice tantalizing combo of flavors, am definitely adding it to my 'pass down' recipe list!!
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-11T02:17:25.453
+helpfulCount:
+0
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A tasty and interesting side dish to complement most any main dish.  I omitted the pine nuts, but otherwise followed the recipe as written.  We enjoyed how the different flavors came together, and I will definitely make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-03T14:35:56.943
+helpfulCount:
+0
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I omitted nuts and used half broccoli and half romanesco. This is really good. It's probably going to become a regular in our household.

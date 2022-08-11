@@ -1,0 +1,37 @@
+Recipe number:
+270817.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-17T12:31:56.153
+helpfulCount:
+0
+userID:
+3215285
+Display Name:
+cricky87
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the texture and taste of these pakoras! I used sea salt and they were way too salty but I will try again. I recommend a very small dice on the potatoes and cauliflower or they won't cook through. I used a T-fal actifry without the spinning arm and followed the recipe for cook time.

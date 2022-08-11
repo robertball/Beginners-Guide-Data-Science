@@ -1,0 +1,72 @@
+Recipe number:
+237782.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-01T13:49:27.337
+helpfulCount:
+1
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2221
+favoritesCount:
+2566
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple, quick and adds good flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-21T23:39:15.687
+helpfulCount:
+0
+userID:
+14298775
+Display Name:
+T Barrows
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4054980.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with a few changes because I personally can't handle the "heat" of chili powder, so I some adjustments by using Paprika, garlic powder, and cumin. It was awesome, little strong on the Worceshire flavor but most of my family really liked it. I gave it 5 stars because the only family member that didn't like it was one that doesn't like any kind of marinade or sauce on his steak with the exception of a little salt and pepper.

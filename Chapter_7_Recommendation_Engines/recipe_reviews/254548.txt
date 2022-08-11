@@ -1,0 +1,72 @@
+Recipe number:
+254548.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-06T02:52:37.08
+helpfulCount:
+0
+userID:
+13269552
+Display Name:
+Jean Briese
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+617
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1231263.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! I used heavy cream and milk, I didn't have half and half, so I just used milk in it's place. Other than that, I followed the instructions and it really is surprising how these flavors go together!
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-17T22:58:10.18
+helpfulCount:
+0
+userID:
+1598858
+Display Name:
+MariaTheSoaper
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1556291.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wouldn't have thought the 2 flavors but it works and its just so tasty! Will make this again, bit hit with the family!

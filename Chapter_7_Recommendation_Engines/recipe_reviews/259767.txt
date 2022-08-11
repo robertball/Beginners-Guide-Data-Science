@@ -1,0 +1,37 @@
+Recipe number:
+259767.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-12-05T05:10:52.2
+helpfulCount:
+0
+userID:
+22886318
+Display Name:
+Sydney BlackRider
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4612642.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I hated it it tasted so bitter and was very floury. All I could taste was the flour DO NOT USE THE RED BOB MILL FLOUR!

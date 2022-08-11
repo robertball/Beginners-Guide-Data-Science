@@ -1,0 +1,37 @@
+Recipe number:
+275365.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-18T18:46:51.367
+helpfulCount:
+0
+userID:
+585641
+Display Name:
+Carol Castellucci Miller
+isPro:
+False
+followersCount:
+118
+followingCount:
+0
+madeRecipesCount:
+204
+favoritesCount:
+445
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2403322.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was surprised by how the strawberry flavor just blends right in with the tomatoes.  The strawberries are a nice addition!

@@ -1,0 +1,72 @@
+Recipe number:
+231924.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-24T02:37:55.527
+helpfulCount:
+1
+userID:
+1027952
+Display Name:
+Stacy W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+94
+favoritesCount:
+289
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an easy, one-dish meal.  The few changes I made were because of ingredients I had or didn't have on hand.  I did not have orange juice, so I substituted a Cointreau/water mixture.  I think it would be better with orange juice because of the added sweetness.  I added additional vegetables - broccoli and cabbage along with the carrots and peas.  I will make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-02T18:13:09.59
+helpfulCount:
+0
+userID:
+15957431
+Display Name:
+Tina N
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2372057.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i think including the nutritional facts in the footnotes area is amazing!  this helps with meal planning and I plan on making this dish regardless. i am sure it will taste as how I will imagine it will.

@@ -1,0 +1,37 @@
+Recipe number:
+245748.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-23T14:46:49.52
+helpfulCount:
+0
+userID:
+21288848
+Display Name:
+Andrea Wille
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My fiancé requested Black Forest Cake for his birthday, and I had never made it from scratch before. This was uncomplicated and delicious. I did use Cherry Pie filling instead of canned Cherries. Next time, I think I will use less liquor throughout and more whipping cream and powdered sugar (the alcohol could be tasted, and there wasn't enough filling / icing to cover the cake).

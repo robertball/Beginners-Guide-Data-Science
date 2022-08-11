@@ -1,0 +1,72 @@
+Recipe number:
+257211.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-23T12:53:03.92
+helpfulCount:
+3
+userID:
+7468631
+Display Name:
+Grandma Bea
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this soup last night for today, knowing that most soups and stews taste better the next day. The taste test was great! I used organic carrots of 5 different colors purchased at Costco. I plan to make this again very soon. It is so healthful as well as beautiful, delicious and satisfying.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-28T03:22:13.473
+helpfulCount:
+0
+userID:
+9151426
+Display Name:
+pegpaws
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! used 2% milk in place of coconut cream & dried ginger powder in place of fresh.  Fresh is always better.

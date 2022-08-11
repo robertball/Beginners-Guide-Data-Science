@@ -1,0 +1,144 @@
+Recipe number:
+127278.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-05-20T12:29:10.01
+helpfulCount:
+3
+userID:
+2949830
+Display Name:
+Mom of 3 J's
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made this recipe at least a half a dozen times, and everyone loves them.  Yes, they are chocolatey, and actually look professionally made if you take them out of the oven while they are still soft.  Kids and adults have raved about them.
+Review:
+Rating:
+5
+dateLastModified:
+2009-11-07T06:31:19.877
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6896
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been making these for a few years now and they are always a hit with my family and friends! :)
+Review:
+Rating:
+5
+dateLastModified:
+2010-01-14T16:20:59.807
+helpfulCount:
+1
+userID:
+2176451
+Display Name:
+Leslie McReynolds Dombalis
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+212
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1686697.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh my goodness!! I"m not sure if it's me or my pregnancy talking, but these are some of the best cookies EVER. Rich, chocolately and chewy -- exactly what I was looking for. I didn't have any Baker's chocolate around the house, so I just split a bag of Nestle Semi-Sweet morsels in half instead. Also, I'm not a fan of nuts so I upped the flour as the recipe note said to do. I did add some coconut at the last minute just because and it all turned out FABULOUSLY. Next time I'm considering adding orange zest and extract to give them an exotic punch, not that they need to be any better. YUM.
+Review:
+Rating:
+2
+dateLastModified:
+2008-04-07T19:42:26.02
+helpfulCount:
+1
+userID:
+2714189
+Display Name:
+Sam N.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/81296.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you are a chocolate lover then you will love this cookie.  I thought it a bit much.
+
+Be forewarned, it is not a pretty cookie.  It looks kind of gross actually.  And if you don't eat them within a week they get too hard to eat.

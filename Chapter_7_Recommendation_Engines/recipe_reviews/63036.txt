@@ -1,0 +1,107 @@
+Recipe number:
+63036.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-03-03T05:18:56.077
+helpfulCount:
+7
+userID:
+531435
+Display Name:
+Jackie Clonan
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+81
+favoritesCount:
+249
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7545915.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+FOR THOSE WHO ARE DIABETIC, ON A LOW CARB DIET, OR JUST WATCHING THEIR WEIGHT, THIS IS THE TREAT FOR YOU. I HAVE MADE THIS MANY TIMES AND IT'S INCREDIBLE HOW GOOD IT IS. NICE AND TANGY-SWEET, LUSCIOUS, AND CREAMY-----MY HUSBAND COULDN'T TELL IT ISN'T THE HIGH CALORIE KIND. I MUST SAY HOWEVER, I USED THE ORIGINAL RECIPE @ THE EQUAL SITE THAT MADE THE RECIPE EVEN EASIER BY USING A 9" PIE PLATE----IT'S A SNAP! TRY IT, YOU'LL LOVE IT!
+Review:
+Rating:
+5
+dateLastModified:
+2004-06-20T11:39:54.28
+helpfulCount:
+4
+userID:
+144258
+Display Name:
+Caroline
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+126
+favoritesCount:
+1782
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe, especially refreshing in the summer.  It's like a combination between a cheesecake and a Key lime pie.  I did not use a springform pan, but just a regular graham cracker crust in a 9-inch pie plate and it turned out great.  I also used two eggs, instead of one egg and two egg whites.  Served topped with a dollop of whipped cream and few raspberries - wonderful!
+Review:
+Rating:
+4
+dateLastModified:
+2006-06-21T09:57:37.56
+helpfulCount:
+1
+userID:
+621543
+Display Name:
+Jen Graham
+isPro:
+False
+followersCount:
+35
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2518523.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it with real sugar and it tasted great. Not very limey though. I have an 8 1/2 inch spring form pan and it made a very low cheesecake. Next time I make this, I will scale it for 3 blocks of cream cheese instead.

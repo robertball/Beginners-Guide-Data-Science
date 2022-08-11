@@ -1,0 +1,252 @@
+Recipe number:
+241060.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-06T16:37:14.473
+helpfulCount:
+20
+userID:
+723903
+Display Name:
+CDUB68118
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe will do well with a lot of changes, in my opinion. I bake a lot and don't keep self-rising flour in my pantry. It just takes up room. So instead of using 1 cup of self-rising flour, use 1 cup flour, 1 1/2 t. baking soda and 1/4 t. salt.
+     Also, 400 degrees for a cake is way too hot. My first attempt (I always follow the recipe the first time) turned into very dark brown crusts and a mushy center. Reduce the temp to 350 and bake until a toothpick inserted in the middle comes out clean.
+     Then on to the frosting/filling. Omit the raw sugar, it's just not necessary. Use the butter and lemon juice and add powdered sugar until it's the consistency that you like. I would separate the butter and lemon in half, make the filling a little thicker with one half and thinner frosting with the other half.
+     Oh! And the picture associated with the recipe? That's not it.
+     All of that said, I'm looking forward to the next time I make it. I love lemon! I'll serve it with fresh whipped cream (with a little sugar) and raspberries.
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-01T13:28:25.887
+helpfulCount:
+10
+userID:
+166708
+Display Name:
+Jan Mowbray
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+428
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2530650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The picture DOES NOT match the cake.  The icing is delicious, the cake has a really nice lemony flavour.  It's a rather coarse cake.  
+One warning: do NOT open the oven door to check on the cake until you're pretty sure it should be done. Two of the cakes fell - quite a bit.  If I make it again,I'd eliminate that sugar/lemon juice syrup in between layers - it doesn't allow for a bond between the two layers - I made rectangular cakes - when we cut the cake, the sides fell away. Or I'd just make a single layer cake and poke holes and add the syrup on top and then ice. Or if I make it again, I'd thicken the filling with cornstarch for a more substantial filling. I just wouldn't make it as written.
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-08T12:54:02.127
+helpfulCount:
+8
+userID:
+14216540
+Display Name:
+Rain DeDogg
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2399537.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+oh my gosh this was so yummy  and my kids loved it. And I added a little of lime juice it was so good it was sweet from the lemon and tart from the lime it was awesome
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-22T06:39:30.033
+helpfulCount:
+5
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+WOW! What a great cake! I made mine with gluten free all purpose flour. In order to cut it I had to put it in the refrigerator. Then after adding the topping and filling (of which I left out the butter for personal reasons), I put it back in the fridge. It has a wonderfully refreshing lemon flavour. Isn't too sweet or tart, just a perfect balance of all flavours. This will definitely turn into a staple around here. Thank you reb.zemp for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-30T12:20:49.98
+helpfulCount:
+2
+userID:
+7224658
+Display Name:
+bob ward
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+153
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1029135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is a sure keeper bread.my family loves it.
+Review:
+Rating:
+1
+dateLastModified:
+2018-05-04T00:00:13.46
+helpfulCount:
+1
+userID:
+12636278
+Display Name:
+cinmin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+228
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Does not even deserve 1 star. This recipe is a waste of wonderful ingredients. End product was terrible! Even using the other reviewers suggestions; e.g. 350 degrees, baking soda and salt. Ingredients and quantities are way off, even sauce/frosting.
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-29T17:37:16.177
+helpfulCount:
+1
+userID:
+7609612
+Display Name:
+Heidi McKinney
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1166559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! Only thing is I didn't think about my cake pans are dark and so I totally burned the cake the first time. I only needed to bake mine about 18 minutes and it was amazing!!!!

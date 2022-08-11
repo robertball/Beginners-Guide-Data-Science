@@ -1,0 +1,37 @@
+Recipe number:
+256028.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-14T16:15:20.91
+helpfulCount:
+0
+userID:
+6535858
+Display Name:
+sonjagroset
+isPro:
+False
+followersCount:
+143
+followingCount:
+0
+madeRecipesCount:
+98
+favoritesCount:
+441
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1197148.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great cocktail for brunch if you don't want something sweet & cloying. Super refreshing, easy to make and beautiful color!

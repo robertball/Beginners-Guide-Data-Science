@@ -1,0 +1,72 @@
+Recipe number:
+100972.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-06-16T11:52:50.527
+helpfulCount:
+8
+userID:
+500113
+Display Name:
+THEDAD
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+68
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+used smoked catfish in this dish and used sharp cheddar cheese, fresh peas and about a cup of chopped vidalia onions. never tried anything like this but it was very good.
+Review:
+Rating:
+4
+dateLastModified:
+2014-03-05T11:29:20.573
+helpfulCount:
+0
+userID:
+13267539
+Display Name:
+Chef Mike
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1108063.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy enough to make, however when the milk mixture was hot I added the other ingredients to cook through. Then  I poured the mixture into a "6 pie shell and topped with cheese and baked for 10 minutes

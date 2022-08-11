@@ -1,0 +1,72 @@
+Recipe number:
+255054.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-11-18T17:36:26.603
+helpfulCount:
+3
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+402
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe as written and I didn't think they tasted anything like a Mounds Bar or even reminiscent to one. They were a bit chewy, a bit on the dry side. Just didn't care for them.
+Review:
+Rating:
+3
+dateLastModified:
+2016-11-21T19:28:49.923
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+194
+followingCount:
+0
+madeRecipesCount:
+547
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They are brownies, so they can't be "bad". However, I wasn't very impressed. The coconut flavor wasn't very strong. I had to cook them longer than the recipe stated.

@@ -1,0 +1,37 @@
+Recipe number:
+204214.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-10-08T07:54:40.77
+helpfulCount:
+1
+userID:
+867032
+Display Name:
+TVCHICK
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+161
+favoritesCount:
+493
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/14.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I had some old hamburger buns that needed to be used up so I sliced them into 1 inch strips with a pizza cutter and used them in place of the white bread.  The bread sticks turned out FABULOUS!  I would give them 5+ stars.  The bean dip was good but kind of bland.  I think it would be better served with pita chips or celery as it tasted more like hummus mixed with pesto.  I would give the bean dip 3.5 stars.

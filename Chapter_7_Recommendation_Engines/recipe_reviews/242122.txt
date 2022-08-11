@@ -1,0 +1,37 @@
+Recipe number:
+242122.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-27T18:10:04.617
+helpfulCount:
+3
+userID:
+23663096
+Display Name:
+Lillian Delgado
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5361601.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just added fresh minced garlic and it was amazing. Reminded me of eating it as a kid.

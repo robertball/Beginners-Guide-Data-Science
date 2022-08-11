@@ -1,0 +1,72 @@
+Recipe number:
+239133.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-10-22T10:25:50.57
+helpfulCount:
+3
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a bit bland tasting. I would use a sharp cheddar cheese along with some crushed red pepper flakes to up the flavor.
+Review:
+Rating:
+3
+dateLastModified:
+2016-09-06T06:26:28.87
+helpfulCount:
+1
+userID:
+13755129
+Display Name:
+Nuvia Mendoza Lyons
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6612785.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added some canned diced green Ortega chilies and garlic salt.

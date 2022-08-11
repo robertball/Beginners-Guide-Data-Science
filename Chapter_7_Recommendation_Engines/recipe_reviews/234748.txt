@@ -1,0 +1,72 @@
+Recipe number:
+234748.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-11-01T09:51:17.83
+helpfulCount:
+4
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6002
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don’t necessarily think the secret is the onions and carrots, it’s the cinnamon.  I’ve made chili with cinnamon before, but never spaghetti sauce.  Honestly, I hit the panic button when I first tasted it because the cinnamon was “in your face.”  However, once you let the sauce simmer, it blends in well.  You certainly still can taste the cinnamon, but it doesn’t dominate.  I used mild Italian sausage that I had on hand, so I did add a few red pepper flakes for a little zing, a bit more basil to suit our tastes, and a splash of red wine.  IMHO I don’t think there will be any gray area with this recipe, you’ll either like it or dislike it.  Fortunately, we liked it.  Thanks, Lisa H, this is different but pretty darn good.
+Review:
+Rating:
+2
+dateLastModified:
+2014-01-24T15:53:49.703
+helpfulCount:
+1
+userID:
+338532
+Display Name:
+Ms Betty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+189
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't care at all for the brown sugar and cinnamon.

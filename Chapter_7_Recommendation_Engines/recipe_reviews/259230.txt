@@ -1,0 +1,37 @@
+Recipe number:
+259230.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-09T20:09:40.43
+helpfulCount:
+0
+userID:
+8272819
+Display Name:
+tpn1018
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+573
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6054902.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these with whole wheat flour and vanilla flavored whey protein powder since I didn’t need to make them gluten free. Instead of spreading the mixture in a pan I oiled my hands and rolled it into balls. I put them in the freezer to set up and then stored them in the fridge. The kids liked them as an after school snack. One said that they are great because they taste like raw banana bread dough!

@@ -1,0 +1,37 @@
+Recipe number:
+255679.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-26T00:22:19.043
+helpfulCount:
+0
+userID:
+4552495
+Display Name:
+charm
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+615
+favoritesCount:
+1471
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6040593.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are fantastic.  I didn't have half-and-half, so I used Greek yogurt.  I'm not a fan of cheese, so I used a lot less of that than the recipe states.  We had these for dinner along with chips & salsa, and some Mexican hominy (also from allrecipes)

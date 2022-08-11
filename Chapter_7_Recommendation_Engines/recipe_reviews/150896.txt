@@ -1,0 +1,72 @@
+Recipe number:
+150896.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-02-09T07:26:47.303
+helpfulCount:
+17
+userID:
+3542319
+Display Name:
+Renee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/179924.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is phenomenal!  I served this to the girls in my book club and everyone who tried it asked for the recipe.  I couldn't find orgeat syrup (and almond-flavored syrup) in the stores and didn't have time to order online, so I used almond-flavored Torani syrup instead.  I will make these again and again!
+Review:
+Rating:
+4
+dateLastModified:
+2010-10-25T17:25:46.357
+helpfulCount:
+13
+userID:
+5356409
+Display Name:
+Michele Ciruzzi Reilly
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2018636.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I alterted this for a serving of 20 and the first batch did not turn out. I was told to use 5 cups of grenadine. That was WAY too much. It tasted like cough syrup. Next batch I tried 2 oz and it was plenty. After the adjustment they were delicious!!!

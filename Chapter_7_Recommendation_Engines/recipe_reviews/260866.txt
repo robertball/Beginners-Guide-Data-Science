@@ -1,0 +1,72 @@
+Recipe number:
+260866.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-12T03:10:30.577
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out great! I wouldn't really call it a bark but still good. Hindsight I could have spread the mixture out thinner to get more of a bark thickness instead of a rice crispie treat thickness but it was hard to judge based on how thick it was. Live and learn. Hubs said it tasted very similar to a Reese's. I don't eat sweets so he took this to work with him to share and it was all gone in less than 5 minutes. With only 3 ingredients, you really can't go wrong with this.
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-11T21:15:20.167
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+766
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This makes a very rich peanut butter bark. I like the crunch the Rice Krispies give it. This is not something I would want as a dessert, but it would be nice for a party dessert buffet or as part of a cookie/treat basket to give away.

@@ -1,0 +1,109 @@
+Recipe number:
+239274.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-09-19T17:31:02.59
+helpfulCount:
+3
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is a great base, however it needs some extra seasoning. I switched out spinach for cilantro because I didn't have spinach on hand. I would make this again!
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-05T04:43:07.157
+helpfulCount:
+0
+userID:
+20289449
+Display Name:
+Elizabeth Tanner
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3861614.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used chicken broth instead of water for more flavor and everybody liked it.  This was a side to baked salmon fillets.
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-08T15:49:35.26
+helpfulCount:
+0
+userID:
+17234861
+Display Name:
+Kate Oh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome. I substituted Olive Oil for butter, and unsalted Chicken Broth for water. Also I squeezed some fresh lemon juice over top when I seasoned my portion since I can't get enough of acidic foods, then ate the lemon while I ate the Quinoa. Most people probably would find that unappetizing, but I could eat lemons for days.
+
+Definitely making this again. I think I'll use a smaller garlic clove. I used a large one and it was a bit too much.

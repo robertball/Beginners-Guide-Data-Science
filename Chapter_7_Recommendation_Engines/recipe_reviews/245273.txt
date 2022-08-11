@@ -1,0 +1,108 @@
+Recipe number:
+245273.txt
+Review:
+Rating:
+1
+dateLastModified:
+2016-04-22T16:50:05.873
+helpfulCount:
+1
+userID:
+16927167
+Display Name:
+Big Mac
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5731692.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried a peace and decided it would be better to eat the bacon and pie separately. They did not go well together.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-09T15:14:09.28
+helpfulCount:
+0
+userID:
+11815355
+Display Name:
+Megan Noel Howell
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1888169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it and didn't change anything besides using a homemade crust and absolutley loved it!!! Unique twist to a traditional pie!
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-15T04:49:29.587
+helpfulCount:
+0
+userID:
+17523672
+Display Name:
+BaconLover911
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy yummy
+10/7 would eat with cheezits again

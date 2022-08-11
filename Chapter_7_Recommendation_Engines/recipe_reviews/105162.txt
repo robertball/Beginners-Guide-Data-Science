@@ -1,0 +1,113 @@
+Recipe number:
+105162.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-07-25T18:10:25.607
+helpfulCount:
+4
+userID:
+673983
+Display Name:
+CATERERJ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+445
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/106236.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delightfully Delicious Deviled Roast Beef.  The Gravy is Awesome!
+Review:
+Rating:
+5
+dateLastModified:
+2007-05-05T15:45:45.297
+helpfulCount:
+2
+userID:
+2329576
+Display Name:
+losthwy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a quick, easy and delicious recipe.  This was my first time cooking a round roast, so I was worried how it would come out.  The Dijon mustered and pepper on the outside of the roast made it tender in the center and created a crispy (but not too crispy) outer edge that added real flare to the meat.  For the sauce, I had to used canned mushrooms and used red onion, but I found the mushroom turned out more tender and it had no negative effect on the flavor of the sauce.
+
+It’s the sauce that really makes this a meal.  I was concerned that this recipe would cause an overly tart taste from all the Dijon, but when finished it only adds a slight tang to a delicious vegetable and beef meddle.
+
+Whether a beginner or an expert, this creates a meal to be remembered.  I would recommend it to anyone and can’t wait to cook it for my parents when they come out next month.
+
+Bon appetite!
+Review:
+Rating:
+5
+dateLastModified:
+2009-10-04T14:46:15.667
+helpfulCount:
+0
+userID:
+1581553
+Display Name:
+Allison Brown
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1867766.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best gravy I've ever had! So much flavor! All my guests raved about this one!

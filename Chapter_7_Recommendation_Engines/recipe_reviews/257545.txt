@@ -1,0 +1,72 @@
+Recipe number:
+257545.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-03T23:14:20.157
+helpfulCount:
+0
+userID:
+12104979
+Display Name:
+Carol H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6718952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I decided to cut it lengthwise because slicing it in rounds would've been way too small. This required it to be cooked a little longer because of the thickness. I also added garlic salt and cracked pepper. I only gave it four stars because of you variations I had to do.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-26T02:42:17.967
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used fresh parsley instead of the dry and these were pretty good. I do think they could have benefited from another spoon of pizza sauce over the pepperoni but that is just my opinion. I also added more cheese to one of my "pizza's" after pulling them from the oven and I liked what that added too. Overall good dish but I plan to play around with it more. Sliced black olives would be a nice touch too.

@@ -1,0 +1,37 @@
+Recipe number:
+269509.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-03-02T12:40:04.327
+helpfulCount:
+0
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+302
+followingCount:
+0
+madeRecipesCount:
+252
+favoritesCount:
+1638
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7778502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a wonderful, brioche-like bread! Very sweet and lovely. I didn't use mastic, but glad it was optional, and did not have the traditional red-dyed eggs made, also optional. I swapped the sliced almonds with crushed walnuts and the topping still made a wonderfully beautiful loaf. Also included dried berries in the mix for some extra sweetness. Super delicious and wonderful! Thank you!

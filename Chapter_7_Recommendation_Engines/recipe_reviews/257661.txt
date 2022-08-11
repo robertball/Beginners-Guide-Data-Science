@@ -1,0 +1,47 @@
+Recipe number:
+257661.txt
+Review:
+Rating:
+5
+dateLastModified:
+03/01/2018
+helpfulCount:
+2
+userID:
+lindat
+Display Name:
+Linda T
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2367052.jpg
+text:
+Delicious hearty bread.  Easy.. kneaded this in my Kitchen Aid. Smells wonderful baking. Great with butter and used in sandwiches
+Review:
+Rating:
+5
+dateLastModified:
+12/13/2018
+helpfulCount:
+0
+userID:
+1699129
+Display Name:
+Paul Adkins
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2548506.jpg
+text:
+Great recipe. Tasty and great texture and form.
+Review:
+Rating:
+5
+dateLastModified:
+07/23/2020
+helpfulCount:
+0
+userID:
+4142839
+Display Name:
+Elaine
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Wonderful spicy aroma.  I made this twice and love it with any sandwich fixins.  It is a very filling bread.  2 slices is almost too much for a luncheon sandwich.  Follow recipe as is.  I prepped mine in  a Ninja food processer.

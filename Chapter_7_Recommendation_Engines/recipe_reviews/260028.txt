@@ -1,0 +1,107 @@
+Recipe number:
+260028.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-12T23:57:14.34
+helpfulCount:
+1
+userID:
+21466234
+Display Name:
+Sam Liddy Kyransaleigh
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It came out really good. Not too difficult to make. I added a little more of the sweetened condensed milk than the recipe called for to make it a little sweeter, since I like my coffee with a lot of sweetener.
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-22T17:20:58.3
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cheaper and better than Starbucks.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-18T08:23:53.987
+helpfulCount:
+0
+userID:
+26148430
+Display Name:
+Jeaneen Carter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The drink was perfect the way it was. I found no need to change it, yes I made it both ways. I’ll stick with the original thank you.

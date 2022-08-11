@@ -1,0 +1,37 @@
+Recipe number:
+274412.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-22T05:55:00.213
+helpfulCount:
+0
+userID:
+8847031
+Display Name:
+DaWanda Joyce Bartlett
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6818683.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and it is easy and delicious! Family approved. Extra special for a morning break with coffee!

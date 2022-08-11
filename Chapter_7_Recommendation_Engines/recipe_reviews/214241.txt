@@ -1,0 +1,37 @@
+Recipe number:
+214241.txt
+Review:
+Rating:
+1
+dateLastModified:
+2010-06-07T14:51:00.55
+helpfulCount:
+4
+userID:
+4946555
+Display Name:
+Shushubug
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I doubled the recipe. It was not sweet enough for my taste. I loved the idea of the Cook & Serve Pudding and Cream Cheese together, but the result was less than expected. A VERY heavy cream cheese flavor, so a bit more sour than sweet.  Although like I said that may be because I doubled the recipe. IF I try it again, I'll use less cream cheese and maybe even a little powdered sugar.

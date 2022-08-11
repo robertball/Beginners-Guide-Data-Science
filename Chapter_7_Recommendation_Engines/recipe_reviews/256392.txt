@@ -1,0 +1,215 @@
+Recipe number:
+256392.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-29T17:16:48.193
+helpfulCount:
+2
+userID:
+15747602
+Display Name:
+Ronda Williams
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+1313
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2268425.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just made this and it looks delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-26T16:37:56.817
+helpfulCount:
+1
+userID:
+11189365
+Display Name:
+Mary Crane Rusk
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3122356.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really delicious and easy.  Two changes:
+1. I added 1/3 cup chopped pecans to the cake/butter mixture
+2.  I added about 1/4 cup of a sugar cinnamon mixture to the cake/butter mixture
+Both additions were to kick up the crumble a notch.
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-04T00:12:06.2
+helpfulCount:
+1
+userID:
+21968332
+Display Name:
+Vikki Lewis Pfeiffer
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it just as the instructions said and it turned out great!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-06T19:36:20.907
+helpfulCount:
+0
+userID:
+14446446
+Display Name:
+Patricia Hynoski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+560
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5065061.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this simple dessert. So easy to make and no real cleanup. I follow instructions as printed & I got exactly what was expected. Maybe next time, I will try blueberry.
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-28T01:21:16.863
+helpfulCount:
+0
+userID:
+2880012
+Display Name:
+redravejane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+533
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My mom used to make this all the time when last minute company would be coming over.  Quick, easy and delicious served warm with ice cream!  A great childhood memory rediscovered!!!
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-16T02:46:28.17
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's not as crunchy as I wish it were. My mum has a similar recipe and her recipe calls for chopped pecans.

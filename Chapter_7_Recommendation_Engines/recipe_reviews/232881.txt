@@ -1,0 +1,72 @@
+Recipe number:
+232881.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-27T00:27:49.82
+helpfulCount:
+2
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was worried about this being dry, like the other reviewer commented, so I made a few minor adjustments. I used 1/2 cup of buttermilk in place of the 1/4 milk, and used 3 ripe bananas, which was probably more like 1-1/4 cups mashed. I also baked this in two 9" cake pans (the batter was the perfect amount), at 350 degrees for 27 minutes, as I wanted to make a layer cake rather than the 13 x 9. It turned out pretty darned good! Not dry at all. I frosted this with a chocolate buttercream frosting (at the request of my daughter). The kids dove into this when they got home from school today. It's not going to last long, that's for sure. Thanks for the recipe!
+Review:
+Rating:
+2
+dateLastModified:
+2015-02-26T13:14:39.543
+helpfulCount:
+0
+userID:
+15432806
+Display Name:
+Laura Chimene
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2103409.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cake came out dry.

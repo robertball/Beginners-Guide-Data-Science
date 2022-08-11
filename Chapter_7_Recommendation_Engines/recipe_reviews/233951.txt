@@ -1,0 +1,72 @@
+Recipe number:
+233951.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-15T02:02:31.52
+helpfulCount:
+0
+userID:
+23463290
+Display Name:
+Amanda Pataki
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5223076.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cupcakes are good. Topping is fantastic. I cant rate 5 stars bc the peanut butter cups sink to the bottom and stick to the wrapper. Usually this leads to the peanut butter cup falling out when you go to unwrap it & that's disappointing.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-09T22:57:30.383
+helpfulCount:
+0
+userID:
+6606364
+Display Name:
+vanduzej
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was skeptical of this recipe because it didn’t have any reviews yet, but I am so glad I tried it! Made it exactly as written. The batter seemed really thin, but it turned out great. It was a hit for our party.

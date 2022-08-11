@@ -1,0 +1,37 @@
+Recipe number:
+80316.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-11-24T08:49:32.867
+helpfulCount:
+6
+userID:
+2325193
+Display Name:
+Cindy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+94
+favoritesCount:
+640
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1931490.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was good, but not really what I thought.  It tastes a little like sour cherry pie filling--not a bad thing, but different.

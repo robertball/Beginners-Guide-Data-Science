@@ -1,0 +1,114 @@
+Recipe number:
+246525.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-21T01:23:55.587
+helpfulCount:
+2
+userID:
+4562668
+Display Name:
+Chef V
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+459
+favoritesCount:
+642
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/911981.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was truly delicious.
+Made as written but flattened the breasts to each be the same size for even cooking. 
+This tasted like summer. Will make this again. 
+Possibly next time I might cut my breasts into strips and bake into chicken fingers. Thanks for the recipie.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-21T19:00:29.69
+helpfulCount:
+1
+userID:
+706870
+Display Name:
+SHENDOAH
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+68
+favoritesCount:
+752
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We've made this twice now. To keep it GF, we use Cassava flour instead of wheat flour.  We also use boneless skinless thighs instead. Always use coconut oil or other appropriate high heat oil. Olive oil should not be heated to this degree. 
+
+The first time, we made this in the skillet as the recipe called for.  Trying to get the chicken all the way cooked resulted in a burnt disaster for both chicken and pan. The chicken was cooked, the coating burnt, the pan burnt.
+
+Not one to give up, we made it again, but this time, we cooked it in an oven safe skillet for 3 minutes a side to brown the coating, then finished it in a 350° oven for 30 minutes.  This was perfect. We had a nice crunchy coating, and moist completely cooked chicken. We'll make it again, oven finishing it.
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-26T00:16:31.933
+helpfulCount:
+0
+userID:
+21860087
+Display Name:
+Stacey Marie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4561869.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The chicken was very tasty but the flour and coconut flakes became much thicker than expected. The chicken tenders took a very long time to cook through. I ended up scrapping most of the flour/coconut mixture off. I sprinkled uncooked coconut flakes over top and dipped in sour cream :)

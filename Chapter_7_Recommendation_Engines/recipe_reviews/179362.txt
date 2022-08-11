@@ -1,0 +1,107 @@
+Recipe number:
+179362.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-22T13:50:05.867
+helpfulCount:
+1
+userID:
+336641
+Display Name:
+joyfulmotherof5
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+784
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/62630.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No, this is not a 'standard' pumpkin pie and thus, does not taste like one! It is, however, quick, tasty and unique. It has a lightness to it. My children love to make this pie, as they can do it all by themselves.
+Review:
+Rating:
+1
+dateLastModified:
+2008-12-12T23:49:49.71
+helpfulCount:
+0
+userID:
+3131287
+Display Name:
+Red Hat Gal
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/119219.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry, the bisquick mix ruined it for me.  This was not to my liking.  It just didn't seem like REAL pumpkin pie to me.
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-29T15:07:46.187
+helpfulCount:
+0
+userID:
+3338442
+Display Name:
+nouveau cuisinier
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was the first pie I have ever made! It was Impossibly Easy!! I liked it because it wasn't too pumpkiny. Everybody had seconds..I'll take that as they thought it was pretty tasty. thanks for the recipe ; )

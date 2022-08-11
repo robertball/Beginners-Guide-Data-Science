@@ -1,0 +1,37 @@
+Recipe number:
+23707.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-02-28T11:47:37.757
+helpfulCount:
+1
+userID:
+2684509
+Display Name:
+Annmarie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple, easy and tasty.  I enjoyed it.

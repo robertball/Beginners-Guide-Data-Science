@@ -1,0 +1,72 @@
+Recipe number:
+230937.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-09-27T22:22:10.34
+helpfulCount:
+1
+userID:
+13957032
+Display Name:
+Mark Kelly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1277761.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very nasty. Will not make again or recommend. I think it was the Zesty Italian dressing, but this was just nasty. possibly substituting cream of mushroom or cream of chicken soup instead of Zesty Italian dressing would work.
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-28T12:06:20.203
+helpfulCount:
+0
+userID:
+6774903
+Display Name:
+Merrily Long Cundiff
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+1203
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made my own chicken broth and sauted onions, leeks and garlic to give it more flavor and add more veggies. It was yummy! I will make it again.

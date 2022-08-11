@@ -1,0 +1,107 @@
+Recipe number:
+218540.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-07T17:45:04.017
+helpfulCount:
+11
+userID:
+9111787
+Display Name:
+Lana
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+light flaky dough. I used the dough to make poppy seed rolls, came out perfect. Thanks for a wonderful light yeast based pastry dough recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-04T03:56:11.503
+helpfulCount:
+1
+userID:
+21052420
+Display Name:
+Robert Foster
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4341711.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic recipe! A true taste of home! I used raw sugar for the sprinkles on the outside before baking and made my filling with strawberries, sugar and simple syrup.
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-20T19:52:28.58
+helpfulCount:
+1
+userID:
+14751918
+Display Name:
+Maria Kaftanovskaya
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1727891.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I dissolved the yeast as per recipe and added the rest of the dough ingredients all at the same time. I used one complete egg, not the egg yolk, regular sugar, and did not use 2 full glasses of flower. I left some flower out, otherwise the dough would be too thick. I let the dough rise only once. The result was perfect! Great recipe! Thank you!

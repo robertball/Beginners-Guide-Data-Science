@@ -1,0 +1,37 @@
+Recipe number:
+257045.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-02T01:36:03.08
+helpfulCount:
+0
+userID:
+24713363
+Display Name:
+Scarlet Frost
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6097904.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Even though I am not a huge fan of bananas both me and my mom love this recipe!

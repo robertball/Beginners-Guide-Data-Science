@@ -1,0 +1,107 @@
+Recipe number:
+236542.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-15T21:02:02.983
+helpfulCount:
+1
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was searching for a recipe that used peanut butter and had an Allstar suggest this recipe. I elected to use sesame oil, and only used 1/2 tsp of the chile paste. These two are the only changes I made. This recipe is NOT for the faint of heart! It **IS** spicy, but very good! The yogurt lends a cooling touch, but it will still bring a lot of heat! The only improvement I can think of would be to add some julienned carrots, and maybe some snow peas. Overall it is a great recipe, but lacks the deep Asian notes I was searching for.
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-23T09:42:04.12
+helpfulCount:
+1
+userID:
+4057833
+Display Name:
+Paula Yeager
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+124
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was easy and an elegant meal to serve at a dinner party.  The garnish of cilantro, yogurt and peanuts was especially tasty and pleasing to the eyes!
+Review:
+Rating:
+3
+dateLastModified:
+2019-08-13T11:16:43.423
+helpfulCount:
+0
+userID:
+3071308
+Display Name:
+Joy Ballard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7193565.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was pretty good. I think it needs more flavors. I think next time I'll add more peanut butter.

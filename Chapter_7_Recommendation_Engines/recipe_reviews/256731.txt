@@ -1,0 +1,107 @@
+Recipe number:
+256731.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-22T21:02:55.69
+helpfulCount:
+4
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6705
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2557
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not quite sure about detox but this is healthy and flavorful. The thyme is a bit over whelming so I recommend using 1/4 teaspoon.
+Review:
+Rating:
+5
+dateLastModified:
+2020-08-17T11:58:37.83
+helpfulCount:
+0
+userID:
+2603680
+Display Name:
+Christi Cunningham Martinez
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1306006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so delicious!  Even my kids devoured it. Not very pretty but so very tasty! I added some shredded chicken I made in the instant pot with just chicken stock and cut up carrots. My son made garlic bread to go along with it, which made this meal feel complete. It definitely went away from the intent of being a detox soup but kept a family meal filling and healthy. We will be making this one again!
+Review:
+Rating:
+5
+dateLastModified:
+2020-03-23T21:49:51.463
+helpfulCount:
+0
+userID:
+16304475
+Display Name:
+Erica Pappalardo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+486
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3089447.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It might not be much to look at but it is SO yummy!  Thank you for sharing. I made as is with no substitutions and I recommend you do the same!

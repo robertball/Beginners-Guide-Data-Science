@@ -1,0 +1,78 @@
+Recipe number:
+275241.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-30T02:51:30.987
+helpfulCount:
+1
+userID:
+12535303
+Display Name:
+Davand
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these today. We thought they were very good. I liked the dates, chocolate flavors with the Bite of chocolate chips and a little cinnamon.   A soft cookie and chewy.  I thought the flavors were great. 
+
+I thought they were sweet enough without the adding sugar. 
+
+I  used pecans because I was short of walnuts and I didn’t want to go to the store. 
+
+I will make them again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-15T23:43:40.087
+helpfulCount:
+0
+userID:
+3177622
+Display Name:
+Tracy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+140
+favoritesCount:
+1283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My daughter liked them very much, as they aren't quite as sweet as other cookies.

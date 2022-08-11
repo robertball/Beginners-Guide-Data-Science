@@ -1,0 +1,37 @@
+Recipe number:
+265110.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-02T15:53:43.613
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Carne Asada is probably my favorite meal and this one didn't disappoint. I made this for company that was visiting and everyone went back for seconds.  Excellent recipe and 5 stars all the way!

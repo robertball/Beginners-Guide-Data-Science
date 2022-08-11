@@ -1,0 +1,72 @@
+Recipe number:
+223113.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-22T20:26:55.353
+helpfulCount:
+2
+userID:
+7850163
+Display Name:
+Rachel Hutchinson
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+87
+favoritesCount:
+182
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4234172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would give it 5 stars because the carrots give it a sweet flavor that most babies like. However, 20 minutes is about half the time it takes for carrots to soften. Where as broccoli does not take as long as carrots to soften. I would not steam these together again. Do carrots and then broccoli and then blend them together.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-22T21:38:01.1
+helpfulCount:
+1
+userID:
+12591447
+Display Name:
+tcasa
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+776
+favoritesCount:
+1497
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2386212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A great recipe for baby and my little one seemed to like it. The carrots did take more than 20 minutes, more like 40. I steamed the carrots & broccoli separate. I thinned out the recipe using water. This recipe makes a lot so I am definitely freezing some for later. I am going to add some vanilla and cinnamon for added flavor to some of the freezer batches I prepare. Other spices can be used as well but please check with your Pediatrican.

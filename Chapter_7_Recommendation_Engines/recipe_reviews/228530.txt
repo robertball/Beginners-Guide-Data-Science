@@ -1,0 +1,107 @@
+Recipe number:
+228530.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-11-26T20:45:14.597
+helpfulCount:
+1
+userID:
+12491358
+Display Name:
+TriciaE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+WE used this recipe last Thanksgiving.  We all enjoyed it. We have tried others This is easy and great.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-29T09:44:44.623
+helpfulCount:
+0
+userID:
+15559425
+Display Name:
+Ryno's mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice crispy brown skin and flavorful.  My grill unfortunately didn't get hot enough. Turkey temp maxed at 140 degrees, so had to transfer to oven.
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-28T20:18:39.347
+helpfulCount:
+0
+userID:
+12457830
+Display Name:
+Ambrin Mclean
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1183032.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So great got tons of compliments told it was the best Turkey ever

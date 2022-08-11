@@ -1,0 +1,37 @@
+Recipe number:
+220135.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-10T20:00:43.983
+helpfulCount:
+0
+userID:
+7001478
+Display Name:
+Susan MacFarland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a delicious and creative wrap.  I love the recipe for the raspberry dressing and I just happen to have it from the store in a spray bottle.  It is great for this recipe and I recommend adding walnuts, almonds or pecans to this wrap.  Cooking the tortillas is essential to the flavor of this wrap and it makes the wrap more pliable.

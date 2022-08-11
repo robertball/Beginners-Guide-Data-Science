@@ -1,0 +1,37 @@
+Recipe number:
+256182.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-03T13:19:03.653
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Albeit the ingredients may seem like all other types of nut milk, this recipe has a twist in method that deserves your attention. My dates were fresh and plump, not dry at all. I considered skipping the soaking method but wanted to try the recipe properly. I am so happy I did. In an hour, the dates had broken down and this resulted in a smoother texture in the final milk. Excellent idea, great recipe. Thank you for sharing it with us.

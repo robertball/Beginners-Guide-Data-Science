@@ -1,0 +1,72 @@
+Recipe number:
+260548.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-08T16:58:34.387
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2214
+favoritesCount:
+2558
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not add the raisins, instead I topped the blintzes with assorted fruit and whipped cream.  It made a delicious late morning meal.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-30T01:50:53.803
+helpfulCount:
+0
+userID:
+24841146
+Display Name:
+Joshua Patterson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6190810.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made this twice now. Great, simple delicious!

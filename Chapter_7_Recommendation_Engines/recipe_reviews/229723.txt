@@ -1,0 +1,37 @@
+Recipe number:
+229723.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-16T19:08:40.6
+helpfulCount:
+0
+userID:
+5967945
+Display Name:
+LadyE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/640289.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not the prettiest cookie, but super easy and delicious!  I used Vanilla Caramel flavor instant cappuccino (rather than plain) and followed all other ingredients as described except caramel topping.  The topping probably would've added a nice extra layer of flavor and prettier look, but they were delicious without it (my local store didn't carry that flavor magic shell).  Will definitely make these again and possibly use for holiday gifts next year for coffee lovers!

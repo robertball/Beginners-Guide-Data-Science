@@ -1,0 +1,107 @@
+Recipe number:
+217161.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-07T17:24:46.13
+helpfulCount:
+9
+userID:
+1138320
+Display Name:
+Corinne Brown Deaton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7439510.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fantastic! I did have to add more milk since it was so thick. Next time I won't drain the veggies to maybe thin it out a little and keep that great flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-26T17:25:47.287
+helpfulCount:
+6
+userID:
+3508548
+Display Name:
+Elle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My whole family enjoyed this! The only change I will make next time is to use about 1/4 of the onion called for in the recipe.  Definitely a keeper! Oh and we used biscuits instead of English muffins since that's what I had on hand.  This recipe was a "jazzed up" version of the creamed eggs on toast I always enjoyed as a kid.  Thank you for this addition to my recipe box!
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-30T07:48:51.26
+helpfulCount:
+5
+userID:
+3534814
+Display Name:
+Kim C.
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+172
+favoritesCount:
+142
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this!  It was very thick, but soooo good over muffins!  I didn't have bell pepper so left it out.  MMMM!

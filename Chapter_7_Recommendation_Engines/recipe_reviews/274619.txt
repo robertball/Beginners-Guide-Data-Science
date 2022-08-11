@@ -1,0 +1,38 @@
+Recipe number:
+274619.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-08T00:36:08.967
+helpfulCount:
+0
+userID:
+10011740
+Display Name:
+ewefluffy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+556
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful! Ridiculously Easy ! 
+I seasoned the beef with 1\2 of the Ramen seasoning  before dropping it in.

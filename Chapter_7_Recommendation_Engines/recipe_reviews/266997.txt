@@ -1,0 +1,37 @@
+Recipe number:
+266997.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-03T23:51:11.12
+helpfulCount:
+1
+userID:
+15831509
+Display Name:
+Joan Gibson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5831283.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I suggest reducing the white wine vinegar otherwise it’s too bitey.  It overwhelms all the other wonderful flavors.  Also, my nectarines seemed under ripe. They were very tough and lacked sweetness. I will definitely make this again regularly, but will use peaches instead.

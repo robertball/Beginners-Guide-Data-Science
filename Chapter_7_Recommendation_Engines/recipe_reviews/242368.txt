@@ -1,0 +1,107 @@
+Recipe number:
+242368.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-23T09:17:35.65
+helpfulCount:
+3
+userID:
+10183452
+Display Name:
+Darren C Lay
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+360
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1252561.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These ribs rate towards the top! No wrapping ribs in foil here, and you must  mist the ribs with Apple Juice regularly to prevent them from drying out. I suggest you keep a fire chimney going with hot coals in order to be able to add Hot Coals as required in this recipe. Takes dedication and time, but it's worth it! (I keep an ice chest with cold drinks and a radio outside so I can enjoy the Cook...)
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-16T19:35:21.59
+helpfulCount:
+2
+userID:
+5430208
+Display Name:
+hdavis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+206
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family could not eat these fast enough. Wonderful recipe!!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-22T04:08:27.32
+helpfulCount:
+2
+userID:
+20070796
+Display Name:
+Sarita Ruth
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3795142.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time cooking ribs. Followed the recipe and made no changes. My family loved it.

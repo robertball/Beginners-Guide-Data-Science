@@ -1,0 +1,72 @@
+Recipe number:
+262148.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-22T20:31:55.66
+helpfulCount:
+0
+userID:
+6453525
+Display Name:
+Galron
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The soup was very tasty. Enjoyed it very much.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-09T09:13:38.573
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you have ever scorched split pea soup, this is the recipe for you. I followed the notes and added an extra bit of water but I also made this at 7500 ft, so my cooking time was messed up. The soup was thick enough but not too much. It was full of flavor and never scorched. I added other fresh veggies and used chana dahl (split yellow peas). I also used Sriracha instead of ketchup. Thank you, Dan in Manhattan,  for the recipe.

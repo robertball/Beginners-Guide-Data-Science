@@ -1,0 +1,37 @@
+Recipe number:
+238065.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-08-08T10:15:13.93
+helpfulCount:
+1
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1033
+favoritesCount:
+1845
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was really excited to try this but definitely underwhelmed by the results.  I've tried making sweet/spicy nuts before with Splenda with poor results and was hoping this recipe would be different, but it's not.  Splenda just doesn't get all syrupy like sugar does in order to coat the nuts and you wind up with a lightly flavored bunch of toasted nuts and a bunch of unmelted Splenda all over the pan that hasn't stuck to them.  Won't be making again, but the results are edible this time.

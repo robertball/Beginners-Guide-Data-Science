@@ -1,0 +1,72 @@
+Recipe number:
+63177.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-03-09T16:59:28.937
+helpfulCount:
+8
+userID:
+294060
+Display Name:
+Patti Rose
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+148
+favoritesCount:
+1258
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2756615.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This wasn't bad, just not as good as I thought it would be.  I love all the ingredients so I guessed that I would love them all together.  I didn't.
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-09T18:45:31.92
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2460
+favoritesCount:
+2263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except the tiny shrimp were more expensive than small shrimp so I used small shrimp instead. Loved this except that I thought it needed a sprinkle of salt or vinegar based pepper sauce such as Frank's or Louisiana Hot Sauce. I also recommend using fresh cilantro. I will make this again with a couple of tweaks.

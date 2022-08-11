@@ -1,0 +1,107 @@
+Recipe number:
+263606.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-21T12:27:30.9
+helpfulCount:
+9
+userID:
+8490810
+Display Name:
+maryb5124
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6600460.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've tried making spaghetti sauce a few times in the instant pot. This recipe was my favorite so far (and the only one my kids didn't complain tasted "weird"). The only thing I changed was using fresh basil, and I added about a teaspoon of sugar.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-01T20:11:36.807
+helpfulCount:
+2
+userID:
+24309501
+Display Name:
+Becky Clements
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5812773.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this recipe w all the tomatoes left from my garden.  Romas, cherry, grape tomatoes.  Pretty much followed the recipe, but didn't use celery (preference) and didn't have Italian seasoning.  Added about 1/2 teaspoon red pepper flakes and 1/2 cup red wine.  Delish!  So easy.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-01T22:11:05.59
+helpfulCount:
+0
+userID:
+10908673
+Display Name:
+Delores Wilson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+3763
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1600155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A tasty base sauce, can be made in a normal pressure cooker just as well.

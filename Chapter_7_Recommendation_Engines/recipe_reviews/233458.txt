@@ -1,0 +1,107 @@
+Recipe number:
+233458.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-07-27T16:31:18.4
+helpfulCount:
+1
+userID:
+2754713
+Display Name:
+Scott M.
+isPro:
+False
+followersCount:
+28
+followingCount:
+0
+madeRecipesCount:
+124
+favoritesCount:
+162
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1026562.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe as written.  There is a lot of egg, so the bites were like little omelets to me.  The onion flavor was really strong; the swiss and parm flavors were very subtle.  Pepper jack might be a good fit for this recipe.  Overall, these were just OK to me.
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-10T18:30:56.16
+helpfulCount:
+0
+userID:
+15736076
+Display Name:
+Ann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made these with mozzarella instead of swiss and fresh basil because I already had it on hand.  Got great reviews at the gathering I took them to! Might try it with almond or coconut flour instead of breadcrumbs next time to make it grain free.
+Review:
+Rating:
+3
+dateLastModified:
+2013-08-07T16:19:12.757
+helpfulCount:
+0
+userID:
+844886
+Display Name:
+It's A New Day
+isPro:
+False
+followersCount:
+288
+followingCount:
+0
+madeRecipesCount:
+450
+favoritesCount:
+522
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/615239.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I halved this recipe and ended up with 12 "bites".  I had some swiss cheese to use up and several zucchini thanks to a generous neighbor.  I had to use regular French onion soup mix and I'm not sure if that made a difference in the taste but these tasted "off" to me.  It was something different to use zucchini in but I'm not sure I'd make them again.

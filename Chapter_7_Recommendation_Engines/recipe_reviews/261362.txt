@@ -1,0 +1,37 @@
+Recipe number:
+261362.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-07T01:28:57.953
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this was a nice change from the tomato based Mexican rices. The hubs gave it a thumbs up too. The only one problem I had is that there wasn't enough liquid and it didn't get cooked all the way through. Next time I'll add 2 cups of water instead. Easy fix.

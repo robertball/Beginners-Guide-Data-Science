@@ -1,0 +1,185 @@
+Recipe number:
+13280.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-05-12T19:39:37.003
+helpfulCount:
+12
+userID:
+68282
+Display Name:
+KENULIA
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very hearty! Very tasty!  Made it for a potluck and received rave reviews.  The description indicates that it is even better the next day.  It is delicious the next day BUT the noodles no longer have their texture, which is disappointing.  Overall, we loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2005-06-07T05:45:00.78
+helpfulCount:
+7
+userID:
+1404227
+Display Name:
+Nora Long
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2335129.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very good bean soup and I've tried a lot.  My family loves beans and knowing that 6 servings would not do for the 4 of us, I doubled the recipe.  I read the review that says the soup is better the next day.  Next time I make it, I'll have to triple it to even have any leftovers to check that out.
+Review:
+Rating:
+4
+dateLastModified:
+2007-02-05T10:56:24.287
+helpfulCount:
+6
+userID:
+1670819
+Display Name:
+Pam Buffel
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3128074.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this recipe while doing an ingredients search. I had to modify it so I could use what we had in the pantry. It came out very yummy and the whole family -- including kids who don't like beans in anything but chili -- asked me to make it again. 
+
+I had only sausage links, so I sliced those and used them. 
+
+Great Northern Beans are very dfficult to find here, so I used canned beans with tomato sauce. 
+
+There was no spinach pasta to be found and so I added corn kernels. Unlike pasta, the corn stayed firm for leftovers the next day. 
+
+Great, modifiable recipe. Thank you.
+Review:
+Rating:
+5
+dateLastModified:
+2006-02-08T08:04:30.89
+helpfulCount:
+2
+userID:
+866302
+Display Name:
+KOOCH80
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+223
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added hot venison sausage and it turned out great
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-30T11:25:35.927
+helpfulCount:
+0
+userID:
+5404074
+Display Name:
+stephsaylot
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious!  I used 2 cans of minestrone and half a jar of spaghetti sauce along with all the other ingredients.  My family loved it!

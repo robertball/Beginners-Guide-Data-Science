@@ -1,0 +1,72 @@
+Recipe number:
+255349.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-24T02:00:06.323
+helpfulCount:
+0
+userID:
+22646573
+Display Name:
+Shannon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wanted something lite and easy to make. Originally thought my husband would hate. The only change I made was spicy Italian sausage. Was a  breeze to make and my husband devoured it. He also said it's a keeper.
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-22T03:28:09.163
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I left out the butter. It wasn't needed. Good recipe and one I would make again.

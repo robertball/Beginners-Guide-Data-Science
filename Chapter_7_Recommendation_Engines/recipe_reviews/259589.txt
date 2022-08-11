@@ -1,0 +1,72 @@
+Recipe number:
+259589.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-09T13:20:15.387
+helpfulCount:
+0
+userID:
+2614084
+Display Name:
+Linda Streit
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4828164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes better than it looks!  Great way to get a serving of veggies.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-15T21:43:08.96
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My blueberries were frozen so I left out the ice. I found it wasn't sweet enough so I added 2 packets of Truvia. You definitely need a powerful blender to make this smoothie. It was tasty but not something I would make very often.

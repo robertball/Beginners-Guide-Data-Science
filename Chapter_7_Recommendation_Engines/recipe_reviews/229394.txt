@@ -1,0 +1,72 @@
+Recipe number:
+229394.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-05T20:16:54.247
+helpfulCount:
+1
+userID:
+6145350
+Display Name:
+Molly
+isPro:
+False
+followersCount:
+687
+followingCount:
+0
+madeRecipesCount:
+1465
+favoritesCount:
+4453
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2426420.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+12-02-15~ Wonderful salad! The one change I made to this recipe was to use the mandarin orange juice in place of the cold water. Figured there was no sense wasting the juice. It turned out perfect and we all loved the taste of the two fruits included in the dish. We are big fans of gelatin dishes, so I know we will be having this one again.
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-04T12:39:45.91
+helpfulCount:
+1
+userID:
+3338908
+Display Name:
+Faith N
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+301
+favoritesCount:
+1853
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7789547.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very similar to a dish my mom would make a lot for holidays. She would use pineapple instead of grapefruit and top with marshmallows and cheddar cheese. I really liked this version with grapefruit!

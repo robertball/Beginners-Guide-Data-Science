@@ -1,0 +1,37 @@
+Recipe number:
+268694.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-29T16:45:13.697
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out pretty good except that it was swimming in grease. I recommend reducing the butter by quite a bit. I'm still giving this 4 stars for the creativity in using hash brown patties. Make sure they are completely thawed to reduce excess moisture.

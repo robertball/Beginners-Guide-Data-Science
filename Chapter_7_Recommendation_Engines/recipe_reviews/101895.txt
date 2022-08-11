@@ -1,0 +1,37 @@
+Recipe number:
+101895.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-03-24T16:13:42.75
+helpfulCount:
+25
+userID:
+2229072
+Display Name:
+lindsayaileen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/28128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+WOW! This beer is amazing! Super smooth and mild with a wonderful malty flavor and even finish. Lightly hoppy and not bitter at all. We opened this after only 5 days in bottle and it was already very flavorful and well developed. Can't wait to see how it is in a few more weeks!

@@ -1,0 +1,107 @@
+Recipe number:
+238418.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-07-22T13:15:49.997
+helpfulCount:
+3
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked the flavor of this. More than the almond butter I have ground at the stores in the machines. I don't have an oster blender, so I put it in my Vitamix. I tested this recipe, because I liked that it didn't have a bunch of added oil. Be very careful, though, because it goes from almond butter, with perfectly fine visible almond bits, to an almost almond paste or candy chunks like stage. I suppose it is from the agave? It is equally tasty, but not so spreadable. I would love to know what other liquids people add, to get it perfectly smooth and stay that consistency. Unfortunately, in the fridge it thickened even more. I can't imagine not refrigerating the leftovers though. So, after the first use on bread I ended up using what was left as a substitute for granola in parfaits. That worked perfect as granola gets boring after awhile. It would have worked fine too thrown into smoothies for extra fiber and protein in the recipes calling for nuts.
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-03T17:05:23.153
+helpfulCount:
+0
+userID:
+8362636
+Display Name:
+colettes66
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's a little too thick
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-18T10:21:26.207
+helpfulCount:
+0
+userID:
+16019924
+Display Name:
+shay smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Kerrmans salted Irish butter instead and a heaping T of honey as well! Delicious

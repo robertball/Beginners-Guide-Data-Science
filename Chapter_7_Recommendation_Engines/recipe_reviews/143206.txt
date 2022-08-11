@@ -1,0 +1,38 @@
+Recipe number:
+143206.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-07T22:42:18.347
+helpfulCount:
+5
+userID:
+1652057
+Display Name:
+Seattle2Sydney
+isPro:
+False
+followersCount:
+86
+followingCount:
+0
+madeRecipesCount:
+225
+favoritesCount:
+258
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good healthy jello alternative. Everyone in the family ate it but some of us were unsure whether we liked the addition of celery or not. It was an interesting flavor but I'd probably replace it with some other fruit next time or completely leave it out.
+One big change - I wouldn't leave the mixture to chill 20 minutes before adding the fruit. I only left it a few minutes at room temperature, and by the time I was adding the grapes (which I added last) I could tell it was already starting to set.

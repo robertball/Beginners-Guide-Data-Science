@@ -1,0 +1,37 @@
+Recipe number:
+262970.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-02T23:48:27.023
+helpfulCount:
+1
+userID:
+22197172
+Display Name:
+rachelc
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely positively delicious! Reminds me Puffy Tacos, but majorly upgraded. Super flavorful and crispy with an addictive crunch. Great just by themselves, even better with any filling you like.

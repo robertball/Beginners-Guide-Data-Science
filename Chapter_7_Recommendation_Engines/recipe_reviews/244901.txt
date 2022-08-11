@@ -1,0 +1,37 @@
+Recipe number:
+244901.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-01-03T12:34:25.063
+helpfulCount:
+1
+userID:
+8397887
+Display Name:
+BarbFlowers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+460
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tried this for my sewing group and didn't go over very well.  Texture was just a little different and pumpkin didn't seem to be completely done.  Tasted good, but the ladies said they didn't like the texture.

@@ -1,0 +1,72 @@
+Recipe number:
+237728.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-10T15:07:44.16
+helpfulCount:
+0
+userID:
+3808074
+Display Name:
+Laura
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+177
+favoritesCount:
+224
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/533437.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just delicious. I didn't have lemon so I just used a little more vanilla in the cheese as well as more sugar and it was great. I also don't own a little torch so I put it under the broiler for a few seconds. However that didn't harden the sugar because the cheese started melting before the sugar crystallized. No matter. It tasted amazing anyway. Will make this again. I wish I had taken a picture because it looked so nice.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-02T15:43:18.807
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a great dessert! I made the shortcakes from "Buttermilk Strawberry Shortcake" (also from this site), and used frozen strawberries and blueberries (as that's what I had on hand). It turned out delicious! I can only imagine how good it would be using fresh berries! The mascarpone/brulee really puts this over the top. Would make this again in a heartbeat!

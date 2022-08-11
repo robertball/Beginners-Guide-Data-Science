@@ -1,0 +1,37 @@
+Recipe number:
+254759.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-29T03:07:36.113
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought these were really delicious.  I added two things,, almonds because to me it isnt a cookie without nuts and I drizzled it with chocolate. The lavender was a nice taste and my house smelled wonderful. They were easy to make and the alternative flours were not overly heavy nor bitter.. glad I found a recipe to use them up in

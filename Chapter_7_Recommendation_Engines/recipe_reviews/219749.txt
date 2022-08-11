@@ -1,0 +1,223 @@
+Recipe number:
+219749.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-12T11:18:17.22
+helpfulCount:
+7
+userID:
+328951
+Display Name:
+Jennifer Baker
+isPro:
+False
+followersCount:
+9972
+followingCount:
+0
+madeRecipesCount:
+330
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3605993.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic and my kids went crazy!  We don't get snow in NC often, so I'm sure this chocolate snow cream created a special memory for them.  Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2014-01-29T11:54:16.827
+helpfulCount:
+4
+userID:
+13043875
+Display Name:
+Christina Weiss
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4328806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great variation! Easy to make. Kids loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-07T17:22:43.73
+helpfulCount:
+1
+userID:
+21227539
+Display Name:
+Ashley Lane Shanlever
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4432605.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good and very easy!  We all loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-22T11:51:12.17
+helpfulCount:
+1
+userID:
+12331920
+Display Name:
+marianne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+143
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-21T01:27:35.603
+helpfulCount:
+0
+userID:
+8028754
+Display Name:
+algilmore
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/736457.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made Snow Ice Cream for 50 years. My changes:
+1. Use only white snow.
+2. I used to make this in Northern Vermont. The outside temperature should be 0-20F.
+3. For the liquid component, use Half-and-Half instead of condensed milk. Condensed or Evaporated Milk transfer a canned taste to the mixture. Use regular cane sugar, no Corn syrup. Molasses and Maple syrup are each  desirable to add sweetness.
+Add a pinch of salt to the mixture.
+4. Put all the liquid ingredients in a plastic bowl, snow in a separate bowl. Set bowls back outside and look for surface of the liquid mix to start making needle-like crystals on the surface. That part should only take a few minutes. The chilling of the liquid ingredients is important!
+5. When you are ready for the final step have a spatula and heavy wisk ready to go.
+6. Scrape the liquid bowl into the snow bowl with the spatula and fold the liquid into the snow. Use the whisk if needed to finish up the blending.
+7. If the mixture begins to turn soupy, set the mixing bowl outside again and wait for the mixture to harden a bit. 
+8. Ready to serve (quickly)! Four to six servings is about the maximum to handle at once!
+
+It may be a bit difficult the first time you try, but after you've tweaking the mixture to your liking, go ahead ahead with extra garnishes like fruits, nuts, berries, candy chips, etc.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-17T19:23:19.14
+helpfulCount:
+0
+userID:
+10681086
+Display Name:
+Arrowtograce
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+easy to make and tastes great!

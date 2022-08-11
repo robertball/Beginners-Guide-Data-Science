@@ -1,0 +1,37 @@
+Recipe number:
+233869.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-01T19:48:01.257
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty. I was unable to find bison sausage, so I used ground bison and added some spices. Next time I will add more.. unless I can find the sausage

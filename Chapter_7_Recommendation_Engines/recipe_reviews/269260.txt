@@ -1,0 +1,37 @@
+Recipe number:
+269260.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-11T03:07:18.75
+helpfulCount:
+0
+userID:
+14718932
+Display Name:
+Laila Shoukri
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+6072
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5580741.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very refreshing

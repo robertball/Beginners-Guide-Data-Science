@@ -1,0 +1,111 @@
+Recipe number:
+110270.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-08-06T18:43:27.107
+helpfulCount:
+16
+userID:
+2413853
+Display Name:
+DannyBoy
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/44721.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This bread is really just delicious.  I substituted honey for the sugar, and butter for the shortening and it came out great.  You lose the refined sugar and the trans fats that way. It's a really nice, mildly sweet bread that will be great for breakfast-type uses.
+
+I also added a little more caraway because this recipe makes FOUR loaves, not two.  12 cups of flour seemed like an awful lot but I diligently followed the recipe, and ended up with a TON of dough.
+
+Also, the recipe is missing a key direction: when to add the activated yeast to the other ingredients!  I mixed the raisins, flour, and caraway separately. Then I added the yeast to the water/molasses/honey/butter mixture just before adding the flour mixture in parts.  So I can recommend doing it that way, because it worked for me!
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-19T16:21:23.897
+helpfulCount:
+2
+userID:
+2906739
+Display Name:
+CookinCyn
+isPro:
+False
+followersCount:
+196
+followingCount:
+0
+madeRecipesCount:
+112
+favoritesCount:
+292
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2244417.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a very good, flavorful raisin bread.  I adjusted the amount to yield one loaf to see if we were going to like it (you can do this by clicking on Change Settings above the list of ingredients).  I let the bread machine take care of the dough part.  It rose beautifully in the loaf pan.  My only criticism is the bake time is way off, so keep an eye on it.  It could be because I had only one loaf baking in the oven.  This loaf was perfect in 30 minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-21T13:35:36.823
+helpfulCount:
+0
+userID:
+6777951
+Display Name:
+Always cooking
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+758
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5894865.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very large, firm bread. I didn't use caraway since I didn't have any. It tastes great. I freeze it in bagged slices so my husband can grab one out the door on his way to work for breakfast. Freezes well.

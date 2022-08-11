@@ -1,0 +1,72 @@
+Recipe number:
+275698.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-14T05:02:22.673
+helpfulCount:
+1
+userID:
+23795906
+Display Name:
+elizabeth richardson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5450538.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My mom used to make this cake every year from my birthday as a child, it is still my favorite.  NO ONE makes it like she does!
+Review:
+Rating:
+1
+dateLastModified:
+2020-02-18T14:39:23.373
+helpfulCount:
+0
+userID:
+27038776
+Display Name:
+Becca
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to start again with a different recipe. The brown sugar completely ruined the texture and made it as dense as a brick. I whipped the brown sugar and butter until it was as light as possible but the use of only brown sugar is definitely to blame. The basic ermine frosting recipe is fine though, classic ratios!

@@ -1,0 +1,72 @@
+Recipe number:
+247286.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-03T14:43:46.11
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2275
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't care for grits but made these for my husband and he gave me the thumbs up. I didn't see the cook's notes until after the fact but I will use milk next time for a creamier consistency. According to the husband, wasabi was a great addition to grits.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-18T00:08:28.973
+helpfulCount:
+0
+userID:
+4552495
+Display Name:
+charm
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+1467
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6040593.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is such a good idea!  I did have to add some salt, but these are really spectacular.  I served them with lamb chops and vegetables.  Marvelous.

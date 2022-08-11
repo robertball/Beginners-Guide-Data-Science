@@ -1,0 +1,37 @@
+Recipe number:
+165148.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-10-02T09:04:16.593
+helpfulCount:
+7
+userID:
+816763
+Display Name:
+OCEANJULI
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/190.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Good but not great.  They were neither chocolately nor marshmallowy . . .kind of in-between.  I'm not sure what the point is in adding chocolate to the mix. Why not use cocoa rice krispies and save yourself some work?  I think the next time I want a chocolately rice krispie bar, I will look for a recipe where there are chips inside it or a chocolate coating on top rather than the chocolate being mixed all the way through.

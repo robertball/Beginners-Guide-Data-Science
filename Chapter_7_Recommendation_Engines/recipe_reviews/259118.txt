@@ -1,0 +1,72 @@
+Recipe number:
+259118.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-27T03:55:31.3
+helpfulCount:
+0
+userID:
+25006616
+Display Name:
+Adam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No substitutions, makes a great appetizer, definitely not a stand alone soup.
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-17T00:56:18.51
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and delish! I used shiitake mushrooms instead of portobello for two reasons. I had a can in my pantry and it just seemed to fit better. The recipe calls for cooked chicken but if vegan you can use tofu instead. I used both. I had some in the freezer leftover from another recipe and thought, why not? This turned out really good. Simple flavors but good. If you like some heat like I do, give your bowl a generous squirt of Sriracha. I don't have much experience with miso paste but this recipe makes me want to start experimenting with it more. Thanks for sharing!

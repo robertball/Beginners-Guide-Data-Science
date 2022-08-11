@@ -1,0 +1,72 @@
+Recipe number:
+239202.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-09-19T23:35:05.753
+helpfulCount:
+3
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I suggest adding some cinnamon and extra flour to the recipe but other just a minor adjustment they baked out well!
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-11T22:24:28.767
+helpfulCount:
+0
+userID:
+853482
+Display Name:
+SweetBasil
+isPro:
+False
+followersCount:
+75
+followingCount:
+0
+madeRecipesCount:
+837
+favoritesCount:
+1386
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/240475.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Taste delicious, but next time I will add a little more flour. I made 1" balls, did not flatten before baking, and they spread quite thin, almost like a lace cookie. (Baked 7-8 min) Be sure to cool in the pan 3-5 min before moving to racks.

@@ -1,0 +1,107 @@
+Recipe number:
+246299.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-03T18:02:47.357
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+480
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was  yummy.. good basic recipe that can be jazzed up or kept as is.. Only change I made was cooking the meat and veggies together.. I didn't see the point of using two pans
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-18T22:16:35.743
+helpfulCount:
+0
+userID:
+21487118
+Display Name:
+Skirts
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+94
+favoritesCount:
+418
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6630884.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious.  My adult daughter who knows a good chicken cheesesteak said this was really good!  Thanks for this recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-13T01:24:07.51
+helpfulCount:
+0
+userID:
+6664482
+Display Name:
+Mandy Marie Phillips
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1775505.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I leave out the onions and peppers for the kids. Once I serve them I add peppers in. We make this at least once a week! Super quick and delicious!

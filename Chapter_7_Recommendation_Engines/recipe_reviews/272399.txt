@@ -1,0 +1,37 @@
+Recipe number:
+272399.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-01T15:36:02.047
+helpfulCount:
+0
+userID:
+3678246
+Display Name:
+Marvels51
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2562487.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out so flavorful, tender and juicy.  The skin was attractively browned in my Instant Pot Air Fryer attachment.  I did cook them about 5 minutes longer on each side because they were very plump bone-in, skin-on thighs.  I was out of green onion.

@@ -1,0 +1,37 @@
+Recipe number:
+276867.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-24T12:42:13.61
+helpfulCount:
+0
+userID:
+25359419
+Display Name:
+Authentic foodie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6491029.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Instead of chicken breasts, i put shrimps. It tastes good too.

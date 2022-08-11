@@ -1,0 +1,72 @@
+Recipe number:
+89034.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-10-29T12:39:40.18
+helpfulCount:
+12
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+243
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I scaled the recipe down to 3 servings, and used one orange as I didn't want that particular flavor to overwhelm the others. I marinaded the steak overnight, and it turned out great - very tender and flavorful. Thanks, Sandy!
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-18T14:24:13.15
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out really good. I didn't have 8 hours to marinate so I can only imagine how much better it would have been if I did. I was worried about the orange overwhelming the other flavors but it didn't. Instead of discarding the marinade, I put it in a small saucepan (minus the orange slices) and let it reduce into a sauce for dipping. Good recipe and one I would make again.

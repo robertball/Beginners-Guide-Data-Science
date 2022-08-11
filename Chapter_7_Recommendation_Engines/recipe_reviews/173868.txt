@@ -1,0 +1,72 @@
+Recipe number:
+173868.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-10-14T09:02:30.053
+helpfulCount:
+2
+userID:
+3134764
+Display Name:
+Cindy D.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+424
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/228725.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make this same sandwich-yummy!  To make it 5 stars, use a really good artisan bread and put in in the panini press for a few minutes...gooey brie is the best!  Also, I skip the mayo, but that's just personal preference.
+Review:
+Rating:
+4
+dateLastModified:
+2008-10-22T13:27:03.367
+helpfulCount:
+0
+userID:
+2539799
+Display Name:
+kTd86
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+267
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/124073.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a delicious concept! I made quite a few changes to suit my husband and my's tastes. Instead of bread I used flour tortillas, used only green apples (I also cut them thicker so that the crunch was bigger), and I omitted the mayo and lettuce in favor of thin slices of mild cheddar. I then fried it up in a pan with some butter. YUM!

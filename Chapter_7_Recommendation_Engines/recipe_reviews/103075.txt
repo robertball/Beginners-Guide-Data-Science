@@ -1,0 +1,72 @@
+Recipe number:
+103075.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-04-04T17:44:56.467
+helpfulCount:
+1
+userID:
+1054472
+Display Name:
+ROOKIE COOKIE
+isPro:
+False
+followersCount:
+28
+followingCount:
+0
+madeRecipesCount:
+374
+favoritesCount:
+606
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6310.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a small jar of mushrooms that I subed and that may have made the sauce a little to thin. It seemed a little bland and needed more spices.
+Review:
+Rating:
+4
+dateLastModified:
+2007-04-25T08:27:15.293
+helpfulCount:
+0
+userID:
+1750087
+Display Name:
+Elaine E
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I expected this to have more taste.

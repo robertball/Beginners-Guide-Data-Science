@@ -1,0 +1,72 @@
+Recipe number:
+246651.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-19T04:06:39.67
+helpfulCount:
+1
+userID:
+22312938
+Display Name:
+Vivian
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe offered me hope in gluten free, delicious cookies.  Without a doubt the recipe will be revisited. Tried leaving out chips but immediately added as the chips add moisture.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-19T23:59:33.463
+helpfulCount:
+1
+userID:
+16674560
+Display Name:
+Bob Gipson
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+355
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4707934.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good cookies. I used parchment paper on the baking sheet instead of cooking spray and still turned out great. Thanks.

@@ -1,0 +1,37 @@
+Recipe number:
+268817.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-23T20:16:24.12
+helpfulCount:
+0
+userID:
+6997856
+Display Name:
+Angela
+isPro:
+False
+followersCount:
+39
+followingCount:
+0
+madeRecipesCount:
+69
+favoritesCount:
+925
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2414.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This "Easy Vegan Polenta" is a good standard recipe for polenta. The garlic powder was a nice touch. I made mine smooth with my immersion blender, as always.  I made: (i) this exact recipe; and (ii) an adapted version of this recipe with: EVOO instead of margarine, minced hot pepper, and flecks of fresh rosemary in season. I liked the adapted version better.  Thank you chefcs for sharing your recipe.

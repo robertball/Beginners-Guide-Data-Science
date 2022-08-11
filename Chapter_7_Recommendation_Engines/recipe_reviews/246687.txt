@@ -1,0 +1,37 @@
+Recipe number:
+246687.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-07T03:35:55.61
+helpfulCount:
+0
+userID:
+10880414
+Display Name:
+Tpies
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+150
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make it again.  The recipe was easy to follow.  This was delicious.  I omitted the butter and the clam juice.  I also added red pepper flakes, which gave it a little more zest.

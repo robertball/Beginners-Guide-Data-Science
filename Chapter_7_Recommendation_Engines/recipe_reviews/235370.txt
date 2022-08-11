@@ -1,0 +1,142 @@
+Recipe number:
+235370.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-01T18:01:36.657
+helpfulCount:
+3
+userID:
+11816582
+Display Name:
+Arlene Music
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+154
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2571916.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is probably the best pulled pork I've had and I have made a few! I had a 7 lb. pork shoulder to use,cooked it using 1 box of unsalted chicken stock in slow cooker. I used the spice rub minus the flour searing it on all sides per instructions for 8 hours on high. We used Dave's bbq sauce from this site(warm)on the side. Pork was delicious with sauce only the top of the sandwiches. Best spice rub ever!
+Review:
+Rating:
+4
+dateLastModified:
+2014-02-26T20:22:56.8
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty. I didn't find this very spicy at all and I am a spice wimp most of the time. Next time I'll up the hot sauce and/ or cayenne. It wasn't very sweet which was a nice change from the usual pulled pork
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-30T14:16:45.513
+helpfulCount:
+0
+userID:
+13871869
+Display Name:
+Ed Morris
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1228248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wanted to go a little lighter on the heat so I substituted Red Pepper Flakes for Cayenne Pepper.  Turned out great.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-05T23:12:09.237
+helpfulCount:
+0
+userID:
+17227116
+Display Name:
+Michael Hayes
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5103421.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't take to long getting all together and browning outside. 30-45 min with sauce time. Before tossing in crock pot.      Everyone loved it.   Cooked side by side with another.  So family taste tested and approved recipe is a keeper.

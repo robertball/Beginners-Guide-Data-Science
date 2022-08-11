@@ -1,0 +1,37 @@
+Recipe number:
+255608.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-25T13:41:45.007
+helpfulCount:
+2
+userID:
+20680206
+Display Name:
+Bobette Giorgi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4102476.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They're delicious, but the white chocolate chips all fell to the bottom of my brownie pan, making it a horrible mess to clean. I suggest making the batter, pouring it into the pan, and then adding the cranberries and chips, gently pushing them in to just cover them with the batter.  (I omitted the dried cranberries.)

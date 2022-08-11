@@ -1,0 +1,107 @@
+Recipe number:
+260848.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-09T15:18:15.42
+helpfulCount:
+1
+userID:
+23444609
+Display Name:
+Wayne Plaisted
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5467114.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They came out awesome easy to do quite Tasty .
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-25T23:32:28.7
+helpfulCount:
+0
+userID:
+11360859
+Display Name:
+Sandra Mahan
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3238846.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+NO
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-12T02:44:35.443
+helpfulCount:
+0
+userID:
+2175240
+Display Name:
+debbie eckstein
+isPro:
+False
+followersCount:
+168
+followingCount:
+0
+madeRecipesCount:
+158
+favoritesCount:
+1117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4505093.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i was kind of confused when i finished this recipe. i was expecting a different flavour, but when it turned out to be a pork cutlet i was a tad disappointed. Don't get me wrong. These are delicious! I think i over-thought it a bit and was expecting something different. I re-read the title and it was an ah-ha moment, because it is just what it says it  is.  a crispy fried pork cutlet. The addition of soy sauce to the egg mixture is was also a little confusing to me, in that it didn't really impart any flavour, even though i double the soy sauce. All in all, this is a very tasty dish.

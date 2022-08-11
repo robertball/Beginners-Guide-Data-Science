@@ -1,0 +1,37 @@
+Recipe number:
+218667.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-08-14T04:44:09.517
+helpfulCount:
+16
+userID:
+3333873
+Display Name:
+Jennifer Goguen Fortin
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1848292.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out great..at first I was worried because it looked like there were too much fruit compared to the dry ingredients..(i cut the recipe down to 6 using the calculator provided bye allrecipes, so maybe that is why)However they turned out nice! Thank you for an easy quick recipe..p.s. so hot here i even cooked them on the bbq outside this morning and they raised nice and were moist :-)

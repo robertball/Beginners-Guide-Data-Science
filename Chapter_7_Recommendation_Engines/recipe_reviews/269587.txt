@@ -1,0 +1,37 @@
+Recipe number:
+269587.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-12T15:14:12.097
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9658
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and while I loved the addition of Old Bay, I did not love the texture. It was more like bread. If I were to make again, I'd lose the flour and just use bread crumbs.

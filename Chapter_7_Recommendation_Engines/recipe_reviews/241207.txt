@@ -1,0 +1,107 @@
+Recipe number:
+241207.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-14T13:29:54.43
+helpfulCount:
+1
+userID:
+8005857
+Display Name:
+Just Tabitha & me
+isPro:
+False
+followersCount:
+47
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+2042
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3083078.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is excellent, with no changes!  I'm going through a "bread baking" stage lately, much to my friends & neighbors delight!  Please keep in mind that your soda & baking powder loose potency after about a year after opening.  If you have any problems with bread (or baked goods of ANY kind), check the dates on the containers.  I use markers to put date opened on bottom of can or bottle of powder or baking soda, & throw away after a year.  Most professional food service do this.  HTH!!!      Blessings!
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-24T18:46:55.35
+helpfulCount:
+0
+userID:
+2366197
+Display Name:
+Jody H.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really like the texture of this wonderfully simple recipe.  I made this bread without the raisins in deference to the picky person in my household and I used a multigrain flour because that's what I had in the cupboard. We did find it a bit sweet, so next time I'll try a bit less sugar.
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-22T12:18:16.99
+helpfulCount:
+0
+userID:
+3381469
+Display Name:
+gidgette
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/151859.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This Irish Soda Bread is excellent. Easy and quick to make, and delicious! The inside is very moist, and the crunchy part on the outside is excellent! I first soaked the raisins (I used golden raisins) in very hot water to plump them up. It was the perfect amount of raisins. It was probably the best Soda Bread I've ever had. Thanks for posting.

@@ -1,0 +1,107 @@
+Recipe number:
+240660.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-12T02:48:49.883
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2275
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This would have been great but partially burnt it what I would guess was the last 30 minutes. I made as written and since you do not stir until the end, I can only guess where it went wrong. Everything looked and smelled fine but I did notice a stronger scent in the last 30 minutes and I think that is where the problem was. The little bit of chocolate that melted all the way down in that short time burnt and stuck to the bottom of the crockpot along with the peanuts that were touching in that spot. I'm still giving it 4 stars. I recommend no longer than 2 1/2 hours. Honestly if I were to attempt this again, I 'd go ahead and stir at the 2 hour mark and go from there if needed.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-12T20:41:54.117
+helpfulCount:
+1
+userID:
+3557322
+Display Name:
+Mary Ann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+153
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used the chocolate almond bark and think it's incredible. And makes a huge batch. I make it every year at Christmas.
+Review:
+Rating:
+1
+dateLastModified:
+2015-05-02T01:03:54.15
+helpfulCount:
+1
+userID:
+15607503
+Display Name:
+Kelly Bakers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a total waste of time it didn't even taste good

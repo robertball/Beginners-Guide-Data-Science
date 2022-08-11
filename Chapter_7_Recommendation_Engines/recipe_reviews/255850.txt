@@ -1,0 +1,37 @@
+Recipe number:
+255850.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-15T17:13:11.827
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This had a lot of different things going on but it turned out pretty good. It was definitely spicy so if you are sensitive to heat I'd cut back on the red pepper flakes. I left out the optional peanuts and mint. You've got to move pretty fast once you get started so I recommend having everything measured out and ready before you start.

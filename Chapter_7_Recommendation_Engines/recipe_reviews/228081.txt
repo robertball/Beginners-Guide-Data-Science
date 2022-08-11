@@ -1,0 +1,107 @@
+Recipe number:
+228081.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-14T11:11:10.383
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12224
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very easy and tasty salsa.  Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-19T11:40:02.69
+helpfulCount:
+0
+userID:
+13390360
+Display Name:
+keeper
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+75
+favoritesCount:
+131
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1115101.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good, I go to Mexico every year and this is good
+Review:
+Rating:
+3
+dateLastModified:
+2013-03-05T12:24:00.34
+helpfulCount:
+0
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow, this salsa is HOT! a little bit of a kick is an understatement. I don't normally associate jalepenos and chipotle peppers as being hot either. Also, my salsa was thick and kind of pasty like. I never saw that with salsa. I am starting to think that Paleo recipes don't include salt. This one didn't have it either. I am going to have to modify this somehow or blend it with another recipe to thin it out and cut back on the heat. I am giving it 3 stars, because I think I can manage something out of this to be able to eat it. I am just not a hot foods person, I guess.

@@ -1,0 +1,72 @@
+Recipe number:
+263600.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-20T15:00:37.49
+helpfulCount:
+0
+userID:
+24843424
+Display Name:
+Brent Freeman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6192365.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe got a  burn notice with about 10 seconds left of the 1 minute pressure cook, so turned it of and quick released.  turned out fine.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-20T17:16:48.417
+helpfulCount:
+0
+userID:
+11185990
+Display Name:
+TWheeler
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1000288.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very flavorful. Used traditional sauce instead of marinara for less sugar and a mix of baby kale/spinach/chard.

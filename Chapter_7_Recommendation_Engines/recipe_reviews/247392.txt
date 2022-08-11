@@ -1,0 +1,142 @@
+Recipe number:
+247392.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-24T02:29:37.29
+helpfulCount:
+2
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I couldn't find brown sugar and cinnamon flavored cream cheese anywhere  so I improvised.  Bought an 8oz block of 33% less fat cream cheese and mixed in 3T brown sugar and about 1/3 tsp of cinnamon.  Voilà.....perfect!  Followed the recipe as stated, except for the nuts.  At first it tastes overwhelmingly of cream cheese.  Just let it hang out for an hour or two in your fridge and it will mellow.  Oh, and after you let it mellow, THEN add your nuts, otherwise their texture changes.  Everyone loved it!
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-31T01:00:54.633
+helpfulCount:
+0
+userID:
+21064622
+Display Name:
+Rose Rosenzweig
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7207589.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it for a work luncheon....everyone LOVED it!!  It was delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-12T02:11:29.517
+helpfulCount:
+0
+userID:
+2959215
+Display Name:
+grammy frizzell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2585103.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for a dinner party as an appetizer, No one could  stop eating
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-24T00:02:12.003
+helpfulCount:
+0
+userID:
+1750265
+Display Name:
+Kristen Flowers
+isPro:
+False
+followersCount:
+77
+followingCount:
+0
+madeRecipesCount:
+80
+favoritesCount:
+226
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1741015.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Veganized this with vegan cream cheese, vegan yogurt, and vegan coco whip. Left out the pecans bc I didn't have any and added cinnamon and coconut sugar. Nice quick dip. I didn't let it set in the fridge so mine was softer but still good.

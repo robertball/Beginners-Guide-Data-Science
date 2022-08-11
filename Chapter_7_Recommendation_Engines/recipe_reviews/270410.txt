@@ -1,0 +1,72 @@
+Recipe number:
+270410.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-17T18:35:47.947
+helpfulCount:
+0
+userID:
+20351814
+Display Name:
+jayna lou
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The quiche part was fantastic - the sweet potato on the bottom was a bit too sweet for our taste. Will “savory up” the sweet potato part next time.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-04T15:54:52.517
+helpfulCount:
+0
+userID:
+25247973
+Display Name:
+vicky C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everyone loved this and it was perfect for my daughter who is gluten free!  I used lima beans, fresh corn and spinach.  I didn't use mascarpone bc I didn't have it on hand so I used jack cheese, cheddar and any other kind I could find, 6 eggs and half and half and baked it in a greased 8 x 8 pan. for an hour.  It was delicious hot or room temp.  Should have taken a pic because it was picture perfect!

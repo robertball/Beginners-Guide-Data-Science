@@ -1,0 +1,72 @@
+Recipe number:
+275057.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-12T04:54:39.2
+helpfulCount:
+0
+userID:
+11976264
+Display Name:
+Camilla C. Hudson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent party shots!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-04T12:17:55.443
+helpfulCount:
+0
+userID:
+2051360
+Display Name:
+Micki
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+1363
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/489288.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an awesome party or summer treat by the pool!  Give it a try you won't be sorry unless you have to many!

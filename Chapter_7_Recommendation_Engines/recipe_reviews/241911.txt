@@ -1,0 +1,72 @@
+Recipe number:
+241911.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-01T14:00:10.787
+helpfulCount:
+3
+userID:
+4443011
+Display Name:
+makokiller
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am the one who submitted this recipe. Not sure why it doesn’t say to make the loafs, then let rise again. The website changed up my recipe. Also do not over bake this! Also, the first rise should only take 1 to 2 hours, not 3 to 4.
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-17T06:19:11.907
+helpfulCount:
+1
+userID:
+8055240
+Display Name:
+Sarah Bowdidge
+isPro:
+False
+followersCount:
+22
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2001833.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe.  Moist and really good.  It would be great with or without the glaze.  I recommend letting the bread cool before eating it, and letting the glaze set, or the texture is a bit too moist (like a quick bread). That said, it's hard to resist warm bread.

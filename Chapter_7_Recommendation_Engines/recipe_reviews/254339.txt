@@ -1,0 +1,143 @@
+Recipe number:
+254339.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-14T21:43:49.417
+helpfulCount:
+0
+userID:
+9967037
+Display Name:
+Cathy Abramson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+241
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Except to lick the spoon, I haven't tried it yet but it tasted good.  I made 24, so it was a long afternoon in the kitchen.  The only substitution was a cup of sour cream instead of the 4th can of condensed cream.  It took 2 pounds of key limes.  Even with an electric juicer, it was time consuming.
+They are cooling as we speak, so whipped cream and raspberries will go on tomorrow.  These are going to an end of summer, birthday boat party and it is hot as blue blazes.  My plan is to freeze them overnight then top and put in a cooler right before we leave.  Wish me luck!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-16T04:23:57.367
+helpfulCount:
+0
+userID:
+24995885
+Display Name:
+Austynne E.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6297233.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+THIS WAS SO GOOD!!!! i will for sure make it again!! i added a pinch more lime zest, and it turned out perfect. baked the crust for 15 mins. try this recipe out! you won't regret it!
+Review:
+Rating:
+2
+dateLastModified:
+2017-09-25T08:54:22.55
+helpfulCount:
+0
+userID:
+22472899
+Display Name:
+Niclas Anderström
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Did not have any distinct taste as I had hoped for. Will not do again.
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-17T22:52:43.21
+helpfulCount:
+0
+userID:
+1598858
+Display Name:
+MariaTheSoaper
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1556291.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are devilishly delicious.. they are yummy and easy to make and in the jars, its portable!

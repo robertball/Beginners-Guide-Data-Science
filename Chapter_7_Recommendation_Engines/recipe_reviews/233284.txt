@@ -1,0 +1,37 @@
+Recipe number:
+233284.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-11T06:02:42.92
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not sure what I did wrong or if it was fault of the recipe? The brown sugar on its own does not melt. I tried to recover and added butter to the mix which seemed to help "melt" but it turned the sugar into brittle. Taste was great but I had issues with technique. User error maybe? You be the judge...

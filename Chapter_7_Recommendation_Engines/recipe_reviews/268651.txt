@@ -1,0 +1,326 @@
+Recipe number:
+268651.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-15T16:40:42.55
+helpfulCount:
+8
+userID:
+12045827
+Display Name:
+Kym
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Someone asked what cranberry beans are. I had to look them up. They can be substituted with pinto beans. 
+I make a recipe similar to this and it is delish ! Im not sure about the amount of oregano though, that would be a bit to metallic of a taste for my liking. I will definitely try this recipe soon.
+here is a link to cranberry beans
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-15T03:38:39.84
+helpfulCount:
+5
+userID:
+1686040
+Display Name:
+Road Tripper
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+215
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1212585.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Please tell me what cranberry beans are.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-18T16:00:43.637
+helpfulCount:
+2
+userID:
+9246227
+Display Name:
+manella
+isPro:
+False
+followersCount:
+169
+followingCount:
+0
+madeRecipesCount:
+343
+favoritesCount:
+1307
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6603558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious soup. I don’t have a pressure cooker so I made this on top of the stove.
+I could not find dried cranberry beans, so I subbed red kidney beans.I also cut back on the oregano, used 1 tablespoon, which worked for us.
+I did not add the elbow pasta, I cook it separate from the soup and add it to the bowl then add the soup.
+The aroma of this cooking was wonderful and made my kitchen smell so very good. Reminded me of my mom’s kitchen growing up..I did not add the cheese(dietary issues)
+Will definitely make this again.
+Thank you  Buckwheat Queen for  this delicious recipe.
+November 18/ 2018
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-15T00:37:35.563
+helpfulCount:
+2
+userID:
+24508187
+Display Name:
+carmen gizzi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5947538.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My grandma, being from Italy made this. It's just awesome. The taste is fantastic.  I made it myself and my family loves it.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-10T04:14:00.483
+helpfulCount:
+1
+userID:
+15295587
+Display Name:
+Sarah Karen Intagliato
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2025273.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't have zucchini used more carrots and used regular pasta
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-30T22:53:26.14
+helpfulCount:
+1
+userID:
+8220531
+Display Name:
+Connie Horner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+374
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2093616.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup was good but I expected more after reading the 5 star reviews. I did make a few changes as recommended in a couple of reviews. I used Cannelli Beans instead of the Crandberry and back on the oregano. The taste was just average to me.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-20T03:34:20.14
+helpfulCount:
+1
+userID:
+6522010
+Display Name:
+Cookie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+877
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, perfect cold weather soup!  Made a few minor changes:  Used drained canned cannelloni beans  and diced butternut squash had on hand  instead of pumpkin.  Also and added a can of fire roasted diced tomatoes. and cooked up regular elbow pasta, have no problem with gluten.  Will be making this often.
+Thanks
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-19T00:05:00.253
+helpfulCount:
+1
+userID:
+22885120
+Display Name:
+webdoggy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6987845.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe. Followed it exactly. The whole family loved it.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-09T18:23:48.137
+helpfulCount:
+0
+userID:
+14553880
+Display Name:
+Steve Brown
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful.  I made this for dinner and woke up the next morning thinking about it.  I followed the recipe exactly.

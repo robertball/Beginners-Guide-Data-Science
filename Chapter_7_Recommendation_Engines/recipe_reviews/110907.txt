@@ -1,0 +1,37 @@
+Recipe number:
+110907.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-08-06T16:42:35.487
+helpfulCount:
+4
+userID:
+7459488
+Display Name:
+jagette
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe had me at hello - The name is very clever. THe blueberries, however, seemed to overwhelm the taste of the cherries and the oranges.  This is fine if you are extending a recipe - but I was hoping for one where you could taste all the flavors.  I added more cherries, 1 TBSP fresh ginger (thinking Asian, as suggested by the Mandarin), and some orange zest. I never would have thought of the pairings on my own, so think Chef RachtheBach is talented.

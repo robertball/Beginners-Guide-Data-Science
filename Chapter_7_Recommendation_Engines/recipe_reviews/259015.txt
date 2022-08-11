@@ -1,0 +1,37 @@
+Recipe number:
+259015.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-06T18:26:18.223
+helpfulCount:
+1
+userID:
+7694259
+Display Name:
+brykate
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+552
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3954090.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!! Love the spices. I've made it using 4 cans of cut up biscuits; it worked but could use bit more caramel sauce for all the bread. Use all the chai sugar mixture!! Yum!

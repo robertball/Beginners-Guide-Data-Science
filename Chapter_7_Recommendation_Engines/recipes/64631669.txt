@@ -1,0 +1,30 @@
+URL:
+https://www.allrecipes.com/personal-recipe/64631669/test/
+Title:
+test Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+test
+
+Directions:
+test
+
+Submitter: 
+debbie eckstein
+Description: 
+test
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+123
+Ready in:
+123
+Number of servings: 
+123
+Nutritional Facts:
+NA

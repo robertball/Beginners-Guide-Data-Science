@@ -1,0 +1,37 @@
+Recipe number:
+230191.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-31T03:43:49.83
+helpfulCount:
+0
+userID:
+4287799
+Display Name:
+Ingrid York
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time cooking a $100 piece of cow...this was awesome.  Did 8.75lbs for like 20 people.  Carved it more for small sandwiches, it was a hit!  My family loved it and the sauce.

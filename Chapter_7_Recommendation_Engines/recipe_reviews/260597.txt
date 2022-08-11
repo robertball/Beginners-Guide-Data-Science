@@ -1,0 +1,38 @@
+Recipe number:
+260597.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-02T15:34:34.787
+helpfulCount:
+1
+userID:
+9246227
+Display Name:
+manella
+isPro:
+False
+followersCount:
+168
+followingCount:
+0
+madeRecipesCount:
+343
+favoritesCount:
+1301
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6603558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for breakfast this morning, minus the bacon. I also used Goat Cheese (dairy issues)i really liked this. 
+Thank you for the recipe.

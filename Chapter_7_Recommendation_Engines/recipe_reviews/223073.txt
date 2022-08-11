@@ -1,0 +1,108 @@
+Recipe number:
+223073.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-08T05:05:44.683
+helpfulCount:
+2
+userID:
+12560184
+Display Name:
+Andrea Z
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was searching for a recipe for grilled char. This looked easy and healthy so decided to give it a try.  As hoped for, it was simple and easy and more importantly, very tasty.  The only substantive comment I would make is that the instructions say to start cooking the arctic char with the skin face up.  Based on many other recipes I also read before picking this one, all the others started with the skin face down and that is how I prepared it.   Another thing: I decided not to drizzle the recommended 2 teaspoons of extra virgin olive oil over the greens after everything was done.  I didn't feel it needed it.  One last thing:  I did not have mango on hand, but the strawberries and roasted pecans were delicious on their own, along with the char.  Winner for a quick, easy, healthy and tasty way to prepared grilled arctic char
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-30T01:30:54.477
+helpfulCount:
+0
+userID:
+13519637
+Display Name:
+john fulton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4093806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to make, delicious!
+Added a chipotle mango seasoning to the fish before frying.  Added a little fresh Tyme and Tarragon to top off ghe salad and a tbs of the leftover lemon sauce to top the fish.
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-26T10:09:24.01
+helpfulCount:
+0
+userID:
+2971281
+Display Name:
+Shelley Wigh
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1947868.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe for someone who was new to fish. Fabulous taste!   Made again and again and again!

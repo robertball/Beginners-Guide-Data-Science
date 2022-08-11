@@ -1,0 +1,37 @@
+Recipe number:
+215508.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-01-19T18:14:38.083
+helpfulCount:
+1
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So this site wouldn't let me edit my previous review, so I am posting a second review. When I initially made this, I forgot the parmesan. The next day, I took the left overs and blended them in the food processor, along with the parm to make it into a spread that I ate on crackers. I don't know if it was the parm, the sitting overnight so the flavors blended better, pureeing it, or the addition of the cracker flavor, but it was really good this way!

@@ -1,0 +1,37 @@
+Recipe number:
+257542.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-27T01:25:03.607
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out good. A little bland but zucchini always is in my opinion. To be sure the hubs would eat them I knew I had to make them extra crispy. I double dipped them and then also flipped them often in the end spaying non stick spray with each flip. Crispy indeed! I served them with marinara for dipping because that just made more sense to me.

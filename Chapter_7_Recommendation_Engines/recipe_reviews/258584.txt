@@ -1,0 +1,107 @@
+Recipe number:
+258584.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-10-11T03:50:16.06
+helpfulCount:
+0
+userID:
+6394678
+Display Name:
+Linda Tynon
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+155
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1609792.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oops.  More info here.  Other than lack of directions, there is also lack of flavor.  Pepper, sausage, couscous, onion, salt, squash all quite bland both alone and in this.   So, a really good bland mix of a couple things and kind of mealy texture with couscous and squash.  That’s how it hit my pallet.  The sausage was good, and would be fine alone but that’s just a heat-up item from the store
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-18T01:11:19.393
+helpfulCount:
+0
+userID:
+865689
+Display Name:
+KRAYEZ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the recipe, although I felt like it could more creamy.  I used this recipe for chicken sausage:  : https://www.tasteofhome.com/recipes/chicken-sausage-patties.   And I only had quinoa.  But i still liked it
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-01T03:34:16.26
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty recipe... just need a couple of tweaks for my taste.  I would recommend cooking the sausage first on the stovetop along with the green peppers.  The green peppers, even though a small dice really never got tender and the sausage texture would benefit from some browning I think.. and would add some flavor.

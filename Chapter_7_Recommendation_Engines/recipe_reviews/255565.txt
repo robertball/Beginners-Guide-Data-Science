@@ -1,0 +1,72 @@
+Recipe number:
+255565.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-15T18:55:10.863
+helpfulCount:
+2
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12266
+followingCount:
+0
+madeRecipesCount:
+1000
+favoritesCount:
+2673
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made my own pizza dough instead of the pre-baked one.  This makes plenty of sauce for a couple of pizzas.  I did add some other veggies, thinly sliced zucchini, onions and a few mushrooms.  I will also admit to using full fat ingredients so it wasn't too guilt free, but it was pretty darned tasty.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-18T19:38:06.717
+helpfulCount:
+0
+userID:
+6024278
+Display Name:
+chefstef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5981279.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tested my new cast iron pizza pan using this recipe. It turned out fantastic! We loved it. I had some ground chicken which had been browned already so that was the meat. Other than that, no modifications to the recipe.

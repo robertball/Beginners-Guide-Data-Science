@@ -1,0 +1,37 @@
+Recipe number:
+270863.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-28T23:38:53.187
+helpfulCount:
+0
+userID:
+17784280
+Display Name:
+Tony Rynearson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+198
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6453597.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Changed this one up just a little and used twice the cheese, and had enough chicken to double the numbers of tortillas. Made a little extra sauce. Finely chopped a medium onion and mixed it in withe the cheese. Put half the cheese inside the enchiladas and the other half on top. Would have given it the fifth star but I used the lime and I’m not that big a lime fan. Will make it again (without the lime).

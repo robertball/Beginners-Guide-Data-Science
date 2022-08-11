@@ -1,0 +1,72 @@
+Recipe number:
+254329.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-02T17:44:11.17
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There should be a law against these! They are downright sinful! These are a bit of time and fuss but SO worth it in the end. The only bad thing I have to say about the recipe is that you end up with half of the filling leftover. So on that note I would either cut it in half or buy 2 boxes of shells. I promise you will get rave reviews from all you serve these to.
+Review:
+Rating:
+3
+dateLastModified:
+2016-11-17T16:01:51.367
+helpfulCount:
+1
+userID:
+12101087
+Display Name:
+kdblum
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+511
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4576728.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was the most time consuming appetizer I have ever made.  No way would I ever make it again, takes FOREVER to stuff the noodles, and if don't do it perfectly, the noodle splits and you start all over.  The same thing with frying the noodles after freezing, if the noodle too cold, hard to cut, if the noodle too soft, impossible to deep-fry.  Frying was standing over the noodle watching carefully because it burns fast. HUGE messes to clean up too.  Has to be an easier way...

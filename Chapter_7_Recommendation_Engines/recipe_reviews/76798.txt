@@ -1,0 +1,295 @@
+Recipe number:
+76798.txt
+Review:
+Rating:
+1
+dateLastModified:
+2004-11-26T16:45:52.827
+helpfulCount:
+20
+userID:
+1245052
+Display Name:
+JERZIGERL
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was a very strange substance.  extremely strong and didn't have any caramel taste to it at all.  I was expect something more sweet than strong...definatly something to be drinking if you were looking to get buzzed not a social drink.
+Review:
+Rating:
+1
+dateLastModified:
+2005-10-25T12:28:30.997
+helpfulCount:
+15
+userID:
+384956
+Display Name:
+caliboo
+isPro:
+False
+followersCount:
+68
+followingCount:
+0
+madeRecipesCount:
+294
+favoritesCount:
+880
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/359216.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+How can this be called a caramel martini when the only caramel is on the glass, not mixed in the drink?  This is really not very good, and we won't make them again.
+Review:
+Rating:
+1
+dateLastModified:
+2008-09-05T07:52:56.247
+helpfulCount:
+11
+userID:
+3072976
+Display Name:
+Elle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It does not have a caramel taste because the vanilla vodka dominates.  the correct way should go as follows:  
+
+Caramel apple martini:
+1 granny smith apple sliced paper thin - float in marting glass.
+1 martini shaker
+2 jiggers premium vodka
+2 jiggers vanilla vodka 
+1.5 jigger butter schnapps 
+1/2 jigger apple pucker
+1 jigger cranberry juice
+
+always taste before serving and adjust flavors to your liking. 
+
+if you want a sugar rim i recommend melting a few carmels, ligtly dip your martini glass in the caramel sauce and than dip in sugar or splenda.
+Review:
+Rating:
+3
+dateLastModified:
+2012-05-12T14:38:04.657
+helpfulCount:
+5
+userID:
+6549646
+Display Name:
+Angela Sackett Superhotmama
+isPro:
+False
+followersCount:
+195
+followingCount:
+0
+madeRecipesCount:
+112
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2406088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i actually liked this.  it looks cloudy, so it's not super pretty, and i was hesitant about the tea, and really, the whole recipe, after reading the reviews..  having said that, it actually tastes good, and i'm not a real "hard liquor" person.
+Review:
+Rating:
+1
+dateLastModified:
+2007-10-27T14:34:35.433
+helpfulCount:
+5
+userID:
+2548668
+Display Name:
+lau57
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+234
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too strong.  Won't make again.  It might be better if you use equal amounts of vodka and butterscotch schnapps and maybe double the amount of iced tea.
+Review:
+Rating:
+1
+dateLastModified:
+2009-10-23T17:39:36.247
+helpfulCount:
+3
+userID:
+3652947
+Display Name:
+Allrecipes Cook
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4030385.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for this recipe.
+Review:
+Rating:
+2
+dateLastModified:
+2014-07-17T18:41:34.703
+helpfulCount:
+1
+userID:
+13931766
+Display Name:
+Anne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+a MUCH better recipe uses Caramel Kissed Vodka, Baileys Irish Cream - Caramel flavored, and the Caramel Ice Cream Topping - mix as above and pour. ABSOLUTELY DELICIOUS!
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-04T13:00:48.713
+helpfulCount:
+1
+userID:
+1805734
+Display Name:
+JosieDahling
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5960624.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had this in a bar but they called it "sugar cookie martini" not caramel and it didn't have the caramel sauce.  I liked it though.

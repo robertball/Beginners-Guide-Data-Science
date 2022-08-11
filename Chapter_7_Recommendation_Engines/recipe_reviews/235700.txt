@@ -1,0 +1,72 @@
+Recipe number:
+235700.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-29T16:06:49.103
+helpfulCount:
+0
+userID:
+5518161
+Display Name:
+Mkr
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy, tasty and brought lots of compliments from my relatives after the Christmas Day dinner because it was so refreshing.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-27T20:08:06.74
+helpfulCount:
+0
+userID:
+1579215
+Display Name:
+Corinne W
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+193
+favoritesCount:
+334
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4799786.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved how easy this recipe was compared to other peppermint pie recipes I've tried.  I crushed soft peppermint candies rather than candy canes (I don't like the way bits of candy cane get stuck in my teeth) and put a layer of dark chocolate syrup in the middle of the layers as well as on the top.  Everyone at the party loved it!

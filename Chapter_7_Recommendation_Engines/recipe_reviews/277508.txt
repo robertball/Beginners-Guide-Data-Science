@@ -1,0 +1,72 @@
+Recipe number:
+277508.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-16T17:37:17.71
+helpfulCount:
+1
+userID:
+11085430
+Display Name:
+Gail
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am a caramel lover, so for taste I rated this recipe at 5 stars. However, If possible to rate a recipe for more than one attribute, consistency would have been rated lower.  When I removed the cookies from the oven, they looked like cookies.  After  cooling on the pans for 5 minutes or so, they melted right into very tasty, chewy pancakes. For that reason we ate them. I even added another half cup of flour to the batter that remained after baking two pans, but no luck. If you're looking for a more conventional type of cookie, this one isn't for you. I have to wonder if there isn't a mistake in the flour measurement.  I will try again and add at least another cup of flour.  Another change I may try would be to dissolve instant coffee in a smaller amount of water,  say 1/8 cup, to see if that helps.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-21T18:44:35.093
+helpfulCount:
+0
+userID:
+1957567
+Display Name:
+Sharon Dyson-Demers
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+59
+favoritesCount:
+1008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2737224.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I appreciate you liking the flavors of the cookies and you are absolutely right about the cookies being very delicate. My husband loved them so I haven't played around with the cookie texture but will do so the next time I'm baking. Thank you for trying and reviewing!!!

@@ -1,0 +1,41 @@
+Recipe number:
+50359.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-11-16T19:48:39.99
+helpfulCount:
+22
+userID:
+2153003
+Display Name:
+Cass
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My godmother is German and her potato salad is a little different.
+potato's
+Egg Mayo - has to be tangy not sweet.
+dill cucumbers -NOT pickled as they have to be sour not sweet.
+and some bacon... top with spring onions....

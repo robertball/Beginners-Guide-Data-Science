@@ -1,0 +1,72 @@
+Recipe number:
+246163.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-05T04:45:58.1
+helpfulCount:
+0
+userID:
+10687738
+Display Name:
+R&R
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+99
+favoritesCount:
+782
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2389599.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would definitely make these potatoes again! Absolutely delicious. I did leave out the orange and basil because I didn't have them on hand. I microwaved the potatoes instead of steaming. I also added paprika and chile flakes.
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-21T07:49:32.23
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9644
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2252
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I left out the optional orange sauce and also left the skins on the potatoes but other than that I made as written. These were a little heavy on the basil for me but other than that I have no complaints. I did have trouble with the potatoes sticking in the final cooking process but that might have been due to me leaving the skins on. I think you could easily speed up the process by nuking the potatoes in the microwave for 6 minutes or so instead of steaming. All in all good flavor and one I will make again with a little less basil.

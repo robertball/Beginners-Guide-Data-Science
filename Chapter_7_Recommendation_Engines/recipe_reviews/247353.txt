@@ -1,0 +1,107 @@
+Recipe number:
+247353.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-16T11:22:57.747
+helpfulCount:
+0
+userID:
+12731525
+Display Name:
+Philip
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out way better keeping on wire rack while in oven. Took way less time and actually thoroughly derided. Love this recipe
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-12T22:05:13.917
+helpfulCount:
+0
+userID:
+21631682
+Display Name:
+Colleen McGraw
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i did jazz it up with a tablespoon of Chile/Lime Salt and 2 tsp of crushed ginger...Added some real zing...Good Job !Dylan
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-22T02:18:30.347
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9644
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2252
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good but it lacked something to me. It needs more heat to cut the fishiness of salmon but that is just my opinion. Good recipe but I would add some red chile flakes next time. Maybe even replace the rock salt with garlic salt? Good but I think with some tweaks it could be even better. Still a fun recipe and one I will make again!

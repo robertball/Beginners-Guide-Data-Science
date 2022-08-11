@@ -1,0 +1,37 @@
+Recipe number:
+237708.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-16T21:39:33.947
+helpfulCount:
+2
+userID:
+20278603
+Display Name:
+Zwm142
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy and delicious, but the recipe doesn't call for enough batter for a pound of chicken, so make sure to double it.  The sauce was pretty sweet (I like my food to be spicy) because my peppers were too mild, so I added some crushed red and cayenne to offset it and it was great.

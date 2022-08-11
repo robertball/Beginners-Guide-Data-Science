@@ -1,0 +1,72 @@
+Recipe number:
+258238.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-22T19:49:55.25
+helpfulCount:
+0
+userID:
+5489117
+Display Name:
+Martha Paris Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+179
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4856011.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  I subbed coconut oil for the butter, and it worked great!
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-14T12:09:47.82
+helpfulCount:
+0
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I chose this pie for Pi Day 2018 because my youngest son loves pecan pie. I was intrigued by the bourbon and coffee additions which work really well with the chocolate. I used Flaky Food Processor Pie Crust from Allrecipes instead of a store bought crust, made the recipe as written otherwise. Mine needed to bake about 10 minutes longer as it was quite jiggly. Let it cool longer as well for easier slicing. Thanks for a great pie recipe! #AllrecipesAllstarsCanda #PiDay2018 #FacelessNoMore

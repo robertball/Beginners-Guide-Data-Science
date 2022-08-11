@@ -1,0 +1,72 @@
+Recipe number:
+214570.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-11-01T16:06:24.66
+helpfulCount:
+8
+userID:
+5381616
+Display Name:
+auriwann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe for the advanced palate. The fresh epazote adds an amazing/authentic taste to this dish.  I add a bit more manchego than is called for (about enough to cover the top).  Well worth the extra effort to make!
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-19T13:41:58.6
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked these more than I thought I would. I added an extra egg to the crepes because they were super thin. I used gluten free flour. The blossoms stay a bit crunchy so you get a lovely texture and a burst of flavor in every bite. The sauce is really creamy and delicious. I didn't use the epazote leaves.

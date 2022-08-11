@@ -1,0 +1,75 @@
+Recipe number:
+12584.txt
+Review:
+Rating:
+2
+dateLastModified:
+2000-06-28T15:23:41.447
+helpfulCount:
+9
+userID:
+118809
+Display Name:
+DOBBER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found that the pie was quite runny even after it cooled. If I had of cooked it longer, it would have burned. The taste was very good, it just would have been nicer if it had set properly.
+Review:
+Rating:
+1
+dateLastModified:
+2000-05-07T04:17:45.453
+helpfulCount:
+7
+userID:
+46823
+Display Name:
+Gail
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this recipe and the pie didn't
+ set.  I'm wondering if it should have
+ had an egg added.  It may have set
+better.

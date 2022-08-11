@@ -1,0 +1,72 @@
+Recipe number:
+255990.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-26T23:16:49.973
+helpfulCount:
+0
+userID:
+4552495
+Display Name:
+charm
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+1459
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6040593.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very good.  I did add the eggs and wrap it in a tortilla, calling it a "breakfast burrito".  I found it to be rather bland and will add some chili powder next time.   Not bad though.  Not bad at all.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-25T02:42:10.8
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum.. 4 stars without the egg.. 5 with it, I love hominy and this is a tasty way to eat it

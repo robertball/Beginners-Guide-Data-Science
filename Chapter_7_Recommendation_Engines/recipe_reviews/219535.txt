@@ -1,0 +1,107 @@
+Recipe number:
+219535.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-07-20T16:45:04.907
+helpfulCount:
+3
+userID:
+7922019
+Display Name:
+Janine Brooks
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+80
+favoritesCount:
+321
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1164467.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OMG! OMG! It was so scrumptious that the amount I'd made for me as leftover-lunch the next day was gone before the next day. Downsized it for three servings using 1/2 of a farm-fresh muskmelon and the one red pepper. Was leary about the tartness of the lemon, lime, and orange--but when mixed with the honey and glazed on the salad mixture, it was the perfect sweet 'n sour blend that got spicier the more you ate it (and we used a mild picante sauce!). Only thing I might do different next time is serve it with a side of Mexicali Corn (for color and texture).
+Review:
+Rating:
+5
+dateLastModified:
+2013-08-29T13:55:02.647
+helpfulCount:
+0
+userID:
+11935662
+Display Name:
+I followed their recipe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1040028.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Your outcome will depend upon the quality of the melon, so choose wisely or get professional help.  My wife and I loved this dish.
+Review:
+Rating:
+5
+dateLastModified:
+2013-04-14T07:37:25.407
+helpfulCount:
+0
+userID:
+6339728
+Display Name:
+Monica Maxwell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2254661.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly as written. It turned out so YUMMY!! We had this a meal. Good the next day and had plenty of leftovers. I would definitely recommend this recipe to anyone looking for something a little different, but it's not TOO different. I used medium salsa and it gave it just the right kick. Nice healthy, light meal! Will make again for summer BBQs.

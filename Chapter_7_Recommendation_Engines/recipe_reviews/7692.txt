@@ -1,0 +1,72 @@
+Recipe number:
+7692.txt
+Review:
+Rating:
+4
+dateLastModified:
+2001-02-11T13:30:14.84
+helpfulCount:
+6
+userID:
+260334
+Display Name:
+KEITH HARDEN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+the most delicious part of this cake is the lemon butter cream frosting ...it is tasty ...i use real butter ....the presentation is equally as beautiful and the cake is very moist and sinful =)
+Review:
+Rating:
+4
+dateLastModified:
+2004-05-03T09:01:00.483
+helpfulCount:
+4
+userID:
+127602
+Display Name:
+KATSKI
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+120
+favoritesCount:
+396
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2882921.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very simple to make.  I also garnished the base of the cake with fresh pineapple chunks and maraschino cherries.  I kept it in the fridge because of the fruit.  Very nice presentation.

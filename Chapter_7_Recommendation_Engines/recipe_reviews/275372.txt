@@ -1,0 +1,72 @@
+Recipe number:
+275372.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-12T21:00:21.497
+helpfulCount:
+7
+userID:
+14526465
+Display Name:
+Maureen D.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+99
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome new and fast way to cook a Turkey. I did almost just what the recipe called for but the rosemary.  I don't like rosemary so I  eliminated it.  My Turkey came out very juicy and tender. Give it a try, you'll love it.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-31T22:47:20.743
+helpfulCount:
+0
+userID:
+23109975
+Display Name:
+Dominic Pantarelli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4943423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very I like that you can adjust the meal to your family's size. Also very good. Thanks

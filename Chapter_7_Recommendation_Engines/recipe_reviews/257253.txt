@@ -1,0 +1,47 @@
+Recipe number:
+257253.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/26/2017
+helpfulCount:
+1
+userID:
+howard
+Display Name:
+Howard
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4259377.jpg
+text:
+Very nice recipe that worked out perfectly. Quick and easy the sauce and cheese blended well to create a very nice coating that was an excellent consistency. Make sure the pan you add the egg mixture to is on medium low so the egg mixture does not turn into scrambled eggs and that you continue to stir throughout the process. Thanks for the delicious recipe!
+Review:
+Rating:
+4
+dateLastModified:
+04/23/2017
+helpfulCount:
+0
+userID:
+15800099
+Display Name:
+Kimberly Ness
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7026264.jpg
+text:
+My family enjoyed this easy one pot meal. The only change I made was to add one cup of cottage cheese when I added the milk and egg mixture. I also reserved some of the pasta water and added it back in when the pasta started to look dry. Oh and I reduced the salt and pepper to 1/2 tsp each. It turned out good.
+Review:
+Rating:
+2
+dateLastModified:
+09/28/2019
+helpfulCount:
+0
+userID:
+16542976
+Display Name:
+Rawhide Kid
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Too dry; not enough bacon. Simply not that great.

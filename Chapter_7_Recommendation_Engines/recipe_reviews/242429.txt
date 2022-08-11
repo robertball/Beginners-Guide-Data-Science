@@ -1,0 +1,37 @@
+Recipe number:
+242429.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-30T03:05:36.877
+helpfulCount:
+0
+userID:
+24411814
+Display Name:
+Dolly11
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5886328.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum! I loved this super easy recipe. The Greek yoghurt adds a nice creamy texture that the Nutella itself doesn’t have.

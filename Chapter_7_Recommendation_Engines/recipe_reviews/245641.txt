@@ -1,0 +1,72 @@
+Recipe number:
+245641.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-04T14:16:30.617
+helpfulCount:
+3
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1120
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's amazing how much flavor comes from a vanilla bean! I had recently purchased 2 of them for the very first time, and gave this recipe a try. The syrup is very tasty, and went well with my afternoon cappuccino. Looking forward to trying it with iced coffee as well. Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-03T20:02:00.44
+helpfulCount:
+0
+userID:
+13875856
+Display Name:
+maryannliz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+694
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and quick. Thanks so much for sharing this!

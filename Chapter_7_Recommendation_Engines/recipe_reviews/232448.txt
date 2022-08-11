@@ -1,0 +1,72 @@
+Recipe number:
+232448.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-30T10:58:37.573
+helpfulCount:
+4
+userID:
+9550403
+Display Name:
+Jennifer Aleman
+isPro:
+False
+followersCount:
+7278
+followingCount:
+0
+madeRecipesCount:
+207
+favoritesCount:
+831
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6012647.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Refreshing, refreshing, refreshing!!! It is delicious and because the honeydew is naturally sweet I didn't have to add more sugar than the recommended and I neither changed anything to this recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-31T12:51:45.423
+helpfulCount:
+0
+userID:
+6949894
+Display Name:
+jmlam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Refreshing and so light tasting!  I made with cantaloupe instead, as that is what I had.  I also substituted mango juice for part of the water. 5 Star drink for our girl's luncheon!!!

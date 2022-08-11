@@ -1,0 +1,72 @@
+Recipe number:
+235258.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-09-09T15:30:47.77
+helpfulCount:
+1
+userID:
+3524517
+Display Name:
+Patty Cakes
+isPro:
+False
+followersCount:
+341
+followingCount:
+0
+madeRecipesCount:
+546
+favoritesCount:
+3026
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4561464.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I want to give this 10 stars but I changed it up just a bit. I chopped n dropped in the meat, 2 cans of Rotel, small can of tomato sauce, a couple tbls of flour & 2 pkgs of Lipton onion soup mix. My crock pot was occupodo so in the oven it went, low n slow 300 degrees for 4-5 hrs. I served this over the crock pot baked potatoes,http://allrecipes.com/recipe/slow-cooker-baked-potatoes/detail.aspx. Superb! ! Thank you Lucille, this is comfort food to the neth degree!
+Review:
+Rating:
+1
+dateLastModified:
+2013-11-21T06:30:14.353
+helpfulCount:
+1
+userID:
+2016123
+Display Name:
+spice of life
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+253
+favoritesCount:
+2319
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5746750.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very blase!  Recipe needs something and I am not sure what.  Not making again.

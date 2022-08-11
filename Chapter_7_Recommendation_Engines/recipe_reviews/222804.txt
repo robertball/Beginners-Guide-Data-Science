@@ -1,0 +1,72 @@
+Recipe number:
+222804.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-10T18:25:28.58
+helpfulCount:
+3
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+303
+followingCount:
+0
+madeRecipesCount:
+252
+favoritesCount:
+1639
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7778502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty savory crepes...I liked how well they cooked on my little crepe maker.  Added fennel instead of caraway since they come from the same family but fennel is a little sweeter.  Mixed all in a blender...wonderful.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-29T16:23:24.29
+helpfulCount:
+1
+userID:
+17411049
+Display Name:
+Laura Engel Lovell
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3198433.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Instead of making it Indian Crepes, I just made they regular crepes and spread on peanut butter, chocolate, banana. Mine didn't get the  bubbles. 4 min each for each crepe

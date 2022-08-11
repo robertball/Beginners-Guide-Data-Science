@@ -1,0 +1,37 @@
+Recipe number:
+244919.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-07-06T21:29:47.59
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+393
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3195
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this on the sweet side. I used fresh frozen pineapple that I had previously frozen and I'm thinking maybe that was why it was sooo sweet? Or maybe it was sooo sweet because of the fruit punch concentrate? I didn't really care for the flavor combo and it is not something I would consider making again. Regardless, thank you for sharing.

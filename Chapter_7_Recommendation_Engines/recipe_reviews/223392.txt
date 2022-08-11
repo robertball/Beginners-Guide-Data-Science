@@ -1,0 +1,72 @@
+Recipe number:
+223392.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-06-30T02:20:47.93
+helpfulCount:
+16
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1714
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used homemade vanilla GREEK frozen yogurt and Truvia instead of white sugar in this recipe. I made no other changes. This was really good, I was quite surprized! For me, I would double the spices when I make this again or even use apple pie spice. This was a nice treat after a long, hot day. NOTE: This is quite liquid-y. If you don't want it as thin, cut back on the apple juice.
+Review:
+Rating:
+4
+dateLastModified:
+2012-09-10T17:06:50.473
+helpfulCount:
+2
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9178
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I first made this exactly how the recipe was written and found that it was too thin. I would suggest lowering the amount of apple juice or added triple the ice cream. I topped mine with fresh whip and a dollop of caramel apple topping I got at a local store. It is delicious, but it small amounts and would say this recipe serves two instead of one.

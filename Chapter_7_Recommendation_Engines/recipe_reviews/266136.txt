@@ -1,0 +1,39 @@
+Recipe number:
+266136.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-08T01:17:54.873
+helpfulCount:
+0
+userID:
+10913490
+Display Name:
+Erik Weis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good, simple recipe if you go with a solid store-bought pesto.  Would be even better with homemade in summer with garden tomatoes. 
+Be careful with the seasoning on the broccoli, as the pesto saltiness bleeds down into it.  
+Kid-friendly and a nice way to sneak in a tasty low-carb, nutrient-heavy satisfying meal.

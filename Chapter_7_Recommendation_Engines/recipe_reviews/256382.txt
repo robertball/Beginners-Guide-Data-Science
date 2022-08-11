@@ -1,0 +1,37 @@
+Recipe number:
+256382.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-08T20:51:02.3
+helpfulCount:
+0
+userID:
+24196591
+Display Name:
+Holly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added 1/2 cup of apple sauce for extra moisture.

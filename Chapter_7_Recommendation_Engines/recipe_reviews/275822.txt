@@ -1,0 +1,37 @@
+Recipe number:
+275822.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-05T23:51:32.16
+helpfulCount:
+0
+userID:
+5118896
+Display Name:
+fabeverydayblog
+isPro:
+False
+followersCount:
+154
+followingCount:
+0
+madeRecipesCount:
+474
+favoritesCount:
+311
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and hearty. You don’t have to be keto to love this one! It makes a huge portion, FYI, so if I would recommend halving this for an average family of 4, otherwise the leftovers would be great for lunch meal prep for the next few days.

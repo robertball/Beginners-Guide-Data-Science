@@ -1,0 +1,37 @@
+Recipe number:
+233387.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-13T11:40:14.943
+helpfulCount:
+2
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1593
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice pasta salad.  I skipped the olives and artichokes per personal preference, and the eggs because I'm lazy ;)  I thought it might pack a bit more of a punch given the dressing ingredients, but nothing really made it stand out from the usual pasta salad fare.  It's a nice pasta salad, for sure, but not one I can say for sure I'd make again (though it's certainly worth YOU giving it a try; it's good stuff!).  THANKS for the recipe!

@@ -1,0 +1,107 @@
+Recipe number:
+217999.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-07-09T11:50:31.27
+helpfulCount:
+30
+userID:
+2713558
+Display Name:
+Jillian
+isPro:
+False
+followersCount:
+551
+followingCount:
+0
+madeRecipesCount:
+2420
+favoritesCount:
+6771
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/209339.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There's nothing quite like good old-fashioned strawberry shortcake! I must admit though I did have to play with this recipe a bit to make it work for me.  I doubled the sugar as I like a sweeter shortcake and I reduced the cinnamon to 1 tsp. I added a little more egg and cut back on the butter. Since I wasn't sure how "whipped cream" would turn out so I used buttermilk instead and enough to get the dough workable.  I let wrapped the dough in plastic wrap and let it chill for a half hour.  I then rolled it out onto a well floured surface and cut it with heart shaped cookie cutters before putting it into the oven. I also did an egg wash and topped the heart-shaped shortcakes with a bit of turbinado sugar for a little extra crunch. They baked up beautifully and tasted great with the strawberries and whipped cream. A wonderful summertime treat and a great way to use fresh strawberries!
+Review:
+Rating:
+1
+dateLastModified:
+2013-07-13T14:04:28.87
+helpfulCount:
+1
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for this recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2015-05-08T17:29:28.813
+helpfulCount:
+0
+userID:
+3641642
+Display Name:
+Carolyn Jean Ross
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7590221.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Following the recipe, the dough is very sticky.  I worked with what I had - I lined the bottom of muffin pans with parchment paper, baked at 300 for 25 minutes and as soon as they came out of the oven I made an indent in each one, forming a sort of cup.  They did not stick to the pan at all, and they are delicious.

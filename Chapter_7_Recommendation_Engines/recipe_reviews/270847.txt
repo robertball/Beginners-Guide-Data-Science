@@ -1,0 +1,38 @@
+Recipe number:
+270847.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-24T12:11:37.14
+helpfulCount:
+0
+userID:
+15452730
+Display Name:
+Debra hall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2115165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used chili powder instead of the packet of seasoning. I also used a can of diced tomatoes. Instead of corn I used cooked 
+ diced sweet peppers. Love the cornbread on top since it's easier than baking it separately.

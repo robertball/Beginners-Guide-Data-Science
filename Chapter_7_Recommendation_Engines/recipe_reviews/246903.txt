@@ -1,0 +1,107 @@
+Recipe number:
+246903.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-27T23:55:18.643
+helpfulCount:
+4
+userID:
+14566282
+Display Name:
+Carole McKee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+366
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy recipe to throw together in a pinch. I used more rhubarb than indicated and more cinnamon, simply because I like both.  As expected, a microwave cake is a little more chewy than an oven baked cake but,hey, I wanted something sweet, fast and without fuss. That's what I got!  Sweet tooth satisfied lickedy split!
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-02T01:34:28.257
+helpfulCount:
+1
+userID:
+302857
+Display Name:
+SHASTASWEET
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to throw together but the 3 minute cooking time is way too much time unless you have a very low wattage microwave.  Most other recipes like this are 1 or 2 minutes max.   I made adjustments considering the power of my microwave and even using frozen rhubarb, 2 1/2 minutes was too long.  A pinch of baking powder also helps it to raise .
+Review:
+Rating:
+3
+dateLastModified:
+2016-06-10T15:19:50.073
+helpfulCount:
+1
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2222
+favoritesCount:
+2567
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cake rose beautifully in the microwave, but deflated very quickly making a tough, chewy cake.  This could be because my microwave runs higher than the submitter’s, or because it lacks a leavening agent.  The flavor was good though and worth adjusting for future bakes.  What I like about this cake is not only the ease in making this, but having a nice dessert during the summer that doesn’t need the use of an oven.

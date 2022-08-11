@@ -1,0 +1,72 @@
+Recipe number:
+235830.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-20T19:33:11.2
+helpfulCount:
+2
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+769
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This drink is ok but not my favorite of the spiced apple drinks I've tried on this site.The juice becomes thick (which doesn't appeal to me), and all the spices settle in the bottom of the cup.
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-31T19:43:45.25
+helpfulCount:
+1
+userID:
+3901347
+Display Name:
+Kimber Wilson
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+488
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was pretty good but a bit too sweet for me. I can have one glass and I'm good for awhile.

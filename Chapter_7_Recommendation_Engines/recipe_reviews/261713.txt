@@ -1,0 +1,37 @@
+Recipe number:
+261713.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-09T13:21:16.487
+helpfulCount:
+0
+userID:
+24860823
+Display Name:
+vanessa gifford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6223416.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I dont feel like the green peppers add anything to the dish. I accidentally added to much cayenne pepper and i only used 1 can of black beans. I still thought there was a lot of flavor and it was good. Gonna try some other twists next time

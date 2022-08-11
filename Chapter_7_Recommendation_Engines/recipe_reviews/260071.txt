@@ -1,0 +1,107 @@
+Recipe number:
+260071.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-30T17:08:28.33
+helpfulCount:
+0
+userID:
+2079610
+Display Name:
+Cathy Myers
+isPro:
+False
+followersCount:
+141
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+385
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/461230.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I shared this recipe with two of my friends for their input along with my own. By consensus, we agreed that the presentation was attractive, but there was still a bit of 'aftertaste', similar to chemical artificial sweeteners. The pancake consistency was not as 'cakey' as a pancake made with cane sugar, rather dense and heavy. This was my first experience with using a Stevia product. Thank you for the opportunity.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-26T17:30:56.14
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12223
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hubby really liked this and the taste of the Pyure Stevia sweetener, for me it was a little too sweet but I am not a sweet eater.  Next time I would use 2 eggs instead of 4 as I thought it was a little too heavy and will rise better with a lighter batter.
+Review:
+Rating:
+3
+dateLastModified:
+2017-11-23T17:16:28.803
+helpfulCount:
+0
+userID:
+11489253
+Display Name:
+What you cooking Willis?
+isPro:
+False
+followersCount:
+58
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+204
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1022842.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definitely turned out a lot sweeter than I am used to for baked pancakes. I didn't have a big enough cast iron so I sautéed the apples in a frying pan then transferred to a pan that was getting hot in the oven. I will try this again just add less pyure stevia next time I think

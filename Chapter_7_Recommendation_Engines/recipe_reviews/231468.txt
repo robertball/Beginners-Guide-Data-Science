@@ -1,0 +1,72 @@
+Recipe number:
+231468.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-05T10:50:54.623
+helpfulCount:
+3
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used spelt flour instead of all-purpose flour ,soy milk instead of cow's milk, and just eliminated the sugar.  This made great muffins with a crunch!  I'll be making these again!
+Review:
+Rating:
+4
+dateLastModified:
+2013-08-29T12:28:09.017
+helpfulCount:
+0
+userID:
+4233899
+Display Name:
+Lisa N.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+the flavor was very good, but I would bake them for less time. Mine were a bit dry. Loved the lemony flavor though.

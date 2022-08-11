@@ -1,0 +1,72 @@
+Recipe number:
+235548.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-16T15:17:28.98
+helpfulCount:
+3
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was quite good.. a little more seasoning added for my tastes. Pickled ginger is really a must for this..
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-15T18:29:47.177
+helpfulCount:
+1
+userID:
+8139061
+Display Name:
+ADo83
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a few changes.  I did not have pumpkin, but I added frozen corn kernals and lima beans, as well as shredded napa cabbage.  I used a braised tofu which is a little more firm and tasty.  Additionally, I used about 1/4 vegetable broth, and 3/4 boiling water for the base.  I added the miso the bowl, and added some broth, and then stirred to blend it, then added the veggies.  I cooked the noodles separately, and put them in the bowls to serve.  Overall it was delicious!

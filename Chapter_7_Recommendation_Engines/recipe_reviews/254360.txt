@@ -1,0 +1,107 @@
+Recipe number:
+254360.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-04T17:58:31.283
+helpfulCount:
+0
+userID:
+22621267
+Display Name:
+Ybas me
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I ate it on pasta, the first time I added mushrooms sauté in lemon juice and the second time I put broccoli instead. Both times tasted amazing. It's definitely my favorite pasta sauce. The sauce came out beige instead of white though.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-02T04:17:57.383
+helpfulCount:
+0
+userID:
+22507910
+Display Name:
+rosario tripoli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I màde it exactly like the recipe said. Then i altered it.i doubled the spices and added  chicken and tomato basil base.  It was perfect i topped chicken and mashed potatos with it.
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-04T19:40:03.357
+helpfulCount:
+0
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Bold garlic flavor. This will go good on anything including vegetables.

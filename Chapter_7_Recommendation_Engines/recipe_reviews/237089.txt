@@ -1,0 +1,226 @@
+Recipe number:
+237089.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-12-12T15:24:56.17
+helpfulCount:
+4
+userID:
+3147999
+Display Name:
+Kaj'Or Reinholdt
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/117185.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found that the "batter" would not stick at all. I added an egg and increased the flour to 1/3 of a cup, then they would form patties.
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-26T08:17:24.41
+helpfulCount:
+3
+userID:
+14272769
+Display Name:
+Paul
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+148
+favoritesCount:
+523
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+recipe delivers a solid red lentil sandwich. Easy and satisfying. I will enjoy them again. Found 1/3 cup of mixture per patty was plenty big enough. While eating them, and cutting the finished sandwich in half, they squish in the bun somewhat.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-02T19:46:15.167
+helpfulCount:
+1
+userID:
+16373938
+Display Name:
+MoreHoneyPleasers
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5001125.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this recipe. Even my picky teenage son ate one! Stored easily for lunches at work for the week too.
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-03T23:19:03.52
+helpfulCount:
+0
+userID:
+2858844
+Display Name:
+Wendy Leclerc
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3846015.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very flavourful! Baked them in the oven at 350 for about 12-15 minutes per side.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-24T19:24:42.38
+helpfulCount:
+0
+userID:
+26927626
+Display Name:
+sharelove
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Shocked.  Very recent vegetarian again.  I've never had a 'meatless' burger before.  I didn't expect it to be bad, but I did not expect to like it as much as I do.  Great texture and good taste. Love the garlic!
+
+My 11 year old omnivore son ate the whole thing and enjoyed it.  
+
+I varied a little from the recipe as I have an abnormal physical and neurological response to Corn, Soy and Wheat.
+I was out of white onions, so I used 4 green onions.
+Due to my issues, I can't have over-the-counter mustard, so I added mustard powder and apple cider vinegar.
+I also added a tablespoon of Chili Powder, because I like Chili powder.
+Right at the end, I added some coconut oil to the pan and the top of the burgers to give it some sizzle and buttery goodness.
+
+I used Arrowroot starch and Cassava flour in equal portions instead of 'baking flour'.  The starch really helped to make definite patties, this gets you a thicker texture, and not a 'loose burger' like you might get with just flour.  Like another review mentioned, I used about 3x more of the flour/starch than the recipe called for.
+
+The texture held up great on a bun, and it was chewy enough to make you feel like you were eating a hamburger.  My goal was not to reproduce the Hamburger taste, but to have a reliable protein that is portable and easy to eat.
+
+Next day, it reheated well.  I just ate it for lunch with some home-made mayo and tomato slice.
+Review:
+Rating:
+1
+dateLastModified:
+2014-12-24T20:55:50.147
+helpfulCount:
+0
+userID:
+14026033
+Display Name:
+Ayla
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+107
+favoritesCount:
+797
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is difficult to make a veggie burger, this burger was not a good one.

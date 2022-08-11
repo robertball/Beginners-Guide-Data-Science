@@ -1,0 +1,78 @@
+Recipe number:
+273509.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-11T21:40:04.28
+helpfulCount:
+0
+userID:
+12970028
+Display Name:
+chadick
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+103
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4585832.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My 5-star review is for the ice cream only.
+
+This ice cream recipe is from The Smitten Kitchen, which is adapted from Claudia Fleming’s  “The Last Course” cookbook.
+
+I made the ice cream exactly as written. It is very rich and tangy, and the perfect sweetness.  It’s a keeper!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-11T20:42:51.17
+helpfulCount:
+0
+userID:
+24376510
+Display Name:
+cooking mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made the cobbler and boy was it delish.  My only change was I omitted almond extract because I didn't have any.  
+Will definitely put this recipe in my book.  
+Thanks Smart Cookie.   You sure you can't share your Chocolate  chip recipe?

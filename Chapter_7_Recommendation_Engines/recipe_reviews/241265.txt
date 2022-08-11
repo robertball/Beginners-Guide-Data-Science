@@ -1,0 +1,107 @@
+Recipe number:
+241265.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-24T16:28:43
+helpfulCount:
+1
+userID:
+17585677
+Display Name:
+Gigi Felissima
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3302014.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would make this again.  I just used the slow cooker and added the flavour ingredients after the beans were cooked and rinsed again to cook the flavours in after.  Love the lemon in it!  Had it with plain yogurt.  Yummy:)
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-13T07:52:48.31
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+969
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These really are amazing and I don't like anise. Albeit I made a half portion, I did not change the ingredients and loved the flavour. I found that there is a bit more liquid than I care for and may reduce the amount next time. (It may depend on the beans though.) I will add more hot peppers (maybe fresh ones) next time as we like things spicy but I won't change the spices or preserved lemon, because it is exactly those things that make these amazing.
+Review:
+Rating:
+3
+dateLastModified:
+2017-08-04T19:49:56.42
+helpfulCount:
+0
+userID:
+4555051
+Display Name:
+mezzinane
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't get much flavor out of these aside from the overwhelming taste of black pepper. In my opinion the pepper should be cut by at least half and some salt added. A drizzle of vegetable oil would add some body and flavor as well.

@@ -1,0 +1,37 @@
+Recipe number:
+272890.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-25T23:58:10.913
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very easy to make but I found that it needed more salt and more pepper. I also had to add a 1/4 tsp garlic powder and a pinch of cayenne pepper. This step was not listed but I went ahead and used an immersion blender to cream my soup. Very good after all these additions.

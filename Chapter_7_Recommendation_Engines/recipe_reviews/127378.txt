@@ -1,0 +1,74 @@
+Recipe number:
+127378.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-08-02T14:22:35.91
+helpfulCount:
+5
+userID:
+3394371
+Display Name:
+Natalie Taylor
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It tasted ok. My family thought it had a dull taste
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-26T22:57:45.657
+helpfulCount:
+0
+userID:
+17959804
+Display Name:
+Kikya
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and easy way to dress up just plain pudding. One thing that I do with any pudding, is add some powdered chocolate ovaltine with the dry mix. I don't change the milk and it adds a nice chocolately flavor, makes the pudding richer (and sneaks in some vitamins). I made this and my kids loved it! Will make again.
+
+PS If you are making it with vanilla pudding mix, try some Carnation Instant Breakfast, French Vanilla Flavor. 1 Packet per box of mix. Gives the plain mix something extra. I did that with the Oreos too.

@@ -1,0 +1,74 @@
+Recipe number:
+232176.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-08T18:31:14.863
+helpfulCount:
+0
+userID:
+11753450
+Display Name:
+jaime mcfall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+loved it! My daughter made it for Christmas gifts and people really loved it and have asked for the recipe. We will be making it again this year. It it terrific with nutmeg and cinnamon.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-08T17:11:39.83
+helpfulCount:
+0
+userID:
+14807490
+Display Name:
+Mary Podesta
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3867372.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have not put in nutmeg.. I added pumpkin spice and cinnamon., in one batch and the other batch id add just cinnamon, I also used Swissmiss cocoa.. it is so nice and creamy.
+
+A good rich instant coffee is key, you want that rich coffee taste and a creamy chocolate. I like to make this for my co-workers for the holidays

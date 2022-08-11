@@ -1,0 +1,77 @@
+Recipe number:
+22747.txt
+Review:
+Rating:
+4
+dateLastModified:
+11/26/2003
+helpfulCount:
+5
+userID:
+bagruba1
+Display Name:
+BAGRUBA
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/574064.jpg
+text:
+Great recipe!  I adapted a little, as I had lots of dried apples on hand.  Just rehydrate them and use approx 3/4 cup.  Then, I pureed in blender afterward to get proper texture.  I would suggest adding a little cinnamon, but otherwise great!  The pumpkin flavor isn't overwhelming...great blend of flavors.  I am giving a jar of this to my aunt as a Thanksgiving hostess gift.  My advice...TRY IT!
+Review:
+Rating:
+4
+dateLastModified:
+11/02/2004
+helpfulCount:
+3
+userID:
+1230160
+Display Name:
+SAMUSO
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was so flavorful and delicious. I used apple cider instead of juice, and added a little cinnamon too. Perfect.
+Review:
+Rating:
+5
+dateLastModified:
+11/07/2003
+helpfulCount:
+3
+userID:
+676908
+Display Name:
+RTR.MAR
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Wonderful fall recipe!  SO easy and tastes wonderful on my morning toast!
+Review:
+Rating:
+4
+dateLastModified:
+11/03/2005
+helpfulCount:
+2
+userID:
+177428
+Display Name:
+BARNKITTY
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Used cider instead of juice.  Definitely a taste of autumn!
+Review:
+Rating:
+5
+dateLastModified:
+10/03/2004
+helpfulCount:
+1
+userID:
+1200513
+Display Name:
+JAZZERBAZZER
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+very easy and a great recipe! its delicious!

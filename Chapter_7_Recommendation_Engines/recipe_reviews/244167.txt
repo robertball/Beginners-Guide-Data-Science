@@ -1,0 +1,37 @@
+Recipe number:
+244167.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-06-30T08:15:22.86
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm afraid I didn't care for this dressing even though I really wanted to. I like all of these ingredients on their own, but together they didn't result in a balanced flavour. I even let it sit for a while thinking the flavours needed to meld to no avail. I used homemade vegan/gluten free Worcestershire sauce (from the AR site)-which I enjoy on its own. Thank you for sharing the recipe. I'm sorry it didn't work out for me.

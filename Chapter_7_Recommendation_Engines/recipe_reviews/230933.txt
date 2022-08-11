@@ -1,0 +1,37 @@
+Recipe number:
+230933.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-02-04T17:20:00.64
+helpfulCount:
+7
+userID:
+1578150
+Display Name:
+Zuzana Halbgewachs
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+345
+favoritesCount:
+1733
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were ok. I made these for a super bowl party and had a lot of leftovers. Next day the cucumber got soft and soggy. Probably will not do again.

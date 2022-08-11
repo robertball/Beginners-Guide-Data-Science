@@ -1,0 +1,72 @@
+Recipe number:
+261107.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-15T22:18:13.187
+helpfulCount:
+2
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6670
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2542
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used an Instant Pot set on manual for 10 minutes and natural pressure release (about 10 mins). Worked great, tastes almost like baked.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-04T22:50:33.953
+helpfulCount:
+1
+userID:
+7740221
+Display Name:
+Lori Chaloner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+134
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6618290.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had huge potatoes 3 filled up my pot, of course I had to add more time.my new favorite way to make baked potatoes.

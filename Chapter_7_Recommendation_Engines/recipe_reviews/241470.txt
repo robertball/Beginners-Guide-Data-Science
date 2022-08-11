@@ -1,0 +1,107 @@
+Recipe number:
+241470.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-07T19:12:22.187
+helpfulCount:
+3
+userID:
+15726514
+Display Name:
+Just Like Perfect
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2258394.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I saw these in the allrecipes magazine this week and immediately knew that I needed to add them to the Breakfast Baskets that I was making for the preschool teachers during National Teacher's Week. They were the favorite by far! I used both mild and cheddar cheese and made a Chive Cream Cheese instead of the butter since I was making a breakfast treat. Super easy to make, they had a great flaky texture and the cheese flavor was so delish. Best served warm so they are melty but I ate plenty at room temp and never complained once!
+Review:
+Rating:
+5
+dateLastModified:
+2015-09-19T11:48:04.587
+helpfulCount:
+1
+userID:
+13696424
+Display Name:
+Emily Bregou
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2065260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are so delicious! I would recommend adding slightly more salt to the butter.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-25T19:34:27.387
+helpfulCount:
+0
+userID:
+17593005
+Display Name:
+Jennifer Martinez
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3306429.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasted Great! I rolled the outside of dough square a bit too thin before cutting so the outer pieces a bit more dense, but the middle biscuits were perfect and had the fluffiest texture! They needed only a minute to cool and the chive butter really brought out the flavor. I used dry chives and need to cut down the amount to 2 Tbsp next time and a hint less cayenne but it was delicious as is.

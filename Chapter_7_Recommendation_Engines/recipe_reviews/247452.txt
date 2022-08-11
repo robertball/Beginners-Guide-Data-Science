@@ -1,0 +1,37 @@
+Recipe number:
+247452.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-29T05:10:04.44
+helpfulCount:
+0
+userID:
+1616609
+Display Name:
+rocknroller
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+78
+favoritesCount:
+1588
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3698300.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Using a BEEF roast worked out very well;  I had to use standard dill pickles for my relish and I simply pressed finely grated cheese into small "curds", which all in all, worked out pretty good. When we ran out of fries, some seeded hamburger buns got put to good use as sloppy joes--and the kids LOVED that also!  BBQ sauces tend to thin out to watery consistency in a slow cooker.   I recommend NOT using corn starch to thicken the sauce; use extra BBQ sauce instead.   Other welcome additions to consider using:  Sauteed onions and crisp bacon bits.

@@ -1,0 +1,37 @@
+Recipe number:
+151503.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-06-26T23:24:39.847
+helpfulCount:
+8
+userID:
+4247689
+Display Name:
+rachalem
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6039909.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I bought the crust to save time.  I also use one layer of icecream, then fudge, then marshmallow fluff. I added Hershey morsels to the top.

@@ -1,0 +1,72 @@
+Recipe number:
+240757.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-22T18:25:59.07
+helpfulCount:
+4
+userID:
+3706709
+Display Name:
+Magnolia Blossom
+isPro:
+False
+followersCount:
+133
+followingCount:
+0
+madeRecipesCount:
+141
+favoritesCount:
+2727
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/588558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The ratios for this recipe are off. Recipe states 10 servings. Only one 16 oz bag would not make 10 servings, compared to the rest of the recipe. Based on the other ingredients, I would use at least a 32 oz bag. I used a 16 oz bag, 1 cup of cheese, 4 oz of sour cream, a partial can of soup, 1/2 onion and no butter, and it was very creamy. Anything more would have been soup. I also added some bacon bits.
+Review:
+Rating:
+2
+dateLastModified:
+2015-04-08T18:41:08.067
+helpfulCount:
+0
+userID:
+15622446
+Display Name:
+BethanyTries85
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed to a T and yet it still tasted only like sour cream and was really runny.

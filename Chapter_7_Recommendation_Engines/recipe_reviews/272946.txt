@@ -1,0 +1,37 @@
+Recipe number:
+272946.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-03T22:45:25.1
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to make some adjustments because I could not find a 6 oz package of cream cheese. I used an 8 oz package and 4 tbs of butter. I also had to add more sweetener because I thought it wasn't sweet enough.  Over all a good recipe.

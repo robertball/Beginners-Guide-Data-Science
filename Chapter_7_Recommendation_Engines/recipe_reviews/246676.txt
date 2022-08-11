@@ -1,0 +1,107 @@
+Recipe number:
+246676.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-14T18:04:07.813
+helpfulCount:
+1
+userID:
+24738543
+Display Name:
+Stacy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great idea for filling but light meal.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-20T00:42:03.017
+helpfulCount:
+1
+userID:
+10642074
+Display Name:
+Kristin Helmigk
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3663910.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So good! I am not a fan of quinoa, but thought I’d give it another try. The quinoa takes on the taste of the dressing - which is delicious!  I doubled the dressing.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-14T02:40:31.677
+helpfulCount:
+1
+userID:
+15979414
+Display Name:
+Mary Noschese-Albrecht
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2383321.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is delicious , easy to make,  and very filling.   My son and I made it today for lunch.  The only change I made is I substituted baby spinach for the kale because I don't like kale.

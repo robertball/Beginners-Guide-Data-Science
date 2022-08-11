@@ -1,0 +1,107 @@
+Recipe number:
+261651.txt
+Review:
+Rating:
+1
+dateLastModified:
+2020-01-08T06:27:38.377
+helpfulCount:
+0
+userID:
+15195355
+Display Name:
+Paula Ross
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+391
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1968725.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I want to make this. I read the ingredient list, watched the video to see how it’s prepared. To my understanding. Aren’t nachos made with tortilla chips. I’m going to try that. It’ll be salty sweet.
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-28T04:14:19.683
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a tasty creation and was unusual in its presentation, but I did find it a little difficult to get from the plate to my mouth.  I appreciate the versatility of the ingredients.  This should be eaten fairly immediately after finishing production and if refrigerated should be left at room temperature to eat.  I would like next time to drizzle this with caramel sauce!  Thank you, Hershey's Kitchens!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-12T14:20:10.42
+helpfulCount:
+0
+userID:
+2844831
+Display Name:
+Cooking Daddy
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+296
+favoritesCount:
+6213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6980549.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was so good, and you can easily get your health conscious friends to join you in this sweet and delicious dessert.  It's healthy for you, it has APPLES!  ;)  Just remember when you go to melt the chocolate that the little black bits will not melt down.  I forgot to read that part, but all was well.  It tasted great and everyone was raving about the recipe.  And it was healthy too! :)

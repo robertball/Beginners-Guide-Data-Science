@@ -1,0 +1,72 @@
+Recipe number:
+259812.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-01T18:15:19.477
+helpfulCount:
+0
+userID:
+7639676
+Display Name:
+sam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+156
+favoritesCount:
+773
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Being I already had roasted, peeled and frozen green chili peppers I skipped the first 2 steps. I used one Big Jim Green Chili Pepper instead of two per tortilla. I also used more shrimp than the recipe called for. Other than that I followed the recipe as written. The quesadillas had a lot of flavor and I will definitely make them again. Thanks for sharing.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-19T16:52:49.83
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty! I did use more shrimp because I thought it needed it. 6 shrimp to 2 whole peppers just didn't seem like a good ratio to me and I'm glad I added more. On that note I'll also say that you should plan on this only feeding one person and not two. With that being said, this is an excellent recipe and one you will enjoy. There is nothing quite like the taste and smell of a roasted Hatch chile peppers!

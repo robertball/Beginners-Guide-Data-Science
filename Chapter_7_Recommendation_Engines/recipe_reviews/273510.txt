@@ -1,0 +1,72 @@
+Recipe number:
+273510.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-07T00:48:42.593
+helpfulCount:
+0
+userID:
+26410412
+Display Name:
+E Baker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hello--I followed the recipe, including the quantities and measurements. The only thing different for me was that I have a 7-qt. crockpot (?!).  I realize that, using a larger unit means a hotter, shorter cooking time... but, at 3 hours, I felt the meat was overdone.  I know this is a constant risk with pork, so for me, it's back to the drawing board. But, one idea when offering crockpot recipes: Suggest that the user test his/her unit, to see what the temps really are at "low."  One of the main complaints I see on forums for new crockpots is that they are too hot , even at low settings.  Regards!
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-26T17:07:04.297
+helpfulCount:
+0
+userID:
+7019929
+Display Name:
+Joan M Williames
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+173
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4522270.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Did it on grill to get natural smoke on it without the chopped pieces

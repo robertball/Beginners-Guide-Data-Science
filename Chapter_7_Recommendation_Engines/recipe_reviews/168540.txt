@@ -1,0 +1,62 @@
+Recipe number:
+168540.txt
+Review:
+Rating:
+4
+dateLastModified:
+09/14/2008
+helpfulCount:
+9
+userID:
+sunnyb
+Display Name:
+SunnyByrd
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/258648.jpg
+text:
+Good shake! If you use frozen strawberries, blend them with the milk BEFORE you add the ice cream - otherwise your blender may stick like mine did. Pfft. I just had to add a little more milk to get things shaking. Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+06/15/2008
+helpfulCount:
+3
+userID:
+2983720
+Display Name:
+Tessa*
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/87119.jpg
+text:
+This recipe was my *favorite* shake yet out of them all! Great job creater!
+Review:
+Rating:
+4
+dateLastModified:
+12/01/2008
+helpfulCount:
+1
+userID:
+elizabeth1
+Display Name:
+Elizabeth
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Yum
+Review:
+Rating:
+4
+dateLastModified:
+07/09/2008
+helpfulCount:
+0
+userID:
+2990773
+Display Name:
+Alexis
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/89534.jpg
+text:
+Great Shake,but instead of vanilla ice cream I added a little cherry and two packets of sugar great.

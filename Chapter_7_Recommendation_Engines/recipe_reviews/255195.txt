@@ -1,0 +1,142 @@
+Recipe number:
+255195.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-07T09:37:52.853
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is officially on our Thanksgiving menu!!! Too easy and delicious to pass up. I used the large toothed plate on my spiralizer, so the ribbons were pretty thick. They took a bit longer to cook than written.  Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-22T20:59:38.403
+helpfulCount:
+0
+userID:
+12541024
+Display Name:
+Ms Jean
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+246
+favoritesCount:
+1656
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love a sweet potato, and this was a different way to prepare it. I had this for dinner, as I was at a Sunday brunch earlier. I would never put 1/4 cup of butter on a sweet potato if I had it another way, so I just reduced it to a tblsp, just to get an idea how it turns out. I did not have the sage leaves, so just used a sprinkling of dried sage. It takes on a smoky, almost crisp, burnt-like flavor, and I really liked that. It does need  the salt, too. Nice light and healthy dish for a hot, last day of summer dinner. Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-22T20:59:38.393
+helpfulCount:
+0
+userID:
+12541024
+Display Name:
+Ms Jean
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+246
+favoritesCount:
+1656
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love a sweet potato, and this was a different way to prepare it. I had this for dinner, as I was at a Sunday brunch earlier. I would never put 1/4 cup of butter on a sweet potato if I had it another way, so I just reduced it to a tblsp, just to get an idea how it turns out. I did not have the sage leaves, so just used a sprinkling of dried sage. It takes on a smoky, almost crisp, burnt-like flavor, and I really liked that. It does need  the salt, too. Nice light and healthy dish for a hot, last day of summer dinner. Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-28T02:40:09.94
+helpfulCount:
+0
+userID:
+10567165
+Display Name:
+Jill Birse
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3941135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Bomb. I was looking for a way to use up the Sweet Potato Ribbons I got from Trader Joes... This was easy and delicious. Probably not the healthiest considering the amount of butter, but oh well!

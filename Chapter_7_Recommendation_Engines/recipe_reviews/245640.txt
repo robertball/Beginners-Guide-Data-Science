@@ -1,0 +1,72 @@
+Recipe number:
+245640.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-06T03:04:12.623
+helpfulCount:
+1
+userID:
+14322308
+Display Name:
+sher
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family and I loved it!! It came out perfectly. I followed Laura Reichartz’s advice and cooked it for 5 minutes for each pound @500 degrees. I will be using this recipe again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-11T04:17:30.63
+helpfulCount:
+0
+userID:
+14781089
+Display Name:
+Laura Reichartz
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1746127.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This won't let me change my recipe, but baking the roast at 500° for 50 minutes depending upon size, may dry your roast out, it should be 500° for EXACTLY 5 minutes per pound. If they're going to change a recipe, wish they'd do it to make it better, not dryer!

@@ -1,0 +1,37 @@
+Recipe number:
+256871.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-06T21:44:55.823
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! I marinated the chicken overnight for maximum flavor. I did take the skin off of the chicken legs to make them a bit healthier. I baked these for about 30 minutes, removed the cover and about 20-30 minutes more (they were really big legs), basting a few times in the glaze. Really nice flavors...I would make this again! Thanks for sharing. :)

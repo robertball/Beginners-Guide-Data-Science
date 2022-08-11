@@ -1,0 +1,72 @@
+Recipe number:
+261297.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-19T14:23:07.94
+helpfulCount:
+1
+userID:
+23654343
+Display Name:
+Dr. Cherise Monique Murphy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5355937.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the simple recipe and they were very tasty/smooth!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-31T00:33:06.54
+helpfulCount:
+0
+userID:
+630959
+Display Name:
+JUMPERGIRL1
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+1096
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3762976.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for our New Years Eve celebrations and dipped into it early. Unbelievably delicious! I didn't change a thing. Found recipe in Allrecipes magazine. I highly recommend subscribing, as it makes a wonderful companion to the website. Hope you enjoy as much as we did!

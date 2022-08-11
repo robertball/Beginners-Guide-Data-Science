@@ -1,0 +1,37 @@
+Recipe number:
+150065.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-16T20:18:25.243
+helpfulCount:
+2
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Twice I tried to turn the sugar into caramel around the rim of the glass. Twice I failed, sugar would not turn into caramel. So I finally used brown sugar to coat the rim of the glass. Hence the 4 star rating.  Tasty with a nice presentation.

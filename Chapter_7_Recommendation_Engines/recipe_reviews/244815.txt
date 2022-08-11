@@ -1,0 +1,72 @@
+Recipe number:
+244815.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-08T09:38:02.65
+helpfulCount:
+1
+userID:
+12852155
+Display Name:
+Alwotaid
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+205
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely wonderful
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-31T18:00:17.283
+helpfulCount:
+0
+userID:
+22291055
+Display Name:
+Misty Hanscomb
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delicious!

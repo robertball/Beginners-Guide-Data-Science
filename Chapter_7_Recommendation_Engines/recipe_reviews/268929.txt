@@ -1,0 +1,72 @@
+Recipe number:
+268929.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-22T00:57:29.597
+helpfulCount:
+0
+userID:
+23984671
+Display Name:
+Andrea Stevens Althouse
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+143
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5581375.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a hit at a family Christmas party. I did use the entire 7 oz. jar of marshmallow fluff and added a dash of vanilla extract. Regular honey graham crackers complimented this well.
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-30T23:48:45.42
+helpfulCount:
+0
+userID:
+22120455
+Display Name:
+Cindy Hough
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+268
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6332956.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is easy and good. It’s a nice change from cheese ball or fruit dip

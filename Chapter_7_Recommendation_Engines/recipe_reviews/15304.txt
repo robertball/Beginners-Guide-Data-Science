@@ -1,0 +1,38 @@
+Recipe number:
+15304.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-04-25T08:18:57.623
+helpfulCount:
+6
+userID:
+62689
+Display Name:
+GULNAREE_C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+too liquid to make cookies drop
+so instead I made them as cookies bar

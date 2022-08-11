@@ -1,0 +1,107 @@
+Recipe number:
+273572.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-15T15:06:22.483
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and at 45 minutes I ended up with oven baked potato chips that were crispy and full of flavor. While not a side dish as I had intended them to be, they were excellent actually. If you are looking for a side dish to go with a dinner I recommend reducing the cook time so that you don't end up with chips. For me, I will let them go 45 minutes and use this recipe to make potato chips because they were that good.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-20T14:42:47.093
+helpfulCount:
+0
+userID:
+3949253
+Display Name:
+Angela Kinnard
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and better than frying them
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-29T14:31:35.26
+helpfulCount:
+0
+userID:
+4641753
+Display Name:
+KBJR
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+251
+favoritesCount:
+228
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7533484.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These potatoes were excellent! Nothing else to say.

@@ -1,0 +1,72 @@
+Recipe number:
+215683.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-12-02T14:32:13.353
+helpfulCount:
+15
+userID:
+129061
+Display Name:
+Ann Maksymiw
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+119
+favoritesCount:
+544
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1311415.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was quite tasty, but a little dry.  Maybe it was the meat I used.  It had very little fat in it.  Husband enjoyed the unusual flavour of the mint in such a beefy dish.  Easy to prepare for an evening meal.
+Review:
+Rating:
+2
+dateLastModified:
+2012-09-25T16:17:37.283
+helpfulCount:
+2
+userID:
+9880328
+Display Name:
+catpawsoup
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/885681.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love all the ingredients in this recipe, but I did not enjoy this dish.  The final product came out soggy and bland.  It was not unpleasant so I think I may tamper with cooking process by baking the stuffed zucchini in the oven, add more spices and veggies.

@@ -1,0 +1,74 @@
+Recipe number:
+45134.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-05-30T06:45:50.3
+helpfulCount:
+9
+userID:
+739789
+Display Name:
+Baby Whisperer
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+134
+favoritesCount:
+331
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5539519.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really yummy.  I did make some changes due to what I had on hand.  I used a 4 ounce can of chopped green chilis instead of the pepper, and only half a can each of black and white beans, I thought two whole cans would be too much, and one bunch of green onions. The best part is this stored very well in the frig and we ate off it for 3-4 days, and it did not get soggy or gross!  My whole family loved it as well as the friends I originally made it for the first day!  Will make again!
+Review:
+Rating:
+4
+dateLastModified:
+2008-08-18T21:48:33.96
+helpfulCount:
+4
+userID:
+3089408
+Display Name:
+na0
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/107253.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was a easy dip to make and it was relatively cheap to make as well. 
+good for a last minute potluck/bbq. 
+the cream cheese and taco seasoning really threw my boyfriend for a loop. lol "what is this?!"

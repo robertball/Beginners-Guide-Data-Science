@@ -1,0 +1,107 @@
+Recipe number:
+221084.txt
+Review:
+Rating:
+2
+dateLastModified:
+2012-05-14T02:06:27.193
+helpfulCount:
+6
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really did not care for this. I broiled the chicken and cooked the bacon in a microwave bacon cooker, which made both pretty easy. I was trying to copy a chicken alfredo pasta at Whole Foods that is slightly creamy with pasta, alfredo sauce, chicken, tomates and lettuce. This was not quite it, from the dressing. The pasta salad had such a tart unpallatable after taste. I am assuming that the slight tart bite was from the olives and artichokes in this version. I wish I would have cut the vinegar back too. I am not sure it really even needed the vinegar. I am almost thinking there is a misprint in the recipe. It was too acidic for me, and missing that alfredo flavor I was hoping for, but hopefully someone will eat it. It was really expensive to make.
+Review:
+Rating:
+3
+dateLastModified:
+2014-08-10T17:16:31.897
+helpfulCount:
+1
+userID:
+630835
+Display Name:
+Rebekah Rose Hills
+isPro:
+False
+followersCount:
+213
+followingCount:
+0
+madeRecipesCount:
+383
+favoritesCount:
+4579
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3790245.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I omitted the vinegar and the green onions and otherwise followed the ingredients. I cooked the chicken in the bacon grease (one less dirty pan!) and otherwise followed the instructions / recipe. I thought this was tasty! (ETA: This is really best eaten when it's first made, in my opinion, the sauce isn't creamy anymore after it's refrigerated and the pasta has time to absorb a lot of it, but you can't really reheat it that well because of the cucumber. I ate this for lunch a couple times at work, but really didn't care for the leftovers that much. I like the idea of this - but it does make a lot and is probably best eaten right away.)
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-11T16:28:57.92
+helpfulCount:
+0
+userID:
+21353083
+Display Name:
+Julie Monson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used marrows instead of cucumber & thick cream instead of alfredo sauce. Delish!

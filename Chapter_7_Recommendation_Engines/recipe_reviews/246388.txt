@@ -1,0 +1,37 @@
+Recipe number:
+246388.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-07-08T00:25:00.66
+helpfulCount:
+0
+userID:
+18064141
+Display Name:
+Elizabeth Currier
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+80
+favoritesCount:
+151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5516155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was perfectly fine, if a little simple. Just lacking some kick and too few ingredients to make an excellent chili.

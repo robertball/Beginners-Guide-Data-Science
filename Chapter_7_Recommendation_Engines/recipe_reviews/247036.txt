@@ -1,0 +1,37 @@
+Recipe number:
+247036.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-12T12:45:30.803
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6889
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I thought I had pineapple rings on hand, but I only had chunks, so I used those. Also, I only keep white balsamic vinegar on hand, so I used that. Great combo of flavors...a definite keeper~YUM!!!!! Thanks for sharing. :)

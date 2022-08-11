@@ -1,0 +1,92 @@
+Recipe number:
+11565.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/11/2003
+helpfulCount:
+4
+userID:
+786906
+Display Name:
+TMASTER121212
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe was very good and easy to make. It was smoother than no-bake oatmeal cookies. Next time I think I will try adding honey to it and maybe a few more chocolate chips. Try this one.
+Review:
+Rating:
+3
+dateLastModified:
+05/23/2006
+helpfulCount:
+4
+userID:
+566007
+Display Name:
+CCRAIG
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/312126.jpg
+text:
+I had a hard time combining the oatmeal and chocolate chips into the batter and have everything stick together. If I were to make this again I'd cut the oatmeal by at least a quarter if not by half. The dough would be much easier to handle this way.
+Review:
+Rating:
+5
+dateLastModified:
+03/11/2012
+helpfulCount:
+4
+userID:
+2719400
+Display Name:
+sueb
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/274670.jpg
+text:
+I used the whole egg rather than the whites omitted the salt and doubled the amount of chips! Because I used whole wheat flour it didn't surprise me that I didn't need the full amount of oatmeal called for. These are great little cookies!
+Review:
+Rating:
+5
+dateLastModified:
+03/14/2004
+helpfulCount:
+2
+userID:
+879771
+Display Name:
+MACKALLEN
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/259041.jpg
+text:
+I used an old coffee grinder to cut up my oats into "quick cooking" ones--worked great. I replaced 1/2 c. of flour with malted milk powder just to see what I'd end up with. I like the way they taste with my malt experiment but I can see how these would be really good if one were to follow the recipe!
+Review:
+Rating:
+4
+dateLastModified:
+08/29/2002
+helpfulCount:
+2
+userID:
+172410
+Display Name:
+DYNMYT
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+mmm....
+Review:
+Rating:
+5
+dateLastModified:
+04/19/2015
+helpfulCount:
+0
+userID:
+7885042
+Display Name:
+Vc
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Really good!

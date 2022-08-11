@@ -1,0 +1,183 @@
+Recipe number:
+220731.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-14T17:42:33.2
+helpfulCount:
+6
+userID:
+2394884
+Display Name:
+It's Tava Time
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+80
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made these 3 times in the past 2 months and am getting ready to make them again tomorrow! They are a hit with my family--especially the kids, and I took them to a meal swap where they were a favorite!
+
+I changed the recipe up some... First, I omitted the salt. With the packaged taco seasoning, it didn't need anymore salt. Second, I added a tsp more cumin and used an entire onion. I also use kidney beans instead of pinto and plan to make them with black beans one of these times! I also use olive oil instead of peanut oil in the mixture and for frying. 
+
+As with traditional falfalfel, it's better to add the bread crumbs and let the mixture set at least 30 minutes. Much easier to form and fry! I do not deep fat fry mine, but rather skillet fry and I make patties vs balls.  Also, it has always taken 1 1/2c bread crumbs vs 1 cup. Again, they fry much better when dryer. 
+
+Serve with homemade salsa and you have an incredible meal!  Enjoy! (PS--sometimes I also serve with tortillas, fresh tomatoes and lettuce)!
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-13T09:51:49.86
+helpfulCount:
+4
+userID:
+2493475
+Display Name:
+Jamie Justice Yost
+isPro:
+False
+followersCount:
+180
+followingCount:
+0
+madeRecipesCount:
+226
+favoritesCount:
+706
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7673747.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't able to deep-fry these, so I just skillet-fried 'em!  Good, especially when served with sour cream and salsa (I *may* have added some green onions on top for color, too.  Hehe.)  The only real change (besides frying technique) was that I used homemade taco seasoning instead of the packet.
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-03T17:07:41.913
+helpfulCount:
+2
+userID:
+13716749
+Display Name:
+chef982
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really easy and delicious! Make a recipe for chili sauce and it will be complete.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-13T23:38:48.447
+helpfulCount:
+0
+userID:
+6492551
+Display Name:
+Peggy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+109
+favoritesCount:
+1062
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1343070.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this mostly as written, using the taco seasoning recipe from this site, cracker crumbs in place of bread crumbs (had to use them up) and added about a cup of pre-cooked quinoa to bulk up the protein and stretch the recipe. They were very good, tho I may have overdone the cayenne a little, because they were a little spicy, and we like spicy food. I'll keep them in my new vegetarian rotation.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-05T22:44:48.773
+helpfulCount:
+0
+userID:
+1700194
+Display Name:
+Sheila Hickson Haliotis
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+93
+favoritesCount:
+300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2616256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I omitted the cayenne and pan-fried them as patties in a little bit of oil. They were excellent, the family loved them! Next time I will serve them on deli rounds with lettuce, tomato, onion, avocado & chipotle mayo.

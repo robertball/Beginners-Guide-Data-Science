@@ -1,0 +1,37 @@
+Recipe number:
+40508.txt
+Review:
+Rating:
+2
+dateLastModified:
+2006-02-11T16:22:54.123
+helpfulCount:
+0
+userID:
+1111897
+Display Name:
+Cafe Martin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+236
+favoritesCount:
+449
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7193374.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While easy to make this dish didn't have much flaver.  I won't try it again.

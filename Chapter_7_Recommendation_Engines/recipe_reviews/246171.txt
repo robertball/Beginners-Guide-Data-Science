@@ -1,0 +1,37 @@
+Recipe number:
+246171.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-20T12:28:22.823
+helpfulCount:
+1
+userID:
+5721537
+Display Name:
+Michelle
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe, it is very versatile.  I forgot to mention that if you use the Kombu seaweed for the dry beans, be sure to remove as much as possible before blending (otherwise it might add flavor).  I am allergic to tahini, so I often use sunbutter or almond butter.  The last time I made it I used sunflower oil and it was really good.  Try to get an oil that will not impart any taste (some oils really do not have good flavor at all and will affect the overall taste of the hummus).  The fresh parsley also gives it a pop of flavor so don't leave it out!

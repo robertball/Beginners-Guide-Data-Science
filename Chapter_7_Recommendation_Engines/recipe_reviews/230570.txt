@@ -1,0 +1,37 @@
+Recipe number:
+230570.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-01T11:59:43.93
+helpfulCount:
+8
+userID:
+3619188
+Display Name:
+JCray
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tons of flavor and depth! Rich and indulgent. It would be very easy to alter this recipe for taste preference, fat reduction, etc. It's bad enough when people significantly change a recipe and then rate it, but who would rate a recipe he/she hasn't even tried? Doesn't it say, "have you tried this recipe?"  Yeesh!

@@ -1,0 +1,37 @@
+Recipe number:
+240042.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-21T00:57:21.917
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out great. I subbed honey for the agave nectar and canola for the sunflower oil. Both tasted fine. I really felt like it needed a topping, so I made a Cool Whip pudding frosting for it. It is very moist. I made half the recipe and put it in a round cake pan.

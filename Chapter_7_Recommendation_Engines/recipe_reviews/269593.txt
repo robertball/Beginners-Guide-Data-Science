@@ -1,0 +1,37 @@
+Recipe number:
+269593.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-04T18:26:27.527
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out good and the flavor was delicious. I do however think this would be a 5 star if you grilled the steaks instead of broil. I will do that next time and there will be a next time because the flavor was delicious!

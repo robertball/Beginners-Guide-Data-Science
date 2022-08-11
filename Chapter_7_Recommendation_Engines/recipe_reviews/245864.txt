@@ -1,0 +1,72 @@
+Recipe number:
+245864.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-06T01:33:00.407
+helpfulCount:
+1
+userID:
+24044349
+Display Name:
+ExactlyAsIs
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made this recipe three times before "perfecting" it to our liking.  We substituted 2 tbsp of reduced sodium soy sauce for the Green Mountain seasoning and cut the curry paste in half.  We then expanded the stir-fry to include beef, zucchini, baby corn, red peppers and water chestnuts.  Now we are arguing over which of us gets to have the leftovers for lunch.  :o)
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-03T17:03:03.977
+helpfulCount:
+1
+userID:
+17812749
+Display Name:
+Danica Deans
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3438817.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! I've been looking for a recipe to mock a Thai Avocado Curry we have in San Diego at a Thai restaurant, since we moved to Jacksonville, and this is close to it. I used chicken,. Next time I'll double the amount of sauce though, sauce is the best part of curry! Atop of jasmine rice - YUM. Thank you for the recipe!

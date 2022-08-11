@@ -1,0 +1,72 @@
+Recipe number:
+233558.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-22T04:48:14.14
+helpfulCount:
+2
+userID:
+3549535
+Display Name:
+Lilcat
+isPro:
+False
+followersCount:
+42
+followingCount:
+0
+madeRecipesCount:
+224
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2091921.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I took this to the fellowship hour at church.  Everyone raved and had to have the recipe.  I usually make a recipe as written when making for the first time; however I was not at all sure that a layer cake would transport easily.  So here is what I did: I made the cake as written, removed from the pan and cooled.  Instead of splitting and filling the cake I made a coller for the pan, placed it back in the 9x13 and put the pie filling on top.  I then mixed up the pudding and poured it on the pie filling and chilled until solid.  I frosted with the Cool Whip and sprinkled pecans on top.  I omitted the caramel ice cream topping all togather as I like tart and felt it would add too much sweetness.  I will make this again, maybe next time with the ice cream topping.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-17T22:26:26.797
+helpfulCount:
+0
+userID:
+24081724
+Display Name:
+Randy B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5648153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for friends and family. I will definitely make it again

@@ -1,0 +1,72 @@
+Recipe number:
+238633.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-19T11:33:16.7
+helpfulCount:
+0
+userID:
+17369967
+Display Name:
+Gary Schelvan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7458026.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this excellent chili with just a few minor modifications. I added in 2 cans of whole kernel corn and 1 yellow bell pepper chopped up. I also added in a can of pitted black olives cut in half for more texture, also sauteed up 2 large chicken breasts and chopped them up for the chicken portion. Very, very good 2 meals!~
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-12T00:13:39.217
+helpfulCount:
+0
+userID:
+1171191
+Display Name:
+Phoebe
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+390
+favoritesCount:
+2762
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/572879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Since I am by myself, I cut the cans to 1 each  instead of 3 and just used smaller onions and bell peppers.  Plus I have purchased a smaller crock pot which is a good idea for some recipes.   Nice change.

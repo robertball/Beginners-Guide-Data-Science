@@ -1,0 +1,37 @@
+Recipe number:
+274463.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-08-30T23:58:39.59
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+396
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After tasting the pumpkin-cream cheese mixture I thought it desperately needed some type of sweetener. I checked the original recipe that had been submitted and there is no sweetener listed. I knew we would not care for these made as written so I went ahead and added 1/2 cup sugar. The ratio of pumpkin-cheesecake mixture to the crust and streusel is way off. More filling is needed. They were just ok, but not something I would make again.

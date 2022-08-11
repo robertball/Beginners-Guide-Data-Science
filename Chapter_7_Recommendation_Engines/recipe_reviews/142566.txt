@@ -1,0 +1,107 @@
+Recipe number:
+142566.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-07-12T09:22:11.563
+helpfulCount:
+16
+userID:
+2065260
+Display Name:
+Michelle Clay
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/31550.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I were torn on this meal. The couscous salad was amazing, however the pork was very spicy. If I made this again I would definately use less rub and add at least 2 T of brown sugar. I did variate on the recipe: I marinated it for a couple hours in olive oil and the "rub", then tossed it in the spices before cooking. Upon tasting it we actually rinsed the pork off to make it less bitter, then dipped it in brown sugar as we ate.
+Review:
+Rating:
+2
+dateLastModified:
+2007-08-22T06:03:16.22
+helpfulCount:
+13
+userID:
+2462735
+Display Name:
+Sandy G.
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+265
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/41886.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made this per the instructions but without the cucumber bed.  We try to be adventurous, but there was such a huge clash of flavors!  We liked it at first, but by the time we finished my husband didn't even want to look at the food!  We liked the couscous and I would try it again with less of the onions and dried cherries.  Taken separately there are good elements in this meal, but together--way too much flavor competition!
+Review:
+Rating:
+4
+dateLastModified:
+2007-07-25T21:24:37.11
+helpfulCount:
+12
+userID:
+663246
+Display Name:
+DARCYMAE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+pretty good. we had never had couscous before and we thought it was GREAT!

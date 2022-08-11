@@ -1,0 +1,107 @@
+Recipe number:
+245373.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-13T23:42:45.503
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1103
+favoritesCount:
+3205
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made no changes and it was good. I think next time I will cut back a bit on the honey and it will be perfect for me.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-22T19:49:15.063
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and so easy to make! I made it exactly as written and the flavors were perfect. I did have to add a bit more milk because my blender wouldn't blend the frozen fruit, but then again, I don't have the best blender! Thanks for the tasty recipe Malanie!
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-12T05:07:33.123
+helpfulCount:
+0
+userID:
+16626618
+Display Name:
+Kenz B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3952185.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this recipe; this is perhaps the best smoothie I have ever had.  It truly does taste like a milkshake but all you put in it is healthy ingredients. Kids loved it.

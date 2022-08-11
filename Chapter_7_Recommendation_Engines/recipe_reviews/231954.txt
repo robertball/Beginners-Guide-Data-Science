@@ -1,0 +1,37 @@
+Recipe number:
+231954.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-01T22:55:29.487
+helpfulCount:
+0
+userID:
+15152446
+Display Name:
+jh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this recipe!  I like cole slaw anyway, but this is a step up!  I am not a fan of raw onions, so I left them out.  I also was running low on mayo so the dressing turned out a bit thin, stick with the original amount if you can.  I used 1/2 cup sugar instead of 3/4 and it still turned out pleasantly sweet - this probably depends more on how sweet your carrots and cabbage are to begin with.  So glad to find this recipe, definitely my new go-to for slaw!

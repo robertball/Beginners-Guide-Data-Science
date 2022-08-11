@@ -1,0 +1,37 @@
+Recipe number:
+257219.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-04-12T11:52:27.613
+helpfulCount:
+7
+userID:
+2335223
+Display Name:
+Irene
+isPro:
+False
+followersCount:
+171
+followingCount:
+0
+madeRecipesCount:
+530
+favoritesCount:
+726
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2394505.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I often make congee (but not with fish, which is why I tried this recipe) and I'm a stickler for some things, so I didn't follow this recipe exactly. I didn't use chicken granules; I used sesame oil, corn starch, and white pepper to marinate and used the green onion and ginger as toppings instead. I didn't use as much water because I like it thicker, and it also took longer than 20 minutes to get the porridge to a consistency that I like. Also, I used fresh cod for the fish. A nice simple breakfast. Even though I made changes I think this is a good basic recipe. Note to other cooks: the ingredients say parsley but that means Chinese parsley AKA cilantro.

@@ -1,0 +1,37 @@
+Recipe number:
+273347.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-02T20:00:41.043
+helpfulCount:
+1
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+1985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just ok for hubby and me. The cake part itself is pretty good, albeit a bit sweet, but the frosting was not a favorite. It had the consistency of a melted marshmallow, which made it somewhat difficult to spread on the cake. And once the layers were stacked on top of each other, the frosting just oozed out the sides, making a mess of things. It was also very sweet, with not much flavor other than sugar. I would also enjoy more coconut flavor throughout the cake and frosting, instead of just putting some coconut on the outside. Overall though, I could see making this again, but with a few tweaks.

@@ -1,0 +1,72 @@
+Recipe number:
+235161.txt
+Review:
+Rating:
+1
+dateLastModified:
+2014-07-19T14:47:19.553
+helpfulCount:
+2
+userID:
+13939971
+Display Name:
+Lee Gibson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1267992.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+That was truly disappointing. I will not be doing that again.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-17T16:40:44.967
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9649
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First things first and this injection was excellent.  Where the confusion came in for me is in the smoking directions. 4 hours on a smoker and then another 8 hours in the oven would be overkill. I understand why it is pulled off of the smoker and finished in the oven (smoke flavor) but I chose to do it all on the smoker. After I got the smoke I desired on it I wrapped it in foil until the last hour where I pulled it off to get the bark back on it.  265 for 6 hours was perfect. This is an excellent injection and one I will use again.

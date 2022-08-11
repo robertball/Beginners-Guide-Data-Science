@@ -1,0 +1,37 @@
+Recipe number:
+239585.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-11-29T17:31:46.323
+helpfulCount:
+1
+userID:
+16839678
+Display Name:
+Nancy Davis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6086110.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used fresh cooked bacon and the cream cheese was strong but tasted good. I would however try using regular milk instead of heavy cream it was too much

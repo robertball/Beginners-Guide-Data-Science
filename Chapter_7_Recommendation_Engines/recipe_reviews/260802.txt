@@ -1,0 +1,37 @@
+Recipe number:
+260802.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-02T16:41:08.547
+helpfulCount:
+0
+userID:
+3031597
+Display Name:
+barbara
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+600
+favoritesCount:
+261
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/254187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+easy and healthy dish

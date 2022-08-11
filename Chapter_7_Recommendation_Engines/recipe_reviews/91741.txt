@@ -1,0 +1,47 @@
+Recipe number:
+91741.txt
+Review:
+Rating:
+5
+dateLastModified:
+10/30/2006
+helpfulCount:
+5
+userID:
+2139257
+Display Name:
+hunter
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is a very tasty recipe. Try it for family!
+Review:
+Rating:
+5
+dateLastModified:
+04/04/2007
+helpfulCount:
+2
+userID:
+2072427
+Display Name:
+sobiebaker
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These are amazing bars!  My family loved them.  It tastes just like their topped with mint ice cream!  I will make this recipe again and again.  I LOVE it!
+Review:
+Rating:
+5
+dateLastModified:
+02/01/2008
+helpfulCount:
+2
+userID:
+2479939
+Display Name:
+Sumchelle
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+OMG!  Second time I made this, I got it right.  For the record, don't use Cool Whip instead of real Whipping Cream.  It wasn't pleasant... But, making as written, not only do you have picture perfect presentation - but you have one of the best brownie desserts EVER!  Pleasantly minty - not overwhelming / not too mild.  It DOES taste like ice cream! (I omit the nuts and drop a few extra mini-chocolate chips on top for added visual appeal)

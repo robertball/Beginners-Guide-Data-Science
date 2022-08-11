@@ -1,0 +1,37 @@
+Recipe number:
+245637.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-05T03:43:37.963
+helpfulCount:
+1
+userID:
+21619631
+Display Name:
+moondancer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very cute.  A bit involved to put together.  Can't make them in advance because they get mushy pretty quickly.  Everyone loved how they looked but they did not disappear like the other appetizers.

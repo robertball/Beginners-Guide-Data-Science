@@ -1,0 +1,37 @@
+Recipe number:
+268087.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-29T22:22:10.113
+helpfulCount:
+1
+userID:
+11481607
+Display Name:
+Maria DiGregorio
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1362247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was AMAZING! Next time I will use shrimp and just add it to the end. Very flavorful. I left out the cayenne pepper and used pepper flakes instead. My husband loved it also. Will definitely make this again!

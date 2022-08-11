@@ -1,0 +1,107 @@
+Recipe number:
+238057.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-01T13:51:51.81
+helpfulCount:
+2
+userID:
+10784501
+Display Name:
+Chaser
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome!  Kids loved it!   Would be great with chicken breasts and rice too.
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-14T15:38:10.13
+helpfulCount:
+1
+userID:
+7264554
+Display Name:
+Carole Mayer
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1757802.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added pineapple bits, made it even better.
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-09T18:11:43.22
+helpfulCount:
+1
+userID:
+4029812
+Display Name:
+Hanks Aunt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+411
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/683792.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sounds delish!I,ll try it! I have wings in the freezer now.

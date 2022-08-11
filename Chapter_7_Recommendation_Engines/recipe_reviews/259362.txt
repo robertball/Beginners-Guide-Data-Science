@@ -1,0 +1,37 @@
+Recipe number:
+259362.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-27T02:35:45.987
+helpfulCount:
+0
+userID:
+9532075
+Display Name:
+Sdbaker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good!  I used half and half instead of full cream which made it a bit thinner.  I also substituted thick cut bacon for salt pork. I will definitely make this again!

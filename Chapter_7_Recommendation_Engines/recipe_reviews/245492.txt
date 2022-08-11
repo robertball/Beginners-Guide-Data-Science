@@ -1,0 +1,37 @@
+Recipe number:
+245492.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-21T15:28:29.86
+helpfulCount:
+0
+userID:
+18107279
+Display Name:
+Marsha
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+on the first bite, I didn't care for the cocoa powder and Himalayan salt coating but enjoyed the center. but then it kind of grows on me. I will make again!

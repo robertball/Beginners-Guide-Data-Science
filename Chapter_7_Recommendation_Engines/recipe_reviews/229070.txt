@@ -1,0 +1,72 @@
+Recipe number:
+229070.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-04-13T18:34:48.117
+helpfulCount:
+4
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+272
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3415
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am not really sure how to rate this because as written - this recipe did not work for us.  It was very thick & sweet & the sugar stayed  crystallized so it was crunchy and grainy.   It also didn't incorporate well on low speed.   After trying it the first time I decided to try and adjust the recipe.  I transferred it to a blender and added cider vinegar to taste - probably total about 1/2 cup.  After blending on high with the extra liquid the grainy texture completely disappeared and the dressing was sweet, but, also had a slight tang to it.  It was personally still too sweet for me, but, my husband thought it was great after the changes and gave it five stars.  The sweetness may just be a personal preference, but, as written the dressing was really thick almost like a mayonnaise and very grainy.  If you like creamy French or Catalina dressing I would give it a try, but, I would reduce the sugar and add an acid like vinegar or lemon juice.  If you like it - great.  If not, it was very easy to make adjustments to your taste and still make it work.
+Review:
+Rating:
+1
+dateLastModified:
+2015-07-31T12:01:56.2
+helpfulCount:
+1
+userID:
+15820200
+Display Name:
+Anne Collins
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+846
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3439988.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tooo sweet!!!!!!!

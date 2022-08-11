@@ -1,0 +1,37 @@
+Recipe number:
+257400.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-11-07T15:00:32.17
+helpfulCount:
+1
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+239
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I feel like this recipe has a lot of potential and could be 5 stars with a few small changes. The sauce tasted like cream cheese with only the tiniest hint of mango. I doubled the jam to increase the mango flavor, but that made it sweet like a dessert, and still didn't offer much mango flavor. The shallots were a much needed balance of flavor, but I didn't love the how strong the raw shallots were. I will try this again and next time: 1. Reduce sauce by half because as is it yields way too much. 2. Experiment with some seasoning in the bread crumbs and/or sauce to enhance flavor 3. Sauté the shallots.

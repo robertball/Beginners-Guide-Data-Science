@@ -1,0 +1,107 @@
+Recipe number:
+222061.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-14T19:18:17.343
+helpfulCount:
+1
+userID:
+4679651
+Display Name:
+Life Tastes Good
+isPro:
+False
+followersCount:
+259
+followingCount:
+0
+madeRecipesCount:
+223
+favoritesCount:
+476
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2789776.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was yummo! Add ice to the mix and you'll have a 5 star smoothie (so much better ice cold). Thanks for a nice combo of flavors!
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-16T16:54:47.99
+helpfulCount:
+0
+userID:
+10415507
+Display Name:
+BK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time trying a smoothie - not a big fruit eater and thought would be a good way to add fruit and have for breakfast.  I used Flax seed instead as that is what i had on hand.  Neighbor gave me a couple mangos from her tree so that also inspired me to try this smoothie.  Really nice flavor - will definitely make again.
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-03T11:37:55.93
+helpfulCount:
+0
+userID:
+2776174
+Display Name:
+Dena Newkirk
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1473446.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great smoothie!  I love that it has Chia seeds in it but you will not taste them.

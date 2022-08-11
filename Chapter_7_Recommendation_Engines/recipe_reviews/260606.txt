@@ -1,0 +1,107 @@
+Recipe number:
+260606.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-22T16:18:08.657
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out great and I just realized that I totally spaced the parsley which would have made it even better. After tasting it I thought it could use more pepper (the parsley I overlooked would have solved that) and I added some crushed pink peppercorn. So with that being said, this would be perfect as written!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-17T01:15:23.297
+helpfulCount:
+0
+userID:
+24751843
+Display Name:
+Jezza Arteaga
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6125974.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!!
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-18T21:29:29.273
+helpfulCount:
+0
+userID:
+24574583
+Display Name:
+T Merz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5994822.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good. I usually don’t like honey mustard dressing, but this was pretty yummy. My daughter that likes honey mustard tasted it, said it was really tasty, and asked if I had any left.

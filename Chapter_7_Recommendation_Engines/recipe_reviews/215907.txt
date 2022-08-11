@@ -1,0 +1,37 @@
+Recipe number:
+215907.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-07-03T11:40:50.867
+helpfulCount:
+6
+userID:
+1173088
+Display Name:
+*~Lissa~*
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+510
+favoritesCount:
+876
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/825742.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are pretty simple to make and yummy.  They are not overly sweet which makes them a nice dessert for people who aren't big on sweets.  I think I would cut back on the salt a tad though.  Used [unsalted] butter cut in with a pastry cutter, not shortening, and I had chopped dates on hand so I used those instead of the pitted Medjool dates.  Maybe I will try all apricots next time.

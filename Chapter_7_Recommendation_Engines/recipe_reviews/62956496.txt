@@ -1,0 +1,37 @@
+Recipe number:
+62956496.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-03T16:45:50.653
+helpfulCount:
+0
+userID:
+7868374
+Display Name:
+The Sporadic Cook
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/801507.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so easy to make and takes way less time than traditional Spanish rice. Tasty!

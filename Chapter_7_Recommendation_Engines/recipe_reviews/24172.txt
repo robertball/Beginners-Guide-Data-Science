@@ -1,0 +1,72 @@
+Recipe number:
+24172.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-04-08T09:51:45.593
+helpfulCount:
+10
+userID:
+1395008
+Display Name:
+CHEFSCHROCK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/154.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with a habanero/pepper jack cheddar cheese (shredded) instead of processed cheese food, and still didn't think it was "spicy."  Will try it again and add in some hot pepper sauce or cayenne pepper.  Had a great texture though and could even been rolled into a ball and coated with nuts for a cheese ball.
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-07T10:05:16.52
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy dip... I used some homemade deviled ham and homemade processed cheese... mexican blend.   Tasty. Would be great for lunch too on a sandwich

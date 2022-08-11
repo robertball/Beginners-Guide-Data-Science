@@ -1,0 +1,72 @@
+Recipe number:
+64606148.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-27T16:06:38.197
+helpfulCount:
+0
+userID:
+21558058
+Display Name:
+Shelley Smith
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+289
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and hubby had decided these are his new favourite cookies!
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-20T04:35:56.517
+helpfulCount:
+0
+userID:
+218344
+Display Name:
+magicallydelicious
+isPro:
+False
+followersCount:
+285
+followingCount:
+0
+madeRecipesCount:
+201
+favoritesCount:
+725
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367014.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I forgot to mention, this is the recipe as written.  I do make one change when I make them.  I reduce the cloves to 1/2 t because it's not a flavor I really enjoy.  With that reduction, you don't taste clove, but it still plays a part in the complexity of the spice of the cookies.

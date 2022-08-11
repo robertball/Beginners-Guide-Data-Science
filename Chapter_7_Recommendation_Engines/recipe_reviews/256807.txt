@@ -1,0 +1,37 @@
+Recipe number:
+256807.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-07-16T01:03:58.287
+helpfulCount:
+0
+userID:
+2112806
+Display Name:
+cowgirll
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+1078
+favoritesCount:
+1689
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/28463.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a waste of lobster. All you could taste was spinach dip.

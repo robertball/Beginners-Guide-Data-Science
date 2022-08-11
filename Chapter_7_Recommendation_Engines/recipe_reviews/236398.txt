@@ -1,0 +1,37 @@
+Recipe number:
+236398.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-15T19:49:53.603
+helpfulCount:
+1
+userID:
+1629558
+Display Name:
+Staci
+isPro:
+False
+followersCount:
+241
+followingCount:
+0
+madeRecipesCount:
+223
+favoritesCount:
+1374
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2404307.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! We really enjoyed this dish. It didn't blow me away (hence 4 stars), but it was definitely good. It's not pretty, but has a very nice flavor. I thought the wine would be overpowering - it wasn't. I did forget the parsley, but doubt that made a difference, and I used penne since my grocery didn't carry Barilla rigatoni. My only real complaint was difficult timing with things cooking in 3 different pans. Another winner from Barilla!

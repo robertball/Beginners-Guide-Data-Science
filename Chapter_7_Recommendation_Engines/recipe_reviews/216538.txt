@@ -1,0 +1,146 @@
+Recipe number:
+216538.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-06-11T11:59:47.103
+helpfulCount:
+13
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5861
+followingCount:
+0
+madeRecipesCount:
+2946
+favoritesCount:
+6096
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Unusual combination of ingredients.  I used 1/4 cup each mayonnaise and light Miracle Whip, and used kosher dill pickles.  The pickle flavor really dominates in this dish, and I don't think the kosher pickles (all I had) were the best choice.  One other comment...I think the yield is 4 servings (at least in this family), not 6, so plan accordingly.
+Review:
+Rating:
+4
+dateLastModified:
+2011-08-13T11:31:50.52
+helpfulCount:
+8
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6924
+followingCount:
+0
+madeRecipesCount:
+2655
+favoritesCount:
+3319
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8555880.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was different....and I liked it! I do think I would prefer less dill pickles next time (I used dill pickle relish) as it was pretty overwhelming, but not in a bad way, just a little much for me. On the other hand, my little guy (the pickle fanatic) tore it up, so I guess it's to be determined by the individuals personal tastes. LOVED the different textures in this and the longer it sat in the fridge, the better it was. Sueb, Thanks so much for sharing this wonderfully different, refreshing recipe! :)
+Review:
+Rating:
+5
+dateLastModified:
+2020-10-26T14:11:43.097
+helpfulCount:
+0
+userID:
+4004564
+Display Name:
+Tina
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1056056.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I changed it up a little but I liked it! 
+1 16 oz package frozen peas
+3/4 C dry roasted peanuts
+1/4 C diced dill pickles 
+Enough mayo to cover
+Review:
+Rating:
+3
+dateLastModified:
+2016-03-15T17:17:01.507
+helpfulCount:
+0
+userID:
+7416351
+Display Name:
+Jaime Tucker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5042391.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Reminds me of my Grandma's recipe. I used miracle whip instead, and used Spanish peanuts. I also used canned peas instead of frozen, since they blend in better. Also I used sweet pickles instead of dill, which I think is the most important part, as it doesn't overwhelm the recipe.

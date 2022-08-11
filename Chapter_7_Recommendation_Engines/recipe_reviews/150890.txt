@@ -1,0 +1,107 @@
+Recipe number:
+150890.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-03-16T12:46:02.583
+helpfulCount:
+1
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1714
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made these before with the dark chocolate and white chocolate Godiva liqueur. Very smooth and quite sweet, more like an after-dinner nightcap.
+Review:
+Rating:
+5
+dateLastModified:
+2009-03-21T13:01:08.3
+helpfulCount:
+0
+userID:
+2744565
+Display Name:
+Fit&Healthy Mom
+isPro:
+False
+followersCount:
+840
+followingCount:
+0
+madeRecipesCount:
+656
+favoritesCount:
+596
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/880026.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a treat!!! This was really good, but I think the cream was too much for my taste. Next time I will not add any cream and just add the liquors over crushed ice.
+Review:
+Rating:
+5
+dateLastModified:
+2009-03-13T18:32:06.63
+helpfulCount:
+0
+userID:
+2519856
+Display Name:
+ryan5678
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+113
+favoritesCount:
+788
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very creamy! Good dessert drink!

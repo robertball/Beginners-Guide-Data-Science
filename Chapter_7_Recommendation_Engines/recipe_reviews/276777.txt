@@ -1,0 +1,37 @@
+Recipe number:
+276777.txt
+Review:
+Rating:
+2
+dateLastModified:
+2020-01-10T23:04:47.433
+helpfulCount:
+0
+userID:
+26853803
+Display Name:
+MImom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good but for me it lacked flavor.. it was missing something, not sure what would of made it more flavorful, but cooking in only apple juice didn’t do it. If you’re good with spices, you could probably doctor this up and really make it good.

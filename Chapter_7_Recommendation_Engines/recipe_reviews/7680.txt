@@ -1,0 +1,37 @@
+Recipe number:
+7680.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-01-23T14:49:32.663
+helpfulCount:
+12
+userID:
+1484409
+Display Name:
+lisandreasings
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/13731.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We used apple sauce as a butter substitute and it was a wonderful taste addition--just took a few extra minutes to cook through.  This cake is quite tasty for those of us used to turbinado & whole wheat!  We decorated our circumfrence with berries & it made for a wonderful congratulations cake for my 3 1/2 year old who just started to READ!  :-D  Will make this regularly--thank you!  No eggs!  What a treat.

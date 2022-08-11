@@ -1,0 +1,72 @@
+Recipe number:
+32230.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-02T05:24:29.51
+helpfulCount:
+14
+userID:
+1153011
+Display Name:
+naples34102
+isPro:
+False
+followersCount:
+4530
+followingCount:
+0
+madeRecipesCount:
+3624
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7726176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hubby and I both enjoyed this and he's not even a fan of "fancy" coffee drinks. However, we both agreed this really tasted no different than simply coffee with Bailey's Irish Cream. I guess I was expecting a more unique flavor.
+Review:
+Rating:
+3
+dateLastModified:
+2008-11-24T13:06:06.21
+helpfulCount:
+5
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1661
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just okay. It didn't wow me like other alcoholic coffee drinks have from this site.

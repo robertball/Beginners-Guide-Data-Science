@@ -1,0 +1,72 @@
+Recipe number:
+215170.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-07-28T07:04:58.757
+helpfulCount:
+7
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1664
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a whole can of pineapple juice in this smoothie because that was all I had and I used "lite" strawberry yogurt. Kids thought this was tasty. Thanks.
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-09T13:34:40.49
+helpfulCount:
+4
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+775
+followingCount:
+0
+madeRecipesCount:
+1678
+favoritesCount:
+3992
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good, refreshing fruit juice based smoothie.  I used 2 generous tablespoons of crushed pineapple instead of 1/4 cup chunks since that was all I had.

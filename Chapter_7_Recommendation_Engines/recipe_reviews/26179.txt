@@ -1,0 +1,72 @@
+Recipe number:
+26179.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-02-25T12:31:50.293
+helpfulCount:
+11
+userID:
+1130614
+Display Name:
+HORSEFLESH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+384
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3056.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Ms. Snoop, I think you will only find out how they taste by making them.  Don't be afraid to experiment in the kitchen!  If you are still cautious about the port, try making a batch and only adding the port to half or a third of the dough.
+Review:
+Rating:
+5
+dateLastModified:
+2003-10-17T07:16:50.053
+helpfulCount:
+7
+userID:
+712183
+Display Name:
+MISS SNOOP
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been looking for a recipe like this for some time but I hesitate to use the port wine, only because I don't want to disguise my two favourite tastes, peanut butter and chocolate.  Has anyone tried this without the port wine?  How much does the port wine affect the taste? Can I successfully make these without the wine?  Comments pse.

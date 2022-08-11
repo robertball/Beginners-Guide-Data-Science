@@ -1,0 +1,72 @@
+Recipe number:
+261265.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-22T07:01:19.893
+helpfulCount:
+0
+userID:
+21678167
+Display Name:
+Sheyla
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved it!!!
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-24T16:37:24.56
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out pretty good. It needs more butter, cheese, and salt but that is an easy fix. I like that this can be made ahead of time.

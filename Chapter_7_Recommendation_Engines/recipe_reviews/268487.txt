@@ -1,0 +1,37 @@
+Recipe number:
+268487.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-05T01:12:03.843
+helpfulCount:
+0
+userID:
+557198
+Display Name:
+JSHONKA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+147
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent soup!  I modified it slightly because I did not have some of the ingredients on hand:  So I omitted the banana and brown sugar and increased the carrots to make up for no banana.

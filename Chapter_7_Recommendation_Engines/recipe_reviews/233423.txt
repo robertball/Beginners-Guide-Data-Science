@@ -1,0 +1,37 @@
+Recipe number:
+233423.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-07-23T07:26:51.373
+helpfulCount:
+1
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used vanilla greek yogurt and Stevia instead of white sugar. I did not bother to strain the seeds, I just threw everything into the blender and pureed everything until well blended. Interesting ice pop. It seems to be missing something I can't put my finger on.

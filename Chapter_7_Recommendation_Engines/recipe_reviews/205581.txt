@@ -1,0 +1,72 @@
+Recipe number:
+205581.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-07T02:15:44.52
+helpfulCount:
+0
+userID:
+10677021
+Display Name:
+Tamara Cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7011722.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So tasty!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-21T23:40:11.67
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was unable to find pigeon peas but with some research I found out that black eyes peas were a good substitute so that is what I did. I very much enjoyed this recipe and it was one I will most definitely make again!

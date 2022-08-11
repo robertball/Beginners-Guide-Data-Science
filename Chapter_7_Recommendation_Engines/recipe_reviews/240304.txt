@@ -1,0 +1,37 @@
+Recipe number:
+240304.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-31T11:10:08.873
+helpfulCount:
+2
+userID:
+3439303
+Display Name:
+tonia.st
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+67
+favoritesCount:
+1782
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3313718.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked these cookies but think they needed a bit more spice. I did substitute unbleached all-purpose flour for the whole wheat flour just because I didn’t have any. I added a half cup of pure chocolate chips but probably should have added more. The recipe said that it made 24 cookies but they would have been huge. I made 60 2-bite cookies as I was making them to be packaged for a bake sale. I think with a little tweaking to suit my tastes, these could become my go to pumpkin cookie!

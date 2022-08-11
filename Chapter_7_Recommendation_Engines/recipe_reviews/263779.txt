@@ -1,0 +1,40 @@
+Recipe number:
+263779.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-19T22:40:30.19
+helpfulCount:
+0
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The pancakes were easy to make and tasty, an added bonus is that they are dairy free which makes my older son happy. I did not make the topping as my youngest son wanted maple syrup. I think the topping would have been a delicious addition though. I added cinnamon and vanilla to the batter. I would have liked a stronger coconut flavour, maybe a drop of coconut extract would be good.
+#AllrecipesAllstarsCanada
+#InternationalFavourites
+#FacelessNoMore

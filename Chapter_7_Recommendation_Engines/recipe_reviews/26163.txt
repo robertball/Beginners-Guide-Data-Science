@@ -1,0 +1,107 @@
+Recipe number:
+26163.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-07-27T12:45:01.48
+helpfulCount:
+14
+userID:
+3717704
+Display Name:
+Cookin' Mama
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+273
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a great time searching for a Linzer Cookie recipe, as I love the true nutty, lemony flavor and chewy texture of Linzertorte.  This recipe really delivers and being a bar cookie saved me lots of time and effort in making individual rolled cookies.  I had a difficult time handling the lattice crust on top, however. My strips kept falling apart.  But overall this was an awesome treat.
+Review:
+Rating:
+5
+dateLastModified:
+2010-12-21T12:09:58.41
+helpfulCount:
+12
+userID:
+6104464
+Display Name:
+Lisa Marie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4638573.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delish!!! I added sugar to the recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2013-09-11T15:28:30.14
+helpfulCount:
+3
+userID:
+12008624
+Display Name:
+Mimi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this using raspberry jam for the filling. I mixed 1 1/2 Tbsp milk into the egg white for the glaze, mixing it with a fork; this makes it easier to brush on with a pastry brush while still giving a nice glaze to the dough. Using turbinado sugar for sprinkling on the dough (under glaze ingredients) bakes up well and adds a nice texture. Baking time was longer than suggested- about 23-25 minutes at 350 degrees.

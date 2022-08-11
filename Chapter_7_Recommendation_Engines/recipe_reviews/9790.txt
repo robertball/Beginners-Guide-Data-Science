@@ -1,0 +1,72 @@
+Recipe number:
+9790.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-08-01T20:22:54.277
+helpfulCount:
+1
+userID:
+2811605
+Display Name:
+LauraJLS
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+153
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1045951.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not bad, but I was not impressed. I probably will not make these again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-06T03:22:51.167
+helpfulCount:
+0
+userID:
+21760108
+Display Name:
+Kim Angulo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were a huge hit! I made the recipe for 60 for a coffee tasting that paired well with citrus and nuts and it made close to 200, but I may have made them smaller than suggested. Everyone who tried them loved them and all 200 were consumed within 2 days.

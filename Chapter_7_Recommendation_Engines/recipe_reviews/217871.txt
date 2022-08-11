@@ -1,0 +1,179 @@
+Recipe number:
+217871.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-05-20T18:53:05.44
+helpfulCount:
+7
+userID:
+484578
+Display Name:
+MN Nice
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+204
+favoritesCount:
+1063
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/708054.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-29T22:01:39.32
+helpfulCount:
+3
+userID:
+5124047
+Display Name:
+Ashley Taron
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+191
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2535956.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super moist and very delicious. This cake was a hit at our family's Easter dinner. The only thing that I would do different in the future is to chop the rhubarb significantly smaller, maybe even put it through the food processor. Other than that this cake is a real winner.
+Review:
+Rating:
+1
+dateLastModified:
+2016-06-06T15:31:36.39
+helpfulCount:
+1
+userID:
+2008352
+Display Name:
+Cindi M Bauer
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+1302
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7622683.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make a lot rhubarb desserts in the Summer, but for some reason this dessert just didn't wow us!  Hubby is the only one eating the remainder of the cake.
+Review:
+Rating:
+3
+dateLastModified:
+2014-05-24T07:55:26.783
+helpfulCount:
+1
+userID:
+6946110
+Display Name:
+Deb Wical
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+240
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2991912.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used sugar free jello was all I had it didn't taste as good maybe try it with regular jello next time.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-18T20:14:36.593
+helpfulCount:
+0
+userID:
+13999498
+Display Name:
+Valerie Lengert
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7220405.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great!  Will make it again.  Just had to add about a cup of raspberries as I ran out of rhubarb—??
+
+There is no amount of salt in the recipe?

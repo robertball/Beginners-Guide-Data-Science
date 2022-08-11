@@ -1,0 +1,72 @@
+Recipe number:
+262918.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-18T14:11:24.673
+helpfulCount:
+1
+userID:
+26697203
+Display Name:
+Spleen Pirate
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7468772.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good bolognese, I think I like it  more than beef bolognese to be completely honest. I did take a massive poo on the john afterward, but it's okay because it tasted good on the way in, and felt great on the way out 9/10 rating final rating.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-13T23:30:00.64
+helpfulCount:
+0
+userID:
+5571350
+Display Name:
+Audrey E. Urban
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+7237
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1614926.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not bad, but I think next time I would add some crushed tomatoes as well. This was lacking in the sauce department as is.

@@ -1,0 +1,107 @@
+Recipe number:
+257565.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-30T22:47:12.057
+helpfulCount:
+1
+userID:
+13871197
+Display Name:
+Heather Sheffey
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+78
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2483319.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used frozen wild berries and melted them along with the peanut butter and honey... and I don't use microwaves so I used a saucepan on the stove and the results were amazing! Thank you for the inspiration!
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-18T14:43:48.69
+helpfulCount:
+1
+userID:
+2632298
+Display Name:
+Woman Whisking
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2782022.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If I could give this more stars, I would!  Super easy and tastes great.  A wonderful healthy snack.  What I also love about this recipe, is that it is very versatile.  The second time I made it, I tried a different variety by adding raisins, and unsweetened coconut flakes instead of the berries.  It was great too!  I think next time I will use a different nut butter (maybe cashew?)  and add a few whole cashews into the mix.  LOVE, LOVE, LOVE!!   Thank you for this healthy, tasty and very simple recipe!  :)
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-30T03:26:33.353
+helpfulCount:
+0
+userID:
+5366118
+Display Name:
+AAK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+280
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe.  Yummy! The recipe provides a flexible base. Used almond butter and some blueberries too. As long as the nut butter and honey are soft, I don't think you need to microwave them. Microwaving honey isn't great for it. Thanks for the fun recipe.

@@ -1,0 +1,37 @@
+Recipe number:
+266870.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-07T02:34:23.037
+helpfulCount:
+1
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I subbed Swiss cheese for the provolone, but otherwise I kept the ingredients the same.  I would suggest that you do not do as I did and think that a little more would be better.   The ingredients are strong-flavored, and so a little goes a long way.  This was good, and it helped to extend a dinner of leftovers tonight.  I appreciate the recipe!  Thanks!  EDIT 12/26/18:  I have changed my mind about this.  I would keep the ingredients just as written.  When I made the whole batch and served it to company, we all agreed that it is delicious as written!  Please give it a try!

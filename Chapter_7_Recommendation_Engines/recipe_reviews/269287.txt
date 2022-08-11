@@ -1,0 +1,37 @@
+Recipe number:
+269287.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-28T15:25:12.883
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love the use of kale instead of the usual romaine. This is very tangy/lemony, but I enjoyed it. When I first tried the dressing on its own, I didn't love it, however once mixed into the kale it's quite tasty!  It could probably use a few more anchovies (you really don't taste them at all) and a bit more salt.  I also massaged the kale with a sprinkle of salt before pouring the dressing on - this helps the kale soften up a bit and not be so tough to chew. Looking forward to making it again!

@@ -1,0 +1,72 @@
+Recipe number:
+223558.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-28T18:53:04.717
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9646
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I found 8 oz. of mushrooms to be plenty. Double that amount as directed would have just been too many. I am not a big chickpea fan but I really enjoyed this and it is one I will most definitely make again!
+Review:
+Rating:
+3
+dateLastModified:
+2014-09-18T05:45:00.45
+helpfulCount:
+0
+userID:
+6258804
+Display Name:
+lh37865
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+485
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6477456.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did this last night for dinner.  It was easy to make; however, it was just ok.  I probably will not make again.

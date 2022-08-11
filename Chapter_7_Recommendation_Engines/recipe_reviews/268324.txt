@@ -1,0 +1,37 @@
+Recipe number:
+268324.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-18T20:32:06.46
+helpfulCount:
+0
+userID:
+11907687
+Display Name:
+Pete
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I use fewer red Thai chili peppers (they are hot!) and add 2 TBS Red Curry Paste. Because of availability I sometimes use shitaki, button or even portabella mushrooms, also fresh lemongrass may be hard to find but it can usually be found in a tube, use about 2 TBS. I haven't used garlic before but it doesn't hurt.

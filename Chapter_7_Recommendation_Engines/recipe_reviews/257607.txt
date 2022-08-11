@@ -1,0 +1,146 @@
+Recipe number:
+257607.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-08-31T17:35:24.567
+helpfulCount:
+0
+userID:
+13737295
+Display Name:
+Pauline
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this! It was very disappointing. It was a crumble mess, not enough moister and too much flour! It needs egg yokes and less flour!
+Review:
+Rating:
+1
+dateLastModified:
+2019-08-29T23:10:10.627
+helpfulCount:
+0
+userID:
+25909648
+Display Name:
+Alycia Plog
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6879277.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is wrong, way too much coconut flour.  It was nothing but a crumble mess
+Review:
+Rating:
+1
+dateLastModified:
+2018-03-12T15:55:19.98
+helpfulCount:
+0
+userID:
+23451815
+Display Name:
+Sallie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Failure!
+Dough was crumbly.  Missing something.  
+Should this have had egg-yolks as the photo is much more yellow in color then the resulting dough.
+Baked anyway and it crumbled.
+Crumbs had good flavor. Will salvage food by using it with home-made granola.
+Review:
+Rating:
+1
+dateLastModified:
+2018-02-18T22:21:51.92
+helpfulCount:
+0
+userID:
+6482907
+Display Name:
+winnie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+205
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This did not work at all. As soon as I introduced the oil, applesauce and honey into the fluffy egg whites the whole thing deflated. I tried to finish it up and bake, but it came out thin and very dry. Sad.

@@ -1,0 +1,107 @@
+Recipe number:
+239648.txt
+Review:
+Rating:
+1
+dateLastModified:
+2014-11-09T11:43:31.953
+helpfulCount:
+1
+userID:
+6449203
+Display Name:
+Carolanne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+279
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3082260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So watery and tasteless!  If I were to do this again, I would drain the tomatoes and add seasonings like garlic and onions to the sauce.
+Review:
+Rating:
+1
+dateLastModified:
+2014-10-31T11:08:30.71
+helpfulCount:
+1
+userID:
+2126382
+Display Name:
+Sara Roach
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+142
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5647323.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sauce was really watery. Not much flavor.
+Review:
+Rating:
+3
+dateLastModified:
+2015-07-24T23:37:18.39
+helpfulCount:
+0
+userID:
+11571880
+Display Name:
+Cecilia Ranger
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+784
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2239696.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Try seasoning (onion powder, garlic powder, seasoning salt, basil) and breading the chicken first. Even brown it in the skillet before baking. Train the diced tomatoes so it would be less liquidy. Increase the amount of parmesan to at least 1/2 cup.

@@ -1,0 +1,37 @@
+Recipe number:
+272812.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-18T03:28:49.493
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+612
+favoritesCount:
+984
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’m not too crazy about the addition of lemon to asparagus. I find adding a tart acidic item such as lemon to something incorporating a salty taste (prosciutto) doesn’t match up on a flavor palate. It wasn’t bad, but just not a combination I would use. I didn’t use toothpicks either. I started rolling the prosciutto around one spear of asparagus and then added the remaining spears. It worked beautifully.

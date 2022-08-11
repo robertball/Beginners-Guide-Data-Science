@@ -1,0 +1,72 @@
+Recipe number:
+101398.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-04-12T07:36:39.857
+helpfulCount:
+6
+userID:
+1804327
+Display Name:
+sally
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+161
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The taste of this was good.  However, I did have trouble cutting a  pocket in each chop.  I thought the chops I bought were plenty thick, but I still had trouble.  I ended up having to roll the meat with the stuffing inside and secured them with toothpicks.  They were more like pork rolls.  I put the remainder of the stuffing mix in the cooker on the bottom.  I added water to thin it out for a nice gravy at the very end.   I will try this again, but I will look for the thickest chops that I can buy.  Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2009-09-25T14:18:57.447
+helpfulCount:
+2
+userID:
+3321429
+Display Name:
+Katie Clark
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6237781.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree the taste of this was good.. Instead of including the corn (my family would think I was punishing them!) I just doubled the stuffing, and added some carrot slices.  6-7 hours in the slow cooker I thought was too long though.. next time I think I'll only put them in for 4-5 hours..  They looked/smelled done at that point, and while they were still moist inside, the outside of the chops after 6 hours ended up being dry.  I will make it again though- very easy to make and had wonderful flavor!

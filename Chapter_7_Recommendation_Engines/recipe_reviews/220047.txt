@@ -1,0 +1,149 @@
+Recipe number:
+220047.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-04-28T16:06:22.387
+helpfulCount:
+4
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As written, I think this is pretty bland.  I tasted after following the recipe to the letter and then ended up adding additional cumin, some cayenne. a splash of vinegar, and a little chopped cilantro.  This rating is based on the recipe as written, not with the additions made.
+Review:
+Rating:
+2
+dateLastModified:
+2016-06-05T00:01:50.12
+helpfulCount:
+0
+userID:
+8013299
+Display Name:
+Mary Allen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+107
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3458500.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry. It was very bland and the rice was too wet which, I suppose, could be the way it was supposed to be. Not my choice.
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-04T03:00:29.547
+helpfulCount:
+0
+userID:
+16930226
+Display Name:
+Jasmin Ford
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2912629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have all the ingredients on the list so I did this instead:
+
+1 half red pepper
+1 half onion
+some mixed herbs
+vegetable stock.
+
+A very easy recipe for lunch.
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-17T18:29:21.437
+helpfulCount:
+0
+userID:
+13228968
+Display Name:
+Chris Slaw
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4905508.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Add chili pepper and a squirt of lime juice for flavor.

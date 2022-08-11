@@ -1,0 +1,144 @@
+Recipe number:
+268002.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-24T17:18:30.59
+helpfulCount:
+1
+userID:
+13122242
+Display Name:
+nhgirl60323
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6405277.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was awesome!  I couldn't find Halloumi cheese so used cojita - couldn't fry it so i just added it in at the end.  Also I love chili jam but didn't have any.  Ate it as a soup but it would be good over rice.  Very filling.
+
+Very quick dish to make.  The hardest part was chopping up the sweet potato.  Would definitely make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-05T17:34:24.063
+helpfulCount:
+0
+userID:
+8301146
+Display Name:
+Margaret M.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used light coconut milk and Sriracha instead of chili jam but otherwise followed this to a T. It was great over rice noodles and also with naan!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-29T23:45:14.71
+helpfulCount:
+0
+userID:
+16478511
+Display Name:
+Reen McGurl
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5091888.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved it! I had to substitute a few things, but it didn't change the great flavors. I used chutney for the jelly since I forgot that I gave it to a friend and also used Asiago cheese that I just added in one inch squares to the pot. I used the crock pot. Tonight for leftovers I added saute' mushroom and garlic and it was even better. Served with organic rice from Aldis and peas. I will definitely make it again and maybe add some meat. If you don't have coconut milk, make it anyway since we couldn't even taste it.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-25T22:38:53.473
+helpfulCount:
+0
+userID:
+24438447
+Display Name:
+Paula Harmer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5898630.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and it was so delicious . I substituted a teaspoon of Harissa and a teaspoon of apricot jam in place of the chili jam. Heavenly!

@@ -1,0 +1,177 @@
+Recipe number:
+141069.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-11-25T02:23:19.7
+helpfulCount:
+18
+userID:
+2636344
+Display Name:
+Alan Holden
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just bought this dish from my local supermarket in Qatar today. It was so delicious I had to find the recipe. It also goes by the name Jirjir as the translation is literal from Arabic
+Review:
+Rating:
+3
+dateLastModified:
+2009-11-04T06:36:46.743
+helpfulCount:
+8
+userID:
+1867459
+Display Name:
+Kym Cox Surridge
+isPro:
+False
+followersCount:
+53
+followingCount:
+0
+madeRecipesCount:
+457
+favoritesCount:
+1572
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2810793.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We thought this was OK. It wasn't bad; it just wasn't great. I used shallot instead of onion because I prefer the milder flavor; otherwise I followed the recipe exactly. It just seemed to be missing something. I think some fresh herbs, like parsley and mint, would have helped, and maybe some garlic. Thanks, anyway.
+Review:
+Rating:
+5
+dateLastModified:
+2010-09-09T11:46:43.997
+helpfulCount:
+7
+userID:
+5349166
+Display Name:
+Umm Isa
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1308848.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+DH liked this, maybe he has had it before. I didn't really like it but I will make it again for DH.
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-08T12:48:02.143
+helpfulCount:
+1
+userID:
+14337281
+Display Name:
+Sarine Koftikian
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+366
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1770719.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Great as is
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-12T14:01:10.017
+helpfulCount:
+0
+userID:
+17809095
+Display Name:
+???? ????
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3436712.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+we usually add red onions instead of white and  add some seeds of pomegranate

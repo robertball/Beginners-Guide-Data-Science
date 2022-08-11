@@ -1,0 +1,72 @@
+Recipe number:
+222802.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-04-17T13:37:35.68
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5755
+followingCount:
+0
+madeRecipesCount:
+2830
+favoritesCount:
+6011
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe submitter doesn't say how she/he serves this.  I can't see this as either a main course or a side dish, so I'm assuming appetizer??  At any rate, that's how I served it.  It simply doesn't have much flavor.  Mostly all you can taste is the frankfurter itself...the chili powder just a little, but the garam masala not at all.    I tasted it as written, then added more garam masala and chili pepper, and even a little more ketchup, but it still was pretty bland and even a little gummy.  To salvage, I ended up adding some red guajille chile sauce.  As written, I'd give this 2 stars, but this rating reflects the few modifications made. We ate it, but won't be making this one again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-05T19:08:54.14
+helpfulCount:
+0
+userID:
+16311765
+Display Name:
+Zarar Younis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing little snack. I used tikka masala instead of garam masala and it worked wonders.

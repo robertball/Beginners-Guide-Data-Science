@@ -1,0 +1,37 @@
+Recipe number:
+212404.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-04-21T15:44:59.413
+helpfulCount:
+4
+userID:
+3164947
+Display Name:
+ms macaron
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this after I purchased a package of soft tofu and needed only half. It was quick and easy to make and tasted really decent. I used 1/4 cup of Splenda with 1/4 cup white sugar, so it is not true to the original recipe or completely vegan. I also used only the cocoa powder.   I would make this again!

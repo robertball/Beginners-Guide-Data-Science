@@ -1,0 +1,72 @@
+Recipe number:
+256965.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-31T04:47:45.177
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2275
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not the prettiest dish but the taste is 5 stars all the way. The one thing the recipe did not specify was to chop the shrimp and I think that is a must unless you plan on serving it in hollowed out bread. If using veggies or crackers as a dipper you need to give the shrimp a rough chop.
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-28T17:30:12.463
+helpfulCount:
+0
+userID:
+2148272
+Display Name:
+Jane & Rich
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+104
+favoritesCount:
+1541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A little soupy...I'll make it again but with less mayo & cocktail sauce.

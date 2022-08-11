@@ -1,0 +1,181 @@
+Recipe number:
+228985.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-23T17:50:17.263
+helpfulCount:
+5
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1118
+favoritesCount:
+2289
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Outstanding recipe, worthy of any Five Star restaurant!  The cabernet-cherry vinaigrette is absolutely delicious.  This really is NOT a complicated recipe.  It looks like there are a lot of steps, but you can be doing more than one step at the same time.  I was a little concerned about the marinade ingredients not being enough to marinade 4 steaks, so I added an extra tablespoon of EVOO & porto, which was a good call. I also didn't have any radishes on hand, so I used 3 green onions instead.  Other than those changes, I followed the recipe to a "T".  Just an awesome salad, and one that I won't forget!
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-01T00:15:01.547
+helpfulCount:
+1
+userID:
+13904652
+Display Name:
+Donna Lensen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6278520.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We Loved this!
+Just Watch those pecans, l almost burned them.  Next Time I'll take the temp down a notch.  
+Great Way to use up not so great cab.  Delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-28T21:57:46.33
+helpfulCount:
+0
+userID:
+21234042
+Display Name:
+Chris Lopez
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4436401.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simply awesome as is.  Everyone loved it and I had no leftovers.
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-13T08:58:17.36
+helpfulCount:
+0
+userID:
+15471357
+Display Name:
+Chef@Heart
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+350
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2943156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree with the other poster that this is not a difficult recipe...just more steps (which is great because it breaks it down and therefore easily manageable).  
+
+I have been experimenting with microfarming here in the city and I enjoyed using my fresh mesclun salad mix that I just harvested the day before.
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-29T07:41:43.133
+helpfulCount:
+0
+userID:
+9629203
+Display Name:
+daniellemarieharsh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely amazing.

@@ -1,0 +1,143 @@
+Recipe number:
+228433.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-13T15:48:52.887
+helpfulCount:
+12
+userID:
+328951
+Display Name:
+Jennifer Baker
+isPro:
+False
+followersCount:
+9972
+followingCount:
+0
+madeRecipesCount:
+330
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3605993.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My daughter enjoyed this but we don't have to sneak veggies into her foods.  It is a savory sauce since it has no added sugar, and I liked that.  It makes a lot and would be a good start to a spaghetti sauce also.
+Review:
+Rating:
+5
+dateLastModified:
+2013-08-09T11:06:25.947
+helpfulCount:
+3
+userID:
+3137683
+Display Name:
+1st Grambo
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+345
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/680993.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just an additional note:  Whenever I add dried Italian Seasoning to a recipe, I put it into the palm of my hand & rub it as I put it in. I feel this releases additional flavor.
+Review:
+Rating:
+3
+dateLastModified:
+2014-01-03T18:41:19.827
+helpfulCount:
+1
+userID:
+10412631
+Display Name:
+Melissa Didericksen
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1169360.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a good recipe but out of the two or three recipes I used to put my pizza together with none of them said I should PAM the pan first and my pizza stuck to the pan.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-12T01:35:48.383
+helpfulCount:
+0
+userID:
+892937
+Display Name:
+Miss Dusty
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+224
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/37348.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful recipe!!! I had an extra zucchini I needed to get rid of, so I added it with all the other veggies.
+l do recommend puree-ing (sp?) the vegetables until they're smooth, if you're issuing this for pizza sauce.

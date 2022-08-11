@@ -1,0 +1,37 @@
+Recipe number:
+217104.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-26T23:21:10.843
+helpfulCount:
+0
+userID:
+13854439
+Display Name:
+Gina Zulandt
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5981150.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We had this drink in a bar in Knoxville, and I was so excited to see the recipe.  My husband LOVES Mezcal, and this drink is the whole reason he bought me Aperol.  I would recommend good vermouth, which I currently don’t have.  I used Hornitos Reposado tequila, but will try with a Plata, I think that might taste even better.

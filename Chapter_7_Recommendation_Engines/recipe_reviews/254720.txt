@@ -1,0 +1,72 @@
+Recipe number:
+254720.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-26T20:53:38.047
+helpfulCount:
+0
+userID:
+21742698
+Display Name:
+Stephanie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought it was a great dip for veggies and/or meat
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-29T12:43:44.62
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. I did end up adding more salt and dill because I thought it needed it. This went great with my lamb sliders and it is one I would make again.

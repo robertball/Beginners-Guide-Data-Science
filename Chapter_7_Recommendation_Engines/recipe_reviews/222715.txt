@@ -1,0 +1,37 @@
+Recipe number:
+222715.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-22T08:22:00.357
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+2.22.16   I have never seen fresh savory available in my area, so I used dried.  I omitted the garlic powder, since I did not see the need when the recipe calls for freshly-minced garlic.  I felt there was something missing, so I did add a splash of balsamic vinegar which brought this to life.  The addition of the thyme and the savory is a little different from most bruschetta recipes I've tried, but I don't think I'd have missed them if they'd been omitted.  And that's not to say that we didn't enjoy this because we did!

@@ -1,0 +1,72 @@
+Recipe number:
+254508.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-28T18:52:57.457
+helpfulCount:
+5
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9651
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I used St. Louis style ribs and I omitted step 5. We like our sauce on the side instead of smothered on the meat. These turned out really good but I would leave out the nutmeg and allspice next time. I happened to have all of the spices on hand but if you didn't and had to go buy them all it would cost you a small fortune. I also found that these needed way more than 3 1/2 hours. Plan on at least 5. After I smoked for 2 hours in the vinegar I put the ribs back in the smoker uncovered for a couple more hours to get a nice bark on them and it was in those last 2 hours when they became fall off the bone tender.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-08T00:26:11.577
+helpfulCount:
+1
+userID:
+6957264
+Display Name:
+bullit bob
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/914021.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I change up the seasoning at times more sugar but this a great rub for long slow smoking. This is my go to every day rub for thin pork chops, beef ribs , spare ribs and butts.

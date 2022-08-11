@@ -1,0 +1,72 @@
+Recipe number:
+234452.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-08T16:35:38.833
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6898
+followingCount:
+0
+madeRecipesCount:
+2653
+favoritesCount:
+3308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice salad! I toasted my walnuts to bring out the nutty flavor, and used an Italian style dressing. I only had regular black olives on hand, so I used those. Simple and tasty! Thanks for sharing. :)
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-23T23:58:23.737
+helpfulCount:
+0
+userID:
+8731538
+Display Name:
+Brookside Bistro
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+1370
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3597265.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this but added the topping on top of chopped lettuce before serving (I hate soggy salad),  I used italian dressing & it was still a little bland.  Maybe some onions or roasted red peppers might perk up the flavor & make the presentation nicer?   Probably would not make again, but was worth trying.

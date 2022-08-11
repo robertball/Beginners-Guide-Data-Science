@@ -1,0 +1,37 @@
+Recipe number:
+234788.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-25T18:00:42.93
+helpfulCount:
+4
+userID:
+7210885
+Display Name:
+Leslie Thrasher
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4933993.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was delightful!  I burnt a traditional pound cake and wanted to rescue it. So I went to allrecipes to help me out. Although I did not make the pound cake in the recipe, I used the lemon mint whipped cream and the fruit per recipe and was able to use my cake trimmed of it's dark sides.  The recipe doesn't really require much cake. Everyone has enjoyed it and asked for the recipe. It is light and refreshing! Perfect for summer!

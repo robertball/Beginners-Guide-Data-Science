@@ -1,0 +1,75 @@
+Recipe number:
+112855.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-04-05T09:13:26.84
+helpfulCount:
+0
+userID:
+2163285
+Display Name:
+amarcus0523
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not sure what went wrong with the other reviewers recipe, but I've made this twice and it was delicious.
+
+The 2nd time I made it I didn't make the raspberry sauce, but followed the glaze recipe you can find here and used that. Next time I make it I will use the recipe sauce and mix it with some marscapone cheese and make little dollops of raspberry cheesy goodness to try on top of the cake.
+Review:
+Rating:
+1
+dateLastModified:
+2007-02-09T14:52:27.127
+helpfulCount:
+0
+userID:
+2280377
+Display Name:
+cnolans
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a horrifying, sodden mass...it didn't rise and tasted horrible.
+I followed the recipe exactly..and you could use this as a very effective door stop.

@@ -1,0 +1,72 @@
+Recipe number:
+272797.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-10T15:25:38.26
+helpfulCount:
+0
+userID:
+11071221
+Display Name:
+Lynn Byram
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7448871.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+tired of banana bread so I added unsweetened coconut and some drained crushed pineapple for half of the applesauce. Results were spectacular, moist tender bread with a flavorful twist!
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-31T17:16:13.51
+helpfulCount:
+0
+userID:
+22359105
+Display Name:
+lshart
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great option for those who are baking gluten free and vegan-which can be tricky. I found this took longer to bake and it was still gummy and raw-ish when I cut into it. Back in the oven it went. All better now and good flavor.

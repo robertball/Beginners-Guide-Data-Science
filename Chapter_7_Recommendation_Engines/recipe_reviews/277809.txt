@@ -1,0 +1,37 @@
+Recipe number:
+277809.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-21T15:11:11.09
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+194
+followingCount:
+0
+madeRecipesCount:
+547
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made a lot of sweet potato fries, but these rank up there as a favorite! The fresh garlic and rosemary bring a lot of flavor! Followed as written, but you might want to make extras!

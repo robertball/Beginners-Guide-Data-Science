@@ -1,0 +1,37 @@
+Recipe number:
+278031.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-22T01:00:50.757
+helpfulCount:
+1
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am a home of one, so I reduced the recipe for four servings, I followed the recipe with the exception of the cooking time. I cooked it on high pressure for 12 minutes and did a quick release...I was hungry, borderline hangry!!! I loved how it turned out. Perfect! Tasty, delicious, easy and filling!!

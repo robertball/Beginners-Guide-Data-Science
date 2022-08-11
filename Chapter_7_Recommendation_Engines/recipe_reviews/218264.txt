@@ -1,0 +1,37 @@
+Recipe number:
+218264.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-09-20T12:21:34.64
+helpfulCount:
+8
+userID:
+4447395
+Display Name:
+Corrie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+85
+favoritesCount:
+121
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used whole wheat spirals instead of wacky mac.  We should have cooked it a little slower on the grill because the steak came out very chewy.  My husband loved this and gave it a 5 but our dinner guest gave it a 3 so I gave it a 4.  The steak and noodle in your mouth at the same time is a little weird so it may be better to serve the steak on the side.  The dressing is really good.

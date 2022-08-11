@@ -1,0 +1,72 @@
+Recipe number:
+261235.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-16T19:31:57.38
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1344
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is good; it just isn't quite what I was looking for as a dip for apples. I was hoping it would be a little creamier with the cream cheese. I used it as a spread for a toasted bagel and enjoyed it that way.
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-22T20:58:01.317
+helpfulCount:
+0
+userID:
+5246036
+Display Name:
+dgeers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I doubled the cream cheese and used pumpkin pie spice instead of cinnamon.  This was fluffy and I could eat it by itself, but it was especially good as a dip for apples and graham crackers.

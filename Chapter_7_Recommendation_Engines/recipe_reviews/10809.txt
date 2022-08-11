@@ -1,0 +1,37 @@
+Recipe number:
+10809.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-04-14T15:02:24.663
+helpfulCount:
+15
+userID:
+1074129
+Display Name:
+CORBAC
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+72
+favoritesCount:
+152
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good cookie for tea, base itself wasn't sweet enough for my liking.  I needed to ad 1/4 milk to the mixture for easier handling.

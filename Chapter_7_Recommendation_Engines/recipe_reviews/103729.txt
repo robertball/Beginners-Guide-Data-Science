@@ -1,0 +1,37 @@
+Recipe number:
+103729.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-11-21T07:59:26.15
+helpfulCount:
+2
+userID:
+1062398
+Display Name:
+REDPEPPER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+124
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are soooo good. I misread the recipe and used all the garlic and salt in the marinade and would recomend doing that. Neither my husband or I cared for the dipping sauce, but the kabobs were so flavorful that you really don't need any sauce. These are great for parties.

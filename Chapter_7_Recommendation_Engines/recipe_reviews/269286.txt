@@ -1,0 +1,72 @@
+Recipe number:
+269286.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-27T00:04:02.4
+helpfulCount:
+0
+userID:
+6702819
+Display Name:
+Sy Fie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2918495.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I didn't alter the ingredients at all; however, I whipped the butter and sugar together for 5 minutes before adding the egg and vanilla. This made for a crispy cookie, not chewy. These cookies are wonderful, and will be made again (and again).
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-22T22:34:35.957
+helpfulCount:
+0
+userID:
+11139782
+Display Name:
+LizzyBet
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+414
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5441331.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful. I added a half cup of chopped pecans and cut back on the 1/4 cup of coconut. I’m certain they would be great as stated.

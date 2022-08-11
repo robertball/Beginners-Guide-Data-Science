@@ -1,0 +1,77 @@
+Recipe number:
+220917.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-25T16:28:13.067
+helpfulCount:
+2
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12226
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is under seasoned for our taste.  Mustard in the dressing would help a lot, and go well with the ham.   Hard boiled eggs would be a good addition as would celery.   ***Make sure the water the potatoes are cooked in is salted***   I used frozen peas that were just gently warmed as we don't care for canned peas.   Overall, this was well received and with a few tweaks is a nice recipe.   Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-13T18:06:25.387
+helpfulCount:
+1
+userID:
+19564609
+Display Name:
+lunar.purple@gmail.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Baking Nana was right about hard boiled eggs as the original recipe calls for it. However, frozen or fresh peas are a no no as they have a totally different taste. Canned peas only! Instead of ham bologna can be used, but cooked chicken breast is the best! Plus no Ranch, please. Mayo is the right dressing :) This salad roots from the Soviet past, what Ranch are you talking about? :) To sum up:
+- canned peas,
+- hard boiled eggs,
+- mayonnaise,
+- cooked chicken breast.
+The rest is fine.

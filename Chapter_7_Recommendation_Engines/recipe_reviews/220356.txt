@@ -1,0 +1,37 @@
+Recipe number:
+220356.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-06-22T08:53:08.41
+helpfulCount:
+1
+userID:
+7772769
+Display Name:
+elvira
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+595
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/806583.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This has a nice tang,  not syrupy sweet.   Followed the recipe exactly.   I think it needs to sit so the garlic flavor can develop.   Great way to use up left over juice after making the Acai mixed berry smoothie.

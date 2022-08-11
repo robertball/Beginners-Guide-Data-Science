@@ -1,0 +1,75 @@
+Recipe number:
+254437.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-13T21:16:53.59
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I doubled the black pepper and this came out perfect for me. The  brown sugar was a little to sweet for  me but I'm  certain it would be perfect for most people. This was surprisingly better than I had anticipated. If you love SPAM you should really give this one a try!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-21T22:51:40.063
+helpfulCount:
+0
+userID:
+18242065
+Display Name:
+Thomas Tigue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5298458.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just added some Maple syrup first, then as per the recipe.
+Everyone at the Polo Club raved about the treat !!
+
+Oh, and I sprinkled them with Grains of Paradise as well.

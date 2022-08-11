@@ -1,0 +1,109 @@
+Recipe number:
+245239.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-28T15:40:47.53
+helpfulCount:
+1
+userID:
+16830826
+Display Name:
+Cristal Salazar
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2845400.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-14T19:15:05.503
+helpfulCount:
+0
+userID:
+20772570
+Display Name:
+Neil Lennon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious sauce
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-16T16:52:38.7
+helpfulCount:
+0
+userID:
+21220513
+Display Name:
+Julian Navarro
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Every time I have made this dish it has come out wonderful! It is definitely a favorite for my family!
+
+it is always so full of flavor and it never comes out dry!

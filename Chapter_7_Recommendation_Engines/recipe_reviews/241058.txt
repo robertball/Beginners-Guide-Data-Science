@@ -1,0 +1,37 @@
+Recipe number:
+241058.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-02-04T15:11:00.427
+helpfulCount:
+1
+userID:
+3085951
+Display Name:
+rv chef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had some extra lemons and some extra whiskey so I baked this exactly as written. What size pan should be used?  The one I used was too big.  If i bake this again I'll use something like a 10 x 10.  Couldn't taste the ginger and I used more than a "pinch".  Couldn't taste the whiskey.  A little dry but would be good with some fresh fruit on it.  Since I'm a rookie baker I'll try another recipe before trying this one again

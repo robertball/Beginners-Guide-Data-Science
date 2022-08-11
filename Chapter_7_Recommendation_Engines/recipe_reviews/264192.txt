@@ -1,0 +1,107 @@
+Recipe number:
+264192.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-06T23:10:43.53
+helpfulCount:
+4
+userID:
+12611121
+Display Name:
+Soomin Kim
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used dark chocolate and added toffee chips to the crust. Everyone lived it.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-30T20:38:12.3
+helpfulCount:
+0
+userID:
+16666082
+Display Name:
+Kendra Bond
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2733396.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I changed a few things based on personal preference, but this recipe is now a household favorite.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-08T21:20:17.033
+helpfulCount:
+0
+userID:
+22457795
+Display Name:
+stephy291
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+146
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5764679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy - wouldn't change a thing!

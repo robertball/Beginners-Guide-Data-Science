@@ -1,0 +1,37 @@
+Recipe number:
+231780.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-03-17T02:15:57.847
+helpfulCount:
+1
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1595
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a tough one to rate, so i decided to keep it simple and go by the stars' descriptions and the most accurate is the two star "didn't like it".  I chose to use the submitter's suggestion in the tagline and shake in a shaker, then pour over ice in a cocktail class as a sipping drink.  This is the first *faceless* drink I've made that I did not finish.  It's quite strong and I couldn't get past the milky consistency.  I thought after a few sips it would grow on me, but it didn't.  CHEERS, KEHUGGINS2!

@@ -1,0 +1,72 @@
+Recipe number:
+240697.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-26T16:47:56.61
+helpfulCount:
+0
+userID:
+23875462
+Display Name:
+achoo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5505257.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious! although my noodles didn't cook all the way... But that didn't stop me from putting a five stars! By the way, that was my own mistake! I would %100 recommend to anyone else!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-11T14:49:55.24
+helpfulCount:
+0
+userID:
+25686702
+Display Name:
+Darnell Peak
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6722374.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+yes i will make again i made it with my mom #familytime

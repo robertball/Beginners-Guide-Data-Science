@@ -1,0 +1,72 @@
+Recipe number:
+12515.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-01-31T18:17:58.39
+helpfulCount:
+10
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+243
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a tricky one to review. For a start, I used only one pound of pork and 6oz of spicy brats, and there was more than enough meat for 2 pies. I knew there wouldn't be enough seasoning for our taste, so I added onion powder, garlic and Italian seasoning. I liked the flavor of the pork, but the texture was horrible. I might try this again but with sausage, 6oz ground beef and a little ground pork.
+Review:
+Rating:
+3
+dateLastModified:
+2009-07-01T15:30:05.863
+helpfulCount:
+4
+userID:
+2620820
+Display Name:
+Sorcha
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was ok, my husband thought it was great.  If I do it again I could reduce the amt. of pork overall, especially the plain ground pork.  A little more Italian sausage & some Sage.  It was runny which I didn't like.

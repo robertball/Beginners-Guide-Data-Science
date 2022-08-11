@@ -1,0 +1,37 @@
+Recipe number:
+220944.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-08-06T18:35:56.41
+helpfulCount:
+4
+userID:
+2037131
+Display Name:
+Rae
+isPro:
+False
+followersCount:
+299
+followingCount:
+0
+madeRecipesCount:
+776
+favoritesCount:
+2181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/168198.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really really dry. I think that the baking time is to long. Unfortunately I threw this in the oven and went out of the kitchen to do some other things so I didn't catch that it was over cooking until the timer went off. I would start checking this at 50 minutes. I do use an oven thermometer so it wasn't the temp. but it did burn a bit on the edges and the sides. The lemon doesn't really come through in the flavor. Little bit sad over this one, its not a cheap recipe to make with all the butter and poppy seed filling,

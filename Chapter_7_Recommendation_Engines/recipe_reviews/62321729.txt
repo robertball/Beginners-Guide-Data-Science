@@ -1,0 +1,37 @@
+Recipe number:
+62321729.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-22T18:17:26.82
+helpfulCount:
+0
+userID:
+4223959
+Display Name:
+Raluca
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2734997.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and used cake instead of crakers. Turns out it's a fantastic cream for filling a cake.

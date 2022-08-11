@@ -1,0 +1,107 @@
+Recipe number:
+255988.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-22T01:04:28.02
+helpfulCount:
+2
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8917
+followingCount:
+0
+madeRecipesCount:
+1121
+favoritesCount:
+2303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you like eggnog and amaretto, you will like this! It is very sweet, so I think next time I will thin out the eggnog with a bit of milk before warming to cut down on the sweetness a bit. Nice recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-29T22:58:30.323
+helpfulCount:
+1
+userID:
+10687316
+Display Name:
+Elisa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+406
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect!  Made it for my husband and we both loved it!
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-26T08:25:02.047
+helpfulCount:
+0
+userID:
+24436358
+Display Name:
+Leah Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it with 1.5 ounces called for in the recipie.  It was not as flavorful as I expected so I increased the amaretto to 2.5 ounces and the drink was very nice and smooth.

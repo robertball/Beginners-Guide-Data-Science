@@ -1,0 +1,37 @@
+Recipe number:
+246538.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-04-13T16:05:56.643
+helpfulCount:
+1
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We thought this was pretty good---we love all the ingredients.  I did use butter rather than margarine and cremini mushrooms rather than white, but otherwise I followed the directions.  I wished that the sauce was a thicker one because for us it really depended on salt to help out the penne, which seemed to be almost bland.  I would suggest also that the mint was a must for this!   I would try tweaking the sauce a little, but I can see that for a summer lunch that this would be perfect!  Thanks for giving me ideas of what to do!

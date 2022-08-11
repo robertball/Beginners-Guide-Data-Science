@@ -1,0 +1,72 @@
+Recipe number:
+266095.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-25T02:17:48.623
+helpfulCount:
+0
+userID:
+4395688
+Display Name:
+Dawn Marie Abed
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+125
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice blend of flavors!  My husband liked it better when he added more black pepper to his serving.  I will make it again!
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-28T23:35:20.283
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really delicious! What a great idea to use eggplant that I would never have thought of. Really nice flavors and textures in this with the warm, creamy eggplant and the sweet tomatoes and pungent onions. I ate this both warm and room temp and loved it both ways. I'm the only one in the house who will eat eggplant, but I did make my hubby try and he said it was ok (which is HUGE, lol). I will def be making this again and again~YUM! Thanks for sharing. :)

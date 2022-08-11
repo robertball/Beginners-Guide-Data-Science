@@ -1,0 +1,37 @@
+Recipe number:
+239653.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-12-16T13:54:09.16
+helpfulCount:
+2
+userID:
+14919194
+Display Name:
+Ronnie Littlefield
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+148
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1820363.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Have made lasagna both with the no cook pasta and the cook before type. I can honestly say that the no cook pasta is inferior. You can taste the difference. It tastes kinda gummy.

@@ -1,0 +1,37 @@
+Recipe number:
+64502035.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-12T12:38:33.27
+helpfulCount:
+0
+userID:
+2620957
+Display Name:
+Jessica Wilson
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+159
+favoritesCount:
+612
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2165367.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love! Just made with buffalo cauliflower and chicken brats. Compliments perfectly.

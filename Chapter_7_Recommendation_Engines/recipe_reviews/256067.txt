@@ -1,0 +1,37 @@
+Recipe number:
+256067.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-17T18:46:45.03
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were excellent! I did use whole wheat bread because that is what I had on hand. This browns up nicely and is a good grown up version of a grilled cheese. I do think the serving size is off. As directed this makes the equivalent of one whole sandwich which only serves 1 person in my opinion. Great recipe! Thanks for sharing!

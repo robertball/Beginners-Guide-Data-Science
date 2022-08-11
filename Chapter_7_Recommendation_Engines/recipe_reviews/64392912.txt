@@ -1,0 +1,37 @@
+Recipe number:
+64392912.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-12T16:26:38.3
+helpfulCount:
+0
+userID:
+10046888
+Display Name:
+slmerk
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+148
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2229678.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my recipe and I just wanted to note that I think the fact that I make my own cream soup takes it over the top! You just melt 2tbls of butter, whisk in 3 tbls flour & 1 tsp chicken bouillon then whisk in 1/2 cup water then 1/2 cup milk and whisk until thick.  This also freezes & refrigerates well before baking

@@ -1,0 +1,107 @@
+Recipe number:
+25774.txt
+Review:
+Rating:
+2
+dateLastModified:
+2001-09-13T10:15:50.547
+helpfulCount:
+10
+userID:
+258904
+Display Name:
+ANNA H.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe came out but my family politely declined a second bite.
+Review:
+Rating:
+4
+dateLastModified:
+2005-06-17T19:56:58.827
+helpfulCount:
+2
+userID:
+1442981
+Display Name:
+Bertha W.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an unusual but very tasty cake.  I recommend it.
+Review:
+Rating:
+2
+dateLastModified:
+2010-03-26T18:48:12.89
+helpfulCount:
+0
+userID:
+4721684
+Display Name:
+Nan_FamilyChef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used fresh pineapple - maybe too much because the top layer came out too gooey even though the bottom was firm (or perhaps it needed an extra 5 minutes in the oven).  My kids mostly played with it.  I sprinkled mini chocolate chips on top about 15 minutes before it was done to garnish the top.  Pretty but a bit bland - I think it needs more dense pineapple AND chocolate flavor to be a big hit.  Maybe butter instead of shortening?  Maybe a teaspoon of lemon juice or some zest in the pineapple 1/2?

@@ -1,0 +1,39 @@
+Recipe number:
+117976.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-07-08T09:17:04.813
+helpfulCount:
+5
+userID:
+166708
+Display Name:
+Jan Mowbray
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+428
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2530650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe. Very quick and tasty, it's very filling. 
+I followed the recipe to a tee, but added a bit of gravy that was left over.  My husband and both really enjoyed this dish.
+Also made it using left over beef from French Dip recipe from this site.  Great.

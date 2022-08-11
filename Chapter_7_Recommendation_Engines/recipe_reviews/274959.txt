@@ -1,0 +1,37 @@
+Recipe number:
+274959.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-01T23:57:35.99
+helpfulCount:
+0
+userID:
+2192904
+Display Name:
+Julie E
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+872
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a caramel corn recipe with no corn syrup and found this one.  I followed the recipe as written.  I used two sheet pans and it was done in 35 mins.  My family loved it! Its crunchy caramely :) and delicious. Thanks for the great recipe! I will definitely make this again.

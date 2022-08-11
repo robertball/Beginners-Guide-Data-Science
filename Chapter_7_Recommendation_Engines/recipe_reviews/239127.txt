@@ -1,0 +1,40 @@
+Recipe number:
+239127.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-10-20T20:35:37.36
+helpfulCount:
+1
+userID:
+16325169
+Display Name:
+Martita Sa-Ju
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2579178.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Such a quick bacon snack! 
+I used the same pan to get the bacon grease, and kept the bacon bits around until crunchy then added them at the end to the fries with the paprika and salt!
+
+My husband ate them ALL! (he is a bacon lover but not a fan of sweet potatoes at all... or not until he tried them this delicious way!)

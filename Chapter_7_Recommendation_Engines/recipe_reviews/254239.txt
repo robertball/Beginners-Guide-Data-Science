@@ -1,0 +1,107 @@
+Recipe number:
+254239.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-30T15:13:33.8
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2816
+favoritesCount:
+6006
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.30.18  The lemony flavor of the sumac does come through, and it partners well with the chili powder.  This was pretty good, I just don’t know that I liked it well enough to make again.
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-29T03:52:07.47
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe but one that made me realize I am not a fan of sumac. No fault of the recipe but just a personal preference. If you love sumac and popcorn too then you really should give this one a try!
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-13T15:42:54.3
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the seasonings but thought there was too much butter. Next time, I’ll half the amount.

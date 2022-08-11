@@ -1,0 +1,72 @@
+Recipe number:
+232175.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-04-13T10:58:34.117
+helpfulCount:
+4
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12226
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just a couple of thoughts on this recipe - peeling and cooking the potatoes then slicing and frying leads to more of a mashed potato than sliced.  Leftover chilled potatoes would probably work better.   Hubby loved this covered in ketchup.  Bell peppers would be a good addition with the onions.
+Review:
+Rating:
+4
+dateLastModified:
+2013-09-16T18:58:44.253
+helpfulCount:
+2
+userID:
+12039087
+Display Name:
+second2nunn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great potato recipe. I would add more eggs next time as well as either bacon or sausage bits to give it a more complete meal feel. Although filling, it felt more like a side. Feeds three adults at my house with the original recipe.

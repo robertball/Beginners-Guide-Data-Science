@@ -1,0 +1,37 @@
+Recipe number:
+233124.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-12T17:52:32.403
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This had a few more steps than the method I've been using for years but it was a nice change if you have the extra time and an extra hand in the kitchen to help. I loved the addition that the hot sauce brought to the table and I loved the extra crunch of the panko. The brown sugar..not so much.  I will most definitely make these again with next years crop but will be leaving out the brown sugar.  If you use a hot sauce you like that is not too much heat, there is no need for the sugar in my opinion.

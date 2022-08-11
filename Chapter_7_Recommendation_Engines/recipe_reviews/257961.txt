@@ -1,0 +1,74 @@
+Recipe number:
+257961.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-26T01:48:04.923
+helpfulCount:
+0
+userID:
+15067478
+Display Name:
+Kate734
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We make this every year.  It always takes longer than 15 minutes to cook the neeps.  We usually cook them separately.  The neeps take about 40 minutes, and the tatties about half an hour.
+
+Rating for the concept, and the ingredients, hitch look fine.  Thanks for introducing the taste.  Our haggis wnd cabbage are cooking - black pudding to come.  Happy Robbie Buns!
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-27T22:59:21.457
+helpfulCount:
+0
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+220
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+910
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I grew up eating this dish and never knew that it had a name. Other than cutting the portions back to three I made this as written. The portions seems to be off as my three portions yielded at least five or six.  Great little side dish.  Thanks for sharing.

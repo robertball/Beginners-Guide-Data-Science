@@ -1,0 +1,107 @@
+Recipe number:
+259809.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-02T23:51:01.187
+helpfulCount:
+3
+userID:
+3010292
+Display Name:
+Gary Titus
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2673322.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent flavor from the roasted peppers.  I used roasted poblanos because Hatch peppers are hard to find in my area.  They added a subtle heat and smoky flavor to the potatoes.  Didn't use the sour cream (didn't have any on hand), but the potatoes were creamy enough as is.
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-02T18:34:39.96
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent as written. No changes necessary.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-27T18:17:21.847
+helpfulCount:
+1
+userID:
+12831569
+Display Name:
+Sandy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Never thought of using peppers in mashed potatoes but these were very good !!!

@@ -1,0 +1,72 @@
+Recipe number:
+260686.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-24T21:34:49.357
+helpfulCount:
+1
+userID:
+14734627
+Display Name:
+Mike
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+352
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1718249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great, would be good for a house full on the weekend.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-23T20:28:26.513
+helpfulCount:
+0
+userID:
+15345081
+Display Name:
+Roderick Abernathy
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2052586.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to make and quite delicious! Thank you for the recipe!

@@ -1,0 +1,72 @@
+Recipe number:
+272943.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-04T10:37:37.793
+helpfulCount:
+3
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My first time soaking cashews and using nutritional yeast. I followed the recipe exactly, but I did soak my cashews longer than written, about 35 minutes. I was shocked at the rich flavors and since my son is lactose intolerant and this is vegan it was perfect. He informed me it was 5 stars and I agree! Served over pasta.
+Review:
+Rating:
+2
+dateLastModified:
+2020-01-30T16:58:04.66
+helpfulCount:
+0
+userID:
+23613260
+Display Name:
+cara
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I woke up in an alternate universe.  I was excited to try cashew cream for the first time and I love alfredo sauce.  In my rural area cashews are horrifyingly expensive, so this was a splurge purchase.  What a waste of  expensive ingredients.  I just don't like it and wouldn't waste  my money again.  I prefer the cauliflower based alfredo sauce.    Even the strange cannellini bean alfredo sauce is better than this stuff.  Not every recipe can be adapted for  vegans.  Alfredo sauce is one of them.  Yuck.

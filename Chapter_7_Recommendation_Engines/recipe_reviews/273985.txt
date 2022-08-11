@@ -1,0 +1,37 @@
+Recipe number:
+273985.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-28T14:38:52.59
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out tender and delicious as written. I didn't see the note about discarding some of the juice and I wish I would have because it was too wet. To remedy that, I transferred it to a skillet and cooked the liquid down to crisp it up. If you choose not to use the optional habanero, I do recommend you use a jalapeno or something to bring some heat so that you get that perfect balance of sweet/heat. I actually used 2 habanero's but we like it spicy. Overall a great recipe, just be sure to discard some of the juice in that final cooking.

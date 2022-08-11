@@ -1,0 +1,37 @@
+Recipe number:
+245036.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-05T18:33:29.883
+helpfulCount:
+0
+userID:
+23697410
+Display Name:
+K. Whittaker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It turned out pretty good, but there wasn’t a whole lot of texture to it so I would recommend only blending half of the pumpkin mixture, or adding French fried onions on top.

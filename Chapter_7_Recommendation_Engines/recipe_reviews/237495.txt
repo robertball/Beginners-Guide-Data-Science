@@ -1,0 +1,37 @@
+Recipe number:
+237495.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-28T22:49:07.25
+helpfulCount:
+5
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I must admit I made this on a dare. :) What a pleasant surprise. The white chocolate does indeed add a buttery taste to the potatoes as well as a slight sweetness.. kind of like a sweet potato. It is very rich so small servings of this are plenty.

@@ -1,0 +1,37 @@
+Recipe number:
+257772.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-02-16T14:20:13.93
+helpfulCount:
+0
+userID:
+2025104
+Display Name:
+LoriAnn
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+87
+favoritesCount:
+395
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/121.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe as is doesn’t work well and is a big fail. It needs  baking powder and a bit of salt and stevia. The waffles are flat and turn to mush. I was looking for something to use up my quinoa flour and needed to be vegan. This wasn’t it. You need to keep looking.

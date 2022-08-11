@@ -1,0 +1,72 @@
+Recipe number:
+233643.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-02-15T08:23:22.59
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2815
+favoritesCount:
+6005
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used 8" tortillas for the tostadas and followed this recipe to the letter.  The only criticism that I have is that the beef filling was a little dry and needed a kick of heat (at least for our taste).  I put a bottle of hot sauce on the table, so that took care of the spiciness.  I used "medium" salsa, so using "hot" may have resolved the "heat" issue.  In the future, I'll add more salsa, probably a chopped jalapeño to the filling or a healthy shake of hot sauce, and a poached egg instead of fried.  My hubby said he'd definitely like to have this again.  Thanks LEMarr for our nice breakfast today.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-18T14:57:43.023
+helpfulCount:
+0
+userID:
+16802341
+Display Name:
+Matthew Ramen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it for my dad on Father's day. They were great!

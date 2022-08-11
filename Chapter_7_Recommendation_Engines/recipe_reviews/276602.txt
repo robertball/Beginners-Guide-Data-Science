@@ -1,0 +1,107 @@
+Recipe number:
+276602.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-31T20:53:25.78
+helpfulCount:
+0
+userID:
+20587575
+Display Name:
+Becky Klein
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4046132.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe for making a homemade version including the bread dough. Only changes I made was a little more flour because it was super sticky and I live in a humid area. Otherwise dough was super soft and easy to work with. Bread came out great.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-16T02:13:19.693
+helpfulCount:
+0
+userID:
+21421262
+Display Name:
+Ms. J.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+183
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7100548.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent pizza roll. The dough is fantastic, soft but workable. Per the recipe I made it in the stand mixer so it came together quickly. The 1st rise time was closer to 2 hours but it's winter so that's how it goes. Once rolled into the rectangle I did  spread fresh garlic puree (grated on a rasp) before the egg wash. Also sprinkled the provolone with grated parmesan, a few red pepper flakes and dried oregano in addition to the pepperoni. Second rise, sprinkled top with garlic powder and baked for 38 minutes. I did only make half this recipe which made a HUGE loaf. Unless you have a bunch of hungry li'l monkeys (kids!) half was plenty. Next time I think I'll try very thinly sliced smoked ham instead of the pepperoni and gruyere cheese instead of provolone  to switch it up. All in all a great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-21T06:42:21.78
+helpfulCount:
+0
+userID:
+24885112
+Display Name:
+Brenda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe and it turned out great

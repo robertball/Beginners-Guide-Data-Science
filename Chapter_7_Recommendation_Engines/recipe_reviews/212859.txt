@@ -1,0 +1,72 @@
+Recipe number:
+212859.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-12-22T09:14:19.237
+helpfulCount:
+11
+userID:
+2568184
+Display Name:
+Jen G
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+241
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6018208.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the idea of these - I love making paper snowflakes and thought they'd make awesome cookies for a gift basket.  They're a bit too delicate for gifting and no kidding do they take a long time.  The taste by itself is like a fried wonton wrapper but sprinkled with the powdered sugar and drizzled with honey they're crunchy and sweet. The dough was good to work with and folded/unfolded easily when cool and dusted w/flour. I won't make this again unless I make it a family event with lots of hands to help.  You'll probably have better luck with a good heavy rolling pin and practice with deep frying to golden perfection.
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-11T07:07:00.39
+helpfulCount:
+1
+userID:
+8587969
+Display Name:
+Renate
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+103
+favoritesCount:
+928
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3777010.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+To speed this process along, I suggest using the  medal snowflake cookie cutout from William's-Sonoma :0)

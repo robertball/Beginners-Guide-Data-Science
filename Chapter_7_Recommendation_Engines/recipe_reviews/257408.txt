@@ -1,0 +1,37 @@
+Recipe number:
+257408.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-22T18:20:47.23
+helpfulCount:
+5
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe and in my opinion it would have been better without the ginger. I also added the water against my better judgement and had I not, the ice cream would have been a bit sturdier. Overall, tasty.

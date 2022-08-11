@@ -1,0 +1,37 @@
+Recipe number:
+236443.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-08T22:38:37.697
+helpfulCount:
+0
+userID:
+26422611
+Display Name:
+Lindsay Gamarra
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7256544.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made the recipe exactly as posted.  My peruvian husband said it was perfect! My both fully enjoyed it with potatoes,  and some egg and olive !

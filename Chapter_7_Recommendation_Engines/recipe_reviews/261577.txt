@@ -1,0 +1,37 @@
+Recipe number:
+261577.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-15T14:57:23.187
+helpfulCount:
+0
+userID:
+2364107
+Display Name:
+Brandy W.
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+762
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great low carb, low calorie option! It went well with my pulled pork tenderloin. I chopped cabbage and broccoli, instead of using the prepackaged. Subbed what I had on hand for some of the recipe items: Splenda for sugar, raisins for cranberries, and apple cider vinegar for rice vinegar. Also, roughly chopped raw almonds instead of using sliced and left out the grape tomatoes. I will make this again! Thanks for sharing!

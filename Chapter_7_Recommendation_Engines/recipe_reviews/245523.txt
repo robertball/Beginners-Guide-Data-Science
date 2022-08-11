@@ -1,0 +1,17 @@
+Recipe number:
+245523.txt
+Review:
+Rating:
+2
+dateLastModified:
+11/23/2018
+helpfulCount:
+0
+userID:
+15344847
+Display Name:
+John Davidson
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2052443.jpg
+text:
+Not that great.

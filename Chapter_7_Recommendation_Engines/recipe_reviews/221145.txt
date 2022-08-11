@@ -1,0 +1,72 @@
+Recipe number:
+221145.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-13T12:10:38.727
+helpfulCount:
+3
+userID:
+2597411
+Display Name:
+Lorie Rogers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+435
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My father -in-law loves these eggs! Great reciipe.They come out so pretty.
+Review:
+Rating:
+4
+dateLastModified:
+2013-04-18T07:56:03.827
+helpfulCount:
+2
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were wonderful!  Add the onion, it adds depth of flavor...

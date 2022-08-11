@@ -1,0 +1,37 @@
+Recipe number:
+257996.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-25T17:55:58.453
+helpfulCount:
+0
+userID:
+22398124
+Display Name:
+foodylicious
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! The changes we made were we only put 8 oz. mushroom, and we squeezed a wedge of lime in each person's bowl because I like a little tangyness. Simple to make. We found the lemongrass paste (Lee Kum Kee brand) at Ranch 99 Market, the no-msg red curry paste at Sprouts health food store, and for the Indonesian paste we used 1 dried chili pepper but this didn't make the dish spicy at all.

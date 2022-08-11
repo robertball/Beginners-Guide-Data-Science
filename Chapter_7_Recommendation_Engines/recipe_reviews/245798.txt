@@ -1,0 +1,37 @@
+Recipe number:
+245798.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-03T10:25:57.867
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful burger... I wasnt able to find sticky black rice so I used black japonica and cooked it with more water to see if I could get it a little "sticky"   I liked the addition of the vital wheat gluten.. kind of a hybrid veggie burger that way. Will make again for sure

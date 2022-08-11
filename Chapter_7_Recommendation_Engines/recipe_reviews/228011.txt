@@ -1,0 +1,37 @@
+Recipe number:
+228011.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-07-21T10:58:54.067
+helpfulCount:
+4
+userID:
+10345151
+Display Name:
+Jen Arul
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1295907.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I feel there is something missing in the recipe. Didn't come out as creamy as I thought, like water.

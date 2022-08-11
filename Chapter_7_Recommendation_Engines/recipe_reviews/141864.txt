@@ -1,0 +1,37 @@
+Recipe number:
+141864.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-08T19:07:44.847
+helpfulCount:
+12
+userID:
+3002136
+Display Name:
+Wickie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/371296.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was perfect, I use the brand "Pama" pomegranate liqueur and white cranberry juice although red is just as good.  Before finding this recipe I was making something similar only with Vanilla vodka... I never thought of using Pear vodka...yummy !

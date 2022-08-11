@@ -1,0 +1,148 @@
+Recipe number:
+228556.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-11-09T18:30:09.06
+helpfulCount:
+0
+userID:
+22712245
+Display Name:
+John Cantelmi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The combination of lemon and milk tastes terrible.   The lemon flavor is overpowering, maybe try less to no lemon,  personally staying away from this dish
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-11T15:51:28.397
+helpfulCount:
+0
+userID:
+2867865
+Display Name:
+Kelly Carlson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7110199.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Only two reviews so I feel compelled to leave one.
+
+I made this per original recipe, only having doubled it.  It was quick, fairly easy and quite different from our normal fare.  I had figs on hand that needed using so I was interested in trying something new.
+
+The sauce was a bit thick but that could have been my lack of ability to read the tiny directions-without my readers and with a nasty case of poison ivy swelling up my eyes.  I added a bit more milk and it was fine.
+
+My only other complaint is the picky eaters that I fed this to.  I really enjoyed it but they picked out all the prosciutto and left all the figs.  At least they didn't totally turn up their noses, so I think that's a good sign.  I would make this again for me.  The rest can make their own dinner.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-13T09:33:33.89
+helpfulCount:
+0
+userID:
+474999
+Display Name:
+milkandbananas
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+216
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I had to make a couple subs based on what I had on hand. I used dates instead of figs and used pre-cooked crumbled bacon - did not use the lemon pepper.  I had doubts about the white sauce as a stand-alone with added zest but it was fantastic. The topping of dates/bacon (in our case) was amazing. So so good. Definitely will make again! Thank you for  such a yummy and creative recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-12T02:07:10.923
+helpfulCount:
+0
+userID:
+15498671
+Display Name:
+barbara
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Without a doubt the most creative, incredible recipe I've found in forever. The figs, prosciutto, and white sauce with just that touch of lemon make this outstanding. This is a definite keeper, fit for company. Thanks for sharing. I was very impressed.

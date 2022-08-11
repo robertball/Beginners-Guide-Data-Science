@@ -1,0 +1,107 @@
+Recipe number:
+156791.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-01-08T08:36:02.75
+helpfulCount:
+9
+userID:
+3146927
+Display Name:
+Texas Cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+262
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fabulous!  I added about 1/2 a can of corn and reduced olive oil to reduce colories.
+Review:
+Rating:
+4
+dateLastModified:
+2011-11-05T21:34:59.977
+helpfulCount:
+3
+userID:
+2417869
+Display Name:
+CookinBug
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+1296
+favoritesCount:
+5136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/801488.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy! I didn't have pickled jalapenos, so I used fresh jalapenos and some canned diced green chiles. I added a little garlic powder and white pepper. Cumin would be a good addition too. Thanks :)
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-24T02:14:36.79
+helpfulCount:
+0
+userID:
+4501419
+Display Name:
+Ricky Williams
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+289
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1134351.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Served with Wheat crackers was a Delicious tray at Birthday Party

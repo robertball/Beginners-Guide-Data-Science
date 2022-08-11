@@ -1,0 +1,37 @@
+Recipe number:
+254773.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-14T18:15:29.67
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2823
+favoritesCount:
+6009
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.14.17   Rainier cherries are a treat in my area, and when they’re in season, I always freeze a bunch of them specifically for smoothies, and this is a good one!  courtneyswife, thanks for sharing your recipe.  I love smoothies, and this one will be made often.

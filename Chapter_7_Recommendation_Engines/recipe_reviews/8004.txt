@@ -1,0 +1,513 @@
+Recipe number:
+8004.txt
+Review:
+Rating:
+3
+dateLastModified:
+2002-05-21T12:31:11.373
+helpfulCount:
+10
+userID:
+245807
+Display Name:
+KARISADING
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Even though I carefully followed the recipe to the letter, my cakes turned out dense, dry, and not very flavorful. The chocolate layer doesn't sink to the bottom as claimed, it remains as a thin layer at the top and drips down along sides of the crust.  Not sure what I did wrong?
+Review:
+Rating:
+5
+dateLastModified:
+2000-09-07T19:08:06.573
+helpfulCount:
+10
+userID:
+161895
+Display Name:
+FLEMING7
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious!! Kids eat this one up and fight over the last piece! best of both worlds, vanilla cake with a rich chocolate bottom in a flaky pie crust.  Be sure to put in batter first and pour chocolate on top!
+Review:
+Rating:
+5
+dateLastModified:
+2000-11-27T18:53:45.217
+helpfulCount:
+8
+userID:
+214775
+Display Name:
+WAYNE STEVENS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe, with minor differences, has been a family favorite for generations.  We couldn't keep it in the house once it was made.  It is still one of my favorite recipes to make and consume.
+Review:
+Rating:
+2
+dateLastModified:
+2002-11-11T14:35:23.14
+helpfulCount:
+7
+userID:
+723670
+Display Name:
+GERAANNE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly and after the baking time was done, the inside was liquidy.  I also found that the flour-based layer will seep out if not sealed by the chocolate.  I've had funny cake before and was so disappointed that this  recipe didn't work even after 4 failed attempts.
+Review:
+Rating:
+5
+dateLastModified:
+2013-08-19T11:16:06.37
+helpfulCount:
+6
+userID:
+8025813
+Display Name:
+LAHofm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok I have the same recipe but we do it differently, we put the chocolate in the bottom first then pour the batter on top. We also do this in a 12 inch pie plate as it is enough to fill. I also have done it in a 9 inch tall sided pie plate. Though the 9" has to be cooked for almost an hour versus 30 minutes for the 12 inch. You have to check the center before taking it out and just let it finish. I have never had a flopped one yet. It is enough for two pies but not three if you want decent size funny cakes. Just a note, the chocolate taste better if you use Hershey's cocoa even though I have used others this is the best.
+Review:
+Rating:
+5
+dateLastModified:
+2001-12-10T23:45:01.653
+helpfulCount:
+6
+userID:
+290751
+Display Name:
+KELLIBO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+221
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this growing up in PA and glad to find the recipe again.  Made these out here in Washington State for my church's semi-annual bake sale - now have requests to make them each time.  Chocolate layer is sooo good and the cake part has a lovely vanilla flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2002-05-20T13:04:07.42
+helpfulCount:
+5
+userID:
+512853
+Display Name:
+TECHNODAWG
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my 3rd grader's art class and it was a big hit, all the teachers wanted this recipe. Thanks for a great recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2008-02-22T10:12:38.313
+helpfulCount:
+4
+userID:
+1136454
+Display Name:
+Pink Lady
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/704004.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had the same exact problem as another reviewer. The chocolate did not sink down to the bottom like it's supposed to and there was definately not enough batter to fill 3 9" pie plates. 2 of mine turned out really shallow! However, these were tasty, but looked very strange! I think I'll keep searching for a better funny cake recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-24T05:18:50.82
+helpfulCount:
+3
+userID:
+11829556
+Display Name:
+superauntjane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed another reviewers suggestion and used the filling for 2 9-inch pies rather than three. The pie crusts were my own not store bought. You would need three pie crusts if you were using store-bought crusts. I also added 1/4 cup butter to the chocolate mixture based on a recipe from a Mennonite friend. Baking time was 40 minutes in my oven. Use a toothpick to determine when pie is done. Excellent result.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-24T13:03:16.533
+helpfulCount:
+1
+userID:
+5724365
+Display Name:
+cutiepies
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2489356.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sentimental recipe. Nearly identical to my grandmother's (hers is for one 9" pie crust and so the quantities are more or less halved). We put the cocoa mixture down first and top it with the cake like batter also I usually bake it at 375 for about 40 minutes.
+Review:
+Rating:
+3
+dateLastModified:
+2019-09-04T13:47:05.933
+helpfulCount:
+0
+userID:
+26084898
+Display Name:
+Cindy Lou
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7003276.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After looking through reviews and consulting my cousins I made this cake. The cake part didn't turn out right. I consulted my mother. The recipe now looks like this:
+Syrup:
+1 1/2 c. granulated sugar
+3/4 c. Hershey's unsweetened cocoa powder
+1 1/2 c. hot water
+1 tbsp. cornstarch
+1 tsp. salt
+3/8 c. butter
+1 1/2 tsp. vanilla extract
+
+Changes to the cake:
+1 c. Crisco (no butter)
+2 c. flour
+2 1/2 tsp baking powder
+
+Instruction changes:
+Let syrup mix partially cool while preparing the cake.
+Preheat oven to 400 degrees.
+Bake 10 min. at 400 degrees then decrease oven temp to 350 degrees. Bake for another 30 to 35 minutes (until cake is lightly browned and toothpick comes out clean (from cake part only).  I used glass pie pans. That might make a difference in baking time.
+
+Don't freak out about the chocolate not going to the bottom. It will surprise you!
+I think that's everything!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-15T23:17:51.457
+helpfulCount:
+0
+userID:
+23570037
+Display Name:
+Troy Ginter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5297812.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed directions made 2 12 inch. And came out awesome. Great recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-21T18:11:20.717
+helpfulCount:
+0
+userID:
+16809766
+Display Name:
+JJ Leavens :]
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2871737.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best funny cake ever!!!! I love this recipe!!!!!! Good! Good! Good!
+Review:
+Rating:
+3
+dateLastModified:
+2014-12-14T16:50:43.413
+helpfulCount:
+0
+userID:
+6311340
+Display Name:
+Mechelle Orendach-Winslow
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+196
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3174249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm from PAZ and grew up on this but there is something missing with this recipe.  I will have to call my mom up and post the differences later!

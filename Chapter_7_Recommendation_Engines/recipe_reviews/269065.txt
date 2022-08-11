@@ -1,0 +1,107 @@
+Recipe number:
+269065.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-15T19:08:34.447
+helpfulCount:
+1
+userID:
+21528950
+Display Name:
+Dave Brinker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First of all, I always read the comments to look for variations on the recipe.  I don't think cooking is a science, where you must follow the recipe precisely, but more of an art. I made this late last night and haven't even tasted it myself. However, my two roommates report that it's awesome. The only variations that I used were that I shredded a pound of mild cheddar because I didn't have any Monterey Jack cheese, and I baked it for a full hour. I will definitely make this again!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-11T15:22:30.1
+helpfulCount:
+0
+userID:
+24717227
+Display Name:
+Chef Curmudgeon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6100723.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great. Used a large cast iron skillet. Corn meal  topping was not spreadable and insufficient ton
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-16T08:37:04.647
+helpfulCount:
+0
+userID:
+17085379
+Display Name:
+Geri
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+243
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6765282.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very good with the exception of the topping. I think when I make it again I will make a cornbread topping and put on it.

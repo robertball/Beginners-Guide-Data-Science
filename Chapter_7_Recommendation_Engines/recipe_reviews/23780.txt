@@ -1,0 +1,74 @@
+Recipe number:
+23780.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-05-15T17:56:43.45
+helpfulCount:
+9
+userID:
+247377
+Display Name:
+ASHBETH
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+175
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I fixed this for a dinner party with vegetarians and it was a hit.  My husband did not like the dressing, but everyone else seemed to enjoy it.
+Review:
+Rating:
+3
+dateLastModified:
+2005-11-11T09:02:25.153
+helpfulCount:
+7
+userID:
+989467
+Display Name:
+SASPIRILLA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice salad.  I didn't have champagne so I used extra virgin olive oil, a bit of sugar, 2 tsp of fresh lemon juice along with the other dressing ingredients listed on the recipe.
+
+I would probably make this again.

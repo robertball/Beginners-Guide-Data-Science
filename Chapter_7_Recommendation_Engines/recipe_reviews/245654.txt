@@ -1,0 +1,108 @@
+Recipe number:
+245654.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-11-06T22:53:27.007
+helpfulCount:
+0
+userID:
+22484230
+Display Name:
+Cassimfan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just made them, and this is awful! They are way to dry, taste like nothing, and the outside has baked into a shell around the tasteless inside. Please improve this recipe or delete it.
+Review:
+Rating:
+1
+dateLastModified:
+2017-10-03T22:09:25.937
+helpfulCount:
+0
+userID:
+19210879
+Display Name:
+Margo Zwald
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Horrid. Missing an ingredient or two and cook time is way to long. This recipe needs to get rewritten and tested or tossed.
+I just wasted flour, butter and eggs on it.
+Review:
+Rating:
+1
+dateLastModified:
+2016-11-02T14:45:24.717
+helpfulCount:
+0
+userID:
+20657012
+Display Name:
+Julie Bayer-Vile
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4089188.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were horrible. They had absolutely no flavor. They don't have sugar! The only flavor enhancer that goes into the batter is apple cider. No salt, no sugar, no spices.

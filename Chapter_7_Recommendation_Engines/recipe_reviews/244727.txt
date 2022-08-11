@@ -1,0 +1,37 @@
+Recipe number:
+244727.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-22T22:13:37.097
+helpfulCount:
+0
+userID:
+15429722
+Display Name:
+Roseanne
+isPro:
+False
+followersCount:
+45
+followingCount:
+0
+madeRecipesCount:
+290
+favoritesCount:
+285
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2199831.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent salad, enjoyed the combination of salty feta and sweet grapes.  Used red bell peppers as we like them better than green peppers.

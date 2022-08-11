@@ -1,0 +1,37 @@
+Recipe number:
+257639.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-05T15:52:29.45
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love to try unrated recipes, but I hate leaving a first review that is less than stellar.  I really wanted to like this because all the ingrediants sounded great ,but this hummus just didn't come together for us.  Firstly a "bouguet garni" is a bundle of herbs wrapped with leeks or cheesecloth and tied with string, so no idea how  you would put that in a food processor.  Secondly a  1/2 cup of vinegar?  Maybe it's a typo, but I certainly wouldn't suggest that much.  The arugula gave the dip a beautiful color, but combined with the artichokes it took over and was rather bitter.

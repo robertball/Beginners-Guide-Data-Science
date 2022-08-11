@@ -1,0 +1,72 @@
+Recipe number:
+236279.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-05-28T18:05:56.11
+helpfulCount:
+4
+userID:
+11772873
+Display Name:
+mystinkypete
+isPro:
+False
+followersCount:
+61
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+282
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1045058.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The walnuts and dried apricots made it a bit too chunky for my liking, but the second batch I made without those pieces was creamy & delicious! Try coconut water instead of just plain water, too.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-08T16:24:01.31
+helpfulCount:
+1
+userID:
+625707
+Display Name:
+Rose Miller Coon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+156
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1219463.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I used unsweetened Silk Coconut Milk instead of water, and I had to omit dried fruit as I'm trying to cut down on sugar.  It wasn't very sweet but it was perfect if you like that sort of bitter dark chocolate flavor. I'm going to make more tonight!

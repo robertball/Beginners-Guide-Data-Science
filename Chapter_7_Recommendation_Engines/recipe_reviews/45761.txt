@@ -1,0 +1,72 @@
+Recipe number:
+45761.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-02-25T16:14:51.337
+helpfulCount:
+2
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1593
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So, I love beer.  I love beer so much we plan cross country vacations around trying new beer.  I like whiskey, too.  Whiskey + beer can't be awful, right?  Um, it kind of is.  EXCEPT, I made myself try a few more sips to be sure it was as gross as I thought.  At that point, between the beer (I used a good pale ale) and the whiskey the alcohol kicked it and I couldn't decide if I hated it or not.  I'd planned to dump it, but I ended up finishing it.  Cheers
+Review:
+Rating:
+3
+dateLastModified:
+2006-12-27T12:38:36.463
+helpfulCount:
+2
+userID:
+1258917
+Display Name:
+Mikey Science
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's a decent drink... a sweet variant on a whiskey-bomb.  However, the name has been used for a very long time to refer to a shot containing equal parts Jaeger and Peach Schnapps.

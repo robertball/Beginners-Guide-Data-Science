@@ -1,0 +1,37 @@
+Recipe number:
+238301.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-08T16:25:33.747
+helpfulCount:
+1
+userID:
+14256021
+Display Name:
+vanessa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+something different and tasty! i used less celery because I just don't like celery that much. i will be making this again as it is nice and light, perfect for summer lunch!

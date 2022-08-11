@@ -1,0 +1,37 @@
+Recipe number:
+267869.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-07T14:56:25.9
+helpfulCount:
+1
+userID:
+3760491
+Display Name:
+Terri
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+202
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this this morning and the idea is great.  I made it according to the recipe and I thought the dressing overpowered everything.  To start with I hate Greek yogurt and I thought it took away from the avocado.  I'm going to make it again but this time I will slice the avocado and place in on the salad then I'll use the avocado oil dressing I have. I'm giving this recipe 5 stars for the wonderful idea. And others may love the dressing.

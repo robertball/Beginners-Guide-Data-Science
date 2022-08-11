@@ -1,0 +1,37 @@
+Recipe number:
+150570.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-12-24T15:51:07.38
+helpfulCount:
+7
+userID:
+2713261
+Display Name:
+flossfairy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am a cook NOT a baker. I was a little worried when I saw the picture-it looks kind of yellow. This pie turned out good! It is layered and the middle layer IS yellow! I do not have a pie plate so I did the store bought, regular size pie crusts. I followed the directions exactly and divided it between the two crusts! It turned out great but the layers are thinner!

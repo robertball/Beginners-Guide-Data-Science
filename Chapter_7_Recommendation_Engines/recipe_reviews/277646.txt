@@ -1,0 +1,38 @@
+Recipe number:
+277646.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-31T14:47:17.81
+helpfulCount:
+0
+userID:
+13676069
+Display Name:
+Andrea Anderson
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3655689.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Can this be made without air fryer?
+If you may, please tell how.

@@ -1,0 +1,72 @@
+Recipe number:
+257277.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-27T17:16:49.567
+helpfulCount:
+2
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6663
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is worth the making if only for the dressing. The flavors of the dressing are great. I did make one big mistake and forgot to add the artichoke hearts. Nevertheless this was really good.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-14T10:04:19.397
+helpfulCount:
+0
+userID:
+25225229
+Display Name:
+Charles Reigh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6406998.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came out very good. Used asparagus instead of artichoke hearts and added imported mozzarella cheese. Very delectable.

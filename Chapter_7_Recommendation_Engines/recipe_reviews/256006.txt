@@ -1,0 +1,107 @@
+Recipe number:
+256006.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-26T19:25:00.127
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good. I did think it needed more cheese on the top and I didn't have any more mozzarella left so I used  some cheddar I had on hand. I think mushrooms would be a good addition if you like them.  I cannot imagine anyone who likes pepperoni pizza not liking this. It doesn't sit good for very long periods of time. Once it starts cooling down the texture gets a little weird so keep that in mind. This would be a big hit for a SuperBowl party.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-26T21:15:09.113
+helpfulCount:
+0
+userID:
+26622054
+Display Name:
+Lisa Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added 4 oz  mini pepperoni, sliced, 2 tbls Mrs Dash Herb & Garlic Seasoning, & a can of Tomato soup (condensed)
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-03T02:31:04.193
+helpfulCount:
+0
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+370
+favoritesCount:
+1313
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is definitely a an easy recipe that pays off.  I separated the mixture into two oven-safe 16 ounce bowls and added 5 minutes to the bake time, they could of used 10 since they were deeper than the 9 inch pan recommended at the 30 minutes.  I have to tell you I never did find the Herb and Garlic soup mix despite looking in multiple stores so I substituted by looking at some suggestions.  Thank you!

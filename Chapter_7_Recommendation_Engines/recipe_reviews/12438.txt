@@ -1,0 +1,37 @@
+Recipe number:
+12438.txt
+Review:
+Rating:
+3
+dateLastModified:
+2000-11-26T14:46:20.78
+helpfulCount:
+8
+userID:
+127264
+Display Name:
+Cheryl
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+141
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I probably did not have the right kind of custard mix, because mine never set up that well.  The praline was delicious though, so I will probably make it again with the more traditional pumpkin custard instead.

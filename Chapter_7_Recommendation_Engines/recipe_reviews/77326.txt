@@ -1,0 +1,107 @@
+Recipe number:
+77326.txt
+Review:
+Rating:
+2
+dateLastModified:
+2005-06-05T18:57:36.56
+helpfulCount:
+2
+userID:
+1152946
+Display Name:
+JTIF
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+190
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think the flavor is just ok, not really worthy to go through so many processes. The yam mix actually became so liquidy.(ps I do use condense milk.) When I tried to  spooned it over the plate . It fall aparts. NOt really impressive, sort of embarracing. Next time, I will do the traditional yam (por pimpkin) pie.
+Review:
+Rating:
+5
+dateLastModified:
+2009-11-24T17:42:12.4
+helpfulCount:
+1
+userID:
+1617478
+Display Name:
+Wendy Darling
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+197
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3009591.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I can't believe anyone gave this less than five stars.  Everyone who has tried them absolutely loved them.
+Review:
+Rating:
+5
+dateLastModified:
+2007-12-20T04:16:12.027
+helpfulCount:
+0
+userID:
+2628800
+Display Name:
+Dawn Steinbach Hill
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1349189.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it!  My daughter has a wheat allergy which makes finding a yummy gluten-free dessert difficult.  I replaced the all purpose flour with rice flour.  I also added a little of the orange juice along with the rind and cooked the recipe for a few minutes longer than recipe called for.  This was something the entire family loved.

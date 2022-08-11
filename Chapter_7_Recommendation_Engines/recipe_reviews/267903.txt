@@ -1,0 +1,73 @@
+Recipe number:
+267903.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-05T17:32:59.847
+helpfulCount:
+0
+userID:
+731723
+Display Name:
+SZYQ1
+isPro:
+False
+followersCount:
+61
+followingCount:
+0
+madeRecipesCount:
+639
+favoritesCount:
+3050
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4049308.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This worked well overall for spaghetti squash in the instant pot! My husband makes his own chili and I never would have thought to put it over spaghetti squash. Great option for when you don't want to serve over noodles. I enjoyed it with the chili. My only complaint is that the squash came out too soft for my preference (actually separated from the shell), but perhaps that could be due to my squash being smaller. I usually set timer for 7 minutes, but wanted to see how the texture would be at 8 minutes. I'll try it again and update review accordingly :-) Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-26T21:22:42.707
+helpfulCount:
+0
+userID:
+23580488
+Display Name:
+Callie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my go to recipe for chili.
+I have shared it with many friends that feel the same way.

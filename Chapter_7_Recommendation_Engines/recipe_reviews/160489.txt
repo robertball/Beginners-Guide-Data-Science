@@ -1,0 +1,37 @@
+Recipe number:
+160489.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-10-22T19:06:56.697
+helpfulCount:
+3
+userID:
+555967
+Display Name:
+HMCCULLOUGH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved by all!  I thickened it up a bit with some whole wheat flour and it was lovely.  I've made it twice in two weeks and that's a lot of cooking for me!

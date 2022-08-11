@@ -1,0 +1,37 @@
+Recipe number:
+241375.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-27T01:36:55.623
+helpfulCount:
+2
+userID:
+5637903
+Display Name:
+bArdicMelodYs
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+103
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4458652.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made this twice now, once with apples and once with dried cherries and cranberries.   I left the barley soaking overnight to keep the cooking time down in the morning.  Delicious and carries you through to lunch.

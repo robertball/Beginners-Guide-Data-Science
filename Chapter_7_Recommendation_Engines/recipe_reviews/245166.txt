@@ -1,0 +1,110 @@
+Recipe number:
+245166.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-17T21:32:40.38
+helpfulCount:
+8
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9646
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and loved every minute of them! If I had one thing to add is that your prepared mashed potatoes need chilled. Mine were warm and would have been much more manageable if cold and stiff to form into patties.  Flavors were spot on though and this is a perfect use of those leftover tators!
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-28T16:50:58.003
+helpfulCount:
+5
+userID:
+4562668
+Display Name:
+Chef V
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+459
+favoritesCount:
+642
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/911981.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really great! The flavors in this is just to my liking. 
+I noticed my potato mixture was pretty loose (used mashed potatoes from dinner before.. Mine were extra Creamy) I ended up having to add the majority of the bread crumb mix into my patties so they could form. I baked mine for 30 minutes and they were nice and crisp, but still soft on the inside. 
+Garnished with additional cheese, jalepenos, banana peppers and some cilantro. 
+This is an excellent way to use up mashed potatoes and me them 100% different. Will make again and will add some cilantro into the mix as well!
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-19T06:51:49.82
+helpfulCount:
+4
+userID:
+1171191
+Display Name:
+Phoebe
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+390
+favoritesCount:
+2753
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/572879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am the author of this recipe and definitely use firm, leftover mashed potatoes that have been chilled for optimum results.

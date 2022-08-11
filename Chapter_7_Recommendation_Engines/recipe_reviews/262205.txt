@@ -1,0 +1,177 @@
+Recipe number:
+262205.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-08T00:16:03.12
+helpfulCount:
+2
+userID:
+24169770
+Display Name:
+Nathan Muya Maingi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5710370.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic recipe. The taste was right on the money. Asante sana! ????
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-29T06:13:42.877
+helpfulCount:
+0
+userID:
+9383051
+Display Name:
+Nancy Mewes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7382862.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect recipe with on point ingredients measurements! If you follow the instructions as given you will have great results  thank you!!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-30T07:58:14.737
+helpfulCount:
+0
+userID:
+25638578
+Display Name:
+Blake Ann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6688936.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and delicious!!! The cardamom is such a great flavor,  I think I'll try adding a little more next time. I'm definitely adding this to my recipe book. Asante!!~
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-18T01:38:54.36
+helpfulCount:
+0
+userID:
+25316849
+Display Name:
+Anne Ciiku Drane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6460331.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the Mandazis on this recipe. Best ones I ever made! I happened to have all the ingredients. Asante.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-14T22:37:36.65
+helpfulCount:
+0
+userID:
+21333544
+Display Name:
+grace githiga
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome results. Didn't have yeast though...used baking powder.

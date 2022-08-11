@@ -1,0 +1,37 @@
+Recipe number:
+215278.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-16T04:09:22.653
+helpfulCount:
+0
+userID:
+22541162
+Display Name:
+O&K's Mommy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5423350.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a sprinkling of cayenne pepper instead of the chili pepper ( because that was what I had on hand). My frying time was somewhat longer than the 5 minutes described ( because my family likes things a little darker and crispier).

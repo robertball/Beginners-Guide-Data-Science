@@ -1,0 +1,107 @@
+Recipe number:
+262914.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-24T18:55:25.837
+helpfulCount:
+1
+userID:
+9530526
+Display Name:
+fgchum01
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe.  Delicious, quick and easy to prepare.  I never used puff pastry to make a crust like this before.  I didn't know what to expect and felt a little wary.  It turned out great.  Next time, I think I'll chop the spinach a little coarser, about the size of a quarter, so there are bigger pieces in the finished dish.
+Review:
+Rating:
+5
+dateLastModified:
+2020-03-06T16:06:27.027
+helpfulCount:
+0
+userID:
+24207316
+Display Name:
+Susan Starkey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6175080.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect as is
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-04T02:17:47.89
+helpfulCount:
+0
+userID:
+1739695
+Display Name:
+Susan Seals
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2202387.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the flavors.  I did add leftover ham for my meat loving HB  but everything else was exactly as the recipe called for.  Very good.

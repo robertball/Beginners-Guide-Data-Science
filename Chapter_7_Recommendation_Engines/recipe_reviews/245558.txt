@@ -1,0 +1,37 @@
+Recipe number:
+245558.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-15T14:16:53.67
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe submitter said to use your herb of choice and mine was parsley. Parsley butter goes great with crab legs. The submitter also mentioned in the footnotes to skip step 3 in the recipe if you wanted a stronger herb flavor and so I skipped step 3. This turned out really good. I can't wait to try it with other herbs. I do think if you plan on leaving the herb in and not straining it out that you might want to cut back to 2 tablespoons.

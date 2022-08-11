@@ -1,0 +1,72 @@
+Recipe number:
+235544.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-11T11:02:28.693
+helpfulCount:
+2
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very quick and easy snack.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-04T03:17:21.19
+helpfulCount:
+1
+userID:
+15177225
+Display Name:
+SDD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good except I left off curry and put a TBSP butter in the bag.  Cooked for 3 minutes until it stopped popping.  Hint:  it’s better to not put butter in bag and simply put on a few sprays of Spray butter afterwards.

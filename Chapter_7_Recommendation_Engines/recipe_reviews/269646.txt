@@ -1,0 +1,72 @@
+Recipe number:
+269646.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-19T20:54:27.62
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+765
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really tasty and I love the assortment of veggies in it. The natural sweetness from the sweet potato and butternut squash add another layer of flavor and the turnip really comes through without being overpowering. I only had to cook the soup for about 30 mins before everything was soft enough to blend. All I needed to add at the end was additional salt. It's super creamy and you would would think milk or cream was added. Delicious. This makes 4 huge servings - you could even stretch this to 6.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-06T19:51:14.543
+helpfulCount:
+0
+userID:
+12541024
+Display Name:
+Ms Jean
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+246
+favoritesCount:
+1655
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious soup and a little different from the usual fall soups. The veggies work well together and no flavor dominates. I did cut back on the butter by 1 tblsp. This is so smooth and creamy and was very satisfying on a cold day. It's hard to believe that there is no milk or cream in it! I enjoyed this with caesar croutons instead of the usual crackers. I'll definitely make this again! Thanks, Connor!

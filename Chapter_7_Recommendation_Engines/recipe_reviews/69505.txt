@@ -1,0 +1,72 @@
+Recipe number:
+69505.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-27T09:42:23.653
+helpfulCount:
+3
+userID:
+3273390
+Display Name:
+Tara Renner
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+886
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/138634.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Normally I don't feel it's fair to review a recipe once you've made major changes, but this is a good tasting soup, I just made the changes based on my family's preferences, not because I thought the recipe needed a lot of improvement as written. I should call it "6 Treasures" because I left out the ham and ground beef. (We don't eat a lot of red meat.) I made a half recipe for a family of four, and only used 3 cups of water since it seemed like 4 would be too watery. It turned out just right. I did add some chicken bullion to make the broth more flavorful since I did not use the meat, and I used a can of minishrimp and included the liquid in the can. I think next time I will use full sized shrimp since we all love shrimp. I sauteed the tofu in the vegetable oil before adding the veggies, then added the broth, then the shrimp and lastly the egg. The other change I made was to use frozen corn instead of creamed; thought the creamed would be too sweet. I used shitakes for the mushrooms. I didn't let the soup simmer too long so the ingredients wouldn't get too mushy. I also added a splash of soy sauce and it turned out great! Thanks for a nice soup recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-23T17:21:45.367
+helpfulCount:
+0
+userID:
+9817374
+Display Name:
+Heather
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3540209.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My 10-year-old made this for lunch and with an added dash of salt at the table, it was nice.  I liked that it was full of protein.

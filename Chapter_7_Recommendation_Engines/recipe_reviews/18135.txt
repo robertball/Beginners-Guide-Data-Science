@@ -1,0 +1,145 @@
+Recipe number:
+18135.txt
+Review:
+Rating:
+3
+dateLastModified:
+2001-03-12T10:58:18.547
+helpfulCount:
+10
+userID:
+276099
+Display Name:
+T. MARTIN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+4734
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a VERY sweet cake because of the addition of the gelatin.  You might try
+using only 1/2 of the gelatin package.
+Overall, I think this could be a good cake for a child's birthday party with some tweaking
+to the recipe here and there.
+Review:
+Rating:
+5
+dateLastModified:
+2005-08-14T12:08:42.28
+helpfulCount:
+8
+userID:
+1104457
+Display Name:
+BABIDOLL02
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+346
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is good just like it is.  I have made this twice.  First time with the orange gelatin, second time with cherry.  Both excellent.  I also used vanilla ice cream to top it off.  YUMMY!  So quick and easy, thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2008-11-02T08:41:52.113
+helpfulCount:
+7
+userID:
+1385142
+Display Name:
+TIFFERS0118
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/260445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cake is incredibly moist and delicious and is a great alternative to chocolate cake for parties!
+Review:
+Rating:
+3
+dateLastModified:
+2007-10-11T13:06:20.833
+helpfulCount:
+6
+userID:
+2445053
+Display Name:
+Fran
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a bundt pan and sugar free Black cherry Jello and it was  good.

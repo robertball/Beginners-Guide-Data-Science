@@ -1,0 +1,255 @@
+Recipe number:
+220585.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-18T00:18:26.257
+helpfulCount:
+4
+userID:
+3394743
+Display Name:
+Jared Gummig
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+529
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5297495.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm always looking for unique flavors and things to try so when I saw this recipe, I had to try it. As some of the other reviewers have stated, there is a slightly bitter taste to the finished ice cream, but.... Have you ever drank a Guinness before? You should know what you're getting yourself into. ;)
+
+As for the instructions, let me start off by saying, making a custard correctly is quite difficult. There's a high chance that things will get screwed up. I made the recipe as followed but would suggest the following alterations. 
+First, make sure you completely separate the yolks from the whites. The whites will cook into scrambled egg consistency when finished. Not very tasty to have scrambled eggs in your ice cream. 
+Second, when you add the hot cream to the yolks (tempering), make sure you mix the  out of it. When it looks well mixed, mix it some more to be sure.
+Third, the cream in the pan was too hot when I added the tempered yolks. They cooked way too fast and I ended up with stringy yolk pieces in the finished custard. I would suggest cooking 1 cup of the cream and milk together. Then before the tempered eggs were added, add the one cup of room temp cream to the pan. Heat slowly over medium-low heat. The custard will be finished when the mixture has thickened, like the recipe says, but if you want exact, it's 165 degrees. This will likely take longer than the 2-3 minutes in the recipe. Don't get the temp above this point.
+Fourth, two hours in the fridge is likely not
+Review:
+Rating:
+5
+dateLastModified:
+2013-04-09T10:50:05.593
+helpfulCount:
+2
+userID:
+11224512
+Display Name:
+danielle bailey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2549.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought that this recipe was amazing . This was the best. Love it
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-25T20:53:17.2
+helpfulCount:
+1
+userID:
+3980219
+Display Name:
+Kiboland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/313163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’ve made this ice cream more times than I can count. So good! I always pass the warm custard through a tight sieve before putting it in the fridge to cool. It’s a good way to keep the lumps out.
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-26T13:10:13.027
+helpfulCount:
+0
+userID:
+18240062
+Display Name:
+Dan Norton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3701233.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This ice cream was phenomenal when it was fresh out of the mixer and had the consistency of soft serve ice cream.  However, when I left the mixed ice cream in the freezer, my guests commented that it had a fairly bitter taste upon first bite but mellowed out the the usual Guinness flavor after a few seconds.
+
+So, in short, this ice cream dies not seem to do well when frozen solid.
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-19T00:10:19.077
+helpfulCount:
+0
+userID:
+16982473
+Display Name:
+Siekeheros
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Mmmm beer
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-22T13:08:20.58
+helpfulCount:
+0
+userID:
+12309869
+Display Name:
+Valerie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+508
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for our annual Irish Day parade and it was a big hit. I didn't have vanilla bean but used extract.
+Review:
+Rating:
+3
+dateLastModified:
+2012-09-03T12:41:09.437
+helpfulCount:
+0
+userID:
+9872085
+Display Name:
+hannah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+had a faint bitter aftertaste but was quite nice, had it with guinness cupcakes which cancelled out any bitterness

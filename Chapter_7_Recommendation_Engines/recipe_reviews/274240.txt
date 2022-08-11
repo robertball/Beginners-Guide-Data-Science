@@ -1,0 +1,37 @@
+Recipe number:
+274240.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-04T18:40:58.823
+helpfulCount:
+1
+userID:
+8937272
+Display Name:
+fruitdog
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+313
+favoritesCount:
+730
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3930066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this for breakfast, but can also see it as a great pack lunch for work! Love banana and PB together, but never had it in oatmeal. I didn't have chia or pumpkin seeds but did throw a few toasted walnuts on top, and the best yogurt choice flavor in the fridge was maple, which was a nice combination. It was creamy and flavored just perfectly!  Thank you Mrs Gator Williams

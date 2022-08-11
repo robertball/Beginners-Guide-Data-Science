@@ -1,0 +1,38 @@
+Recipe number:
+63035.txt
+Review:
+Rating:
+3
+dateLastModified:
+2004-03-13T14:42:16.693
+helpfulCount:
+3
+userID:
+888281
+Display Name:
+DANA NIC
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2549.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies aren't exactly what I had in mind for as a cookie. I added a 1/2 tsp. of almond extract to the recipe otherwise made it as it is.
+I found them not to have much flavor.  I do think they would make a great shortcake recipe, but definately not for a cookie, at least not for my taste.

@@ -1,0 +1,37 @@
+Recipe number:
+259142.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-13T16:41:05.65
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Through the years I have heard many people say that cheese doesn't belong with seafood. They would change their mind if they ever tried this recipe. This was excellent and almost too easy! The one change I made and I highly recommend that you do too is to use garlic powder instead of garlic salt. Everything in this recipe is already salty. That is the only reason why I'm giving this a 4 instead of 5. Oh and I added scallions to the mix and that was a nice touch but not necessary. This one is a keeper!

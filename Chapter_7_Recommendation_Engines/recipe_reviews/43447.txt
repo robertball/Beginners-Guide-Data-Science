@@ -1,0 +1,72 @@
+Recipe number:
+43447.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-10-17T18:23:12.61
+helpfulCount:
+2
+userID:
+1906800
+Display Name:
+Polo
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1731.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice flavor. Easy. But not what I was expecting. I love the substantial flavor & texture of Greek food, always have. This seemed a bit like an American recipe of Greek pasta salad.
+Review:
+Rating:
+4
+dateLastModified:
+2013-05-01T05:27:41.503
+helpfulCount:
+0
+userID:
+3445677
+Display Name:
+Doc Simonson
+isPro:
+False
+followersCount:
+75
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+611
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2662639.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My kids really like this, which surprised me. The reason I didn't give it five stars, apart from my status as a grumpy old man, is that the recipe doesn't say what shape of spinach pasta should be used. I used linguine, and it was clunky looking and harder to eat than had I used penne or mezzo penne. Also, what kind of ricotta should be used? Regular ricotta is nice and creamy, but it makes the salad look like a train wreck! Maybe ricotta salata would be a better choice? You give up creaminess, but may have a nicer looking salad. This was a very tasty dish and it will be made again and again in our house. Other changes I would make are the addition of artichoke hearts, a bit of red onion and maybe a garnish of sliced green onion.

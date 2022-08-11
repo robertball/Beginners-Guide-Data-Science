@@ -1,0 +1,37 @@
+Recipe number:
+105128.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-11-18T12:15:23.897
+helpfulCount:
+0
+userID:
+2039607
+Display Name:
+Michael G.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+my family loved these burgers! especially my mom who is all about healthy food. really easy and fun!

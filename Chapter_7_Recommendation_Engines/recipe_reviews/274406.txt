@@ -1,0 +1,72 @@
+Recipe number:
+274406.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-02T19:49:20.61
+helpfulCount:
+1
+userID:
+1233644
+Display Name:
+Lee
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+968
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time I have ever cooked dried beans n the IP. The bag of dried beans was slightly more than the recipe called for and I used all of them, upped the liquid to keep proper ratio and did without the pasta. This was very tasty and filling.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-09T22:21:09.187
+helpfulCount:
+0
+userID:
+20622813
+Display Name:
+Brenda Squires
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+201
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4068403.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used thick bacon and tripled the amount.I also added zucchini from my garden so use whatever you have . The recipe says to make the pasta 1st but there is no reason to. when served I used parmesan cheese and green onions. Oh and a few pepper flakes during cooking.

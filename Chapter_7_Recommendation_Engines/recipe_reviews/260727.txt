@@ -1,0 +1,37 @@
+Recipe number:
+260727.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-24T18:40:47.317
+helpfulCount:
+0
+userID:
+9182167
+Display Name:
+Susan Maphia Banasiewicz
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1766300.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes....  amazing..   yes will make again!!!’

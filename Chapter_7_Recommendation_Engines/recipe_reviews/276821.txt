@@ -1,0 +1,76 @@
+Recipe number:
+276821.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-05T14:10:03.587
+helpfulCount:
+2
+userID:
+15020669
+Display Name:
+lolly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+89
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this as a meal unto itself. So good, so flavorful. Very rich tasting! I used more chicken livers than stated because thats the package i had, 12oz..  I adjusted the broth amount to accommodate that. This recipe makes a lot of rice, next time I will cut it in half.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-07T00:36:22.3
+helpfulCount:
+1
+userID:
+20234083
+Display Name:
+KillerJones
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7237085.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the liver in this dish - i even went with 10 ounces of the love. 
+
+However, the cumin was rather overpowering. I will cut back on that in future attempts. I would also add more celery - but that is just my preference. 
+
+I used bacon instead of pork chops - worked well. The texture of this dish is complex & refreshing. I liked the leftovers, as the flavors seem to gel a little better on night 2.

@@ -1,0 +1,73 @@
+Recipe number:
+264160.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-10T18:30:53.223
+helpfulCount:
+0
+userID:
+17574656
+Display Name:
+ElMago
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is awesome! I didn't have orange juice so I used some V8 Orange & Pineapple juice. Didn't have fresh ginger, but I did add some flax seed. Everything else was as is. It was actually quite good that way, and the right amount of sweet with nothing else added!
+Lisa, Thanks for your idea.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-30T00:16:39.183
+helpfulCount:
+0
+userID:
+24016159
+Display Name:
+Geminigem
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been trying several smoothie recipes lately but this one is my favorite so far.  I did, however, add half an avocado for creaminess, but this one is super delicious!

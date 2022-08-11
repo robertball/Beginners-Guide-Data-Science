@@ -1,0 +1,107 @@
+Recipe number:
+246814.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-15T20:35:33.61
+helpfulCount:
+1
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used 1 tsp of seasoning salt for the salt/pepper to taste area. It was good, will probably make again, but not extraordinary. I feel like just a little something would take it up to 5 stars -- just haven't figured out what that little something is. Update: Just made it again, this time adding another slice of prosciutto, 1/2 tsp garlic powder, 1/2 C parmesan, and reduced seasoning salt to 3/4. Now we're talking 5 stars!
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-24T23:13:11.03
+helpfulCount:
+0
+userID:
+2518951
+Display Name:
+Cliff G
+isPro:
+False
+followersCount:
+6586
+followingCount:
+0
+madeRecipesCount:
+233
+favoritesCount:
+762
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4520851.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were good. I didn't get the potatoes as dry as I should have. A little Ranch Dressing tasted good with these. Nice.
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-16T08:53:08.17
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12228
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice!  I used 4 smaller russet potatoes, rinsed in cold water and spun dry in the salad spinner.  The amount of egg / flour was just right.  Make sure to dry your potatoes well for a crispy finish.  I used a cast iron skillet which really helps to form a nice golden brown fritter.  Thanks!

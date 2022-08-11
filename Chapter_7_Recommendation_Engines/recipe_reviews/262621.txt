@@ -1,0 +1,37 @@
+Recipe number:
+262621.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-25T11:08:32.527
+helpfulCount:
+0
+userID:
+26182495
+Display Name:
+Nonya B Ness
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+426
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7079242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are really good! I put the temperature at 180C (Fan oven 160C) 356F for 15mins. The first batch went in at the stated temperature but looked too pale to be cooked so I upped it to 160C (fan oven) for another 10mins. The first batch naturally turned out different to the second. The first taste really gingery but are not as crunchy as the second batch, yet the second batch taste less gingery. Both are delicious yet I think next time I'll add a little more ginger. Thanks for the recipe. ????

@@ -1,0 +1,37 @@
+Recipe number:
+74319.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-09-28T15:04:09.403
+helpfulCount:
+2
+userID:
+1537171
+Display Name:
+Red Death
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+234
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+How do you measure a half tablespoon?  It's 3 half teaspoons if you want to get technical.  Recipe should only use 1 Tablespoon of flour.  I had to add more butter and milk.  I also added some granulated chicken boullion, pepper and garlic.

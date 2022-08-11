@@ -1,0 +1,37 @@
+Recipe number:
+278093.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-15T23:47:56.473
+helpfulCount:
+0
+userID:
+5270632
+Display Name:
+sellis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+239
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it with blueberries and almonds. The cake is rich and delicious. Will definitely try it again with cranberries next time.

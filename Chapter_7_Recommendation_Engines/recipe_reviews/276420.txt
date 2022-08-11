@@ -1,0 +1,113 @@
+Recipe number:
+276420.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-19T12:52:04.72
+helpfulCount:
+1
+userID:
+9246227
+Display Name:
+manella
+isPro:
+False
+followersCount:
+168
+followingCount:
+0
+madeRecipesCount:
+343
+favoritesCount:
+1301
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6603558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very good Gnocchi dish, we really liked it.
+I used mild Italian Sausage and San Marzano tomatoes.
+The San Marzano tomatoes don’t have water in them so I was a bit short on liquid. I added some water to the can to scrape out the can and it worked great.
+The flavours are wonderful, all in all delicious.
+Thank you for another great recipe and another  way to make 
+Gnocchi.
+Oct.19/2019
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T21:25:42.19
+helpfulCount:
+0
+userID:
+26367560
+Display Name:
+BuffyG
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy to make and very easy clean up. Even better, it was an absolute hit with my husband. I think he had three servings. We both had it for lunch today - as with many dishes like this, it was even better the next day. Highly recommend!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-28T22:02:08.133
+helpfulCount:
+0
+userID:
+26266608
+Display Name:
+Bill
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will make this again.

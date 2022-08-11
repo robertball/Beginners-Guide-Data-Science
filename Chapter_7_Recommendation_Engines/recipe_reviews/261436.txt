@@ -1,0 +1,72 @@
+Recipe number:
+261436.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-16T21:11:01.17
+helpfulCount:
+0
+userID:
+24557556
+Display Name:
+laciebanks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+that look good can u make me one
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-09T19:09:05.557
+helpfulCount:
+0
+userID:
+2493475
+Display Name:
+Jamie Justice Yost
+isPro:
+False
+followersCount:
+180
+followingCount:
+0
+madeRecipesCount:
+226
+favoritesCount:
+706
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7673747.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Almond milk Baileys for the win! This is a lighter alternative to the standard Baileys and you don’t even notice the difference. I admittedly didn’t have cinnamon syrup so I *might* have added some amaretto and this cold December afternoon just got way cozier. Love that this version of Baileys is vegan, too. Will definitely make again, and see this appearing Christmas morning.

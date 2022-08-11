@@ -1,0 +1,109 @@
+Recipe number:
+118363.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-07-21T21:31:01.47
+helpfulCount:
+10
+userID:
+1165828
+Display Name:
+Michlerish
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great!  The flavours went together perfectly.  To cut back on time, I cooked the tenderloin steaks on my GeorgeForeman grill for about 3 minutes, then under the broiler for 5 minutes.  The crumb-paste topping was a little crispy and golden on top, but still creamy on the inside.  My steaks were so juicy and perfectly medium-rare.  This is a great way of having the horseradish flavour without all the heat.  It was excellent, delicious, fast and easy.  I will definitely be making this again!
+Review:
+Rating:
+5
+dateLastModified:
+2008-01-04T08:23:02.33
+helpfulCount:
+8
+userID:
+1865565
+Display Name:
+Lori L Dixon
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+1225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1208771.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so good.  I have alot of Moose meat, so I used a Moose Tenderloin.  I added garlic to the steak along with the pepper.  I also didn't have regular horseradish so I used the Kraft Creamy Horseradish Sauce instead of Mayo and Horseradish.  I was delishious.  I think maybe next time I will use Ritz Crackers instead of Saltine Crackers.  Other than that this is a top notch recipe....Thanks
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-23T06:21:44.423
+helpfulCount:
+6
+userID:
+1312498
+Display Name:
+NainInCandia
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+158
+favoritesCount:
+197
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/446865.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavors blended well together. I did add about a tsp of dijon mustard to the mayo mixture. 
+The beef was done to perfection and crackers added a nice crunch.
+I would season the beef with more pepper next time prior to the first broil.

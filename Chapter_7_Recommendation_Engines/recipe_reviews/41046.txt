@@ -1,0 +1,38 @@
+Recipe number:
+41046.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-01-19T12:58:27.67
+helpfulCount:
+9
+userID:
+463972
+Display Name:
+Joaniestwin
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+107
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/46.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an Excellent chocolate candy.  I used mixed nuts and they are wonderful!  It was very easy and quick and a definite go for next Christmas.  The other ingredient I would like to try with this recipe is to use milk chocolate instead of semi-sweet chips (which were very good by the way) and to somehow incorporate peanut butter into the recipe (because I'm a PB fanatic).  Anyhow,  Thank you!  These were really delicious!!
+Jean

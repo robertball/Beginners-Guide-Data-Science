@@ -1,0 +1,37 @@
+Recipe number:
+257755.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-08T00:12:15.827
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2460
+favoritesCount:
+2263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out pretty good. I went to several Asian markets trying to find mizuna and while they were all familiar with it none of them carry it. They said that it didn't have a long shelf life and there wasn't any demand for it in this area. Two of the places suggested I substitute with a spring mix that had arugula in it and that is what I did. Hindsight I wish I would have used baby spinach leaves. I think they would do really good in this. I don't like the sausages on their own but they worked fine in this. The one suggestion I have is to use 2 slices of cheese per sandwich. One just wasn't enough.

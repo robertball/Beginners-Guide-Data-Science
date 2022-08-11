@@ -1,0 +1,32 @@
+Recipe number:
+193731.txt
+Review:
+Rating:
+5
+dateLastModified:
+05/19/2009
+helpfulCount:
+1
+userID:
+213161
+Display Name:
+Vargo5
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very good and easy - - i followed the recipe exactly - we did not have ANY left overs.
+Review:
+Rating:
+2
+dateLastModified:
+06/10/2009
+helpfulCount:
+0
+userID:
+3236223
+Display Name:
+KLT
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/151895.jpg
+text:
+Not outstanding. I could only taste the rosemary.  We wont be using this one again.

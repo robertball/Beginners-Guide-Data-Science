@@ -1,0 +1,37 @@
+Recipe number:
+13192.txt
+Review:
+Rating:
+3
+dateLastModified:
+2000-09-18T12:32:03.373
+helpfulCount:
+20
+userID:
+156560
+Display Name:
+Kuldunia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fairly nice, but ultimately basic soup.  I found that the lamb bones needed to cook much longer (as I had suspected).  The soup seemed much improved the following day, when I added some barley, a little balsamic vinegar, and a drop or three of tobasco.

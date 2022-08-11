@@ -1,0 +1,37 @@
+Recipe number:
+268812.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-08-18T18:01:27.1
+helpfulCount:
+0
+userID:
+16232484
+Display Name:
+Rhonda Potter
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6040607.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Solid flavor but really spicy.

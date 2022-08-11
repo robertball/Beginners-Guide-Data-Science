@@ -1,0 +1,72 @@
+Recipe number:
+238215.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-23T21:11:33.053
+helpfulCount:
+1
+userID:
+6389458
+Display Name:
+Lu
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was very good - the family loved it!
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-14T12:50:36.74
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12228
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were nice enchiladas, the sour cream topping was a bit of overkill.  I used white Oaxaca cheese for the filling and Mexican blend for the topping.   I reduced the recipe and still filled 6 corn tortillas, which made a 9 x 9 pan.   Thanks, the family really liked these.

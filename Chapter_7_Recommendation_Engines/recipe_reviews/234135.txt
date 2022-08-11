@@ -1,0 +1,142 @@
+Recipe number:
+234135.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-03-26T09:54:19.98
+helpfulCount:
+4
+userID:
+10698295
+Display Name:
+Christine Starnes
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4422289.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I originally made the cupcakes for Halloween. They were excellent and quite moist. Now whenever  I bring a dessert say  to a potluck I use  the same recipe but bake it in  a Bundt pan  and bake  for 50'min  to 1  hour. Makes a wonderful spice cake.
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-04T19:39:21.737
+helpfulCount:
+3
+userID:
+10340615
+Display Name:
+Jamie Rice
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4693963.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a big hit for my family, but I also made it into a bundt cake. I used all organic ingredients and it was fantastic! Super moist and not boring. Instead of the icing, I used a simple vanilla glaze drizzled on top and served it for breakfast!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-02T18:42:16.503
+helpfulCount:
+1
+userID:
+7755394
+Display Name:
+Jenna Strong
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2259406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my favorite spice cake recipe by far. My vegan friends especially love it. Even without the candy decorations or the cream cheese frosting it's great on its own with a (vegan) buttercream frosting or maple flavor added. If you're not entertaining vegans, bacon, of course makes a tasty addition. I've done that , too.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-23T15:41:07.593
+helpfulCount:
+0
+userID:
+26027933
+Display Name:
+linda davis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6959676.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut the cake recipe in half made 1 doz.

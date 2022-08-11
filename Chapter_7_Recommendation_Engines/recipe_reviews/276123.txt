@@ -1,0 +1,37 @@
+Recipe number:
+276123.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-06T21:01:29.957
+helpfulCount:
+2
+userID:
+24697060
+Display Name:
+Liv
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+296
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my third try at reviewing this recipe, so I'll keep it short: I didn't make the cheese dip, absolutely love the pretzels and will definitely make them again. They are as gorgeous as they are delicious. They rose beautifully, taste fabulous and made my husband swoon. Thanks, smartcookie!

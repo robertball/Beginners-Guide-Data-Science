@@ -1,0 +1,37 @@
+Recipe number:
+261419.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-17T00:17:34.873
+helpfulCount:
+1
+userID:
+11449261
+Display Name:
+Lois Keel
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6117425.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used yellow, red, and orange Bell pepper it's what I had on hand. Added one can of black beans, one can of diced tomatoes with green peppers, celery, onion cumin, red pepper flakes one cup of cooked brown rice. I am cooking for just two so most recipes I cut the servings.

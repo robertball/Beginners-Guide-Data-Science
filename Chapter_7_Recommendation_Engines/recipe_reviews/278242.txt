@@ -1,0 +1,32 @@
+Recipe number:
+278242.txt
+Review:
+Rating:
+5
+dateLastModified:
+05/25/2020
+helpfulCount:
+1
+userID:
+theowl
+Display Name:
+theowl
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7625747.jpg
+text:
+They are good and easy!
+Review:
+Rating:
+4
+dateLastModified:
+03/10/2020
+helpfulCount:
+0
+userID:
+26732254
+Display Name:
+Joe Walton
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7497049.jpg
+text:
+These were really good, but were missing something. The nibs are crunchy and full of good stuff, but bitter eaten alone. Maybe add some chocolate chips.

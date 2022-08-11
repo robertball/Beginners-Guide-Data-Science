@@ -1,0 +1,72 @@
+Recipe number:
+266719.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-18T23:31:15.7
+helpfulCount:
+1
+userID:
+12392878
+Display Name:
+Judi Morris Knipmeyer
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+178
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1735867.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really quick and VERY hearty and tasty! My husband loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-12T13:58:22.3
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! I thought for sure I would end up saying it needed some herbs but it  was perfect as written. I did make two small changes based off of what I had on hand. I used russet potatoes instead of yukon and frozen peas instead of frozen corn. Peas work great too so when I make this again I'll use 1 cup of peas and 1 cup of corn for an even more colorful bowl. Thanks for the super simple flavorful soup!

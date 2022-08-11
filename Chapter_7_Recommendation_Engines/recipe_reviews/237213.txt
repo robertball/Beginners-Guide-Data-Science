@@ -1,0 +1,37 @@
+Recipe number:
+237213.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-17T03:58:10.377
+helpfulCount:
+4
+userID:
+9947466
+Display Name:
+David Swingle
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1502410.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it, easy to make and tasted good. Next time I think I will add more of the celery, carrot, chickpeas and raisin part of the recipe.

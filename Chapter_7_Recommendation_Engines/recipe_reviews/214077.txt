@@ -1,0 +1,107 @@
+Recipe number:
+214077.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-06-19T08:35:04.207
+helpfulCount:
+16
+userID:
+4049166
+Display Name:
+Tony L
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+198
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/415888.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't have rum and used Chuck Roast instead of Sirloin. Didn't matter to my discerning household, thumbs up all around and a drop of the recipe into the "Will Make Again" folder of the recipe box. Great recipe!!
+Review:
+Rating:
+3
+dateLastModified:
+2010-05-07T13:12:18.08
+helpfulCount:
+14
+userID:
+2677843
+Display Name:
+Crystal Halm
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+193
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2834436.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The marinade for the meat is not very tasty. The yogurt thickens into clumps while cooking on the grill, not a very pleasing texture.   Gave this 3 stars because the grilled fruit is very good! In fact we ended up eating the grilled fruit with the rice and threw the kabobs away.
+Review:
+Rating:
+4
+dateLastModified:
+2010-05-08T14:19:48.173
+helpfulCount:
+13
+userID:
+4816517
+Display Name:
+Happybaker
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2352.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I love the grilled fruit in this recipe. I used rum extract as I didn't have any rum, and you wouldn't know the difference. The marinade imparted a subtle citrus flavor to the meat. You must be a fan of citrus to like that. It was a good counterpart for the fruit. I served this with the asian coconut rice recipe from this site. Nice all round change from the ordinary.

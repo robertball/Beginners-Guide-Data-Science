@@ -1,0 +1,37 @@
+Recipe number:
+235863.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-10-21T11:03:23.913
+helpfulCount:
+12
+userID:
+13042858
+Display Name:
+mixerep
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4019164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok let try again. You need to chill the the shell after you add the nuts and  Carmel to let it set

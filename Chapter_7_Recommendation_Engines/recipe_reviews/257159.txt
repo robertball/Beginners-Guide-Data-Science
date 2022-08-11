@@ -1,0 +1,72 @@
+Recipe number:
+257159.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-07T21:32:27.56
+helpfulCount:
+0
+userID:
+4001480
+Display Name:
+Lori Ransom
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+286
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1157399.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great marinade!!!  I used thin chicken breast cuts, and followed the directions to dehydrate for 5 hrs.  They were tasty. Thank you for sharing!
+Review:
+Rating:
+2
+dateLastModified:
+2018-07-02T16:28:52.973
+helpfulCount:
+0
+userID:
+23896191
+Display Name:
+WICONNIE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a real waste of 1 1/2 lbs of ground turkey. It was very bland and did not taste like a jerky anyone would eat.

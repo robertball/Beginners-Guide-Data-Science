@@ -1,0 +1,107 @@
+Recipe number:
+245106.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-15T11:51:31.84
+helpfulCount:
+0
+userID:
+6372757
+Display Name:
+Debbie CAL
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+789
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Pancetta. It always seems silly to me to cook prosciutto. It’s delicate taste (and high price) are the result of long air-dried curing and meant to be eaten raw. To me, cooking prosciutto reminds me of  chipped beef.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-26T03:03:59.667
+helpfulCount:
+0
+userID:
+14858372
+Display Name:
+Mary Dunn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1786722.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderfully rich taste and the prosciutto was inspiring....a little like bacon but stronger and at the same time more delicate.. I used half of the carrots and celery for the stronger squash and onion taste.
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-22T03:37:57.517
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum! This is pretty simple and quick to make. True fall flavor! Thank you for the recipe.

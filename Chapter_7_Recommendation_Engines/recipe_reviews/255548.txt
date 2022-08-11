@@ -1,0 +1,143 @@
+Recipe number:
+255548.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-29T18:08:27.76
+helpfulCount:
+1
+userID:
+9126871
+Display Name:
+Sue Littnan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This spaghetti squash casserole if good, but I took it up  a notch the second time I made it by using mild Italian sausage instead of ground beef.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-03T17:45:26.643
+helpfulCount:
+0
+userID:
+20011456
+Display Name:
+Annie Rose
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3760950.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This Spaghetti Squash casserole was a quick meal to put together.  I was able to do it in one deep frying pan, straight from stove-top to oven.  A flavourful, colourful meal that not only was enjoyed by me, but also my husband. 
+I replaced 1/2 cup of Mozzarella with 1/2 cup of Texas seasoned grated cheese.  This added a mild zest to the casserole.  It's versatility will be a welcome addition to our table.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-10T00:52:37.21
+helpfulCount:
+0
+userID:
+13001621
+Display Name:
+Linda Lenk Tesch
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5819003.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was great but with cooking the spaghetti squash first it does take time as the receipe states, would still do it again
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-08T03:09:20.29
+helpfulCount:
+0
+userID:
+24169474
+Display Name:
+lauren88
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No mushrooms or onions next time I make it

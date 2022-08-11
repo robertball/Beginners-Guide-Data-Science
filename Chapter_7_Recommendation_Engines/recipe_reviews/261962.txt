@@ -1,0 +1,37 @@
+Recipe number:
+261962.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-24T13:23:46.987
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite delicious and definitely kid-friendly. I used 1/2 Sriracha sauce and 1/2 tomato sauce for the adults. I added some zucchini, too. Next time, I won’t cook the meat first. Thank you for the recipe.

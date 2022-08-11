@@ -1,0 +1,72 @@
+Recipe number:
+74346.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-08T23:15:05.283
+helpfulCount:
+0
+userID:
+7845857
+Display Name:
+Kristi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/716866.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I changed up the spices using celery seed, mustard seed, garlic cloves and a good amount of smoked paprika.  The smoked paprika really gives it a new flavor and I think this would be something to eat with a margarita , bbq or pork/ham.  I like it!  I could never have done it without this base recipe so thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-08T19:02:46.357
+helpfulCount:
+0
+userID:
+14233575
+Display Name:
+martha s.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you so much for sharing this recipe.  This brings back so many memories from my childhood.  Will definitely be making this.

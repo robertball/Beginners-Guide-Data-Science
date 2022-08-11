@@ -1,0 +1,72 @@
+Recipe number:
+142575.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-07-28T11:50:03.713
+helpfulCount:
+2
+userID:
+2400250
+Display Name:
+Emilia Finn
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+222
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was really good!!!  We tried it as the meat for some tacos, and the only complaint I got was that it was kind of salty.  Other than that, it was not bad at all!!!
+Review:
+Rating:
+4
+dateLastModified:
+2010-04-21T15:52:29.923
+helpfulCount:
+1
+userID:
+179946
+Display Name:
+BRACKY189
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+179
+favoritesCount:
+418
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My kid & I liked this. Followed recipe to the T, with mild, jar-salsa poured over the top and it was not only pretty good, but VERY easy & quick to prepare. Not to mention, easy on the pocket (used thin cut pork chops). I whipped this up in no time & paired it with a side of corn. Will be making this again. Thanks for sharing!

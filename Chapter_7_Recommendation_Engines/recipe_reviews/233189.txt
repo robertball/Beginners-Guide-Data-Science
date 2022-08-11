@@ -1,0 +1,37 @@
+Recipe number:
+233189.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-03T17:43:04.547
+helpfulCount:
+2
+userID:
+5181049
+Display Name:
+Nellie Bray Lingwall
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+289
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1349907.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did change it up a bit though. My kids won't eat the peppers, so I chop them up small and sauté with the onions. I then put it all in a baking dish and cook like a casserole. I also could not find the herdez cooking sauce so I substituted with a salsa verde that had similar ingredients.

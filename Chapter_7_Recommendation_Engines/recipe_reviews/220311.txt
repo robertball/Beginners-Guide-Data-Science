@@ -1,0 +1,72 @@
+Recipe number:
+220311.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-01-22T14:41:06.667
+helpfulCount:
+0
+userID:
+11306254
+Display Name:
+Cindy Rickert
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+146
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5989841.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was way too vinegary and way too sweet almost losing any flavor the bacon may give this.  I would not make it again.
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-20T05:36:31.993
+helpfulCount:
+0
+userID:
+5707343
+Display Name:
+Courtney Servantes
+isPro:
+False
+followersCount:
+127
+followingCount:
+0
+madeRecipesCount:
+108
+favoritesCount:
+543
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368143.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was leary of the relish, but I followed the recipe accordingly. I'm not sure I understand the reason for baking this dish. After baking it as directed, it never browned. When we ate it, it reminded me of a bean salad but it was too tart for us. It had a very good taste, just too much vinegar. If I make this again, I will cut back on the amount of vinegar and sugar too. Instead of baking it, I will refrigerate it and let it sit for a few hours until chilled before I serve it, or wait until the next day. :)

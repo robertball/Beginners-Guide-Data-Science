@@ -1,0 +1,107 @@
+Recipe number:
+23743.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-12-06T18:37:48.92
+helpfulCount:
+8
+userID:
+436953
+Display Name:
+ENDOLVR
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is great! I added some chocolate chips and made chocolate - marshmallow - honey bunches of oats squares in less than a half & hour.
+Review:
+Rating:
+1
+dateLastModified:
+2003-03-22T12:31:41.67
+helpfulCount:
+5
+userID:
+341898
+Display Name:
+BRANDY JANE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Did not like the taste and texture of this square. Will not make it again.
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-19T16:40:26.377
+helpfulCount:
+1
+userID:
+17669568
+Display Name:
+Jae Peguero
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3352295.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was able to make it using all the ingredients listed (except I replaced the apple cinnamon rice crispy with Kixs) but it's not quite that easy to melt the marshmallows ... after microwaving the butter I found it easier to put the glass pan with the marshmallows and butter it in my conventional oven at 350 and sir it in there. It melted much better and quicker and once it was melted I dropped in the cereal and kept stirring it in there. Flattened it out with a spatula and took it out of the oven to set. The whole thing isn't as hard as I thought it would be after letting it sit out but a good enough snack for kids :)

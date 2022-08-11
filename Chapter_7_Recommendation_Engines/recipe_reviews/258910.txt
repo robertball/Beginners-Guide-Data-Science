@@ -1,0 +1,72 @@
+Recipe number:
+258910.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-07-08T22:31:37.313
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was so excited to try this Horchata smoothie but alas it did not meet my expectations. Against my better judgement, I included the mint leaves, making this smoothie taste more of mint than anything else.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-30T21:04:46.25
+helpfulCount:
+0
+userID:
+23772262
+Display Name:
+Deveraux Freeze-Holleman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5434649.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+was the best drink and was easy to make

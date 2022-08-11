@@ -1,0 +1,72 @@
+Recipe number:
+231239.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-09T04:55:50.02
+helpfulCount:
+2
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1661
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Fresca soda in this recipe. Delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-24T11:46:53.24
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used blueberry as that is what I had.  Delish!

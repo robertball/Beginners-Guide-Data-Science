@@ -1,0 +1,108 @@
+Recipe number:
+238311.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-03-07T19:33:49.39
+helpfulCount:
+6
+userID:
+2482163
+Display Name:
+Stephanie Dunston
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1527474.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good. 
+I would recommend that one "marinates" the yuba in some dressing while prepping the other ingredients as it has nearly zero flavor on it's own. I also added a tbl. of teriyaki sauce and more chili sauce to mine.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-11T17:39:39.467
+helpfulCount:
+0
+userID:
+26464595
+Display Name:
+KevinJ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The giant asian grocery store I went to seemed to have 'bean curd sheets', which I think are the same? They were a bit dry and on the chewy side, so maybe not quite the same. Anyway, they were good and nice to eat noodles without the carbs.
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-09T20:09:01.073
+helpfulCount:
+0
+userID:
+24649619
+Display Name:
+Judy Shomper
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love the dressing! Having a hard time finding the tofu skin in our area.  Even the Asian market didn't have it.  We got a soy noodle instead.  A little thick and ridged texture was not great.  I think the skin noodles would be so good. Red cabbage might be pretty, too.

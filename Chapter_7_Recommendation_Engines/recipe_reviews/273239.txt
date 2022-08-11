@@ -1,0 +1,37 @@
+Recipe number:
+273239.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-11T14:29:15.003
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Who doesn't love nachos? This is simple to throw together and will be devoured in minutes. I've been making these since I was a kid (minus the chicken) and the chicken added a nice touch. This recipe can easily be adapted to individual servings that can even be done in the microwave if you choose. The chips will stay crisp but they will not get that nice brown color that they get in the oven. Either way, this recipe is simple and good.

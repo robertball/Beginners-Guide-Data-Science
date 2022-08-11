@@ -1,0 +1,109 @@
+Recipe number:
+246355.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-04-20T22:46:23.8
+helpfulCount:
+1
+userID:
+17932014
+Display Name:
+Brittany
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I served these on raw bell peppers, since our family are spicy wimps.  My husband and I enjoyed them, and felt that the juicy nature of the raw peppers was a nice counterpart to the kind of soggy, mushy feel of the cheesy brat filling.  Our kids were just so-so on it - they are anti-peppers, so we served theirs on crackers.  For my husband and I, I also sauteed some greens in a skillet with a clove of minced garlic, and mixed that into the cheesy brat mix.  That added a more virtuous feel to the meal.
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-24T10:20:09.487
+helpfulCount:
+0
+userID:
+3376585
+Display Name:
+Barbara
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+740
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good!  A nice change from the cream cheese/bacon wrapped jalapenos, too.  I used Johnsonville breakfast sausage, spicy kind, because I had it.  Delicious.  I'm  bringing it to a party this week. Thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-22T16:58:51.797
+helpfulCount:
+0
+userID:
+16198932
+Display Name:
+Jeni Carson
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+59
+favoritesCount:
+314
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2507453.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these for a family/friends bbq and everyone absolutely loved them.  Although, I used spicy sausage and added bacon bits.  Wearing laytex gloves while working with jalapenos was a great tip.  Other people in my family who are spicy challenged want me to make them with sweet peppers and sweet sausage.  This was a great appetizer for a bbq
+Using laytex gloves was a good tip.  I also suggest refrigerating the sausage mixture to firm it up.  The firmer mixture makes it easier to stuff the peppers.
+Every family function, these are expected to be made.  Last time I made them; instead of adding bacon bits- I wrapped the stuffed peppers with a slice of bacon.  Hold it together with a toothpick.  This added 20 more minutes to the bake time.  If you want the bacon crispy, put your toaster oven on toast, or a George Foreman grill is great.

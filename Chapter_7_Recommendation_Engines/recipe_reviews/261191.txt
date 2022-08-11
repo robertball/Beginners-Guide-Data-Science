@@ -1,0 +1,72 @@
+Recipe number:
+261191.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-31T00:24:44.39
+helpfulCount:
+1
+userID:
+4777165
+Display Name:
+Susan T-O
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+71
+favoritesCount:
+195
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/419720.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All the chicken enchilada taste without the fuss!  Necessity required one change--I didn't have chicken broth so used bouillon instead.  My husband wasn't hungry due to a late lunch and said he'd have "a taste."  He's now eating his second serving.  The recipe didn't say if the olives & chilies should be drained; I drained the former but not the latter.  I thought 12 tortillas might be too many and only used 8; won't make that mistake again :-)  My only criticism is it wasn't as spicy as I like, so next time I'll add more chipotle.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-09T15:21:44.417
+helpfulCount:
+0
+userID:
+25048528
+Display Name:
+Aimee Ellis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6333674.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+YUMMO!!!!

@@ -1,0 +1,72 @@
+Recipe number:
+18067.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-03-10T23:52:09.87
+helpfulCount:
+11
+userID:
+3612831
+Display Name:
+leather97
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made these many times, but I substitute the milk with buttermilk and add about 1/8 teaspoon cinnamon to the mix. It comes out so good, my family begs me to make them.
+Review:
+Rating:
+5
+dateLastModified:
+2007-06-06T16:17:07.427
+helpfulCount:
+5
+userID:
+2392936
+Display Name:
+Gabe W
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/122584.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+these were great

@@ -1,0 +1,72 @@
+Recipe number:
+270420.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-24T17:09:22.163
+helpfulCount:
+0
+userID:
+21952965
+Display Name:
+Alicia Seaquist
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I afqddqdddddffnnnf
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-15T12:54:22.607
+helpfulCount:
+0
+userID:
+15429605
+Display Name:
+Beth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe just as printed.  Used the overnight suggestion and had nice warm English muffins for breakfast!

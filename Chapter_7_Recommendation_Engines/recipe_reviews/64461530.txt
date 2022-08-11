@@ -1,0 +1,37 @@
+Recipe number:
+64461530.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-24T02:54:34.683
+helpfulCount:
+0
+userID:
+6412992
+Display Name:
+HurdBird
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+765
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/595315.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was okay. I probably wouldn't make them again, though.

@@ -1,0 +1,72 @@
+Recipe number:
+213290.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-06-05T18:07:11.497
+helpfulCount:
+9
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is one of those recipes that's only as good as your ingredients. It's a good recipe with a little help. I did want to stretch this a bit (my boys can EAT) so I added one can of organic refried beans and one cup of homemade salsa (instead of using Pace) and one 8 oz. can of tomato sauce. I gave it a little taste and thought it needed a little spice so I added one batch of Bill Echols taco seasoning, which is also from this site. I think if you're broke and you only have pantry items to work with, this is your recipe. It's for certain a boy pleaser. My husband and I remarked that how I made it with my additions, this would make a great taco dip.
+Review:
+Rating:
+2
+dateLastModified:
+2011-07-14T05:46:33.87
+helpfulCount:
+3
+userID:
+2083526
+Display Name:
+Chris D. Williams
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2674179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not so good; the soup is a poor addition

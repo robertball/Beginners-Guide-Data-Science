@@ -1,0 +1,37 @@
+Recipe number:
+69809.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-10-15T12:03:31.313
+helpfulCount:
+2
+userID:
+4142360
+Display Name:
+DunsyHalifax
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+141
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+super tasty and delicious, perfect 4 a cold day!!!!!

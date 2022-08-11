@@ -1,0 +1,72 @@
+Recipe number:
+238452.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-23T02:09:11.52
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very refreshing. This is a very nice combination of flavours.
+Review:
+Rating:
+5
+dateLastModified:
+2015-09-04T13:44:19.23
+helpfulCount:
+0
+userID:
+5734955
+Display Name:
+OmaJen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good

@@ -1,0 +1,111 @@
+Recipe number:
+168065.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-09-23T21:51:01.84
+helpfulCount:
+8
+userID:
+2173659
+Display Name:
+user
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok... would have been 5 stars but I changed it substantially.  I have made this twice now for football sundays this way and I am truely suprised at what a hit it is.  first of all I double the sauce leave all ingredients the same, couple shakes of tobassco is good, I sometimes add water if the sauce seems too thick while the meatballs simmer.
+
+For the meatballs I use a cup of bread crumbs, not rice crispies. I double the meat (2 lbs) and 2 eggs. everything else is the same.
+
+Thats it, sound wierd, but tastes great!
+Review:
+Rating:
+5
+dateLastModified:
+2008-08-11T05:06:54.693
+helpfulCount:
+4
+userID:
+3075975
+Display Name:
+Millie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These meatballs were fantastic! I made these with brown rice and it was delicious for an everyday dinner. My husband and two year old had more than one serving! The only difference I made was not using the dry milk but because I had none but it came out fine without it.
+Review:
+Rating:
+4
+dateLastModified:
+2008-10-07T06:36:02.71
+helpfulCount:
+3
+userID:
+1865315
+Display Name:
+Cathy G.
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+456
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/79383.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very gooey to put together but otherwise tasty. Moist and the sauce was nice.

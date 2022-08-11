@@ -1,0 +1,38 @@
+Recipe number:
+259583.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-02-10T22:18:00.93
+helpfulCount:
+1
+userID:
+7040314
+Display Name:
+rjnla
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As made, it did not work.  It took 40 minutes to bake and was not cooked in the middle,  by any means.
+That said, once I divided the recipe in 1/2 and baked it 30 minutes, it worked.

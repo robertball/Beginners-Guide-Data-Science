@@ -1,0 +1,72 @@
+Recipe number:
+91936.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-08-05T17:36:52.533
+helpfulCount:
+2
+userID:
+1732004
+Display Name:
+charm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great recipe!! i changed it a bit by substituting lamb stew meat for the anchovies. i floured and panfried the meat before adding it to the pie shell. i also sauteed the onions and mushrooms first to soften them. my fiancee loves it!
+Review:
+Rating:
+3
+dateLastModified:
+2007-11-14T10:05:43.57
+helpfulCount:
+2
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+243
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a ready-made pie shell as I'm too lazy to make my own. This turned out better than I expected but still not mind-blowing. I really liked the anchovy/goat cheese combination, but if I were to make it again, I would definitely omit the olives.

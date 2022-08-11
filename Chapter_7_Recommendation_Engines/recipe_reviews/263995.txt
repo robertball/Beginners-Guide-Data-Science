@@ -1,0 +1,75 @@
+Recipe number:
+263995.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-25T21:13:55.927
+helpfulCount:
+0
+userID:
+22297550
+Display Name:
+Christine Siebels
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and Tasty!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-06T01:44:03.9
+helpfulCount:
+0
+userID:
+22780658
+Display Name:
+Danettem
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+203
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5010785.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Dinner guests loved it—-asked for recipe!  
+
+Made this on a worknight for a dinner party. I thought it would an easy one to make on a busy night. So the night before, I made up the dough up to the first rising and popped it into the fridge overnight. The next day, I took it out after returning home from work, and took it through the next steps, letting it rise a little longer since the dough was cold. 
+Made it into 6 rolls instead of 5. They turned out just as expected—-great texture inside and out and a great flavor. Will definitely make them again!

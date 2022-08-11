@@ -1,0 +1,73 @@
+Recipe number:
+241596.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-14T17:05:26.09
+helpfulCount:
+1
+userID:
+5405757
+Display Name:
+Patti Kasal
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+62
+favoritesCount:
+580
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3720566.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent.  May 2017/   I used liquid ginger, fresh garlic, fresh lemon zest, and white sugar and cinnamon.  I was only making a small dinner for two, so I had one large breast and put all ingredients in a small crock after pouring the butter mixture over the veggies.  I then sliced some lemon for on top of the ingredients.  Fabulous!
+ November 13, 2017: I made this again and used two chicken breasts, fresh ginger, garlic, zest and made my own butter mixture with brown sugar, cinnamon etc.  AGAIN, FABULOUS RECIPE!
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-22T15:33:48.75
+helpfulCount:
+0
+userID:
+16589139
+Display Name:
+Chris Glab
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2683471.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My wife said "it's your turn to make dinner" . This recipe was  simple to make and the family  liked it!!   Adding this recipe to my arsenal list. I just used plain butter and ground ginger as did not have fresh. Cheers.

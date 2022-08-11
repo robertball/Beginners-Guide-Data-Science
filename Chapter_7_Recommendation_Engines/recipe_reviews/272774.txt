@@ -1,0 +1,37 @@
+Recipe number:
+272774.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-21T00:56:02.867
+helpfulCount:
+0
+userID:
+18067011
+Display Name:
+Colin Vant
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I sure more masala then the recipe but my guests and I enjoyed it very much.

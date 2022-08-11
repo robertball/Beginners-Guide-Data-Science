@@ -1,0 +1,37 @@
+Recipe number:
+269939.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-19T18:51:44.047
+helpfulCount:
+0
+userID:
+16455068
+Display Name:
+Beth
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+212
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Outstanding pork! The beans are very sour and go well with the pork however next time, I'll cut back on the vinegar just a bit. The pork is so melt in your mouth. Yum...

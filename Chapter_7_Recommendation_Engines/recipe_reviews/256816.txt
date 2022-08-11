@@ -1,0 +1,37 @@
+Recipe number:
+256816.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-31T00:28:36.127
+helpfulCount:
+0
+userID:
+13547523
+Display Name:
+B. Tario
+isPro:
+False
+followersCount:
+33
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+253
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4105341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good cold strong black coffee that's easy to make. Very good.

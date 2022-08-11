@@ -1,0 +1,37 @@
+Recipe number:
+245906.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-02-21T20:47:47.29
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5747
+followingCount:
+0
+madeRecipesCount:
+2800
+favoritesCount:
+5994
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+2.21.17   This reminded me so much of stuffing, I kept yearning for additional spices.  It was a very simple side dish to make and took no prep time at all.  I baked in small ramekins, ended up with three, but it baked up just a bit on the dry side.  If I make this again, I’ll probably add some chicken broth in addition to some additional spices.  There’s enough sharpness from the cheese, and although we all have different taste preferences,  I found the overall flavor overall just a little one note (marjoram).   This is a new recipe, and I don’t want to discourage others from trying, but for me, it’ll need a little tweaking.

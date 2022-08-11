@@ -1,0 +1,142 @@
+Recipe number:
+274432.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-23T21:28:09.537
+helpfulCount:
+0
+userID:
+14403903
+Display Name:
+Denise Pope
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1520033.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent!  Very crispy, very easy recipe.  Definitely will make again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-01T19:15:45.59
+helpfulCount:
+0
+userID:
+24266822
+Display Name:
+Colleen Thorsen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5781589.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was very easy to make and it came nice and crispy, it just seem to be missing something. Well for me anyways, but it was still good, and I am sure I will make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-30T15:16:53.23
+helpfulCount:
+0
+userID:
+7929147
+Display Name:
+Virginia Wells
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6073694.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes and I will make it again
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-28T01:21:18.613
+helpfulCount:
+0
+userID:
+24393282
+Display Name:
+Julia Simpson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would consider adding less paprika and adding garlic powder.  Served with soy, ginger, green onion Thai sauce

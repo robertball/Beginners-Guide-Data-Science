@@ -1,0 +1,37 @@
+Recipe number:
+257729.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-16T16:13:19.23
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have no idea how to make or where to buy salted lard so my solution was to use bacon grease instead. While it may not be traditional, it was delicious! The bacon flavor and maple syrup paired perfectly together and gave the beans a nice smokey sweet flavor. The mustard flavor was more dominant than I expected both in flavor and color of the dish. We love mustard but you might want to scale back if you don't love mustard. After checking the beans at 2 hours I decided to skip step 5. They were pretty done and starting to split and we prefer them with some firmness to them. This recipe takes some time so plan ahead.

@@ -1,0 +1,72 @@
+Recipe number:
+244938.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-11T04:15:56.59
+helpfulCount:
+0
+userID:
+11223539
+Display Name:
+Joe W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+469
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it as written. Was very good, just messy.
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-11T21:17:45.413
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9069
+followingCount:
+0
+madeRecipesCount:
+617
+favoritesCount:
+994
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't a fan of the cinnamon caramel taste...it didn't work for me.

@@ -1,0 +1,72 @@
+Recipe number:
+268685.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-22T14:45:42.263
+helpfulCount:
+4
+userID:
+26514190
+Display Name:
+Kimberly Steele
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7325542.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe looks amazing! I am looking forward to trying it since I am dairy free. For the 1-star reviewer, Terry, the title of the recipe doesn't claim to be vegan...it claims to be dairy-free and eggs aren't dairy. Thank you for this delicious recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-26T23:41:09.827
+helpfulCount:
+0
+userID:
+24156235
+Display Name:
+Lynda Stafford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5700849.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes it was delicious and I will be making it again

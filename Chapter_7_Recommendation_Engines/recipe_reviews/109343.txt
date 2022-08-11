@@ -1,0 +1,109 @@
+Recipe number:
+109343.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-07-06T00:53:53.727
+helpfulCount:
+7
+userID:
+1651224
+Display Name:
+SerenaBloom
+isPro:
+False
+followersCount:
+28
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1123501.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not sure why this is showing up with only three stars when I have a five star review, but I made this for the fourth of july and it was a hit again! If you don't want to do sandwiches, you can fill the center of an angel food cake with the icecream and top with the coconut fruit mixture, seriously gorgeous and delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2008-03-21T17:47:50.357
+helpfulCount:
+7
+userID:
+638185
+Display Name:
+The Messy Cook
+isPro:
+False
+followersCount:
+78
+followingCount:
+0
+madeRecipesCount:
+130
+favoritesCount:
+830
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/60624.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummo! This was so easy to make and it felt like a light and delicious dessert. I think the fruits would be better in left to sit in the fridge overnight sprinkled with sugar. Then mix them with the lime and coconut milk in the morning. We can't wait to make this again, especially when the fruits are in season!
+
+Update: I am afraid the love rating causes people to pass up this delicious recipe! I still make it till this day and we made it for a bbq and only half of them made it cause well, they are just that scrumptious!
+Review:
+Rating:
+5
+dateLastModified:
+2010-07-09T09:49:54.78
+helpfulCount:
+3
+userID:
+2576167
+Display Name:
+Karen Lopez Vado
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/467848.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My daughter is making me review this because she says it has a low rating. I am an ice cream lover, its my weakness. This sandwich does nothing to help that weakness, but it is worth it. Very good recipe and I hope you try it.

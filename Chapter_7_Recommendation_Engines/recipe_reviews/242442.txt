@@ -1,0 +1,107 @@
+Recipe number:
+242442.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-11T16:10:14.997
+helpfulCount:
+0
+userID:
+20715062
+Display Name:
+Diane H.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was one of the best & easiest orange cheesecakes that I've ever made ! Since I didn't have any vanilla wafers on hand, I just changed the crust to graham cracker crumbs, with great results.  The cranberry orange sauce has become an all-time favorite &" go-to" basic recipe to have on hand. YUMMY !!
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-16T16:29:06.97
+helpfulCount:
+0
+userID:
+5365667
+Display Name:
+Lisa Moody Bielawski
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1247613.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome. Everyone loved it! Even my cranberry and orange haters LOL
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-24T21:30:33.43
+helpfulCount:
+0
+userID:
+23787
+Display Name:
+ANCHELY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+219
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best cheesecake I ever made! Garnished with frosted cranberries, it was pretty and delicious.

@@ -1,0 +1,37 @@
+Recipe number:
+214941.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-11-05T20:58:58.943
+helpfulCount:
+9
+userID:
+2350755
+Display Name:
+dbray
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+114
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/54.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Simply wonderful and just think of all those antioxidents.  Only 4 stars because as written it has too much uneccessary fat and calories.  I lowered both by roasting the veggies in only 2Tbs of olive oil on a lined and sprayed cookie sheet and then subbed half-n-half for heavy cream.  Flavor was not compromised.  Served warm with pita bread wedges along side a Greek salad as a first course for a mediterranean dinner.  Side note: If you have never roasted veggies before, make sure you do not rush this step.  The roasting is key to bringing out the flavors.  Can be easily adjusted to personal tastes.  Presentation is lovely red cream color.

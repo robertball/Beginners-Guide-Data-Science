@@ -1,0 +1,72 @@
+Recipe number:
+165141.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-12T12:38:31.353
+helpfulCount:
+4
+userID:
+2717927
+Display Name:
+Alberta Rose
+isPro:
+False
+followersCount:
+875
+followingCount:
+0
+madeRecipesCount:
+644
+favoritesCount:
+805
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8194765.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was o.k. Actually it's a good way to use up those 'krispies hanging around the pantry. I would make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2008-07-06T23:38:39.66
+helpfulCount:
+3
+userID:
+3014775
+Display Name:
+lolitta
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/93430.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+thanx it was really nice recipe

@@ -1,0 +1,37 @@
+Recipe number:
+235035.txt
+Review:
+Rating:
+1
+dateLastModified:
+2014-12-13T12:17:47.133
+helpfulCount:
+1
+userID:
+7502076
+Display Name:
+MOM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really disappointed.  Cookies were mushy, toooo sweet and impossible to handle without having them fall apart on the spatula.  I was sure I got my measurements wrong, but no I checked, I used what the recipe stated.  Learn from my mistakes.  Choose another recipe!

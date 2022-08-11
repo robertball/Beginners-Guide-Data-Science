@@ -1,0 +1,37 @@
+Recipe number:
+275247.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-12-26T17:30:08.427
+helpfulCount:
+0
+userID:
+26759850
+Display Name:
+Lori n
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7521125.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very disappointing. I made it according to the recipe but it was basically tasteless. Tasted slightly of  cinnamon with a slight bite. The family was so disappointed they wouldnt eat more than a bite or 2.

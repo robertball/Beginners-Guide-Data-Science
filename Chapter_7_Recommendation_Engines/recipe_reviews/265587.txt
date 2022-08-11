@@ -1,0 +1,37 @@
+Recipe number:
+265587.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-31T16:55:06.607
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is definitely two big servings, not just one. This tasted fine, but I liked it better heated and with a little more almond milk (which I used instead of soy). I'm not sure what pea protein powder is, so I used regular chocolate protein powder. I don't quite understand why the directions say to mix in a separate bowl and then transfer to a mason jar. I smashed the banana in the bottom of the jar and layered all the other ingredients on top. Then I put the lid on and shook the jar up. Worked perfectly.

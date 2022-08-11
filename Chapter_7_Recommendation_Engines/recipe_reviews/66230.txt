@@ -1,0 +1,74 @@
+Recipe number:
+66230.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-12-28T11:39:57.623
+helpfulCount:
+21
+userID:
+468476
+Display Name:
+Sarah Howard
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+171
+favoritesCount:
+565
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1123131.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been eating this for over 40 years and THIS is the true recipe - don't let the others full of vegetables fool you!  Come here for the original Cape Hatteras style clam chowder.
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-01T07:02:13.867
+helpfulCount:
+18
+userID:
+2685198
+Display Name:
+Chris
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/427481.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was pretty  good... reminds ome of miller's in nags head.
+salem mass... HA! the only seafood worth eating up there is lobstah
+besides, who wants to eat anything made by a red sox fan!?

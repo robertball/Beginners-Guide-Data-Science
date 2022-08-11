@@ -1,0 +1,72 @@
+Recipe number:
+133664.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-20T21:25:02.07
+helpfulCount:
+2
+userID:
+9259025
+Display Name:
+ccv39
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+328
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/842407.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and it had a wonderful taste.  Highly recommend with a light salad!
+Review:
+Rating:
+1
+dateLastModified:
+2012-04-10T05:15:37.993
+helpfulCount:
+1
+userID:
+1125798
+Display Name:
+Marco Mangananzo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+495
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1106448.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for this.

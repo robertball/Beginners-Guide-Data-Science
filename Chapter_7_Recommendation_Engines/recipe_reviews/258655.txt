@@ -1,0 +1,37 @@
+Recipe number:
+258655.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-06T22:07:34.123
+helpfulCount:
+0
+userID:
+12702779
+Display Name:
+jenn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ran out of fresh ginger, used dried... still delicious. Wasn’t sure whether dressing was for greens or noodles, so I dressed the greens and left the noodles plain.

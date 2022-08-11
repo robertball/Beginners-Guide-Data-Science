@@ -1,0 +1,37 @@
+Recipe number:
+255558.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-14T01:39:34.207
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6889
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fun and delicious! I used frozen pizza dough, mini pepperoni and shredded mozzarella cheese. I did have to add some extra olive oil, as it was not enough to coat all the balls. My pepperoni loving family really enjoyed this..a keeper~YUM! Thanks for sharing. :)

@@ -1,0 +1,37 @@
+Recipe number:
+18849.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-07-30T11:33:43.857
+helpfulCount:
+6
+userID:
+692128
+Display Name:
+HOLLIE704
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+245
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/213373.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this recipe was wonderful! The turkey had a nice lemonade taste to it, which was very different. I have never had fruit kabobs before, and they were delicious. They were sweet with a nice grilled taste to them. I used mango and cantelope. I will definitely make this recipe again, it's a great summer treat.

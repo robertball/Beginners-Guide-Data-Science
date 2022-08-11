@@ -1,0 +1,37 @@
+Recipe number:
+262302.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-10T15:41:14.053
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I used cilantro instead of mint out of personal preference. This turned out pretty good and came together much quicker than I anticipated. The only change I would make next time is to make the meatballs smaller so that they would be more manageable on the spoon. Good recipe and one I would make again!

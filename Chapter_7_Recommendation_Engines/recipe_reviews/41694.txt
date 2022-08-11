@@ -1,0 +1,144 @@
+Recipe number:
+41694.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-09-08T20:01:24.577
+helpfulCount:
+17
+userID:
+900003
+Display Name:
+Lisa Villont
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3760020.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Its important when using these reviews to determine how you will make this dish to understand that Balsamic Vinegar and Red Wine Vinegar ( which is what the recipe calls for) are two entirely different types of vinegar with very different levels of acidity, and flavor.  I would expect that Balsamic vinegar would not have worked well in this dish at all.
+Review:
+Rating:
+2
+dateLastModified:
+2004-12-03T15:39:55.297
+helpfulCount:
+14
+userID:
+824367
+Display Name:
+Richard Tebaldi
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+206
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2693654.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I always thought Greek lamb was made with lemon juice, not vinegar!
+I Tried the vinegar..(balsemic) and agree with the others.
+Try the juice of a lemon to each pound of lamb...with Greek oregano, as well.
+Review:
+Rating:
+1
+dateLastModified:
+2004-03-28T20:50:02.577
+helpfulCount:
+11
+userID:
+1002275
+Display Name:
+WELLSTONE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too much vinegar,I used only 3/4 a cup and it was still too much!,It wasn't what I was going for and I feel it ruined my good lamb meat!
+Review:
+Rating:
+2
+dateLastModified:
+2004-06-29T13:35:33.92
+helpfulCount:
+7
+userID:
+1083389
+Display Name:
+KazMc
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+144
+favoritesCount:
+365
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way too much vinegar, I used the whole cup and had to dilute it with beef stock.  I would use perhaps half a cup of the vinegar, and some stock or water.

@@ -1,0 +1,37 @@
+Recipe number:
+273990.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-15T16:17:31.147
+helpfulCount:
+0
+userID:
+21191446
+Display Name:
+Tami
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy! Will add more spice next time.

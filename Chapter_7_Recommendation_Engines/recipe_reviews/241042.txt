@@ -1,0 +1,72 @@
+Recipe number:
+241042.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-02-21T09:21:35.443
+helpfulCount:
+0
+userID:
+16512899
+Display Name:
+Emmy Cook
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+129
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This just wasn't for me. I'm trying to find ways to enjoy yogurt but this is not it. I think I just have to accept the fact that I'm not going to like yogurt again, which is a shame because it's quite good for you and I used to love it. Still gave this two stars as I was able to eat some so I'm sure it's me and not the recipe. Though I do think the amount of granola called for is nowhere near enough for four servings. Sorry but I won't be making this one again.
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-04T10:38:04.51
+helpfulCount:
+0
+userID:
+15121914
+Display Name:
+bris
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Boom. Good one

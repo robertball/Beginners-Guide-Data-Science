@@ -1,0 +1,146 @@
+Recipe number:
+240498.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-22T05:52:28.653
+helpfulCount:
+0
+userID:
+26256618
+Display Name:
+BoP
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wife and I loved this dish, but this is a meal for 2-1/2 people, not 1.   We have it on our food calendar to make again.
+
+Three slight modifications:  
+(1) I think I misread the ingredients and used a whole 6 oz jar of oil packed sun-dried tomatoes rather than 1/2 half tomato (2)  Added 1/2 avocado sliced on top of the diced toms.
+(3)  Made two tortillas and had left over scramble.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-31T16:57:27.527
+helpfulCount:
+0
+userID:
+2660693
+Display Name:
+eViE nOeL
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+239
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/52462.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these for a potluck brunch party, and they were a hit! I made two big batches of the insides and just heated the tortillas at the last minute, stuffed them and put all ten wraps/burritos in a 9x13 glass pan to keep warm. I transported them to the party and it worked out well! My recommendation is to add a LOT more sun dried tomatoes, as that's the best part of this recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-14T07:15:36.757
+helpfulCount:
+0
+userID:
+17511840
+Display Name:
+Devon McIntosh
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3260494.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My dad and I made it for breakfast, bug hit with everyone in the family. For my moms, we substituted her eggs with avocado. The whole thing was delicious.
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-14T07:12:06.853
+helpfulCount:
+0
+userID:
+10703220
+Display Name:
+Diana Mc
+isPro:
+False
+followersCount:
+54
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7679117.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a simple tasty breafast.  I will be making them again.

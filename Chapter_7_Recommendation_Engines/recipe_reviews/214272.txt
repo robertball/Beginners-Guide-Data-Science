@@ -1,0 +1,37 @@
+Recipe number:
+214272.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-09-01T11:05:01.07
+helpfulCount:
+3
+userID:
+3227891
+Display Name:
+Charmin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+424
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out very yummy.  I used Bacardi mixers as my juice and used a nilla wafer crust instead of the chips ahoy cookies (just because someone I was making it for cannot eat chocolate).  I would definitely recommend this treat for a hot summer day.  Very refreshing!

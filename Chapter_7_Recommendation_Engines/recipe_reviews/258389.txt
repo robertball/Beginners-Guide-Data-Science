@@ -1,0 +1,107 @@
+Recipe number:
+258389.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-27T15:28:58.93
+helpfulCount:
+0
+userID:
+26563336
+Display Name:
+Clyde Cockroach
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7364086.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't understand why so few people tried it, it is just awesome! Did not change anything, added a few drops of vanilla extract (don't know why, I'm always doing this). Tried both hot and cold, it could not be better.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-02T13:31:29.51
+helpfulCount:
+0
+userID:
+15340526
+Display Name:
+Andy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is fantastic! We serve it at our B&B and it’s always a hit, even for those that claim not to like rice pudding! Don’t change a thing!
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-07T03:34:02.79
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this stuff.. I like mine cold so that how I serve this. I think it tasted wonderful even before adding the cream at the end.. caramelized bananas on top.. yum

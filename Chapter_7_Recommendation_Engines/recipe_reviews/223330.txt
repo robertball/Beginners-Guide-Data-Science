@@ -1,0 +1,72 @@
+Recipe number:
+223330.txt
+Review:
+Rating:
+1
+dateLastModified:
+2012-06-25T10:50:17.613
+helpfulCount:
+3
+userID:
+9206083
+Display Name:
+kitty
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/825777.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not so chocolate taste..
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-11T14:33:47.63
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were plenty chocolate-y and the taste was just like I remembered as a kid. They didn't have quite that icy texture I remember but close enough. The one issue I had was getting them out of the holder. The Popsicle  is so thick that the stick just pulls right out. My mold is a cheapie so that might have been the problem. If you are having trouble getting them out of the mold just run them under cold water for 5 seconds or so and then pull out gently. The one bad thing in doing this is that they melt FAST so once you get them out you betta start eating. Great recipe that took me down memory lane!

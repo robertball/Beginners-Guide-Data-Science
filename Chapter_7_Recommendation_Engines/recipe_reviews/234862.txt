@@ -1,0 +1,72 @@
+Recipe number:
+234862.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-08T21:14:40.303
+helpfulCount:
+0
+userID:
+15085258
+Display Name:
+Rixgrlraven
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4969585.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2014-01-01T01:27:06.567
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+1343
+favoritesCount:
+2870
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good. It doesn't look very appetizing but it tastes darn good. Added 1/4 C of Parmesan. You need to eat this fast- it's not so good cold.

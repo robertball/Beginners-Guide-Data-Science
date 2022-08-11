@@ -1,0 +1,107 @@
+Recipe number:
+237453.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-08T04:59:16.233
+helpfulCount:
+3
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum.  loved this stuff.  I dont eat Nutella very often so I am not a purist, but the texture was spot on and the taste pretty darn  close
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-01T13:38:25.03
+helpfulCount:
+1
+userID:
+26209668
+Display Name:
+Promise Carter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7098908.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i love it its a lot
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-21T02:27:59.443
+helpfulCount:
+1
+userID:
+12591794
+Display Name:
+Jessica Rupe
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3458371.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you Linda. I'm glad you enjoyed it!

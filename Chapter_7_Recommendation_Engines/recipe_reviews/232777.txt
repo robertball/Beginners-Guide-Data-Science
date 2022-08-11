@@ -1,0 +1,219 @@
+Recipe number:
+232777.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-08T03:09:16.51
+helpfulCount:
+3
+userID:
+41321
+Display Name:
+MELRN
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+290
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7237876.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty easy and came together fairly quick. I used shredded carrots and just chopped them a little more. The flavor was decent. I do wish that I could have tasted the leftovers on day 2 because this kind of sauce always seems to be better after it has set for a day or two.  However, hubby and the kids beat me to it.
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-27T15:55:32.89
+helpfulCount:
+1
+userID:
+15129567
+Display Name:
+Karl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the celery in it.
+I used 1lb of ground beef and no sausage.
+In addition I used four fresh tomatoes
+I added some sugar as it was a little tart.
+Really easy and although not the best I have tasted was pretty good.
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-23T18:04:12.463
+helpfulCount:
+1
+userID:
+12450647
+Display Name:
+Will
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+143
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an outstanding recipe when modified a bit. What makes it different is the carrots and the cream.  I recommend sautéing the vegetables separately and eliminating the celery and doubling the carrots.  I started by cooking four slices of bacon which then can be broken up to add to the meat sauce.  Put the bacon slices aside and then sauté the onions, carrots, and garlic in the bacon grease.  This makes them softer than if cooked with the meat and adds flavor. When soft and a bit charred, transfer the vegetables to a a dish. Then sauté the meat as instructed until brown. At that point, drain the grease from the pan and then add the sauted vegetables and other ingredients at the same time. You may want to use a bit more cream than called for. The color should be a medium to light orange tone. The cream makes this rich and delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-29T23:04:01.917
+helpfulCount:
+0
+userID:
+2215535
+Display Name:
+Leah
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/53587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried to make it as close to the recipe as possible with the ingredients I had available and it came out fantastically.
+Starting with cooking down the chopped onion, celery and carrots for quite some time in bacon grease, waiting till the carrots were cooked through.
+Ended up adding more amount of the seasoning that was recommended for my own taste.
+Just let the sauce cook in its own juices but ended up adding the stock from the noodles for some rich and starchy broth.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-20T18:08:44.737
+helpfulCount:
+0
+userID:
+17156756
+Display Name:
+Makayla Lopez
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3395939.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No, I didn't make any changes. Yes, I will make it again sometime. I LOVE IT!!!
+Review:
+Rating:
+3
+dateLastModified:
+2016-01-07T17:27:41.37
+helpfulCount:
+0
+userID:
+8115807
+Display Name:
+Jarita Jorgensen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+257
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6246878.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I use a few moderations when I make this.  Usually more garlic, some olives, and half and half instead of cream since that's what I usually have.  Most importantly what the directions in this recipe fails to mention is that the veggies really need to saute until softened.  Otherwise they remain crunchy even when simmered for a long time with the other ingredients.

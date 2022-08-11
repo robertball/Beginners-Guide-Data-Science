@@ -1,0 +1,72 @@
+Recipe number:
+20337.txt
+Review:
+Rating:
+4
+dateLastModified:
+2002-12-30T09:24:57.03
+helpfulCount:
+32
+userID:
+762275
+Display Name:
+KABACH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cake was a hit!  This is a nice variation of Tarimusu and very easy to make.  I altered the recipe a tiny bit by adding a splash rum to the mascarpone mixture.  (One of my guests had 3 servings!)
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-24T17:11:24.047
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a quick and easy dessert. I left out the alcohol completely because it was for my kids' and their friends. Thank you for the recipe.

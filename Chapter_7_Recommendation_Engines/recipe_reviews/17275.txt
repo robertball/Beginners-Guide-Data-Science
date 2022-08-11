@@ -1,0 +1,334 @@
+Recipe number:
+17275.txt
+Review:
+Rating:
+3
+dateLastModified:
+2000-07-13T14:09:09.01
+helpfulCount:
+19
+userID:
+128831
+Display Name:
+FIRETHORN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the idea of a marbled chocolate
+chip cookie, so I was anxious to try this.
+
+I noticed that the ingredient list called fo
+for water, and yet it was not specified
+as to how it was to be used in the  
+instructions. I put two and two together,
+and figured it was to moisten the cocoa,
+but this should be clarified.
+
+Also, in terms of marbling, I think it 	
+would be better to divide the dough into 	
+two portions, and add the cocoa to one
+portion, so that you have a dark dough	
+that can then be folded into the light 
+one. I think this would allow for a more
+even marbling with less stirring.
+Review:
+Rating:
+5
+dateLastModified:
+2000-11-08T07:20:29.35
+helpfulCount:
+13
+userID:
+149907
+Display Name:
+Nancy Wise-Peterson
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2242490.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When I made these cookies instead of "marbling" in the cocoa I stirred it in completely, so it was a chocolate chocolate chip cookie.
+Review:
+Rating:
+3
+dateLastModified:
+2002-09-15T20:46:11.78
+helpfulCount:
+11
+userID:
+676764
+Display Name:
+ALLYALL
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+78
+favoritesCount:
+137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/42504.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are good cookies, but... not the cookie for my family. They don't have that sweet tollhouse cookie taste to them. While it was fun to try something different, I won't be making them again.
+Review:
+Rating:
+4
+dateLastModified:
+2001-05-29T15:54:45.797
+helpfulCount:
+7
+userID:
+41321
+Display Name:
+MELRN
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+289
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7237876.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+good with 1 package chocolate, 1 package vanilla pudding!  i really enjoyed the recipe.  my father-in-law begged me to make them again.
+Review:
+Rating:
+4
+dateLastModified:
+2000-05-28T21:46:19.36
+helpfulCount:
+7
+userID:
+88235
+Display Name:
+KSB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These remained chewy with lots of chocolate chips.  I found they made more than the 5 dozen.  More like 7 generous cookies.
+Review:
+Rating:
+5
+dateLastModified:
+2004-11-26T20:33:55.64
+helpfulCount:
+5
+userID:
+1266293
+Display Name:
+KNITKITN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+quick, easy, excellent recipe... my boyfriend went into a chocolate coma.
+Review:
+Rating:
+5
+dateLastModified:
+2004-01-15T14:36:42.06
+helpfulCount:
+5
+userID:
+999107
+Display Name:
+BK5256
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i just made these cookies and they didn't last a day. i made them with chocolate chips and white chocolate chips; they were tasty.
+i split the cookie dough up before adding the cocoa powder. i think that help not to over blend the cookie dough so it wouldn't end up being all chocolate.
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-11T17:57:12.167
+helpfulCount:
+4
+userID:
+663924
+Display Name:
+JENN C.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/54.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+The cookies are good if you like cake like cookies.  I added both chocolate chips and M&M's.  The cookies were really sweet!!  Next time I would cut the sugar back.  I also did half shortening and half butter.  I did seperate dough before adding cocoa powder.
+Review:
+Rating:
+4
+dateLastModified:
+2010-11-05T21:02:34.957
+helpfulCount:
+3
+userID:
+4824452
+Display Name:
+TeamSanford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I increased the water to 1/2. This was an accident but the cookies still turned out fine. I also took the advice of another baker and split the dough in 1/2, and added the cocoa to only half; then slightly mixed the two halves together to create the marbling. The less you mix, the better the marbling when you scoop out our cookies. They tasted like Toll House cookies, but visually much prettier.

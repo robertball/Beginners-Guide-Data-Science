@@ -1,0 +1,107 @@
+Recipe number:
+15496.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-04-13T11:14:14.73
+helpfulCount:
+15
+userID:
+295032
+Display Name:
+MMOK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A great and original Chinese dish!
+Review:
+Rating:
+5
+dateLastModified:
+2006-12-15T16:16:26.443
+helpfulCount:
+4
+userID:
+890457
+Display Name:
+Rhonda Brock Fuller
+isPro:
+False
+followersCount:
+33
+followingCount:
+0
+madeRecipesCount:
+693
+favoritesCount:
+2053
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3056.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I have never had anything quite like this, but it was delicious. Thanks.
+Review:
+Rating:
+3
+dateLastModified:
+2017-06-25T18:17:09.967
+helpfulCount:
+0
+userID:
+22071653
+Display Name:
+Ashley H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe twice now, and will continue to make it. My biggest complaint is the sauce, will having some great flavors, is saltier than I would like. The fish turn out really oily, even when I leave them with some paper towels to soaked out the oil. I serve it with a hefty side of rice and veggies. Even still, it is usually greasy then I would like.

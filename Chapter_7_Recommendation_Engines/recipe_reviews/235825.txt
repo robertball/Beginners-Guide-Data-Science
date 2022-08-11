@@ -1,0 +1,72 @@
+Recipe number:
+235825.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-29T13:39:58.12
+helpfulCount:
+5
+userID:
+2206771
+Display Name:
+April Fear
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/199957.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cranberry caramels are a little softer than the pineapple ones. Roll the cooled cranberry caramels into balls and chocolate dip them. They make a wonderful soft center chocolate!
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-20T08:42:22.78
+helpfulCount:
+0
+userID:
+15645620
+Display Name:
+gma pie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the cranberry and the pineapple caramels for Christmas last year and my family loved them.  Made the pineapple this summer.  My grandson in the Navy has requested a care package of these caramels.

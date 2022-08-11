@@ -1,0 +1,107 @@
+Recipe number:
+228877.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-09-08T03:55:47.887
+helpfulCount:
+15
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1661
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This works well in the cast iron skillet though I do use quite a bit more butter than what's called for in the recipe. My kids also like this with marshmallow creme.
+Review:
+Rating:
+3
+dateLastModified:
+2013-02-24T10:00:59.203
+helpfulCount:
+1
+userID:
+8069211
+Display Name:
+shannonferger
+isPro:
+False
+followersCount:
+59
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/884985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty dessert sandwich when your looking for something quick and chocolaty in a pinch!
+Review:
+Rating:
+4
+dateLastModified:
+2013-09-20T13:47:57.52
+helpfulCount:
+0
+userID:
+9854816
+Display Name:
+Olive Fairy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+480
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was looking for something quick and melted chocolatey. I made this in a pan, as I don't have a panini press. I would recommend dipping the bread slices into the melted butter and sprinkling brown sugar on the outsides of the slices, to give it a touch of extra sweetness. I found it to be just sweet enough, so I don't know how it would've been, had I not added that. Perhaps I could've put more chocolate, instead, but I didn't want it to overflow, and found it to be the perfect consistency, as is. This recipe has a very interesting flavor-- peanut butter and chocolate lovers should definitely give it a try!

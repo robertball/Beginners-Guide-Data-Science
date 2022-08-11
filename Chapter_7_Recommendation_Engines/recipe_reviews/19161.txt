@@ -1,0 +1,72 @@
+Recipe number:
+19161.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-02-25T11:06:57.243
+helpfulCount:
+11
+userID:
+4091346
+Display Name:
+Whitney
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+764
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/459955.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used regular gin instead of lemon gin and added some lemon juice. I also used lemonade and limeade concentrate instead of lemon/orange. Delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2009-08-08T07:35:34.08
+helpfulCount:
+6
+userID:
+3411708
+Display Name:
+Lil Red
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+147
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/373782.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good one, a few suggestions: We used 4-5 tea bags,combined with sugar and water then let steep for a few hrs.  Then combine and freeze. We also love fresh mint with lime slices on top-something to dress it up. Enjoy :)

@@ -1,0 +1,72 @@
+Recipe number:
+237314.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-01T12:59:15.637
+helpfulCount:
+1
+userID:
+10693253
+Display Name:
+Aimee Wheeler
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+189
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1494858.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made as is. I was concerned that it was a little thinner than I had expected (I had been looking for a recipe similar to one my grandmother used to make and this is pretty darn close!) but it set up fine, especially after it'd been out of the oven for a few minutes. The only thing I missed was butter IN the potatoes, more out of expecting the flavor than anything else. All in all, a very close second to my gramma's and I was not displeased.
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-05T15:26:36.543
+helpfulCount:
+1
+userID:
+9455171
+Display Name:
+Jstack
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1247482.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this!   I love the texture and the flavor!  I didn't have light cream on hand, so I had to substitute milk and butter for that part.  Definitely a make again for me!

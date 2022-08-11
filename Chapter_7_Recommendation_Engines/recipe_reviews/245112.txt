@@ -1,0 +1,107 @@
+Recipe number:
+245112.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-08-08T13:55:08.273
+helpfulCount:
+1
+userID:
+8307883
+Display Name:
+Jude M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+499
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added extra onion and garlic with only 3 cups of corn.  I used an immersion blender.  Did not like the "sludgy" quality of the corn so I strained it.  This definitely improved the soup, in my opinion. The taste is quite subtle, though.  Garnished with cilantro and a squeeze of lime.
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-31T20:18:12.08
+helpfulCount:
+0
+userID:
+8257560
+Display Name:
+amclean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+162
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was scrumptious and easy to make. Will add it to my rotation of summer soups!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-15T09:32:35.933
+helpfulCount:
+0
+userID:
+585641
+Display Name:
+Carol Castellucci Miller
+isPro:
+False
+followersCount:
+118
+followingCount:
+0
+madeRecipesCount:
+204
+favoritesCount:
+445
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2403322.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup tastes like summer.  I suggest adding bacon and a squeeze of lime on top.

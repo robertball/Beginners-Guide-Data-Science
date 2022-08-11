@@ -1,0 +1,37 @@
+Recipe number:
+165396.txt
+Review:
+Rating:
+2
+dateLastModified:
+2010-05-14T12:59:56.913
+helpfulCount:
+6
+userID:
+4370205
+Display Name:
+Winell Cox White
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5680297.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Chutney turned out way to hot for me..not sure but i think the 1 tablespoon of black pepper also the peppers is to much so I will try this again and put in less pepper.

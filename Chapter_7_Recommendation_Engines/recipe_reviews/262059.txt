@@ -1,0 +1,72 @@
+Recipe number:
+262059.txt
+Review:
+Rating:
+1
+dateLastModified:
+2020-01-17T13:51:59.58
+helpfulCount:
+0
+userID:
+3982947
+Display Name:
+Sharon Tommy Cook
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2208926.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This batter was runny and wouldn’t hold together while cooking.  Wasted time and ingredients.
+Review:
+Rating:
+2
+dateLastModified:
+2019-05-20T01:11:57.653
+helpfulCount:
+0
+userID:
+25595150
+Display Name:
+Alan Terlep
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6657597.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've tried these twice and both times the batter was too runny. Cachapas are like pancakes and these need to be thicker--probably leaving out the milk would help. But I'm basically on my own experimenting with the right ingredients.

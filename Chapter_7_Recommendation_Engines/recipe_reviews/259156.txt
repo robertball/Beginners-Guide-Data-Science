@@ -1,0 +1,37 @@
+Recipe number:
+259156.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-19T14:45:14.667
+helpfulCount:
+1
+userID:
+21362212
+Display Name:
+dee
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+82
+favoritesCount:
+466
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The batter was DELICIOUS. Definitely becoming a staple cake in my home. However, if you love yourself you'll omit the ice cream portions entirely. Or if you're a bit of a masochist like myself, have fun deconstructing and reconstructing a cake that's partially melted and entirely soaked. Use the Fluff for a dirty icing to hold it together, and get it to its final destination before the whipping cream decides it's not whipped anymore. Other than that it was absolutely amazing

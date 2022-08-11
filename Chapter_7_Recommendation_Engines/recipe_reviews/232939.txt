@@ -1,0 +1,109 @@
+Recipe number:
+232939.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-09-10T00:34:44.457
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really as wonderful as it claims to be. I bet there is a way to do this in the slow cooker but as written it is 5 stars! Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-18T08:30:19.227
+helpfulCount:
+0
+userID:
+26487540
+Display Name:
+Maddy Guidry
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7305991.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup is so good. I did make some changes to the recipe though. I don’t like peppers or squash in soups so o left those out and I added some extra chicken boullion cubes and red pepper flakes for flavor. I am really pleased with how this turned out.
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-31T01:22:30.903
+helpfulCount:
+0
+userID:
+13809707
+Display Name:
+Pamela Roberts
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1186651.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found it bland.  There are really no spices in the recipe.  Any advice?  For my leftovers, I tried adding avocado, chopped green onions, and grated parmesan cheese on top.  It had  a little more flavor but still lacked the wow factor.
+
+I am happy that everything in it is so healthy.

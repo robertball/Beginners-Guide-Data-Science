@@ -1,0 +1,508 @@
+Recipe number:
+259326.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-22T07:27:23.047
+helpfulCount:
+6
+userID:
+22103866
+Display Name:
+AR CatherineQ
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4563158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Decent dish! The rice came out mushy so I suggest reducing the amount of water and/or coconut milk used. I enjoyed the flavor combination made by the asparagus and sesame oil. The prawns were probably the least interesting because of the other aspects of the dish (but still good!). I used Kikkoman Teriyaki Sauce and Marinade but I would suggest using a low sodium teriyaki sauce.
+
+With a few minor changes, I would definitely make this again. It's a perfect recipe for those busy nights!
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-01T00:10:18.003
+helpfulCount:
+2
+userID:
+10814734
+Display Name:
+Wila
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+383
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Well.... I made something similar.... 
+I used organic basmati rice, well rinsed. 
+To prevent clumpy, sticky rice.
+I sauteed it lightly in organic ghee, turmeric, salt and ginger.
+I poured in organic coconut water instead of water. Added the organic coconut milk
+Cooked rice.
+It was deliciously decadent and fluffy.
+Then I roasted tender organic asparagus and broccolini and cut them up over the rice.
+I used delicate, tender boneless bbq pork ribs.
+I cooked the veggies and pork while the rice was cooking.
+Sprinkled with sesame seeds and tiny slices of organic spring onions.  
+It was so delicious.
+It can be paired with chicken, seafood, beef, pork.... such a great a versatile recipe.
+A good tip is to prep everything before starting the cooking process so that it is all ready at the same time and you can eat it all hot.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-09T23:17:38.163
+helpfulCount:
+1
+userID:
+13823179
+Display Name:
+Nancy Intermill
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1194739.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were great. They are very salty of course.  My husband did not eat the shells (we used headless) but I did, and they were surprisingly good. However, the shells were very tough when I nuked the leftovers and I had to remove the shells to eat them. But, again, great recipe and a fun change from the usual.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-03T00:00:14.15
+helpfulCount:
+1
+userID:
+9338674
+Display Name:
+AZYeags
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super yummy! I followed the recipe exactly and it turned out perfect! The shrimp didn't hold onto allot of the teriyaki flavor so make sure you use good shrimp ( I might marinade it next time). I used extra large black tiger shrimps and they were delicious! Who'll be making again!
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-31T12:04:02.837
+helpfulCount:
+1
+userID:
+21003352
+Display Name:
+Holly Richardson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4309904.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and delicious ! My husband and I both loved it, followed the instructions as written. Next time I will buy more Shrimp and asparagus...because there was a lot of rice leftover. YYYUUUMMMM
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-06T00:07:02.813
+helpfulCount:
+1
+userID:
+23207337
+Display Name:
+Ydnarb Nednil
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5035392.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing! We inhaled it. Definitely recommend. We will be having this again and again and again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-05T04:18:33.237
+helpfulCount:
+1
+userID:
+23104477
+Display Name:
+Mary Zink
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+208
+favoritesCount:
+1395
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4939587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The rice was especially good with the saltiness of the prawns in teriyaki.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-21T01:45:03.657
+helpfulCount:
+0
+userID:
+25866314
+Display Name:
+Freddricka Rodriguez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6848666.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved the meal!!
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-09T13:37:08.86
+helpfulCount:
+0
+userID:
+12753604
+Display Name:
+Missy H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+593
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a quick & healthy weeknight recipe. I loved the flavors of the sesame oil on the asparagus & the coconut milk with the rice. Shrimp was a tad salty but that could of been the teriyaki sauce I chose. Next time I think I will use more of a teriyaki glaze or marinade like Lawry's and just brush on during grilling. Good recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-04T20:05:52.773
+helpfulCount:
+0
+userID:
+9226555
+Display Name:
+strongtea
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used my own teriyaki sauce recipe rather than bottled and marinated the shrimp a few hours. I also used half brown rice. After the shrimp came out of the marinade, I added a little cornstarch, brought it to a boil to thicken and put it on the table for people to use on their shrimp or rice if desired. Everyone loved it. Will definitely add this into my meal plan rotation.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-03T11:24:23.533
+helpfulCount:
+0
+userID:
+13075695
+Display Name:
+Annie Ewbank
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+260
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3993889.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful recipe! Thank you for sharing.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-22T01:41:59.607
+helpfulCount:
+0
+userID:
+9490415
+Display Name:
+judy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good,  but not fantastic, a little mild on the flavor for our tastes.  I made it with snap peas rather than asparagus and went heavier on the teriyaki for more flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-19T22:06:33.523
+helpfulCount:
+0
+userID:
+6889197
+Display Name:
+LDPT
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+313
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love the rice and the favors blend so well.  Nothing. Was left over!
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-31T21:55:54.75
+helpfulCount:
+0
+userID:
+4511954
+Display Name:
+Mitsuko Fredrickson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+407
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5172126.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and quick.  I used colossal jumbo prawns.
+I made Jasmin rice to go with them.

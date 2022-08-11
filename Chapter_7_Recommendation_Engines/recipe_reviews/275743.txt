@@ -1,0 +1,37 @@
+Recipe number:
+275743.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-05T14:27:30.96
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+431
+favoritesCount:
+911
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is a basic whipped cream recipe. I made it as written, with vanilla bean paste. In my opinion, it is too heavy on the vanilla bean paste and it could be cut back drastically. The lemon juice doesn't really do anything to enhance the whipped cream.

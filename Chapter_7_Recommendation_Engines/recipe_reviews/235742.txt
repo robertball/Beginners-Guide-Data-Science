@@ -1,0 +1,72 @@
+Recipe number:
+235742.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-29T09:21:12.683
+helpfulCount:
+2
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6670
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2542
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A great way to use up those holiday leftovers. Next time I will serve this with a side of leftover gravy for dipping.
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-27T15:02:38.34
+helpfulCount:
+0
+userID:
+20474048
+Display Name:
+B_M_ jo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this sandwich! I made it, ate it and fell in love! I think everyone should try this sandwich!

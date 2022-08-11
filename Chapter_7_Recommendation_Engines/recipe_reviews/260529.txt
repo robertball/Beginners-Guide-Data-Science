@@ -1,0 +1,72 @@
+Recipe number:
+260529.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-26T23:47:51.79
+helpfulCount:
+0
+userID:
+12789439
+Display Name:
+lofljamc
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is awesome!  I have Celiac disease and truly missed eating flour tortillas.  These hit the spot.  Easy to mix, make and eat.  I actually like these better than flour tortillas.  Thank you for this recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-28T08:50:15.957
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These came out perfectly. I only had red sorghum flour on hand, which may be thirstier than its white cousin. I ended up needing to add a couple of tablespoons of water to thin out the batter. A half batch made six crepes (1/4 cup of batter each). I served them with a mascarpone and sweet ancho chili filling. These were a perfect starter for our dinner. Thank you for the recipe.

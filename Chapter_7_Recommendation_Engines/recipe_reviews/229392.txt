@@ -1,0 +1,37 @@
+Recipe number:
+229392.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-07-29T19:44:48.203
+helpfulCount:
+0
+userID:
+3903528
+Display Name:
+B. Morrin
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+540
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2858046.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+FYI,  If you are vegan or vegetarian you may want to use something instead of gelatin! Normal gelatin is made from bones of animals. There is an alternative to gelatin you can use though. Good recipe though!

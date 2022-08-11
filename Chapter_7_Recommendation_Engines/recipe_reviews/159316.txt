@@ -1,0 +1,107 @@
+Recipe number:
+159316.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-06-04T14:09:55.897
+helpfulCount:
+15
+userID:
+2301559
+Display Name:
+Ashley Taylor
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3962062.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow!!! Excellent directions, especially for me. Ive never cooked lobster before, and this was very direct and easy, and incredibly delicious! Family loved it, very tender yet flavorfull!
+Review:
+Rating:
+2
+dateLastModified:
+2010-01-01T11:50:56.61
+helpfulCount:
+5
+userID:
+4392948
+Display Name:
+PJA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way too salty for our taste -- a pinch of salt would have been more appropriate than a teaspoonful!  I used fresh tarragon, the flavor was good, other than the salt.  Also with so much butter in the stuffing, the oil is not needed.  Okay but nothing memorable
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-09T22:10:38.623
+helpfulCount:
+0
+userID:
+24039943
+Display Name:
+lina fox
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was great my sun from seattle wa  sad it was great thank you for the recipe  l will make this stuff lobster weekly

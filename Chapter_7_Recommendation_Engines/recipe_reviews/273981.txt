@@ -1,0 +1,72 @@
+Recipe number:
+273981.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-30T07:02:07.247
+helpfulCount:
+0
+userID:
+23967743
+Display Name:
+Althea Rhyl Bell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5569741.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+good evening meal
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-28T22:51:16.21
+helpfulCount:
+0
+userID:
+21422295
+Display Name:
+Marjorie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I left the jalapeños out and added red pepper flakes.

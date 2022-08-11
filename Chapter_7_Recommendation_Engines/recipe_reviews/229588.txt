@@ -1,0 +1,37 @@
+Recipe number:
+229588.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-17T06:02:17.883
+helpfulCount:
+1
+userID:
+16551465
+Display Name:
+Patti McElroy
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5258337.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used spiced rum instead of the Amber rum.I also ended up doubling the recipe to fill my deep dish pie pan. I covered the edge of the crust immediately and during the entire baking process, which took forever. I'm sorry I didn't keep track of the time to include it here, and I think the next time I try this recipe I will try 1 1/2 times the recipe instead of the 2 times. Everyone at my house loved it!!!

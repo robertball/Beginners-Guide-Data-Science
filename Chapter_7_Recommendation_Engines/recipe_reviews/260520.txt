@@ -1,0 +1,74 @@
+Recipe number:
+260520.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-13T19:53:38.717
+helpfulCount:
+1
+userID:
+20747025
+Display Name:
+Junk Mail
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5190849.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I can't believe this doesn't have more reviews , these were AMAZING! 
+We made them for my Twins 7th birthday as their class treat. I'm not sure who thought they were more cute the adults or kids. They're very healthy, only kids who had to avoid dairy (the cream cheese ingredient) could not eat them. 
+They're easy to make, incredibly cute and were loved by all.  We found using cream cheese to "glue" the apple and grapes to the paper liner we served them in worked well.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-12T21:45:40.123
+helpfulCount:
+0
+userID:
+22170712
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+274
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5744620.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+fun! grand kids loved it

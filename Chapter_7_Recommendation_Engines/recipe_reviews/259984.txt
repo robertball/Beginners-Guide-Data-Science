@@ -1,0 +1,72 @@
+Recipe number:
+259984.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-16T10:04:10.01
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Even better the next day. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-21T23:41:35.247
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. It was a little heavy on the mint for me so next time I will replace one of the tablespoons with more cilantro. This was a nice dipping sauce for my kabobs.

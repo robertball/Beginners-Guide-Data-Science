@@ -1,0 +1,37 @@
+Recipe number:
+266171.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-07-30T03:38:12.257
+helpfulCount:
+0
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+274
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3437
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love the ease of making the meatloaf in muffin pans.  The recipe came together very quickly  and cooked in about 30 minutes which was great for a weeknight meal.  I thought the meatloaf itself was just ok.  I wasn't crazy about the texture.  There were a lot of bread crumbs in the mix which made the texture a little mushy.  I also thought they were a little bland.  I would definitely use the cooking method again, but, change up the flavors.

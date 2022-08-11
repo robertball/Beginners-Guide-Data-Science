@@ -1,0 +1,37 @@
+Recipe number:
+221791.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-11-14T09:00:14.54
+helpfulCount:
+2
+userID:
+3273390
+Display Name:
+Tara Renner
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+886
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/138634.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't have a pressure cooker so I had to modify this. I soaked the split peas in the refrigerator overnight to soften them. Then I stir fried the vegetables in a tablespoon of canola oil for a few minutes, before adding the spices. (I didn't have sambar powder, so used garlic chili paste) Next I added the peas, and then some water. I let the mixture simmer for about 15 minutes. The peas still came out a little firm, so maybe I should have cooked them a bit while I was cooking the veggies.  I served all over basmati rice. This recipe was OK, but it could have used a few more vegetables in my opinion.

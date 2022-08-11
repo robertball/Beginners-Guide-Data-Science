@@ -1,0 +1,107 @@
+Recipe number:
+267260.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-18T02:54:30.05
+helpfulCount:
+2
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+190
+followingCount:
+0
+madeRecipesCount:
+534
+favoritesCount:
+696
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm rather impressed with having a frozen ham into a cooked ham in a short amount of time. I had pineapple rings on hand which worked just perfect. I would recommend more cornstarch for a thicker sauce, but that's a preference thing. Would make again and could fit an even bigger ham if needed.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-24T22:15:16.127
+helpfulCount:
+1
+userID:
+17696933
+Display Name:
+Norbert
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+65
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had no honey, but did have maple syrup.... works just as well!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-27T01:34:38.04
+helpfulCount:
+0
+userID:
+26774012
+Display Name:
+Angie R
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7532326.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So thankful to find this excellent recipe for a frozen ham.  I didn’t have pineapple so I added 1/2 cup apple cider vinegar and 1/2 cup water.  I also used honey instead of maple syrup.  The ham was very tender and delicious.  It took about 30 minutes for a natural release but I’m sure this time varies according to the ingredients used.

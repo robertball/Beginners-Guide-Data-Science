@@ -1,0 +1,72 @@
+Recipe number:
+237961.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-19T21:09:29.17
+helpfulCount:
+2
+userID:
+7116719
+Display Name:
+William Sullivan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+69
+favoritesCount:
+651
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6334842.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cooked in the coals camping.  Used more butter and some cooked bacon.  Very good
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-29T07:29:26.36
+helpfulCount:
+2
+userID:
+4196646
+Display Name:
+Lela
+isPro:
+False
+followersCount:
+352
+followingCount:
+0
+madeRecipesCount:
+173
+favoritesCount:
+2651
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7559577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy to make. The steamed carrots and potatoes were a hit with my granddaughter.

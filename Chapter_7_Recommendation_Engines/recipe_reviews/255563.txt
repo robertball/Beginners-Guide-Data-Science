@@ -1,0 +1,72 @@
+Recipe number:
+255563.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-11T03:39:46.943
+helpfulCount:
+0
+userID:
+13963699
+Display Name:
+Jackie Manuel Hernandez
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1281609.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these!! I used peanut butter instead of butter and coconut oil instead of shortening and I added our all-time favorite chocolate chips. I also used flaxseed instead of egg. And when I took a bite I realized I forgot to add the oatmeal. I’m sure it would of tasted even better. They were still delicious and there was an even flavor of the butternut squash and peanut butter. I also cut the sugar in half. We are cutting fat and sugar intake.
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-03T23:45:56.927
+helpfulCount:
+0
+userID:
+13519514
+Display Name:
+Kristieg
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+81
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1431643.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Since I didn’t know how large of a squash to use, I don’t know if they are exactly how the author intended. Next time I don’t think I’d refrigerate since they stayed in the same ball-shape as my cookie scoop when they baked. The taste is fine.  It’s a soft cookie and my family would refer to them as bread-like.

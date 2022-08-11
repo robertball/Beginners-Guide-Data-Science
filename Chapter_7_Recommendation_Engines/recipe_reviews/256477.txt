@@ -1,0 +1,107 @@
+Recipe number:
+256477.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-27T12:22:04.197
+helpfulCount:
+5
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+969
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are a healthy alternative to those horrible, but oh-so-loved pre-packaged ramen soups that you buy in the store. You know the ones; they have that little foil packet sodium bomb. This is also the answer for moms whose kids love those but are gluten free. I added a couple of these to my portable lunch bowls to take away from home. I also made up about 10 of them in individual ziploc baggies and put them in the cabinet where the kids go for fast snacks. Instead of finding those ramen packages, they found these and even the non celiac kids like them. They work perfectly and are delicious. I dehydrated my own veggies and added seasonings as written and even made some vegetable and some curry flavored.  Excellent recipe. Thank you for sharing it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-23T17:34:21.693
+helpfulCount:
+0
+userID:
+7650652
+Display Name:
+Lori
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome - great on the trail.  I would love to see more of these recipes!!! and you get to control your sodium - the backpacking freeze dried premade meals have sooo much sodium!
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-19T08:17:03.86
+helpfulCount:
+0
+userID:
+21809548
+Display Name:
+Anna Woodland 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious, lightweight for trekking and filling.

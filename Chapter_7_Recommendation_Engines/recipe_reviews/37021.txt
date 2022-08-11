@@ -1,0 +1,37 @@
+Recipe number:
+37021.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-02-16T10:36:58.047
+helpfulCount:
+10
+userID:
+1256931
+Display Name:
+Samantha Golden Wright
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5998444.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the way the lobster turned out!  All the ingredients that it was boiled in were such a complement.  Will definitely use this recipe again when boiling lobster. However, only gave this 3 stars because I didn't try the dipping sauce recipe.

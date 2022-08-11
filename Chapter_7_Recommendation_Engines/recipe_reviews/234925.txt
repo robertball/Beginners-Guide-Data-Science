@@ -1,0 +1,76 @@
+Recipe number:
+234925.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-02T13:29:27.83
+helpfulCount:
+3
+userID:
+14816504
+Display Name:
+icarus4335
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These taste fantastic, and are surprisingly easy to make, but I have 2 suggestions:
+
+1. I used more milk than the 1 tablespoon this recipe called for (about 3 tablespoons instead).  This was because I found it very difficult to mix without the powdered sugar going everywhere, and adding a little bit more milk made it easier.  Another solution if you do not want to use more milk would be to add the sugar one cup at a time, mixing thoroughly before adding the next cup so that you do not make such a mess.
+
+2. It was really tough to cut them into squares without the chocolate base just breaking into its own pieces that did not necessarily match the squares I was going for.
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-14T18:27:33.617
+helpfulCount:
+2
+userID:
+862372
+Display Name:
+JOANN S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+214
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out great.  I had to chill them (December in Florida) before cutting. Some of the drizzle tried to lift up, just press down lightly with a fork to make it stay. Really good!

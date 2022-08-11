@@ -1,0 +1,107 @@
+Recipe number:
+233126.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-27T22:18:41.707
+helpfulCount:
+1
+userID:
+2437514
+Display Name:
+laurajtaz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+118
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5242634.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this per instructions, recipe. My husband loved them. Said not to change anything about them. I did use vegetable oil. Was out of olive oil. Thank you!
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-16T19:50:26.77
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is more or less how I've always made them all through the years minus the panko and I've gotta say that the panko was a HUGE bonus. It brought the crispness to a whole new level. Loved it! Looks like I need to re-think the way I have always breaded my tomatoes with next years crop. My tip to you is that you should really invest in a fry daddy if you plan on deep frying anything. Not only do they save time but they save a ton of money in the long run.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-26T15:53:13.35
+helpfulCount:
+0
+userID:
+20256409
+Display Name:
+William Bebout
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+156
+favoritesCount:
+416
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6655868.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this recipe.  Nice and crunchy.  The panko crumbs are a plus.

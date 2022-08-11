@@ -1,0 +1,72 @@
+Recipe number:
+238103.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-06T22:08:11.75
+helpfulCount:
+0
+userID:
+20404892
+Display Name:
+Rosie Contrera Guastella
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+103
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7667806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added cinnamon and powder vanilla to the recipe and it is delicious and has great texture. Do bake til a little golden.
+Review:
+Rating:
+3
+dateLastModified:
+2015-05-13T13:02:18.553
+helpfulCount:
+0
+userID:
+3673204
+Display Name:
+Donna Maxwell Pacheco
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4427394.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'll give it a 3 because it's a great idea and a good base recipe to add all kinds of nuts and dried fruits. However, it needs to be cooked longer than 25 min to get crunchy. also, don't forget to put a little coconut oil on the bottom of pan because it will stick.

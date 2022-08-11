@@ -1,0 +1,107 @@
+Recipe number:
+247160.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-07-13T02:08:18.497
+helpfulCount:
+2
+userID:
+3983533
+Display Name:
+Keara Groner
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1353978.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added some fresh oregano, steak spice, Mrs Dash, and some white wine to give it a tad more flavor and it was great.
+Review:
+Rating:
+2
+dateLastModified:
+2017-01-15T18:07:36.28
+helpfulCount:
+1
+userID:
+1629558
+Display Name:
+Staci
+isPro:
+False
+followersCount:
+241
+followingCount:
+0
+madeRecipesCount:
+223
+favoritesCount:
+1380
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2404307.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We found this dish very bland and the tomato paste overpowering.
+Review:
+Rating:
+3
+dateLastModified:
+2018-03-19T00:56:17.92
+helpfulCount:
+0
+userID:
+2839510
+Display Name:
+Patrick Hughey
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1756616.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+not horrible, not great  As other reviewer said, pretty bland.

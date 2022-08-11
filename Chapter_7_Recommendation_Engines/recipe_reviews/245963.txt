@@ -1,0 +1,107 @@
+Recipe number:
+245963.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-11-26T21:43:58.32
+helpfulCount:
+1
+userID:
+22841070
+Display Name:
+John Matthews
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4626890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+In order to make Cincinnati style chili the beef needs to be cooked in water and crumbled. This way the beef becomes as small as possible. While the flavors are close in this recipe the style isn’t.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-27T17:26:56.453
+helpfulCount:
+0
+userID:
+21793287
+Display Name:
+Todd Marsh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+724
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502258.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best chili I've ever had, and I only used onion powder and garlic powder in place of the real bulbs, so it's probably even better when you follow the recipe exactly! I also used plain instant white rice in place of the suggested Knorr side, as in my opinion it didn't need the extra spices and I only wanted rice in it to enhance the texture. ;)
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-10T09:06:47.747
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6005
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+2.10.16   I grew up eating Cincinnati chili, and although this recipe uses rice instead of spaghetti, the key flavors are still there.  This is a variation on a typical 3-way which would be chili-spaghetti-cheese, now it's chili-rice-cheese.  Be sure to put a bottle of hot sauce on the table because that's also mandatory for many folks (I'm one of them).  I now live in Florida, but I still have a Skyline Chili within driving distance which I visit at LEAST monthly.  I'm still a chilihead, and this recipe definitely measures up!!

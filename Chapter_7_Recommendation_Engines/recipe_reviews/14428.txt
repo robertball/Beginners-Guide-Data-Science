@@ -1,0 +1,107 @@
+Recipe number:
+14428.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-12-05T07:49:53.54
+helpfulCount:
+12
+userID:
+1867459
+Display Name:
+Kym Cox Surridge
+isPro:
+False
+followersCount:
+53
+followingCount:
+0
+madeRecipesCount:
+457
+favoritesCount:
+1572
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2810793.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very good, easy one-dish meal. To simplify the prep, I sauteed the shallots and the scallops together, and then I added the vinaigrette to the pan. I also added salt and pepper after everything was tossed together. I might add a bit more mustard to the vinaigrette. This is a definite keeper.
+Review:
+Rating:
+4
+dateLastModified:
+2008-10-23T15:54:16.503
+helpfulCount:
+8
+userID:
+2423699
+Display Name:
+kimz11
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+88
+favoritesCount:
+222
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/299537.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is quick and easy.  The watercress salad is amazing!  I followed the recipe exactly, and the result was delicious.  The next time I make it, however, I will increase the amount of mustard to give the scallops more flavor.  Other than that, I wouldn't change a thing.  This is a keeper.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-09T03:04:02.37
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Corn would have been great but by the time I realized mine had gone bad it was too late. I used tomatoes instead. Watercress is also $4 a bunch here so I used half watercress and half spring mix to help even out the cost. This is a great recipe and the only thing I would change is to use more mustard as others have suggested. I used bay scallops because they are more affordable right now but sea scallops would be excellent too. Keeper!

@@ -1,0 +1,72 @@
+Recipe number:
+276542.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-08-25T01:54:49.41
+helpfulCount:
+0
+userID:
+20037503
+Display Name:
+Linda B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4407105.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. Dredge the chops in the seasoned flour. Sear the chops, remove to plate and keep warm. Add 1 tablespoon bacon fat to pan and saute sliced apples and sliced small onion.  Whisk broth, ketchup, honey, vinegar (use white if wine vinegar not available,) with remaining dedging flour till smooth. Pour over apples. Adjust seasoning as needed. Simmer till apples tender. Add chops & juices back to pan. Cook till chops  are done through, and place all on serving platter.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-03T23:41:26.263
+helpfulCount:
+0
+userID:
+26052833
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe!! Was looking for something different and this was easy and delicious!!

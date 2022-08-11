@@ -1,0 +1,37 @@
+Recipe number:
+217224.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-06T14:41:49.007
+helpfulCount:
+0
+userID:
+7002758
+Display Name:
+jzero29
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1634774.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great drink, I first had this drink at a bar on a recommendation. I've been looking for decent recipe ever since. Comparing different takes. most had equal part rye/bourbon, Benedictine and Sweet Vermouth with a couple dashes of Peychauds. But most others add a small part Absinthe or Substitute like Herbsaint or other Pastis liquor.

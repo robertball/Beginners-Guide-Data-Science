@@ -1,0 +1,37 @@
+Recipe number:
+235133.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-20T21:17:01.183
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I used a garlic herb focaccia and spinach in place of arugula b/c  we're not big on arugula. Enjoyed the crispness of the pepperoni. Great flavors and a really great sandwich~YUM!!!!! Thanks for sharing. :)

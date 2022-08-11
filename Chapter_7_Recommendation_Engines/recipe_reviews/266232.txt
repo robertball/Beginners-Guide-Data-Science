@@ -1,0 +1,107 @@
+Recipe number:
+266232.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-08T21:21:04.933
+helpfulCount:
+0
+userID:
+11864282
+Display Name:
+Nicholio
+isPro:
+False
+followersCount:
+103
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+373
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2269002.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this twice, once with Giovanni Rana refrigerated pesto and once with my own homemade pesto. Delicious both ways!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-12T16:09:14.467
+helpfulCount:
+0
+userID:
+6671930
+Display Name:
+kitchen experiments
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/749451.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this last night it was very good! Good summer time salad. I did make my own pesto  and left out the lemon zest  didn't have. My husband said I could make it anytime for him.
+Review:
+Rating:
+3
+dateLastModified:
+2018-08-26T14:41:30.693
+helpfulCount:
+0
+userID:
+15993424
+Display Name:
+Loretta Libens
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2390978.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with roasted  frozen corn, for the convenience.   It was a very easy recipe. I can't say this was an OMG recipe, but it was okay.  Next time I make  it I will use my own pesto. I use store bought this first try.  it was something different for me to try.

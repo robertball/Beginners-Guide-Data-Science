@@ -1,0 +1,112 @@
+Recipe number:
+262681.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-31T15:21:14.3
+helpfulCount:
+0
+userID:
+6009844
+Display Name:
+Carol Marrazzo
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+201
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1577564.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This tasty Healthy dish can be served for Breakfast, Lunch or Dinner.
+Very Filling, creamy texture and the flavor is over the top. The only addition I made was sprinkling a bit of Everything bagel seasoning over the top before digging in.  ENJOY!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-26T13:22:45.653
+helpfulCount:
+0
+userID:
+9246227
+Display Name:
+manella
+isPro:
+False
+followersCount:
+168
+followingCount:
+0
+madeRecipesCount:
+343
+favoritesCount:
+1296
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6603558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great breakfast, I used two egg whites and one whole egg.
+I find the whole egg makes it easier to  flip the omlette.
+I used coconut oil rather then olive oil. I also added a bit each of bell peppers and zucchini, they needed using up and this was a great way to use them. 
+Delicious way to start your day.
+Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-12T23:28:48.53
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These flavors all worked together well. I really liked the basil with the avocado. I have free range chickens and felt bad about discarding their gorgeous golden yolks. Next time I'll just use the whole egg.

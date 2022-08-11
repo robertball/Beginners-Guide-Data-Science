@@ -1,0 +1,148 @@
+Recipe number:
+230120.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-14T20:27:07.953
+helpfulCount:
+2
+userID:
+4462283
+Display Name:
+What's for dinner, mom?
+isPro:
+False
+followersCount:
+11593
+followingCount:
+0
+madeRecipesCount:
+555
+favoritesCount:
+1378
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3274570.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My review is for the glaze alone as I did not make the dressing.  I followed the ingredients exactly and used home made cranberry sauce.  It was very tasty but did lack a bit of heat I was looking for.  Will be making this again as I overlooked the orange zest and missed the *hint* of orange it would have added. I will also add some crushed red pepper to up the heat factor. I served over rice with fresh steamed broccoli.  Whole family enjoyed it.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-01T18:41:13.24
+helpfulCount:
+0
+userID:
+21168841
+Display Name:
+JonTheLeprechaun
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe almost exactly. A few minor alterations:
+
+I didn't get any plum wine. I just used a cheap sherry instead. Also I used fresh Thai red chillies because I couldn't get any dried ones. 
+Otherwise I used exactly what the recipe called for, it turned out great! 
+When basting with oil, I reduced the frequency to every 30-45mins. (Keep the glazing time to every 15mins with the sauce)
+
+Had this for thanksgiving and the whole family loved it. Don't let it scare you away, great change from a normal turkey.
+Review:
+Rating:
+3
+dateLastModified:
+2014-01-26T20:43:40.393
+helpfulCount:
+0
+userID:
+886179
+Display Name:
+BOOKIE 
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+554
+favoritesCount:
+6787
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/190.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Okay, so this girl made this recipe (without the dressing) with a whole chicken.  I rapid roasted (450 1/2hr, then 400 1 1/2hrs) then reduced to 350 & basted with sauce. I just put olive oil on it at first & didn't do anything else, including the marinade part or even the cooking bag.  Since it was a chicken, not a turkey, I halved the recipe.  I forgot the sugar, but it wasn't in need of it.  I subbed moscato for the plum wine.  (A great suggestion from Manella was to sub plum jam & apple juice, which I didn't have.)  I didn't get to taste this "fresh," but leftovers were pretty good.  The sauce could definitely be spicier, but that's easily fixed.  I subbed half t ground ginger for fresh just because I didn't want to "deal with" fresh.  :o  :D  'Had to make another half recipe sauce the next day.  'Didn't have the cranberry sauce & didn't blend it, just thickened.  Added 1/4c more wine & 1T sugar to replace the sauce.  Not "wow," but good.
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-22T05:26:38.49
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Considering I marinated the turkey for 24 hours, including rubbing it under the skin, very little of the flavor actually got into the meat.  While we enjoyed this well enough it didn't really remind of General Tso's as I know it.  I didn't make the stuffing.

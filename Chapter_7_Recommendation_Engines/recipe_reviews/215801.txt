@@ -1,0 +1,72 @@
+Recipe number:
+215801.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-10-04T05:45:50.397
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a good soup, but we found there was just too many flavours going on. As far as nutrition is concerned it really can't be beat but it's just busy tasting. I'll leave out the rice, mushrooms, and the pear next time and see how that goes. Thank you for the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2013-06-20T20:31:51.257
+helpfulCount:
+0
+userID:
+5453445
+Display Name:
+Vegetathalas
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+82
+favoritesCount:
+715
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just all right for us.

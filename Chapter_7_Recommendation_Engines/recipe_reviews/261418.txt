@@ -1,0 +1,72 @@
+Recipe number:
+261418.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-09T19:16:12.763
+helpfulCount:
+0
+userID:
+20676378
+Display Name:
+Dee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love it.  I use  either frozen or canned corn though.  And I  add canned mushrooms.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-30T14:15:07.35
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2831
+favoritesCount:
+1833
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum! This is wonderful. I used ingredients and followed method as written. I doubled it and it was enough for two adults. Thank you for the recipe.

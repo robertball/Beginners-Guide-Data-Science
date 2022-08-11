@@ -1,0 +1,37 @@
+Recipe number:
+231032.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-17T20:49:07.463
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+2.17.18  I had no fusili pasta on hand, so I used fiori.  We don’t like canned mushrooms, so I substituted some sauteed sliced baby bellas, otherwise, followed the recipe.  There’s a nice contrast between the peppery arugula and the nutty gruyere, and the fresh dill adds  yet another layer of interesting flavor.  Liked it, would make again.

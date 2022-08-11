@@ -1,0 +1,37 @@
+Recipe number:
+247061.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-26T02:04:15.563
+helpfulCount:
+0
+userID:
+11432655
+Display Name:
+Amy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was so yummy! I don’t like cake, so this has become my go to birthday cake. It’s perfect as is, but so easy to modify. Thank you for the idea! Easy peasy!

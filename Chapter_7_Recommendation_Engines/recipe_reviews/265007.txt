@@ -1,0 +1,72 @@
+Recipe number:
+265007.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-01T21:41:13.797
+helpfulCount:
+1
+userID:
+3805231
+Display Name:
+nancy c
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+166
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used broccoli and cauliflower......delish
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-09T16:15:58.573
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I felt this was more of a quiche than a gratin but it turned out pretty good. I thought it could use some kick so next time I'd add some cayenne pepper.

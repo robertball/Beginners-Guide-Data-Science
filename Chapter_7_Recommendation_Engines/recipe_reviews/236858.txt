@@ -1,0 +1,37 @@
+Recipe number:
+236858.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-03-13T14:10:58.817
+helpfulCount:
+3
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe has promise but it should be 'lemon juice to taste'. The juice of a whole lemon was too over powering. Next time I'll start with a half of a lemon. I don't think it's necessary to cook the avocado since the lemon juice will keep it from oxidizing.

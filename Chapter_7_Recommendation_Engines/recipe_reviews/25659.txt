@@ -1,0 +1,184 @@
+Recipe number:
+25659.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-05-12T11:15:12.67
+helpfulCount:
+3
+userID:
+414952
+Display Name:
+DEBLEH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simply the best soup I've ever made!  Every one I've served it to has raved. Thank you!
+Review:
+Rating:
+2
+dateLastModified:
+2006-02-16T15:52:07.437
+helpfulCount:
+2
+userID:
+1541636
+Display Name:
+dollymama
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was so excited by the prospect of this soup.  Kind of a subtle French Onion with the wonderful Gruyere cheese incorporated into the broth.
+
+I followed the directions as they appear, but you'll notice there is no time line between once you've added the cheese and let it melt~~ to how quickly you serve it!!  My timing was obviously OFF because I ended up with an un-workable glop of cheese.  I wonder if adding a bit of corn starch to the shredded cheese (similar to fondue) before adding to the broth would help keep the consistency smooth.
+
+As is, this is a disappointing mess.  I may try it one more time, w/ the addition of corn starch~~ and really serve Immediately!
+Review:
+Rating:
+2
+dateLastModified:
+2017-04-18T20:23:36.297
+helpfulCount:
+0
+userID:
+437748
+Display Name:
+BLUSHADOW
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+520
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/135245.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite disappointed in this soup. Very bland. 
+I always follow a recipe to the letter the first time I make it, but I did know what would happen to the cheese so I added just a bit of potato starch to the cheese. I cooked the onions as directed for one hour and they were not tender so I cooked them for another hour.  Still ended up with some undercooked onions here and there. I added the cheese a bit at a time and stirred with a fork to break it up and then ended topping it off and putting it under the broiler for just a short time to brown it off. 
+My husband was expecting it to taste like the French onion soup I usually make and even tho he is ok with less intense flavors than I am he thought it was pretty tasteless. 
+He has always said my French onion soup is one of his all time favorites so don't mess with success. Toss this recipe in the trash.  I agree. I won't be making it again.
+Review:
+Rating:
+4
+dateLastModified:
+2005-01-09T16:22:42.263
+helpfulCount:
+0
+userID:
+430015
+Display Name:
+Jennifer Fisher
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+171
+favoritesCount:
+688
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4298074.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like this recipe but it wasn't what I wanted. I guess I'm looking for a 'cream of onion soup with cheese'. But this recipe had a good flavor and would probably make again.
+Review:
+Rating:
+5
+dateLastModified:
+2004-01-20T16:15:30.53
+helpfulCount:
+0
+userID:
+184033
+Display Name:
+lmobrien
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/196099.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Follewed it exactly.  It turned out fantastic!

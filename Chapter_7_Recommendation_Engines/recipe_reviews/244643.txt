@@ -1,0 +1,37 @@
+Recipe number:
+244643.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-26T21:02:49.557
+helpfulCount:
+1
+userID:
+7171806
+Display Name:
+Poonibaba
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+169
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When I decided to make this, all I had was a box of chocolate cake mix.  I adjusted the servings until it pretty well matched the size of my cake mix package.  This adjusted the amount of egg and oil portion of the recipe.  I used M&M's because I had those on hand and they were less expensive than chocolate chips.  Baked for 10 minutes and they all came out great.  I'm sure I will make these cookies again.  I may try and use a carrot or pumpkin spiced cake mix just to see how the different mixes work out.

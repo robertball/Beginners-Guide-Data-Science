@@ -1,0 +1,77 @@
+Recipe number:
+119032.txt
+Review:
+Rating:
+5
+dateLastModified:
+12/26/2008
+helpfulCount:
+4
+userID:
+3400969
+Display Name:
+Christina
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+WOW!
+Review:
+Rating:
+5
+dateLastModified:
+08/04/2010
+helpfulCount:
+3
+userID:
+christina
+Display Name:
+Christina
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8555880.jpg
+text:
+YUM, we really enjoyed this dip! I did reduce the amount of cumin due to personal preference, and I didn't have any red pepper, so I just omitted them and topped it with some extra cheddar. This had such a wonderful flavor, and was great served with both crackers and Frito Scoops. I will definately be making this again! Thanks for sharing. :)
+Review:
+Rating:
+3
+dateLastModified:
+09/28/2009
+helpfulCount:
+2
+userID:
+256531
+Display Name:
+Cynthia
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Just ok not what I was looking for
+Review:
+Rating:
+4
+dateLastModified:
+09/02/2011
+helpfulCount:
+2
+userID:
+7591179
+Display Name:
+Sue
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Delicious, reminds me of tacos. Looking to reduce the calories and fat though.
+Review:
+Rating:
+5
+dateLastModified:
+02/13/2008
+helpfulCount:
+1
+userID:
+2100422
+Display Name:
+Traci
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was awesome!  Everyone loved it!

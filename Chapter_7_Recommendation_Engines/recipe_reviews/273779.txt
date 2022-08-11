@@ -1,0 +1,37 @@
+Recipe number:
+273779.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-02T23:29:46.573
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the ease of being able to throw this dressing together. Even for a dressing, I do suggest using a 1/4 cup of water instead of the 1/2 cup, as suggested in the notes. That way it is closer to the consistency of ranch dressing. Overall, good recipe and very tasty.

@@ -1,0 +1,37 @@
+Recipe number:
+278108.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-13T23:06:00.347
+helpfulCount:
+0
+userID:
+5631892
+Display Name:
+mimimom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+216
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed this recipe EXACTLY except our venison was in 1lb roasts, so I used 2!   It was very good, very tender.  Three hours from start to finish, as stated.

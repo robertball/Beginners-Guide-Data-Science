@@ -1,0 +1,37 @@
+Recipe number:
+266006.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-26T18:06:04.877
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+432
+favoritesCount:
+912
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this minus tofu because i'm avoiding soy. The peanut sauce was good but if you like spicy, I would increase the amount of red pepper flakes. The noodles were sesame heavy and it overwhelmed the noodles a bit, in my opinion. I would skip adding the sesame oil to the noodles in the future.

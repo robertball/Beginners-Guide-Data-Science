@@ -1,0 +1,37 @@
+Recipe number:
+244355.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-06T23:42:11.56
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2276
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great idea and the flavor was good but you'll need to make some adjustments. By just cutting the core out, I could see that I had way more filling than would fit in the hole. So, I carved more out but was still only able to get half of it in there and then there was no room for butter. You'll either need to cut such a big hole that you waste a lot of the cabbage or either just scale the filling in half. Cook time was spot on.

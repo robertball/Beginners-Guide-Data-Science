@@ -1,0 +1,72 @@
+Recipe number:
+222626.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-10-27T19:14:43.213
+helpfulCount:
+3
+userID:
+879127
+Display Name:
+Rachel Gearhart
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+454
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6104519.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't want to open a whole can of evaporated milk, so I used sour cream before and it went well.  I also added some lime juice!
+Review:
+Rating:
+1
+dateLastModified:
+2013-04-07T08:08:02.743
+helpfulCount:
+0
+userID:
+11213180
+Display Name:
+carlthefrog
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not very good... Very bland, not enough curry to be a curry, not enough anything else to be anything else. As well, the runny sauce was definitely missing texture, blending everything made it worse.

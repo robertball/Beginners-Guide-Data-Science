@@ -1,0 +1,37 @@
+Recipe number:
+276804.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-09T02:20:55.907
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sauce was excellent. The chicken was very dry and I only cooked the breasts for 3 hours as opposed to 6 hours as stated in the recipe.  I went against my better judgement and used boneless, skinless chicken breast as the recipe called for. I wanted to use bone-in chicken but in order to fairly rate this recipe I followed as written.

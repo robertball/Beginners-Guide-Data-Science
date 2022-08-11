@@ -1,0 +1,72 @@
+Recipe number:
+233750.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-26T08:44:34.983
+helpfulCount:
+1
+userID:
+7314220
+Display Name:
+Jeane Anderson Hepfler
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+423
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2310671.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy enough for the grandkids to do as a surprise breakfast treat. We used home made strawberry jam in place of fresh strawberries. It worked well.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-30T11:30:25.013
+helpfulCount:
+0
+userID:
+3898958
+Display Name:
+LadyCash
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6599057.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made with whipped cream cheese. I put 2 TBSP on each croissant with half a strawberry. It was a delightful low calorie breakfast treat. It is only 154 calories each.

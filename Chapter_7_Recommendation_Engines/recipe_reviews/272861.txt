@@ -1,0 +1,37 @@
+Recipe number:
+272861.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-01T14:52:25.16
+helpfulCount:
+1
+userID:
+26215113
+Display Name:
+Samantha T.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. I increased the spices a bit and instead of fresh chopped tomatoes I used a 14oz can of diced tomatoes in the tomato juice. I also used boneless skinless chicken breasts instead as well, and topped with a little bit of cheese. Turned out delicious and moist, not dry. Squeezing lemon juice on top made a big difference and was the perfect ending touch

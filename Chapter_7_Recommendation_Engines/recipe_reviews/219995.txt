@@ -1,0 +1,107 @@
+Recipe number:
+219995.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-05-26T08:40:33.673
+helpfulCount:
+4
+userID:
+3843007
+Display Name:
+Marge Gillis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love pomegrantes and this is a very light and tasty salad.  It is a big hit with my family.  The dressing spice of the dressing offsets the sweetness of the fruit nicely.
+Review:
+Rating:
+3
+dateLastModified:
+2016-10-10T20:14:24.54
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12229
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a beautiful salad.  I agree with another reviewer that sliced red onion would be awesome.  The dressing just didn't quite seem right.  Very thin and doesn't hug the greens,  the tastes did seem to blend well.
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-12T19:25:14.003
+helpfulCount:
+0
+userID:
+7609253
+Display Name:
+Pat Torlen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+449
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great combination of raw ingredients with this dressing. I added some thinly sliced red onion and sprouts for a little more flavour.

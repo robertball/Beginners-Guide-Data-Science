@@ -1,0 +1,72 @@
+Recipe number:
+263061.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-23T02:10:26.153
+helpfulCount:
+0
+userID:
+18208655
+Display Name:
+suziek
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Based on the other review, I cut the veggies smaller and roasted them first for a bit before I added the chicken. I also marinated the chicken with the Harissa (Trader Joe's has the paste) for about an hour but probably needed longer. The Parsely/Orange mixture is a must and finishes this dish with a nice flavor. Overall, it was a nice subtle taste - I probably would've added a  it more salt as I would've preferred a more flavorful and more Harissa to the chicken.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-30T00:01:57.24
+helpfulCount:
+0
+userID:
+17488925
+Display Name:
+Candy Walter
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good,but carrots were still kind of raw, even after an hour of baking

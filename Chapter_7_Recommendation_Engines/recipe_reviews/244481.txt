@@ -1,0 +1,72 @@
+Recipe number:
+244481.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-11T17:50:35.317
+helpfulCount:
+2
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't use the chicken stock, just water. Mint was a great addition to this hearty pilaf! This is a very tasty dish!
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-31T10:32:10.007
+helpfulCount:
+0
+userID:
+9545043
+Display Name:
+Anne-Marie Proske Berk
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+203
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3929641.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this without the mint or celery (I didn't have either on hand) and I eliminated the salt as well . It was absolutely wonderful and I will definitely make it again. Such a nice change from the usual rice//potatoes/noodle side dish trifecta.

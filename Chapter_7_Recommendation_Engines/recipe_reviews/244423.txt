@@ -1,0 +1,37 @@
+Recipe number:
+244423.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-01T03:28:24.21
+helpfulCount:
+1
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good. Next time I would mix the pesto with the ricotta cheese and Parmesan to make one spread and then put on the Proscuitto. I would also use more pesto!

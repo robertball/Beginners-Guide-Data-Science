@@ -1,0 +1,92 @@
+Recipe number:
+218761.txt
+Review:
+Rating:
+4
+dateLastModified:
+10/23/2011
+helpfulCount:
+7
+userID:
+7718931
+Display Name:
+DeLatinaMama
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These were really good and a hit with my children. Essentially no mess and tastier than I thought!
+Review:
+Rating:
+5
+dateLastModified:
+01/27/2012
+helpfulCount:
+4
+userID:
+8707145
+Display Name:
+The Thaws
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7863815.jpg
+text:
+This was so delicious and easy to make. I used hickory bbq sauce so it added a bit of sweetness to it. I used the dinner roles, but I couldn't make them like a triangle, but it was fun wrapping it up. Instead of using sesame seeds, I added TexMex seasoning and it had a little kick to it. Awesome recipe!
+Review:
+Rating:
+5
+dateLastModified:
+01/19/2012
+helpfulCount:
+3
+userID:
+7629523
+Display Name:
+sweetpea
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Quick and easy recipe, and very good!  We will definitely be having this again soon!
+Review:
+Rating:
+4
+dateLastModified:
+08/07/2012
+helpfulCount:
+1
+userID:
+8294873
+Display Name:
+Melissa Manalo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1253783.jpg
+text:
+awesome and easy, but a bit messy
+Review:
+Rating:
+5
+dateLastModified:
+07/16/2012
+helpfulCount:
+1
+userID:
+8273300
+Display Name:
+nicki2581
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+LOVE!  Super easy!
+Review:
+Rating:
+2
+dateLastModified:
+08/26/2012
+helpfulCount:
+0
+userID:
+9428953
+Display Name:
+IndianaGirl
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Although, super simple...I would not make these again. Not a hit at my house.

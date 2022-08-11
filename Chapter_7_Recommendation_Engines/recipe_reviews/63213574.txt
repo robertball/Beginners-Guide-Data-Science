@@ -1,0 +1,37 @@
+Recipe number:
+63213574.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-25T14:58:43.693
+helpfulCount:
+0
+userID:
+1060346
+Display Name:
+Thisni Caza
+isPro:
+False
+followersCount:
+30
+followingCount:
+0
+madeRecipesCount:
+412
+favoritesCount:
+892
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/843945.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this. I thot the dip would be runny, based on the recipe ingredients, but no. Perfect consistency, and doesn't get thick and gloppy. When I'm feeling really lazy, I just use the chili, milk, cheese...then sprinkle chili powder to taste. Yummy.

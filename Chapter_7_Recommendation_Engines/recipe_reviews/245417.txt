@@ -1,0 +1,108 @@
+Recipe number:
+245417.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-29T00:06:33.337
+helpfulCount:
+2
+userID:
+4632561
+Display Name:
+Jennifer Korpak Bechtel
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+481
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1301605.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow...these turned out delicious and with an excellent texture! I made the recipe with 2 drained and rinsed cans of garbanzo beans. (Turns out the equivalent should have been 4 cans!) Because of my accidental omission, the patties were a bit sticky to work with, but then they cooked up beautifully. We ate with tomato slices and avocado slices. If you like it spicy, add a little bit of hot sauce after, or cayenne (sparingly) while mixing the ingredients together.  Also great with a dollop of plain Greek yogurt and a squeeze of lemon juice. Delighted and can't wait to try again!
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-28T11:45:27.52
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow! These do have amazing flavor even though I used less garlic. The result is a lovely patty that is so flaky and crispy on the outside, it melts in your mouth. The inside is moist and tender but holds up to a knife and fork. It goes very well with guacamole. Thank you for this fantastic recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-11T14:53:17.557
+helpfulCount:
+0
+userID:
+3786136
+Display Name:
+Ary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+209
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! Very Easy and flavorful.  
+Just a little oil spray in a hot pan.

@@ -1,0 +1,72 @@
+Recipe number:
+9367.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-12-02T14:10:40.54
+helpfulCount:
+27
+userID:
+2342266
+Display Name:
+Jenny P.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/52004.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies are really great! Will make them again!
+Review:
+Rating:
+5
+dateLastModified:
+2010-12-24T09:12:28.387
+helpfulCount:
+20
+userID:
+6167123
+Display Name:
+marle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I never thought I'd see this old time favorite. A good friend would make them ever year and called them Fruit Cake Cookies. None of us had the recipe or over the years misplaced thrown out. Fifty years ago we bite into those wonderful tasting cookies. I made your recipe and all I can type is, Thank-You for the memories.

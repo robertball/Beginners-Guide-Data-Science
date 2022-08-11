@@ -1,0 +1,37 @@
+Recipe number:
+223084.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-10-20T19:21:44.627
+helpfulCount:
+0
+userID:
+11101523
+Display Name:
+Boomama40
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+239
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry, I didn't have scapes.  I had to google what they were.   I sprinkled a little garlic powder in the marinade.  This was great!  My whole family loved it!

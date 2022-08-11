@@ -1,0 +1,107 @@
+Recipe number:
+240265.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-16T20:08:49.16
+helpfulCount:
+6
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+522
+favoritesCount:
+2137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as written and couldn't taste the lemon, parsley or mint, so I ended up using about 1 tbsp of each. I also added more garlic.  With these amounts, the chickpeas are very flavorful.  For those who don't like spicy, I suggest you cut back on the red pepper flakes. I liked the bite, so I thought 1 tsp was perfect. A nice change of pace and a very healthy side dish.
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-16T19:06:21.743
+helpfulCount:
+2
+userID:
+17031092
+Display Name:
+Tara Ds
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2972954.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, so easy, great flavour, super filling.  The fresh mint is definitely essential so don't skip it.  Not too much though!  I added more onion and garlic than instructed.
+Review:
+Rating:
+2
+dateLastModified:
+2017-03-06T19:19:03.2
+helpfulCount:
+0
+userID:
+21547062
+Display Name:
+Alexander Gorjan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was not to my taste; I would reduce the lemon juice by about half, and double or triple the amount of parsley used.

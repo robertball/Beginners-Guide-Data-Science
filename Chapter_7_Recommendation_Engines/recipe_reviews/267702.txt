@@ -1,0 +1,108 @@
+Recipe number:
+267702.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-28T00:15:04.967
+helpfulCount:
+1
+userID:
+25359450
+Display Name:
+Lindsey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added some cornmeal to the bottom of the dutch oven because I was concerned about sticking. It came out beautifully! It’s definitely a type of bread to be eaten with some yummy topping ( as was expected, because of reduced salt). I think I may come back to this recipe to see if I could add some herbs to see how it goes. Good recipe, thanks! :)
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-04T09:38:57.717
+helpfulCount:
+0
+userID:
+25372774
+Display Name:
+Karen Jo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I baked it on baking paper;  it was "resting" and rising those minutes while the pan was heating, it was on the paper, so it was easy to transfer it to the Dutch oven.
+I loved it, and will definitely make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-17T03:42:45.127
+helpfulCount:
+0
+userID:
+9704075
+Display Name:
+Charlie Cam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+409
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The bread is a bit dense but toasts like a dream and has a mild flavour.

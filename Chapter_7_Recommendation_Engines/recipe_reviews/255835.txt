@@ -1,0 +1,37 @@
+Recipe number:
+255835.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-05-11T22:27:33.297
+helpfulCount:
+0
+userID:
+21778252
+Display Name:
+Kathleen Grundstein
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't know if I just did something wrong, but I tried to follow the recipe very closely and they came out as just flavorless blobs of egg whites. Wouldn't make them again.

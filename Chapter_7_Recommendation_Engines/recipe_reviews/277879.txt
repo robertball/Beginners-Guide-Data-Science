@@ -1,0 +1,37 @@
+Recipe number:
+277879.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-20T02:13:13.587
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+522
+favoritesCount:
+2137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty and hard not to eat too much! Spice lovers will really enjoy this! I just wish there was more variety in the mix, but that is easily customizable. I did appreciate  there not being any peanuts since that is always my least favorite part of chex mix! I used pretzel sticks instead of mini pretzels because that's what I had on hand. I also baked the mix at 230F instead of 250F because my oven tends to run a little hot. I also only baked it for about 50 minutes instead of 1h15 and the mix was perfectly browned. Next time I might cut back a bit on the seasoning salt, since it was a little salty.

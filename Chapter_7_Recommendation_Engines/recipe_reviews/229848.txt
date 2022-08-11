@@ -1,0 +1,37 @@
+Recipe number:
+229848.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-29T20:32:26.313
+helpfulCount:
+6
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were tasty! I'm quite the pickled egg addict (perfect snack!) and have made dozens of recipes. This is a good all-around basic recipe that everyone will like. The ginger adds just a subtle flavor. I added 2 quarter-inch slices and it was perfect.

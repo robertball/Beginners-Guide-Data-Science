@@ -1,0 +1,37 @@
+Recipe number:
+247267.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-16T04:17:23.353
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While my first batch out tasted good, they were soggy and not crisp like they  should have been. I tried it again but this time after soaking the potatoes for 30 minutes I drained off the water and soaked them again. I also cut them a little different  the 2nd time so they were thinner and flatter but I'm not sure if that had anything  to do with the better results or not. I fell in love with truffle fries on my visit to NYC a few years ago and these were spot on to the ones I had there.

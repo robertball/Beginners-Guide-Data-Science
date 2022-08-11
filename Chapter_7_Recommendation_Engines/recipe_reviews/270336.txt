@@ -1,0 +1,37 @@
+Recipe number:
+270336.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-20T14:40:39.883
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+968
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is such a clever and delicious recipe. This hits the spot after dinner or a big lunch. Five slices of candied ginger weighed 43 grams. Don’t throw away the ginger pieces after you’ve strained them. Add them to your smoothies or cookies or cakes.

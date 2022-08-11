@@ -1,0 +1,107 @@
+Recipe number:
+244745.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-05-13T00:58:16.37
+helpfulCount:
+0
+userID:
+2673989
+Display Name:
+Daria Kaminskyj
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1948018.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good recipe! The butter mixed in well (when melted first), and to make it a little thinner I added some sour cream, since I wanted to coat the wings with the sauce.
+Review:
+Rating:
+1
+dateLastModified:
+2018-09-24T00:04:24.493
+helpfulCount:
+0
+userID:
+24271177
+Display Name:
+Amanda Langdon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5785068.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My fiance LOVES Quaker Steak & Lube's Parm-Pepper wings. When the only Colorado location closed, we tried to make our own. The Ranch base of this was disgusting, and the Ranch separated from the butter and would not blend, no matter what I tried. It was inedible: we weren't going for a ranch flavor, it was greasy, and there was no distinguishable Parmesan flavor at all. BEWARE!
+Review:
+Rating:
+5
+dateLastModified:
+2015-09-11T15:23:13.667
+helpfulCount:
+0
+userID:
+4925491
+Display Name:
+Robin Andres
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2525624.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added some spices because I'm using it as a sauce for my wings after I fry them. I love it though, could definitely be dip for anything as well.

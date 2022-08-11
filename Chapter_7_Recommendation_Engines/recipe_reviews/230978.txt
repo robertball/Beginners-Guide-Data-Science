@@ -1,0 +1,72 @@
+Recipe number:
+230978.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-08-13T03:42:33.397
+helpfulCount:
+0
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+303
+followingCount:
+0
+madeRecipesCount:
+252
+favoritesCount:
+1639
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7778502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wanted to LOVE this cake because I love working with almond paste. But, I think it needed to cook much longer. I was wary about putting fruit right into the batter...in the middle of the batter...and sure enough, the batter was not strong enough to hold the fruit in the middle. It was a good try, though!
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-18T18:09:31.517
+helpfulCount:
+0
+userID:
+2601468
+Display Name:
+Cathy S.
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2669016.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Taste great.  It's more of a coffee cake which I will enjoy at breakfast.  I'm not sure why the middle of my cake fell as it cooled.

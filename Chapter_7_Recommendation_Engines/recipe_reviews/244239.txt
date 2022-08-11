@@ -1,0 +1,72 @@
+Recipe number:
+244239.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-11T22:28:54.393
+helpfulCount:
+0
+userID:
+20887455
+Display Name:
+Rebecca Duckworth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2763
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5510761.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was almost like the cinnamon toast my mother made when I was a child umpteen years ago. I think my bread was what made it not quite what I remember. Also it was not quite sweet enough so next time I'll add a little more sugar.
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-20T11:55:22.473
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+968
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes just like the cinnamon/sugar toast I used to eat when I was a kid. I didn't note any difference in taste between coconut sugar and regular. Thanks for the recipe teenage chef! :-)

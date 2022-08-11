@@ -1,0 +1,37 @@
+Recipe number:
+245438.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-09T17:56:17.61
+helpfulCount:
+16
+userID:
+1172252
+Display Name:
+MARIJANABROWN
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made 1/2 of the recipe, as it only lasts up to 3 days, and I'm not sure I'll use more than 1/2. It could even use more water, but I can always add that afterwards, as well as vanilla or sweetener. This is a great 'base' recipe!

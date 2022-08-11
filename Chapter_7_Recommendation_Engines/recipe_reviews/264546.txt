@@ -1,0 +1,37 @@
+Recipe number:
+264546.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-20T15:34:30.587
+helpfulCount:
+0
+userID:
+2169872
+Display Name:
+Trish B.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Christian Bordres

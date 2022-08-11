@@ -1,0 +1,142 @@
+Recipe number:
+256543.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-18T17:44:50.617
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were great! The only problem I had is that it was hard to fill the potato while in its raw state. There isn't a lot of give. I ended up adding more butter and bacon once they were cooked. Delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-19T22:29:51.647
+helpfulCount:
+0
+userID:
+15830853
+Display Name:
+Jeri Huizenga
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6776001.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was very good and easy
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-18T21:15:56.963
+helpfulCount:
+0
+userID:
+5626860
+Display Name:
+Desiree Dube
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1327901.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, everyone loved it! I used olive oil instead of butter, trying to make a little more heart healthy.
+Review:
+Rating:
+3
+dateLastModified:
+2018-10-29T21:19:21.173
+helpfulCount:
+0
+userID:
+20615765
+Display Name:
+Steve Wickless
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5596806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will jazz it up next time

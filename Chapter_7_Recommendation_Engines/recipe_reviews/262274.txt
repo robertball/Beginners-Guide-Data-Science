@@ -1,0 +1,107 @@
+Recipe number:
+262274.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-24T00:38:07.18
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+nice easy dinner. will make again.  I served with brown rice.. dont leave out the almonds. They add a very nice crunch
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-07T22:47:13.483
+helpfulCount:
+0
+userID:
+21548438
+Display Name:
+Janice Nagle
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+175
+favoritesCount:
+2250
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fresh and complete ingredients would be best  but I was limited by my pantry . I followed the directions, but I had to make substitutions . I has no green chilies.  This changed the taste significantly.  I used 1 teaspoon of mild chili powder instead. I also put a big pinch of sweet curry powder. I had no ginger root, so I used powdered ginger. No cardamom pods, so I used powdered cardamom.   I had no nuts to grind, so I didn't add any. I had all the other spices. I  used chicken tenders instead of thighs. The chicken turned out tender and juicy. This is a very forgiving recipe. It didn't taste like the korma we get at the Indian restaurant,  but it was still delicious.  My family voted 5 stars!
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-19T01:59:21.51
+helpfulCount:
+0
+userID:
+12372028
+Display Name:
+Lobiegirl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added broccoli and cilantro for the last few minutes.  Good spice combination.

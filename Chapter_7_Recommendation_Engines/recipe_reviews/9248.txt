@@ -1,0 +1,74 @@
+Recipe number:
+9248.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-03-17T13:21:25.247
+helpfulCount:
+41
+userID:
+29072
+Display Name:
+KIDSCAROL
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I already had this recipe from when I was a Brownie! 
+What I love is that it is so fast, so easy, and Kids can make it...no cooking!
+And I love the cream cheese taste. But be warned, this is more the texture and taste of stiff frosting rather than cooked fudge.
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-02T16:42:31.943
+helpfulCount:
+1
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2221
+favoritesCount:
+2566
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was surprisingly good for an easy, no bake fudge.  I’m way past the sprinkles stage so I added walnuts which I love in my fudge.   This recipe makes a small batch of fudge, just enough to satisfy your sweet tooth.

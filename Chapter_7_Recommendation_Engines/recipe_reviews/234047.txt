@@ -1,0 +1,72 @@
+Recipe number:
+234047.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-05T13:22:34.093
+helpfulCount:
+3
+userID:
+2301149
+Display Name:
+cheesemite
+isPro:
+False
+followersCount:
+96
+followingCount:
+0
+madeRecipesCount:
+161
+favoritesCount:
+441
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/70887.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have quite enough sugar for 1/2 the recipe, but went ahead anyway (with about 3/4 cup). I thought my dried Bing cherries were bland, but the little touch of vinegar added the tartness they needed. I made 11 tarts, muffin-tin size; they were plenty sweet, and really tasty.
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-07T08:35:50.11
+helpfulCount:
+1
+userID:
+8597026
+Display Name:
+Sandra G
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+93
+favoritesCount:
+1230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Far too much sugar. Too much cherries. They were nice.  I think it is the toffee that makes it.  May make it again.

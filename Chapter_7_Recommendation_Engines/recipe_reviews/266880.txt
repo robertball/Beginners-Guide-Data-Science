@@ -1,0 +1,37 @@
+Recipe number:
+266880.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-07T17:06:57.6
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+6009
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+11.7.18  What a tasty way to style up an ordinary Cinnamon-Raisin English Muffin for breakfast today.  So very simple to make, and absolutely delicious!

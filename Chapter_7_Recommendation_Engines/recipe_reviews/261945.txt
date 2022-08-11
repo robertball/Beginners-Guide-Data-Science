@@ -1,0 +1,74 @@
+Recipe number:
+261945.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-14T01:31:52.773
+helpfulCount:
+1
+userID:
+15350025
+Display Name:
+chefdekitchen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this recipe a few months ago while looking for meal prep ideas. 
+After reading some reviews on the blandness, I decided to add taco seasoning to the meat. I also added a can of mexican fiesta corn in addition to the beans and tomatoes. Just mix it all together in a large pot, I dont put it in the oven.
+Came out great and my husband requests this at least twice a month for his lunches. Send it with some tortillas.
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-06T16:05:29.617
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this was okay but it was a little on the bland side. I ended up adding some taco seasoning and that improved the flavor. I used the mexican flavored Rotel that is seasoned with lime and cilantro and was glad I did.  This recipe is super simple and filling but it needs more than just salt and pepper to get a taco flavor in my opinion.

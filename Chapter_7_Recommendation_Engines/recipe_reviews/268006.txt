@@ -1,0 +1,72 @@
+Recipe number:
+268006.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-23T00:59:21.12
+helpfulCount:
+3
+userID:
+4887714
+Display Name:
+Judy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were delicious!!!  I saw no reviews or stars on it and happy to be the first one since all three words of this recipe are my favorite!  I sub the white sugar for confectionares’ sugar at same quantity and came out perfect. I didn’t have molds to make “flower” cookies so I made them little balls at first.  Soon I discovered that cream cheese doesn’t expand and the cookies stayed balls.  So next batch I flattened out the “balls” and looked like cookies.  I did this recipe as prescribed and made 1” balls and got about 5 dozen.  I added green food coloring, too, since I am giving them for Christmas.  I planned to add sprinkles at the end, but dough too hard or well baked to allow for sprinkles.  Cookies taste like an actual lemon cheesecake!  Nom-nom-nom-nom?? delicious!!!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-09T22:58:15.337
+helpfulCount:
+0
+userID:
+24916501
+Display Name:
+Aiden Medley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6243131.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+ilove it, but who would keep cinnamon red hot candy from the 60's

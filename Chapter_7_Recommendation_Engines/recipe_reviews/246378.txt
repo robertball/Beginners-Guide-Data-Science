@@ -1,0 +1,37 @@
+Recipe number:
+246378.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-02-23T23:54:54.877
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a vanilla cake mix and chocolate ice cream. It turned out ok as far as looks but it tasted artificial and gummy. It was almost impossible to get a whole slice because it stuck to the serving platter. Sorry but I will not be making this again.

@@ -1,0 +1,72 @@
+Recipe number:
+228522.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-08T12:08:15.827
+helpfulCount:
+5
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1060
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It turned super thick for us super quick.  I over cooked mine so I thinned it out with a sweet vermouth.  Everyone loved this jam!
+Review:
+Rating:
+5
+dateLastModified:
+2013-08-13T17:27:19.96
+helpfulCount:
+5
+userID:
+3336073
+Display Name:
+TxHwy105
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4867503.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the best fig preserves I have every made.  The preserves have the flavor of the Jell-o, I made strawberry, blackberry, and raspberry. I only used 2 cups of sugar and be sure not to use sugar free Jell-O.

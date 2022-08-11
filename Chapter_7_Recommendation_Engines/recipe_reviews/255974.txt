@@ -1,0 +1,72 @@
+Recipe number:
+255974.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-04T17:10:28.907
+helpfulCount:
+0
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+370
+favoritesCount:
+1316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We enjoyed this very much! I think after I prep everything next time, I will make the Hollandaise and sausage first, that way I can focus on poaching the eggs and then the assembly of the dish.  That said the sauce was a little thin for me, next time around I will have some more cheese ready to thicken it up as well.  We really enjoyed the combination of flavors, thank you!
+Review:
+Rating:
+1
+dateLastModified:
+2017-01-16T00:01:46.64
+helpfulCount:
+0
+userID:
+21293250
+Display Name:
+Danielle Conte
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7372276.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+your missing MILK in this recipe!!!!

@@ -1,0 +1,37 @@
+Recipe number:
+245471.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-02-21T02:36:24.193
+helpfulCount:
+0
+userID:
+4745280
+Display Name:
+BRG
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+841
+favoritesCount:
+1546
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't crazy about this. Just didn't seem worth the time and effort. The filling also got kind of dry.

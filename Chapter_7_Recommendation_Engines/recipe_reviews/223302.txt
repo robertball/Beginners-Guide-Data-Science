@@ -1,0 +1,107 @@
+Recipe number:
+223302.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-07-15T07:20:14.723
+helpfulCount:
+8
+userID:
+2782685
+Display Name:
+Jennifer Palazzo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+165
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7659779.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious!  I followed the recipe exactly and I'm glad I did.
+Review:
+Rating:
+4
+dateLastModified:
+2013-06-21T07:50:32.127
+helpfulCount:
+4
+userID:
+4679651
+Display Name:
+Life Tastes Good
+isPro:
+False
+followersCount:
+259
+followingCount:
+0
+madeRecipesCount:
+223
+favoritesCount:
+476
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2789776.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly and enjoyed the sauce a lot. The grilled pineapple was just okay for us.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-23T15:19:09.327
+helpfulCount:
+0
+userID:
+9859557
+Display Name:
+Robin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+465
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+turned out great! everyone was asking how to make the butterscotch sauce

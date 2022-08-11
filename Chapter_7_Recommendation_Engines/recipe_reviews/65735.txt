@@ -1,0 +1,37 @@
+Recipe number:
+65735.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-02-24T18:37:35.363
+helpfulCount:
+2
+userID:
+795262
+Display Name:
+BROOKE
+isPro:
+False
+followersCount:
+113
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/50980.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a hit at my dinner party.  I added 1/4 lb dungeness crab and cooked it as recommended.  Delish.

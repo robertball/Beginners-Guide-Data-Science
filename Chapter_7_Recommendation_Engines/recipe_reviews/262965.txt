@@ -1,0 +1,37 @@
+Recipe number:
+262965.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-04-26T00:00:39.693
+helpfulCount:
+0
+userID:
+23104477
+Display Name:
+Mary Zink
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+208
+favoritesCount:
+1395
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4939587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good but not great.  There's not enough liquid and it's not very flavorful.

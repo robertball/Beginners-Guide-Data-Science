@@ -1,0 +1,72 @@
+Recipe number:
+213698.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-12-30T12:21:07.593
+helpfulCount:
+16
+userID:
+2162717
+Display Name:
+Rana42
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3056.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This wasn't bad but it's not the world's best in my opinion.  The best I ever made was a recipe I found in the December 2001 issue of Gourmet.  I took that one to a few parties and came home with an empty bowl.
+Review:
+Rating:
+5
+dateLastModified:
+2010-03-16T14:23:12.94
+helpfulCount:
+13
+userID:
+3728395
+Display Name:
+Liz Brock
+isPro:
+False
+followersCount:
+63
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2030810.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't typically like fruit in salad, salsa, and guacamole, but this was FANTASTIC! The sweet tartness of the pomegranate accompanies the avocado perfectly!

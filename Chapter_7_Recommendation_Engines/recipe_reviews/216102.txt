@@ -1,0 +1,37 @@
+Recipe number:
+216102.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-06-30T19:34:45.4
+helpfulCount:
+8
+userID:
+1657298
+Display Name:
+KaLola
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+347
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/493673.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good. The only problem I had was the turkey legs. It was really hard to cut off the bone and into cubes. So I cooked it bone first then cut it up. But it still took forever. I think I will try this with turkey breast next time and not hassle with the leg even though I prefer the dark turkey meat.

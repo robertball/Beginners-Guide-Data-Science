@@ -1,0 +1,37 @@
+Recipe number:
+257927.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-29T22:50:36.62
+helpfulCount:
+1
+userID:
+2175240
+Display Name:
+debbie eckstein
+isPro:
+False
+followersCount:
+168
+followingCount:
+0
+madeRecipesCount:
+158
+favoritesCount:
+1117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4505093.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were very tasty! i used chicken breast because it's what i had. i cut them into strips. i did miss a step though. the double coating. i dipped in egg mixture then in the crumbs and onto the baking rack. Perhaps if i hadn't of missed that step they would have come out crunchier.  I enjoyed these very much and will pay more attention to the instructions next time, cuz there will be a next time!

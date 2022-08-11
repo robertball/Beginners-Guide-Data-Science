@@ -1,0 +1,37 @@
+Recipe number:
+241843.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-11-27T16:07:34.49
+helpfulCount:
+1
+userID:
+2672992
+Display Name:
+Jane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4216803.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Since I moved to Rhode Island, I've learned to enjoy this chowder. It's not cream based, which can be good. I'm glad you added to use bacon and canned clams. Why do you use water instead of all clam juice? I think I would leave out the ketchup to make it more authentic.

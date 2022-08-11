@@ -1,0 +1,180 @@
+Recipe number:
+254251.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-13T01:51:28.183
+helpfulCount:
+5
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12224
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and honestly just great beans.  Nothing fancy, nothing fake, just great beans.  
+I did use oil to re-fry the beans as instructed and that was great but lard would even be more authentic and oh so, delicious.  
+I had both Oaxaca and Cotija cheese available for topping. 
+Note: when re frying, scoop out the beans without a lot of juice - you can add a bit more bean juice if needed but there will be a lot of extra bean juice in the pot.
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-17T20:24:13.507
+helpfulCount:
+2
+userID:
+5921446
+Display Name:
+Amy Curtis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+79
+favoritesCount:
+174
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and tastes just like beans from a Mexican restaurant. Kids love it too!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-28T22:20:53.92
+helpfulCount:
+1
+userID:
+24155414
+Display Name:
+Sharon Klemeks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5700264.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes I used dry beans and bacon instead of  salt pork.  I also used fresh garlic it was delish.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-15T08:38:47.11
+helpfulCount:
+1
+userID:
+20571100
+Display Name:
+Bram
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the first time I've made refried beans and they came out great. I cooked it on high in a crock pot for 4 hours and then used a food processor instead of mashing the beans. It needed a little more salt but these are way better than beans out of a can. I will definitely make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-31T21:38:30.94
+helpfulCount:
+0
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used bacon grease in place of the oil, added fine diced onion and jalapeno to the refry. Good beans.

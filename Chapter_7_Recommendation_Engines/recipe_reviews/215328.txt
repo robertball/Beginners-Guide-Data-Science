@@ -1,0 +1,37 @@
+Recipe number:
+215328.txt
+Review:
+Rating:
+2
+dateLastModified:
+2011-01-18T10:20:05.363
+helpfulCount:
+7
+userID:
+6372017
+Display Name:
+funkyfresh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was mediocre at best.

@@ -1,0 +1,72 @@
+Recipe number:
+258813.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-20T14:42:40.567
+helpfulCount:
+3
+userID:
+20738883
+Display Name:
+Scott Snell
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4137854.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I forgot to mention, I've been to various parts of Turkey several times. I've had many versions of Kofte. This recipe is spot on!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-28T22:55:44.503
+helpfulCount:
+0
+userID:
+21112877
+Display Name:
+McKenzie Rae Beals
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Incredible!

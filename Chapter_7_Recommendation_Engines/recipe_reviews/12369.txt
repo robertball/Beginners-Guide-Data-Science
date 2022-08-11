@@ -1,0 +1,37 @@
+Recipe number:
+12369.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-09-07T16:54:23.653
+helpfulCount:
+21
+userID:
+1689865
+Display Name:
+kado
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+516
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We LOVED this pie!  Prepared it yesterday for company and it disappeared.  My only comment is that it tasted more like a fudge pie than praline - even with the praline liquor.  But it was outstanding.  I highly recommend it to anyone that likes rich chocolate fudge with pecans!

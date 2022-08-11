@@ -1,0 +1,72 @@
+Recipe number:
+235063.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-14T19:02:47.78
+helpfulCount:
+3
+userID:
+10293172
+Display Name:
+Rob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+63
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tried this today. Came out pretty good. I will make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-14T17:31:26.153
+helpfulCount:
+2
+userID:
+2737217
+Display Name:
+Victor Parrish
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3232497.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great.  I made this on a whim.  I was looking for a different recipe and I saw this.  I used a Hershey Special Dark bar because I am cheep and it is half the price of Baker's chocolate.  It worked fine.  The "pound" cake that I bought was only 10 ounces (what's up with that?) so I cut things back a bit.  I think that I could easily have made two of the smaller cakes with this recipe.  It was very easy and it looked and tasted great.  Everyone enjoyed it.

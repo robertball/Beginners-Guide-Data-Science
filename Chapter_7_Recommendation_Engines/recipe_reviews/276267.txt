@@ -1,0 +1,37 @@
+Recipe number:
+276267.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-23T17:50:32.99
+helpfulCount:
+1
+userID:
+12453278
+Display Name:
+Sarah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+280
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Don't expect them to taste like donut shop ones. But they are pretty tasty! Love how they're baked not fried. Had to play with icing a bit, bake them longer, and only made 20 VS 24 according to recipe. But these aren't faults of the recipe. We dropped choc chips and cinnamon chips in some. Left a few plain and not iced. Kids had a blast making and decorating. Something different than muffins and cupcakes. Will make again!

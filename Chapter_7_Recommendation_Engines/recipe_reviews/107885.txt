@@ -1,0 +1,107 @@
+Recipe number:
+107885.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-19T17:55:23.303
+helpfulCount:
+13
+userID:
+7931134
+Display Name:
+Heather Fry
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7102925.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe. I did not add MSG and put dried kimchi pepper instead of the red pepper flakes and added some minced ginger as well.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-12T14:15:48.213
+helpfulCount:
+8
+userID:
+20789089
+Display Name:
+Christine Staber
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am making another batch today. VERY yummy. I did not add the MSG.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-04T17:33:37.95
+helpfulCount:
+4
+userID:
+15345141
+Display Name:
+jiggens2002
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good recipe. I used powdered red pepper  and some flake red pepper.

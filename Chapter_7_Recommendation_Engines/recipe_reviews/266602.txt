@@ -1,0 +1,37 @@
+Recipe number:
+266602.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-02T20:17:09.69
+helpfulCount:
+1
+userID:
+13216161
+Display Name:
+tashatravay
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+124
+favoritesCount:
+265
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good. Unfortunately, I couldn’t find harissa so I used Sambal Olek instead. The resulting dressing was not as spicy as I’d hoped, but the recipe should not be blamed for my substitution. I also stirred in some arugula for extra interest, which I think was a good addition. The pan-fried halloumi was delicious!

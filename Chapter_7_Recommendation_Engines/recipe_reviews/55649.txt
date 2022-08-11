@@ -1,0 +1,33 @@
+Recipe number:
+55649.txt
+Review:
+Rating:
+4
+dateLastModified:
+01/26/2004
+helpfulCount:
+5
+userID:
+650020
+Display Name:
+SSPOCK
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe turned out good. I had to use twice as much corn starch to make it the right consistancy. I would recommend using only a pinch of nutmeg (it was a little too strong). I also used more prosciutto which I would not recommend since it has such an overpowering flavor. Overall a good recipe.
+Review:
+Rating:
+4
+dateLastModified:
+01/26/2004
+helpfulCount:
+1
+userID:
+507500
+Display Name:
+GREYDOG
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My husband and father-in-law enjoyed this recipe.
+I will be making this recipe again and maybe add some onion to the mix.

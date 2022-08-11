@@ -1,0 +1,37 @@
+Recipe number:
+261878.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-15T21:22:51.073
+helpfulCount:
+0
+userID:
+24725559
+Display Name:
+Debra Stephan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6106490.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+EASY TO MAKE AND VERY DELICOUS

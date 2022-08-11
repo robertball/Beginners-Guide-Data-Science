@@ -1,0 +1,37 @@
+Recipe number:
+68226.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-03-08T14:20:49.283
+helpfulCount:
+6
+userID:
+1465496
+Display Name:
+KUNGFUKITTEN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+166
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe and was very please.  However, I would use less sugar. It is just a little sweet with the whole amount.

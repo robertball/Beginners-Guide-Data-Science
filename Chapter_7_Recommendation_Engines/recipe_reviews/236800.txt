@@ -1,0 +1,37 @@
+Recipe number:
+236800.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-10-13T09:26:59.903
+helpfulCount:
+3
+userID:
+6052173
+Display Name:
+Tess Casler
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+233
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1294499.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did cut the sugar in half and think I could have reduced it more...it is sweet with apples and the sugar. But it does have good flavor --- I think it would be great with ribs or pork.

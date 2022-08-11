@@ -1,0 +1,72 @@
+Recipe number:
+242107.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-11-24T10:28:59.57
+helpfulCount:
+1
+userID:
+2595018
+Display Name:
+Crikkitt
+isPro:
+False
+followersCount:
+130
+followingCount:
+0
+madeRecipesCount:
+222
+favoritesCount:
+834
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3818554.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This one was okay. When my son tasted the meat we had flavored with this rub he said it tasted like Mexican food. That's probably the cumin and paprika. It was good but we like another rub better.
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-12T06:50:06.753
+helpfulCount:
+0
+userID:
+24948331
+Display Name:
+Joel Krauel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6264767.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The whole family likes this rub when I make it. The only thing I change is the celery seeds. I can't find them anywhere and use a little celery salt instead.

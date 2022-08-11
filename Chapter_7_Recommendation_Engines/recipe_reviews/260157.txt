@@ -1,0 +1,37 @@
+Recipe number:
+260157.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-03-23T17:47:47.407
+helpfulCount:
+0
+userID:
+15574760
+Display Name:
+sheiswan
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was not what I was expecting.  My MIL from Austria who married my Hungarian FIL learned to make Szegedin  goulash and would never have used tomato product or this dryish  way of cooking it.  There are some other sites with the real thing.

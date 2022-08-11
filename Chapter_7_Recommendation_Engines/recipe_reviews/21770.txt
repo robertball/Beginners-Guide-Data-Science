@@ -1,0 +1,37 @@
+Recipe number:
+21770.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-01-18T22:44:14.67
+helpfulCount:
+1
+userID:
+569487
+Display Name:
+PLAGGEK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+made this with mahi mahi....was wonderful!!!!  So easy and fast.  Great low fat recipe!

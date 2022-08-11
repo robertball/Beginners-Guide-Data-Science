@@ -1,0 +1,37 @@
+Recipe number:
+223577.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-07T22:30:07.01
+helpfulCount:
+6
+userID:
+2718538
+Display Name:
+Brandi Bressan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1198686.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved everything in this recipe - The only thing I did differently was drizzled some olive oil in addition to the balsamic. Even my husband loved it, full of protein and pretty good for you

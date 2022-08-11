@@ -1,0 +1,37 @@
+Recipe number:
+255890.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-12T14:23:46.323
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+771
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is not my favorite flavor combination. I think it's the addition of the almond butter. I cut the cinnamon in half to taste test first and am glad I did. This is a super cold, very thick smoothie which needed thinning just a tad in my vitamix.

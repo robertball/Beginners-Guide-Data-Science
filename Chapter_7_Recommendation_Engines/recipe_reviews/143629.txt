@@ -1,0 +1,37 @@
+Recipe number:
+143629.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-01-09T08:29:10.147
+helpfulCount:
+4
+userID:
+2167652
+Display Name:
+bornagin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/116165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+28 cbs adjust

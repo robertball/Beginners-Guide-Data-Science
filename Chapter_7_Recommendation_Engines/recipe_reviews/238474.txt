@@ -1,0 +1,72 @@
+Recipe number:
+238474.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-13T14:40:37.85
+helpfulCount:
+0
+userID:
+16365773
+Display Name:
+Ron Jenson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+329
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6356523.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a really good recipe.  I liked the "kick" that the dressing has due to all the spices and chili powder.  I used dried blackeyed peas instead of canned (LOVE my Instant Pot!!) and doubled the dressing because I like mine a  little wetter.  Other than that I didn't change a thing.   This one's a keeper!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-24T22:37:52.81
+helpfulCount:
+0
+userID:
+10116566
+Display Name:
+ohc1174
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+419
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this a couple of times and it's a huge hit!! I can't make enough of it and I even get requests " can you make your salsa for the party" so easy to make too!!

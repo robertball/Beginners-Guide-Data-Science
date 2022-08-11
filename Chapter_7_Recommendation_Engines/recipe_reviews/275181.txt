@@ -1,0 +1,37 @@
+Recipe number:
+275181.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-13T12:58:10.703
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is super tart, for real. In the end, I added twice the mint and then added some honey. It’s quite refreshing, though. It’s quite lovely hot or cold.

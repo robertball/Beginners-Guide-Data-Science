@@ -1,0 +1,72 @@
+Recipe number:
+241364.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-31T17:40:23.647
+helpfulCount:
+0
+userID:
+6173163
+Display Name:
+Candace Peterson
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+158
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2042117.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's pretty good. I added a whole banana and I didn't have plain yogurt so I put in a cup of lime Greek yogurt instead! Tasty and I feel good about getting all that spinach in me!!!
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-13T14:20:06.463
+helpfulCount:
+0
+userID:
+20762638
+Display Name:
+Nicole
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turns out great, tastes delicious... but I'm wondering how the creator arrived at the color in the picture, or the total calories...? A banana alone is 100 calories minimum, then the yogurt is a minimum of 100... add in the blueberries at 40 calories for 1/2 cup and you're at twice what is stated. Just thought people should have the facts. Enjoy though, because they're all healthy and delicious calories!

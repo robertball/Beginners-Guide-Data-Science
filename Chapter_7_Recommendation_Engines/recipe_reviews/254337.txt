@@ -1,0 +1,179 @@
+Recipe number:
+254337.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-23T17:01:11.44
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a bit dry and crumbly. Next time, I will add a bit of the chickpea water. I ised buckwheat oats. I did add Sriracha. I served it with vegan sour cream mixed with Sriracha and a salad. Thank you for the recipe.
+Review:
+Rating:
+2
+dateLastModified:
+2019-02-12T22:19:26.663
+helpfulCount:
+1
+userID:
+13173852
+Display Name:
+Brewno
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy? Yes. Delicious? No. Using the same ingredients, just make yourself a peanut butter sandwich and a bowl of oatmeal.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-07T14:17:16.033
+helpfulCount:
+0
+userID:
+11810334
+Display Name:
+Elaine Evans
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+142
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5600382.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this twice and it was great my family loved it I made no changes to ingredients
+Review:
+Rating:
+3
+dateLastModified:
+2018-07-31T16:41:44.927
+helpfulCount:
+0
+userID:
+5224137
+Display Name:
+David and Gwen Marseille
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first home made veggie burger versus a long history of store bought / restaurant versions.  
+I made a few modifications to the original recipe; more as a matter of what was available to me as opposed to taste preferences; those being, the use of almond butter and a home made pepper sauce.
+It was a little disorienting in that it  tasted a bit too much like warmed hummus as opposed to an actual burger.  That being said; I really enjoy hummus, so I also enjoyed the burger.  It ended up being a bit too dry, and I needed to add a little bit of water to keep the patty whole.  The oat flavor was a little too strong for me  Not sure if it would be better to add less of it, or mask the oat flavor with another spice.  I think the almond butter was a good choice over peanut butter, as I think that the peanut butter may have been a bit too strong, and the addition of hot sauce was a great idea.   For me, it's somewhere between 3 and 4 stars;  with a bit more tweaking, I'm pretty sure I can make it even better.
+Review:
+Rating:
+2
+dateLastModified:
+2018-06-06T14:02:53.297
+helpfulCount:
+0
+userID:
+11837228
+Display Name:
+Daniel Carpenter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5691215.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made this recipe twice now. It forms a decent patty but there really isn't much flavor and it comes out fairly dry. The second time I used less oats, added some dried herbs and spices as well as a little vegetable broth. This gave it a little more moisture and flavor.

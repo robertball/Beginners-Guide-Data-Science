@@ -1,0 +1,72 @@
+Recipe number:
+258173.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-20T10:14:21.253
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is handy for those times when you find butternut squash on sale. Mine only needed 30 minutes in the oven. Also, add the broth little-by-little. I only needed one cup. After using broth though, this will be good as a side dish instead of mashed potatoes or as an addition to savory recipes. It freezes well. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-15T14:35:26.273
+helpfulCount:
+0
+userID:
+1389771
+Display Name:
+fritz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+110
+favoritesCount:
+376
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5419888.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make and flavourful

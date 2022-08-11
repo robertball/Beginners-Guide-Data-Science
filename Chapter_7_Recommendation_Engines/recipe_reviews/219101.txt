@@ -1,0 +1,107 @@
+Recipe number:
+219101.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-12-26T10:22:29.257
+helpfulCount:
+5
+userID:
+7993630
+Display Name:
+kaycot2433
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/864372.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it sounds good but to keep it chilled won't the jello mix jell if you put it in the refridgerator?
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-30T13:57:23.253
+helpfulCount:
+1
+userID:
+26209731
+Display Name:
+SEBASTIEN ACEVEDO OLIVARES
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7098956.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i made it for my halloween party and it was gooooooood
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-30T04:32:35.717
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fun and it turned out great. A little on the sweet side but still good. Seeing how I do not have kids, I will add some vodka to this next time to knock down some of the sweetness.

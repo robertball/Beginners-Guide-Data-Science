@@ -1,0 +1,37 @@
+Recipe number:
+261571.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-13T16:53:11.953
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out really good. I tried to make as written but I only have a hand grater and I couldn't get that apple to grate for nothing. The little bit I could get to grate just turned into watery mush so I gave up and cut it into matchsticks instead. I made two different slaw's for taco's last night. Hubs liked the creamier one better but I preferred this one. I used both white and red cabbage to give it more color. I really liked the texture the jicama added. This is a great slaw for tacos!

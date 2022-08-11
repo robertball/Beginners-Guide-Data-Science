@@ -1,0 +1,37 @@
+Recipe number:
+236177.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-11-06T13:03:06.15
+helpfulCount:
+1
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As a lover of Vietnamese table sauce I know that the ingredients can vary by different people using different combinations of ingredients. With this recipe I found the lime juice to be overpowering and the flavors to be a bit strong.  A good table sauce should compliment the meal and not overpower it.

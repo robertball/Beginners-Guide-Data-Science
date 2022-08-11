@@ -1,0 +1,72 @@
+Recipe number:
+268597.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-02T14:49:16.72
+helpfulCount:
+1
+userID:
+7301674
+Display Name:
+CTurtle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+152
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used 2 tbl Hershey's cocoa powder and only 2 tsp vanilla. So delicious, and very quick to make!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-11T22:58:45.417
+helpfulCount:
+1
+userID:
+23890529
+Display Name:
+Barbara Fleming
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+249
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5516969.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Normally fudge is too rich & sweet for me but this semi-sweet & 60% cacao combination with only 1/2 cup of sweetened condensed milk & lots of pecans was to die for!

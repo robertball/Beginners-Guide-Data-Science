@@ -1,0 +1,107 @@
+Recipe number:
+246893.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-05T01:23:48.85
+helpfulCount:
+1
+userID:
+16710807
+Display Name:
+TheStarlite11
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6253191.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was fantastic! The dressing had key Asian ingredients that really brought the noodles to life! I didn't have all the vegetables, so I added a few of my own and it turned out great! Didn't take too long either ate it with chopsticks! Yum!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-22T14:48:46.89
+helpfulCount:
+0
+userID:
+17749791
+Display Name:
+Judy Church
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3400197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved it for our meal prep lunches.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-03T00:47:51.007
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was good... the next day.  I tried it right away and then again 4 hours later. .. I didn't like it much.  The wine flavor was very pronounced.. too much for my liking.  The next day it mellowed enough for me and then I enjoyed this

@@ -1,0 +1,37 @@
+Recipe number:
+241909.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-10T12:24:38.55
+helpfulCount:
+0
+userID:
+3484592
+Display Name:
+elva
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+156
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used cubed ham instead of bacon I also used American sharp cheddar cheese, I would have liked it a little more spicy, but I did not because I had small kids I was cooking for. Served with green salad , glazed carrots, garlic bread. My grand kids loved it !

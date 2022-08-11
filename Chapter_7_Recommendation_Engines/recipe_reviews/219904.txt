@@ -1,0 +1,72 @@
+Recipe number:
+219904.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-07-17T19:27:30.01
+helpfulCount:
+22
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No coconut flavored syrup BUT I did have Malibu coconut rum--I went ahead and used that. I loved the combination of the coconutty rum and the lime. Surprizingly good!
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-08T17:15:52.18
+helpfulCount:
+1
+userID:
+10192350
+Display Name:
+AZ93
+isPro:
+False
+followersCount:
+21
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/971944.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So good!!! But then, it's RUM, so how bad can it be??!! I live in the Caribbean (despite the funny photo) and will be taking this recipe back with me. Thanks Bill!

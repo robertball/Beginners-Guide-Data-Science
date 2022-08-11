@@ -1,0 +1,72 @@
+Recipe number:
+244879.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-17T16:22:45.76
+helpfulCount:
+1
+userID:
+23162175
+Display Name:
+Vanessa Hajzus
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4999165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I served this with yellow saffron spanish rice and chutney and it was amazing.  I live with a south african and she says it was perfect!
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-28T09:43:17.003
+helpfulCount:
+0
+userID:
+20309398
+Display Name:
+Munchlenny
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3889654.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm no expert cook but I'm South African ! Wonderful dish, I substituted the raisins ( eeuuww ! ) for canned sliced peaches & used the sweet juices instead of adding sugar. I like the adding of vinegar, gives it a nice sour to balance the sweet. Also I used 3 eggs & more milk for the topping. It is delicious !!

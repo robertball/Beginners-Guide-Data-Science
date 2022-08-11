@@ -1,0 +1,72 @@
+Recipe number:
+241782.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-30T10:48:44.397
+helpfulCount:
+9
+userID:
+4562668
+Display Name:
+Chef V
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+459
+favoritesCount:
+642
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/911981.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall, i was very surprised with the flavor of this. It actually tasted pretty good. I could see this being served at a wine/cheese type party or just a party with finger foods, as it tasted great at room temp. My oven has broil temperatures so i broiled mine at 475. I checked after 7 minutes and noticed the tops were crisp but the bottoms were soggy so i flipped them and cooked for 7 more minutes(14 min total). I also didn't use toothpicks, the bacon stayed wrapped just fine, and found i only needed 1/3 of a strip of bacon per cherry..and could probably cut that back to 1/4 if you were making these to feed a crowd :)
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-06T15:56:49.07
+helpfulCount:
+0
+userID:
+9108964
+Display Name:
+Raj
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Two thumbs up from everyone who had them. I drizzled juice on before putting in oven,divine

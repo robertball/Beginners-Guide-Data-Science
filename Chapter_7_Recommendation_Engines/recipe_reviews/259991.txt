@@ -1,0 +1,72 @@
+Recipe number:
+259991.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-24T22:24:02.21
+helpfulCount:
+1
+userID:
+24692034
+Display Name:
+JaNet Van Alstine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6081899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-17T21:47:57.323
+helpfulCount:
+0
+userID:
+17286163
+Display Name:
+Yvonne Lopez
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3125603.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+One of my favorite recipes.   Love these cookies

@@ -1,0 +1,47 @@
+Recipe number:
+256148.txt
+Review:
+Rating:
+3
+dateLastModified:
+03/25/2018
+helpfulCount:
+2
+userID:
+23373148
+Display Name:
+alyssa328
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+A bit sweet for me but not terrible. The sweetness of the sauce and the vegetabley-ness of the slaw kind of clashed to me at first but it wasn't bad. I used shredded cheese instead of blue because I'm pretty burned out on blue cheese atm and I thought it worked fine.
+Review:
+Rating:
+4
+dateLastModified:
+05/23/2017
+helpfulCount:
+2
+userID:
+11757707
+Display Name:
+MOMOTEXAS
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was a little sweet for my family but I did like the flavor. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+02/13/2019
+helpfulCount:
+1
+userID:
+16472126
+Display Name:
+Rebecca
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Great. A little soupy though in the tortillas. I had to drain the chicken before putting into the tortillas and it was much better.

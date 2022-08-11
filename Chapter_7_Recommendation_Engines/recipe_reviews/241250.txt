@@ -1,0 +1,107 @@
+Recipe number:
+241250.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-24T17:10:34.88
+helpfulCount:
+1
+userID:
+7677909
+Display Name:
+Liz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made it slightly different but it was great!  I didn't have quinoa, I imagine that would give it a nuttier flavor.  Since we used rice I added 2 tbsp of peanut butter and chopped nuts on top.  I also added some tumeric because I am trying to work more into my diet.  Great recipe,  thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-22T23:03:10.89
+helpfulCount:
+0
+userID:
+16164123
+Display Name:
+Anthony Glaser
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2487234.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+just finished a bowl. Yum! I added a bit of tahini to the sauce.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-10T22:06:21.22
+helpfulCount:
+0
+userID:
+18028896
+Display Name:
+Amany Saleeb
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was so good!

@@ -1,0 +1,107 @@
+Recipe number:
+235347.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-11T19:01:16.717
+helpfulCount:
+4
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1120
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to laugh when I read the title of this recipe, because that is exactly what I was doing tonight . . . scavenging in my fridge for what to make for dinner tonight! I had a bowl of cauliflower that I had roasted with garlic and olive oil the other night - so I went ahead and used that in this recipe. I also used only a 14.5 oz. can of diced tomatoes with the juice, as that is what I had on hand. We had a busy night tonight with both of our kids winter band concerts, and I had this on the table in about 20 minutes. Our tummies were full, and we were out the door by 6:00 p.m. A nice, quick pasta dish.
+Review:
+Rating:
+3
+dateLastModified:
+2016-01-11T16:00:49.047
+helpfulCount:
+0
+userID:
+17260925
+Display Name:
+Katie Anderson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It had a lot of cauliflower and the sage got kind of lost. With less cauliflower, some more seasoning and maybe some chicken thrown in would be better.
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-08T18:28:56.41
+helpfulCount:
+0
+userID:
+2830884
+Display Name:
+Celine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+105
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This serves way more than 4 people. I love cauliflower, but it does not belong in this dish.

@@ -1,0 +1,72 @@
+Recipe number:
+229336.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-08-15T00:33:45.793
+helpfulCount:
+1
+userID:
+22278336
+Display Name:
+Paul Bierwagen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The white grape juice is yellow, mixed with blue Jell-o gives a disgusting green jello that looked bad. Skip the grape juice and Knox, and go straight up blue Jell-o and water. Much better!
+Review:
+Rating:
+3
+dateLastModified:
+2016-12-29T14:03:40.473
+helpfulCount:
+1
+userID:
+10059494
+Display Name:
+rhrdrr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+148
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5072091.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I felt using white grape juice and blue jello would give this a green affect.  I followed the recipe but used H2O sparkling blueberry lime flavored water.  I think if I make this again I would use white cranberry juice and and maybe 1 teaspoon of blueberry jello.  The color is so heavy you can't see into the bowl.  The fish have to be pressed up against the side of the glass in order to see them.  Can't see the celery I used for plant life either.  Cute idea just needs some adjusting.

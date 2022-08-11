@@ -1,0 +1,107 @@
+Recipe number:
+258567.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-24T19:48:47.28
+helpfulCount:
+1
+userID:
+2844831
+Display Name:
+Cooking Daddy
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+296
+favoritesCount:
+6213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6980549.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good.  I liked that you could go with whatever creative ingredients you wanted to use with this recipe.  I went with the ingredients that were in the recipe, but next time I'll be  experiment more.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-27T00:16:24.483
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+774
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3988
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was enjoyable. I never would have thought to use the corned beef hash this way as the meat source of a taco...with scrambled eggs no less. Lots of leeway to add favorite toppings, too, like jalapeños or hot sauce.
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-26T01:39:27.647
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Neat way to eat corned beef hash.  I found the lower sodium version of Mary's kitchen so I used that. Tasted great.  I couldn't really taste the eggs so next time I think I'll use more eggs and less of the hash mixture

@@ -1,0 +1,72 @@
+Recipe number:
+234444.txt
+Review:
+Rating:
+1
+dateLastModified:
+2014-09-22T01:24:02.51
+helpfulCount:
+0
+userID:
+2360345
+Display Name:
+Melissa Goff
+isPro:
+False
+followersCount:
+1368
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+1338
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2417840.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe isn't a brownie. It's not even a brownie cake. It's a cake. I followed the recipe to a T. Do not understand why the butter had to be partially frozen at all because when the ingredients are mixed together thoroughly, the butter was a lumpy and still almost solid in the mixture. It didn't even incorporate fully with the rest of the ingredients. As simple as the recipe is. I didn't sub any ingredients nor make any changes and being that I love Kahlua baked into recipes because of it's lingering flavor and the overall richness it adds, there was way to much in this recipe for 1/4 of a cup to be utilized. It was pungent and overwhelming nor could you even taste even the coffee flavor either. There was not enough cocoa powder to even taste it's presence as well, let alone be a chocolate or a blonde style brownie. I am sorry, truly and utterly sorry for even having to review and rate it a one star. My apologies to the submitter.
+Review:
+Rating:
+3
+dateLastModified:
+2013-10-03T12:25:04.563
+helpfulCount:
+0
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought these were okay. The description is right about them being "fluffy." I like a cake-like brownie, but these are definitely more like a very soft cake. Only changes I made were making 1/2 recipe, upped the cocoa a little, and baked in a small square pan, to test the recipe.

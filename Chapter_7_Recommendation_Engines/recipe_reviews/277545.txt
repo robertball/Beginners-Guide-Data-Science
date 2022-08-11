@@ -1,0 +1,37 @@
+Recipe number:
+277545.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-26T15:37:06.023
+helpfulCount:
+2
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+130
+favoritesCount:
+463
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe as is and it was perfect! Also, my kids don’t like cauliflower but they can’t stop eating the casserole! This would be good with just broccoli or maybe adding carrots to the regular recipe. Thank you for a great and easy recipe!

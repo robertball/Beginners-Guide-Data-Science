@@ -1,0 +1,72 @@
+Recipe number:
+231526.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-22T09:35:41.9
+helpfulCount:
+1
+userID:
+4734142
+Display Name:
+Seth Kolloen
+isPro:
+False
+followersCount:
+110
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2257605.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the tangy horseradish in this. I used a kurabota ham from Snake River Farms...so tender and delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-28T03:29:29.277
+helpfulCount:
+0
+userID:
+6546897
+Display Name:
+Amy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+At first, I was starting to doubt this recipe but when the ham was complete, I was pleasantly surprised! It’s not to sweet and not a whole lot of spice. It was also good even for leftovers.

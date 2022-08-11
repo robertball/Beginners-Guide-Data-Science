@@ -1,0 +1,108 @@
+Recipe number:
+234126.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-12T12:55:17.83
+helpfulCount:
+1
+userID:
+23664931
+Display Name:
+C. Sue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+188
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7445960.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added Summer Squash and Baby Swiss Cheese as well as Havarti. I love cheese.  I liked it better after a reheat with added celery salt and Hatch chilli/pepper sauce. 
+I usually don't use measurements of ingredients, I go with what my tastebuds like. Darn good recipe on its own.
+Review:
+Rating:
+2
+dateLastModified:
+2019-11-02T22:47:04.723
+helpfulCount:
+0
+userID:
+14003213
+Display Name:
+Marcus Cope
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1304841.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe, and even added extra pepper, but it tastes pretty bland. It needs something to zip it up, but I’m not sure what. I’d use a bit less cilantro next time as well; it tastes a bit too prominent.
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-09T12:24:42.97
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious soup, very creamy and very cheesy. I used green bell peppers instead of red. Thank you for the recipe.

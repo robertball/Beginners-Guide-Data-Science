@@ -1,0 +1,72 @@
+Recipe number:
+256041.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-13T11:21:51.937
+helpfulCount:
+0
+userID:
+21789705
+Display Name:
+Mrs V
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok, I made this a little differently than the recipe, but it turned out great! My husband usually cooks, but he’s now on a lower carb diet than me. I didn’t have a green pepper, canned tomatoes or chili mix and didn’t feel like going back out to get them. I nixed the onion due to allergies. As with another reviewer, I added more chili pepper and just added the tomato sauce we use for pasta. My hubby tasted and he, the fussy chef, loved it! Only next time, I’ll have to try to remember what I did!
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-04T17:49:38.267
+helpfulCount:
+0
+userID:
+17067455
+Display Name:
+okieinkentucky
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The was a pretty good recipe, but had way too little chili powder for the seasoning mix.  Changed that to 1/2 cup, doubled all the other spices, and then it was terrific.

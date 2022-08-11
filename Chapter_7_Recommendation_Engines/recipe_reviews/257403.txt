@@ -1,0 +1,73 @@
+Recipe number:
+257403.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-08T20:45:51.797
+helpfulCount:
+1
+userID:
+4562668
+Display Name:
+Chef V
+isPro:
+False
+followersCount:
+228
+followingCount:
+0
+madeRecipesCount:
+459
+favoritesCount:
+642
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/911981.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OMG YUM!  I made this using sea salt & Raw honey as that's what i have on hand. Baked at 350 for 45 minutes ( i was baking another banana bread, different recipe at the same time) I forgot to add the chocolate chips in so i sprinkled some dark chips on top before baking. 
+This is seriously one of the best banana breads i have ever eaten! Will be making this again, Thanks!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-23T19:58:27.42
+helpfulCount:
+0
+userID:
+13249897
+Display Name:
+Jen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My son and I just finished making these, and they were awesome!  We made them into muffins with a slightly larger amount of chocolate chips.  They will be a favorite high-fiber snack for months to come.

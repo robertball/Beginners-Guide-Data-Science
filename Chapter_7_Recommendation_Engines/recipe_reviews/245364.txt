@@ -1,0 +1,37 @@
+Recipe number:
+245364.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-04T20:52:36.697
+helpfulCount:
+2
+userID:
+2999720
+Display Name:
+Solimar
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/91680.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for an authentic recipe like my abuela used to make me and this was it! I followed the recipe exactly and it was wonderful! Making it today for a second time because my family devoured it the first time. Thank you for sharing:)

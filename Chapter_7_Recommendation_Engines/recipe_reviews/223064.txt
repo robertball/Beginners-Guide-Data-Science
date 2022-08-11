@@ -1,0 +1,72 @@
+Recipe number:
+223064.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-04T10:21:48.897
+helpfulCount:
+1
+userID:
+12325038
+Display Name:
+Sandy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just made Bo's White German Chocolate Cake and I give it 5 STARS!!! I thought it might be too sweet but it has the perfect blend and moist beyond belief.  I added it to my all time favorites.  Thank you for sharing, keep up the great work.  Sandy
+Review:
+Rating:
+2
+dateLastModified:
+2017-05-17T09:17:44.413
+helpfulCount:
+0
+userID:
+21930058
+Display Name:
+Diane Diane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cake is good however this is not German chocolate as it used white chocolate. No where in this recipe is there German chocolate used. That actually is the kind of chocolate that gives? the cake it's name. This is white chocolate cake. Not German.

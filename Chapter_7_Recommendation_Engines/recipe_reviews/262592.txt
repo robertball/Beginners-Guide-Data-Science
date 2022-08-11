@@ -1,0 +1,107 @@
+Recipe number:
+262592.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-11T00:53:47.537
+helpfulCount:
+1
+userID:
+8457291
+Display Name:
+Julie Feser
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this dressing. I made just as it said, but I agree with the other review. I would blend all the other ingredients first then add the whip cream. I will definitely make this again!!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-08T13:04:49.183
+helpfulCount:
+1
+userID:
+25275217
+Display Name:
+Jose Montano
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7110044.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had to adjust the sugar and substituted Calamansi lime. Dressing was excellent and we used extra dressing as a dip for junk food
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-15T05:11:34.757
+helpfulCount:
+1
+userID:
+14369001
+Display Name:
+Maverick
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was simple to make, and tasted great. The only thing I would suggest, blend all the ingredients  together before you add the whipping cream or you will have guacamole flavoured whipping cream like I did. My family loved it.

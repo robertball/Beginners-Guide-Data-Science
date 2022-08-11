@@ -1,0 +1,72 @@
+Recipe number:
+262242.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-26T03:36:04.933
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time making Greek yogurt and this turned out pretty good in the end but was runny as written. It needs more than 30 minutes to drain. I recommend letting it drain in the refrigerator overnight for best results.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-22T12:55:42.247
+helpfulCount:
+0
+userID:
+11899480
+Display Name:
+Nancy Schleeve
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1146317.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's yummy and I love this recipe !

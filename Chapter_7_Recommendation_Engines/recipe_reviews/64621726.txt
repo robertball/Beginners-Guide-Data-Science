@@ -1,0 +1,37 @@
+Recipe number:
+64621726.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-08T23:15:54.26
+helpfulCount:
+0
+userID:
+6110327
+Display Name:
+mkinshella
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+252
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe, I will double the dressing next time.  You could use brown rice instead but our family like Quinoa.

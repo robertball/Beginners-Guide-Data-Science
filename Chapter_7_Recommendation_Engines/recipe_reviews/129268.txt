@@ -1,0 +1,37 @@
+Recipe number:
+129268.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-01-03T20:15:29.533
+helpfulCount:
+1
+userID:
+268713
+Display Name:
+LINDA MCLEAN
+isPro:
+False
+followersCount:
+643
+followingCount:
+0
+madeRecipesCount:
+2417
+favoritesCount:
+3410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/330227.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used this on top of my turkey burger. Delicious even without the salt!

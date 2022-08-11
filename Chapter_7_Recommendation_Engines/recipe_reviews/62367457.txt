@@ -1,0 +1,72 @@
+Recipe number:
+62367457.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-26T17:18:45.663
+helpfulCount:
+0
+userID:
+2678265
+Display Name:
+Sharon D Herr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+251
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are my go to cupcakes for all the girls parties, school treats etc.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-25T12:55:06.74
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+774
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3991
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect vanilla cupcake, Marianne! So much better than any cake mix!

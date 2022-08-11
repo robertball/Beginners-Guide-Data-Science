@@ -1,0 +1,37 @@
+Recipe number:
+231627.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-30T11:33:33.01
+helpfulCount:
+3
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8908
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm surprised . . . I'm not a big fan of lentils (my Italian hubby is though), and I really liked this! I scaled this back to 1 serving, as I had exactly 2 oz. of lentils to use up. I also used Argentinean Chimichurri (recipe also on this site) that I had left over from a cookout last weekend. I took the submitter's advice and served this with sliced cucumbers and grilled naan (as I didn't have any whole wheat pita bread). It made for a nice, healthy lunch!

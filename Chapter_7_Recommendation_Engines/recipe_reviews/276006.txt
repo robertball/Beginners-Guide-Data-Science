@@ -1,0 +1,108 @@
+Recipe number:
+276006.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-19T04:36:18.27
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this! I will never cook lobster in anything other than an air fryer again!
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-20T15:09:18.693
+helpfulCount:
+0
+userID:
+23286435
+Display Name:
+Katherine Fritz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it but don't agree with the time of cooking instructions.    Did taste great and I like the butter, lemon, garlic topping.
+Certainly will make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-13T00:23:57.967
+helpfulCount:
+0
+userID:
+3683081
+Display Name:
+Jodi Krizan
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3169518.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent!!  And easy as can be.  I placed them in a small piece of tinfoil to hold in the butter mixture. So this added about 3 minutes to the time.

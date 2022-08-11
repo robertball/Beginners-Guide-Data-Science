@@ -1,0 +1,111 @@
+Recipe number:
+236777.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-26T13:26:11.633
+helpfulCount:
+2
+userID:
+8622418
+Display Name:
+Paula Weston Boyd
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3032646.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OMG, I was looking for this recipe.  Found this one online.  It's just like the one my Mother In Law always made.
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-28T02:48:51.423
+helpfulCount:
+1
+userID:
+26358151
+Display Name:
+Jeanne Flowers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7208228.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Recipe was pretty good, but needs serious tweaking.  I think it has a lot of potential, however.  The following are my suggestions:
+1.	For safety, pasteurize the eggs first.  Bring eggs to room temperature, either by sitting out or by soaking in warm water for a while.  Then cover with about 1” of water, and heat carefully with an accurate thermometer.  Bring water to 140 degrees F, and maintain that (+/- 2 degrees) for about 3-4 minutes. (Normally, 3-5 minutes to fully pasteurize yolks, but these yolks will be cooked.)  Pour off hot water, and fill pan with ice water to stop cooking.  (Other methods – see Internet)
+2.	Instructions should include steps to separate the eggs, grate the chocolate, beat the yolks and crush the candies. (The ingredient list assumes all this, but it would help the cook’s sanity.)
+3.	It took about 5 ounces of my whole candy to get 2/3 cup crushed.  I would suggest using at least 1 whole cup (7-8 oz.)  and mixing 2/3 c in with the hot milk. This will sweeten and color the filling, and give it a better peppermint flavor than just pure extract.  The extra 1/3 c I would use on top of the pie as currently instructed.  Using the full 2/3 cup on top (per recipe) resulted in a hard candy crust on top that was difficult to cut and/or eat, and little flavor within the pie itself.  
+4.	The recipe suggests cooking the egg yolks for about 4 minutes until slightly thickened.  Perhaps my burner wasn’t hot enough, but it took about 10 -15 minutes for mine to thicke
+Review:
+Rating:
+3
+dateLastModified:
+2018-12-29T22:49:37.507
+helpfulCount:
+0
+userID:
+22591435
+Display Name:
+Nancy Nordland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Plan to try it for new years

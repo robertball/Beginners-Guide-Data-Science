@@ -1,0 +1,37 @@
+Recipe number:
+266754.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-16T03:24:34.413
+helpfulCount:
+0
+userID:
+20770029
+Display Name:
+Christopher Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4157406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used sea salt caramel chips instead of the mini chocolate chips on the cream cheese layer. An I topped it with caramel sauce. It tasted rich and delicious. Only problem was the brownie layer was more like a brownie sauce instead of a chewy brownie.

@@ -1,0 +1,77 @@
+Recipe number:
+263715.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-25T13:07:43.807
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Now, isn’t this a smart recipe! No more stirring every five minutes. No more splatters to clean up. I used a traditional pressure cooker and after 15 minutes it was thick enough for pasta. I used the exact ingredients and didn’t think they needed to be changed at all. The flavor is simple yet wonderful. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-07T21:37:36.32
+helpfulCount:
+0
+userID:
+3522681
+Display Name:
+pinkNINJA
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so quick and easy to make! It's incredibly delicious and one of my new favourites - will be making this often :)
+
+I made the following substitutions to work with what I had on hand:
+- white white vinegar instead of wine
+- diced tomatoes instead of crushed
+- strained tomatoes instead of canned San Marzano tomatoes

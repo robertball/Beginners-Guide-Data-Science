@@ -1,0 +1,77 @@
+Recipe number:
+27456.txt
+Review:
+Rating:
+5
+dateLastModified:
+10/11/2010
+helpfulCount:
+9
+userID:
+5530876
+Display Name:
+diane22
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Best frosting I've made/tried. I didn't stick to the exact measurements I just added roughly those amounts and poured coffee in until I reached the consistency/flavour I desired.
+Review:
+Rating:
+2
+dateLastModified:
+06/25/2006
+helpfulCount:
+5
+userID:
+1955934
+Display Name:
+Joshica
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is a nice recipe but it just wasn't what I was looking for. There was so little coffee flavor in the recipe and I don't like the texture of it. As powdered sugar recipes go it is very sweet and choclatey but not what you are looking for when you want a coffee punch in your frosting.
+Review:
+Rating:
+2
+dateLastModified:
+08/29/2002
+helpfulCount:
+3
+userID:
+438556
+Display Name:
+STREGER
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I didn't like the consistency had a grainy-ness to it. While it was too sweet for me others loved it.
+Review:
+Rating:
+4
+dateLastModified:
+04/29/2010
+helpfulCount:
+2
+userID:
+2024244
+Display Name:
+Dami D.
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I thought it was awsome perfect amount of coffee as my stomach is sensitive to the stuff and it also went well on top of wacky cake.
+Review:
+Rating:
+3
+dateLastModified:
+07/25/2016
+helpfulCount:
+0
+userID:
+melanieq
+Display Name:
+Buckwheat Queen
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8440171.jpg
+text:
+This sounded good reading the ingredients but it doesn't seem to come together well in the end. I even tried making a second batch by adding hot water to the cocoa first with hopes to bring out the chocolate flavor. In the end it tastes like sweet butter with bitter chocolate and some hint of coffee. I'm sorry this didn't work out for us.

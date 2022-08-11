@@ -1,0 +1,37 @@
+Recipe number:
+241761.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-21T14:32:07.227
+helpfulCount:
+2
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sauce is fiery hot, versatile, and oddly addictive. A bowl of this needs to be next to your grill to use a a dip or spread on anything coming off the BBQ. I used habaneros in place of the Scotch bonnets.

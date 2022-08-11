@@ -1,0 +1,37 @@
+Recipe number:
+259266.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-20T19:43:14.11
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These amounts are off. Three of each berry simply isn’t enough for 6 servings and there is way too much sugar on them. The mascarpone should be doubled but not the sugar in it, just double the amount of mascarpone. I didn’t care for the whipping cream in it, either. The peach tea is a fantastic twist, though. Great idea, miscalculated measurements.

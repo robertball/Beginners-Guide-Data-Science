@@ -1,0 +1,37 @@
+Recipe number:
+242119.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-08T23:45:40.45
+helpfulCount:
+0
+userID:
+22863120
+Display Name:
+Kim Hensley
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7052853.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I personally did not like the  taste the cinnamon gave it and it's very time consuming having to turn it every 30 minutes for four hours. I wonder if you could just sear it on both sides then put it in crockpot? I also put in some butter when I put in veggies for a little richness and I thickened the juices a bit with cornstarch as mine was very soup like and I wanted a sort of gravy.

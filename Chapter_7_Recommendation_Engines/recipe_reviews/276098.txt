@@ -1,0 +1,37 @@
+Recipe number:
+276098.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-19T23:49:45.047
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+129
+favoritesCount:
+456
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don’t like tilapia. However, this recipe changed my mind for sure! I used broccoli slaw instead of the cabbage and onions but beyond that, I kept the recipe as is. For any non fish lover, this recipe will for sure change your mind! This is such a super yummy recipe that it will definitely be made quite often in my house!

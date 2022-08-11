@@ -1,0 +1,107 @@
+Recipe number:
+236015.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-13T11:56:23.337
+helpfulCount:
+0
+userID:
+14007186
+Display Name:
+Glenn Bullion
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+253
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5464064.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My favorite chicken  recipe. They don't last wrong around the grandkids.  I use them for a healthier snack.
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-12T16:18:23.29
+helpfulCount:
+0
+userID:
+24295563
+Display Name:
+Stacy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5802595.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly like the recipe stated. I'll make this again. It was very good. I served this with rice and a green salad. Great dinner idea.
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-14T22:59:59.373
+helpfulCount:
+0
+userID:
+2718570
+Display Name:
+Teresa Carter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7620971.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick & easy to make.  Flavor is a bit "blah."  Needs something added for more of a kick, but it was good dipped in ranch.

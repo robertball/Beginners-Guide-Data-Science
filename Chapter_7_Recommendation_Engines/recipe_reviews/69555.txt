@@ -1,0 +1,47 @@
+Recipe number:
+69555.txt
+Review:
+Rating:
+5
+dateLastModified:
+06/05/2005
+helpfulCount:
+3
+userID:
+818457
+Display Name:
+KATHYP100
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Delicious and looks so elegant.  I substituted graham cracker crumbs for the vanilla wafer crumbs.  Will definitely make this one again.
+Review:
+Rating:
+4
+dateLastModified:
+05/05/2006
+helpfulCount:
+2
+userID:
+1860303
+Display Name:
+Maggie C.
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Yummy! But I think it would be better with peaches and peach yougurt, or maybe strawberrys and strawberry yougurt. Also chocolate cookie crumbs. I will definitly make it agan!
+Review:
+Rating:
+5
+dateLastModified:
+03/18/2004
+helpfulCount:
+1
+userID:
+921637
+Display Name:
+JESSIE2.13
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very good! I made this for my family (i don't eat sugar) but I even took a few spoonful.  Next time I'm going to try a different fruit/yogurt combination

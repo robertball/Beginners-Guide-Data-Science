@@ -1,0 +1,72 @@
+Recipe number:
+260498.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-22T17:22:33.8
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty and super simple. My advice is to watch these closely. Once they barely start to brown they go fast. I burned my first batch in a matter of 3 minutes. These are great dipped in ranch and flavor combination is endless. I look forward to playing around with different spice blends.
+Review:
+Rating:
+1
+dateLastModified:
+2018-07-14T20:03:46.44
+helpfulCount:
+0
+userID:
+23580866
+Display Name:
+Shianne Ford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5306037.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The oven temperature is nowhere near being correct. I ended up cooking them for like 2 hours before they were even golden brown at all. On top of that when they were done they were disgusting. Will never eat this again.

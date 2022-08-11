@@ -1,0 +1,72 @@
+Recipe number:
+239238.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-23T21:50:48.267
+helpfulCount:
+5
+userID:
+16838241
+Display Name:
+sharon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only change I made was to fry my onions to th transparent stage.  We 'popped' all our own Fava beans, having been given them by a friend...we were kind of cursing her as we did it and really hoped this recipe lived up to all the reviews!  Not disappointed at all....well except that our son came for lunch and ate most of it.
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-01T20:08:07.59
+helpfulCount:
+4
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice dip. I had never tried favas before. They have a nice sort of earthy taste. I found out I am not a big fan of tahini, so after I made this, I added a little plain Greek yogurt. For my tastes, I liked that addition.

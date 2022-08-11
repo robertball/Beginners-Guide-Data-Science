@@ -1,0 +1,107 @@
+Recipe number:
+57382.txt
+Review:
+Rating:
+2
+dateLastModified:
+2010-10-10T17:24:36.69
+helpfulCount:
+3
+userID:
+3755571
+Display Name:
+mkrowe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty bland and dry. Not bad as a side in a meal that has lots of other flavours, but it's definitely not sufficient as a main.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-11T01:13:03.45
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut the recipe in half and made as written. This is good! It was much better than I had anticipated. It could maybe use more flavor yes but it was the perfect side to my Currywurst and the noodles soaked up the sauce from that. Simple and straight forward and those are the best kinds of recipes in my opinion!
+Review:
+Rating:
+2
+dateLastModified:
+2016-02-21T16:40:42.71
+helpfulCount:
+0
+userID:
+9404082
+Display Name:
+Kate Bayer
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+49
+favoritesCount:
+280
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1195614.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've never made a kugel but gave this a try and it seems like it's a good basic recipe that you could change up however you wanted.  I cut the number of eggs by half and added sour creme.  Next time I will use this as a base, skip the onions and add raisins and pinapple instead.

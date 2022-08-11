@@ -1,0 +1,72 @@
+Recipe number:
+218472.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-15T08:28:47.107
+helpfulCount:
+11
+userID:
+7736302
+Display Name:
+freekflier
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I might not ever make the custard style american pumpkin pie again!  This was so easy and delicious.  Sweet, but not too sweet.  Definitely recommend buying higher quality commercial puff pastry or making your own to avoid that shortening flavor/residue in your mouth.
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-16T12:13:19.497
+helpfulCount:
+1
+userID:
+12023345
+Display Name:
+Windy Odonnell
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+209
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1757891.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love pumpkin pie but never eat the crust,this was perfect for me!I'll be making this for the holidays,thank you for sharing!!

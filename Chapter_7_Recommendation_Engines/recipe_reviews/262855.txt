@@ -1,0 +1,72 @@
+Recipe number:
+262855.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-07T19:02:57.333
+helpfulCount:
+0
+userID:
+18061136
+Display Name:
+Roseanne M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6879435.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out really tasty. I added a bit of garlic powder, and used jalapenos instead of pimentos (because we like everything spicy).  The combination of spices gave it a more intense flavor than store-bought pimento cheese, which I personally loved. I also used Miracle Whip instead of mayo for a bit more tartness. Great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-14T13:21:31.273
+helpfulCount:
+0
+userID:
+23829130
+Display Name:
+Emily Hall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5473309.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't really love the taste of cream cheese, so finding a recipe where there wasn't any was key. I did up the amount of cheese from 2 cups to 2 and a half cups (because I really wanted cheesy flavor) and I added celery seeds. This recipe was really flavorful and spicy and rivaled the pimento cheese I've had in restaurants.

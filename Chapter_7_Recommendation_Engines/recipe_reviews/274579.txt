@@ -1,0 +1,74 @@
+Recipe number:
+274579.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-06T18:36:10.143
+helpfulCount:
+1
+userID:
+12209362
+Display Name:
+Deb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2579065.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved these!  I made one change out of necessity, but which I think i would repeat.  I only had one cup of banana, so added a generous half cup of finely grated zucchini, which was conveniently at hand from the morning’s zucchini bread marathon.
+Also, I tossed in the half cup or so of chopped walnuts that were left over from the zucchini bread recipe.  
+I made mini muffins, no paper liners but a quick spray of Pam.  Baked them at 350 for about 9-11 minutes.  The recipe made 60 mini muffins, and they were delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-09T17:17:49.9
+helpfulCount:
+0
+userID:
+12630373
+Display Name:
+MauraLacelle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+1235
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501662.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made them in extra large muffin tins and increased the baking time.

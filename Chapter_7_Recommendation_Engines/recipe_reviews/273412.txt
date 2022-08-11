@@ -1,0 +1,37 @@
+Recipe number:
+273412.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-15T21:54:39.74
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought I bought broccoli but I didn’t. Thankfully, I had a frozen medley with broccoli, carrots and peas so I used that instead. The recipe is great but it was way too salty for us.  I will make this again and adjust the bouillon to better suit our taste. Thanks for a great recipe!

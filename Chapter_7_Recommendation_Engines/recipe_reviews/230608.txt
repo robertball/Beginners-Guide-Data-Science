@@ -1,0 +1,147 @@
+Recipe number:
+230608.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-26T17:37:24.947
+helpfulCount:
+5
+userID:
+7274673
+Display Name:
+Autumn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+252
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/678326.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe but a bit bland. I followed the recipe verbatim and will definitely make this again but with some additions. I recommend using twice the amount of cumin and oregano as well as an additional can of green chiles. Thanks for a good addition to my recipe collection!
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-17T16:52:08.01
+helpfulCount:
+1
+userID:
+14054888
+Display Name:
+Lon0316
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+301
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4215538.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Only thing I changed is that I used 5lbs of thighs instead of whole chicken.  I added a large can of broth instead of boullian.  Ok I also added extra garlic and chillies but that's because I added a lot of broth and chicken.
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-03T20:15:35.767
+helpfulCount:
+0
+userID:
+15363016
+Display Name:
+Mary Deanna Jones Dukes
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6142193.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This chili was very tasty! 
+I modified the recipe a bit by adding celery and sautéeing it beforehand with the onion and garlic.
+I also added 1/2 a chopped jalapeño, black pepper, and 1/2 teaspoon of chili powder to the chili.
+I left out the hominy simply bc the store was out.
+IT WAS YUMMY GOOD! 
+And, even my kiddos loved it!
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-30T18:01:55.51
+helpfulCount:
+0
+userID:
+2529560
+Display Name:
+Nancy Rogers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1605984.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is good.  I added one can of Hatch "hot" green chilis, an extra clove of garlic and a few other spices.  Overall, it is very tasty.  I made it tonight to serve for Halloween

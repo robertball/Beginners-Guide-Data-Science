@@ -1,0 +1,72 @@
+Recipe number:
+264522.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-03T08:51:04.127
+helpfulCount:
+0
+userID:
+8355631
+Display Name:
+Leina Alfanash
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+131
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1203932.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for a cookie exchange at work.  Not overly sweet, a little chewy. Made it exactly like recipe except i did half cranraisins  and half cherries( what i had on hand) Would definitely make it again
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-03T17:56:36
+helpfulCount:
+0
+userID:
+4052461
+Display Name:
+Toytle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/272399.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were delicious!  I was looking for a recipe to use up some dried cherries I had, and found this one.  I'm not vegan, but my in-laws are, and I'll definitely be making these cookies again for them.

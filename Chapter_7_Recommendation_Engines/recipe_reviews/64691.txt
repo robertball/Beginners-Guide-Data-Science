@@ -1,0 +1,37 @@
+Recipe number:
+64691.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-04-22T12:30:34.407
+helpfulCount:
+0
+userID:
+1404415
+Display Name:
+TURMAN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy!  This is great tasting and filling, even if you are not a vegeterain.  I don't eat red meat so I look forward to the opportunity when I can enjoy a good veggie burger with a meat texture.

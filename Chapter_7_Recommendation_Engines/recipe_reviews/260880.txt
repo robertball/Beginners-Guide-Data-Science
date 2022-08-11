@@ -1,0 +1,37 @@
+Recipe number:
+260880.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-08T16:03:48.88
+helpfulCount:
+0
+userID:
+6022902
+Display Name:
+Pam and Brad
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/761795.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my favorite caramel frosting!  It is SUPER easy and quick, and I've made it numerous times with zero changes.  It is wonderful on cake or cookies - and, as all good frostings should be, straight out of the bowl!

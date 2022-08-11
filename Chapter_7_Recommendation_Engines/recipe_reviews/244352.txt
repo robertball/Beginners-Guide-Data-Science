@@ -1,0 +1,72 @@
+Recipe number:
+244352.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-03T22:05:37.523
+helpfulCount:
+1
+userID:
+5344082
+Display Name:
+Alli Shircliff
+isPro:
+False
+followersCount:
+283
+followingCount:
+0
+madeRecipesCount:
+118
+favoritesCount:
+453
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3975885.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The vanilla really gives the almond milk an extra boost of flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-18T16:29:37.75
+helpfulCount:
+0
+userID:
+15605167
+Display Name:
+Terry W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoyed the recipe and the milk. Would have enjoyed a little more description on the vanilla bean used. What grade and type was used? I will try different types to see how the flavor changes.

@@ -1,0 +1,73 @@
+Recipe number:
+156468.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-12-05T09:12:39.613
+helpfulCount:
+21
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very good. A little sweet, so next time I make this I might use grapefruit juice instead of orange, seeing as there's orange vodka in it. These could be dangerous, as you can't really tell that there's alcohol in it!
+I'd make these often.
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-24T21:21:32.637
+helpfulCount:
+9
+userID:
+1054570
+Display Name:
+DIZ&#9829;
+isPro:
+False
+followersCount:
+260
+followingCount:
+0
+madeRecipesCount:
+519
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368107.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you are on vacation, you might as well start off with a nice fruity drink.  Bonus--contains Vitamin C.

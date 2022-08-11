@@ -1,0 +1,37 @@
+Recipe number:
+255302.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-09T00:54:02.943
+helpfulCount:
+1
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+913
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As written this recipe doesn't work, the ratio of wet to dry is off. I started with the two eggs and two egg yolks and the dough had the consistency of a crumble. I proceeded to add another egg and it was still off so I added the two egg whites and still had to add a little water to make it come together. I make fresh pasta often and this took far longer than stated. As well,  I believe that it would serve closer to 10. The finished product is silky and delicious hence the three stars.

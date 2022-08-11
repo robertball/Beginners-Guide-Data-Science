@@ -1,0 +1,72 @@
+Recipe number:
+105448.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-09-21T22:03:03.403
+helpfulCount:
+1
+userID:
+2084039
+Display Name:
+Leah Prather Hanley
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1327697.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a very good cake.  A rich and decadent dessert any chocoholic would love!  I did make some changes--I used unsweetened Godiva chocolate, I used 5 yolks so I didn't have them left over.  I used 1/2 c Splenda in the yolks and 1/4 c of Agave Nectar so overall I added less sweetener.  I served it with an all fruit raspberry spread that I warmed and topped with whipped cream.  Next time I may use 3/4c Agave nectar in the yolks and a bit more butter in the chocolate because the cake would have been dry without the spread and whipped cream.  Also I didn't bother with the water bath and I used a greased spring form pan (no parchment).  Maybe would have been more moist with the water bath?  I'll make it again!
+Review:
+Rating:
+5
+dateLastModified:
+2008-05-12T11:48:51.043
+helpfulCount:
+0
+userID:
+2845307
+Display Name:
+nayreese
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+awsome taste like fudge !!!

@@ -1,0 +1,142 @@
+Recipe number:
+238399.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-19T16:12:43.653
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Finally getting around to reviewing this recipe. It's delicious! I haven't cooked with barley in ages and was looking for a new recipe to use it. I made the recipe exactly as written. I used dried oyster mushrooms and loved the flavor! I almost used fresh mushroom since they're cheaper than dried, but do not, I repeat, DO NOT skimp out on this! The dried mushrooms add such a lovely flavor that is more concentrated than fresh, and a nice texture.  It was almost a pity tossing out the soaking liquid from the mushrooms. I'm thinking I may use that liquid as part of the water requirements next time. The only thing I might suggest is adding the potatoes halfway through cooking. I found they were falling apart by the time the soup was done.  Thank you Kathie for sharing your dad's soup!
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-27T18:52:10.683
+helpfulCount:
+0
+userID:
+17307418
+Display Name:
+King Rachel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3137648.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly and the whole family enjoyed it. Great comfort food!
+Review:
+Rating:
+3
+dateLastModified:
+2017-02-27T01:55:30.317
+helpfulCount:
+0
+userID:
+2988323
+Display Name:
+Denise Soto
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2903265.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did like the premise of the soup but had to make a lot of alterations.  There were hardly any seasoning in the original recipe so I updated it with salt, marjoram, thyme & Italian Seasoning.  Hopefully, that will solve the lack of seasoning.
+Review:
+Rating:
+2
+dateLastModified:
+2015-01-03T08:17:34.747
+helpfulCount:
+0
+userID:
+7430849
+Display Name:
+Kim Scarlett
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1655502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm a vegetarian. I replaced the chicken broth with vegi broth and it didn't work. No flavor.

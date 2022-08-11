@@ -1,0 +1,47 @@
+Recipe number:
+27257.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/25/2004
+helpfulCount:
+10
+userID:
+240
+Display Name:
+schmerna
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/34283.jpg
+text:
+I used a few slices of Italian bread and omitted the tomatoes.  This is so easy and yummy.  Next time I think I will add tomato.
+Review:
+Rating:
+5
+dateLastModified:
+02/12/2006
+helpfulCount:
+0
+userID:
+1743631
+Display Name:
+foodie_27
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+So EASY and tasty too!
+Review:
+Rating:
+3
+dateLastModified:
+05/05/2004
+helpfulCount:
+0
+userID:
+644962
+Display Name:
+JENN_77
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/10372.jpg
+text:
+Easy and good. I had this with the "St. Louis Toasted Raviolis".  I toast one side of the bread first than add the pesto to the other side to get a crunchier effect.  I must say I like the "Basil Pesto Rounds" from this site a lot better.

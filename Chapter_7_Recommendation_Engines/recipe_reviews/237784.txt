@@ -1,0 +1,72 @@
+Recipe number:
+237784.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-14T15:32:43.17
+helpfulCount:
+1
+userID:
+25843328
+Display Name:
+mary moore
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really easy and my family loved it on my first attempt!! Served with a white sauce..i
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-15T20:08:04.737
+helpfulCount:
+0
+userID:
+26490081
+Display Name:
+EricaB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used smoked sweet paprika. Best fish I've ever made! My husband, who's picky about seafood, loved it.

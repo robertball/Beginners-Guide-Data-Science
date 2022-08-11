@@ -1,0 +1,37 @@
+Recipe number:
+257691.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-09T03:47:24.463
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this is good. I made two from this site today and the the edge the other had on this one was in the texture. It got crisped up in a skillet just before serving. This one had better flavor though so I will use this one next time and just execute it different in the end.

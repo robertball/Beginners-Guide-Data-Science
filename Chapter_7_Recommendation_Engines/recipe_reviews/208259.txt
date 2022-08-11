@@ -1,0 +1,37 @@
+Recipe number:
+208259.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-05-13T19:55:45.44
+helpfulCount:
+5
+userID:
+3770892
+Display Name:
+Alexandra Auld
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just made this to throw on some noodles. Granted, I really don't know what it is supposed to taste like but it turned out really well! :D

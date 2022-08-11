@@ -1,0 +1,183 @@
+Recipe number:
+235529.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-18T12:28:23.267
+helpfulCount:
+1
+userID:
+3178347
+Display Name:
+Janet Henderson
+isPro:
+False
+followersCount:
+87
+followingCount:
+0
+madeRecipesCount:
+202
+favoritesCount:
+474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4459432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these with Johnsonville Hot Italian Sausages and the Knishes turned out amazing! Very Good! I had a hard time getting pictures as they disappeared in minutes.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-06T04:15:26.49
+helpfulCount:
+0
+userID:
+4563751
+Display Name:
+Pegeen 
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2858532.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make them again, but I will roll them differently. The dough came out a bit hard. I blame the altitude.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-26T02:29:30.177
+helpfulCount:
+0
+userID:
+25739040
+Display Name:
+Jamie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6759821.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First, these were DELICIOUS. I will definitely be making them again.
+Second, there has to be errors in the quantities listed and the cooking time. 
+1) I used 2.5 medium onions, and 6 large potatoes, and there was enough filling for twice the number of knishes.
+2) The squares from the puff pastries were too small to wrap around a hot dog with 1/2 cup of  potatoes.
+3) The dough was still soft after 15 minutes of cooking. I lost track of how many times I added 10 minutes to the timer, until the pastries were crisp, golden brown, and flaky.
+4) It took us (my son and I) two hours from start to finish.
+But, like I said, they were fantastic, and everybody loved them.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-23T00:36:58.87
+helpfulCount:
+0
+userID:
+24992217
+Display Name:
+Allison Kelly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6294747.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing!!!! Delicious!!!!  I followed the recipe only changing using cocktail hotdogs and making themappetizer size.   Honestly my hubby and I were worried that the potatoes would be dry no way they were so creamy.  Our family couldn’t get enough and wanted to know when we were gonna make them again.   Easy to prepare wouldn’t change one step
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-25T22:42:52.577
+helpfulCount:
+0
+userID:
+13650455
+Display Name:
+Desiree Camarena
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+210
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1184466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these with some left over mash potatoes and they were delicious.

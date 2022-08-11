@@ -1,0 +1,47 @@
+Recipe number:
+165125.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/23/2009
+helpfulCount:
+2
+userID:
+1399780
+Display Name:
+CK13
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+super easy!  super yummy!  if you like lime add more.  my kids gobbled this up.
+Review:
+Rating:
+4
+dateLastModified:
+12/17/2008
+helpfulCount:
+2
+userID:
+3370496
+Display Name:
+Rocketqueen
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+i loved this dish!!! think i couldve used a little more lime, but the recipe was very easy to make and it was really really good!!!
+Review:
+Rating:
+3
+dateLastModified:
+01/28/2009
+helpfulCount:
+1
+userID:
+2255868
+Display Name:
+PNK
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7665154.jpg
+text:
+Very easy, needs a little more taste. Next time I will add more salt/pepper maybe some garlic as well.

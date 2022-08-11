@@ -1,0 +1,73 @@
+Recipe number:
+270866.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-27T06:48:05.6
+helpfulCount:
+0
+userID:
+14053423
+Display Name:
+LARCjpn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+292
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6589447.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this.  I made it and took it for lunch (with the cashews in a separate container to add just before I ate).  I will make this again.
+I think I used apple cider vinegar instead of cider vinegar (I'm assuming they are different).
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-25T15:29:18.267
+helpfulCount:
+0
+userID:
+9432059
+Display Name:
+Kathleen Nanni
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4851685.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+dressing a little too sweet,I also added 1 tsp more vinegar

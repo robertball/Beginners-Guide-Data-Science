@@ -1,0 +1,37 @@
+Recipe number:
+216534.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-16T15:26:13.587
+helpfulCount:
+10
+userID:
+2373577
+Display Name:
+Bonnie Buck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is sooo bad for you but it is good...good...good...I don't use maple syrup for this but add a bit of shredded cheese to it after putting on toast or english muffin and wait until the cheese is melted...Only for people who like scrapple cuz it's an acquired taste!!!

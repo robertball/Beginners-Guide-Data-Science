@@ -1,0 +1,37 @@
+Recipe number:
+24965.txt
+Review:
+Rating:
+1
+dateLastModified:
+2003-05-17T11:07:43.763
+helpfulCount:
+24
+userID:
+435034
+Display Name:
+CHERUBAE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+116
+favoritesCount:
+199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe didn't work for me. The filling (per directions) was more like a solid mass then any sort of custard or pudding. The cake itself lacked flavor. The best part of the cake was the frosting I chose to use ("Creamy Chocolate Frosting").

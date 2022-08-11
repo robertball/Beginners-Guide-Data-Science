@@ -1,0 +1,72 @@
+Recipe number:
+261582.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-26T10:44:46.18
+helpfulCount:
+0
+userID:
+24980753
+Display Name:
+Leigh K
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6286975.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for dinner Wednesday night. I left out the pasta and used more eggplant as the base for the meaty sauce and it was still wonderful. I cut ribbons of eggplant in my veggie slicer and layered them as you would the pasta for a low carb variation that was just as delicious and filling.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-02T22:08:39.633
+helpfulCount:
+0
+userID:
+23786523
+Display Name:
+Infinite Slayer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5444093.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just loved this eggplant lasagna recipe. I'll be using this lasagna recipe from now on. I can't wait to try it again!

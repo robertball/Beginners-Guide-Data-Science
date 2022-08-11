@@ -1,0 +1,72 @@
+Recipe number:
+255412.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-23T18:50:58.163
+helpfulCount:
+0
+userID:
+24406301
+Display Name:
+kinsie 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have cashew butter so I used peanut butter instead. The recipe is a nice mix of salty & sweet.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-02T17:09:46.43
+helpfulCount:
+0
+userID:
+20428047
+Display Name:
+Mïke Kelly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tweaked the recipe a little bit followed the basics for the most part and it turned out great. Tasty, full of goodness and easy to make.

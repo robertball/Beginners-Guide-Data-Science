@@ -1,0 +1,107 @@
+Recipe number:
+247031.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-01T12:02:10.793
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick and easy and pretty tasty, too. Alone with rice, it is simple. The sauce gets 5 stars, the finished dish gets 3 because it is just ok. To give it a kick, I put it in lettuce wraps and also served it wrapped in rice wrappers with some fresh veggies and basil. That snazzed it up a bit. Make some extra sauce for dipping if you go the "roll" route. It is excellent.
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-01T08:32:20.067
+helpfulCount:
+0
+userID:
+26364303
+Display Name:
+Susanne Bellamy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7212927.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had to substitute sweet sherry for the sake and mirin, but enjoyed this dish. Adding it to my monthly repertoire and will buy some mirin for next time.
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-08T23:01:56.917
+helpfulCount:
+0
+userID:
+17729819
+Display Name:
+Ailsa Scott
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+174
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn’t have saki or rice wine so used white wine and rice vinegar as substitutes. Served on a bed of lettuce with fresh cut bell pepper and white rice. Went down well and was a bit different to the usual ground beef options.

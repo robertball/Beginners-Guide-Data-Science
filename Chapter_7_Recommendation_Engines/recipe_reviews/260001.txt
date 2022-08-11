@@ -1,0 +1,81 @@
+Recipe number:
+260001.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-07T00:58:11.85
+helpfulCount:
+1
+userID:
+24500171
+Display Name:
+Jackiie Cano
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5942122.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a really and tasty recipe!
+My only suggestion is to let the hibiscus soak the night before and then boil. This will allow it to have a softer texture. You can use the juice that extracted to make Jamaica water.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-29T16:39:18
+helpfulCount:
+0
+userID:
+11678397
+Display Name:
+Tmoneybundy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used fresh Jamaica flowers this time, because they were available at a local Mexican supermarket. 
+ 
+The only change I made to the recipe, other than soaking the flowers overnight after boiling, was that I added chopped cilantro to the saute. 
+
+So easy to keep vegan or add a crumble of cotija or some crema de avocado.
+
+I served this to a large group, including Mexican nationals,  vegans and meat eaters and EVERYONE LOVED IT!
+
+So simple, so perfect and stunningly delicious.

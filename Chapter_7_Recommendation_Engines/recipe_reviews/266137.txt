@@ -1,0 +1,72 @@
+Recipe number:
+266137.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-08-11T23:42:42.34
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+6003
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+8.11.19  One thing needs to change on this recipe.  It either has to bake for less time or the temperature needs to be reduced.  The chicken thighs TOTALLY overcooked, as well as the onions.  At 450ºF, the onions don’t need to be added until later, probably when you add the sausage. otherwise, they burn up.  Next time, I will start checking the temperature of the chicken at 10-15 minutes, instead of 25.  I agree with the recipe author’s suggestion that carrots would be a good addition, and I would include them right when the chicken and potatoes go into the oven.  The orange zest and the orange juice are a nice addition at the end, really brighten the flavor.  Don’t mean to sound negative because I think this has the potential to be a 5-star recipe, just needs a few adjustments.  The flavor was still very good, and the cleanup was a breeze.  Thanks for sharing.
+Review:
+Rating:
+3
+dateLastModified:
+2018-10-07T22:22:44.027
+helpfulCount:
+0
+userID:
+15096759
+Display Name:
+Lauren Holy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5791115.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Seasoned my chicken with onion n garlic powder.

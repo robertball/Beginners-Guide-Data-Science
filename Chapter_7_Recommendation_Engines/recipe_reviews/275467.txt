@@ -1,0 +1,37 @@
+Recipe number:
+275467.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-07T14:40:03.917
+helpfulCount:
+0
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1031
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!  I made as written other than using about 2/3 of a bunch of cilantro.  I found the spiciness level to be perfect but my family thought it was a little too spicy- seeding the serranos would help with this if you're sensitive to spice.  In the future if I made this I would cut the vinegar a little- a little too tangy for my taste but still yummy.  This sauce smelled fabulous!!

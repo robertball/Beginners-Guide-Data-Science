@@ -1,0 +1,72 @@
+Recipe number:
+264741.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-20T20:03:28.16
+helpfulCount:
+2
+userID:
+19715658
+Display Name:
+chelseajogden@gmail.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used it with boneless skinless chicken breast and it turned out great! The wine helps keep things moist in the skillet. It was delicious!
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-05T00:23:43.607
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+244
+followingCount:
+0
+madeRecipesCount:
+1339
+favoritesCount:
+2845
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written. It was way too much lemon flavor. I’d scale this back to 1/2 a lemon- juiced.  Served it over  spinach greens which kind of saved the meal as it served as a salad dressing.

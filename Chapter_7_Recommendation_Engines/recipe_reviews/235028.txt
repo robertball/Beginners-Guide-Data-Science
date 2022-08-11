@@ -1,0 +1,72 @@
+Recipe number:
+235028.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-01T15:09:42.03
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and left out the two optional ingredients (mint and bitters). My BBQ sauce of choice is Gates which is a Kansas City sauce so it is more spicy than sweet. Using a sweeter sauce would have made these too sweet for us. To each their own when it comes to BBQ sauce but you really need to use one you are familiar with and like for this recipe. I really enjoyed the flavor the three meats added to this. The next time I make these I plan on swapping out the liquid smoke for some smoked paprika. Great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-28T04:22:43.887
+helpfulCount:
+0
+userID:
+8449119
+Display Name:
+Michael Flory
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+82
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3635020.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made these beans as part of our Christmas dinner and they were a hit!   Everyone went back for seconds!

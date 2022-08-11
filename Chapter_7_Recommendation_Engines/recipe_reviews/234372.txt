@@ -1,0 +1,37 @@
+Recipe number:
+234372.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-02T16:02:58.233
+helpfulCount:
+1
+userID:
+3906644
+Display Name:
+Sandy Geraci
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The basics of this recipe are great.  I went with a cinnamon graham crust which was terrific.  I also substitued with light cream cheese and light cool whip.  We live in Florida so always have frozen mangos in the freezer.  I drained the frozen mangos and used the jiuice as part of the 1 cup cold water....really added to the flavor.  My husband Loved this dessert.  Very nice and light with great mango flavor.

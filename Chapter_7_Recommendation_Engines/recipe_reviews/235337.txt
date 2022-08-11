@@ -1,0 +1,107 @@
+Recipe number:
+235337.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-03T08:35:24.817
+helpfulCount:
+12
+userID:
+13260603
+Display Name:
+Ms Mel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Family approved! absolutely delicious! I added strawberries to the top to make it taste even better. next time I'm going to add kiwi fruit either on top or in place of the bananas. Also, 4 bananas isn't necessary, 3 is plenty! Will definitely be making this often!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-30T02:06:41.417
+helpfulCount:
+0
+userID:
+8459056
+Display Name:
+jamiercano
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is such a great desert. Simple and tasty. I make this for special occasions and it is always a big hit with no left overs. I generally will put toasted coconut on top instead of strawberries and we all really love it.
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-12T09:31:32.267
+helpfulCount:
+0
+userID:
+13467899
+Display Name:
+Pam Van Schie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+2584
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4384985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made an Adult version, did not split the twinkles, after I layered them brushed som rum on top then followed the directions but added strawberries on top and sprinkled with chocolate syrup.

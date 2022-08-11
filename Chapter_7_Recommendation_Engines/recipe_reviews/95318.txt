@@ -1,0 +1,107 @@
+Recipe number:
+95318.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-01-09T14:42:04.357
+helpfulCount:
+22
+userID:
+1563453
+Display Name:
+Mindy W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was really easy to make. Tastes like chicken noodle soup. Would probably saute the celery and onions because the celery was crunchy. The crunchyness didn't really go with the overall texture.
+Review:
+Rating:
+4
+dateLastModified:
+2008-01-01T15:39:01.183
+helpfulCount:
+5
+userID:
+1982546
+Display Name:
+Tanaquil
+isPro:
+False
+followersCount:
+71
+followingCount:
+0
+madeRecipesCount:
+452
+favoritesCount:
+298
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/38698.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I opted not to add the celery and onions and instead used celery salt & onion pwdr. I think I got too much seasoning overall because with a tsp. of black pepper, it was spicy! If I make again, I would definitely saute the onions and celery before adding to the cracker mixture (as previous reviewer noted). Thanks for a different take on dressing/stuffing!
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-24T09:33:20.303
+helpfulCount:
+3
+userID:
+4094655
+Display Name:
+Martin Sparks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My father made a rendition of this every Thanksgiving.  He never kept a recipe.  I have tried to duplicate it over the years much to my family's chagrin.  I wet the crackers with giblet broth, or chicken stock.  I have added different variables depending on my whim: sausage, nutmeats, fruit, even oysters.  It is a great base for stuffing and I have never appreciated the crouton, bread cube variety since I grew up on this version using saltine crackers.

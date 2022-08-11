@@ -1,0 +1,37 @@
+Recipe number:
+235852.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-16T20:40:52.017
+helpfulCount:
+3
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5751
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.16.17  Wow, to say we loved these olives is an understatement!  They have layer upon layer of interesting flavors, the most unique one being the tangerine.  Cooked for an hour, and that did the trick.  I didn’t use pit-in olives, used pit-free simply for ease of eating.  If you’re an olive connoisseur (or even if you just like olives), you must try this recipe.  NONA, winner recipe going into my Favorites folder, thanks for sharing.

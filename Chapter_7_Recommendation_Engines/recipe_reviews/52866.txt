@@ -1,0 +1,47 @@
+Recipe number:
+52866.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/25/2004
+helpfulCount:
+8
+userID:
+747794
+Display Name:
+UNDONESTITCHES
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I made these for out preschool class.  They were a huge hit!!  Yummy and healthy!!
+Review:
+Rating:
+5
+dateLastModified:
+01/25/2004
+helpfulCount:
+2
+userID:
+916756
+Display Name:
+MJCROOKS
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+A very nutritious muffin that tastes very moist and wonderful.  Even my picky kids will eat these!
+Review:
+Rating:
+3
+dateLastModified:
+04/04/2004
+helpfulCount:
+0
+userID:
+661570
+Display Name:
+momnipotent
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I really wanted to like these muffins, but I found them to be quite wanting in flavour.  Needs more oomph, but not sure what.

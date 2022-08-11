@@ -1,0 +1,107 @@
+Recipe number:
+256878.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-08T20:24:13.32
+helpfulCount:
+8
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1031
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy and delicious too!  The Unwrap & Roll Mozzarella was very easy to work with and held up nicely when rolled.  I would definitely make again- especially since this recipe works with my husband's low carb diet!
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-25T23:44:56.193
+helpfulCount:
+1
+userID:
+13634521
+Display Name:
+Meg Stulb Loftheim
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1403923.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Greatest recipes. Easy to follow. And they have nutritional values
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-22T17:49:20.133
+helpfulCount:
+0
+userID:
+14533080
+Display Name:
+Jennifer Renee S
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+109
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4026818.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was really good, but personally I really like my sandwiches with bread.  My mom really liked it, even without the bread since she's on a low-carb diet.  We added some mayo on them too, but they're good without as well.

@@ -1,0 +1,107 @@
+Recipe number:
+220315.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-03-25T06:09:35.15
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8919
+followingCount:
+0
+madeRecipesCount:
+1121
+favoritesCount:
+2304
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I halved the recipe to use as a side dish to Mediterranean Crusted Chicken (also from this site). I think the 3 hour wait time for the flavors to blend was a bit too much, as by the time we served this, the pasta had soaked up all of the dressing, and the flavors were really lost. I would dress it maybe half an hour before serving next time. We ended up having to add more balsamic, lemon juice and oil to flavor it up before eating.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-05T05:50:35.59
+helpfulCount:
+0
+userID:
+16656193
+Display Name:
+Malcolm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had leftover asparagus and eggplant from my yard and didn’t think they would go together.  This recipe brought it all together in a delicious way.  The lemon and vinegar were a great addition.  The only thing I added was a little bit of blue cheese at the end.  I’ll make it again for sure.
+Review:
+Rating:
+2
+dateLastModified:
+2015-05-21T15:26:19.68
+helpfulCount:
+0
+userID:
+15780572
+Display Name:
+Pamela Elm Graver
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2284063.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It wasn't a hit for my family.

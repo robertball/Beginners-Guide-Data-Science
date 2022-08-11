@@ -1,0 +1,37 @@
+Recipe number:
+258886.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-08T23:54:56.93
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+765
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A nice change of pace for chicken! Next time I will marinate the chicken ahead of time as suggested for extra flavor.   There is quite a bit of cayenne, and while this doesn't make the actual meat spicy, if you'd like to use the drippings, be aware that it will be spicy.  Also, my chicken was 4lbs and it was done at 1h 15, so for a 2lb chicken as stated in the recipe, you'll want to check well before this amount of time. Thanks for the recipe!

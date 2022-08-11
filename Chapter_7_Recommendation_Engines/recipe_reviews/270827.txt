@@ -1,0 +1,37 @@
+Recipe number:
+270827.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-29T11:46:17.86
+helpfulCount:
+1
+userID:
+11502120
+Display Name:
+TeaLover767
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+286
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4496875.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved my first taste of Hummingbird cake when I moved South many years ago, so this recipe caught my eye. I generally have cottage cheese, but for this recipe I purchased a single-serve cup with pineapple topping. I drizzled on a bit of maple syrup, probably a tsp, which was plenty. The taste was superb, and I loved the combination of textures. I used walnuts, as I had them on hand. Will make again!

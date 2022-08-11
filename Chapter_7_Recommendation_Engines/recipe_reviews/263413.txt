@@ -1,0 +1,72 @@
+Recipe number:
+263413.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-16T11:16:29.317
+helpfulCount:
+1
+userID:
+26139206
+Display Name:
+Hung Nguyen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7249481.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So delicious. It is great!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-29T23:02:27.37
+helpfulCount:
+1
+userID:
+6392739
+Display Name:
+zel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+248
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out excellent!

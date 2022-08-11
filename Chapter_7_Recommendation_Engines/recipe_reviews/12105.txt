@@ -1,0 +1,47 @@
+Recipe number:
+12105.txt
+Review:
+Rating:
+3
+dateLastModified:
+11/25/2002
+helpfulCount:
+12
+userID:
+184874
+Display Name:
+SVENSK
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was okay but I wouldn't rate it as worth making again. The flavor was quite nice but everyone agreed that all the marshmallows should be melted - the texture of the whole ones didn't fit the pie. Otherwise it was a fairly nice treat.
+Review:
+Rating:
+3
+dateLastModified:
+08/24/2010
+helpfulCount:
+4
+userID:
+5219254
+Display Name:
+gin123
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The pie tasted good but it looked like a reindeer threw up.
+Review:
+Rating:
+4
+dateLastModified:
+12/26/2009
+helpfulCount:
+4
+userID:
+2710055
+Display Name:
+inskydiamonds
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/447804.jpg
+text:
+Based on the other review I didn't add the extra marshmallows in at the second step. The texture of the pie was nice and creamy and tasted just like Christmas! It made for a simple and yjmmy holiday dessert.

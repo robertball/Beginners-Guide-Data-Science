@@ -1,0 +1,37 @@
+Recipe number:
+262689.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-12T05:29:20.88
+helpfulCount:
+0
+userID:
+25763446
+Display Name:
+Lea Annandale-Dippenaar
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6776729.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+An easy recipe which produces a delicious rich cake. I am not sure whether the Greeks use any icing or frosting as the texture is quite heavy, almost like a dessert.

@@ -1,0 +1,37 @@
+Recipe number:
+259001.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-01T15:43:29.213
+helpfulCount:
+0
+userID:
+4667081
+Display Name:
+cklee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+386
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really lovely! Beautifully scented, perfect pound cake. If you aren't using a tube pan, this makes 1 9x5 and 1 8x4 at a time. My tube pan was packed away.

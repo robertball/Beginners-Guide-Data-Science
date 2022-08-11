@@ -1,0 +1,107 @@
+Recipe number:
+240867.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-08T21:15:23.37
+helpfulCount:
+7
+userID:
+1454225
+Display Name:
+Lisa Harwood-Stamper Burns
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+148
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2687193.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you are doing a Daniel Fast, note that brown rice syrup is not allowed. Also, some people do not use vanilla extract on the fast as it contains alcohol. That being said, I made this recipe without the brown rice syrup, but with vanilla extract and a little almond extract. I also used dried cranberries instead of raisins. Both my husband and I found it very tasty!
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-17T19:59:49.04
+helpfulCount:
+2
+userID:
+5440496
+Display Name:
+Angela
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added chia seeds, hemp hearts, ground almond and toasted cocoanut and switched to real maple syrup. Also added another 20gms protein powder for the extra bang and I really like the taste of them!
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-03T21:50:03.777
+helpfulCount:
+0
+userID:
+24175170
+Display Name:
+Erin M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious and very rich!

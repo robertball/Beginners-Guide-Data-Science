@@ -1,0 +1,143 @@
+Recipe number:
+257385.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-12T12:17:35.93
+helpfulCount:
+1
+userID:
+5905805
+Display Name:
+Takia Washington
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3634329.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added a little fish sauce and smoke to bump up the flavor and get it closer to what is served at restaurants.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-03T22:54:22.45
+helpfulCount:
+0
+userID:
+8032984
+Display Name:
+Mary Neumann
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7719610.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+To die for!!!
+Liked it so much I doubled sauce to cover more.  Yummy!
+Review:
+Rating:
+1
+dateLastModified:
+2018-01-31T17:38:13.32
+helpfulCount:
+0
+userID:
+7593060
+Display Name:
+Judy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+420
+favoritesCount:
+2085
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too much pepper and raw garlic too strong
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-26T00:50:27.797
+helpfulCount:
+0
+userID:
+17122929
+Display Name:
+Tonilee Watson
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Light and tasty, compliment to any Asian meal!

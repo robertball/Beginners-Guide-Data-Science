@@ -1,0 +1,72 @@
+Recipe number:
+223430.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-12T14:54:12.593
+helpfulCount:
+7
+userID:
+4419377
+Display Name:
+Lisa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+397
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very good!  I was given two angel food cakes and needed a way to use them other than a desert.  I made two batches and will freeze some.  This stuff is addictive!  LOL!
+Review:
+Rating:
+5
+dateLastModified:
+2012-06-30T13:16:34.67
+helpfulCount:
+7
+userID:
+4679651
+Display Name:
+Life Tastes Good
+isPro:
+False
+followersCount:
+259
+followingCount:
+0
+madeRecipesCount:
+223
+favoritesCount:
+476
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2789776.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my daughter's recipe. She uses a 13x9x2" cake pan to make the cake, but the 10" tube pan will work fine. Anything smaller the cake will overflow - so be careful. You can also buy a pre-made angel food cake for this. We haven't tried that yet because we are afraid it might make it too sweet.

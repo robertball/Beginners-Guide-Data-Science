@@ -1,0 +1,72 @@
+Recipe number:
+237892.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-10T13:19:06.13
+helpfulCount:
+3
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hubby and I both LOVED this! Refreshing and fruity with a nice kick...a definite keeper~YUM!!!!! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-28T21:02:34.88
+helpfulCount:
+0
+userID:
+17138159
+Display Name:
+Mikaela Cox
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+262
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3040418.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So delicious!! It’s winter here in VA, but that didn’t stop me from enjoying this drink on a chilly Sunday afternoon. I’ll definitely be keeping this recipe in my cocktail rotation!

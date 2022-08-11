@@ -1,0 +1,182 @@
+Recipe number:
+264820.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-02T15:38:32.383
+helpfulCount:
+6
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My favorite thing in the air-fryer so far. Mine does not let me do 355 but only 350 and 360. I did these at 350 for 20 minutes and they came out perfectly. Big thumbs up on this recipe and 5 stars all the way!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-15T21:24:01.727
+helpfulCount:
+2
+userID:
+1820802
+Display Name:
+Judi Gesell Judge
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2730266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I haven’t used my air fryer much since I bought it so was glad to see this recipe. I didn’t have yeast, or garlic salt, so I used garlic powder & salt.  They are very crunchy, but I must have used way too much garlic powder because I am going t have garlic breath for a week. Next time I am going to try something sweet on them, I saw someone on a cooking show use honey on them, I think cinnamon sugar would be good.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-02T19:38:03.8
+helpfulCount:
+1
+userID:
+13875225
+Display Name:
+coops
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3198187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first air fryer recipe. My advice is to make a few batches of these since they'll go fast.
+
+Update: After making variations on this recipe a few times I've made the following adjustments:
+- Rinse the beans
+- Make like a jelly roll to dry the beans. Put down a dinner plate, then 3 continuous sheets of paper towels with the edge  at the edge of the plate, cover the plate with beans, fold the paper towels over the beans, then roll the paper towels up
+- Use this basic recipe but with other spice mixes like ranch dressing powder, Chex Mix seasoning, or tajin.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-17T23:55:54.58
+helpfulCount:
+0
+userID:
+6154308
+Display Name:
+K. Ross
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7113398.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+delicious! I had to cook them about 5 minutes longer in my air fryer.
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-04T00:21:53.107
+helpfulCount:
+0
+userID:
+2018759
+Display Name:
+InkyTator
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I put them in the air fryer for 5 minutes to dry (vs paper towels).  When dried, added oil and seasoning and cooked on 350 shaking basket every 5 minutes. Mine were done in 15 minutes.  Next time I'll shorten the time, as these were too dry, although still tasty.

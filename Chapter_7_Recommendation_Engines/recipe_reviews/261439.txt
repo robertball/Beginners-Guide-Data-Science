@@ -1,0 +1,38 @@
+Recipe number:
+261439.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-13T21:44:53.593
+helpfulCount:
+0
+userID:
+11020021
+Display Name:
+Foodie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+587
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made no changes to this recipe  and although the texture was very nice and I enjoyed the process, the end result was a coffee cake screaming for flavor like maybe some cinnamon and nutmeg or allspice.
+Not enough almond flavor either... of course that is my own issue , as some may like a subtle, simple, clean flavor coffee cake . Will make again and find my happy place with it. Thank you for the recipe. JG

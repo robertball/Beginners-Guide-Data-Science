@@ -1,0 +1,108 @@
+Recipe number:
+223105.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-08-20T12:24:35.63
+helpfulCount:
+3
+userID:
+3364201
+Display Name:
+TribePride
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+145
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/467103.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love the idea of this crisp much more than the actual product. Unfortunately, it just didn't do it for me. The fruit part was fine, although I wish I had used more fruit. There was less fruit than I like in my crisps.  My problems were with the topping. First of all, there was too much of it for the amount of fruit.  You could halve the topping and it would be sufficient.  And the molasses made the crumble topping too heavy, and it didn't crisp up at all for me, even when I cranked up the oven temperature. I love using whole wheat flour, but I have to admit that this might be one of those times where you ought to blend white and whole wheat instead of using all whole wheat in order to keep it light. I'll have to try another crisp using whole wheat and brown sugar rather than molasses to see if this is the case. 
+Nonetheless, thank you for the recipe! I'll probably use components of it in the future, like mixing the fruit with honey instead of granulated sugar. I like that idea. :)
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-05T13:47:42.27
+helpfulCount:
+0
+userID:
+17089364
+Display Name:
+Theresa Heiman
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3009291.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make this again!
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-07T08:18:05.403
+helpfulCount:
+0
+userID:
+8164904
+Display Name:
+Liz Kruze
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe.  I did read the other comment about theirs not turning out crisp and decided to use whole wheat pastry flour, and dark brown sugar in the topping.  I also baked it longer at 400 degrees making it crispy. Mine turned out tart which is ok, it went well with lite whipped topping.  I might try the topping in an apple or peach crisp.  Thanks for sharing this recipe.

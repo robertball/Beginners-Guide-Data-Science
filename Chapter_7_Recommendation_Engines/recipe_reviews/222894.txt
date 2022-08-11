@@ -1,0 +1,72 @@
+Recipe number:
+222894.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-09T06:51:37.757
+helpfulCount:
+4
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8913
+followingCount:
+0
+madeRecipesCount:
+1117
+favoritesCount:
+2285
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband's sister lives in Santiago, Chile, and we had our first Pisco Sours while visiting her in 2006. We sent our daughter there this summer, and my sister-in-law sent a bottle of Pisco back with her to bring to us. Slight little problem though - as my daughter is only 15. She was detained by Customs & Immigration after honestly answering their question about if she was carrying any alcohol with her. She was escorted to us by a Customs officer. We had no idea what was going on, until the officer explained that people under the age of 21 are not allowed to transport alcohol! Duh! What was my SIL thinking? Anyway, he let the Pisco (and our daughter) through, seeing that WE were over 21, and the ones picking her up from the airport. Now we can make Pisco sours, and this recipe is just how I remember them. Be careful though, as a couple of these will knock you on your butt!
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-25T05:37:40.663
+helpfulCount:
+0
+userID:
+13374913
+Display Name:
+Roger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent. Just as I remember them in Lima.

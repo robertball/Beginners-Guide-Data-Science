@@ -1,0 +1,82 @@
+Recipe number:
+265394.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-24T01:22:22.24
+helpfulCount:
+2
+userID:
+739505
+Display Name:
+DOUGFRITZ
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really liked this recipe.  Was a tad hot for my wife but she loved it.  We let it marinated for just about 5 hours.  Cooked on gas grill over direct heat, about 450 degrees.   I cooked about 4 minutes per side and it was perfectly done.
+
+I love the glaze, it was worth the extra effort to boil down the marinade to make it thick.   
+
+I would like to try this on lamb.
+----------------------------------------------------------------------
+UPDATE: 7/12/18
+
+Made this again and this time I cut all the spices in 1/2 because my wife can not handle spicy foods very well.  I also increased the honey a little.  I felt the flavor did not suffer and this time I could taste the root beer.  
+
+I like my food spicy so I added chipotle on my after cooking.  I think it taste about the same as when added to the marinade.   I made the glaze again and I do think it is worth extra time/effort.
+Review:
+Rating:
+3
+dateLastModified:
+2018-06-11T03:36:16.897
+helpfulCount:
+1
+userID:
+16890477
+Display Name:
+Amber Moser
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2887557.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Next time I would let it marinate longer to see if that brought out more of the flavor.

@@ -1,0 +1,37 @@
+Recipe number:
+276745.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-24T17:40:10.113
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2460
+favoritesCount:
+2263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made exactly as directed to begin with but had to scramble to salvage it as soon as I opened the lid. There was no liquid left in the pot. It had the consistency of oatmeal. Thankfully I had a carton of chicken broth on hand and I ended up using all 32 ounces of it. I also felt that the lentil/rice ratio was off. If I were to make this again, I'd use half of the rice the recipe calls for which might also solve the lack of liquid problem. Overall good flavor but tweaks are needed with this recipe.

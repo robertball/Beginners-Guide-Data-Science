@@ -1,0 +1,37 @@
+Recipe number:
+258191.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-16T23:17:15.593
+helpfulCount:
+0
+userID:
+26476364
+Display Name:
+Michiko559 L
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7297772.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The bread flour measurement is under the filling... almost missed it because I was just making the dough.  I should always read the whole recipe before making it! :)

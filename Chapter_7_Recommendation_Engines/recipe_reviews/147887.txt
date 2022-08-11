@@ -1,0 +1,62 @@
+Recipe number:
+147887.txt
+Review:
+Rating:
+4
+dateLastModified:
+01/26/2009
+helpfulCount:
+1
+userID:
+3441305
+Display Name:
+Jim Bennett
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8092831.jpg
+text:
+This recipe made a huge portiona and it was very tasty.  It was a bit dry--I'll definitely add a bit more chicken stock next time and a bit more cream at the end.
+Review:
+Rating:
+5
+dateLastModified:
+03/29/2008
+helpfulCount:
+1
+userID:
+1841952
+Display Name:
+belle
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/203599.jpg
+text:
+This was really great.  I make a lot of pasta dishes because they are quick, easy, and tasty.  Sometimes it is mundane making the same thing over and over again so this really spiced it up.  It is a unique combo but worked really well.  I didn't include the cream b/c I didn't have any, but it was still really good.
+Review:
+Rating:
+2
+dateLastModified:
+03/11/2009
+helpfulCount:
+1
+userID:
+196907
+Display Name:
+STUUUAAART
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/190109.jpg
+text:
+I thought this recipe was dry just like many of the other reviews said.  I also found this extremely bland.  I seasoned the dish at every step with salt and pepper but it ended up with not much flavor at all.  We had to put hot sauce on it just to eat it. Would not recommed this one.
+Review:
+Rating:
+3
+dateLastModified:
+02/22/2008
+helpfulCount:
+0
+userID:
+impatientchef
+Display Name:
+Impatient Chef
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3453756.jpg
+text:
+I liked the combinations, but was a little dry.  Next time, I'll add a little more broth.

@@ -1,0 +1,72 @@
+Recipe number:
+234293.txt
+Review:
+Rating:
+2
+dateLastModified:
+2014-03-10T18:22:45.437
+helpfulCount:
+2
+userID:
+2360345
+Display Name:
+Melissa Goff
+isPro:
+False
+followersCount:
+1368
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+1338
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2417840.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was okay but was lacking "stew" quality with no flavor. The problems with the recipe is that the ratio of the ingredients is off. It needs an additional amount of meat to match the amount of vegetables calls for. It also lacked flavor and tasted as if I didn't even add the bouillon or onion soup mix. And the broth was flat, not thick and creamy. As is, I won't make again. Because I had to fix the recipe by making a rue with butter, flour, herbs and spices and add to the broth to thicken this recipe up to what I know to be a stew. Sorry, it didn't work as is.
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-08T15:54:53.31
+helpfulCount:
+2
+userID:
+12867163
+Display Name:
+Heather Hewitt
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2345866.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe last night and cooked it overnight in the slow cooker on low for 7 hours.  This morning I added the barley, then turned it up to high for 1/2 hour.  This stew is delicious!  My 3 and 5 year olds agreed.  The recipe is quick and easy to make and low in calories.  Thank you for posting this recipe.  It is a keeper to enjoy for years to come!

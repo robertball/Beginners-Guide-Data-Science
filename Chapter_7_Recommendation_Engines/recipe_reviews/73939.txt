@@ -1,0 +1,72 @@
+Recipe number:
+73939.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-04T17:25:01.427
+helpfulCount:
+7
+userID:
+4358807
+Display Name:
+Athena E
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+338
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/335744.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This makes a wonderful hostess gift, especially for those who might otherwise not be familiar with feta or Greek cooking.  A good start for developing those pungent taste buds!  I think I would  include a recipe using feta cheese with this gift, such as spanakopita triangles!
+Review:
+Rating:
+4
+dateLastModified:
+2011-12-31T11:50:47.233
+helpfulCount:
+3
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Get ready to pucker because this is pungent!  Great topper for a big old Greek salad.

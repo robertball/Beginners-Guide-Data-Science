@@ -1,0 +1,107 @@
+Recipe number:
+245149.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-25T12:03:32.807
+helpfulCount:
+2
+userID:
+11692207
+Display Name:
+Manrinle
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+265
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The Family loved it.  I used ground turkey because it was leftover from something else.  I used white potatoes instead of sweet potatoes and added some corn and Tarragon.  The recipe made just the right amount of filling for a 10" pie.  I refrigerated the pie for a couple of hours so it took about an hour to cook
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-26T02:03:31.42
+helpfulCount:
+0
+userID:
+10716547
+Display Name:
+Jen D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used fresh vegetables instead of frozen (carrots, green beans and sweet potatoes), threw in some canned corn, cooked the celery with the inion in the butter, used vegetable broth instead of chicken broth, omitted the onion powder (didn’t have any) and cut the butter to 1/2 cup.  I also cut back on the flour, broth and milk because I was worried that it would overflow the pie dish. It came out beautifully!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-30T23:41:48.627
+helpfulCount:
+0
+userID:
+11629910
+Display Name:
+Debbie Brasher Lewandowski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+499
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4019893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! I normally make my pot pies with cream of chicken soup but wanted something different. This was great! I added a couple small diced red potatoes instead of the sweet potato. Added more broth to dilute the filling just a bit because the filling was way too thick. I added garlic powder & celery salt because I didn’t have celery seed. It came out beautiful!

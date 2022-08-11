@@ -1,0 +1,37 @@
+Recipe number:
+274696.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-11T16:52:13.74
+helpfulCount:
+0
+userID:
+4196222
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+154
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This had great flavor in my opinion.  The only thing that would have made it better was if it had more "juice" in the peach portion.  I am allergic to coconut so I used regular, unsalted butter.  I left out lemon zest bc I didn't have any at home.  I will definitely make again

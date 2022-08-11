@@ -1,0 +1,72 @@
+Recipe number:
+75987.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-08-24T19:57:28.64
+helpfulCount:
+4
+userID:
+1893994
+Display Name:
+CookingMama
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum, nice and tart.  Basicaly, it a G&T with pomegranate juice (which i'm hooked on lately).  It may not be everybody's cup of tea, but I rather enjoyed it.
+Review:
+Rating:
+1
+dateLastModified:
+2009-05-09T11:12:17.85
+helpfulCount:
+1
+userID:
+3394371
+Display Name:
+Natalie Taylor
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will not make this again.

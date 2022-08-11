@@ -1,0 +1,37 @@
+Recipe number:
+268115.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-10-26T21:28:02.653
+helpfulCount:
+2
+userID:
+2739880
+Display Name:
+arsjennings
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'd give this 5 stars had the amount of cornstarch not been off so far. I used 4 Tablespoons in order to thicken this enough to set.  (not a typo....Tablespoons is correct)

@@ -1,0 +1,74 @@
+Recipe number:
+244862.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-22T22:37:03.88
+helpfulCount:
+0
+userID:
+21328784
+Display Name:
+PreTat35
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It turned out really well considering there is no specified temp to preheat and cook at. So I did 375 for 45 minutes. The cheese was crusty and almost burnt. So I would recommend 350 and checking on it every 10 to 15 minutes. Seeing as how everything is precooked anyway. All you need is for the cheese to get bubbly. 
+
+PS it was a hit. I got two people in the house who are not a fan of bell peppers.  But they loved this dish.
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-27T01:43:34.487
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+1096
+followingCount:
+0
+madeRecipesCount:
+2888
+favoritesCount:
+1948
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8440171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This went over pretty well with my family. I made a homemade version of spice ranch dressing, taco seasoning, as well as the rice. I would definitely add some fresh, hot peppers in the mix next time. Thank you for the recipe.

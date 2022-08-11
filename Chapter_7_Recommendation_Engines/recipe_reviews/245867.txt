@@ -1,0 +1,37 @@
+Recipe number:
+245867.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-02T22:00:41.71
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found the peanut butter flavor was lost and the muffins were actually on the bland side. The only time there was some flavor in them was when I bit into a chocolate chip and there wasn't a chocolate chip in every bite. Thank you for the recipe but I will not make these again. 06-06-19 Update: I placed these in the freezer and I tried one today. The flavors actually melded  and bloomed. I could taste the peanut butter and they were not bland any longer. I have changed my rating of 3 stars to 4. And yes, I would make these again.

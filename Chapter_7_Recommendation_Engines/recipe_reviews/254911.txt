@@ -1,0 +1,37 @@
+Recipe number:
+254911.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-05-06T17:53:09.377
+helpfulCount:
+0
+userID:
+8823989
+Display Name:
+SusanDE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/790469.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I reduced almond extract to 2 tsp. Used food processor to mix dry ingredients which made the dough look great until I added the diced canned peaches. Dough was too wet and I had to add lots more flour. They baked well and tasted good but I would still reduce the almond extract to 1 tsp.

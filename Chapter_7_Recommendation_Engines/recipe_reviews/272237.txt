@@ -1,0 +1,37 @@
+Recipe number:
+272237.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-28T01:21:13.037
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love cheese but as written this was way too thick in my opinion. I ended up having to add some liquid to get all of the cheese to melt, Liquid of choice was a generous splash of brine from a jar of pickled jalapenos. Overall a good recipe but plan on adding some liquid for a more dippable type consistency.

@@ -1,0 +1,77 @@
+Recipe number:
+25042.txt
+Review:
+Rating:
+5
+dateLastModified:
+02/16/2003
+helpfulCount:
+6
+userID:
+755822
+Display Name:
+CHOCOLAIT
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+A great recipe for people allergic to eggs. We love it!
+Review:
+Rating:
+4
+dateLastModified:
+02/16/2003
+helpfulCount:
+5
+userID:
+284249
+Display Name:
+JASMINE NATHANIEL
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Great recipe for toddlers!
+Review:
+Rating:
+5
+dateLastModified:
+12/08/2005
+helpfulCount:
+5
+userID:
+756678
+Display Name:
+UNLUCKYCHARMS
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Chocolate chip cookies for dummies! These are so simple and so tasty! Great for kids to make. Wash their hands and let them mix the dough with their fingers. Who needs a pastry blender?
+Review:
+Rating:
+2
+dateLastModified:
+09/08/2006
+helpfulCount:
+4
+userID:
+2062769
+Display Name:
+meh
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+for a quick sugar fix this is a great recipe but i followed the directions and it came out tasting like play dough with chocolate chips. So in the future I would cut back on the flour I think.
+Review:
+Rating:
+4
+dateLastModified:
+01/07/2017
+helpfulCount:
+2
+userID:
+cookingbikerchick
+Display Name:
+Yoly
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8195143.jpg
+text:
+The name of the recipe is perfect since this crumbles very easily. It tastes like all the broken pieces that fall to the bottom of a bag of cookies. I would have given it 3 stars because I didn't care too much for it but the family thought it was pretty good. So 4 stars it is.

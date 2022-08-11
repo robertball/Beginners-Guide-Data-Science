@@ -1,0 +1,37 @@
+Recipe number:
+276136.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-29T13:21:28.573
+helpfulCount:
+0
+userID:
+12591447
+Display Name:
+tcasa
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+776
+favoritesCount:
+1497
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2386212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These looked fabulous!! When microwaving the sugar cones, use your judgement regarding the times. I put the cones in for 20 seconds then another 10 seconds to shape them. Worked out beautifully!! My family thought they were very cute & I loved reusing sugar cones from a summer party. Thank you for the wonderful idea!!

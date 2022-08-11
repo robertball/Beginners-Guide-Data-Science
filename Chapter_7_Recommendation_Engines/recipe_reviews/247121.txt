@@ -1,0 +1,37 @@
+Recipe number:
+247121.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-16T22:34:37.17
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The dill didn't make it into the photo but I did remember it after I took a couple of bites and then added it. This is a great mix to have on hand and I really liked the additional of dill. The one negative thing I will say is that buying all of the different kinds of greens separately gets expensive. They make a mixed back that has everything in it but the endive which seems the more affordable way to go in my opinion. Just don't forget about the parsley and dill. They make a HUGE difference!

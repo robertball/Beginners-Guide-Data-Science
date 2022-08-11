@@ -1,0 +1,48 @@
+Recipe number:
+76234.txt
+Review:
+Rating:
+5
+dateLastModified:
+10/23/2005
+helpfulCount:
+10
+userID:
+1569013
+Display Name:
+Paula
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe is great. I even substituted some of the ingredients and it still worked! For example i used whole wheat flour, all-bran flakes,I grated the apples and i added a few chocolate covered cranberries!
+I will definately make this one again.
+Review:
+Rating:
+1
+dateLastModified:
+11/16/2007
+helpfulCount:
+0
+userID:
+2611469
+Display Name:
+Granny 41
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The flavor of this recipe is good.  The problem is that you can not get the muffins out of the paper muffin cups once they have cooled.  I have made this recipe twice, once with the paper cups and once in the greased tins.  Same problem.
+Review:
+Rating:
+3
+dateLastModified:
+12/26/2006
+helpfulCount:
+0
+userID:
+285622
+Display Name:
+Caliope
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I omitted the oil, flax seeds and currants; and added a diced bosc pear.  I thought these were good, but a little spongy.  They didn't stand out, but for a healthy snack, they didn't get turned down, either.

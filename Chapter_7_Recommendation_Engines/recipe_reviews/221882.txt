@@ -1,0 +1,72 @@
+Recipe number:
+221882.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-02T19:01:36.513
+helpfulCount:
+3
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I remember having Maizcena (correct spelling) when I was a kid at my grandmother's but I don't remember the taste or if I liked it. Having said that, I liked this pudding. It was easy to make and it came together a lot quicker than the specified times.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-04T14:13:59.207
+helpfulCount:
+1
+userID:
+3479162
+Display Name:
+T C
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+342
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and delicious! My family loves this recipe and I love that they get so much calcium from it. It does set very firm, but we like pudding like that (much better than not setting and being loose).

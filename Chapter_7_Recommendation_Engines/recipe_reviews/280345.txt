@@ -1,0 +1,122 @@
+Recipe number:
+280345.txt
+Review:
+Rating:
+5
+dateLastModified:
+06/05/2020
+helpfulCount:
+5
+userID:
+27215977
+Display Name:
+Janice Christopher
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7874523.jpg
+text:
+These biscuits are amazingly delicious! They're slightly crispy on the outside and very tender on the inside. I served them alongside meatloaf and mashed potatoes. They were a hit with my family and I'll be making them again and again!
+Review:
+Rating:
+4
+dateLastModified:
+06/08/2020
+helpfulCount:
+1
+userID:
+12844809
+Display Name:
+GL
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6987627.jpg
+text:
+Made as is several times. Excellent. Goes really good with homemade clam chowder or chicken soup.
+Review:
+Rating:
+5
+dateLastModified:
+06/15/2020
+helpfulCount:
+0
+userID:
+22152220
+Display Name:
+Richard Griffin
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Wonderful recipe. We devoured them for breakfast.
+Review:
+Rating:
+2
+dateLastModified:
+06/08/2020
+helpfulCount:
+0
+userID:
+27651242
+Display Name:
+Ja'Von Watson
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8216904.jpg
+text:
+My family and I thought the biscuits were way to salty. I will make this recipe again but eliminating the Montreal Steak. I will add some Mrs. Dash and some garlic as a replacement.
+Review:
+Rating:
+5
+dateLastModified:
+06/21/2020
+helpfulCount:
+0
+userID:
+21965557
+Display Name:
+Coley Emde
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7035250.jpg
+text:
+These biscuits are extremely yummy. I had to improvise with the seasoning but the family loved these and will definitely make again.
+Review:
+Rating:
+5
+dateLastModified:
+06/21/2020
+helpfulCount:
+0
+userID:
+12729583
+Display Name:
+doug
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Every time I make it had turned out fantastically I do my own variations but the base is awesome
+Review:
+Rating:
+4
+dateLastModified:
+06/08/2020
+helpfulCount:
+0
+userID:
+27648167
+Display Name:
+Brett Steiner
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8214425.jpg
+text:
+Taste great while warm, a little dry when room temp
+Review:
+Rating:
+4
+dateLastModified:
+06/30/2020
+helpfulCount:
+0
+userID:
+27522144
+Display Name:
+Charles
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8295052.jpg
+text:
+Turned out a little more buttery than I would have like, although everyone else enjoyed them, and that's what matters

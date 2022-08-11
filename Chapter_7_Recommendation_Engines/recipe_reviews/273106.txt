@@ -1,0 +1,62 @@
+Recipe number:
+273106.txt
+Review:
+Rating:
+5
+dateLastModified:
+05/25/2019
+helpfulCount:
+0
+userID:
+9064338
+Display Name:
+Donna Walker Supinger
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2246427.jpg
+text:
+Hubby likes these better than regular potatoes!
+Review:
+Rating:
+4
+dateLastModified:
+07/09/2020
+helpfulCount:
+0
+userID:
+20928454
+Display Name:
+Frankcsal
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4261929.jpg
+text:
+Good
+Review:
+Rating:
+5
+dateLastModified:
+05/20/2019
+helpfulCount:
+0
+userID:
+13386914
+Display Name:
+Sgt. Mike
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3432971.jpg
+text:
+Love these have had these for many years.
+Review:
+Rating:
+5
+dateLastModified:
+12/17/2019
+helpfulCount:
+0
+userID:
+26364751
+Display Name:
+Donut Enthusiast
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I didn't use the butter in order to make these vegan. The soft texture of the sweet potato and the oil on the skin was enough to make these melty and flavorful. I love sugar so plain brown sugar without butter was good enough for me.

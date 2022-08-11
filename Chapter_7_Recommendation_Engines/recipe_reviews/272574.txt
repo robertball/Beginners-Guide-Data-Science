@@ -1,0 +1,37 @@
+Recipe number:
+272574.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-16T02:27:23.39
+helpfulCount:
+0
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+303
+followingCount:
+0
+madeRecipesCount:
+252
+favoritesCount:
+1639
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7778502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! I wanted more veggies so I added broccoli to the curry. Nice job! We have curries all the time and this one was just as delicious. PS, I added a bit more curry paste because 2/3 of a box of chicken broth worried me that it would be too thin on taste...  Thank you!

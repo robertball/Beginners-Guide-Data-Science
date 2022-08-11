@@ -1,0 +1,109 @@
+Recipe number:
+188545.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-10-04T06:25:12.337
+helpfulCount:
+1
+userID:
+12136717
+Display Name:
+Chicken Dude 5
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was totally fantastic!
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-23T11:58:08.867
+helpfulCount:
+0
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this again. Instead of sherry, I subbed 2 T of apple-cider vinegar + 2 T of beef broth. Also omitted mushrooms and doubled squash. I was out of hoison sauce and didn't want to go to the store, so I found a recipe online in which I had all the ingredients at home. I don't think my homemade hoison was very "authentic," but boy, was it tasty! I now realize that the reason I didn't like this dish much the first time was because I did not like the store-bought hoisin sauce I had used in it. This time, I actually doubled the hoisin sauce because I felt like it wasn't flavorful enough with only 1/4 C. 
+
+Original Review 3/23/26: I used pinot grigio instead of sherry and omitted mushrooms, so I don't know how much it affected flavor, but I didn't like the sauce very much. Too much hoisin, and definitely missing something. I'm not good at identifying missing ingredients. We get a lot of tangerines from our CSA box, so I'll make it again and play with the ingredients and report back.
+Review:
+Rating:
+5
+dateLastModified:
+2013-09-01T04:37:56.13
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+920
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a keeper from the first bite.  The only change I made was to use fresh orange juice instead of sherry.  We like spicy thai but really enjoyed the flavors of this dish.

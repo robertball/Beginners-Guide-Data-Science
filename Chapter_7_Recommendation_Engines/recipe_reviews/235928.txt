@@ -1,0 +1,219 @@
+Recipe number:
+235928.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-08T13:33:47.543
+helpfulCount:
+8
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12225
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really, really good!  So easy too.  I used drained canned black eyed peas, more ham than was called for.  (I had a bunch of leftover ham from the holidays) Added a few red pepper flakes and a healthy shake of Cajun seasoning.  Delicious and it is ready to just minutes.   Did I say this is a KEEPER?  Yes, it is!
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-24T21:02:30.89
+helpfulCount:
+5
+userID:
+11072475
+Display Name:
+Diane Ziel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1715744.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+EXCELLENT! I'm a vegetarian and have been trying to mix it up with new recipes that work for both my omnivore guy and me. This is a keeper! 
+
+SUBS: I used veggie bac-un for the ham, I used brown rice vs. white, I used vegan vegetable stock vs water. 
+
+ADDS: I doubled the amount of black eyed peas (3C), then added smoked paprika & turmeric (2T ea), and a pinch of liquid smoke to the seasonings; added 1/2 a large bag of frozen spinach (3C) to the mix when adding the peas.
+
+WONDERFUL. SIMPLE. AWESOME.
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-31T22:30:11.07
+helpfulCount:
+3
+userID:
+2424025
+Display Name:
+andy simpson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2098830.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i sauteed the onion, bell pepper, and garlic for about 5 mins to give the olive oil a little more flavor. i also added 1lb of italian mild sausage and cooked that with the diced ham. i then finished the dish as written and everyone loved it. thank you, andy s 
+san diego,ca
+Review:
+Rating:
+3
+dateLastModified:
+2016-11-11T16:32:44.113
+helpfulCount:
+1
+userID:
+3437644
+Display Name:
+Junebug
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+143
+favoritesCount:
+784
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3059268.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly and it turned out ok but it was really bland.   The peas had a really nice flavor before mixing in the rice, but they just got lost.  If I ever make it again, I will half the rice and perhaps double the ham.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-06T14:00:41.03
+helpfulCount:
+0
+userID:
+8436102
+Display Name:
+Kim Patton Penick
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+494
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent New Year’s Day dinner. Made this with ham left over from Christmas!
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-01T20:07:51.43
+helpfulCount:
+0
+userID:
+22506041
+Display Name:
+Andie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delicious. However I thought 4 cups of rice was just too much for the amount of beans, therefore I did not add all of the rice. Next time I would increase the amount of beans. I would make this again!

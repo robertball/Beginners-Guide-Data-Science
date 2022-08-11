@@ -1,0 +1,37 @@
+Recipe number:
+125488.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-31T17:51:04.437
+helpfulCount:
+5
+userID:
+3632174
+Display Name:
+BigShotsMom
+isPro:
+False
+followersCount:
+186
+followingCount:
+0
+madeRecipesCount:
+637
+favoritesCount:
+1878
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My review is for the tuna only.  Fennel and tuna are wonderful together.  I followed the ingredients and method, only increasing the cooking time to 1 minute per side as not all of us like it too rare.  This gave us medium rare, which pleased us all.  Thanks for a simple but delightful entree.

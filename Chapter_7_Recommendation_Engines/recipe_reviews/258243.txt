@@ -1,0 +1,72 @@
+Recipe number:
+258243.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-05T21:59:26.147
+helpfulCount:
+0
+userID:
+3161404
+Display Name:
+Kris Nurmi Bullock
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7728493.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+To make it again, I’d have to adlib a bit. I too was not a fan of the fried rice accompaniment, it was flavorless. I have a fried rice recipe from my so. I’d use next time instead. The pork belly was pretty good, however I would definitely add more garlic and ginger. It would be nice if it “carmelized some”, may try to sear if after cooking to lock in some of that sauce flavor. Might be good to strain some of the “pork grease” from the cooking liquid and make more of a sauce from it.
+Review:
+Rating:
+2
+dateLastModified:
+2017-06-11T02:12:40.767
+helpfulCount:
+0
+userID:
+14414328
+Display Name:
+Marc Beckelman
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1525926.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We added some book choy, zucchini, and broccoli in addition to the peas, etc. but overall the rice part of the dish was extremely bland. The recipe has an odd way of cooking the rice and then rinsing it, then heating it in the wok which we felt was unnecessary (but we followed the recipe). As for the pork belly, the sauce has a nice flavor but it too had a watered down flavor and slumpy texture.

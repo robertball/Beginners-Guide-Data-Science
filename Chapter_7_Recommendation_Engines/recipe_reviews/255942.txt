@@ -1,0 +1,37 @@
+Recipe number:
+255942.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-03T23:25:02.617
+helpfulCount:
+0
+userID:
+5148046
+Display Name:
+MomMatula
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+267
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Drain grease from sausage before adding other ingredients.

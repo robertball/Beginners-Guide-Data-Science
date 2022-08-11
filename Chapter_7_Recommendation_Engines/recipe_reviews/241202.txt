@@ -1,0 +1,37 @@
+Recipe number:
+241202.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-13T02:53:26.707
+helpfulCount:
+0
+userID:
+8736462
+Display Name:
+Joe Roderick
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+146
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/795771.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this many times. Make sure you do not drain the whole corn. I prefer to use uncooked thin spaghetti (add it after the two cans of corn). I wait til 20 min. to stir the first time.  This is a big hit at potlucks and something new for Thanksgiving and Christmas.

@@ -1,0 +1,37 @@
+Recipe number:
+238111.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-26T09:28:04
+helpfulCount:
+2
+userID:
+2971711
+Display Name:
+LadyNewt
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/211215.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is perfect!  It is the right blend of all those double cheesecake recipes in one amazing dish.  Just what I was lookin for.  Everyone loves it!!

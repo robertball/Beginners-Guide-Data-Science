@@ -1,0 +1,72 @@
+Recipe number:
+236570.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-14T23:54:20.957
+helpfulCount:
+0
+userID:
+17140336
+Display Name:
+Flipper
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe with unsweetened applesauce and left out the nutmeg to better suit my family's taste.  I loved it, and the rest of my family thought it was pretty good.  It reminds me of an apple granita.  I made individual portions by line muffin cups with plastic wrap, pouring in the blended mixture, and freezing it.
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-26T18:03:41.75
+helpfulCount:
+0
+userID:
+16242051
+Display Name:
+Chef Lucy
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2540726.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I made this with "JUALONSO"'s Dulce de Leche recipe which is what I think really made it good. The only problem was that after it froze for over two hours, the middle was still liquid but the  two edges were firm enough to cut. Overall, great recipe!

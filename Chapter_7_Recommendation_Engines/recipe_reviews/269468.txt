@@ -1,0 +1,72 @@
+Recipe number:
+269468.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-29T21:56:35.453
+helpfulCount:
+0
+userID:
+25627921
+Display Name:
+Alissandra Winograd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7284445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This frosting is very delicious! Try using milk chocolate instead of semi-sweet for a sweeter taste!
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-22T18:14:18.05
+helpfulCount:
+0
+userID:
+9437523
+Display Name:
+Stephanie Zaczkowski
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+266
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5290501.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy and super delicious. Consistency allows for cupcakes to be dipped or can add powdered sugar for spreading on layer or sheet cake. We finished with sprinkles for a Valentine's birthday.

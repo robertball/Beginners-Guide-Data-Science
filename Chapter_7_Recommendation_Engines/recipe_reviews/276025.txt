@@ -1,0 +1,72 @@
+Recipe number:
+276025.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-11-21T17:31:48.28
+helpfulCount:
+0
+userID:
+12442449
+Display Name:
+Suzette Laurendeau Bigelow
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7251131.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very bland. Needs some spices.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-10T00:07:06.1
+helpfulCount:
+0
+userID:
+25656988
+Display Name:
+ChefFox
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7142286.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great basic recipe.  I thought it called for a little too much liquid.  When I make it again, I will reduce the water by at least 1/2 cup.

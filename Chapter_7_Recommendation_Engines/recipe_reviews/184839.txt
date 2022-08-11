@@ -1,0 +1,37 @@
+Recipe number:
+184839.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-02-10T09:51:21.353
+helpfulCount:
+4
+userID:
+6543902
+Display Name:
+AlyCatzz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/583011.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I changed this recipe all up when I made it. Melted white chocolate chips, crisco, and cherry extract for the bottom layer on the baking sheet. Then I melted some semisweet chocolate chips with a little crisco for the top layer. For the topping, I crushed hard lifesaver cherry candies and lightly pressed them into the top of the semicooled chocolate. I left it in the freezer overnight and it turned out perfectly. =] Hope this helps.

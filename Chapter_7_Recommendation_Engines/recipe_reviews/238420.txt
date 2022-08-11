@@ -1,0 +1,37 @@
+Recipe number:
+238420.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-29T15:05:49.83
+helpfulCount:
+1
+userID:
+4402500
+Display Name:
+Rock_lobster
+isPro:
+False
+followersCount:
+601
+followingCount:
+0
+madeRecipesCount:
+702
+favoritesCount:
+1191
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6081378.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fiery Red Salsa  Haiku: "Oh yea, fiery! I mean, I like spicy food, but this? Pass the milk!" I halved the recipe and used one medium jalapeno, and maybe I just happened upon a freakishly-spicy pepper, b/c this salsa was crazy hot. That's not to say that we didn't like it, b/c I'm a sucker for an easy blender salsa w/ the perfect ingredients as this one has. Maybe a little more lime juice, a little less jalapeno next time for me. :-)

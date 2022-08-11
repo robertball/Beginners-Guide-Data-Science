@@ -1,0 +1,84 @@
+Recipe number:
+22406.txt
+Review:
+Rating:
+4
+dateLastModified:
+2002-07-28T01:45:20.153
+helpfulCount:
+5
+userID:
+670863
+Display Name:
+JIM POOK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this recipe to make a "standard" pan of brownies. However, I did make a couple of changes:
+
+Substitute Demerara (Brown) Sugar for the white sugar.
+Substitue 2 Cups of chopped walnuts for the Peanut Butter Chips.
+
+I used a 9" Round Springform pan and baked at 350 for about 30 minutes. Toothpic in the center still shows a small amount of batter when done. If you bake until the toothpic comes out clean, they will be over-cooked.
+
+This recipe is the closest to an old restaurant recipe I used to have, and is a favorite of mine.
+
+Jim Pook
+Tahsis, British Columbia, Canada
+www.tahsisbc.com
+Review:
+Rating:
+4
+dateLastModified:
+2000-12-09T09:35:19.793
+helpfulCount:
+3
+userID:
+222248
+Display Name:
+S F EDGAR
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Substituting the mini-mini 1 inch cups expands recipe volume;the smaller size is easier for kids to work with in the kitchen!  Cooking time for the mini mini cups is approximately 12.5 minutes
+Batter is very sticky - I used a chopstick to guide the drops into the cups.

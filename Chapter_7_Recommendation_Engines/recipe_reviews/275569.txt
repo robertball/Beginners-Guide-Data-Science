@@ -1,0 +1,37 @@
+Recipe number:
+275569.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-19T19:34:15.27
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8905
+followingCount:
+0
+madeRecipesCount:
+1113
+favoritesCount:
+2273
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Only adjustment I made was to use cake flour in place of the wheat flour, as I never buy that. I tasted it so I could review it, but will be serving this to friends tomorrow night after our dinner out. The cake is a bit dry. I will serve with a scoop of vanilla ice cream or some freshly whipped cream because of this. Not sure I'd make it again, but I did use up 3 plums that I had in the fridge, so that's good! UPDATE: I just had a piece for breakfast, after warming it a bit in the microwave (12 seconds) and added some whipped cream, and that really helped the dryness. I updated my star rating to 4 stars!

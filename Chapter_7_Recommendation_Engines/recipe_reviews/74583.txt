@@ -1,0 +1,72 @@
+Recipe number:
+74583.txt
+Review:
+Rating:
+1
+dateLastModified:
+2011-09-01T11:49:43.767
+helpfulCount:
+10
+userID:
+4112306
+Display Name:
+Grandma Toni
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for this recipe. don't waste your time or your soup
+Review:
+Rating:
+1
+dateLastModified:
+2017-11-25T23:02:12.85
+helpfulCount:
+0
+userID:
+22834647
+Display Name:
+redcat44
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not that good.I hate canned shrimp.

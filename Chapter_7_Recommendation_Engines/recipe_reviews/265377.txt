@@ -1,0 +1,72 @@
+Recipe number:
+265377.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-14T10:58:32.38
+helpfulCount:
+2
+userID:
+17079657
+Display Name:
+karl white
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+518
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5808452.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+run steel skewer thru taters to make em cook faster
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-09T16:30:13.977
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Talk about simple. These were excellent! When it comes to baked potatoes, I am lazy and stick them in the microwave. If I have the time, I won't be doing that anymore. I know the most nutrition is in the peel but I've never been a fan. The peel turns out so crispy in this recipe that I gobbled it up. Thanks for sharing!

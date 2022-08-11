@@ -1,0 +1,72 @@
+Recipe number:
+222529.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-03-12T01:22:51.447
+helpfulCount:
+2
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1594
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was not as smooth as other Long Island recipes I've tried.  I added a bit more cola to make it more palatable, but it was still not my favorite (I did manage to finish it, though ;) ).  CHEERS, allrecipes!
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-22T01:57:28.803
+helpfulCount:
+0
+userID:
+22992452
+Display Name:
+Gabriel Calderon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4786062.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I personally prefer mixing everything (except the coke and ice) in a shaker first and shaking it. I feel it mixes the liquors together better and helps enhance the flavor. It also helps diminish the strong alcohol flavor that comes from just dumping them all into the glass. It also makes the drink look a lot better. The mixture of all the liquors and the syrup becomes really think and beige like, so when you add the coke it really darkens up and actually looks very similar to iced tea.

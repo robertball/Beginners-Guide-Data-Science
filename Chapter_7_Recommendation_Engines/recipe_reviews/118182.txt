@@ -1,0 +1,72 @@
+Recipe number:
+118182.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-01-03T19:06:18.497
+helpfulCount:
+14
+userID:
+1897676
+Display Name:
+Robin Dziedzic
+isPro:
+False
+followersCount:
+22
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+605
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3499918.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is similar to a drink my mother used to enjoy.  I remember her sipping it in the evenings.  She kept it in a little tin on the kitchen counter.  I made it a few years ago, but unfortunately lost the recipe.  Our version was a little different.  I mixed one container of lemon sweetened instant tea with one container of orange breakfast drink (Tang).  I used generic for both.  I added 1 teaspoon of allspice and 1 teaspoon of cinnamon.  I also added 2 little tubs of sugar free lemonade (Crystal Light).  I even added 1/3 cup of Splenda.  I mixed it all in a gallon freezer bag, then used a funnel to pour it back into the plastic tea and orange drink containers.  (Careful, it creates a lot of powder in the air!)  I then heated 2 cups of water for a few minutes in the microwave and added 2 tablespoons of the mix.  It was a bit bland, so I tried 3 tablespoons and it tasted just about right.  With some experimentation, this is a delicious drink.  I prefer the half tea/half Tang version, with a little spice added in.  See what you like.  It's perfect as a small Christmas gift for coworkers, neighbors, etc.  Great with a tin of Christmas treats.  Enjoy!
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-30T10:03:51.96
+helpfulCount:
+1
+userID:
+914492
+Display Name:
+Sarah McKeown Schafer
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+242
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1143013.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This mix is wonderful and soothing in the winter.  I usually double the quantities so I can keep one and give one away.  I find that 2 teaspoons per cup of water is too weak, but that's the nice thing about this mix... just add a little more until you figure out what ratio tastes best to you.

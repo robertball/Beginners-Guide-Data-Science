@@ -1,0 +1,107 @@
+Recipe number:
+255137.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-07T08:28:14.987
+helpfulCount:
+3
+userID:
+21173951
+Display Name:
+AhmedKH
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4407626.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have trying to make our  Egyptian rice to come out fluffy like the (super easy to make) Basmati Rice for weeks with no luck until I followed your method exactly and it finally worked. Will definitely share this method with my mother, the way she has been cooking it takes an hour while this way was all done in 20 minutes including preparation. Thank you very much Gamila.
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-11T17:36:22.34
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9646
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While I'm sure it is not the authentic way of doing it, I made the decision to use homemade chicken stock instead of water. The vermicilli burns quick so keep a close eye on it. This is universal enough to serve with any type of main dish. If I were making a stir-fry or something saucy I would have kept as written  but I felt it would have been too bland for my taste to serve with my grilled chicken which is why I added the stock.
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-18T18:44:42.507
+helpfulCount:
+1
+userID:
+17314817
+Display Name:
+Shadya Eldousoky
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Try Ghee instead of oil and some cumin. If I make 2 cups of rice, I use 2.25 cups of water.

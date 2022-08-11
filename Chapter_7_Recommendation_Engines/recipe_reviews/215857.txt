@@ -1,0 +1,37 @@
+Recipe number:
+215857.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-07-07T11:10:10.11
+helpfulCount:
+7
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No idea why this got such a bad first review--for me, this was super simple. I did add more veggies, like chopped red peppers, onion, fresh spinach, and chunked zucchini. This was great for me to make ahead for my husband and kids, as I work nights. All my husband has to do is pop it in the oven right before dinner. I'll update my review as soon as I hear from them how they liked it. NOTE: They liked it, though they did say "More cheese" for next time. My husband did mention he liked all the vegetables I added, so I'll do that again.

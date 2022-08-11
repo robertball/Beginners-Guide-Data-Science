@@ -1,0 +1,72 @@
+Recipe number:
+238629.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-22T20:33:42.193
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was tasty. This was my first time trying Stevia and it does have a bit of a different taste that wasnt my favorite .. Next time I make this I will try it with agave as a suggested alternative. The protein powder taste for me was good, but if you dont like the texture or taste of protein powder , you may not like this.  It isnt the same texture as a traditional chocolate pudding so dont expect that
+Review:
+Rating:
+3
+dateLastModified:
+2015-12-01T15:55:00.313
+helpfulCount:
+0
+userID:
+9986587
+Display Name:
+gail giddings
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+3684
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1404412.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it, but I had to use sugar instead of the stevia, because I can't handle the taste. The flavor of the hazelnuts was nice.

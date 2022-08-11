@@ -1,0 +1,72 @@
+Recipe number:
+217171.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-30T20:35:21.84
+helpfulCount:
+6
+userID:
+2565587
+Display Name:
+Holly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+591
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband gave me a look of trepidation when I described this recipe to him, but he said "I told you, if you make it I'll try it." Turns out it tasted great and he said that he would gladly have this again. We had it for dinner with a green salad. So easy to make (used leftover easter eggs, prepped it in the morning, refrigerated all day, then added the buttered bread and cooked it that evening). Unfortunately, my husband does not like the texture of onions so I had to skip them, but I added a generous helping of onion powder to the soup/seasoning mixture. I don't have seasoned salt, so in addition to the salt I added a few shakes of paprika, pepper, and cumin. When I first glanced at the ingredients, I thought this would end up tasting like a deviled egg casserole, but it just tastes like eggs and rye toast with a chicken/dill sauce! It's not anything grand, but it is so simple and so yummy.
+Review:
+Rating:
+3
+dateLastModified:
+2011-06-20T07:54:39.073
+helpfulCount:
+4
+userID:
+4839946
+Display Name:
+Lisa Wanner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5758243.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just ok. The bread and the eggs were a great idea to use up. I really recommend getting the Rye (not white or wheat). Ours came out kind of soupy but the bread was crispy. I think next time I will make the night before, i would double the bread, add some ham and let the bread soak in the soup/butter in

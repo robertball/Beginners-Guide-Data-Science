@@ -1,0 +1,72 @@
+Recipe number:
+241254.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-11T13:30:49.66
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+LOVED IT! I did have to omit the tomatoes, as I didn't have any on hand, but followed the recipe otherwise (besides making a smaller amount). GREAT combo of flavors and I really loved the sweet mango combined with the smokey heat of the chipotle. This is a definite keeper~YUM, YUM, YUM!!!! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-12T17:44:45.31
+helpfulCount:
+0
+userID:
+11874115
+Display Name:
+John chovardian
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes!! I would make it again, no changes.

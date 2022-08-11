@@ -1,0 +1,72 @@
+Recipe number:
+37203.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-04-15T07:59:59.53
+helpfulCount:
+13
+userID:
+511913
+Display Name:
+Elaine Mical
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+166
+favoritesCount:
+1247
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5536283.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wish you could have heard the oooo's and ahhhhhh's at our dinner table. These tasty morsels will be done again and again.
+Review:
+Rating:
+3
+dateLastModified:
+2003-08-04T15:29:27.903
+helpfulCount:
+1
+userID:
+833152
+Display Name:
+ICYBLUEROSE
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+256
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/563782.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very dissapointing, for it wasn't anything like I expected it to be.  The name had me anticipating light, buttery rolls, but the end result were rolls that were kind of heavy and just so-so.  The recipe didn't turn out too badly, it just wasn't what I expected.

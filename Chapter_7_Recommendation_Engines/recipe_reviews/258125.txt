@@ -1,0 +1,72 @@
+Recipe number:
+258125.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-01T00:17:43.82
+helpfulCount:
+0
+userID:
+886179
+Display Name:
+BOOKIE 
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+554
+favoritesCount:
+6794
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/190.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I should've followed my instincts more & the recipe less.  It was pretty good, but not worth the effort.   I subbed with ground turkey.  Added the egg & wondered why; had to add 1/4c breadcrumbs, but it wasn't enough.  Too soft so most fell apart   I couldn't get myself to put sage in Chicken Marsala, thank goodness.  The other reviewer not meatballing is a good idea.
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-27T20:51:08.947
+helpfulCount:
+0
+userID:
+3845711
+Display Name:
+Tracy Ellerington
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+206
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6275211.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this recipe a lot. Made it the second time without forming into meatballs, just scramble frying the ground chicken. It is a nice quick dinner!

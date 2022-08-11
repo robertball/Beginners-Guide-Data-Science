@@ -1,0 +1,72 @@
+Recipe number:
+257732.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-16T10:24:00.43
+helpfulCount:
+1
+userID:
+6390019
+Display Name:
+longing4u
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+402
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are so delicious!  I didn’t have protein powder so I added a little extra oats but they still turned out great.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-01T23:56:12.61
+helpfulCount:
+0
+userID:
+25317106
+Display Name:
+Steve Heeney
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6460511.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+vary the recipe sometimes by adding peanut butter, sunflower seeds, honey . and coconut.

@@ -1,0 +1,72 @@
+Recipe number:
+276494.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-28T02:05:38.793
+helpfulCount:
+0
+userID:
+23614894
+Display Name:
+Christina Cestari Wagner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5329432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This came out delicious!! No changes necessary!! My whole family loved it, on some good brioche rolls with some coleslaw on it. My father-in-law said it was the best he's ever had!
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-08T20:15:10.33
+helpfulCount:
+0
+userID:
+24498906
+Display Name:
+TLC
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made using  Idaho potatoes instead of sweet potatoes and cut thick as another rater had suggested.  Pork turned out very tender.  Flavor was a little off though.  Potatoes also turned out a little too sweet and tasted just like the pork.  Too much sweet.  I will try it again and use a different BBQ sauce and maybe cook the potatoes separately, or add the sauce at a later time.  Will probably turn out better next time with a different BBQ sauce.

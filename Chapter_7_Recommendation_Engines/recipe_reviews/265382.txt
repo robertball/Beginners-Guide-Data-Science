@@ -1,0 +1,107 @@
+Recipe number:
+265382.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-06T03:17:41.32
+helpfulCount:
+0
+userID:
+24798896
+Display Name:
+monica ford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6159862.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too much lime taste for me.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-26T22:22:51.363
+helpfulCount:
+0
+userID:
+23768320
+Display Name:
+Michael Juneau
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6808677.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick, easy and light but full of flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-26T23:08:54.04
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is one of several I made on the same day. This turned out really good and was well received by everyone at the party. Thanks for sharing!

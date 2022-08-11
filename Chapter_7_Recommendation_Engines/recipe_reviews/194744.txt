@@ -1,0 +1,37 @@
+Recipe number:
+194744.txt
+Review:
+Rating:
+1
+dateLastModified:
+2009-04-30T11:04:46.503
+helpfulCount:
+3
+userID:
+3405718
+Display Name:
+Cooking Newbie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Entirely way too much mayo! I made it exactly according to directions, but the mayo taste mixed with the sweetness of the bread just didn't go well.  Will not make this again.

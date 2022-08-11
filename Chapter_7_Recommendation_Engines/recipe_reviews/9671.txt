@@ -1,0 +1,72 @@
+Recipe number:
+9671.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-08-20T07:33:09.743
+helpfulCount:
+7
+userID:
+2339441
+Display Name:
+claybird
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was pretty tasty and the lemon zest adds a nice note. however the top was doughy even after cooking the full time plus 2 minutes. i ended up cooking another 5 minutes in convection bake mode. i should have used convection bake the entire time. HTH
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-21T18:50:08.52
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved these bars!.. Not too sweet and a nice different texture.   I took these to church and they went over well.  I used butter instead of shortening

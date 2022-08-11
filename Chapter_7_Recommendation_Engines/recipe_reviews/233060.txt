@@ -1,0 +1,37 @@
+Recipe number:
+233060.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-04-20T08:24:18.217
+helpfulCount:
+1
+userID:
+15662585
+Display Name:
+Sylvia Proctor
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2227461.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried to make this yesterday and I think that I did something wrong... I remember as a kid my mom making this and I loved it... I think I added way too much mayo. It's in the fridge. I may try it again now that the fruit juices have had a chance to seep out. . .

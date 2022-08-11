@@ -1,0 +1,72 @@
+Recipe number:
+260455.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-07-26T00:34:51.203
+helpfulCount:
+0
+userID:
+23666540
+Display Name:
+Tracie Anne Green
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5363789.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wasn’t bad just not the most flavorful thing.
+Review:
+Rating:
+3
+dateLastModified:
+2018-02-11T16:14:04.173
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were okay but I felt they needed something. The saffron got completely lost too which is a bummer seeing how expensive it is. These were not terrible by any means but I've had better. If I were to attempt this recipe again I'd add parsley and oregano and maybe even some crushed red pepper flakes.

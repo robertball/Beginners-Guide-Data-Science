@@ -1,0 +1,37 @@
+Recipe number:
+263850.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-07T00:14:38.11
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8905
+followingCount:
+0
+madeRecipesCount:
+1113
+favoritesCount:
+2273
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a really nice salad! I did pretty much stick to the recipe, with the exception that I only used about half of a small red onion rather than the whole thing, and only 2 tablespoons of the balsamic vinegar instead of 3. We served this with grilled steak and grilled bread, and everyone enjoyed it. Thanks for the recipe!

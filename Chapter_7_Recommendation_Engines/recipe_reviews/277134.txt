@@ -1,0 +1,37 @@
+Recipe number:
+277134.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-13T02:43:49.597
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+396
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So simple to make and delicious. I doubled the zest and the lemon juice. I used dry parsley only because I thought I had fresh parsley but I did not. Still turned out very good. I will make this again. Thank you for the recipe.

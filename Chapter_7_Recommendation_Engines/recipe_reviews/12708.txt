@@ -1,0 +1,289 @@
+Recipe number:
+12708.txt
+Review:
+Rating:
+5
+dateLastModified:
+2000-06-02T06:53:38.077
+helpfulCount:
+27
+userID:
+93640
+Display Name:
+JACK DUPUY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great! Very close to an appetizer I used
+to eat in Louisianna except we sprinkeled
+Cajun spice before broiling. Wife is a 
+little fussy about bacon and pre-cooks
+it for a minute in microwave. Supposed to 
+an appetizer but I so many no room for
+main course!  We sometimes leave off the
+water chesnut but I love the crunch.
+Review:
+Rating:
+2
+dateLastModified:
+2000-04-05T15:20:06.847
+helpfulCount:
+23
+userID:
+40181
+Display Name:
+HSILEOMA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There are too many competing flavors in this appetizer.  The sherry and bacon oil made the scallops taste a little on the sour side.  Since I enjoy the simple freshness of grilled scallops, or even scallops sauted in garlic and butter, I found the various flavors unsatisfying.  In fact, my husband also did not like the tastes and we ended up throwing out the appetizer.  This is unfortunate, since it is easy to make and would be a beautiful appetizer.
+Review:
+Rating:
+5
+dateLastModified:
+2006-10-04T12:22:19.077
+helpfulCount:
+14
+userID:
+1195773
+Display Name:
+SHEZASMITTY
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+238
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is great and yummy, also! To save on calories and still enjoy the flavors (which I think blend wonderfully) I used pieces of turkey bacon. Regular bacon is more tasty, but I can then eat these little appetizers without much guilt! Thanks for this recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2007-06-23T09:28:55.453
+helpfulCount:
+8
+userID:
+691736
+Display Name:
+ROASTEDNUT
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These appetizers are simply delicious...literally.  So easy.  Beautiful presentation.  Make sure to use sea scallops and not bay scallops...makes a big difference.  But gosh are they good!!
+Review:
+Rating:
+4
+dateLastModified:
+2011-09-08T18:42:22.403
+helpfulCount:
+6
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+612
+favoritesCount:
+984
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was okay but the submitter should have indicated whether the sherry should be dry, medium or sweet.  I wasn't crazy about the water chestnuts, they have no flavour and only add crunch, I ommitted the green onion.
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-30T08:15:40.4
+helpfulCount:
+3
+userID:
+296187
+Display Name:
+Sarah Retz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+202
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+made these for my husband last father's day and he was over the moon for them.
+Review:
+Rating:
+5
+dateLastModified:
+2005-12-12T12:53:29.357
+helpfulCount:
+2
+userID:
+408596
+Display Name:
+Paula Wood
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+71
+favoritesCount:
+696
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2762087.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were fabulous!
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-19T00:04:18.71
+helpfulCount:
+0
+userID:
+9274207
+Display Name:
+Guy Benjamin
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+325
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1717877.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everyone loved this, quite a bit of work to get these browned evenly under the broiler and made a pretty big mess. Next time I will pre-cook the bacon a bit

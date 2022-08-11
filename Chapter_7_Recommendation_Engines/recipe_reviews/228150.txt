@@ -1,0 +1,72 @@
+Recipe number:
+228150.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-30T12:02:16.633
+helpfulCount:
+1
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+244
+followingCount:
+0
+madeRecipesCount:
+1336
+favoritesCount:
+2841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We liked this.  Had to use regular pizza dough because they didn't carry the artisan version. Regular pillsbury pizza dough worked fine. I also subbed chicken chorizo for the sausage and we added more sauce. Great week night dinner - just add a salad.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-23T07:44:42.19
+helpfulCount:
+0
+userID:
+23568553
+Display Name:
+Jodi McClure
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5296744.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this tonight and it was fantastic! I used a breakfast Turkey sausage because that's what I had an added finely diced onions and peppers to it. Tasted exactly like any store brand supreme pizza, but better!

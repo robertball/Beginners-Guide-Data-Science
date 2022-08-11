@@ -1,0 +1,72 @@
+Recipe number:
+255657.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-16T23:00:46.06
+helpfulCount:
+0
+userID:
+20506734
+Display Name:
+Lana Cavana
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3995591.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I hate when people judge other people’s creations when obviously if they had a better recipe for it they  wouldn’t need to use someone else’s. I liked this recipe. Even with having to leave out a few ingredients, it was good. Good job ddmama!
+Review:
+Rating:
+3
+dateLastModified:
+2018-03-04T01:33:15.62
+helpfulCount:
+0
+userID:
+22724719
+Display Name:
+PotatoPoppet
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The chowder was a good throw-it-in-the-pot, relatively quick and easy meal, but nothing to write home about. It allowed me to use up some extra kale I had in the fridge, but I don't think I'd go out of my way to make it again,

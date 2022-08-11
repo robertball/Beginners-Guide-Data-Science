@@ -1,0 +1,72 @@
+Recipe number:
+240071.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-13T23:17:25.1
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except  mine was ready in 8 hours. I think 12  hours is too long. Other than that, this was perfect as written.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-02T18:32:00.227
+helpfulCount:
+1
+userID:
+24865246
+Display Name:
+Cody Eason
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6207644.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. I also shortened the time to 8 hours and it was perfect. I let my meat sit in the brine overnight to lock in some extra flavor as well. Would highly recommend this recipe!

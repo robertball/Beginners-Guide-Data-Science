@@ -1,0 +1,72 @@
+Recipe number:
+69706.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-12-17T19:53:34.72
+helpfulCount:
+6
+userID:
+4073986
+Display Name:
+Pizazzy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I  haven't found "rock candy syrup" just regular simple syrup.  Also, I wish I knew the difference bet. "dash" & "3-4 drops" as this other recipe cautions you about measuring the Orange Flower H20 very precisely:  I used to make these by blenderfuls 4 Sun. brunch too!  Heck, the 2 bartenders got drunk perfecting the  recipe b4 all the guests arrrived!    The good old daze!
+Review:
+Rating:
+4
+dateLastModified:
+2010-01-03T17:23:35.847
+helpfulCount:
+5
+userID:
+2029834
+Display Name:
+Skye's the Limit
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+147
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/246887.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I remember the good ol'days when I used to have these every Sunday for brunch.  I didn't have all the ingredients on hand so used gin, italian sweet cream coffee creamer, orange juice, powdered sugar and crushed ice.  I ran it through the blender and it tasted as great as I remembered!  YUMMY!!

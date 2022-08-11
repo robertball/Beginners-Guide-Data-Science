@@ -1,0 +1,72 @@
+Recipe number:
+271093.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-01T10:37:14.17
+helpfulCount:
+4
+userID:
+21282807
+Display Name:
+ABcooking1
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6545875.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are so good! I make them all the time now. I don’t have a tortilla press, so I jut use a heavy pot to press them between parchment. Sometimes I make them thicker and use them like pizza crust. They also make really good crackers.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-17T03:36:43.077
+helpfulCount:
+0
+userID:
+21998294
+Display Name:
+Lisa Roig
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used palm oil instead of vegetable oil. I just got a kitchenaide stand up mixer and I add the flour and oil until it gets crumbly then add the water. Dont add it all at once some altitudes will require more some will require less. Best tortillas ever!

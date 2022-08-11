@@ -1,0 +1,107 @@
+Recipe number:
+208696.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-04-05T17:13:40.337
+helpfulCount:
+8
+userID:
+1476783
+Display Name:
+Marie C.
+isPro:
+False
+followersCount:
+88
+followingCount:
+0
+madeRecipesCount:
+259
+favoritesCount:
+2009
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There are two components to this recipe, the shrimp and the soup.  The shrimp was fine but nothing out of the ordinary.  The soup while creamy from the avocado tasted mostly like chicken broth.  I was hoping the merken would add a special touch to the dish but it was lost in the overwhelming chicken taste.  I kept adding the merken until I ended up with about 1 tablespoon in the soup.  This was a pretty dish but the flavors were simply unremarkable.  As the recipe states use good chicken broth as that is what you will be tasting.  I found merken at Whole Foods.
+Review:
+Rating:
+5
+dateLastModified:
+2009-11-28T10:38:48.467
+helpfulCount:
+4
+userID:
+1821796
+Display Name:
+Diane S.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+172
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup was great tasting and great looking.  Perfect for a dinner party or a cold night snack in front of a fireplace.....
+Review:
+Rating:
+5
+dateLastModified:
+2010-01-10T10:45:38.977
+helpfulCount:
+3
+userID:
+833767
+Display Name:
+Vicki McDermand
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+434
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312875.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so yummy..Everyone loved it!!  The avocado soup is so smooth and the shrimp ceviche is a nice added flavor..Will serve this over and over!!

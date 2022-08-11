@@ -1,0 +1,107 @@
+Recipe number:
+240092.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-10T15:12:27.18
+helpfulCount:
+5
+userID:
+6783232
+Display Name:
+David
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+1745
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am Sicilian and have been making my own 8 hour sauce for many years. I tried this even though it doesn't call for any garlic in the recipe. I used closer to 4 lbs. of beef neck bones, simmered for 6 hours. My wife and I were very impressed with the sauce. It is very, very good. One word of caution, especially families with young children, the beef neck bones tend to have tiny pieces of bone as they are cut on the butcher's band saw. I was careful in removing the bones and my wife still found two small pieces of bone in her dish.
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-03T10:26:48.79
+helpfulCount:
+2
+userID:
+11278670
+Display Name:
+Lyn Scott-Mayer
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3559331.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sauce was delicious! It was worth the 6 + hours on the stove. The only difficult thing is finding BEEF neck bones at the local food market! I had to go to several stores to find them.   This sauce has a savory sweet flavor from the beef neck bones. I will never use pork neck bones again for my sauce. I made a small pot of it and wished I made more to freeze. The sauce gets even better the second day!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-03T02:41:54.657
+helpfulCount:
+0
+userID:
+12284901
+Display Name:
+Sandy Farrar
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+220
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3047445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this today, all day long and as usual for a Chef John recipe it came out delicious. I didn't change anything but did add more tomato sauce and water then it called for but in the recipe Chef John said to taste so that was not really a change. At the end I added some pasta water also. I used Beef neck bones as he did but I bet if I used Pork neck bones it was be very delicious too. I have made several of Chef John's recipes and I never worry about any of them coming out perfectly delicious because he is pretty consistently good at creating them.

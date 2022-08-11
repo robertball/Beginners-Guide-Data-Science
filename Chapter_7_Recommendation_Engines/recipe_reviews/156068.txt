@@ -1,0 +1,72 @@
+Recipe number:
+156068.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-09-29T14:11:40.587
+helpfulCount:
+10
+userID:
+2706087
+Display Name:
+B. Castle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We tried half a batch in hopes of finding a recipe to help use up the last of the garden's produce. We are usually not huge relish fans, but my mother, sister, and I actually enjoyed this one! We had to try it that night on brats. I am making a whole batch today with the kids. They are great helpers with the prep work.
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-15T10:56:27.99
+helpfulCount:
+0
+userID:
+898288
+Display Name:
+PEGGY_1954
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/85344.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband goes shopping for the vege's just so this get's made.  He absolutely loves this relish.  He wants it everyday on sandwiches I make for his lunches.  And he is not a tomato lover, just this relish has him over the top.

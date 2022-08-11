@@ -1,0 +1,80 @@
+Recipe number:
+236937.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-27T20:21:08.84
+helpfulCount:
+6
+userID:
+11487409
+Display Name:
+mari
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is the capirotada I ate as a child .my mom made it just for holidays and we ate it all up. .thank you
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-04T18:53:29.957
+helpfulCount:
+4
+userID:
+23414938
+Display Name:
+Cantante
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the best and most authentic  capirotada recipe EVER, but I did alter it a  bit to suit my family’s preferences.  I added: 
+
+2 large peeled, sliced apples, golden delicious 
+2 cups of pitted prunes (whole) 
+2 cups water
+
+I also substituted coarsely chopped pecans for the peanuts. 
+
+According to your family tradition, some people add bananas, coconut, pineapple, etc.  My family prefers my rendition, but you can make it to suit your family’s likes/dislikes.

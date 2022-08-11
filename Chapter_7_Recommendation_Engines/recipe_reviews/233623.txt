@@ -1,0 +1,72 @@
+Recipe number:
+233623.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-23T00:03:51.463
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out good. I used fresh mint instead of dry because if you have it, why not? On that note, It think oregano or basil would have worked better for this. For the leftover I used basil and preferred it to the mint. Overall good recipe though and one I will make again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-26T23:06:26.71
+helpfulCount:
+1
+userID:
+1400396
+Display Name:
+Evelyn King
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+87
+favoritesCount:
+435
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/49.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe.  Both my husband and I loved it.  Made my own "Greek Seasoning" from AR.  Only thing I did different was to grill it flat  instead of rolling it.  We grilled it on one side, flipped it and sprinkled it with the feta.

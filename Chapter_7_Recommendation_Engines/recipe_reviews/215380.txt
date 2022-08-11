@@ -1,0 +1,37 @@
+Recipe number:
+215380.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-02-04T18:24:56.797
+helpfulCount:
+4
+userID:
+6503084
+Display Name:
+mrchristidis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious.  Instead of the meat I just made it a veggie pizza.  Turned out great!

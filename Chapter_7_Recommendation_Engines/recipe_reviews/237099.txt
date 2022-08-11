@@ -1,0 +1,37 @@
+Recipe number:
+237099.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-26T12:32:27.423
+helpfulCount:
+1
+userID:
+8327607
+Display Name:
+MusingMother29
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These black bottom cupcakes were pretty good and we will make them again with a few changes. The bake time was WAY too long for us, we will keep testing in that time range. We used 1/3 cup cocoa powder and added 2 teaspoons of instant coffee to the water for richer flavor. We are a huge cheese cake family, so next time we will use 1 cup of mini chocolate chips instead of the full amount. Although the recipe is good, we would have preferred to taste more cheese cake.  As written, this is a 4 star recipe (if you adjust the bake time). The changes make it 5 star for our family's taste preferences. The bottom line: these mini cupcakes will not disappoint.

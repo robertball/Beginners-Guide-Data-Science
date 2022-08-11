@@ -1,0 +1,72 @@
+Recipe number:
+261399.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-03T18:03:17.133
+helpfulCount:
+1
+userID:
+18234695
+Display Name:
+AnnC
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for Christmas dinner for a couple of guests that are vegetarians.  They said it was the best squash recipe they ever tried.  I followed the recipe exactly (except I microwave the shells) and sealed it up and froze it.  I put it in the fridge the day before I baked it for dinner.  Stood up very well to freezing!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-09T15:34:50.1
+helpfulCount:
+1
+userID:
+7208820
+Display Name:
+Paige MCgaughey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5819835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe. It was delicious.

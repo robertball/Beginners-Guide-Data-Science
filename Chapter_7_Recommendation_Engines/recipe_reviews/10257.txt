@@ -1,0 +1,73 @@
+Recipe number:
+10257.txt
+Review:
+Rating:
+2
+dateLastModified:
+2008-12-15T12:01:17.727
+helpfulCount:
+7
+userID:
+3384504
+Display Name:
+sarah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes and acts like cornbread.
+Review:
+Rating:
+5
+dateLastModified:
+2013-05-09T16:07:20.837
+helpfulCount:
+1
+userID:
+11174581
+Display Name:
+Serene Feng
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1362908.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was suprised at how delicous this is!
+Love this!

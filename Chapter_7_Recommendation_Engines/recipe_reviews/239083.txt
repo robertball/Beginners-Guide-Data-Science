@@ -1,0 +1,142 @@
+Recipe number:
+239083.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-17T06:06:11.593
+helpfulCount:
+3
+userID:
+13784051
+Display Name:
+Matious Daly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried  blueberrys preserves and fresh blueberries as a replacement and I love either way. Also a half scoop of vanilla protein supplement never hurts. I think that I like fresh fruit, over preserves but that's my preference. Great breakfast tho!! Great combo!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-04T17:04:41.797
+helpfulCount:
+1
+userID:
+17282637
+Display Name:
+Veronica Tavarez
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a few changes due to not having all the fruits. I used ½ banana, ½ cucumber, ¼ cup of dried blueberries and ¼ cup of Foco coconut water. It turned out delicious. I was pleasantly surprised.  When it comes to smoothie colors I get turned off, but after I tasted it I didn't care one bit. I will definitely be making this more often. Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-04T18:39:32.857
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good, but too much buttermilk for my taste. I would cut it back and use more coconut water instead. I used frozen blueberries instead of preserves, and that worked great. I had this as an afternoon snack; I don't think I'd like the cucumber for breakfast.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-28T18:14:00.987
+helpfulCount:
+0
+userID:
+9725917
+Display Name:
+Bill Campbell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+444
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good as is......

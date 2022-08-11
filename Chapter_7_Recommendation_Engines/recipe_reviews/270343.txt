@@ -1,0 +1,37 @@
+Recipe number:
+270343.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-09T22:34:03.573
+helpfulCount:
+2
+userID:
+12434547
+Display Name:
+Sherry
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+903
+favoritesCount:
+1367
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7740974.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as noted with only one exception, only used 1 1/2 pounds of sharp cheddar cheese.  Hubby and I both loved this soup. I always look for recipes that are not the everyday ordinary, this one did not disappoint. Flavor combo was spot on. Cheesy delicious.

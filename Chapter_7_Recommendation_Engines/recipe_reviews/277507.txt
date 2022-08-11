@@ -1,0 +1,72 @@
+Recipe number:
+277507.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-22T22:17:48.477
+helpfulCount:
+1
+userID:
+24170152
+Display Name:
+Dixie Jurca
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5923695.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. This will be a Christmas tradition in our home from now on!!!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-21T01:40:54.337
+helpfulCount:
+0
+userID:
+13202259
+Display Name:
+patty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Can I make the icing and hold it for the next day and then ice the cookies? I’m trying to bring them to my sons house and let my granddaughters ice the cookies please advise thank you Patty

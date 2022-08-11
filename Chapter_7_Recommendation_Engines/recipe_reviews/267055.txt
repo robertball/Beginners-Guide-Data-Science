@@ -1,0 +1,37 @@
+Recipe number:
+267055.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-17T23:07:46.507
+helpfulCount:
+3
+userID:
+13084957
+Display Name:
+BJ beck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1330
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought I'd try this recipe, since it had no reviews. I am not vegetarian or vegan, and I must say this soup is delicious! The textural combination of squash and potatoes works well together and the spices make it very flavorful!  I didn't have any madras curry powder so I used yellow curry powder and some crushed maras (yes, maras) pepper; you may want to cut back on the hot pepper if you don't like things too spicy.  This is a delicious, flavorful soup and I will definitely make it again!

@@ -1,0 +1,72 @@
+Recipe number:
+244754.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-27T11:48:29.51
+helpfulCount:
+1
+userID:
+12767774
+Display Name:
+Tam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+165
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everyone loves a bit of this on Christmas Eve!
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-21T23:00:20
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great! I let this sit four months. Next time I would add more sugar. and maybe some spices.

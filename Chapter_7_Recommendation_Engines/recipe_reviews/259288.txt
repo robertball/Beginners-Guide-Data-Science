@@ -1,0 +1,74 @@
+Recipe number:
+259288.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-26T07:17:13.757
+helpfulCount:
+0
+userID:
+20347270
+Display Name:
+Kelly Liptrap
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3899656.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We substituted Sweet potato tots in for regular, they needed to bake a bit longer to be crisp but over all this was a huge hit, and a great way to use up ham.   We opted for it as a breakfast side, but would make a great side to soup or dinner as well
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-21T20:38:30.4
+helpfulCount:
+0
+userID:
+9767726
+Display Name:
+ljfranc
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+673
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I gave this 5 stars because if made as is, it would work. But, I chose to use left-over mashed potatoes. Baked in Muffin cups.
+The filling can be made with cubed ham, leftovers. I pretty much stayed with your recipe. I prebaked the filling, slightly. Then added to "cups" Topped with cheese, baked till melted.
+Watch closely!

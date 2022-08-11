@@ -1,0 +1,72 @@
+Recipe number:
+241870.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-05T23:38:17.137
+helpfulCount:
+0
+userID:
+14058249
+Display Name:
+CourtneyR
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4446431.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this dish, especially with asparagus fresh from the garden! Used some all purpose seasoning rather than just pepper - delish!
+Review:
+Rating:
+3
+dateLastModified:
+2015-04-09T10:29:57.06
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1118
+favoritesCount:
+2285
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was okay, but not memorable. It made a nice side dish to my leftover piece of strata that I had for lunch. I don't think I'd make it again though.

@@ -1,0 +1,72 @@
+Recipe number:
+237347.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-08T11:06:05.807
+helpfulCount:
+4
+userID:
+9986587
+Display Name:
+gail giddings
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+3684
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1404412.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delicious. I did do something a bit differently; instead of adding both the meat and potatoes, I just added the meat, because I was afraid that I couldn't get a good browning, which is so key. After the meat was well browned, then I added the potatoes, and continued with the recipe.. It's great for those times when you want a break from your regular meals. Thanks for a great recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-09T18:51:53.777
+helpfulCount:
+2
+userID:
+12701033
+Display Name:
+LawyerCook
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was easy to follow, despite seeming long when I first looked at it. My own issues with getting the rice cooked properly added an unnecessary occasional crunch, but otherwise my family loved this! I kept it very mild for my elementary-aged daughter, and served the hotter condiments on the side for my husband. It worked perfectly for both. The favors melded even better on day 2.

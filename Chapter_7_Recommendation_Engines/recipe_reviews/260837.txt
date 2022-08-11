@@ -1,0 +1,80 @@
+Recipe number:
+260837.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-12T03:29:06.017
+helpfulCount:
+1
+userID:
+12650968
+Display Name:
+nobetty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and really good, if you know what to expect from coconut milk and even if you don't. 
+
+Caution to those new to using coconut milk though - it is much richer and thicker and creamier than your typical milk and you may not be able to drink a full mug (I can't). But it certainly hits the spot when you want to indulge a bit and are craving something chocolatey, dessert-y, creamy, and/or sweet. 
+
+I added 1/2 cup of chocolate almond milk to make it go a little further and thin it out as my coconut milk was very thick to begin wtih. I also used dutch cocoa instead of dark chocolate.
+
+For spices, I omitted curry, and added 1/2 tsp turmeric, 1/2 tsp cinnamon, a 1/4 tsp black pepper and a few sprinkles of all spice. I sweetened with stevia as I can't have sugar. 1/2 tsp for the batch did me fine. 
+
+The whole batch gave me one very full mug's worth.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-22T12:05:05.72
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful! The curry powder is a lovely addition. I used a mini immersion blender. Thank you for the recipe.

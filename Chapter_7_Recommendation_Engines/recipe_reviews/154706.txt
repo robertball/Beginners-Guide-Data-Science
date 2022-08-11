@@ -1,0 +1,109 @@
+Recipe number:
+154706.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-08-24T19:13:43.323
+helpfulCount:
+26
+userID:
+1295579
+Display Name:
+Kelly Nagy Cramer
+isPro:
+False
+followersCount:
+26
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+153
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/374571.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is not your original irish cream liqueur.  Made "G" rated version pretty sweet for my palete but the kids liked it as "ice cream".  Made the "grown up" version and it was good.  Not something I would drink everyday but was nice with coffee as an after dinner drink.
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-29T13:32:35
+helpfulCount:
+4
+userID:
+5079644
+Display Name:
+Confirmed Bachelor
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/436269.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Recipe sounds good, But 2 Questions.
+1). Can the "A" or "G" versions be frozen for storage? 52 servings, the cream & H/H expiration dates would have passed long before it would be used as a creamer.
+2). Does the "G' version require additional liquid to make up for the loss of 750 m/l whiskey?
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-03T11:41:03.793
+helpfulCount:
+0
+userID:
+8053826
+Display Name:
+John AndKaye Pattison
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2028104.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this 3 different times. It is yummy. Be sure to share because it make a lot! However, it really does have a long refrigerated life. If the amount is overwhelming, make half a batch.

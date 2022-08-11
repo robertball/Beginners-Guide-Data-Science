@@ -1,0 +1,47 @@
+Recipe number:
+7789.txt
+Review:
+Rating:
+3
+dateLastModified:
+01/25/2004
+helpfulCount:
+5
+userID:
+510888
+Display Name:
+Lisa Joseph
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2675576.jpg
+text:
+I used the thinnest pan I could. Must not have been a jelly roll pan. I had to bake it a little longer to make sure it was done. The directions for the frosting did not work out at all! I had to add more milk than the recipe called for to even make a frosting! I used my past knowledge of cake baking to help me. The taste for this cake is not bad.
+Review:
+Rating:
+5
+dateLastModified:
+07/13/2010
+helpfulCount:
+5
+userID:
+3030726
+Display Name:
+Dulcie
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These were really good. They taste like peanut butter cookies in cake form. Like another person said they're more of a cake than chewy but they were good.
+Review:
+Rating:
+4
+dateLastModified:
+09/04/2007
+helpfulCount:
+2
+userID:
+739541
+Display Name:
+KRISTINEO
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+not really chewy as much as they are a cake but still yummy!

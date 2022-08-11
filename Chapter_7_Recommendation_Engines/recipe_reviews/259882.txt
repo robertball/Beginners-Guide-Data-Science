@@ -1,0 +1,107 @@
+Recipe number:
+259882.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-20T03:46:53.903
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum.. can't wait to make this again.  I was missing dry sherry so I subbed white wine and a little rice wine vinegar. Quick to make and reheated well... I kept potstickers separate in fridge so they didnt soak up all the broth
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-10T23:42:33.56
+helpfulCount:
+0
+userID:
+3096947
+Display Name:
+Sharyl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+77
+favoritesCount:
+476
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6841055.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a great idea to use pot stickers for a fast and delicious soup.  It's an instant meat, flavour and noodle addition to leftover fridge vegetables.  I didn't add the ham as it was fine with just the meat in our pot stickers.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-09T13:37:50.427
+helpfulCount:
+0
+userID:
+12460492
+Display Name:
+Priscilla Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5395459.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is easy and so good.

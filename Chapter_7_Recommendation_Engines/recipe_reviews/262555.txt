@@ -1,0 +1,37 @@
+Recipe number:
+262555.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-30T22:48:36.13
+helpfulCount:
+0
+userID:
+23466630
+Display Name:
+meg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thanks for a great gluten free recipe! I'm having a brunch for someone who is allergic to gluten and hates eggs. Crepes is a perfect option. I made a practice batch today and they were so easy to make!  I am going to serve them with an apple filling. I did add a little bit of sugar and vanilla as suggested but they probably won't need it with the sweet filling. This recipe is a keeper.

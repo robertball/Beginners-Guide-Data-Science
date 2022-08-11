@@ -1,0 +1,37 @@
+Recipe number:
+244746.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-07T09:11:01.397
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found the preparation method and ingredient combo a bit odd when I first read over this recipe but the outcome was awesome! The one thing I would change is to eliminate the salt altogether since the parm brings plenty of salt to the sauce. I used this for grilled chicken wings but it would work well with so many other things. Try it and see for yourself!

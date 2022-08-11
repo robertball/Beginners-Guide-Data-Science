@@ -1,0 +1,37 @@
+Recipe number:
+267569.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-21T18:34:21.527
+helpfulCount:
+0
+userID:
+6041335
+Display Name:
+Del
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+89
+favoritesCount:
+482
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+One thing I don't get here.   Why would you want the cream cheese cold before creaming with the room temp butter???

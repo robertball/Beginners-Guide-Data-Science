@@ -1,0 +1,72 @@
+Recipe number:
+256235.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-02T21:14:20.273
+helpfulCount:
+3
+userID:
+2844831
+Display Name:
+Cooking Daddy
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+296
+favoritesCount:
+6213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6980549.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love cheese steaks.  This has that same flavor in a dip.  Overall, it was pretty good.  I didn't have the money for the steak, but used deli roast beef instead, but I think it tasted great.
+Review:
+Rating:
+1
+dateLastModified:
+2019-03-22T13:58:27.543
+helpfulCount:
+0
+userID:
+22613177
+Display Name:
+Elizabeth
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+248
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5722785.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+SOOOOOOOO SALTY unable to eat

@@ -1,0 +1,37 @@
+Recipe number:
+241962.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-23T11:41:24.187
+helpfulCount:
+1
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This doesn't really go well with pasta.  As a dip for vegetables, being more like hummus, this works.  I omitted the miso, perhaps that's the reason this is far from tasting like cheese.

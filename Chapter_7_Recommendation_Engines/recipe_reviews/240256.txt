@@ -1,0 +1,37 @@
+Recipe number:
+240256.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-05T17:38:34.507
+helpfulCount:
+0
+userID:
+12843330
+Display Name:
+gia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good and chocolaty!!  The only thing I changed was to purée  the pudding after it finished cooking

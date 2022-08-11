@@ -1,0 +1,72 @@
+Recipe number:
+269228.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-23T22:30:16.963
+helpfulCount:
+2
+userID:
+14560994
+Display Name:
+knightmoves
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made a few changes.  Added diced mushroom and used Italian sausage instead of the smoked.  A little pinch of fennel from our garden (we love it).  Used Gruyere cheese instead of  the Fontina.  We are at sea level so we cooked it an additional 30 minutes (with the foil off).  Used red pepper flakes instead of the cayenne pepper.  We were nervous at first about trying this.  And now glad we did.  We loved it and will definitely be making it again.  The only thing we will do different next time is add more heavy cream.  And maybe another can of pumpkin.
+Review:
+Rating:
+3
+dateLastModified:
+2018-12-07T10:39:00.627
+helpfulCount:
+0
+userID:
+23765611
+Display Name:
+Suzanne K
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am not sure on this one.  The pumpkin was different, but I think I would find another substitute for it.

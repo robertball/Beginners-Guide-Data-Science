@@ -1,0 +1,37 @@
+Recipe number:
+237294.txt
+Review:
+Rating:
+1
+dateLastModified:
+2014-10-13T07:34:21.86
+helpfulCount:
+1
+userID:
+2792101
+Display Name:
+Ajoy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+248
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/213284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For starters the proportions are waaay off. I ended up adding an extra cup of milk and it still wouldn't spread at all . . . so I'm standing there trying to spread out the pancake playdough and then when I try to flip it of course it falls apart. The basic idea of milk, butter, eggs, coconut flour and rice flour might still work, but this one didn't work for me.

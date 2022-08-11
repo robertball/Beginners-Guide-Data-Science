@@ -1,0 +1,37 @@
+Recipe number:
+258671.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-18T21:03:31.78
+helpfulCount:
+3
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If I were to describe this in two words, it would be  Bruschetta Quesadilla. To me that's what it tastes like. I added minced garlic and red pepper flakes. Brushing with the mustard is a great idea. Browns the empanadas beautifully and does not change or add to the main flavors. I loved it.

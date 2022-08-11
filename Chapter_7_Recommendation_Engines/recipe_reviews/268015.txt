@@ -1,0 +1,37 @@
+Recipe number:
+268015.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-23T12:18:34.43
+helpfulCount:
+0
+userID:
+15348738
+Display Name:
+Lynda S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+598
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have a pressure cooker, so I just boiled the sweet potatoes in a pot and then drained.  I added the rest of the ingredients plus a small amount of chicken broth to moisten.

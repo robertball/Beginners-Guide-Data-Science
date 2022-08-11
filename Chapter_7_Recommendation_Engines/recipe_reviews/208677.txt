@@ -1,0 +1,37 @@
+Recipe number:
+208677.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-20T14:26:19.973
+helpfulCount:
+0
+userID:
+4793061
+Display Name:
+becs0118
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is GREAT for burgers. Make sure to use a large avocado, I used a smaller one and it made just enough for 4 burgers, but oh-so-yum!

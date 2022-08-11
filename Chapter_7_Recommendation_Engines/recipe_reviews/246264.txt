@@ -1,0 +1,37 @@
+Recipe number:
+246264.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-20T08:05:19.13
+helpfulCount:
+0
+userID:
+2595018
+Display Name:
+Crikkitt
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+222
+favoritesCount:
+834
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3818554.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy, yummy, healthy. Will make again. Next time instead of dirtying 2 dishes after sauteeing the mushrooms and kale I'll add the eggs into that pan.

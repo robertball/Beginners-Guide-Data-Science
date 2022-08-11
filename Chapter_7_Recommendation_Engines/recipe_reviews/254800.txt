@@ -1,0 +1,72 @@
+Recipe number:
+254800.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-26T18:23:03.697
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2275
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a lot of work if you do not own a food processor but the outcome is worth it. The one thing I did not like about the recipe is the color the cauliflower turns as soon as you add the vinegar. I recommend using a white balsamic instead of the dark one that I used. This has a nice earthy taste to it and would go with many different things. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-05T02:14:32.393
+helpfulCount:
+0
+userID:
+23795842
+Display Name:
+MARI JO ENFIELD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5450475.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was absolutely amazing!  Followed the recipe exactly and we didn't even notice the cauliflower rice...everyone had seconds!  So delicious!

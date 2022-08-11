@@ -1,0 +1,108 @@
+Recipe number:
+275108.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-10T21:57:46.63
+helpfulCount:
+1
+userID:
+22216749
+Display Name:
+Husky 7
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to prepare. Only adjusted the heat to our tastes, so enjoyed the flavour. Served on rice. Great for a weekday meal.
+Next time might try with some chopped carrot, snow pea and bean sprouts for some crunch. Fun recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-09T17:55:56.57
+helpfulCount:
+1
+userID:
+12398285
+Display Name:
+Patty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it as written except I marinated the chicken in the sauce for 20 minutes then drained before I stir fried it in two batches. Added great mix mash of veggies. Excellent and I control the spice and salt.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-13T23:37:42.947
+helpfulCount:
+0
+userID:
+24663569
+Display Name:
+Michelle McK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice recipe- I might reduce the honey next time but you can control your spice heat the way you like it   I was lazy and decided not to do the premix in the bowl.  I would suggest it’s worth the extra dirty bowl. ??

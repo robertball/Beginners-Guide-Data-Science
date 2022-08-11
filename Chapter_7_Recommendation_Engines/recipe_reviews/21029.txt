@@ -1,0 +1,72 @@
+Recipe number:
+21029.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-04-22T10:03:41.457
+helpfulCount:
+5
+userID:
+1171191
+Display Name:
+Phoebe
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+390
+favoritesCount:
+2756
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/572879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.5 Not overly exciting but a nice change, will make again.  Let it sit overnight in the fridge.
+Review:
+Rating:
+4
+dateLastModified:
+2013-05-12T16:45:34.39
+helpfulCount:
+1
+userID:
+11174581
+Display Name:
+Serene Feng
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1362908.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+pretty good!

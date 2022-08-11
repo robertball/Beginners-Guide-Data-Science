@@ -1,0 +1,143 @@
+Recipe number:
+257451.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-15T22:38:42.75
+helpfulCount:
+3
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+556
+favoritesCount:
+874
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this recipe. I only needed one serving so I cut the recipe back.  I heated the oil on high until it shimmered added the scallops and turned the heat down to med. high and cooked them for about 1 1/2 to 2 minutes. Cooking bay scallops for 6-7 minutes is way too long IMHO. I didn't have a fresh lemon, I was so sure that I did, so I omitted that part of the recipe. Thanks for sharing and I look forward to trying this recipe again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-02T00:52:27.827
+helpfulCount:
+1
+userID:
+25447587
+Display Name:
+Kimball Bergeron
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6553227.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy and taste great
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-06T23:55:31.933
+helpfulCount:
+0
+userID:
+3198403
+Display Name:
+Becky M
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+260
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1117252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was perfect for us.  I needed to make it GF.  I used Aleias GF crispy crumbs.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-28T19:51:08.92
+helpfulCount:
+0
+userID:
+4422271
+Display Name:
+Ed in GA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent !, I made 1 change - substituted plain breadcrumbs for the Italian and added some dried basil and oregano.
+Overall, as a retired teacher, I give it an A+

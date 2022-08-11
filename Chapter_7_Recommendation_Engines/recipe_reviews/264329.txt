@@ -1,0 +1,76 @@
+Recipe number:
+264329.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-05T03:54:14.63
+helpfulCount:
+0
+userID:
+24885137
+Display Name:
+Darrin Ritter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6221232.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this recipe, i cooked mine for 4 hours on the stove top made all the difference, delicious
+Review:
+Rating:
+1
+dateLastModified:
+2018-10-27T01:35:44.18
+helpfulCount:
+0
+userID:
+14235807
+Display Name:
+AnneHJ
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1425874.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe *exactly.*  
+
+They came out like rocks - I was sincerely concerned those eating would break a tooth. I should've known that boiling them before rendering would leach out all the moisture, but followed along nonetheless. 
+
+Pork belly is my spouse's favorite meat and he had two bites and stopped eating. Complete waste of $15 meat.

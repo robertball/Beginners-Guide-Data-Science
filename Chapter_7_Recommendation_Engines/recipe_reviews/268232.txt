@@ -1,0 +1,37 @@
+Recipe number:
+268232.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-11T16:46:02.15
+helpfulCount:
+1
+userID:
+4148773
+Display Name:
+~Jessica~
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6101976.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I seasoned with garlic powder, pink salt and white pepper. This was absolutely perfect! It was our first time trying radishes it is now probably our favorite side! This dinner is perfect and simple and will definitely be my go to from now on!

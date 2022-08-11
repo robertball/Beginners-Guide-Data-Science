@@ -1,0 +1,72 @@
+Recipe number:
+245938.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-24T02:47:09.817
+helpfulCount:
+0
+userID:
+25749922
+Display Name:
+Jutta B.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty great dish.
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-12T11:36:00.117
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+969
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good. I used fenugreek and black salt instead of the heeng, which I can't find in my area. Thank you for the recipe.

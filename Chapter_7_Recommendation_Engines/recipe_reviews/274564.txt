@@ -1,0 +1,37 @@
+Recipe number:
+274564.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-19T13:24:19.663
+helpfulCount:
+1
+userID:
+13551928
+Display Name:
+Kathy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made it as it stands on a Traeger. We wouldn’t change a thing. The bark had a phenomenal flavor and the meat was so good. We couldn’t bring ourselves  to put BBQ sauce in. Loved it. This will bump ahead of our favorite Memphis Dust recipe.

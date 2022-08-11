@@ -1,0 +1,111 @@
+Recipe number:
+221319.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-05-04T07:43:04.073
+helpfulCount:
+9
+userID:
+3866914
+Display Name:
+Kelly Kindle Cheney
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+166
+favoritesCount:
+370
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/458117.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am wondering if 1 teaspoon was supposed to be 1 tablespoon. Basically it is straight bourbon otherwise.
+
+We kept working on the formula and decided we liked more mint and more syrup. Of course by the 5th round we thought they were excellent. It turned out to be an epic Derby Day.
+
+Maybe some citrus soda or peach brandy would have mellowed the flavor a bit. But then it wouldn't be a traditional julep.
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-26T15:48:13.413
+helpfulCount:
+7
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1595
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a nice stiff drink.  I drank a few sips, as is, then decided to add a splash of Diet 7Up for bubbles.  CHEERS, Alrecipes!
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-11T13:52:07.873
+helpfulCount:
+1
+userID:
+11463743
+Display Name:
+rfowler4040
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a pretty strong drink. I made it the way it is written the first time, but then on the second go-around I added 1/2 of a lime, 2 tsp of simple syrup and 1/4 cup of sparking (lime/mint flavored) water. This 2nd version tasted much better in my opinion.

@@ -1,0 +1,37 @@
+Recipe number:
+233921.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-19T17:05:56.807
+helpfulCount:
+0
+userID:
+10608991
+Display Name:
+famcook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+202
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a quick sauce to go with pork chops and this was perfect. I made a few changes because of what I had at home. I used real brown sugar. I didn't have jalapeño but did have a can of diced green chiles so used those instead. I also didn't have onion. My family loved it. A little sweet and a little spicy. My daughter put some on a Graham cracker for dessert and that was tasty too. Enjoy!

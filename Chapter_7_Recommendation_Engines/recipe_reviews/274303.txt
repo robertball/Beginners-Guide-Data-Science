@@ -1,0 +1,38 @@
+Recipe number:
+274303.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-18T23:22:38.623
+helpfulCount:
+0
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+557
+favoritesCount:
+875
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this almost as written. In step two I mixed it by hand instead of a mixer and I then used the KA to knead the dough. I used unbleached bread flour and wild, dried,  blueberries. not sure if that made a difference or not. I considered cutting back the sugar but went with the recipe and it's perfect as written.  Thanks for sharing, we throughly enjoyed this!
+Update: I forgot to mention that there was no oven temp stated when I made this. The original recipe states 375 so that's what I went with.

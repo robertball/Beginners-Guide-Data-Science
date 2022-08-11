@@ -1,0 +1,37 @@
+Recipe number:
+257825.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-11T18:37:13.26
+helpfulCount:
+0
+userID:
+20776182
+Display Name:
+Aimee Charbeneau
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4160500.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did make changes. Strawberries looked blah at the store, so I added cantaloupe, coconut (fresh), watermelon, more mango (4), lime instead of lemon and chamoy with a little extra hot chili powder and a dash of salt.

@@ -1,0 +1,72 @@
+Recipe number:
+268917.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-25T20:02:28.723
+helpfulCount:
+0
+userID:
+25335881
+Display Name:
+Lara Eaton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6473946.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+love it, very spicy too
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-11T21:36:52.677
+helpfulCount:
+0
+userID:
+24926141
+Display Name:
+Melissa M.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is awesome! The wings came out crispy, spicy, and flavorful. The only modification I would make is to put the wings back in the oven the second time for a shorter amount of time (maybe ~8 mins).

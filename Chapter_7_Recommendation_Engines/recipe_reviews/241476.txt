@@ -1,0 +1,37 @@
+Recipe number:
+241476.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-23T07:40:19.707
+helpfulCount:
+0
+userID:
+2016123
+Display Name:
+spice of life
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+253
+favoritesCount:
+2318
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5746750.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty for either a salad or a dessert.

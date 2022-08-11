@@ -1,0 +1,72 @@
+Recipe number:
+240978.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-13T18:14:01.2
+helpfulCount:
+2
+userID:
+13492116
+Display Name:
+Alexandra Murias
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1984388.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+THERE IS ONLY ONE WORD FOR THIS.... AWESOME!!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-19T23:02:36.56
+helpfulCount:
+0
+userID:
+5557741
+Display Name:
+runnerpam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+131
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were so light and flakey.  Made the perfect amount.  I will definitely use this as my go to sugar cookie dough.

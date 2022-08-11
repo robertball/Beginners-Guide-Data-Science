@@ -1,0 +1,107 @@
+Recipe number:
+214192.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-05-16T19:14:05.223
+helpfulCount:
+13
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+874
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious. I followed the recipe exactly and had great results. The pineapple juice does make it sweet, but that's what pineapple juice does. This is a great combination of flavors and will definitely be made again. Thanks for a great recipe, Witchywoman!
+Review:
+Rating:
+3
+dateLastModified:
+2010-05-12T08:14:35.427
+helpfulCount:
+13
+userID:
+4783525
+Display Name:
+Heather Prescott
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+210
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1629553.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was very sweet (which I knew by the ingredients).  I likened it to a Sex on the Beach with a coconut flare.  Personally I am not a fan of coconut in my drinks (bad experience).  But if you like sweet and coconut w/o a heavy alcohol flavor, you would def. like this drink.
+Review:
+Rating:
+5
+dateLastModified:
+2010-06-04T17:30:54.547
+helpfulCount:
+10
+userID:
+4612746
+Display Name:
+TRolando
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty, great for the Summer season.

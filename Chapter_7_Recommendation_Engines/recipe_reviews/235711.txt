@@ -1,0 +1,72 @@
+Recipe number:
+235711.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-06T04:54:33.683
+helpfulCount:
+0
+userID:
+1493085
+Display Name:
+Jessica Paige
+isPro:
+False
+followersCount:
+23
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+319
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/455816.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Since our three year old's favorite dish is chili(we eat it at least once a week) and my husband is a die-hard Philadelphia Eagles fan; I thought this recipe would appease both of them and change things up a bit! I didn't have Cheez Whiz (which of course would have made it more authentic) but I did use a condensed cheddar cheese soup and softened cream cheese whipped together to get a similar consistency, tempering/blending them both in towards the end of cooking. I also used diced fire roasted tomatoes as opposed to the spicy tomato sauce cause the three year old can handle some heat, but I didn't want any crying during dinner :) Thank you Dan for sharing this recipe! My husband has already put in requests for this dish more often during football season.
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-20T19:19:57.8
+helpfulCount:
+0
+userID:
+6597960
+Display Name:
+Heather Brackney
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+128
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2083153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used london broil steak, since it was on sale.  But I also added dried chilies and cayenne pepper to kick the spicy up a notch.  But overall really good!

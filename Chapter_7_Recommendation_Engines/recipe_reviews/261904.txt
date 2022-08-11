@@ -1,0 +1,72 @@
+Recipe number:
+261904.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-22T03:05:17.293
+helpfulCount:
+0
+userID:
+8702340
+Display Name:
+Ruthy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tried these yummy cookies and my kids and I loved them. They had the perfect amount of sweetness and crunchiness. Definitely a hit in my house.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-21T23:38:00.003
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+194
+followingCount:
+0
+madeRecipesCount:
+547
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed as written. The chocolate never really hardens, but it makes it finger licking good. Super good and addicting. This makes a big batch, so it's great for a big crowd or as breakfast!

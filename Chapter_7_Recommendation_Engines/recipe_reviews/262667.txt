@@ -1,0 +1,73 @@
+Recipe number:
+262667.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-28T00:02:18.59
+helpfulCount:
+1
+userID:
+15534284
+Display Name:
+myfriendscallmedave
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5021477.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Well, Dave. I have to thank you for posting this recipe. I had made this pie many times a number of years ago but lost the recipe book it was in. I've been searching for a recipe for this for four years but no one I know had heard of it. This is a delicious mixture of tart and sweet and I, like you, prefer the rhubarb cooked down into the custard instead of rhubarb chunks. So having said that, I did cook the rhubarb longer than you state and mashed it before incorporating the cream mixture in. Other than that, I made no changes and don't plan on any. This is a great recipe for a great pie. 
+PS: I love surprising dinner guests with this dessert. I like to bring the pie to the table and I know they are expecting lemon meringue pie. I can't wait to see their faces when I cut a slice and it is pink!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-13T06:25:04.7
+helpfulCount:
+0
+userID:
+11547175
+Display Name:
+Dave Peterson
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+233
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1286884.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this pie.  Unlike any other Rhubarb pie with a creamy custard filling.

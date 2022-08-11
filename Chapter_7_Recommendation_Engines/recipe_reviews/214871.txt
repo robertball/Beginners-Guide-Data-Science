@@ -1,0 +1,37 @@
+Recipe number:
+214871.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-02-09T19:56:00.677
+helpfulCount:
+1
+userID:
+3502873
+Display Name:
+kellieann
+isPro:
+False
+followersCount:
+205
+followingCount:
+0
+madeRecipesCount:
+1092
+favoritesCount:
+1761
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/843887.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! I couldn't find fiddleheads so I used broccoli, about 2 1/2 cups chopped, and I used margarine instead of olive oil. I doubled the amount of garlic and wine.

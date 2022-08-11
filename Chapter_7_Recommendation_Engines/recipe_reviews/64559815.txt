@@ -1,0 +1,37 @@
+Recipe number:
+64559815.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-02T17:01:41
+helpfulCount:
+0
+userID:
+2241450
+Display Name:
+Sudie B
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+77
+favoritesCount:
+573
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/238058.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious--not too spicy.  Serve with plain yogurt and mango chutney.  We will make this again!

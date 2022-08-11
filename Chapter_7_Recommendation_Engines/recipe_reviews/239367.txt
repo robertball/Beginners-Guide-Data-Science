@@ -1,0 +1,72 @@
+Recipe number:
+239367.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-19T17:41:58.67
+helpfulCount:
+0
+userID:
+13936007
+Display Name:
+Christopher James Buttermore
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1265577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe  turns out amazing every year. Was on the back of the first box of oil I bought 10 years ago when i first decided to try and deep fry  a Turkey.  I haven't made Turkey any other way since. Even have family members bring turkeys with them so they can take a whole one home
+Review:
+Rating:
+1
+dateLastModified:
+2017-11-25T16:31:43.49
+helpfulCount:
+0
+userID:
+22795887
+Display Name:
+hurricanesd83
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+?? Which ingredients are for the rub and which for the injection??

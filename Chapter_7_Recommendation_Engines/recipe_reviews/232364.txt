@@ -1,0 +1,72 @@
+Recipe number:
+232364.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-04-20T15:11:49.847
+helpfulCount:
+17
+userID:
+3632174
+Display Name:
+BigShotsMom
+isPro:
+False
+followersCount:
+186
+followingCount:
+0
+madeRecipesCount:
+637
+favoritesCount:
+1878
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really enjoyed this.  I added half a sliced banana, some mango and a handful of almond slices.  I made and dressed the salad mid morning to use mid afternoon, giving all the fruits to meld with the dressing.  When I opened the container the smell of tequila was pretty strong, but it really isn't strong as you eat it.  I used Sauza (r) Blue tequila and it was just perfect.  This will be featured at many summer functions.  Thanks, becchoate!
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-05T13:48:25.87
+helpfulCount:
+1
+userID:
+7502508
+Display Name:
+Judy Cervantes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3469317.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I happen to love margaritas and watermelon, so I decided to give this a try.  It was delicious.  Since I like my margarita with salt, I sprinkled a little salty Cotija cheese to taste just before serving.

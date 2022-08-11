@@ -1,0 +1,37 @@
+Recipe number:
+64124864.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-05-15T03:20:45.887
+helpfulCount:
+0
+userID:
+6412992
+Display Name:
+HurdBird
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+765
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/595315.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Next time I would add the zucchini in ten minutes into the simmering time so it doesn't end up mushy. The potatoes, on the other hand were a lovely texture.

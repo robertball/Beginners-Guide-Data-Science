@@ -1,0 +1,72 @@
+Recipe number:
+269607.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-08-18T22:46:55.917
+helpfulCount:
+0
+userID:
+21897652
+Display Name:
+FreeCake
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are okay. They definitely have to much butter. The cookies leave wet marks on your hands when you pick them up. I'd also recommend baking them for a couple more minutes.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-12T18:07:34.42
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+578
+favoritesCount:
+799
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good flavors! Makes 2 bigger cookies. I would cut back the butter just a little next time and increase the cook time in a bigger oven.

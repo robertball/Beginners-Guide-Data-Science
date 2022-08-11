@@ -1,0 +1,148 @@
+Recipe number:
+244141.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-07T18:28:30.85
+helpfulCount:
+4
+userID:
+17473131
+Display Name:
+John Reel
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3235774.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy, delicious and true to the French taste profile. I will be sure to make it again.
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-06T17:46:58.61
+helpfulCount:
+2
+userID:
+15065160
+Display Name:
+Lou Caputo
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+544
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5072843.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added two stalks of celery sliced, deglazed the LeCreuset with french rose sautéed veggies put chicken in added broth, wine, seasoning. I cooked it covered in the oven at 350 for an hour. Thickened it on the stove top & served. It was delicious
+Review:
+Rating:
+4
+dateLastModified:
+2015-10-26T17:57:11.617
+helpfulCount:
+1
+userID:
+5670218
+Display Name:
+barb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My mom has finally slowed down to where she's sitting in the living room waiting for dinner rather than hovering around the stove. (she's 90)
+
+Since she does volunteer work on Monday, I thought it would be nice to do something with the chicken she bought, so I used this recipe reduced down by 3/4s. 
+
+I also threw in a little leftover potato, which sort of simmers down to add to the sauce.
+
+It was quick, it was easy, and it was delicious! I gave mom all the carrots, because I hate cooked carrots.
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-20T14:08:02.33
+helpfulCount:
+0
+userID:
+11630501
+Display Name:
+Ron Pearson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+216
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We used turkey sausage instead of bacon, and left out the flour,  but it was quick and easy and tasted very good.

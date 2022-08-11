@@ -1,0 +1,72 @@
+Recipe number:
+67692.txt
+Review:
+Rating:
+2
+dateLastModified:
+2006-08-20T15:11:21.357
+helpfulCount:
+1
+userID:
+615195
+Display Name:
+Aspiring Chef Rita
+isPro:
+False
+followersCount:
+58
+followingCount:
+0
+madeRecipesCount:
+744
+favoritesCount:
+1699
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/146.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Bland is the only way I can descibe this pork dish. Grilled pineapples are always great and that is what perked this dish up.
+Review:
+Rating:
+4
+dateLastModified:
+2004-06-15T05:43:58.14
+helpfulCount:
+1
+userID:
+588110
+Display Name:
+APPLETREEWOMAN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good.

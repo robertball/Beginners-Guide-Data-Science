@@ -1,0 +1,37 @@
+Recipe number:
+264351.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-18T16:01:38.223
+helpfulCount:
+0
+userID:
+25862384
+Display Name:
+Emily Newton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6846028.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It’s a great dessert but there are instructions missing from the recipe which is why you only get 4/5 stars. When making the first part, you need to bring it to a boil, the same way you would if you’re making fudge, and then lower the heat and simmer but constantly whisking. When making the syrup, you can’t bring it to a boil over low heat- heat on medium and lower it as desired, for 5 mins.

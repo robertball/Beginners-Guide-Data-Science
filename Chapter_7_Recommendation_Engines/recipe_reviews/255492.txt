@@ -1,0 +1,109 @@
+Recipe number:
+255492.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-16T04:46:54.58
+helpfulCount:
+0
+userID:
+17141967
+Display Name:
+John K
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6909636.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was unsure of how this was going to turn out (it started more soupy than I was expecting) but over the course of a couple-3 hours it thickened to a great consistency and even better taste!
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-10T21:23:34.46
+helpfulCount:
+0
+userID:
+3988240
+Display Name:
+Ralph
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+311
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this recipe today.  Came out great.  I omitted the spinach and added crumbles instead.  I also used Arrowroot the last hour of cooking as a thickener.  It worked great, and there is no taste to arrowroot.     It does make a large batch, so just a warning, you probably not be able to eat all of it at one sitting.
+
+You could also use cornstarch or flour for a thickening, but I would recommend the cornstarch over the flour.  Actually arrowroot is best, because it is tasteless.
+Review:
+Rating:
+3
+dateLastModified:
+2017-11-22T02:16:06.723
+helpfulCount:
+0
+userID:
+10662455
+Display Name:
+Jessica Anderson Knauss
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+193
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5667650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This chili has a lot of flavor!  However, the amount of chipotle powder was way too overpowering, even after I added more of all the other spices.  Also, the chili was a little more liquid-y than I'm used to, and I even drained/rinsed the cans of beans.  I would put the spinach in at the end next time because I did not like the texture of soggy spinach.  But overall, good with some sour cream to tamper the chipotle!

@@ -1,0 +1,107 @@
+Recipe number:
+17473.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-04-11T18:54:44.417
+helpfulCount:
+3
+userID:
+3662734
+Display Name:
+Diana Wesner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1497930.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe!  I used chicken broth and doubled the mushrooms and carrots and it turned out great.  Family loved it.
+Review:
+Rating:
+3
+dateLastModified:
+2016-01-09T11:22:30.833
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5753
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.9.16 I used cremini mushrooms and liked the earthy, rustic  flavor they brought to this soup and the little pop of color that the carrots gave it (would recommend doubling both). I don't think some chopped parsley stirred in right before serving would be a bad idea, either.  I used a combination of chicken and beef stock (mostly chicken, had both in the fridge), and felt this soup really needed a healthy dose of both salt and pepper.  I'm used to potato soup with more of a milk/cream base, so this was a little different.  Not convinced that the "puree" consistency is my favorite, so if I were to make again, I'd move some of the potato quantity from what goes into the blender to the diced potatoes that are stirred in at the end.  My personal preference would be to just mash some of the potatoes to get a thicker consistency,not puree,  rather than pureeing the entire soup and adding just a handful of diced potato at the end.
+Review:
+Rating:
+4
+dateLastModified:
+2012-11-01T18:57:38.48
+helpfulCount:
+0
+userID:
+6538800
+Display Name:
+Jennifer Listerud
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+66
+favoritesCount:
+752
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1271535.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tastey and I love the pile of hidden veggies inside. I think it needed a longer cook time for potatoes in the pot.  I'd also like more carrots and potatoes at the end.  Good enough that my friends asked for more, though!  Thanks!

@@ -1,0 +1,72 @@
+Recipe number:
+237345.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-27T20:13:41.357
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I used fresh oregano and chose to use only 1 bell pepper due to personal preference. Black beans always seem hard to flavor to me but this recipe seasoned them nicely. It never really thickened for me so next time I will eliminate the water that gets added in step 4. I'm also not a vegetarian so I'll use real bacon next time but this was a great alternative for people that don't eat pork. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-19T22:27:09.033
+helpfulCount:
+0
+userID:
+7305390
+Display Name:
+bink48362
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. Changes, HM chicken stock, fresh spices from Penzys,  can Rotel tomatoes mild w/green chili and a splash of balsamic. Thickened w Masa. Served w Tortilla chips... SO good!!!

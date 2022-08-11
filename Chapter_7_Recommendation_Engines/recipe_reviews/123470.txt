@@ -1,0 +1,107 @@
+Recipe number:
+123470.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-04-18T10:09:26.263
+helpfulCount:
+6
+userID:
+1128605
+Display Name:
+Heidi M. Weaver-Smith
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4085169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum yum yum!  I substituted a few things...used 8 oz. velvetta and a little salsa instead of the cheese sauce.  The pineapple adds delicious sweetness to the zing of the salsa!  Highly recommended!
+Review:
+Rating:
+5
+dateLastModified:
+2008-08-12T08:39:23.69
+helpfulCount:
+4
+userID:
+1765805
+Display Name:
+ruthey
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+357
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/253665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a nice change to the "same ol " Mac n cheese, however you must love ham to like this recipie.
+Review:
+Rating:
+4
+dateLastModified:
+2010-09-21T16:37:08.45
+helpfulCount:
+2
+userID:
+3352370
+Display Name:
+Stacie Bonner
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+367
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1137784.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really great! Besides the pasteurized cheese sauce, I also used half a can of a cheese sauce with ro- tel tomatoes in it. X-nayed the crushed pineapple and put some salt and pepper on at the end. Great dish to have on a weeknight or any night for that matter.

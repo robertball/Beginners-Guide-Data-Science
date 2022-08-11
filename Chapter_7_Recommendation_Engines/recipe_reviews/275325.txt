@@ -1,0 +1,37 @@
+Recipe number:
+275325.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-09-08T18:13:05.637
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought that the 1/2 cup sugar added to the cake mix is totally unnecessary since the cake is extremely sweet. I found the pumpkin flavor to be lost. It is extremely moist once the rum glaze is added, which is also extremely sweet. Once I cut into the cake and put a slice on a plate, the slice just crumbled into pieces. I tried 3 times to cut a slice and all 3 times it just fell apart into pieces. I couldn't even bring myself to share this with anyone....it went down the garbage disposal.

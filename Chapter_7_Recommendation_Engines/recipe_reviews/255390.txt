@@ -1,0 +1,72 @@
+Recipe number:
+255390.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-26T00:11:18.87
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out good and I loved the addition of kale chips. As a matter of fact, I munched on the leftover kale and loved it so much that I plan to play around with different flavors and make just the chips again soon. I did not feel the orange added anything to the dish but that is just my opinion.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-29T23:28:33.59
+helpfulCount:
+0
+userID:
+22738234
+Display Name:
+Mary Howard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5120365.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this recipe. Did not use the Red wine vinegar though. Will be making it again for sure.

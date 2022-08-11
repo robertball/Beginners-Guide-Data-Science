@@ -1,0 +1,72 @@
+Recipe number:
+216547.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-17T17:41:31.94
+helpfulCount:
+0
+userID:
+23792708
+Display Name:
+Heather Holden
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5448290.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First Pot Roast  I made that wasn't my Grams! This was so tender didn't need a knife to cut it I used tiny red potatoes instead of mashed very yummy!
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-17T17:32:01.103
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+968
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome! This has a delicious flavor, delicate and unique, that everyone loved. I suggest doubling the gravy. I did. It was enough for five servings and smothered mashed potatoes. We’ll definitely use this recipe again.

@@ -1,0 +1,37 @@
+Recipe number:
+268260.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-16T00:49:53.993
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2460
+favoritesCount:
+2263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made one change and that was to replace the ketchup with tomato sauce. It might not have been but I was afraid of it being too sweet. This turned out good and is one I would make again.

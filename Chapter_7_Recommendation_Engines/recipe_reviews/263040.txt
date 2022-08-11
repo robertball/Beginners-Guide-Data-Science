@@ -1,0 +1,37 @@
+Recipe number:
+263040.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-01T00:42:15.177
+helpfulCount:
+0
+userID:
+731723
+Display Name:
+SZYQ1
+isPro:
+False
+followersCount:
+61
+followingCount:
+0
+madeRecipesCount:
+639
+favoritesCount:
+3048
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4049308.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was delicious and extremely easy to make! Fioa's spaghetti squash cook time in her Instant Pot recipes yields the perfect texture for us every time. The pesto was delicious using nutritional yeast. I did not feel like I was missing the parmesan cheese.  I felt it was a little too salty though and would cut down on the amount of salt next time. I wanted a little more garlic flavor and would toss in an extra clove next time as well. Both of these changes aren't significant though as it's just a personal taste preference and easy to modify. Overall, delicious recipe for Spaghetti Squash and the Pesto is one I would make again. Thank you for the recipe!

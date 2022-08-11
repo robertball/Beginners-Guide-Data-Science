@@ -1,0 +1,37 @@
+Recipe number:
+246526.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-23T12:26:22.52
+helpfulCount:
+4
+userID:
+16640076
+Display Name:
+Jim Nethercott
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4610924.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Who would have guessed  something so simple would taste so good?!   I worried a little about the all of the onion and peppers, but all cooked down so nicely.  Served over rice, and that absorbed the broth nicely.  I also added an Anaheim pepper I needed to use.  So pleasantly surprised with the outcome!

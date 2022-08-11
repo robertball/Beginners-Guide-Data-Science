@@ -1,0 +1,107 @@
+Recipe number:
+238885.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-25T20:55:32.13
+helpfulCount:
+1
+userID:
+14976297
+Display Name:
+joanlie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’ve made these cookies multiple times and they’re always a big hit! I actually just use regular flour and sugar but I do use coconut oil. It makes a really decent sized batch, but you still might want to double it if you want to give them away or have them last you a while. Because they go quickly. They’re chewy and delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-20T11:19:36.86
+helpfulCount:
+1
+userID:
+2444606
+Display Name:
+Nadia Blair
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+288
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out to be very pleasant with a nice, almost cake-like texture. I had to add a dash of milk to make a cohesive dough plus I added 2 tbsp ground flaxseed. I didn't have wholemeal flour so I used regular white all-purpose. I will be making these again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-17T04:36:43.79
+helpfulCount:
+0
+userID:
+21759504
+Display Name:
+Sandra Judkins
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+196
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I give these a five for texture. Flavor. And appeal. Lovely cookies. I did make 2 changes to the original recipe. I used unbleached organic white flour instead of whole wheat flour. And organic cane sugar for palm sugar. I also chose to omit the cinnamon in the dough out of preference. Rolled the dough balls in the cinnamon sugar mix and baked for 8 minutes. These turned out as close to my grandma’s recipe as possible without the butter. These are going into our cookie rotation for sure. Thank you for the fine recipe.

@@ -1,0 +1,74 @@
+Recipe number:
+219440.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-09-20T17:45:34.2
+helpfulCount:
+2
+userID:
+8320820
+Display Name:
+vegchef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Problem is that tofu is high in regular fat, but avocado is high in monounsaturated fat--the good kind that helps you lose weight.
+
+You really aren't saving any fat, but you are losing some great benefits in the avocado. Taste is not bad, but it doesn't beat the avocado quac and you aren't saving anything by the sub. Also, lack of spice hurts the recipe...they should not be optional and should be more.
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-06T11:10:16.157
+helpfulCount:
+2
+userID:
+7853359
+Display Name:
+Joey Joan
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+561
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7645128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was skeptical about this recipe but I had some tofu that I needed to find a use for or throw away. We found out we are not fans of tofu. You can not tell there is tofu in this recipe, the texture is creamy and the flavor has a nice bite to it.

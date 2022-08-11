@@ -1,0 +1,37 @@
+Recipe number:
+278140.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-02T22:42:21.517
+helpfulCount:
+0
+userID:
+26050069
+Display Name:
+Gary Butler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6975908.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good

@@ -1,0 +1,107 @@
+Recipe number:
+236221.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-07T09:17:46.863
+helpfulCount:
+1
+userID:
+13566306
+Display Name:
+Marcela Mariscal
+isPro:
+False
+followersCount:
+66
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+63
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4229308.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't use aloe juice,  since I have the plant I use the pulp, I cut the recipe in half but still got 2 servings of juice, I try it  and is good, you can feel the kick of the cayenne pepper at the end, I use my nutribullet and the consistency is like a smoothie.
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-07T08:09:00.23
+helpfulCount:
+1
+userID:
+10703220
+Display Name:
+Diana Mc
+isPro:
+False
+followersCount:
+54
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7679117.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I subbed coconut water for the aloe vera juice since it was way to expensive to try just once.  A Vitamix would be perfect to blend smooth.
+Review:
+Rating:
+4
+dateLastModified:
+2014-02-10T04:06:51.033
+helpfulCount:
+1
+userID:
+7384006
+Display Name:
+Paul Green
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+242
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1155986.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great drink! The aloe turns it into a super cleanse. The portion is huge, though. Just cut it in half and you'll be able to finish a 16 oz drink.

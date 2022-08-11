@@ -1,0 +1,37 @@
+Recipe number:
+62483173.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-07T00:30:50.67
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite delicious even though I had to use dark rum (no amaretto in house). I made another batch adding nuts and fresh cranberries.  Yum! Thank you for your recipe!

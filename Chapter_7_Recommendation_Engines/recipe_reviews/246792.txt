@@ -1,0 +1,37 @@
+Recipe number:
+246792.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-08-26T21:35:04.763
+helpfulCount:
+1
+userID:
+14069124
+Display Name:
+dede
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+155
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So this recipe may have potential but having followed to the letter I want to state that it was quite bland. I think I would sauté the scooped eggplant further w/ingredients of choice and spice it up.  Like the premise but not the recipe as written.

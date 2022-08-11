@@ -1,0 +1,72 @@
+Recipe number:
+258664.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-25T16:19:20.233
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and straight forward. The char from the grill goes really good with zucchini. My only complaint is that  by cutting them lengthwise, the middle without the peel was extremely soggy. I will cut them in rounds next time.
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-25T23:49:17.82
+helpfulCount:
+1
+userID:
+22695387
+Display Name:
+Melenie Holt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+121
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4750996.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The marinade comes out as a bit of a sludge, so I doubled it thinking I wouldn't get it to spread amongst the slices. I shouldn't have--as it draws moisture out of the squash it thins and spreads, and my seasonings came out overpowering. Also, I broiled it as I don't have a grill. Overall, very tasty, a bit mushy but not slimy, absolutely will make again.

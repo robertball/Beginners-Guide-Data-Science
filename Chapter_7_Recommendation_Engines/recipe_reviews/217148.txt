@@ -1,0 +1,72 @@
+Recipe number:
+217148.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-29T04:50:53.257
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great drink! Thanks for sharing! This would make a great Christmas to someone. Just a thought...
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-29T11:42:50.49
+helpfulCount:
+0
+userID:
+15149166
+Display Name:
+Lauren Byrnes
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5650357.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great drink for after a long day. Not a vermouth fan so I just omitted it so it came out perfect. A gin fanatic will say never shake a gin martini so that's my only critique :)

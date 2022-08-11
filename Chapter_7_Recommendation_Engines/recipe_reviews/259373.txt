@@ -1,0 +1,72 @@
+Recipe number:
+259373.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-21T20:19:29.857
+helpfulCount:
+2
+userID:
+7551693
+Display Name:
+Laci Balfour
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7062489.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I mostly made this recipe because I saw this made on Queer Eye, and I couldn't imagine what all the different ingredients would taste like together. I made this as written. I wasn't able to get all of the pepper skin off, but it didn't seem to matter. I measured everything and chopped everything before I started. This is not a chop as you go thing. Speaking of chopping, maybe get your family members or friends to help you chop. There is so much chopping. I also recommend getting pre-chopped walnuts and pre-extracted pomegranate seeds. It will save a lot of hassle. The flavors were mild and complex. I really liked it. I will likely make again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-22T00:36:36.88
+helpfulCount:
+2
+userID:
+16397539
+Display Name:
+jenniglo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe has good flavors and textures. The filling was a little bland so I added cumin and cayenne. It was involved but I will definitely make it again.

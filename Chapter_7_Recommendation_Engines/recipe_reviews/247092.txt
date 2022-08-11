@@ -1,0 +1,37 @@
+Recipe number:
+247092.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-07-10T21:30:54.877
+helpfulCount:
+0
+userID:
+153378
+Display Name:
+Cookie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+235
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/85695.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I too was hoping for a great result. We rubbed the steaks  (bone-in ribeye) and let age for about 50 hours. Same prep directions as provided in the recipe, but grilled the steaks instead and brushed with butter during resting. Even though we thoroughly removed the rice powder before grilling, there was a definite change of taste to the steak. It was tender and beefy, but something in the aroma/taste was just a little "off".  And it was far from a 28-day aged steak. Thanks for sharing your experience!

@@ -1,0 +1,37 @@
+Recipe number:
+241384.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-04T22:18:29.173
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this recipe but thought it needed more nuts. So, I added a few almonds. The blackening seasoning was good. You could use any, really. Thank you for the recipe.

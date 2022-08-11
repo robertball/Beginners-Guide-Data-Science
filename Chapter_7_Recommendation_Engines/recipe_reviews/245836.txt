@@ -1,0 +1,72 @@
+Recipe number:
+245836.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-22T10:38:05.497
+helpfulCount:
+1
+userID:
+24266123
+Display Name:
+Ruth Ann Trudell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7116119.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great.  I used northern pike for the fish.  Will become a regular for me.
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-06T14:06:51.683
+helpfulCount:
+0
+userID:
+6780469
+Display Name:
+Tbult
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great chowder! I still don’t like Lima beans (sorry mom) so I added a red pepper in the beginning and peas at the end. The reason I only gave 4 stars is that I felt like it could’ve had a little more seasoning. But yum!

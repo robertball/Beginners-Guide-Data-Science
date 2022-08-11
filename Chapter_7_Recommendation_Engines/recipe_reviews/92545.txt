@@ -1,0 +1,37 @@
+Recipe number:
+92545.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-05-02T10:15:19.003
+helpfulCount:
+7
+userID:
+1818377
+Display Name:
+Bri
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very easy to make, and is very tasty and fresh.  The key is the vinaigrette that you use, as everything absorbs the flavor. I used less dressing than the recipe calls for as well to avoid overpowering the other flavors.

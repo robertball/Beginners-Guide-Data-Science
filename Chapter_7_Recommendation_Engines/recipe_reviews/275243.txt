@@ -1,0 +1,37 @@
+Recipe number:
+275243.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-09T01:01:45.637
+helpfulCount:
+1
+userID:
+24737842
+Display Name:
+darnell foster
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6115424.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoyed the tips. Insta-pot  made this recipe easy. I'll try it again!

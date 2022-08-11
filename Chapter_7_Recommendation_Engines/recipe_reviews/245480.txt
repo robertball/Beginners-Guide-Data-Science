@@ -1,0 +1,37 @@
+Recipe number:
+245480.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-09T23:32:29.183
+helpfulCount:
+1
+userID:
+2335223
+Display Name:
+Irene
+isPro:
+False
+followersCount:
+171
+followingCount:
+0
+madeRecipesCount:
+530
+favoritesCount:
+726
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2394505.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So delicious, really a 4.5/5.  I used more garlic,  sprinkled chopped basil on top, and served with my version of mountain bread with za'atar. I think I would try mashing up the tomatoes more next time, for a smoother consistency.

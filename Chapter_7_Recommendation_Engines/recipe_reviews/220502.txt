@@ -1,0 +1,147 @@
+Recipe number:
+220502.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-25T20:28:38.72
+helpfulCount:
+7
+userID:
+4435421
+Display Name:
+tiffsipp
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was great! I love the Irish-Mex combo! Served it with some roasted red pepper and on a bed of brown rice and it was a hit. Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-25T00:08:26.07
+helpfulCount:
+2
+userID:
+129061
+Display Name:
+Ann Maksymiw
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+119
+favoritesCount:
+544
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1311415.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We don't have fresh tomatillos in Australia, so I had to use canned. 
+I also didn't have lager so I used beef stock.  A few little changes but not too many.  
+It was fabulous!
+I served it with a bean and avocado salsa and brown rice.  
+Husband loved it and took the leftovers for work the next day.
+Great meal to do in the slow cooker, absolutely delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2012-09-20T08:53:45.7
+helpfulCount:
+1
+userID:
+9654605
+Display Name:
+GF mama
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/18.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-09T01:08:34.92
+helpfulCount:
+0
+userID:
+24910863
+Display Name:
+theherbster
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for a dinner party. Absolutely delicious! Served as a stew with Queso Fresco and Parmesan Crostini. A definite hit!

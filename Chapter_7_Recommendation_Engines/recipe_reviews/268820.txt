@@ -1,0 +1,37 @@
+Recipe number:
+268820.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-11-13T17:25:48.163
+helpfulCount:
+0
+userID:
+22310738
+Display Name:
+Just Joely
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5968980.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was so intrigued by this recipe, but did not want to make 2 pies to try it out, so I halved it. I otherwise followed the recipe exactly. I am sorry to say this was a disappointment. The bottom crust did not cook and the pie was very wet. There was a sort of chalky, raw taste to it, I think from the cornstarch. I am not sure I would try to make this one again.

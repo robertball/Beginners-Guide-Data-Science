@@ -1,0 +1,80 @@
+Recipe number:
+10085.txt
+Review:
+Rating:
+2
+dateLastModified:
+2008-05-26T06:02:25.753
+helpfulCount:
+12
+userID:
+2726512
+Display Name:
+Sza Sza
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/102551.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am not sure if your mother's friend is missing some main ingredients...but I have lived in Cyprus for almost 10 years and have traveled to Greece yearly.  Kourambiedes is my favourite Greek dessert.  I added the following to give it a bit more kick :
+
+- Nutmeg ground spice ( to add a bit to the batter )
+- Cloves ground spice ( to add a bit to batter )
+- Icing sugar for sprinkling ( I also added a bit of nutmeg and cloves to the icing sugar mix )
+- Vanilla essence
+- Toasted almonds ( chopped coarsely )
+- Very little almond extract ( or else it will taste " synthetic " )
+- 1 tbs. of cognac or brandy
+Review:
+Rating:
+1
+dateLastModified:
+2005-04-07T09:56:15.09
+helpfulCount:
+5
+userID:
+943931
+Display Name:
+mary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/171195.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was way too dry to shape into crescents. Hard to work with.

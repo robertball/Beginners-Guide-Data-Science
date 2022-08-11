@@ -1,0 +1,107 @@
+Recipe number:
+274031.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-13T14:58:22.387
+helpfulCount:
+0
+userID:
+4083861
+Display Name:
+duboo
+isPro:
+False
+followersCount:
+6512
+followingCount:
+0
+madeRecipesCount:
+369
+favoritesCount:
+1088
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2500802.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ridiculously easy and great recipe!   The only change I made is I added an onion into the pressure cooker with the rest of the ingredients.   We both loved this and we will make again!   Winner winner chicken dinner!
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-30T15:38:22.423
+helpfulCount:
+0
+userID:
+25386014
+Display Name:
+TLC cooking
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+quick meal with good flavor.  I did add a can of black beans after cooking and while on warm in cooker
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-06T16:06:31.087
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fantastic! I used frozen chicken and it still came out cooked perfectly. I used homemade salsa, which was a bit runny. So while the chicken cooled instead of the keep warm setting, I used the sauté function and it reduced the liquid. This is a definite keeper recipe.

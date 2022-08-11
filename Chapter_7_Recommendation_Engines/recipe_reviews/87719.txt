@@ -1,0 +1,107 @@
+Recipe number:
+87719.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-03-29T05:16:03.983
+helpfulCount:
+5
+userID:
+967043
+Display Name:
+CADON23
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+needs veggies.  flavor was good but meal was a bit boring... will add next time
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-06T11:40:35.593
+helpfulCount:
+3
+userID:
+1159374
+Display Name:
+Peppermint Patty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved this!  I used leftover duck so it was already cooked.  I substituted lime juice for the kaffir lime" and did not add hot peppers.  Also I used curry powder.  I also added a bunch of veggies. This is a GREAT flavor for duck!  The second time I made it I did it in a crock pot and I think it came out even better!
+Review:
+Rating:
+5
+dateLastModified:
+2009-04-27T17:38:05.983
+helpfulCount:
+3
+userID:
+2487008
+Display Name:
+Cristin McKee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was absolutely delicious! It's definitely a keeper. I'm afraid I couldn't find the kaffir lime leaves and I had to use green curry sauce instead of yellow. We also added some vegetables we had on hand, because it seemed like it would be lacking without. We added carrots, canned bamboo shoots, and some napa cabbage.

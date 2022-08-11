@@ -1,0 +1,142 @@
+Recipe number:
+255342.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-11T23:53:33.627
+helpfulCount:
+7
+userID:
+16776070
+Display Name:
+Janet M Ramski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2810127.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was amazing! I made only a few tiny changes, I don't like liquid smoke so I used a few drops of toasted sesame oil. Also, instead of molasses I used balsamic vinegar. Next time I might add a few red pepper flakes, but it was delicious without it too! I ate a large bowlful and was wishing for some crusty bread to soak up that pot liquor! Very yummy!
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-27T18:47:30.66
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm giving this a 5 star. I left out the  tomatoes so that my husband would eat it. This was still great and would have been even better with the tomatoes as the recipe called for. Getting him to eat the greens can be a challenge as it is so I knew the tomatoes had to go. Next time I make this the tomatoes are going in and I will eat the entire batch myself. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-28T01:59:52.95
+helpfulCount:
+3
+userID:
+965150
+Display Name:
+Laura J
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6766.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really loved it, and it was a great way to get our collards in. We didn't have any liquid smoke, so added 2 tsp smoked paprika and 2 tsp chipotle in adobo instead. It worked quite nicely, and we really liked the small bite. Next time, I think I'll add some vegan sausage to the mix.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-29T07:37:52.883
+helpfulCount:
+0
+userID:
+25024976
+Display Name:
+Dani A
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are best greens I’ve ever had!! I added worchesterschire sauce because I had no molasses and added some Cajun seasoning for a little spice.  My husband raves about it.

@@ -1,0 +1,145 @@
+Recipe number:
+222518.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-04T21:02:39.88
+helpfulCount:
+1
+userID:
+17370405
+Display Name:
+Sharon L Walsh
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3174644.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good but I don't know what lillett blanc is and didn't add it. still liked it
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-12T07:50:42.567
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for me and another similar recipe from this site for my husband. The one I made for him called for lemon instead of the orange. I preferred this one much better. Knowing that I would be sipping on this very slowly, I made a custom ice cube with fresh orange zest frozen inside which made it super fun. This drink is not for the faint of heart for sure. About halfway through it I wimped out and added some 7-up to finish it off.
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-20T15:34:54.513
+helpfulCount:
+1
+userID:
+2207120
+Display Name:
+kat
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Dry, but smooth, with a hell of a kick! 
+Perfectly sophisticated flavor. This is a grown up cocktail. No sugary fruitiness here. ;)
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-20T21:43:01.37
+helpfulCount:
+0
+userID:
+3309573
+Display Name:
+Phaedrus
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+146
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I prefer a little extra Lillet for added sweetness, but admittedly I am using fairly cheap gin and vodka  :)
+
+I also like both lemon and orange rind, and I usually rub those around the rim of the glass

@@ -1,0 +1,72 @@
+Recipe number:
+246175.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-13T22:48:25.947
+helpfulCount:
+0
+userID:
+15516695
+Display Name:
+Sirah7229
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+with a surplus of hard white wheat, I was at a loss. this recipe is simple and functional. i enjoy cream of wheat with a variety of toppings :)
+Review:
+Rating:
+1
+dateLastModified:
+2016-03-02T13:07:28.427
+helpfulCount:
+0
+userID:
+4462283
+Display Name:
+What's for dinner, mom?
+isPro:
+False
+followersCount:
+11593
+followingCount:
+0
+madeRecipesCount:
+555
+favoritesCount:
+1378
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3274570.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm sorry to say this recipe didn't work for me. I followed the recipe with the exception of reducing the serving down to one. I was not willing to risk the wheat berries in such a large quantity just in case it didn't turn out well. So glad I did!  First - there is not enough liquid to cook for 30 minutes.  At the 30 minute time the berries were a bit soft so I proceeded. The berries never blended, they spun and spun but didn't do much else.

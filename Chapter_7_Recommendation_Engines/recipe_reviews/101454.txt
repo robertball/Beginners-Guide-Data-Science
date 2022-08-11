@@ -1,0 +1,32 @@
+Recipe number:
+101454.txt
+Review:
+Rating:
+5
+dateLastModified:
+07/03/2006
+helpfulCount:
+1
+userID:
+1137271
+Display Name:
+CJANEFOXY
+photo:
+global/features/1747.gif
+text:
+Very simple recipe!  I also didn't use the olive oil, just canola.  I also sauted onions and a clove of garlic in the oil before I browned my chicken.  Then I added a can of speghetti sauce.  My family loved it.  I will certainly make it again
+Review:
+Rating:
+4
+dateLastModified:
+08/14/2006
+helpfulCount:
+0
+userID:
+2003147
+Display Name:
+hotmamaof6
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/19036.jpg
+text:
+Great!! My family love it and I will make it again!

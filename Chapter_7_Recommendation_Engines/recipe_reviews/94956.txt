@@ -1,0 +1,37 @@
+Recipe number:
+94956.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-01-12T05:47:44.56
+helpfulCount:
+4
+userID:
+595916
+Display Name:
+JDVMD
+isPro:
+False
+followersCount:
+162
+followingCount:
+0
+madeRecipesCount:
+1625
+favoritesCount:
+1530
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/408423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the idea of this recipe but had to add so much to get some flavor.  Things like minced garlic, wine, balsamic vinegar, sugar, onions. In the end, we liked it but as written, a bit dull. I think it is closer to a 3.5 * recipe.

@@ -1,0 +1,107 @@
+Recipe number:
+274464.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-13T00:31:35.503
+helpfulCount:
+0
+userID:
+17657633
+Display Name:
+kld
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I loved this! We followed the recipe exactly except for when we added the green beans and red pepper; we stirred that in to get in and under the chicken and other ingredients. We served it over brown ride. Delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-04T01:11:54.877
+helpfulCount:
+0
+userID:
+16070779
+Display Name:
+Lisa Grimes
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2431011.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved this.  We  used boneless chicken breast and did not use chickpeas.  We used rice instead of couscous due to a wheat allergy.  The flavor was wonderful.  We will definitely make this again.
+Review:
+Rating:
+2
+dateLastModified:
+2019-07-23T21:54:44.027
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8908
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I scaled this down to 4 servings, and used BLSL thighs and parsley in place of the cilantro. Those were the only changes that I made. One thing I'd recommend is stirring the green beans in, rather than just laying them on top of the chicken. Ours were not cooked enough, even after having been in the slow cooker for 3 hours, because they were sitting on top of the chicken, rather than in the juices below. My family did not care for this, sorry.

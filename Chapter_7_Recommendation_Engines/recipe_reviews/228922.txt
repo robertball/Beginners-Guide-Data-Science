@@ -1,0 +1,111 @@
+Recipe number:
+228922.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-11T18:43:56.23
+helpfulCount:
+4
+userID:
+20372108
+Display Name:
+Uncle Pat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+359
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5807103.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There are, unfortunately, only 5 stars to rate this recipe.  I followed it exactly the first time and it was a winner.
+     The second time I opted to make a stock out of the ingredients which had bones..... not for me, but for family who may be a bit finicky about having a bone in their gravy/sauce.  
+     That is the only change that I made, but for #3, I want to return to the original recipe.
+     When I saw the words 'north end' ..... I  thought 'oh good, this is one from my hometown', but when I saw that the author was from another city, another country..... and after mentioning to my wife, she said.... 'hey - a lot of cities have a north end' - but make no mistake:
+This is the best tomato based gravy/sauce on Allrecipes, if not THE best recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-07T14:00:46.173
+helpfulCount:
+2
+userID:
+20202484
+Display Name:
+Roberto
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6261910.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple, we'll written directions led to a delicious gravy reminiscent of grandma's!
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-09T17:12:06.673
+helpfulCount:
+2
+userID:
+7742519
+Display Name:
+Karen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+217
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was my first attempt at Sunday gravy (sauce). It was easy and came out wonderful!

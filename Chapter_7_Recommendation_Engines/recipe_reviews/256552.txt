@@ -1,0 +1,37 @@
+Recipe number:
+256552.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-02T23:46:45.893
+helpfulCount:
+0
+userID:
+15293808
+Display Name:
+Mary Smith
+isPro:
+False
+followersCount:
+26
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6932208.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+delicious and tasty

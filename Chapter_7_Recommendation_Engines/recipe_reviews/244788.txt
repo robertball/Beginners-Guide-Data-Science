@@ -1,0 +1,177 @@
+Recipe number:
+244788.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-27T20:14:01
+helpfulCount:
+3
+userID:
+17604970
+Display Name:
+Susi Buchanan Gersztyn
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3313644.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have vanilla paste so I used a dash of vanilla extract instead.  This was a simple, delicious truffle recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-21T01:43:40.667
+helpfulCount:
+0
+userID:
+3480207
+Display Name:
+Susie Sweet Tooth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did add the butter that was listed as optional.  Subbed a dash of pure vanilla extract for the vanilla bean paste as I've never had any other recipe call for that.  Next time I will try grinding the coconut flakes before rolling the truffles.  I think I would enjoy a more fine finish and it would look more decadent.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-12T04:42:22.51
+helpfulCount:
+0
+userID:
+8995896
+Display Name:
+Chelsea Berggren
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2584885.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+these are utterly delicious. I made them when I had a sever chocolate craving, and one of the best recipe finds I made yet. I only had enough peanut butter for a half a recipe and cannot wait to make a full recipe. It did take longer to 15 minutes in the fridge to be able to firm the balls, but who cares, they are phenomenal
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-26T15:03:45.163
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These tasted great, once I made them correctly. I ruined a whole batch before I had success. I only made half a batch, and it overcooked at 5 minutes. The 2nd time I stopped at 4 minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-13T15:45:30.147
+helpfulCount:
+0
+userID:
+20392587
+Display Name:
+Abby Spear
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are absolutely amazing!!  I substituted the coconut oil with canola oil, and used Special dark cocoa...really tasty.

@@ -1,0 +1,37 @@
+Recipe number:
+166647.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-05-24T20:46:26.523
+helpfulCount:
+3
+userID:
+2955351
+Display Name:
+kisha rathbone
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/80889.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i love jose cuervo but this, omg! it is great

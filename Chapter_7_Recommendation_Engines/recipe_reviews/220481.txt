@@ -1,0 +1,107 @@
+Recipe number:
+220481.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-18T10:00:06.203
+helpfulCount:
+6
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Great drink to try out!
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-04T17:55:10.133
+helpfulCount:
+2
+userID:
+3964202
+Display Name:
+Teri Scott
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+548
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1301524.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make a Nutty Irishman by putting Frangelica liquor in a shot glass and pouring some baileys over the top....addicting! and Strong!
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-16T03:48:31.53
+helpfulCount:
+1
+userID:
+14877077
+Display Name:
+R Rodgers
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6743095.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes great.  I don't care for whiskey so omitted the whiskey.  Great for a cold evening.

@@ -1,0 +1,72 @@
+Recipe number:
+240456.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-24T09:49:08.827
+helpfulCount:
+5
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were a hit at my work Christmas party. I don't drink whiskey but the people who tasted this drink enjoyed the flavour combination. We used the Grinch kebabs on swizzle sticks to serve them. Very festive and nice drink for crowds. We used cherries in syrup instead of frozen cherries and simple syrup.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-14T01:46:45.397
+helpfulCount:
+0
+userID:
+15926686
+Display Name:
+Kari Riffle Motheral
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2356665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great blend of flavors. We used Benchmark Bourbon (our go to for mixed drinks that call for whiskey or bourbon) and luxardo cherries instead. We loved it! Just gotta remember to sip and not drink

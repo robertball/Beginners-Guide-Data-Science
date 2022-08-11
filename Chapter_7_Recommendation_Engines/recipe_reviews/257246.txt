@@ -1,0 +1,37 @@
+Recipe number:
+257246.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-26T18:55:09.06
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2460
+favoritesCount:
+2263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and these were good. The cheddar cheese was optional and I didn't have any so I used pepperjack instead. I did have a little trouble getting the burgers to stay together in the skillet but other than that no complaints.  If I make these again I would grill them instead and I would also use red onion petals for more color.

@@ -1,0 +1,107 @@
+Recipe number:
+235619.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-28T16:33:20.13
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2832
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This went over pretty well at Thanksgiving. We made it a couple of days in advance.  My dad absolutely loved it and asked for more so he could freeze it. It’s a bit on the tart side but most people liked it. It was fantastic with leftovers, cheese sandwiches, and even used it on toast. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-20T03:48:00.763
+helpfulCount:
+0
+userID:
+4890078
+Display Name:
+Toni Carter-Rice
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1876614.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have found that even people that don't care for cranberry sauce like this one.  My son took this to work & they were passing it around trying to figure out the mystery ingredient.... dried apricots.
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-24T18:36:38.87
+helpfulCount:
+0
+userID:
+8487976
+Display Name:
+lizzieb8888
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love the flavor of this sauce. I increased the tangerine juice to three tangerines and the flavor really comes through.

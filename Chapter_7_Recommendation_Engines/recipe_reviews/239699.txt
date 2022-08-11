@@ -1,0 +1,72 @@
+Recipe number:
+239699.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-08T08:43:16.86
+helpfulCount:
+3
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6663
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When I tasted these I couldn't quit figure out what was missing. I did add 1/2 teaspoon of cumin but it still tasted a little flat. Perhaps some cayenne added to the mix would help. I can say that this is worth playing with.
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-05T06:56:40.007
+helpfulCount:
+0
+userID:
+12308332
+Display Name:
+Michael Z Rork
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6512454.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have any heavy whipping cream, so I subbed milk. I also think I used too much olive oil in the pan. My eggs were super watery. I am going to try this again tomorrow morning closer to the recipe and see how things change. Overall though, these eggs were very tasty paired with chicken sausage. Even my almost 3 year old ate some and said, "Mmmm!"

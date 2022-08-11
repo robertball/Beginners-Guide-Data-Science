@@ -1,0 +1,72 @@
+Recipe number:
+164703.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-09-10T21:17:37.16
+helpfulCount:
+4
+userID:
+3132390
+Display Name:
+akdgurl
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+VERY GOOD. It has a slight egg flavor which I love. If you don't like eggs please don't try this recipe. I love this recipe and I make it several times in a week. Sprinkle some cinnamon on it before putting it in the oven, and you are good to go. Also, to make it low cal use just egg whites and less sugar.
+Review:
+Rating:
+2
+dateLastModified:
+2008-09-24T04:50:20.783
+helpfulCount:
+1
+userID:
+2536753
+Display Name:
+Vincent Berardi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was not to happy with this.  It tasted like eggs with Rice Krispies on top.

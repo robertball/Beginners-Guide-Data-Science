@@ -1,0 +1,37 @@
+Recipe number:
+237124.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-05T19:55:30.2
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2291
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I used chicken breast tenders out of personal preference. I fried 2 pounds and 2 eggs were enough for what I had. This was a good recipe but I think it would be even better if you doubled the amount of seasoning for your flour. 5 cups is a lot of flour for the seasoning to get lost in. Overall great recipe and one I would make again.

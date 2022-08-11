@@ -1,0 +1,73 @@
+Recipe number:
+22802.txt
+Review:
+Rating:
+4
+dateLastModified:
+2004-12-12T15:14:46.903
+helpfulCount:
+5
+userID:
+1207431
+Display Name:
+TABLESPOON
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+150
+favoritesCount:
+175
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6205548.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe because I wanted to use up some macaroons that didn't turn out (spread out on the baking sheet).  The pie had a good texture and was quite rich (I'd probably cut the sugar by half if I make it again).
+Review:
+Rating:
+5
+dateLastModified:
+2014-03-18T21:09:12.73
+helpfulCount:
+1
+userID:
+13342901
+Display Name:
+Colocook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with half the sugar, no pecans or coconut extract and this turned out great. My family said it
+was "bakery good." I'll make it again.

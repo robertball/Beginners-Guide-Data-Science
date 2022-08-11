@@ -1,0 +1,37 @@
+Recipe number:
+233510.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-16T09:11:49.683
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very nice with afternoon tea. Pretty quick to make with ingredients that are pretty standard in a paleo kitchen. I didn't have the sweetest berries and found it to be a bit tart. I added some toasted almonds on top for crunch. Thank you for the recipe.

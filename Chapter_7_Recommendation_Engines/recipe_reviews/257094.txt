@@ -1,0 +1,37 @@
+Recipe number:
+257094.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-16T20:04:08.603
+helpfulCount:
+0
+userID:
+12140928
+Display Name:
+Steve Augello
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3295129.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+And made three trays for a party everybody loved it

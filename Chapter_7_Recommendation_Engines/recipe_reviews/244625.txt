@@ -1,0 +1,72 @@
+Recipe number:
+244625.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-13T13:08:26.41
+helpfulCount:
+0
+userID:
+16852942
+Display Name:
+clueless cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it...until I got to the Basil. Couldn’t bring myself to adding it! Just sounded wrong. I added mint leaves instead. Agreed with prior comment, that it’s more smoothie than milkshake. Who cares, it was good and refreshing!
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-09T10:34:17.22
+helpfulCount:
+0
+userID:
+516054
+Display Name:
+KGora
+isPro:
+False
+followersCount:
+8026
+followingCount:
+0
+madeRecipesCount:
+376
+favoritesCount:
+1874
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2505934.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love strawberry shakes and a healthy one to boot! Woot! But I've never had the combination of strawberry and basil together before so curiousity got the best of me. I only used the five strawberries mentioned and wished I would have upped them by a few more...ok doubled them...because the strawberry flavor just wasn't enough for me at only five. The hint of basil was nice though and not overpowering. This drink just wasn't of a shake consistency to me...more like a smoothie. Perhaps it would have been more shake-like had I upped the frozen strawberries. Good though, and worth a try.

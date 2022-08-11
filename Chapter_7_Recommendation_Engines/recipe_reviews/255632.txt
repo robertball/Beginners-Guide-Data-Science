@@ -1,0 +1,107 @@
+Recipe number:
+255632.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-01T22:00:36.517
+helpfulCount:
+2
+userID:
+4196646
+Display Name:
+Lela
+isPro:
+False
+followersCount:
+352
+followingCount:
+0
+madeRecipesCount:
+173
+favoritesCount:
+2651
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7559577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good way to use up left over pumpkin puree. These cookies were huge. After baking for 10 minutes, the cookies I made were not fully baked. So, I baked them for 2 more minutes. The middle was still a little raw. So next time, I will bake these for perhaps 14 minutes. I also would add some vanilla extract and maybe some flour.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-15T20:03:31.883
+helpfulCount:
+1
+userID:
+21290449
+Display Name:
+Vonbacchus Shepherds
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have brown sugar so I used coconut palm sugar and added half cup of raw pumpkin seeds in addition to the regular ingredients. They turned out great. If I followed the recipe I am sure it would have been just as good.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-20T23:03:12.497
+helpfulCount:
+0
+userID:
+24112237
+Display Name:
+Silent Wolves85
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5669797.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I decided to put, like half a teaspoon to a whole teaspoon of flour, in my batter to make it a tad-bit thicker. It helped a lot

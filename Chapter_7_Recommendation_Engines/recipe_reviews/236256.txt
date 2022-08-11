@@ -1,0 +1,75 @@
+Recipe number:
+236256.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-23T17:10:47.587
+helpfulCount:
+0
+userID:
+1469285
+Display Name:
+Weezie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+670
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4526939.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this - it's like a virgin Bloody Mary, but hot, so it's soothing for a sore throat, or just warm and comforting on a cold day. A few hints: 
+1) Tomato juice is extremely high in sodium, so use celery seed rather than celery salt. 
+2) No need to dirty a blender and saucepan, just pour low-sodium tomato (or vegetable) juice in a cup, add other ingredients to taste, and pop it in the microwave until it gets hot. 
+3) If you like Indian food, try adding a little rasam powder - it's delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-12T16:36:31.44
+helpfulCount:
+0
+userID:
+23272498
+Display Name:
+Lee Lance
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5085093.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this recipe of Tomato Tea for several years now. it's a wonderful and soothing drink to sip for temporary relief of sinus pressure and cough

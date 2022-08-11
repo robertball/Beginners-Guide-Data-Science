@@ -1,0 +1,37 @@
+Recipe number:
+220425.txt
+Review:
+Rating:
+2
+dateLastModified:
+2012-11-10T14:43:46.06
+helpfulCount:
+1
+userID:
+21907115
+Display Name:
+Allrecipes Community
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There is WAY too much sauerkraut in this.  I'm wondering if there's a mistake in the recipe?  It just tasted like sauerkraut with a few random pieces of fish here and there.  I loved the flavor and will definitely make it again, but I'm going to either halve the sauerkraut or double the tomatoes and fish.

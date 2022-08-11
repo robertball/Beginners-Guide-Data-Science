@@ -1,0 +1,37 @@
+Recipe number:
+262283.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-23T15:57:53.613
+helpfulCount:
+1
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+2016
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious! This was fast and easy to make; and so wonderfully creamy with little hint of tartness, that I will definitely make it again! I left out the honey (it was sweet enough for me without it), used a whole small banana, and added a pinch of cinnamon.

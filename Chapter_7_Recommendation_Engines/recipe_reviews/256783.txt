@@ -1,0 +1,72 @@
+Recipe number:
+256783.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-01T21:26:23.27
+helpfulCount:
+1
+userID:
+21555700
+Display Name:
+Matthew Henry Frieswyk
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty!!! I upped the old bay to 1 Tbsp in the main mixture, and in the topping I doubled the butter and added a half cup of seasoned breadcrumbs and shredded cheddar to the topping. Could use about 30 minutes to get nice and crispy/melty in the topping.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-06T23:18:21.32
+helpfulCount:
+0
+userID:
+8473330
+Display Name:
+Kimberly Madeja
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1379580.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used the suggestions made by another reviewer. I increased Old Bay and butter and added cheese and bread crumbs to the topping. It was the best crab dip ever!

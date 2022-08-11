@@ -1,0 +1,77 @@
+Recipe number:
+12049.txt
+Review:
+Rating:
+4
+dateLastModified:
+11/13/2007
+helpfulCount:
+4
+userID:
+2313460
+Display Name:
+TallyAmy
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Sooooo yummy! Quick and easy and the leftovers are great!
+Review:
+Rating:
+3
+dateLastModified:
+12/03/2002
+helpfulCount:
+4
+userID:
+37487
+Display Name:
+KATHLEEEEN4
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My husband and I enjoyed this recipe; however I prefer to know the measurements of the ingredients (minced onion and garlic and Worcestershire sauce). Also it never mentioned when to put the cheese in so I used shredded cheese and mixed it in before baking.
+Review:
+Rating:
+3
+dateLastModified:
+08/29/2002
+helpfulCount:
+3
+userID:
+39531
+Display Name:
+COFFEEGIRL
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I was disappointed in this recipe. The noodles were dry and bland. I think it needed more cheddar cheese.
+Review:
+Rating:
+3
+dateLastModified:
+07/27/2009
+helpfulCount:
+2
+userID:
+1809443
+Display Name:
+Kristen
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This had great flavor. I do think that adding a little more sour cream makes it creamier and a less dry in the end. I think it could be better is is was not as dry.
+Review:
+Rating:
+4
+dateLastModified:
+12/19/2013
+helpfulCount:
+0
+userID:
+allrecipescommunity
+Display Name:
+Allrecipes Community
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is a good idea but it only tasted great after I added more cheddar and sour cream. I used spaghetti squash instead of pasta.

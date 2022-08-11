@@ -1,0 +1,72 @@
+Recipe number:
+230207.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-04-02T00:53:08.8
+helpfulCount:
+1
+userID:
+12009802
+Display Name:
+Mary Murphy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Leg of lamb, not lamb shank.  Title and ingredients are mistaken, this is a recipe for leg of lamb, no shank.   You'll never find a 4 lb. lamb shank.  And if you did it would be more bone than meat.  You'll notice the quote under the title of this recipe does say "Delicious grilled leg of lamb..".  Also, the timing doesn't add up on this recipe, 15 min prep plus 1hr cook is not 2h 15min.  A lamb leg should be grilled for 20 min per lb to achieve medium doneness.  So there are some grave mistakes with this recipe that could lead you to spend a lot of money on meat that just won't work, but the seasoning mix is excellent!  Allrecipes should better police submissions to prevent misleading ones like this.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-26T18:36:26.82
+helpfulCount:
+0
+userID:
+166708
+Display Name:
+Jan Mowbray
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+428
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2530650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm giving this recipe 4 stars, mainly because it's mis-named. It's not a recipe for lamb shank, it's a recipe for leg of lamb. I followed the recipe as far as marinating it and the basting sauce.  I de-boned and butterflied the leg, browned it on the stove, then finished it off in the oven, where it took only a half an hour at  400F to be perfectly cooked.  I added a little flour to the pan drippings and it made a lovely gravy.  The gravy is bit on the sweet side but works really well with the meat.  I will use this recipe again.  I really enjoyed the results.

@@ -1,0 +1,37 @@
+Recipe number:
+245526.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-18T14:11:26.15
+helpfulCount:
+0
+userID:
+16571860
+Display Name:
+LauraF
+isPro:
+False
+followersCount:
+46
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6911246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to make! The dough was sticky so I chilled it for several hours before rolling out and cutting the cookies.  I liked the subtle flavors, but I like my gingerbread spicier so I think I will stick to recipes with molasses and ginger, or make this again with molasses instead of the honey, and add ginger.

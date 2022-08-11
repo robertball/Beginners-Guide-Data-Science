@@ -1,0 +1,113 @@
+Recipe number:
+215749.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-02-20T03:41:37.827
+helpfulCount:
+11
+userID:
+3859840
+Display Name:
+abou ali
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+328
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/451100.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+good for morning tea
+Review:
+Rating:
+4
+dateLastModified:
+2011-05-17T14:35:57.83
+helpfulCount:
+8
+userID:
+3013686
+Display Name:
+nietsche979
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+233
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great and unique recipe. Was loved at a brunch I threw with friends.
+
+I would have liked the Chai flavor to be more pronounced so I might try increasing the amount used.
+
+It was very very sticky (I'm at a high altitude of 6,300') so I added about 6 more teaspoons of flour. It sank very slightly in the center, but not enough to be considered a catastrophe.
+
+I'd have to noodle with the recipe a bit to make it really sing, but overall it was a fun and different alternative to the normally over-sweetened selection of brunch cakes and breads.
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-07T09:33:20.083
+helpfulCount:
+4
+userID:
+204470
+Display Name:
+Donna Gould
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+206
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7082944.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really enjoyed this recipe. It didn't seem to rise much but it turned out to have a nice texture that wasn't dense, but wasn't light & fluffy. If you like wine, it has a great hint of wine taste. I think this would make some great French toast. It is a nice change.

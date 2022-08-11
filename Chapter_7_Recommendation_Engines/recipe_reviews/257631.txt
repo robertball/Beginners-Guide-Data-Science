@@ -1,0 +1,37 @@
+Recipe number:
+257631.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-08T18:31:35.48
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've never had pupusas with this type of cheese mixture in them but it was good. I  did not use the optional curtido in this recipe but chose to make a different one. That was a mistake on my part. The one I used called for white vinegar and the apple cider vinegar makes a huge difference in the overall flavor. Good recipe but I will try different cheese next time.

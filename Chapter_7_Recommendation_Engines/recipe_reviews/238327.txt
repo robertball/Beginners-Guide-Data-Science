@@ -1,0 +1,107 @@
+Recipe number:
+238327.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-28T14:12:33.53
+helpfulCount:
+1
+userID:
+15934063
+Display Name:
+Julie Cooper Wasserstrom
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2360270.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just made them.  Flavor was good but they were a bit over done after baking them for only 22 minutes.  Would definitely do them again but checking them after 15 minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-06T18:19:09.25
+helpfulCount:
+0
+userID:
+24836884
+Display Name:
+Wendolyn Williams
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6187855.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family and friends loved it...but since I could not find the Pink Lemonade Concentrate I had to settle on the Lemonade which still came out perfect!!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-18T14:05:56.823
+helpfulCount:
+0
+userID:
+22298446
+Display Name:
+Pattiecake
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I topped each cupcake with a beautiful raspberry.

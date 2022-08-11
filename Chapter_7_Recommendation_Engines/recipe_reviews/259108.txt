@@ -1,0 +1,37 @@
+Recipe number:
+259108.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-03T19:21:11.12
+helpfulCount:
+0
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+2016
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok, so it takes a bit of work to make--it's not hard by any means, just takes a while. But it's definitely delicious! The flavor is just fantastic! I halved the recipe and it worked great. Took 3 hours to cook. I also don't have a grill pan, so I just crisped the skin in a regular skillet. The crispy skin is to die for! It is pretty rich, so a little goes a long way! Thank you for the recipe!

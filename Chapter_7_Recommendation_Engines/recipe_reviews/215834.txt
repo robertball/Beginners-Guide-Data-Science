@@ -1,0 +1,184 @@
+Recipe number:
+215834.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-10-03T18:45:56.467
+helpfulCount:
+26
+userID:
+2746123
+Display Name:
+Bill Bale
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+523
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3860108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This one is good.   I've made honey liqueur like this, using brandy vs rye, and this tastes a lot like mead (honey wine). Brandy would also go nicely with the maple syrup.  Warm the maple syrup a bit and it will mix in quicker.
+Review:
+Rating:
+5
+dateLastModified:
+2010-11-06T16:08:01.677
+helpfulCount:
+11
+userID:
+1013798
+Display Name:
+ONIOND
+isPro:
+False
+followersCount:
+129
+followingCount:
+0
+madeRecipesCount:
+490
+favoritesCount:
+690
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5925271.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow. For so simple, this is really good. I'm betting aging will make it even better! I used Jack Daniel's because I'm broke :)
+Review:
+Rating:
+1
+dateLastModified:
+2011-11-28T09:30:40.853
+helpfulCount:
+3
+userID:
+8234569
+Display Name:
+raidrsgal
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just tried this recipe with amber rum instead of whiskey and then added 1 cup cream and wow!!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-17T17:17:29.607
+helpfulCount:
+0
+userID:
+24754811
+Display Name:
+Jennifer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6128177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out great!  I needed Maple Liqueur for a cake recipe and could not find any locally, so decided to make my own!  Changes I made:
+
+- Used Drunken Sailor Spiced Rum.
+- Warmed Maple Syrup before mixing with Rum.
+- Added 1 cup Heavy Cream.
+- Aged in refrigerator for 2 weeks.
+
+Leftovers were consumed as shots and were delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-21T02:57:46.147
+helpfulCount:
+0
+userID:
+13547523
+Display Name:
+B. Tario
+isPro:
+False
+followersCount:
+33
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+250
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4105341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good and similar to my favorite maple whiskey that is only available in Canada.  I will make this again for sure.

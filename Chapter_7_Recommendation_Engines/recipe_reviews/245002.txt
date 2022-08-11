@@ -1,0 +1,107 @@
+Recipe number:
+245002.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-23T17:55:05.523
+helpfulCount:
+2
+userID:
+16595779
+Display Name:
+Patricia M. Brinegar Kirby
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4898766.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made my first cushaw pie today. This recipe called for 2 pies  but it ended up making 5. Not sure why so many but they are good. I'm taking some to a picnic tomorrow and taking the rest to a local soup kitchen. I'm sure they will enjoy it. Thank you for this healthy, tasty pie recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-30T17:11:23.557
+helpfulCount:
+0
+userID:
+13364062
+Display Name:
+Liz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This has replaced the Thanksgiving pumpkin pie in our house and is so much better. I find the traditional pumpkin pie too dense and sweet. To be fair if you look at a can of pumpkin, it’s actually more squash anyway. This is so much lighter in texture and not overly sweet. To put the portions in perspective, 1/2 this recipe with 3 cups of cushaw purée and you get 2 pies. I took a couple of tips from another cushaw pie recipe which said to roast the cushaw for an hour in a 350 oven and then peel off the skin. Either way, cushaw holds a lot of liquid so cook the day ahead and put in a colander over a catch bowl to drain the water. Even with this I still squeezed excess water out with a dish towel. I recommend this so the pie isn’t too watery. I did add a bit of white sugar (just a couple of tablespoons) for a bit more sweetness but also a bit of lemon extract too. Added a dollop of fresh whip cream when served.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-03T17:28:48.257
+helpfulCount:
+0
+userID:
+14181332
+Display Name:
+Alison Coons
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1433770.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a grape-nuts crust with about 1.5 cups of cereal and milk. Forms well after the milk gets soaked in. I ended up with 4 pies instead of 2 so I suggest you lower the servings to adjust. One cushaw was close to 12 cups so I vacuum sealed the rest to use later.

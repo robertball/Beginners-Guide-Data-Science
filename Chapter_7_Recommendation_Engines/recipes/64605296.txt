@@ -1,0 +1,30 @@
+URL:
+https://www.allrecipes.com/personal-recipe/64605296/test2/
+Title:
+test2 Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+test2
+
+Directions:
+test2
+
+Submitter: 
+ARMax
+Description: 
+test2
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+1
+Ready in:
+1
+Number of servings: 
+1
+Nutritional Facts:
+NA

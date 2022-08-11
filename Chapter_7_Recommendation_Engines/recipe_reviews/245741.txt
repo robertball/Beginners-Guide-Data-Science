@@ -1,0 +1,37 @@
+Recipe number:
+245741.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-21T12:25:25.65
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very, very rich and delicious cake. I'm at 6631 ft and it came out perfectly. I used gluten free all-purpose flour. My 14 year old daughter made it and had no trouble with it. It baked in 28 minutes. Thank you for the recipe.

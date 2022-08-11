@@ -1,0 +1,37 @@
+Recipe number:
+238732.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-22T15:11:00.687
+helpfulCount:
+3
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+303
+followingCount:
+0
+madeRecipesCount:
+252
+favoritesCount:
+1639
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7778502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so easy and totally delicious - loved how creamy it turned out, and it was perfect with my usual nuts and honey. I cannot believe I just made my own yogurt :)

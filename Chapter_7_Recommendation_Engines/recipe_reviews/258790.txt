@@ -1,0 +1,107 @@
+Recipe number:
+258790.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-18T03:49:13.09
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was easy to make and tasted fine.. the issue I had was it was way too soft. There is another similar recipe online that uses nearly twice the amount of powdered sugar as this recipe and I agree .. more sugar is needed to make this a consistency other than like raw cookie dough.... taste is good, not beany. and do add the nuts.. again, more than the recipe calls for will help
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-28T21:10:50.737
+helpfulCount:
+0
+userID:
+26582627
+Display Name:
+Steven Douglas Olson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7380880.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good recipe. I like the fact it has more protein due to the beans.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-30T21:27:43.067
+helpfulCount:
+0
+userID:
+14416775
+Display Name:
+Marilyn Baxter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5809360.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I only put 3 cups of sugar.

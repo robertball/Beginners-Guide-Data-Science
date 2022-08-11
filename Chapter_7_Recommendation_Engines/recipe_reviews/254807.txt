@@ -1,0 +1,37 @@
+Recipe number:
+254807.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-06T22:08:24.897
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While this was beyond sweet, lol, this was not bad at all! Of course, the kids devoured it! This is not something I would make all the time, but it would be good when the budget is tight for a snack or dessert. Thanks for sharing. :)

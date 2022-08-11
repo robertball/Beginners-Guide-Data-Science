@@ -1,0 +1,72 @@
+Recipe number:
+222817.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-09T07:16:42.043
+helpfulCount:
+3
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love wild rice salads, and this was a very tasty one.  I left out water chestnuts (not my favorite food item), but otherwise I kept to the recipe.  I used this to extend some leftovers, and I was a happy camper!  My rice, by the way, was from Wisconsin (sorry Minnesota!), and it was a darker variety than what I'm normally used to.  I would definitely make this again!  I think apples would be good with this, too.  Thanks, Scott N!
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-19T06:42:04.55
+helpfulCount:
+1
+userID:
+6510895
+Display Name:
+Jeanine Carlson
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1680767.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good salad. I made it exactly as written for a family gathering, and people enjoyed it.  I also doubled the recipe and took it to a church function - no leftovers!  I'm going to make it again this weekend and will use pecans.  I love the crunch that the nuts and water chestnuts add.  I also love not having to halve the grapes.  Saves time and just as easy to eat!

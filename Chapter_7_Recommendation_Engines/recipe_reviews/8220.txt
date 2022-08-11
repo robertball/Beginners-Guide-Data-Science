@@ -1,0 +1,47 @@
+Recipe number:
+8220.txt
+Review:
+Rating:
+2
+dateLastModified:
+06/27/2003
+helpfulCount:
+7
+userID:
+146993
+Display Name:
+SABLERABBIT
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Maybe the frosting tastes good with coconuts on it but not on its own. The consistency was more like a mushy heavy custard than the light frosting I was looking for.
+Review:
+Rating:
+1
+dateLastModified:
+10/18/2002
+helpfulCount:
+6
+userID:
+259567
+Display Name:
+KIM K.
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+came out like pancake batter and did not have a very good flavor
+Review:
+Rating:
+3
+dateLastModified:
+08/29/2002
+helpfulCount:
+5
+userID:
+442080
+Display Name:
+JOSHLAURA83
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was very tasty. However I used Cool Whip instead of heavy whipping cream. This made the recipe easier. I frosted a coconut pound cake rather than a layer cake. It received raved reviews at a covered dish party.

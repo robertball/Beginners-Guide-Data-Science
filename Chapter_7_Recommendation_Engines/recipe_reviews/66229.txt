@@ -1,0 +1,72 @@
+Recipe number:
+66229.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-03-08T13:25:30.243
+helpfulCount:
+4
+userID:
+3402262
+Display Name:
+Sandra Munt Johnson
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+246
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2433948.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good, but makes way to much!  Cut the recipe in half.
+Review:
+Rating:
+5
+dateLastModified:
+2007-10-09T20:21:52.66
+helpfulCount:
+4
+userID:
+1901411
+Display Name:
+Jezze
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+355
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Have no criticisms for this sauce.  I didn't have any teriyaki on hand, so just used soy and a little hoisin sauce, yet still wonderful on anything.

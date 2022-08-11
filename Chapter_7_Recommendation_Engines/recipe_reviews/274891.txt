@@ -1,0 +1,72 @@
+Recipe number:
+274891.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-30T05:48:06.753
+helpfulCount:
+0
+userID:
+12434547
+Display Name:
+Sherry
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+903
+favoritesCount:
+1369
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7740974.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh my. What a fabulous dish. The smell was so good while baking. Chicken was so moist and flavorful and looked so beautiful when plated. Both hubby and I loved this meal.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-04T14:27:05.11
+helpfulCount:
+0
+userID:
+26023438
+Display Name:
+Zoe Winigrad
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6956479.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved this recipe, I will definitely be making it again. A few notes: I used chicken broth instead of white wine, because that's what I had. The reason I gave it four stars not five is because while the flavor was great, the lemon overpowered the other spices and flavors. I used 2 whole lemons; next time I will use just 1 lemon and I will juice half and slice half.

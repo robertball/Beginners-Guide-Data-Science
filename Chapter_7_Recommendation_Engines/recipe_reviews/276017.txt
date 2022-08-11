@@ -1,0 +1,37 @@
+Recipe number:
+276017.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-27T20:58:23.263
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These tasted great and were fun to make. The one problem I had was that the marshmallow collapsed and slid off of the jam when trying to get them out of the air fryer. I might try putting the jam under the peanut butter cup next time to see if that helps. Regardless, they were super fun to make and super simple too.

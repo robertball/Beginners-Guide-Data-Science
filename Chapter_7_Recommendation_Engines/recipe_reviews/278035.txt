@@ -1,0 +1,37 @@
+Recipe number:
+278035.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-10T15:19:33.863
+helpfulCount:
+0
+userID:
+3749653
+Display Name:
+bfr610
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+390
+favoritesCount:
+1829
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/346605.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the filling. didn't use the mushrooms, and the sauce was great!  Had a difficult getting it to eat like a wrap (was falling apart the whole time).  I did use romaine lettuce, maybe that's why.  Will make again but maybe just as a salad.

@@ -1,0 +1,107 @@
+Recipe number:
+242255.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-04-01T00:36:02.707
+helpfulCount:
+1
+userID:
+21733395
+Display Name:
+Marie White
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5385627.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe to a tee...I made pink rubber.
+Review:
+Rating:
+3
+dateLastModified:
+2015-07-03T09:44:14.347
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor was very nice and it was easy to cook, but this stuck.. terribly. I sprayed with cooking spray as directed and used foil but this method was a failure.  It is possible I have defective cooking spray or defective foil..I couldn't get the foil peeled away with out it flaking off in teeny tiny pieces... if at all. The few bites I was able to salvage tasted very good though. If I ever try this again, I will use my Silpat mat to line the pan. Editing my review.. I left the candy out for a bit and once it warmed up I was able to peel the foil off better. It still wasn't easy but it did improve. Possibly need to use non stick foil as well...this might improve the recipe. It still tastes good, but beware of the sticking issues.
+Review:
+Rating:
+1
+dateLastModified:
+2018-12-08T23:21:13.65
+helpfulCount:
+0
+userID:
+22373697
+Display Name:
+Cody Ray Cormier
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so completely wrong not sure what this is but it isn’t Turkish delight

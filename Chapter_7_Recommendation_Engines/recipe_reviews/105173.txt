@@ -1,0 +1,47 @@
+Recipe number:
+105173.txt
+Review:
+Rating:
+4
+dateLastModified:
+04/10/2007
+helpfulCount:
+5
+userID:
+2075100
+Display Name:
+Melissa
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/33000.jpg
+text:
+It was good will make again!!
+Review:
+Rating:
+3
+dateLastModified:
+05/04/2008
+helpfulCount:
+4
+userID:
+pam-3boysmama
+Display Name:
+Pam Ziegler Lutz
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2190197.jpg
+text:
+This was too strong for my liking. If I make it again I will halve the banana liqueur and maybe toss in half a frozen banana with the ice cream.
+Review:
+Rating:
+4
+dateLastModified:
+12/30/2012
+helpfulCount:
+3
+userID:
+doublewideskilletsinglewidebudget
+Display Name:
+Sarah Jo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/699445.jpg
+text:
+I made this with homemade frozen vanilla yogurt instead of ice cream. Very interesting cocktail. I thought the banana liqueur overpowered everything else I'd like to try this again but cut the amount in half.

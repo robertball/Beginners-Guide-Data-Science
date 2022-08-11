@@ -1,0 +1,37 @@
+Recipe number:
+207387.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-27T18:34:30.697
+helpfulCount:
+5
+userID:
+2496775
+Display Name:
+ew
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just made these and the whole family enjoyed them. I had a yam I needed to use so I just steamed it and added a bit of the water and about a tsp of sugar rather than using a can of sweet potatoes. I also added a bit of vanilla. These had a nice flavor to them- you could taste the yam but in a good way. They were quite fluffy but filling and the peach topping was a nice way to finish them off.

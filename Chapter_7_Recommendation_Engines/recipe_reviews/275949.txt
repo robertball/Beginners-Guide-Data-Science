@@ -1,0 +1,37 @@
+Recipe number:
+275949.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-22T21:09:12.14
+helpfulCount:
+0
+userID:
+26122555
+Display Name:
+Jacob Lee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7032854.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Have not made this yet, planning on doing it tonight, a friend made this and it tasted amazing. great job on the recipe!

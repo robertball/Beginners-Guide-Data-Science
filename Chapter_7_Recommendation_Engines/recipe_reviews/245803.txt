@@ -1,0 +1,72 @@
+Recipe number:
+245803.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-19T22:06:43.407
+helpfulCount:
+3
+userID:
+23193362
+Display Name:
+Allison Maze
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5025299.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I whipped up this easy recipe with skim milk, then poured the warm pudding into my Zoku Quick Pop Maker.  The verdict? Rich, chocolatey, and perfectly sweet pudding pops. Other reviewers noted the subtle tahini flavor of the recipe, so I increased the amount by an additional 1/2 tablespoon since I rather enjoy its smooth, nutty taste. This chocolate tahini pudding recipe is a nice flavor twist on classic chocolate. I'll be making it again soon.
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-05T06:17:19.77
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thick and creamy and chocolatey. Yum! Made as written, no need to reduce the tahini, can barely taste it. Thank you for the recipe.

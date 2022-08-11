@@ -1,0 +1,113 @@
+Recipe number:
+15569.txt
+Review:
+Rating:
+4
+dateLastModified:
+2001-06-05T12:22:18.263
+helpfulCount:
+13
+userID:
+357890
+Display Name:
+BUFFI_GIBBONS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is a little time-consuming because you make two different batches of dough, and because you have to refrigerate the dough before baking. 
+
+I decided to make spiral cookies instead of the checkerboard pattern, so I rolled each type of dough out a little thinner (roughly 6 X 10) than in the original recipe, put the pistachio  rectangle on top of the chocolate one, and rolled it up (from the longer side) to form a "log" of spiralled dough.  After refrigerating, I sliced the dough 1/4" thick and baked the cookies about 11 minutes.
+
+The cookies themselves are pretty tasty--not too sweet. I added a little almond extract to the pistachio dough, which made them a little more flavorful, I think.
+
+These cookies are certainly visually striking!
+Review:
+Rating:
+3
+dateLastModified:
+2010-09-20T00:16:18.423
+helpfulCount:
+5
+userID:
+1150630
+Display Name:
+BakingBot
+isPro:
+False
+followersCount:
+84
+followingCount:
+0
+madeRecipesCount:
+460
+favoritesCount:
+1101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2464.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They look elegant and fun, but they aren't particularly sweet or soft.  Presentation: A.  Taste: C.  They weren't bad, but the chocolate overpowered any sense of pistachios.  Also, to cut down on fat, I used 3/4 cup butter for each colored dough, and you cannot even tell the difference.  Also - chill them in the freezer; they don't chill very well in the fridge, even after 2 hours.
+Review:
+Rating:
+5
+dateLastModified:
+2010-01-03T07:11:10.833
+helpfulCount:
+2
+userID:
+4401695
+Display Name:
+MJ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cookies are delicious, though I noted that the baking time can be off by a few mintues. It roughly took me 14 to 15 minutes to get them properly done.   5 drops of food coloring is also not enough to notice a green colour in the cookies when the baking is done.  The calculator for the servings is off in the metric systeem. In the US version the amount of sugar used is more than the in Metric.

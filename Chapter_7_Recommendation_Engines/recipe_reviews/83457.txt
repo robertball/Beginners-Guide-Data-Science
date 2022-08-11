@@ -1,0 +1,72 @@
+Recipe number:
+83457.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-08-14T08:13:05.013
+helpfulCount:
+0
+userID:
+1391210
+Display Name:
+Ginny Maziarka
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+87
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2125737.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not the worst slaw I have made, but not the best...  Truly SOUNDED like an awesome combination, but overall too WET for our family and rather bland (even though Marzetti's is a fabulous dressing, I think the slaw and fruit watered it down).  Then I added the chow mein noodles and it was just this wet, difficult-to-get-on-a-fork kind of salad.  Maybe one could drain and dry the fruit first?  Make that portion the day before and drain off all liquid befoe adding the Marzetti's?  Not sure...
+Review:
+Rating:
+5
+dateLastModified:
+2006-07-26T06:38:43.937
+helpfulCount:
+0
+userID:
+1964377
+Display Name:
+Natalie Relic
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7120322.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This slaw is very yummy!  Great side to bring to a summer bbq.  I've been asked many, many times for the recipe and I plan on making this many more times. KUDOS!

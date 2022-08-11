@@ -1,0 +1,72 @@
+Recipe number:
+245460.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-14T01:56:34.423
+helpfulCount:
+0
+userID:
+18001082
+Display Name:
+mraguilerafish
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This came out well. I made the dumplings with bisquick instead of the flour mixture and cooked them in the soup without baking it.  Will make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-25T01:42:22.623
+helpfulCount:
+0
+userID:
+166708
+Display Name:
+Jan Mowbray
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+428
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2530650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good dumplings. I would make them again. A little different with the addition of cheese but it needs to be a very sharp cheese to be able to tell it's in there.

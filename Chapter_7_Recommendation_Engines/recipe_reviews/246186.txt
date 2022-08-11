@@ -1,0 +1,37 @@
+Recipe number:
+246186.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-22T01:02:08.15
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I left out the MSG. It didn't need it. This tasted good but I was expecting more heat. Next time I would add some Sriracha. Overall good recipe and one I would make again.

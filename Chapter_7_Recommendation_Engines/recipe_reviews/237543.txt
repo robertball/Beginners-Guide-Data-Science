@@ -1,0 +1,37 @@
+Recipe number:
+237543.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-04T19:27:34.713
+helpfulCount:
+0
+userID:
+177428
+Display Name:
+BARNKITTY
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+1132
+favoritesCount:
+4465
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I did brown the sausage (kielbasa) in a separate pan, along with a finely chopped, small onion, while the beans started to cook in chicken stock and a little water.  Then added the beans to the sausage and let it finish cooking together.  Good, if a little plain.  Not as spicy as I thought it would be from the red pepper.  Easy enough and tasty.  Our family has made a similar dish for a long time, but with sauerkraut and without the red pepper.

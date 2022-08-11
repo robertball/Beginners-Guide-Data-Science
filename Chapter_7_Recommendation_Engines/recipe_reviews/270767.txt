@@ -1,0 +1,37 @@
+Recipe number:
+270767.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-01T16:46:31.72
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.1.19  I thought the oregano was totally lost, so I’ll either increase that amount or just omit in the future.  Before it was completely cooked, it was very thick and borderline “gummy” for a lack of a better word, so I did add more water which solved that problem.  I thought the curry flavor was spot on and not overpowering as curry often can be.  We eat a lot of rice side dishes, so this will be a nice option.  Certainly was simple to make.

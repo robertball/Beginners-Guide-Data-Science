@@ -1,0 +1,37 @@
+Recipe number:
+78123.txt
+Review:
+Rating:
+2
+dateLastModified:
+2005-12-27T15:11:44.42
+helpfulCount:
+7
+userID:
+1700128
+Display Name:
+LOVEnPEACE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cake turned out to be really stodgy. think too much whiskey was poured over it n perhaps the cooking time was not enuf. But it was a very tasty cake..might try my hand at this cake again.

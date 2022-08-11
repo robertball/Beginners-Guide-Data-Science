@@ -1,0 +1,107 @@
+Recipe number:
+16070.txt
+Review:
+Rating:
+3
+dateLastModified:
+2002-12-15T23:52:24.34
+helpfulCount:
+26
+userID:
+701788
+Display Name:
+Wonder Wanda
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+56
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This filling tasted great, but unfortunately, WITHOUT AN ELECTRIC MIXER, THIS IS IMPOSSIBLE TO MAKE.  I think perhaps the person who submitted this meant egg whites, not eggs, to beat until fluffy, because I beat these manually for upwards of 20 minutes and they were still runny.  Then, because the eggs were runny, the chocolate mix was runny, and folding the whipped cream in didn't help.  This filling was so liquid that I put it in the freezer to solidy, and it tipped and spilled chocolate syrupy stuff all over my frozen foods.  I think it would be a great recipe given the right appliances, BUT DON'T TRY TO MAKE THIS IF YOU DON'T HAVE AN ELECTRIC MIXER!  I eventually had to just divide it up and serve under ice cream... in bowls.  And for the trouble I went through trying to beat the filling and melt the chocolate, I think simple chocolate pudding would have worked equally well or better.
+Review:
+Rating:
+4
+dateLastModified:
+2009-12-26T11:56:01.153
+helpfulCount:
+3
+userID:
+3466838
+Display Name:
+Ivy Tide
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is pretty much a classic french silk pie with a passover friendly crust.  The previous reviewer was correct in that you do need an electric mixer to make this work, but if you have one, you'll find using the entire egg does work.  I must admit that I've found better versions of the filling on this site, but it wasn't bad at all.
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-25T13:39:19.58
+helpfulCount:
+1
+userID:
+4473157
+Display Name:
+naturelvr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/335269.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. Made it for a Christmas party a few years ago. Ever since then, my cousin (a chocoholic) has been begging me to make it again for her birthday.

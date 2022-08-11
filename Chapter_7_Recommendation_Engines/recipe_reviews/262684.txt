@@ -1,0 +1,37 @@
+Recipe number:
+262684.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-25T04:37:44.55
+helpfulCount:
+0
+userID:
+22880932
+Display Name:
+Paula Cramer
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+176
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4608732.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not this time- but, I can't help myself when comes to experimenting! But, oh- loved this!

@@ -1,0 +1,37 @@
+Recipe number:
+269964.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-13T19:24:56.893
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Though tasty this is neither atole nor champurrado. Atole and champurrado are two totally different things  and neither is made with bar chocolate. Atole does not contain chocolate at all. Cinnamon sticks are used not ground cinnamon. Having said that and taking into consideration that this is an Americanized fusion of two Mexican drinks, it is tasty.

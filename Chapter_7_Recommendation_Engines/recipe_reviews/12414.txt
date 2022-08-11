@@ -1,0 +1,72 @@
+Recipe number:
+12414.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-11-05T21:25:59.363
+helpfulCount:
+9
+userID:
+6707088
+Display Name:
+chaplainesque
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+172
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love steak and kidney pie, even more so with  puff pastry which is delicious moistened by the gravy.  But I think the author made an error or two.  There is no need to use beef tenderloin in a stew preparation - you'll get a much better flavor from chuck or even leg of beef, and even those cuts would not need to cook for three hours - maybe an hour and a half at most.  And at the top of the recipe the cooking time is given as 1 hr 30 mins, not the 3 hrs 20 mins the instructions say.  In addition, I usually soak the kidney in milk for several hours before cooking (this gets out some of the urine taste and smell, but doesn't destroy the unique flavor).  It's a good idea to use a pie bird or funnel to hold the pastry off the gravy so it will be nice and crisp when baked - the inside will still be moist.  I'm rating the pie five stars because if you carry out these suggestions it will be very good indeed, and I don't want to put anyone off making a splendid steak and kidney pie!
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-04T22:57:47.773
+helpfulCount:
+3
+userID:
+6999942
+Display Name:
+Cook and a half
+isPro:
+False
+followersCount:
+32
+followingCount:
+0
+madeRecipesCount:
+116
+favoritesCount:
+1827
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/634548.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I soaked the kidney in milk overnight,cut into pieces. I did lightly flour then sauteed the kidney and steak in olive oil. Caramelized some onions and then made a gravy. I did not have puff pastry so left it out. Served this over rice. It was delicious.

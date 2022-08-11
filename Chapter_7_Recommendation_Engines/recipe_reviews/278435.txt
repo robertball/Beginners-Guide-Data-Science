@@ -1,0 +1,73 @@
+Recipe number:
+278435.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-11T02:38:04.277
+helpfulCount:
+3
+userID:
+22761641
+Display Name:
+Heidi Lichon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+500
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4688863.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am dairy free and gluten free ( food intolerances). So I used gluten free bread crumbs, gluten free light soy sauce, dairy free plain yogurt and used almond milk in place of milk. I Will cut back a little on bread crumbs next time but over all it had great flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2020-03-15T23:56:36.627
+helpfulCount:
+0
+userID:
+10422478
+Display Name:
+Sandy Wagner Ferrando
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8518442.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They were great! I served over egg noodles and yes we will have again!
+No changes required

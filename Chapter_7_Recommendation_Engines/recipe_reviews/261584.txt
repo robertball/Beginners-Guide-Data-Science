@@ -1,0 +1,37 @@
+Recipe number:
+261584.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-09T19:00:54.98
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+194
+followingCount:
+0
+madeRecipesCount:
+547
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A few adjustments and this could easily turn into a 5 star. My two suggestions would be 1. Be careful of the salt. Yes, this could have been my fault. When salting the eggplants to remove juices, then salting the sauce, then using parm. cheese. It can get overly salty fast. 2. Make more of the bechamel sauce. I halfed the recipe, which halfed the sauce and it was not enough to cover the last layer of noodles. I used oven ready noodles, which would have all cooked perfectly if I had enough sauce. I did 30 minutes covered then about 7 minutes uncovered. Enjoy this recipe! Even your meat lovers will enjoy it! Served with garlic bread

@@ -1,0 +1,107 @@
+Recipe number:
+255982.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-20T17:56:10.987
+helpfulCount:
+2
+userID:
+21103436
+Display Name:
+Zou Yang
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7572542.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used caramel not caramel sauce and cashews; it was great. Carmel sauce would have made a gooey mess. Leaving out the caramel would have made microwaved cake batter. It's important to follow directions
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-16T04:18:30.557
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9210
+followingCount:
+0
+madeRecipesCount:
+626
+favoritesCount:
+1190
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This isn't the traditional fudge, and I chose to leave out the optional caramel and cashews. I had no problem with the batter consistency, but this isn't a recipe I would make again.
+Review:
+Rating:
+1
+dateLastModified:
+2016-11-12T21:17:43.66
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8999
+followingCount:
+0
+madeRecipesCount:
+1151
+favoritesCount:
+2451
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as directed, and it was a gooey mess. You can't even cut this into squares.

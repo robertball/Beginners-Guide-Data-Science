@@ -1,0 +1,37 @@
+Recipe number:
+158468.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-06-27T17:17:45.633
+helpfulCount:
+0
+userID:
+2664282
+Display Name:
+lauralee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+525
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/107794.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good. next I make it though I will make two logs and let it cool longer than fifteen minutes. When I went to cut it, it crumbled. over all I thought it tasted delicious.

@@ -1,0 +1,37 @@
+Recipe number:
+254352.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-01T22:22:52.503
+helpfulCount:
+0
+userID:
+2231878
+Display Name:
+sanzoe
+isPro:
+False
+followersCount:
+310
+followingCount:
+0
+madeRecipesCount:
+442
+favoritesCount:
+3239
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/821176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were ok but I have had better they were a little on the gummy side inside and I prefer the ones made with milk.

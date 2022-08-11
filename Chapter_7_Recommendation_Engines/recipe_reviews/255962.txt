@@ -1,0 +1,73 @@
+Recipe number:
+255962.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-02-05T01:12:44.747
+helpfulCount:
+0
+userID:
+4793163
+Display Name:
+Cindy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6303331.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Won't be making it again. It was sweet with the BBQ sauce. Maybe better with a different type.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-15T12:59:00.473
+helpfulCount:
+0
+userID:
+20969682
+Display Name:
+Tom Jamieson
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+68
+favoritesCount:
+316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4288587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good
+will be using this more

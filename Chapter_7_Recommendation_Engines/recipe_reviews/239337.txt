@@ -1,0 +1,72 @@
+Recipe number:
+239337.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-23T22:25:15.853
+helpfulCount:
+0
+userID:
+25350543
+Display Name:
+Kelly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added more garam Masala. Turned out great!
+Review:
+Rating:
+2
+dateLastModified:
+2016-07-04T13:09:59.15
+helpfulCount:
+0
+userID:
+15713522
+Display Name:
+Kathy Ringel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3655412.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup was not very good.  Too much beans.  The  mashed potato mixture gave it a funny texture.  It was better over a little rice but I will never make it again.

@@ -1,0 +1,72 @@
+Recipe number:
+232449.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-31T19:42:51.1
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is SO good, especially with homemade dulce de leche . Do not just use ice cream topping type caramel sauce; it's not creamy enough. I used the recipe from this site: Caramel In A Can (Dolce de Leche). It was fabulous--just creamy and sweet enough for me. I cut this down to 4 cups of coffee and used 4 tablespoons of dulce de leche.
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-27T11:27:33.073
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8913
+followingCount:
+0
+madeRecipesCount:
+1117
+favoritesCount:
+2285
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice, caramel flavored coffee. I added a touch of cream, and it was very good. I can see using this when I'm out of my favorite flavored creamer and am in need of a coffee fix.

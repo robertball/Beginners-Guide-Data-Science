@@ -1,0 +1,72 @@
+Recipe number:
+212508.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-22T16:05:13.733
+helpfulCount:
+0
+userID:
+3771930
+Display Name:
+Haley Thacker Hays
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2828103.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for dinner tonight and it was delicious!  Very easy....Will defiantly be making it again.
+Review:
+Rating:
+5
+dateLastModified:
+2012-09-11T17:57:48.753
+helpfulCount:
+0
+userID:
+4864144
+Display Name:
+Jennifer-Ernest Ramos
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3742293.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i liked it, simple and didnt have to run out to the store to throw this together

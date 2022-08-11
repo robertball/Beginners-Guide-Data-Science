@@ -1,0 +1,109 @@
+Recipe number:
+245031.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-18T16:44:33.513
+helpfulCount:
+0
+userID:
+8123816
+Display Name:
+Cat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7549278.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy and delicious.  My husband tried it and said we need to make this and share with all our mustard loving friends and family.
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-18T07:15:55.177
+helpfulCount:
+0
+userID:
+10850001
+Display Name:
+Ann Freele
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1782973.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+#allrecipesallstars   A new day, a new taste adventure. I wasnt sure about the surprise ingredient, but it works.
+I did find it a little runny for my tastes, but I guess that is why it is suggested as a glaze.
+I will definately try this again as is, as well as a base for  regular honey mustard
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-22T10:14:44.017
+helpfulCount:
+0
+userID:
+665843
+Display Name:
+Cathy Peterson
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+118
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/156666.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I haven't made this yet but I plan to this weekend. This has got to be the most interesting looking recipe I have ever seen. I can not wait to try it. I will definitely post my review when I DO make it.

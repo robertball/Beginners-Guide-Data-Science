@@ -1,0 +1,146 @@
+Recipe number:
+277683.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-23T17:58:39.503
+helpfulCount:
+0
+userID:
+23685311
+Display Name:
+Gracy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I love it.  I added one more potato,  sauteed vegetarian bacon (I am vegetarian).  After all done I pressed the saute button again and added smoked vegetarian hot dogs.  Very yummy.  I love Sauerkraut, but never made it like this.  Very interesting flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-19T21:21:38.067
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+nobleredmond if you see this, yes the hard cider I'm referring to is the kind with alcohol such as Angry Orchard.
+Review:
+Rating:
+2
+dateLastModified:
+2020-01-16T21:24:10.777
+helpfulCount:
+0
+userID:
+26876874
+Display Name:
+Heidi D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No flavor
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-14T23:45:37.52
+helpfulCount:
+0
+userID:
+5110628
+Display Name:
+nobleredmond
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+365
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am a HUGE fan of sauerkraut, and can't wait to make this.
+However, I'm wondering what "hard cider" to use.
+Is this referring to the alcoholic cider, such as Angry Orchard etc. 
+Any advice is greatly appreciated.
+Thank you!

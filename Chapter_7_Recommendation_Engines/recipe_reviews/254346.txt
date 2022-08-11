@@ -1,0 +1,37 @@
+Recipe number:
+254346.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-20T16:34:43.037
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.20.17  IMO this has too much frozen fruit, my high-power Vitamix was struggling to blend it.  I added some tart cherry juice and water to thin it out and at least get it to the point that it could be blended.  On the positive side, it’s a really tasty smoothie.

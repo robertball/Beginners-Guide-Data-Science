@@ -1,0 +1,177 @@
+Recipe number:
+25977.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-06-01T21:15:57.81
+helpfulCount:
+22
+userID:
+500319
+Display Name:
+Mrs. Evelyn Paradies
+isPro:
+False
+followersCount:
+31
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/300830.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is such a wonderful cake. I have made it 1 times in the past weeka and think I may have to make it again this evening.
+Review:
+Rating:
+3
+dateLastModified:
+2011-03-03T16:25:13.577
+helpfulCount:
+9
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12230
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2670
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall, this was not all it should or could have been.  It was kind of dense and crumbly.  After the fact, I compared the measurements to another similar recipe that I had made before.  I really think for this much sugar and flour the butter should be 1 cup not 1/2 cup and the baking soda upped to 1/2 tsp.   Sorry - this was worth a try but I wouldn't do it twice.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-14T16:40:49.297
+helpfulCount:
+2
+userID:
+18049957
+Display Name:
+Danisha Little-Flowers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3584846.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've tried many pound cake recipes   but this by far was one of the best! My cake was very moist and fluffy. Some like a more heavier cake and others like fluff so I made one in a regular cake pan and one in the bundt to get both effects. The only things I changed was  I used cake flour, adding a 1/2 cup of Mayo and 1/2tspn of vanilla & almond w a whole squeeze lemon and baked at 345° The cake turned out wonderful!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-03T02:11:32.89
+helpfulCount:
+0
+userID:
+6434339
+Display Name:
+Diane Maltese-Lugo
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Follow the directions  to a tee and it will be perfect
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-14T21:05:50.413
+helpfulCount:
+0
+userID:
+13768213
+Display Name:
+Savonna Anderson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1813685.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a very moist and wonderful cake

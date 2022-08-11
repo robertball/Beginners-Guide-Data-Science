@@ -1,0 +1,107 @@
+Recipe number:
+270260.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-31T02:57:34.183
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+393
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3195
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These fritters turned out pretty good. I really liked the nutty flavor the almond flour gave them. I think a sprinkle of red pepper flakes would take these up another notch.
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-03T01:26:22.007
+helpfulCount:
+0
+userID:
+11728289
+Display Name:
+Donna Belken
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+451
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1249278.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great for Keto/Paleo diets but needs something more spice and some kind of sauce.  Any ideas?
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-19T23:27:11.48
+helpfulCount:
+0
+userID:
+14241255
+Display Name:
+Megan Kasten
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6434231.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added cayenne pepper, black pepper, and some Sriracha, but still found the taste more bland than expected, and it was very dry. I did like the nutty flavor imparted by the almond flour, and I love both broccoli and cauliflower, but I'm not sure I'd make it again. I might try with even more spices, and maybe an extra egg to combat the dryness.

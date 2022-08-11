@@ -1,0 +1,39 @@
+Recipe number:
+273599.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-03T14:29:21.803
+helpfulCount:
+0
+userID:
+25893331
+Display Name:
+Shaun Wuestewald
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6867579.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was  good, added some onions, threw it in a casserole dish, cooked it for an extra 5 minutes with some cheese and an added decoration of hot sauce
+
+Would recommend using a hotter sauce or more of it for my fellow masochists.

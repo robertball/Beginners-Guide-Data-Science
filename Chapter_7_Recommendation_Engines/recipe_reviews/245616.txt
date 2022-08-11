@@ -1,0 +1,111 @@
+Recipe number:
+245616.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-17T17:30:37.177
+helpfulCount:
+2
+userID:
+4946462
+Display Name:
+Kooking Kim
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/600828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! We added a little turmeric and crushed red pepper to the wet masala. We served it over rice with chopped cilantro. I’m excited to try it with a touch of coconut cream the next time we make it!
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-16T23:05:52.97
+helpfulCount:
+1
+userID:
+4501106
+Display Name:
+Cookie62
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delish!
+
+I made substitutions just because I didn't have all the ingredients. I used 1/2 coconut milk, 1/2  silk milk and added no peppers, green beans or vinegar. My family loved it.
+
+Spice combinations are perfect!
+Review:
+Rating:
+3
+dateLastModified:
+2016-01-05T17:41:37.5
+helpfulCount:
+0
+userID:
+15488810
+Display Name:
+Linda Lamers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2135336.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will likely make this again, but with changes...1/2 coconut milk/1/2 water, chili powder and less allspice, if any at all.

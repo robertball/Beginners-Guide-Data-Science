@@ -1,0 +1,72 @@
+Recipe number:
+264648.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-07T01:15:30.5
+helpfulCount:
+0
+userID:
+4694210
+Display Name:
+Lrntocook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My son loves this recipe!  And an easy week night meal.  I make the marinade in the morning and marinate meat all day.
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-24T18:04:09.053
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and I really liked these. To me though they had more of an Asian flair rather than Mexican. I will say they were a lot more tender than the other recipes I made and they all marinated for the exact same amount of time. I made this for a friends Mexican celebration. They liked them but also preferred one of the other recipes I made that used sazon and beer in the marinade. Overall I was pleased with this and will make it again.

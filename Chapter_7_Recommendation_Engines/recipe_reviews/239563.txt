@@ -1,0 +1,37 @@
+Recipe number:
+239563.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-01T20:25:23.343
+helpfulCount:
+1
+userID:
+172597
+Display Name:
+anmlnrs
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+78
+favoritesCount:
+169
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok, I didn't have the peanut butter filled morsels (our small grocery store didn't carry them) so I substituted with chocolate chips and peanut butter chips. I also used sugar free strawberry jam. I doubled the recipe and baked it in a 9x13 pan. Very rich. Satisfies a sweet tooth that's for sure!

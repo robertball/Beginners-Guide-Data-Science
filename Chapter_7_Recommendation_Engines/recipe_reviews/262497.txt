@@ -1,0 +1,107 @@
+Recipe number:
+262497.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-23T21:35:25.7
+helpfulCount:
+2
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+564
+followingCount:
+0
+madeRecipesCount:
+1250
+favoritesCount:
+3514
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8195143.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for my niece. She thought it was pretty good. I used raspberry jelly instead of preserves because that's what I have. The recipe says 1 serving but this is enough for 2 people.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-10T01:30:54.07
+helpfulCount:
+0
+userID:
+22269944
+Display Name:
+Sariah Griffin
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+1082
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8597702.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great option for my oatmeal.  I got two servings out of this and on the second one I did not add the pb and jelly till the second day when I reheated it.  This was great.  I am so excited to try different types of jelly.  Thanks
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-08T02:27:06.523
+helpfulCount:
+0
+userID:
+12341863
+Display Name:
+M Manning
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3231694.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Since I am allergic to eggs, it removes a lot of warm breakfast food options that I can eat in the am. So when I found this Oatmeal idea 2 -3 months ago and tried it, I was ecstatic and I have been eating my oatmeal this way ever since. It’s hearty, filling, warm and flavourful. I eat mine with raspberry jam and smooth peanut butter. Love it...such a great idea :)

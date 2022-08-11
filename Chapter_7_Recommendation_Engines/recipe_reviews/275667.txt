@@ -1,0 +1,72 @@
+Recipe number:
+275667.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-18T15:20:21.837
+helpfulCount:
+2
+userID:
+2741486
+Display Name:
+Stephanie Nixon Heydolph
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/49.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+my family loved this light  desert .
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-06T10:43:57.31
+helpfulCount:
+0
+userID:
+9465275
+Display Name:
+hiancest
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+107
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as the direction said. Next time I'll doo all star. I like it a bit sweeter. Overall, this was a wonderful dessert. Definitely make it again.

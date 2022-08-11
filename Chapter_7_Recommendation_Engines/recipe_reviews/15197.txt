@@ -1,0 +1,92 @@
+Recipe number:
+15197.txt
+Review:
+Rating:
+2
+dateLastModified:
+04/02/2006
+helpfulCount:
+5
+userID:
+1581036
+Display Name:
+joes_angel
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was bland. It had too much sour cream. We added ground pepper and tuna the next day and ate it cold. It tasted better after that. I will keep playing with the recipe to get it right.
+Review:
+Rating:
+5
+dateLastModified:
+10/14/2006
+helpfulCount:
+2
+userID:
+2118933
+Display Name:
+Jimmy B.
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I thought this was delicious I will definitely cook this for my family again
+Review:
+Rating:
+4
+dateLastModified:
+12/17/2006
+helpfulCount:
+1
+userID:
+2192524
+Display Name:
+L. Merlo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/547848.jpg
+text:
+was very tasty...was unsure of cottqge cheese however was pleasantly surprised.
+Review:
+Rating:
+2
+dateLastModified:
+03/30/2008
+helpfulCount:
+0
+userID:
+2204476
+Display Name:
+Meredith in VB
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very bland when prepared as directed.
+Review:
+Rating:
+5
+dateLastModified:
+11/13/2012
+helpfulCount:
+0
+userID:
+10274592
+Display Name:
+pickycook
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I made this! Popped it out of the oven early after reading the comments on it being too dry it would've been fine but decided to drizzle olive oil and sprinkle parmesan on top.
+Review:
+Rating:
+1
+dateLastModified:
+10/30/2006
+helpfulCount:
+0
+userID:
+2138936
+Display Name:
+Keith C.
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+No moisture! Followed the directions exactly and the result was too dry to eat.

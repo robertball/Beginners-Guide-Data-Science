@@ -1,0 +1,72 @@
+Recipe number:
+215352.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-08-31T15:40:12.747
+helpfulCount:
+9
+userID:
+5299000
+Display Name:
+malikmom21
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/460781.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OM goodness!!! delish!! thanks
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-26T16:36:03.05
+helpfulCount:
+0
+userID:
+18225156
+Display Name:
+Debbz Frame
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3691780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummyyyyyy. Thanks

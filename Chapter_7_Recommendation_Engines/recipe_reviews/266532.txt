@@ -1,0 +1,37 @@
+Recipe number:
+266532.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-12T19:24:58.94
+helpfulCount:
+1
+userID:
+3614637
+Display Name:
+Shannonhb
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+400
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/305126.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! Love this stuff! I could live on bionicos alone all summer!  I use regular sour Creme and usually vanilla yogurt. This recipe is so forgiving you can make  personal changes without really changing the results. It’s all a matter of taste. Thanks for sharing!

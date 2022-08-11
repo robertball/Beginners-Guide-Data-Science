@@ -1,0 +1,37 @@
+Recipe number:
+246788.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-08T03:22:12.88
+helpfulCount:
+0
+userID:
+11796114
+Display Name:
+Susan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would make this again.  I didn't put in the white pepper because I tasted it after the chili oil and it was soooo spicy.  I would recommend starting with half the amount of chili oil and adding the rest based on personal taste.  I used it as a dip for artichoke leaves,  celery, sweet peppers, and triscuits.

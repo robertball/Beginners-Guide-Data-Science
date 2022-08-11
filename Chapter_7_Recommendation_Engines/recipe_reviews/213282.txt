@@ -1,0 +1,72 @@
+Recipe number:
+213282.txt
+Review:
+Rating:
+1
+dateLastModified:
+2010-05-04T09:38:57.373
+helpfulCount:
+11
+userID:
+3643654
+Display Name:
+Raina
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sodium level was crazy high.  I used fresh chicken, not canned and it still was way too salty.  Instant rice is not to my liking.
+Review:
+Rating:
+1
+dateLastModified:
+2011-03-03T07:36:04.787
+helpfulCount:
+6
+userID:
+5269242
+Display Name:
+Amy Grems Chamberlain
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+314
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1575794.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not very good, two canned tasting and just blah.

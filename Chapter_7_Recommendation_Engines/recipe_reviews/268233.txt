@@ -1,0 +1,107 @@
+Recipe number:
+268233.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-09-26T23:33:39.86
+helpfulCount:
+8
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+764
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+French Onion soup is one of my favorite kinds of soup and I always love trying different variations. I like that this one saves a lot of time, but the flavor and deep color is unfortunately lacking. Because you are basically skipping the caramelization of the onions, it really is necessary to make sure there are plenty of additional flavors and seasonings added in.  First off, I would probably use red wine instead of white. I ended up adding in some Worcestershire sauce, a splash of balsamic and some fresh thyme. Salt and pepper were also necessary. Next time I'd probably use more sherry and another bay leaf. I would also use less flour or skip the whole flour/water step. I really did not like the gravy-like consistency it gave the soup. This recipe certainly made for a quick dinner though!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-10T00:01:22.487
+helpfulCount:
+2
+userID:
+6141411
+Display Name:
+Monica Heidecke
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7034764.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So I sautéed the onions for about 20 minutes and added 2 Teaspoons of fresh thyme.  Increased the bay leaves by one so 2 Bay leaves  I did not add salt  But the flavor was lacking so I added some Johnny’s French dip beef au jus. Which you can find in the store. To taste. Added no flour. Did not eat thick soup.   I wold give it a 5 after all of my additions. Of course a glass of red wine t o pair.
+Review:
+Rating:
+2
+dateLastModified:
+2018-10-21T03:19:21.387
+helpfulCount:
+1
+userID:
+24414167
+Display Name:
+Stacey M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5881945.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We might try it again however we will be changing some things.  We felt it was too much black pepper I would cut that in half.  We will also be cutting the Paprika in half also.  I feel some more Sherry might help it also.  The color wasn't quite right.

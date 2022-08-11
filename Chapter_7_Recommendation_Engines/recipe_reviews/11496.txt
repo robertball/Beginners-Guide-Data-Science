@@ -1,0 +1,113 @@
+Recipe number:
+11496.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-06-23T01:43:21.263
+helpfulCount:
+10
+userID:
+1045812
+Display Name:
+Charlene Vickers
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3263887.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out well. However, I used real honest vanilla extract.
+Review:
+Rating:
+2
+dateLastModified:
+2009-02-10T14:22:38.85
+helpfulCount:
+5
+userID:
+2931005
+Display Name:
+sunshinenewday
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Mine turned out really flat and I ended up throwing them away.  Quite possibly something I did wrong, but I couldn't figure it out.  :(
+Review:
+Rating:
+3
+dateLastModified:
+2016-01-07T12:31:53.733
+helpfulCount:
+0
+userID:
+16178118
+Display Name:
+Brenda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these with the following substitutions:
+I replaced the flour with spelt flour and chestnut flour.  
+I used real vanilla.
+I replaced dried cherries with chopped up maraschino cherries.
+I used coconut-oil.
+They turned out okay.  My children liked them a lot and need wheat -free treats.  
+Next time I will reduce the sugar content.

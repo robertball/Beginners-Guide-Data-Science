@@ -1,0 +1,107 @@
+Recipe number:
+264230.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-24T03:20:03.007
+helpfulCount:
+0
+userID:
+24217039
+Display Name:
+Alex Martini
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5776530.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used hazelnut spread in mine and regular almond milk with a bit of Vanila creamer omg yum I'm so doing this again thanks for the recipe
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-15T18:22:36.837
+helpfulCount:
+0
+userID:
+23650289
+Display Name:
+Erica
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7174432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+GREAT  DRINK!
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-06T08:03:36.837
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+973
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Flawless recipe! I used coffee ice cubes. This was delicious with almond milk. I also made one with horchata. That was pretty awesome, too. Thank you for the versatile recipe.

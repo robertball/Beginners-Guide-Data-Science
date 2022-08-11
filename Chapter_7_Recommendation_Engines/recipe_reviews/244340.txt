@@ -1,0 +1,37 @@
+Recipe number:
+244340.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-18T15:16:10.683
+helpfulCount:
+5
+userID:
+10840174
+Display Name:
+Todd Shryock
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+249
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6281234.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't use the "Smithfield" brand so I just added my own garlic to a plain pork loin in addition to the oregano. I suggest drizzling some of the broth from the slow cooker onto the subs then putting the cheese on them. This helps boost the flavor (you could add it after melting the cheese as well). Overall, a good recipe, but can be a little bland without the juice (though using the pre-flavored pork may solve that).

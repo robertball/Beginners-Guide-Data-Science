@@ -1,0 +1,37 @@
+Recipe number:
+275998.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-30T19:06:18.6
+helpfulCount:
+1
+userID:
+933856
+Display Name:
+JARRIE
+isPro:
+False
+followersCount:
+147
+followingCount:
+0
+madeRecipesCount:
+1131
+favoritesCount:
+6151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/926498.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These tasted great. Mine did not spread, but that might be bc I made the dough earlier this month & had to freeze it bc I wasn't getting around to this fast enough. I did thaw before air frying, but still no spreading. Tasty little nuggets, though!

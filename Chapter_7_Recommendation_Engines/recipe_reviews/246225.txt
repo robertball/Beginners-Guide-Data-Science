@@ -1,0 +1,107 @@
+Recipe number:
+246225.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-06T02:38:23.917
+helpfulCount:
+1
+userID:
+23104477
+Display Name:
+Mary Zink
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+208
+favoritesCount:
+1397
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4939587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good.  I think next time I will dust the tofu in cornstarch before frying.
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-18T23:37:03.66
+helpfulCount:
+0
+userID:
+21445684
+Display Name:
+Nanny
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would have given this a 4.5 if it were possible.  Wasn't able to find lemongrass so had to substitute cilantro which did a fine job but maybe not stellar.  Made the recipe exactly as written otherwise and loved the delicate blend of flavors for our plant based/gluten free palates.  I think we enjoyed it especially because it was a crisp fall evening, just right for a pot of lovely soup.  One more treat were the colors in our bowls.  Wish I would have taken a picture.  We both ate seconds and that speaks for itself.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-28T15:57:10.073
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious.. my only change was not chopping up the lemon grass. I cut it into chunks and slit open one side to infuse the flavor... I cant handle the pithiness of lemon grass but I like the taste.  I did find this a little on the sweet side so I added a shake of red pepper flakes

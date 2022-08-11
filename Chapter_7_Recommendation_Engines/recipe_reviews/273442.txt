@@ -1,0 +1,72 @@
+Recipe number:
+273442.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-16T18:08:40.903
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5.16.19  Used low-fat Greek yogurt and didn’t add the stevia because the blueberries  and coconut milk sweetened this enough for my taste.  You need to really like yogurt to enjoy this (and I do) because the tangy yogurt flavor dominates over the oats and even the blueberries.  This really is more like “yogurt with oats” instead of “oats with yogurt.”  If I make this again, I definitely would add more oats.  Also, this is a huge serving for one person, and more realistically, it serves two (at least IMO).  I like all of the ingredients in this recipe, but the proportions will need to be modified a bit for my taste preference.  Thanks for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-08T01:37:52.03
+helpfulCount:
+1
+userID:
+5717967
+Display Name:
+Anne Avitar
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2964073.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made oats with blueberries cinnamon apple slices, added hemp hearts,chia seeds, oat bran & gr. Flaxseed. picture wouldn’t upload unfortunately

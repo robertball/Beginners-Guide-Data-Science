@@ -1,0 +1,107 @@
+Recipe number:
+246505.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-19T02:25:07.243
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+975
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good combination of nutrients and flavours. I added some hot sauce and lime juice at the end and liked it even more. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-14T01:06:49.357
+helpfulCount:
+0
+userID:
+23687586
+Display Name:
+Destiny Swan Estrada
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6163453.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good and light. I added zucchini and it was very good.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-04T00:45:14.083
+helpfulCount:
+0
+userID:
+15446112
+Display Name:
+Jesi Shambaugh Wyche
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2111190.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good basic recipe. Definitely will be adding some spices next time.  I used fresh spinach leaves instead of lettuce, since the heat would have wilted the lettuce. Added lime juice and used regular (non-vegan) sour cream and cheese.  Overall, fairly easy to make and will be trying again.

@@ -1,0 +1,37 @@
+Recipe number:
+258914.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-28T16:52:57.15
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were HOT! They did have some sweetness to them too but the sugar in the fig must have released all of the heat in the wing sauce. I didn't use the soy sauce because I didn't think the extra sodium was necessary. This was really good but be sure to have some ranch on the side to cool you down.

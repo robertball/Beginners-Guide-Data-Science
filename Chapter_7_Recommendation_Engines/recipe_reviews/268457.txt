@@ -1,0 +1,37 @@
+Recipe number:
+268457.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-12T22:54:34.687
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+471
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to follow recipe and Extremely tasty! I made the recipe as is, with the exception of the sherry. I’ve never made a fishy soup or chowder before and I was a bit nervous that the crab meat might over cook. Thankfully, I was pleasantly surprised that it didn’t. This one gets two thumbs up for sure!

@@ -1,0 +1,39 @@
+Recipe number:
+277035.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-16T19:34:36.9
+helpfulCount:
+0
+userID:
+11643669
+Display Name:
+Amy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed making these, the recipe was different & I learned some new techniques. 
+The cookies are excellent & I will add this to my favorites. 
+I made them at 7000 foot elevation so made a few changes for the high altitude: I added 3 Tbls flour, 3 Tbls water, and cooked them at 25 degree hotter oven.

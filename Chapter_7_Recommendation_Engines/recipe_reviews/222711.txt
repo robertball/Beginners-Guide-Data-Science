@@ -1,0 +1,107 @@
+Recipe number:
+222711.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-30T01:07:51.52
+helpfulCount:
+0
+userID:
+16817987
+Display Name:
+Marlene Genovese
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2837061.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+my kids are eating this with bread, raw broccoli and carrots. it's kid friendly fondue!!! I could see this being good with some mushroom powder, like porcini.
+Review:
+Rating:
+3
+dateLastModified:
+2018-02-09T01:20:14.86
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree with the other reviewer. This lacked flavor and was very bland. It came together quick and melted nicely though so I think it has potential if you were to add some seasoning and even something for some heat.
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-15T18:30:04.727
+helpfulCount:
+0
+userID:
+942040
+Display Name:
+MITHRILFLOWER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was easy to make but very mild without a lot of flavor. I had lots of leftovers.

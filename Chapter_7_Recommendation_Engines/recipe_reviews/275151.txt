@@ -1,0 +1,37 @@
+Recipe number:
+275151.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-20T12:31:19.52
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8912
+followingCount:
+0
+madeRecipesCount:
+1116
+favoritesCount:
+2284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I enjoyed this! I made just a couple of changes - used panko, as the only other bread crumbs I had on hand were seasoned, so I didn't want to use those. I also cut the red pepper flakes way back to suite (my) tastes. Very tasty dish, and one that hubs and I both agreed is a "do again".

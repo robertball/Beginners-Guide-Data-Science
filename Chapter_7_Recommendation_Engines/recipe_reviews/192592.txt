@@ -1,0 +1,37 @@
+Recipe number:
+192592.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-04-05T18:23:34.563
+helpfulCount:
+1
+userID:
+3667842
+Display Name:
+autumn_sparkle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/54.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice...light, fluffy and the real tang and sweet of berries. the whipped topping compliments it very well also.

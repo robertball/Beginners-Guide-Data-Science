@@ -1,0 +1,37 @@
+Recipe number:
+239130.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-13T23:23:19.49
+helpfulCount:
+1
+userID:
+4730964
+Display Name:
+funwitheva
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+409
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and nutritious! Five stars, it had everything you would want in a pudding.

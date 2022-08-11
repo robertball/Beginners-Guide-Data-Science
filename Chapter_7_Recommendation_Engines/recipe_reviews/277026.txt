@@ -1,0 +1,144 @@
+Recipe number:
+277026.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-10T00:27:44.89
+helpfulCount:
+3
+userID:
+24540829
+Display Name:
+Kathy Morrison
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5970619.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the directions and they came out delicious.
+So I will make them again for a different dessert for Thanksgiving.  Thank  you.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-30T04:17:18.68
+helpfulCount:
+1
+userID:
+26653986
+Display Name:
+Meredith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it as shown.  Everyone loved it
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-07T20:17:36.697
+helpfulCount:
+1
+userID:
+16507545
+Display Name:
+sheree
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not really a fan of Pecan Pie, but my son loves it so I was making these for him.
+Well, I made them and they were a hit! Even I liked them!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-17T08:07:02.5
+helpfulCount:
+0
+userID:
+11070309
+Display Name:
+Regina Marks
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4108109.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was easy to follow and it was a huge hit so my office potluck! I will definitely be adding this to my Favorites list!!!!!

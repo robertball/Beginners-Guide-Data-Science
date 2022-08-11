@@ -1,0 +1,37 @@
+Recipe number:
+254373.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-06-04T18:47:22.267
+helpfulCount:
+1
+userID:
+20218418
+Display Name:
+Al & Al
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+288
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an interesting salad - refreshing on a hot day. First, I must admit that I substituted toasted slivered almonds for the pinenuts. Otherwise, I made the recipe as written. This would make a better side dish than main dish (as we had it). We found the salad very acidic overall, so I may try reducing the vinegar next time.

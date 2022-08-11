@@ -1,0 +1,72 @@
+Recipe number:
+220788.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-17T18:15:30.473
+helpfulCount:
+1
+userID:
+3511648
+Display Name:
+Crystal Martin
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1694967.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is a hit with all. The only thing I did different is a processed the artichoke a little. My four year old loves it that way.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-24T19:07:40.65
+helpfulCount:
+0
+userID:
+13217874
+Display Name:
+kathy faber
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4412103.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used leftover appetizers from Thanksgiving  for Friday’s breakfast.   Served it to my brother and sister n law and it was wonderful!

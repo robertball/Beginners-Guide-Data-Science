@@ -1,0 +1,328 @@
+Recipe number:
+240426.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-18T17:26:22.56
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I went into this recipe knowing that I was going to make 2 changes. I had ground beef and so that is what I used and then I couldn't imagine veggie soup without potatoes so I diced up a couple and added them. An hour into cooking  I gave it a stir and just felt there was way too much broth compared to the amount of veggies. All I had in the pantry was a can of pinto beans so I drained them and threw them in there. This recipe is good but I honestly think it needs more veggies than it calls for. I suggest using at least 2 cans of green beans or maybe even adding a can of mixed veggies to the mix. 2 hours was also plenty of cook time for me.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-20T12:38:04.647
+helpfulCount:
+3
+userID:
+25084703
+Display Name:
+Dee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great! My first time ever making soup. Added potatoes and used frozen veggies and it was delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-20T02:45:34.947
+helpfulCount:
+2
+userID:
+4969339
+Display Name:
+candy
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+166
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/49.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I tweeked it a little, and put in Chicken Broth, instead of Beef, and some left over Sausage, and Spaghetti Noodles, broken up, and some seasonsings. Tastes yummy.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-28T18:28:26.603
+helpfulCount:
+1
+userID:
+6563052
+Display Name:
+Janet Sciacchetano Cammarata
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1888894.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it because I used this as a"sample" and created my own. Made a bunch of changes - I used:
+*32ox mirepoix mix-trader joes
+*2 C  prime rib meat - cooked and chopped
+*8 C beef stock
+*14oz diced tomatoes
+*2 C water
+*1 can corn, water included
+*2 bay leaves
+*1 strip kombu
+*2 C uncooked brown rice.
+
+Saute mirepoix mix. Add sirloin when almost done. Stir well. Add diced tomatoes, beef stock, water, corn, bay leaves, kombu.  Cook Med-low for 2-3 hours. Add rice. Simmer 45 minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-12T12:30:16.03
+helpfulCount:
+1
+userID:
+26361131
+Display Name:
+Riding with Larry
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7583574.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup  is excellent.  I worked with what I had on this winter day. I nudged the simple recipe  by using  two 12oz cans  V8 ,  two  bags  frozen mixed vegetables, and no tomato sauce or paste. Instead of fresh beef broth, I had about 3 cups of frozen beef broth leftover from a roast this summer; the frozen beef broth had diced tomatoes in it. For medicinal purposes, I added 1 teaspoon of celery salt.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-29T21:58:48.17
+helpfulCount:
+1
+userID:
+16652268
+Display Name:
+stephen smith
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Double portions added potatoes and carrots
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-18T18:34:08.1
+helpfulCount:
+1
+userID:
+15787254
+Display Name:
+Bonnie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great! I added Okra and diced Tomatoes.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-11T00:39:04.74
+helpfulCount:
+0
+userID:
+6507298
+Display Name:
+CindyGraham
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this into a Tomato Beef soup by adding sliced carrots in place of the green beans and corn, and replaced the can of tomato sauce with 2 cans of diced tomatoes.  Served with egg noodles and it tastes just like my Grandmother used to make!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-28T23:27:23.023
+helpfulCount:
+0
+userID:
+7628315
+Display Name:
+Jill
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tripled the vegetables and added carrots. Wonderful recipe.

@@ -1,0 +1,37 @@
+Recipe number:
+254739.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-12T00:10:16.47
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+402
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good!  I used only 1 Tsp almond extract instead of the 2 Tbs called for and it was perfect that way. 2 Tbs seems like too much and I didn't want that overwhelming almond extract taste. Will make again.

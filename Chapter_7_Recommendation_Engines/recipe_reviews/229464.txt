@@ -1,0 +1,72 @@
+Recipe number:
+229464.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-19T18:59:09.737
+helpfulCount:
+0
+userID:
+24804790
+Display Name:
+Patti
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sour cream and the lemon  did not make a muffin  I wanted to eat. However, warmed in microwave and topped with sweet butter, pretty good.
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-29T07:13:24.52
+helpfulCount:
+0
+userID:
+17145678
+Display Name:
+Amanda Toppa Bombardier
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3044629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came out great!!

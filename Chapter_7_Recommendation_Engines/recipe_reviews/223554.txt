@@ -1,0 +1,72 @@
+Recipe number:
+223554.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-10-23T07:15:29.08
+helpfulCount:
+8
+userID:
+3707019
+Display Name:
+Denise 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+130
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4550746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did make one change, I decided that I'd try doing this in a slow cooker for 4-6 hours & it turned out tasting awesome.  The only change I'd make, is to put the onions & garlic in with the rest of the ingredients not inside the hen.  I also served homemade garlic bread on the side.  Great addition.
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-02T10:22:01.38
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used red bell only because I didn't have green. I found one pepper to be plenty for both birds because they don't really adhere to the bird as it is. The flavor was great and they turned out super juicy and tender. The one part of the recipe that doesn't work as written is that there is no way you can fit an entire onion in the cavity of a cornish. They are just too small. That's a good thing though because less ingredients is better right? One onion is more than enough for both of the birds. I very much enjoyed to cilantro and Adobo combo and this is one I will make again.

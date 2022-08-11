@@ -1,0 +1,108 @@
+Recipe number:
+277407.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-30T01:36:32.997
+helpfulCount:
+1
+userID:
+26781053
+Display Name:
+Andrea Alora
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7667869.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this after Thanksgiving and am making it again tonight. I just used the stock I made from the turkey carcass and the leftover turkey off the bird. My very picky 8 yr old gobbled it right up. It's easy enough to make on a regular basis using chicken or just picking up turkey wings & drumsticks at the store.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-03T01:36:28.94
+helpfulCount:
+1
+userID:
+1375880
+Display Name:
+VogueSense
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4587500.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great way to use up turkey in a way that doesn't remind you of Thanksgiving. My husband doesn't like leftover turkey, says it has a taste, but he loved this dish.
+I just had one turkey leg and made half the recipe. I did have to add a lot more broth than expected, but I am pretty sure it's because my pot let out a lot of steam so the broth evaporated. I added more broth, used 1/2 cup rice, and it still worked out great. If you don't want to use the suggested topping, I sprinkled Parmesan cheese on my rice and it was a nice addition.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-01T00:19:48.253
+helpfulCount:
+1
+userID:
+26583202
+Display Name:
+Paul Comeau
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7381444.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+good use for turkey, would have preferred a weight for meat amount as legs and thighs vary

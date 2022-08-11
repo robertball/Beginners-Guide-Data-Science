@@ -1,0 +1,37 @@
+Recipe number:
+244733.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-27T21:36:56.183
+helpfulCount:
+0
+userID:
+2426382
+Display Name:
+mofun
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+127
+favoritesCount:
+230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummo! I added a little finely chopped celery.

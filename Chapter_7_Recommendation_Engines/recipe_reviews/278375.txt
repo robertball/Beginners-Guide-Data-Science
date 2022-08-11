@@ -1,0 +1,37 @@
+Recipe number:
+278375.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-10T15:57:16.973
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+540
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This reminded me of pound cake! Very dense and really good. The lemon zest was enough to bring the lemon flavor to this bread. Make sure you butter your pan really well. Mine cooked close to 60 minutes.

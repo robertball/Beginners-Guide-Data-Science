@@ -1,0 +1,110 @@
+Recipe number:
+256436.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-23T19:39:54.823
+helpfulCount:
+2
+userID:
+25747557
+Display Name:
+Christine Xu
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6765508.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’m an amateur baker so this recipe took me a little longer than most probably, but it was fun and fairly easy to make. Just a lot of whisking involved. The one problem I had with it was that even though I scored the dough all over, it still rose a bit and I don’t know why. I just cut the puff pastry in half lengthwise to try to fix the thickness which worked okay, but I’d still like to know why it rose and how I can prevent it next time. Still giving 5 stars bc mistakes were probably just made on my part.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-03T21:38:36.977
+helpfulCount:
+1
+userID:
+7653597
+Display Name:
+SimpleLiving
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6542234.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was great and explained perfectly!  I had no problems with mine.  I didn't have vanilla bean at home so I substituted it with 2 teaspoons of vanilla extract.  I also cut back the salt and used only 1/2 teaspoon.  Yummy!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-06T03:48:07.8
+helpfulCount:
+0
+userID:
+24185271
+Display Name:
+Sarah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried the receipe , it came out same as picture .It tasted great .I added some modification to reduce calories. 
+I added 1/4 cup of sugar instead of half to the vanilla custard filling.  I also,  substituted the white glaze with sugar free frosting ( available at Walmar) and the chocolate liners I used decorative gel  frosting pens which made it easy to adjust the brown lines.
+Overall , great receipe and directions 
+Thanks Chef!!!!!!

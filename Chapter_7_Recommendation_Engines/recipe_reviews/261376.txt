@@ -1,0 +1,37 @@
+Recipe number:
+261376.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-16T00:17:45.11
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good.When it was done it was a bit on the dry side so I stirred in some tomato sauce and baked it awhile longer. I like the concept and might play around with different seasonings.

@@ -1,0 +1,72 @@
+Recipe number:
+11643.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-02T13:41:02.74
+helpfulCount:
+1
+userID:
+1556952
+Display Name:
+Minnesota Mad Scientist
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-04T16:40:10.56
+helpfulCount:
+0
+userID:
+13610000
+Display Name:
+andersmb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+205
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is how Krumkake is supposed to be made. If you're leaving out the orange zest/rind or cardamom, you're doing it wrong. Both my Norwegian grandmothers make Krumkake with 2 different recipes and this one is by far the best.

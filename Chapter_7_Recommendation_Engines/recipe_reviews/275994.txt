@@ -1,0 +1,37 @@
+Recipe number:
+275994.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-19T04:22:12.853
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this and the sauce was SO great! Can't wait to make this one again for the next football party. It is sure to impress!

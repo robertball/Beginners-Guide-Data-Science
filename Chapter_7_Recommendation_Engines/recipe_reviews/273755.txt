@@ -1,0 +1,37 @@
+Recipe number:
+273755.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-29T21:32:23.517
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12441
+followingCount:
+0
+madeRecipesCount:
+432
+favoritesCount:
+914
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is similar  to a honey mustard chicken I have made in the past so I gave this a try. I used Boneless, skinless thighs  since it does not say what type to use. I used real maple syrup as well. The recipe was very easy to make and my husband did like the thighs (he rated this recipe a 4). The "sauce" did not thicken up during baking and was quite runny when added to the tops of the thighs.

@@ -1,0 +1,107 @@
+Recipe number:
+260467.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-20T19:02:24.96
+helpfulCount:
+1
+userID:
+24770917
+Display Name:
+kiki
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cute, and delicious
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-25T17:35:41.427
+helpfulCount:
+0
+userID:
+17476713
+Display Name:
+Nikita hahn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3237930.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+hey everyone try this recipe out
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-16T15:32:42.61
+helpfulCount:
+0
+userID:
+24554028
+Display Name:
+keelan clough
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7433625.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are super cute, and taste great! They can be a little bit hard to make though!

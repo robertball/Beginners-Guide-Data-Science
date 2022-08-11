@@ -1,0 +1,72 @@
+Recipe number:
+165711.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-26T02:59:09.48
+helpfulCount:
+0
+userID:
+20607698
+Display Name:
+Matt Swart
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4059223.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+no changes.  first batch did not have a deep enough jam well.  larger cookies are better
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-16T14:58:25.223
+helpfulCount:
+0
+userID:
+16035158
+Display Name:
+Abby Altshuler
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+447
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious.  Used 3 fruit jam and used Penzey's Baking Spice which has cinnamon in it, in addition to ground cloves and fresh ginger.  Like other refridgerated dough recipes this takes a while but makes a good number of cookies.

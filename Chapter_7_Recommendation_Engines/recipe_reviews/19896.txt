@@ -1,0 +1,183 @@
+Recipe number:
+19896.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-02-10T16:13:50.167
+helpfulCount:
+21
+userID:
+2150383
+Display Name:
+Encantasalsa4
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! My husband loved it!  If I could give it 4.5 stars I would (with the modifications below). The pastini (I used ditalini) suprisingly gave this custardy cake a unique texture, almost like there were tapioca balls in it. There was even a syrupy-like consistency on the bottom, making it extra tasty.
+
+Here are a few modifications I made:
+-Added 1 grated tangerine peel (about 1 tsp.)
+-Added 2 capfuls of whisky.  I'm sure any tasty alcohol would work - perhaps Bailey's or Grand Mariner.
+ As a previous reviewer noted, I reduced the baking time to about 1 hour and 40 minutes.  It came out just right. It may be a good idea to check in increments of 10-15 minutes after the hour mark - depending on your oven.
+  Thanks so much for this delightful recipe!  Great way to use up ricotta and very easy too!
+Review:
+Rating:
+4
+dateLastModified:
+2003-10-09T09:35:45.217
+helpfulCount:
+9
+userID:
+881383
+Display Name:
+pattykake10
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I THINK I BAKED IT LONGER THAN I SHOULD.  IT WAS A LITTLE HARD, BUT VERY TASTY. I WILL TRY AGAIN.  THANKS
+Review:
+Rating:
+5
+dateLastModified:
+2008-09-24T18:38:50.323
+helpfulCount:
+5
+userID:
+1550056
+Display Name:
+Toni
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+gREAT TOPPED WITH A LITTLE WHIP CREAM...KIDS THINK ITS AMCHEESECAKE...
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-14T10:09:22.503
+helpfulCount:
+0
+userID:
+8126557
+Display Name:
+Soapoperaaddict
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice texture, a little sweet for me,  I think you could cut back on the sugar and it would still be delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-04T19:13:05.333
+helpfulCount:
+0
+userID:
+14026891
+Display Name:
+Jimmy D'Amico
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1317780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great on its own, but mix in some chocolate chips and then weep tears of joy.

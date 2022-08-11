@@ -1,0 +1,37 @@
+Recipe number:
+235646.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-17T09:02:22.92
+helpfulCount:
+0
+userID:
+5881295
+Display Name:
+Cheryliscious!
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5875028.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Outstanding recipe! Everyone in my family loves it. You can already do no wrong with banana pudding, but this version is just over the top! I don't make the 'reg' banana pudding anymore…this is the staple!!

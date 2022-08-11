@@ -1,0 +1,37 @@
+Recipe number:
+256590.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-01T18:18:32.217
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There is a lot of prep work involved in this and it is rather pricey to make however the end result is great and worth it. I chose to leave my mushrooms and radishes whole. Partly for presentation but mostly because I was tired of chopping for so long. The oil needs doubled if you want the mixture to coat all of the veggies but other than this is perfect as written.

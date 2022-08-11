@@ -1,0 +1,74 @@
+Recipe number:
+231993.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-05-15T19:30:59.167
+helpfulCount:
+5
+userID:
+4743586
+Display Name:
+Jilly
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+575
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6092303.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this simple vinaigrette and followed the recipe to a "T" which is rare for me.  I had all the ingredients on hand, so it was quick and easy.  It's very light and doesn't have the usual vinegary tang... I love it both ways, but this was a refreshing change of pace.  It calls for a LOT of parsley, but I think that is what keeps it tasting lemony and light even with the sharper flavors of lime and capers... so don't be afraid of the parsley!
+I can see how it would taste wonderful with seafood as Tatiana suggested in her description.  I served it with a spinach and romaine salad, threw in some red onion, peeled/seeded/diced cucumber, both fresh and roasted red peppers, and a little parm.  Very fresh and light which complemented my other ingredients.
+For serving purposes, FYI... I used about 2/3 of a "bunch" of spinach and the same amount of a "head" of romaine along with the veggies listed above, and there was plenty of dressing.  I find that most salads taste best when they aren't drowning in dressing but gently tossed with a modest amount, and this is no exception.  This recipe actually yields enough for about 6 servings.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-05T13:48:06.63
+helpfulCount:
+1
+userID:
+10751642
+Display Name:
+Chef Darrell's Kitchen
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+103
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1358867.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor lacked a little so I added a little more lime and salt

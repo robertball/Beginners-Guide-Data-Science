@@ -1,0 +1,107 @@
+Recipe number:
+270688.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-08T13:20:17.457
+helpfulCount:
+0
+userID:
+3786810
+Display Name:
+Cathydee Reed
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+526
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6578346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the rainbow cake.  awesome... Then made just a white cake.. awesome.   Yesterday I made a plain yellow cake...awesome.  All are always so moist.    And  10 minutes out of the oven.... turn that pan "upside down"!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-18T16:22:35.043
+helpfulCount:
+0
+userID:
+25039679
+Display Name:
+Julie Briggs
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6327565.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as part of our St. Patrick’s Day celebration and it was a huge success! I did however change the order of colors to match the actual rainbow and I used white frosting, I will definitely be making it again, the kids loved it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-16T03:17:26.233
+helpfulCount:
+0
+userID:
+24902619
+Display Name:
+Sandie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's beautiful and delicious.

@@ -1,0 +1,37 @@
+Recipe number:
+276317.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-23T16:01:22.213
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2282
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've never made rice pudding before, and I have to say that I was a bit skeptical when I saw the amounts of liquid to rice in this recipe. I followed the recipe to a "T", and it turned out perfect . . . and it is delicious! Thanks for the recipe!

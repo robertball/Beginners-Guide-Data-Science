@@ -1,0 +1,109 @@
+Recipe number:
+269945.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-11T03:03:50.813
+helpfulCount:
+5
+userID:
+4639049
+Display Name:
+Karen E.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall this one is pretty good. We all liked the filling, and being in a pie crust was a good combination. The only drawback was putting it together. For this to work your pie crust needs to be flexible and not at all dry. It's a bit of a stretch to fit everything inside with the recommended dough amount, so really how much you like this recipe has a lot to do with how easy your crust is to work with. 
+
+I think it would be a little easier if the sausage was chopped instead of sliced. We also found it's a little easier to assemble if you first wet the edges of the dough circle, the put the cheese in, then the sausage mixture. Gently fold the dough over using a fork to push the filling away from the edges as needed. Brush with the egg mixture as soon as you've placed the pie on the baking sheet to keep the dough from drying out. Ours were less than stellar looking once we got then put together, but baked just great regardless. Took 17 min to bake.
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-29T01:00:36.51
+helpfulCount:
+1
+userID:
+4719571
+Display Name:
+TexAgg99
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it straight as the recipe said. I liked it a lot. Enough to eat. my kids and wife said it was Ok, not their fave. I too only got 10 instead of 12 and the crust was a bit finicky to keep from ripping as you can see in my picture. None the less they were flaky and tasty.
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-30T21:31:52.413
+helpfulCount:
+0
+userID:
+23579203
+Display Name:
+Karl O
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6478938.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really tasty!   I only got 10 pies out of mine instead of 12.   No complaints otherwise.  Was really good!

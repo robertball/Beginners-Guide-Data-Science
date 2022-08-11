@@ -1,0 +1,38 @@
+Recipe number:
+63459523.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-17T13:33:11.44
+helpfulCount:
+0
+userID:
+10452152
+Display Name:
+ChrissyintheKitchen
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1006210.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I changed this recipe a bit here's what I added or changed: 
+Rum 1/2 cup, chocolate chips 1/4 cup, dried cranberries 1/4 cup, 2 teaspoons of almond extract and only 1 teaspoon of vanilla, I toasted the cacao nibs a bit to take out the bitterness...  Oh I made it with 2 teaspoons of baking powder instead of 1 and I used 2 1/2 chia seed eggs.

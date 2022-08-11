@@ -1,0 +1,37 @@
+Recipe number:
+278071.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-01T20:58:41.167
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh my goodness is this good!!!! I made the recipe as is and wouldn’t change a thing! The center of my loaves fell a little but the taste more than makes up for the appearance. Thanks for a great recipe!

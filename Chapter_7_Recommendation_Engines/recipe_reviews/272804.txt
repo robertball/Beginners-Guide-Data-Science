@@ -1,0 +1,37 @@
+Recipe number:
+272804.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-19T17:44:44.023
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Doubled the sauce ingredients because we like our stir-fry saucy and it was the perfect amount. I think it needs it actually. Shrimp and snow peas is always a good combo but if I were to make this again I'd cook the shrimp first to get better color on them and then put them back in the mix at the very end. Overall a good recipe.

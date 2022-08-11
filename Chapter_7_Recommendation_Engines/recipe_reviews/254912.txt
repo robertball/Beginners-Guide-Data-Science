@@ -1,0 +1,72 @@
+Recipe number:
+254912.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-13T19:12:13.667
+helpfulCount:
+2
+userID:
+20524082
+Display Name:
+jenn wittman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this icing going to use it again this Tuesday night for my husband birthday cake it was a hit at my daughter’s baby shower
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-12T15:17:03.217
+helpfulCount:
+1
+userID:
+17386270
+Display Name:
+Melissa Wells
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+758
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When I first cut into the cake I thought that it looked soggy because of the pears but it turned out that although it was quite moist it did still have a firm spring to it. This is the perfect recipe for using up all the canned pears I have in storage and the cinnamon flavored icing was the perfect combination for this cake. The cake itself is not terribly sweet but the icing makes up for it.

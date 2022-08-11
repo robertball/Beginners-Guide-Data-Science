@@ -1,0 +1,144 @@
+Recipe number:
+219678.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-09T23:19:39.38
+helpfulCount:
+2
+userID:
+4003330
+Display Name:
+isababe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious!  Made it for the first time for company and it got rave reviews!  Used nectarines 'cause the store was out of peaches (go figure!) - they did not brown (which I was concerned about cutting them up in the morning and serving for dinner.
+Only thing I changed was that I used vegetable oil - didn't have canola, and used a little more pasta then what is called for...I blame my addiction to carbs! ha!
+Delicious and different!
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-02T11:20:07.88
+helpfulCount:
+1
+userID:
+18119602
+Display Name:
+Tami English
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3626861.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is amazing!  Really worth getting out the blender and making the dressing.  I didn't have the bacon, but used cooked chicken in its place.  Wow!!!  They should bottle this dressing--I'd eat it everyday!  :)
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-19T21:55:30.64
+helpfulCount:
+0
+userID:
+16324370
+Display Name:
+Laura.J
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3326829.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband doesn't usually like fruit a non-fruit salad, but he ended up taking a third helping of this salad. The dressing was super amazing. The curry powder adds a nice accent to the basil. I used fresh basil, and only added peas for the veggie. My kids mostly yucked it, but i think that's just them. I plan on making it again and maybe their taste buds will be grown up by then.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-29T17:11:53.287
+helpfulCount:
+0
+userID:
+17750895
+Display Name:
+Jennifer Klein Bathke
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I turned this recipe into a potato salad by using steam-cooked, orange-fleshed sweet potatoes in place of the pasta. I also added a cup of peas. The dressing is fragrant & delicious. It makes for an extremely pretty, colourful, veggie-packed and absolutely delicious salad. Thanks for sharing this keeper of a recipe.

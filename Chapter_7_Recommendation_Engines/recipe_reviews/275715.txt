@@ -1,0 +1,37 @@
+Recipe number:
+275715.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-16T12:43:52.987
+helpfulCount:
+0
+userID:
+26381468
+Display Name:
+Shirley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+instead of the butter chicken sauze i had added butter chicken masala powder with cooking sauze and 1 ozue of tomato pasta, along with white raisins

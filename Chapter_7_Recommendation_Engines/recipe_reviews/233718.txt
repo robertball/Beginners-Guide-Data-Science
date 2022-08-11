@@ -1,0 +1,72 @@
+Recipe number:
+233718.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-08-05T04:14:24.95
+helpfulCount:
+2
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1661
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Whipped Cream flavored vodka and skipped the simple syrup. Very good cocktail--all the components work together perfectly.
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-01T19:42:01.41
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a really good drink for Sunday brunches.  It is excellent!  You could use any flavor of vodka in my opinion, and it would work well with the Frangelico and cream.  Well done, brujah42!

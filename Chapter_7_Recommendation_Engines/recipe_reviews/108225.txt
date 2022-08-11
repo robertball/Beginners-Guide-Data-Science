@@ -1,0 +1,72 @@
+Recipe number:
+108225.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-03-23T17:07:07.917
+helpfulCount:
+4
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+253
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1065
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not bad. I thought the over all flavor was lacking something but I'm not quite sure what (sesame oil maybe?). I wasn't overly keen on the pine nuts and celery. This was ok for a change but isn't something I'd make again. Thanks anyway!
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-21T20:42:27.627
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except I left out the pine nuts due to personal preference and added chopped water chestnuts instead. I too felt the recipe as written lacked something so after tasting it I added some sesame oil and Sriracha which bumped the flavor up a notch. Good base recipe just needs some amping up,

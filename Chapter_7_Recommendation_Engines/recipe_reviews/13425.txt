@@ -1,0 +1,37 @@
+Recipe number:
+13425.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-09-18T08:43:20.95
+helpfulCount:
+12
+userID:
+692625
+Display Name:
+#3RULES
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is sooo yummy!! However I did down-size it a bit! Even the kids loved it! Thanks Holly.

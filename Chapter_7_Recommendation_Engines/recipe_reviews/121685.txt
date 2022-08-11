@@ -1,0 +1,557 @@
+Recipe number:
+121685.txt
+Review:
+Rating:
+5
+dateLastModified:
+04/07/2007
+helpfulCount:
+8
+userID:
+1717371
+Display Name:
+annie9
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe is awesome. The burgers had just the right amount of spice (I did use italian bread crumbs)and they were very moist. My whole family raved!
+Review:
+Rating:
+4
+dateLastModified:
+04/23/2009
+helpfulCount:
+7
+userID:
+3544118
+Display Name:
+Meat Legs
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/731238.jpg
+text:
+These were even better the next day reheated!
+Review:
+Rating:
+5
+dateLastModified:
+04/23/2009
+helpfulCount:
+6
+userID:
+1555467
+Display Name:
+Tracy
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/751686.jpg
+text:
+This is the best homemade burger I have ever tasted. I cannot wait until I can make it on the grill this summer!
+Review:
+Rating:
+4
+dateLastModified:
+12/21/2008
+helpfulCount:
+6
+userID:
+2432861
+Display Name:
+kac2research
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Simple, Good, and Juicy. Three words that best describe these burgers. Using the cream cheese definitely added to the moisture and flavor. Thanks.
+Review:
+Rating:
+3
+dateLastModified:
+05/14/2009
+helpfulCount:
+4
+userID:
+3365497
+Display Name:
+Vee
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/621345.jpg
+text:
+this was a good hearty burger. we all enjoyed them for something different,but i thought the pork flavor dominated and took away from some really good flavor possibilties here. thanks for the treat.
+Review:
+Rating:
+5
+dateLastModified:
+10/17/2007
+helpfulCount:
+3
+userID:
+1161184
+Display Name:
+MONKSRJ
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Yum! I didn't make any changes and they turned out wonderful and full of flavor. Will definitely make again!
+Review:
+Rating:
+1
+dateLastModified:
+06/14/2011
+helpfulCount:
+3
+userID:
+1107685
+Display Name:
+RINKYMADINK
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I did not care for this recipe.
+Review:
+Rating:
+5
+dateLastModified:
+06/27/2007
+helpfulCount:
+3
+userID:
+953764
+Display Name:
+GRANNYLOOHOO
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5382431.jpg
+text:
+Mom used to make hamburger patties with egg in them, and this recipe took me back to my childhood. I followed the recipe exactly except I used all ground beef. Instead of grilling, we broiled ours just like Mom used to, and we ate them without the bun. Very delicious and a definite keeper!
+Review:
+Rating:
+3
+dateLastModified:
+07/28/2011
+helpfulCount:
+3
+userID:
+7336770
+Display Name:
+Shelton Pounce
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was pretty good. I used spicy Italian sausage. They were better than a typical plain burger, but I prefer some other recipes instead. My wife felt they were too "sausagey". The cream cheese was a nice addition though.
+Review:
+Rating:
+4
+dateLastModified:
+11/22/2010
+helpfulCount:
+3
+userID:
+speltrong
+Display Name:
+SPELTRONG
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/511612.jpg
+text:
+The taste was great, but I felt like it could have used more bread crumbs to hold the mixture together better. Still, we'll make these again.
+Review:
+Rating:
+3
+dateLastModified:
+07/26/2007
+helpfulCount:
+3
+userID:
+663246
+Display Name:
+DARCYMAE
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+good. but nothing to write home about.
+Review:
+Rating:
+5
+dateLastModified:
+08/02/2010
+helpfulCount:
+3
+userID:
+4751389
+Display Name:
+Hungry Joe
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I use all the ingredients as listed, but I substitute the pork sausage with sage flavored pork sausage.
+Review:
+Rating:
+5
+dateLastModified:
+07/15/2010
+helpfulCount:
+3
+userID:
+868346
+Display Name:
+NASCAR24FAN
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/25040.jpg
+text:
+YUMMY! I love the cream cheese, gives it a nice "change"!
+Review:
+Rating:
+4
+dateLastModified:
+05/21/2011
+helpfulCount:
+3
+userID:
+3654104
+Display Name:
+m00jessm00
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These were just ok, more of a meatloaf than a burger. I would give them only three stars but my husband loved them so I will switch it to four.
+Review:
+Rating:
+5
+dateLastModified:
+05/20/2009
+helpfulCount:
+3
+userID:
+2672556
+Display Name:
+Shawn Flinn
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/156683.jpg
+text:
+they really are the best burgers!
+Review:
+Rating:
+3
+dateLastModified:
+03/01/2008
+helpfulCount:
+3
+userID:
+390516
+Display Name:
+michelle
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+They were ok, nothing to write home about.
+Review:
+Rating:
+5
+dateLastModified:
+04/28/2009
+helpfulCount:
+2
+userID:
+2448396
+Display Name:
+figgy
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1886564.jpg
+text:
+My whole family liked these burgers and that's what counts when it comes to cooking for my bunch of picky eaters. I did use all ground beef in place of half pork sausage because it's what I had. They were very tasty and juicy anyway though. Thanks for a great recipe. (Also my grill ran out of gas when they were only half done, so I had to finish them in the broiler. Still great though. No problems with them sticking to either the grill or broiler pan.)
+Review:
+Rating:
+5
+dateLastModified:
+06/03/2009
+helpfulCount:
+2
+userID:
+3770424
+Display Name:
+Rhonda Gilmore
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5438291.jpg
+text:
+My husband really enjoyed this burger! I actually used hot sausage. With the cream cheese on the grill, it was great!
+Review:
+Rating:
+3
+dateLastModified:
+11/03/2008
+helpfulCount:
+2
+userID:
+871279
+Display Name:
+LA ESPOSA
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My family did not care for this recipe, and asked me to make PLAIN hamburgers from now on.  I decided to give this recipe a try because I was looking for a way to use up a pound of sausage in my freezer.  The burgers were very greasy and less flavorful than I had imagined they would be.  I won't make these again.
+Review:
+Rating:
+5
+dateLastModified:
+05/27/2008
+helpfulCount:
+2
+userID:
+1427652
+Display Name:
+FRANKIETRIP
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/172136.jpg
+text:
+These are the best burgers I've ever had!!!!!
+Review:
+Rating:
+3
+dateLastModified:
+12/05/2007
+helpfulCount:
+2
+userID:
+2044397
+Display Name:
+SophiaV
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was ok, I guess how good can you make a burger? I don't think I will make this again, too much work for the mediocre taste. Sorry:(
+Review:
+Rating:
+5
+dateLastModified:
+07/02/2008
+helpfulCount:
+2
+userID:
+1980893
+Display Name:
+Cris
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These were really great tasting burgers.  Cooked through but still juicy.  Used all ground beef - and only a pound of it without changing the amount of the other ingredients.  Might be why we thought they were so tasty - not so much meat overpowering all the other ingredients.  A keeper!
+Review:
+Rating:
+5
+dateLastModified:
+08/03/2008
+helpfulCount:
+2
+userID:
+341902
+Display Name:
+DRAGONSHEART64
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Always out to impress my father-in-law when he visits, I tried these for dinner one night.  I was a bit nervous, because my husband HATES cream cheese.  I didn't have any sausage on hand, so I used 2 lbs ground beef and I was very careful to fully incorporate the cream cheese.  They were a HUGE hit with everyone.  They are indeed a very moist burger which is often hard to come by on the grill.  I will make these often.
+Review:
+Rating:
+5
+dateLastModified:
+08/01/2007
+helpfulCount:
+2
+userID:
+christi
+Display Name:
+Christi
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/878767.jpg
+text:
+OH MY WORD, was this good!  Sounded funny to us at first, but it was the VERY best burger we ever have had.
+Review:
+Rating:
+5
+dateLastModified:
+10/22/2008
+helpfulCount:
+1
+userID:
+2269873
+Display Name:
+aok mom
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Yummm!! I think my husband used the word phenomenal to describe these burgers. Gotta love that! They are so juicy and flavorful...they will for sure become a family favorite! Thanks so much for the recipe!
+Review:
+Rating:
+4
+dateLastModified:
+04/13/2009
+helpfulCount:
+1
+userID:
+2486478
+Display Name:
+Super99
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Pretty good flavor.  Definitely better than a plain meat burger.  Tho, still not "amazing."  Try it!
+Review:
+Rating:
+4
+dateLastModified:
+04/13/2009
+helpfulCount:
+1
+userID:
+sunnyb
+Display Name:
+SunnyByrd
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/258648.jpg
+text:
+Good! I followed the recipe exactly. These burgers are very messy on the grill and would probably have a tendency to stick if you aren't careful. I cooked them on a Foreman grill, so sticking wasn't so much of an issue - but cleaning was. Still, the burgers were tasty and juicy. Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+09/14/2008
+helpfulCount:
+1
+userID:
+2185322
+Display Name:
+Candice
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I loved these burgers.  I made them because I was in the mood for a sausage burger and this recipe made great sausage burgers. I did not use the cream cheese because my son has a milk allergy and they were perfectly moist and full of flavor. I will make these again. Thanks for a great, simple recipe!
+Review:
+Rating:
+4
+dateLastModified:
+07/24/2012
+helpfulCount:
+0
+userID:
+3475455
+Display Name:
+Claire Gallagher
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4799668.jpg
+text:
+Tasted great, but gave 4 stars because I didnt care for the consistency. Followed recipe, but burgers were very loose, some even fell completely apart.
+Review:
+Rating:
+3
+dateLastModified:
+05/20/2008
+helpfulCount:
+0
+userID:
+1884413
+Display Name:
+ehjudah
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/60630.jpg
+text:
+This was fairly simple to make and tasted pretty good but didnt wow me. I've had better home made burgers. I also don't think the cream cheese was neccesary.
+Review:
+Rating:
+5
+dateLastModified:
+10/01/2007
+helpfulCount:
+0
+userID:
+1052965
+Display Name:
+BREN1226
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/68932.jpg
+text:
+This recipe was awesome.  Got raves from everyone who tried one!  I did add a slice of american cheese on top about 2 minutes before removing from the grill.  We will use this one again!!
+Review:
+Rating:
+5
+dateLastModified:
+09/29/2014
+helpfulCount:
+0
+userID:
+7266951
+Display Name:
+Greg Ruhe
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4400297.jpg
+text:
+I have to follow instructions to the letter, I am not creative at all when it comes to cooking. These are the BOMB!!!!! The cream cheese makes it retain all of the moisture. I forgot how long it says to cook, but may take a little extra than a NORMAL burger with the pork sausage.
+Review:
+Rating:
+5
+dateLastModified:
+05/26/2007
+helpfulCount:
+0
+userID:
+2321258
+Display Name:
+Michelle Rhodes
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3138339.jpg
+text:
+Yummy good!!!!
+Review:
+Rating:
+5
+dateLastModified:
+11/03/2019
+helpfulCount:
+0
+userID:
+7626703
+Display Name:
+Betty Thompson Randolph
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4359399.jpg
+text:
+Very moist and tasty! I only used 1 pound hamburger. The only thing I changed was diminished to 1/4 cup breadcrumbs 1 tbsp. Onion flakes instead of fresh and added 1/2 tsp. Garlic powder. Grilled and topped with cheddar cheese. Thanks for sharing will make again.
+Review:
+Rating:
+5
+dateLastModified:
+06/25/2007
+helpfulCount:
+0
+userID:
+193228
+Display Name:
+MISTICAT57
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These were really good!  Everyone loved them!
+Review:
+Rating:
+5
+dateLastModified:
+06/06/2007
+helpfulCount:
+0
+userID:
+2002353
+Display Name:
+Dawn
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/236290.jpg
+text:
+Very tasty burgers.  Will definitely make these again.
+Review:
+Rating:
+4
+dateLastModified:
+03/19/2008
+helpfulCount:
+0
+userID:
+2863451
+Display Name:
+lovestocook
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These were very yummy! They are a little gooey to mix, but after they are grilled, they are very filling and super good! I will make them again..maybe use a little more onion.

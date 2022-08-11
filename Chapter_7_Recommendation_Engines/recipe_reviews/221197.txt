@@ -1,0 +1,37 @@
+Recipe number:
+221197.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-10-07T07:28:25.843
+helpfulCount:
+0
+userID:
+5239742
+Display Name:
+mgale
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i used artichoke hearts instead of zuchini, it was divine

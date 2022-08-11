@@ -1,0 +1,107 @@
+Recipe number:
+258126.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-22T20:06:10.653
+helpfulCount:
+1
+userID:
+4466573
+Display Name:
+gita
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+143
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these crackers with spelt flour and they turned out really well. I made them with my pasta maker instead of rolling them out, which I found faster and less messy. I  brushed the tops with olive oil then sprinkled on some onion powder and sesame seeds. I didn't bother cutting them into cracker size servings, but left them as long lasagna type lengths to be broken to size as they were eaten. They disappeared in a flash!!
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-27T17:43:37.257
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These crackers are very bland, perfect if you are looking for a base for a flavorful topping.  However, it’s very easy to add additional flavors, as I added minced fresh rosemary to half the batch.  I docked the crackers just as a precaution of them puffing up.  Also, I made the crackers very thin and they didn’t need more than 10 minutes of baking, so I recommend checking them often when baking.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-30T15:46:34.693
+helpfulCount:
+0
+userID:
+2175240
+Display Name:
+debbie eckstein
+isPro:
+False
+followersCount:
+168
+followingCount:
+0
+madeRecipesCount:
+158
+favoritesCount:
+1117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4505093.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i'm rating this a four star even though i tossed them. it's my fault and can't blame the recipe. i feel it has potential, as i have made similar crackers and they were great. i  forgot to add the olive oil, so these crackers were dry and very very brittle. Crack your teeth brittle. i will certainly try them again with ALL of the ingredients and update  my rating.

@@ -1,0 +1,37 @@
+Recipe number:
+240588.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-27T16:40:01.48
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and these were good. My corn tortilla's were not extremely fresh so they did split on me when I started rolling but they sure tasted good. I ended up having to bake them a little longer than the recipe  called for but no biggie. I anticipated my cheese clumping  but it did not and I was very impressed with how well it melted. Flour tortilla's would also work in this recipe if you prefer them over corn.

@@ -1,0 +1,72 @@
+Recipe number:
+219550.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-10-18T11:07:37.997
+helpfulCount:
+1
+userID:
+4015203
+Display Name:
+Amy Blackmore
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1899249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I actually make a version of this using Hawaiian Bread or rolls, and Havarti cheese, ham and pineapple. It's assembled, buttered and grilled in a skillet so that the cheese melts. Wonderful
+Review:
+Rating:
+4
+dateLastModified:
+2012-03-07T11:19:35.717
+helpfulCount:
+1
+userID:
+8947242
+Display Name:
+CindyGirl1957
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+EXCELLENT sandwich!  I admit I only used a 'generic' whole wheat bread, and provolone cheese slices.  Really goooood!

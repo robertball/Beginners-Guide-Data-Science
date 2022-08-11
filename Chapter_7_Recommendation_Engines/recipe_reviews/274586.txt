@@ -1,0 +1,107 @@
+Recipe number:
+274586.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-02T01:09:39.467
+helpfulCount:
+1
+userID:
+5118896
+Display Name:
+fabeverydayblog
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+468
+favoritesCount:
+305
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! The whole family loved it. I cut the recipe in half and it was still more than enough for our family of 4.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-09T16:24:42.57
+helpfulCount:
+0
+userID:
+26998884
+Display Name:
+Jay Trefethen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7707153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with chipotles barbecue sauce and loved it.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-25T11:40:45.36
+helpfulCount:
+0
+userID:
+26585311
+Display Name:
+Kimberly Lucero
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7383244.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everybody loved it

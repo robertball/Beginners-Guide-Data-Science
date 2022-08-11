@@ -1,0 +1,37 @@
+Recipe number:
+237211.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-20T17:57:11.757
+helpfulCount:
+2
+userID:
+5932869
+Display Name:
+Mary Ellen Stepanian
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+342
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5325812.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Put oatmeal and flax seed in blender since I planned to use it as an instant cereal.  Left out dried fruit. .Added dried fruit or banana with each serving. Used 1/2 cup of mixture with about 7/8 cup milk in microwave for 90 seconds.  Very thick.  Texture similar to malt o meal. Tastes great with stevia added.  Needs more cinnamon.

@@ -1,0 +1,37 @@
+Recipe number:
+267558.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-24T20:48:25.07
+helpfulCount:
+1
+userID:
+21338673
+Display Name:
+Lisa Marxer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a lot of ingredients and trouble to put it all together.  But is was really tasty.  I made enough for four servings and stretched it over several mornings before work.  Even left over, it was still wonderful.

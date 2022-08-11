@@ -1,0 +1,107 @@
+Recipe number:
+238675.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-29T11:18:23.353
+helpfulCount:
+4
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty! This would also be a great topper for burgers or steak sandwiches. I used light mayo. I would make this again! Thanks for sharing. :)
+Review:
+Rating:
+3
+dateLastModified:
+2015-11-09T20:12:04.717
+helpfulCount:
+1
+userID:
+12372992
+Display Name:
+Sandy Fields
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+618
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1822345.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this per recipe but found it a bit too oily so I tweaked it using homemade ricotta cheese instead of mayonnaise. You could also use cottage cheese that has been pureed or mashed up a bit though to save a bit of money and time. Then I made a roast beef Panini sandwich with red onions, provolone cheese, and fresh basil leaves. Yummy!
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-02T23:27:24.13
+helpfulCount:
+0
+userID:
+15230014
+Display Name:
+Sunny Jenson
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think it would be better with cheese.

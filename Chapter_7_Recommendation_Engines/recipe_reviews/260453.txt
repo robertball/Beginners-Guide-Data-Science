@@ -1,0 +1,37 @@
+Recipe number:
+260453.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-19T18:36:51.577
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5861
+followingCount:
+0
+madeRecipesCount:
+2946
+favoritesCount:
+6096
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.19.18  I had a grilled marinated chicken breast left over from last night’s dinner, so this worked out perfectly for a delicious lunch today.  I didn’t add the olive oil, opting instead for a couple sprays of the olive oil in my mister.  Also, I just layered the sliced chicken on top of the salad greens, and drizzled the balsamic reduction over the top.  In the future, I’ll add some sliced black or kalamata olives to the salad for not only additional taste, but a little pop of additional color.  Thanks for sharing your recipe.

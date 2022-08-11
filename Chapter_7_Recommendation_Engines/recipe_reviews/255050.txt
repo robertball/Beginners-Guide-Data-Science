@@ -1,0 +1,107 @@
+Recipe number:
+255050.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-03T03:56:04.85
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful... make them!.. I was running low on flour so I added some chopped walnuts..  Very  easy to make.  They went over really well  in church. I like that they arent overly sweet... if you wanted them sweeter a glaze would work great. but it is not needed
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-23T04:31:03.117
+helpfulCount:
+0
+userID:
+10681304
+Display Name:
+Frittsy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+350
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7020732.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is like a cross between a short bread and a lemon cookie. Love the flavor! But the polenta was just a bit grainy. It almost makes me wonder if I should’ve cooked it before I put it in but I know that wouldn’t be right.  Wondering if anyone else thought the same thing.   I guess it is kind of “cracker or biscuity”.  Makes me want to search for a lemon shortbread cookie.   I think I might like that better.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-13T01:44:12.513
+helpfulCount:
+0
+userID:
+23104477
+Display Name:
+Mary Zink
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+208
+favoritesCount:
+1375
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4939587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+crisp and a distinct lemon and butter flavor.  3/4 inch may be too thick.  I put all the zest (from one lemon) in the dough.  Baked 18 minutes.

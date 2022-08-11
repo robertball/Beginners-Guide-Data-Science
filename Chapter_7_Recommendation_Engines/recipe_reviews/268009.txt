@@ -1,0 +1,37 @@
+Recipe number:
+268009.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-23T18:10:04.443
+helpfulCount:
+1
+userID:
+13338026
+Display Name:
+Donna Young Ramirez
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe, loved by all.

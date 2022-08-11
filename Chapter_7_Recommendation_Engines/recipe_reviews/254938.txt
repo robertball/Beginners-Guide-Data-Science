@@ -1,0 +1,37 @@
+Recipe number:
+254938.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-05T04:25:03.953
+helpfulCount:
+0
+userID:
+5335481
+Display Name:
+Sharon Jeter
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3115900.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used small yukon gold unpeeled potatoes, that I did cut into small pieces, not to small just halved or quartered depending on the potato size.  I liked it before I added the cream, and even after but next time I make it I may just serve it with the clearer broth.

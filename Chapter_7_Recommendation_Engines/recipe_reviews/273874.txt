@@ -1,0 +1,37 @@
+Recipe number:
+273874.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-18T01:57:39.843
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and I am giving this 5 stars. I didn't particularly love it for a couple of reasons. #1 it was too bell pepper forward to me. #2 I didn't care for the smoke taste in my salsa. My husband on the hand absolutely loved this and talked about it for days. It gets better as it sits by the way. I personally would have preferred less bell pepper and more tomato however hubs said this is perfect as is so 5 stars it is.

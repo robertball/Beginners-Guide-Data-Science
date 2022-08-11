@@ -1,0 +1,38 @@
+Recipe number:
+9141.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-12-24T12:59:36.857
+helpfulCount:
+25
+userID:
+761691
+Display Name:
+TRENT_753
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'd just like to say that this is a fabulous recipe, a grand experience in the tradition of Merry ol' England. The stuffing alone is phenomenal! The bird, stuffing and gravy together...WOW!
+Highly recommended! Thanks, Christine L.!

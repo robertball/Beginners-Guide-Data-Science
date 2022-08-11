@@ -1,0 +1,37 @@
+Recipe number:
+255941.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-16T19:20:48.513
+helpfulCount:
+5
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1031
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really enjoyed these!  I served with both cranberry sauce and gravy for dipping.  You could easily play around with the ratio of potato to stuffing.  I dolloped the potato mixture onto a parchment-lined baking sheet and froze so that it was easier to work with.  Then I coated the frozen balls in egg wash before rolling in panko.  I fried some of them right away and returned the rest to the baking sheet to freeze.  After they froze completely I transferred to a freezer bag to cook later.

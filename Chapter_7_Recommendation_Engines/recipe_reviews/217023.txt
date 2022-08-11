@@ -1,0 +1,107 @@
+Recipe number:
+217023.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-16T06:37:22.71
+helpfulCount:
+37
+userID:
+4275077
+Display Name:
+Rhonda Feuer
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2556467.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious ! I make it every year for a Passover brisket. I cook it the day before I'm going to serve it and then I slice the meat and let it sit overnight(in the refrigerator) in the juice to make it more flavorful. Then reheat.
+Review:
+Rating:
+4
+dateLastModified:
+2011-04-23T03:29:12.79
+helpfulCount:
+18
+userID:
+3901885
+Display Name:
+peculiarmike
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/628088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Make sure you use a brisket FLAT, not the point (lotta fat). To serve cut it across the grain of the meat, not with it, so it will be tender.
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-04T18:57:34.63
+helpfulCount:
+0
+userID:
+23510334
+Display Name:
+shelly A.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was fantastic. my daughter was skeptical but even she changed her mind as soon as she taeted it. sh took it to her church luncheon and there was absolutely nothing left to bring home.

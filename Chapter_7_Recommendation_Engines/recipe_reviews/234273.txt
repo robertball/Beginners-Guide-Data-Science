@@ -1,0 +1,179 @@
+Recipe number:
+234273.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-03T03:45:18.637
+helpfulCount:
+1
+userID:
+3875213
+Display Name:
+Peggy
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+367
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2945207.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was made as written with the only exception that I added a tsp of garlic powder, three tbsps of celery and onion to the stuffing.  The stuffing I used was Pepperidge Farm Sage and Onion Stuffing.  Absolutely fantastic and is now a member within  the family rotation of meals.  Thanks.
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-02T10:10:55.797
+helpfulCount:
+0
+userID:
+8425689
+Display Name:
+Mary Ann Boguslaw
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7738312.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you're looking for a quick meal, this is it.  Fast and easy.  It does remind you of Thanksgiving.   I did sprinkle some garlic powder on top before cooking as it needed a little something.  These were very good, and I'll make them again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-11T16:57:14.89
+helpfulCount:
+0
+userID:
+13134241
+Display Name:
+Erica V.
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1573966.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made these multiple times before I ever found the recipe on this site & they are amazing! They are super easy and quick to make. You can also switch or up and add instant potatoes vs stuff on the turkey roll up!
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-27T01:31:12.867
+helpfulCount:
+0
+userID:
+3041866
+Display Name:
+Frugal Chef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1760.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my go to fix for Thanksgiving during the rest of the year!
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-30T18:10:24.16
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12227
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy Peasy!  
+Pick the Stove Top Stuffing you like, roll them up - nuke and dinner is on the table. 
+I served with cranberry sauce, carrots and some leftover potatoes.

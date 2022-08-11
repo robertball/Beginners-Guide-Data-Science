@@ -1,0 +1,72 @@
+Recipe number:
+229859.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-16T00:49:46.013
+helpfulCount:
+4
+userID:
+10291613
+Display Name:
+Mama Mia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+WOW this one hurt when we ate it.
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-28T07:24:55.317
+helpfulCount:
+1
+userID:
+13080018
+Display Name:
+Specialsheryl18@gmail.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+789
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic..... I want more of this guys recipes!!!!!

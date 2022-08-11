@@ -1,0 +1,107 @@
+Recipe number:
+256614.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-03T23:34:36.19
+helpfulCount:
+0
+userID:
+24183928
+Display Name:
+JiffyDiane
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6685454.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh my word yum these were so good
+Review:
+Rating:
+2
+dateLastModified:
+2018-09-27T21:53:32.36
+helpfulCount:
+0
+userID:
+13009185
+Display Name:
+ KathyKY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed this recipe exactly and found the dough was too wet when I transferred it to the floured board. I did not want to add too much more flour - afraid it would make it very dry. Instead of individual scones, l baked this as a 6 inch round on the cookie sheet. I baked it for 15 -20 minutes at the suggested temperature. It is edible with a good flavor but not what I set out to make. I kept returning to the recipe to see if I missed something but I did not . I would suggest trying less cream -5TB in dough seems too much"Maybe try a different recipe!
+Review:
+Rating:
+3
+dateLastModified:
+2017-02-08T06:36:41.34
+helpfulCount:
+0
+userID:
+16534603
+Display Name:
+Srinivas G
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+200
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3774070.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made Whole-Grain Blueberry Lemon Scones , It was very tasty. I like this recipe.

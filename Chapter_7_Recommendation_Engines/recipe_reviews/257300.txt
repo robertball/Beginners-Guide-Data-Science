@@ -1,0 +1,37 @@
+Recipe number:
+257300.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-11T22:39:47.307
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+541
+favoritesCount:
+702
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great flavors!

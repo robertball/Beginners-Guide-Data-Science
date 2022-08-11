@@ -1,0 +1,72 @@
+Recipe number:
+254748.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-16T04:03:21.117
+helpfulCount:
+0
+userID:
+14227379
+Display Name:
+Kory Kneeland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1421640.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was a great sweet & savory just as promised. I made it for my wife, who loves vodka Martinis, and she was very impressed. Tasty and creative...
+Review:
+Rating:
+3
+dateLastModified:
+2016-08-25T20:07:39.4
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6898
+followingCount:
+0
+madeRecipesCount:
+2653
+favoritesCount:
+3308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This wasn't the prettiest cocktail (which is fine), but it tasted ok for us. We don't own martini glasses, so I just used a regular glass. I also floated some sliced strawberries in there just for fun. Maybe we are just not martini people? This was fun to try for something different, though. Thanks for sharing. :)

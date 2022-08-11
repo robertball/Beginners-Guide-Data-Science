@@ -1,0 +1,108 @@
+Recipe number:
+268419.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-15T21:06:17.257
+helpfulCount:
+0
+userID:
+25799339
+Display Name:
+Christine Ramsay
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6801341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did a 1/4 tsp crushed chilli flakes in the turkey because my family doesn’t like too much spice.  It was very good and I will make it again!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-28T00:03:59.347
+helpfulCount:
+0
+userID:
+13867746
+Display Name:
+Kat Lenski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6778792.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would never have guessed this had squash in it! It added a sweet touch that perfectly melded with the tangy sauce. I was also surprised to discover that the turkey tasted just as good as beef.  Healthy *and* delicious. A perfect combo!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-27T16:26:42.07
+helpfulCount:
+0
+userID:
+25764635
+Display Name:
+Staci Sylvia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6777490.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a refreshing change from regular everyday lasagna. There was a natural sweetness that just elevated all the flavors. 
+This will be my new everyday go to lasagna.

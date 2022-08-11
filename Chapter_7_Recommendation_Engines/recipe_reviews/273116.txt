@@ -1,0 +1,37 @@
+Recipe number:
+273116.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-13T18:12:12.593
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1344
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Worked perfectly--nicely cooked and fluffly. The only issue I had is that mine stuck just slightly to the pan, but I think that's because I didn't release the pressure right away; mine sat for about 2 minutes before I could get to it. Make sure to release the pressure right away.

@@ -1,0 +1,109 @@
+Recipe number:
+230126.txt
+Review:
+Rating:
+1
+dateLastModified:
+2013-08-12T16:55:03.297
+helpfulCount:
+9
+userID:
+1483545
+Display Name:
+jojoshops
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am sorry, I hate to be rude.  But this was disgusting.  Don't waste your ingredients, even if they are only leftovers.
+Review:
+Rating:
+2
+dateLastModified:
+2018-11-16T15:30:05.41
+helpfulCount:
+1
+userID:
+24554028
+Display Name:
+keelan clough
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7798479.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Do not waste your time on this. They tasted terrible. The frosting tasted alright though. ??
+Review:
+Rating:
+4
+dateLastModified:
+2012-11-25T10:03:58.337
+helpfulCount:
+1
+userID:
+10385367
+Display Name:
+Gingersnap
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a recipe for leftover turkey and when I read this one, I must admit I was very skeptical.  I just had to try it. The frosting is tricky. I used much less gravy than the original to make it look more like a fluffy frosting rather than a glaze.  It was good.  I gave one cupcake to my dog, minus the frosting.  She loved it.
+I will definitely make more of these for my granddogs and my pup.
+I am serving them to my hubby, along with other snacks, a veggie tray and dip while we watch the Browns/Steelers game today!

@@ -1,0 +1,72 @@
+Recipe number:
+57091.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-27T06:42:39.91
+helpfulCount:
+8
+userID:
+2363309
+Display Name:
+Lisa Mayer Kaelblein
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+376
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7458689.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the recipe I've also had and it is so easy. The results are great.  I've filled mine with nutella, honey cinnamon & walnuts, apricot preserves. That is 3 separate batches not all on one!  Get creative, but keep the filling thin or it will ooze and stick.   Glad I have an easy place to find this now, instead of digging through my index card recipes!
+Review:
+Rating:
+4
+dateLastModified:
+2009-12-22T10:44:04.87
+helpfulCount:
+6
+userID:
+2481800
+Display Name:
+Basil
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Enjoyed this recipe. The dough, though insanely sitcky so use flour on all surfaces, was gorgeous. It was so silky and smooth. I think the filling overpowered the dough a little, but still delicious.     Might try it again with a lighter preserve like an orange or lemon. I also wonder if the dough could be used for savory recipes since it contains no sugar? Might have to experiment with that.     Also: Would be fun to make with kids if you dont mind washing sticky fingers afterward. The construction part is like making little pizzas. Very enjoyable.

@@ -1,0 +1,37 @@
+Recipe number:
+232206.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-24T04:20:48.667
+helpfulCount:
+0
+userID:
+6252810
+Display Name:
+Cats
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite yummy.  I did sub in chickpeas instead of limas, and red onion instead of green as that's what I had on hand.  Next time, I'd make it with a little more salt, and only 1/2 the sugar, as I'm not a fan of sweet salads.

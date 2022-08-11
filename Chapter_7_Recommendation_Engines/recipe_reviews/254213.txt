@@ -1,0 +1,107 @@
+Recipe number:
+254213.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-21T13:19:37.05
+helpfulCount:
+1
+userID:
+22605808
+Display Name:
+Tony D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used green onions instead of spinach (none on hand) and added some bacon fat in place of oil,  was great and easy
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-13T01:38:43.873
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Holy smokes this is good!!! I knew reading the ingredients that I would like this, but I was blown away by the flavor once I got to dig in! The chick peas are not something I had ever put into a frittata, but they totally make this dish. I halved the recipe because I'm cooking for just one, and I did add salt and pepper to the sauteed veggies and the egg mixture. Otherwise, everything else was kept the same. Once cooked, I added the crushed red peppers on top, along with a bit more shredded cheese.  A nice heat and not overly spicy at all. This is a very impressive dish, one that i'd definitely make for company.
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-09T22:56:19.257
+helpfulCount:
+0
+userID:
+4745280
+Display Name:
+BRG
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+841
+favoritesCount:
+1546
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added dried herbs, more crushed red pepper, and garnished with fresh herbs. It was a nice, light dinner served with fresh bread.

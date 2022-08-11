@@ -1,0 +1,107 @@
+Recipe number:
+244452.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-15T14:43:27.05
+helpfulCount:
+0
+userID:
+15718135
+Display Name:
+Debbi Brandau
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+356
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5398724.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome kabobs!
+Review:
+Rating:
+3
+dateLastModified:
+2016-08-03T21:43:42.833
+helpfulCount:
+0
+userID:
+9257041
+Display Name:
+fibber
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Meat was done using timing in recipe.  Vegetables were not heated through completely
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-20T17:42:04.13
+helpfulCount:
+0
+userID:
+14078864
+Display Name:
+Mina Y
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+152
+favoritesCount:
+180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1346072.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an excellent recipe!  We made it exactly as written, with the exception of marinating the meat overnight (as opposed to just a few hours).  The kabobs were demolished within minutes, and that is amazing because there were so many other alternatives available.  We will definitely make this again!

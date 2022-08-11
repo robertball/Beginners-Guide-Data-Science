@@ -1,0 +1,37 @@
+Recipe number:
+270681.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-05T16:40:05.543
+helpfulCount:
+0
+userID:
+3271992
+Display Name:
+Patti Ann Scott Miller
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2557054.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used vegetarian chicken with the sauce, and it was terrific!

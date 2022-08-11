@@ -1,0 +1,107 @@
+Recipe number:
+233256.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-11-02T13:37:13.653
+helpfulCount:
+6
+userID:
+6145350
+Display Name:
+Molly
+isPro:
+False
+followersCount:
+687
+followingCount:
+0
+madeRecipesCount:
+1465
+favoritesCount:
+4451
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2426420.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe for the 'Faceless Frenzy - November 2013'.  I only made up 6 eggs as I did not want leftovers.  This is a good deviled egg, nothing at all what we are used to.  The hot sauce does add the zip as referred to in the title "Zippy Deviled Eggs".  They went well with our dinner of 'Slow Cooker Philly Steak Sandwich Meat', another AR recipe.  Thanks simone stevin for sharing your recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-25T10:49:14.783
+helpfulCount:
+1
+userID:
+16876032
+Display Name:
+Julia A. Bishop
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used Louisiana Hot Sauce and then topped w/ paprika and fresh parsley. Perfect for Christmas!
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-06T00:13:15.003
+helpfulCount:
+0
+userID:
+14246458
+Display Name:
+Nikki Princess Williams
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1431430.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not the best but pretty goo d but got sick of eating it about 3 is all o could handle

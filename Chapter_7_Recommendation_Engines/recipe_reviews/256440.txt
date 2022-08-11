@@ -1,0 +1,37 @@
+Recipe number:
+256440.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-10T09:08:57.68
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+1829
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A terrific breakfast. I used spinach instead of kale. I also used roasted nut milk and added some almond pulp. Thank you for the recipe.

@@ -1,0 +1,37 @@
+Recipe number:
+242016.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-15T10:10:46.617
+helpfulCount:
+1
+userID:
+2129429
+Display Name:
+*Sherri*
+isPro:
+False
+followersCount:
+745
+followingCount:
+0
+madeRecipesCount:
+739
+favoritesCount:
+1715
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2306154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great before a workout smoothie, light and refreshing with just the right natural sweetness and tartness from fresh fruit. You don't taste the green tea at all, but benefit from the extra boost of energy and not to mention health benefits green tea has. If you are looking for a filling breakfast smoothie to hold you over until lunch, I'd toss in a banana or handful of oatmeal. If you like sweet smoothies add some honey or agave nectar. I did hold off adding the whole cup of tea, and liked the consistency of the smoothie at a little less than 3/4 cup. I'm not sure why it is called crunchy, unless you add ice, mine was pretty smooth.

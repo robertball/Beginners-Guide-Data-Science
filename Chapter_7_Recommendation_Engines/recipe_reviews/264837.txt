@@ -1,0 +1,37 @@
+Recipe number:
+264837.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-04T15:53:31.57
+helpfulCount:
+0
+userID:
+7118695
+Display Name:
+Amy Wright Jones
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5213264.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added 2 individual drink packets (taste with 1 packet, may be tangy enough for your taste) of Hawaiian Punch Booberry Typhoon to the marshmallow creme mixture, along with some blue gel food color.  This was a kid favorite & I loved the sweet, tangy taste & the fresh fruit took it over the top - yum!

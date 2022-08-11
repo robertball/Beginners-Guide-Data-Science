@@ -1,0 +1,72 @@
+Recipe number:
+260033.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-22T18:52:58.21
+helpfulCount:
+0
+userID:
+862361
+Display Name:
+NURSJP
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+95
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6416209.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not too sweet and not too bland.   Texture is great too!  Will make again!
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-22T18:59:20.44
+helpfulCount:
+0
+userID:
+5354471
+Display Name:
+Becky Lips
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2685570.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Um... YUM!!! Thank you for this recipe! I took a chance even without any reviews yet and I'm glad I did!  I've been following another recipe that called for less bananas and was much more dense and kind of dry. This is my new go-to!! I followed it exactly except added a little shaved dark chocolate. I don't even know if that did much though. The muffins are delicious. My kids, husband and I love them.

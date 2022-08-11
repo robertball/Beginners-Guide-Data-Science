@@ -1,0 +1,72 @@
+Recipe number:
+238063.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-11T23:56:41.393
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2832
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this bbq sauce. I liked the fact that there is no added sugar and that it is gluten free.  I used homemade ketchup to "keep it real". I needed a bbq sauce for baking bacon wrapped tofu and thought the "Asian" twist would be perfect, I was right! It went so well with the tofu and it was wonderful on the bacon. Thanks to you, Sara for this keeper recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-29T13:16:50.07
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5755
+followingCount:
+0
+madeRecipesCount:
+2830
+favoritesCount:
+6011
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We thought this was pretty good, served it over grilled sirloin patties.  Little bit of an Asian twist to it with the tamari.

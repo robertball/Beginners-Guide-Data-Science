@@ -1,0 +1,37 @@
+Recipe number:
+262230.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-18T21:28:49.58
+helpfulCount:
+0
+userID:
+3213124
+Display Name:
+Twila Schamer
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4375713.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very good, fast and really easy especially when you use ready to cook butternut squash from Trader Joe's.

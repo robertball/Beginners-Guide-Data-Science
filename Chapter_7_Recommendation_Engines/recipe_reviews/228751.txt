@@ -1,0 +1,72 @@
+Recipe number:
+228751.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-09-06T11:41:56.547
+helpfulCount:
+7
+userID:
+3306498
+Display Name:
+Lorna Dimitrakopoulos
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+928
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4754340.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband is from the Peloponesian region of Greece we liked the addition of the mozzerella cheese, but the sauce is missing approx ( to taste ) 8 whole cloves and a bayleaf....the only way my husband will eat it.
+Review:
+Rating:
+4
+dateLastModified:
+2012-09-04T06:42:54.99
+helpfulCount:
+1
+userID:
+3549535
+Display Name:
+Lilcat
+isPro:
+False
+followersCount:
+42
+followingCount:
+0
+madeRecipesCount:
+224
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2091921.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am so sorry to be the first reviewer and not leave a rave review for this recipe.  I do love Greek food and this was OK.  Not spicy, almost bland.  I found it interesting but it is too much cheese for me.  Not sure how I could change it to something I would like better.  Sorry.

@@ -1,0 +1,37 @@
+Recipe number:
+236259.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-02-18T15:47:40.653
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6899
+followingCount:
+0
+madeRecipesCount:
+2653
+favoritesCount:
+3308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just ok for us. I did like the curry mayo. I was glad to have the chance to try it though, so Thanks for sharing. :)

@@ -1,0 +1,107 @@
+Recipe number:
+228785.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-04T09:32:14.533
+helpfulCount:
+7
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+One of the most.......interesting fudge recipes I've ever tried. I used pecans instead of walnuts only because we do not like walnuts. I seriously had my doubts but it turned out very well. I don't know that we loved it, but it was a new fudge recipe that was fun to make and we had a good time trying it out. We all agreed that next time, we'd try this again with different cookie crumbs. Maybe Oreos.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-11T14:42:51.07
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+544
+favoritesCount:
+704
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to put the chocolate back on the stove once adding the sour cream. I did use pecans, because I had them on hand. I found this to be a great recipe. Really easy and others loved it when I shared. The sugar wafers make the fudge different than others I have tried. It's a keeper for our house!
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-24T12:31:16.523
+helpfulCount:
+0
+userID:
+3072885
+Display Name:
+Mary Donahue
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+882
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5778169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy.   Was very good.   Would make again.   Wasn't a pretty product but hey!

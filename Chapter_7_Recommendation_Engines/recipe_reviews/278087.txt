@@ -1,0 +1,72 @@
+Recipe number:
+278087.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-04T18:04:49.623
+helpfulCount:
+0
+userID:
+8294395
+Display Name:
+maccook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+166
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Can/do you put the parchment paper in the air fryer?
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-01T23:04:54.933
+helpfulCount:
+0
+userID:
+18050426
+Display Name:
+Annamarie Varanese
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6155108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So fast and easy in the air fryer! Instead of Remoulade sauce I used Yum-Yum sauce.

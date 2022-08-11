@@ -1,0 +1,72 @@
+Recipe number:
+14060.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-02-11T22:23:22.767
+helpfulCount:
+1
+userID:
+2424204
+Display Name:
+Mary A.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+216
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this recipe.  Haven't charred peppers before.  I cheated a little by adding cilantro and jalapeno to a canned salsa.  My guest had 3 helpings!  The chips were very tasty.  The poblanos added just a little heat, and flavor.
+Review:
+Rating:
+3
+dateLastModified:
+2000-12-18T11:00:43.123
+helpfulCount:
+1
+userID:
+229130
+Display Name:
+GLASERJD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The salsa is too oniony, I recommend using a VERY small onion.

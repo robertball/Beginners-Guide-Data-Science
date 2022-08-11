@@ -1,0 +1,72 @@
+Recipe number:
+213685.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-04T21:05:50.497
+helpfulCount:
+13
+userID:
+4675425
+Display Name:
+Bean cookers
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/385182.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this cake was very good I used all purpus flour inplace of the matzo cake meal and it came out fine. I also made a glaze by mixing 3 cups powdered sugar, 1/3 cup pink lemon-ade, and 1/2 teaspoon lemon extract. everyone at our passover dinner loved it!
+Review:
+Rating:
+2
+dateLastModified:
+2010-11-13T21:13:03.05
+helpfulCount:
+10
+userID:
+5778053
+Display Name:
+courtmcd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried to make this cake for a presentation on Passover and i gotta admit, I did not love it.  I tried to add the pink lemonade glaze and it made the cake too moist and the flavor just seemed to clash.  I think I would have liked it more with just whipped cream and some sort of fruit topping.

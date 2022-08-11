@@ -1,0 +1,107 @@
+Recipe number:
+259273.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-01T05:13:35.097
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for myself when recovering from the flu.  I liked it quite a bit.  I had to use condensed tomato soup, which I added water to instead of ready to serve soup... too contagious to go to grocery store.  Would be good with meat added too
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-28T19:41:55.963
+helpfulCount:
+0
+userID:
+21333918
+Display Name:
+Lady Lisa
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5666487.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Such an awesome tasting soup! First minestrone soup I’ve ever made and I’m normally making soups alone but I convinced my husband we can do this for supper! We had 5 hours before supper LOL .
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-07T01:27:46.577
+helpfulCount:
+0
+userID:
+24189091
+Display Name:
+Jo Ann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it but did not add the pasta feeling that it was too much carbs. I am a diabetic and didn't want all the starch. But it was delicious on its own.

@@ -1,0 +1,107 @@
+Recipe number:
+234301.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-13T18:08:18.37
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+519
+favoritesCount:
+2121
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick and tasty! No sugar needed, especially if you're using a very ripe cantaloupe. I used non-fat milk, but this would be good with almond, soy or cashew milk too. This recipe made 24oz of "juice". Yum!
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-27T03:49:12.593
+helpfulCount:
+0
+userID:
+24120247
+Display Name:
+Garrett Yahzee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5675418.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I used a super ripe cantaloupe, vanilla soy milk, poured over ice and yumm so tasty.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-25T18:00:41.8
+helpfulCount:
+0
+userID:
+20346393
+Display Name:
+Laura byrne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4153083.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good-once I added a few changes! It needs more than just a little bit of sugar, so one or two extra tablespoons of honey or agave bring out the sweetness of the cantaloupe.

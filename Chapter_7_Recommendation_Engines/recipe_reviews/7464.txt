@@ -1,0 +1,37 @@
+Recipe number:
+7464.txt
+Review:
+Rating:
+1
+dateLastModified:
+2004-11-21T15:29:14.373
+helpfulCount:
+8
+userID:
+1257384
+Display Name:
+MISSGINGERBREAD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+definitely better to make gingerbread in a oven, the old-fashioned way.

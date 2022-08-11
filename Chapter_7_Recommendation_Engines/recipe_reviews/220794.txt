@@ -1,0 +1,107 @@
+Recipe number:
+220794.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-04-30T07:44:32.28
+helpfulCount:
+5
+userID:
+9222749
+Display Name:
+Catherine22499
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This meal was surprisingly tasty.  I was pretty sure I would like it because of the chicken, prosciutto, and seasonings, but I had my doubts about the mango and coconut.  The coconut surprisingly complimented the meats and was pretty tasty.  However, the mango in the middle was a little too sweet for me.  I think that when I fried the rolls, the sweet flavor from the coconut dripped into the center and the mango absorbed it.   Overall, I think it tasted good, but the center was a little too sweet.  Also, my family loved it.  My dad went on and on about how delicious it was.  He loved it so much that he decided he would clean up.  However, this meal was very time-consuming.  It took at least 45 minutes sitting in the refrigerator and another 20 minutes to fry the rolls.  On top of that, I had to bake it for another 20 minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2015-09-15T16:53:50.82
+helpfulCount:
+0
+userID:
+4839571
+Display Name:
+Viviana Kabbabe-Thompson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3155220.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed it exactly except I couldn't find unsweetened coconut shavings so I did sweetened and the mangos weren't really ripe. I guess it still all balanced out
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-13T13:24:41.067
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite yummy. I tried to cut these into the bites, but even after chilling they fell apart so I created this whole. I baked this and it was delish. I do think the mango was a tad sweet for I added some spicy salt to this.. perfect

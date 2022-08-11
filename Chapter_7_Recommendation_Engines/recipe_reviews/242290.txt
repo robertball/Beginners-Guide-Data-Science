@@ -1,0 +1,72 @@
+Recipe number:
+242290.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-17T19:51:38.6
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a gluten free flour mix (Brown Rice Flour Blend from Amy C on AR) cup for cup and buckwheat flour for oat flour. The cookies came out a bit fluffy but very tasty. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-10T21:07:08.483
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty cookies.   The oat flour adds a different taste to the cookie and the ginger a bit of a bite. I dont know if kids would like these as much as adults as the ginger is rather strong and its not a sweet cookie.... went over great with the adults at church

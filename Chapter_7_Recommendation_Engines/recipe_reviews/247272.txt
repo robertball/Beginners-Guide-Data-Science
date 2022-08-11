@@ -1,0 +1,37 @@
+Recipe number:
+247272.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-27T07:57:26.107
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Whatever is ailing you, this smoothie will fix it. It doesn't matter what hurts, this is your cure. I used habanero powder instead of seasoning mix and used Tabasco® Chipotle sauce. I also had to use Angostura® bitters instead of Worcestershire sauce (I'm allergic to fish). I made one with an immersion blender and liked it. I ran another batch through my juicer and preferred it. If you use your juicer, put the pulp into a pot of homemade beans, you will be so, so happy. Thank you very much for this recipe!

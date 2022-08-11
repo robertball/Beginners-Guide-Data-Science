@@ -1,0 +1,37 @@
+Recipe number:
+256540.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-15T21:03:13.36
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6889
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice! I did not have a red pepper on hand, so I just omitted that. I liked the flavors here, and I really enjoy anything w/ sumac. I will be making this again! Thanks for sharing. :)

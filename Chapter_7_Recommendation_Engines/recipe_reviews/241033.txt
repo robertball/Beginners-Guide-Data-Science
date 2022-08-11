@@ -1,0 +1,72 @@
+Recipe number:
+241033.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-07T17:26:11.943
+helpfulCount:
+1
+userID:
+3445677
+Display Name:
+Doc Simonson
+isPro:
+False
+followersCount:
+75
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+611
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2662639.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good. As promised, the steak turned out juicy and slightly sweet, but the vinegar gave it a nice counter point. I cut back on the hot sauce because my wife can detect a single peppercorn waved over a vat of food. I wish I hadn't. A teaspoon of Sriracha wasn't even detectable. Go for the full tablespoon. A teaspoon of red pepper flakes might have been good too. I tried reducing the marinade to use it for a finishing sauce, but the vinegar really comes through. I had to be very sparing with it, but it was still tasty.
+Review:
+Rating:
+3
+dateLastModified:
+2016-04-11T13:55:42.32
+helpfulCount:
+0
+userID:
+11736072
+Display Name:
+ssarsfield
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+379
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too sweet for us.

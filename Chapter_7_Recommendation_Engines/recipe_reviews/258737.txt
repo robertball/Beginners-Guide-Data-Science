@@ -1,0 +1,37 @@
+Recipe number:
+258737.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-03T17:06:16.203
+helpfulCount:
+0
+userID:
+21963257
+Display Name:
+Amanda Dimock
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My nine year old daughter made these. She is very pleased with the results. She left out the raspberries. They set up perfectly, and are just sweet enough.

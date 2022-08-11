@@ -1,0 +1,107 @@
+Recipe number:
+277306.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-03-05T18:22:52.293
+helpfulCount:
+0
+userID:
+1080418
+Display Name:
+Katherine Rochester
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+507
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4287948.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This had a really nice flavour, but boy, it was hot! (And we generally like spice.) I would add less sriracha sauce to start.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-26T01:28:02.323
+helpfulCount:
+0
+userID:
+4854220
+Display Name:
+Brianna Dickel
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1529456.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!! Loved the consistency and different layers of flavor: sweet, spicy, warm, and savory. We will definitely be making this again!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-10T13:43:40.143
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+194
+followingCount:
+0
+madeRecipesCount:
+544
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was 5 stars! It has some heat, so be careful if you are sensitive. I followed it as written and I found it to be a very simple recipe to make! Thank you Nan!

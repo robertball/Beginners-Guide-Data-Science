@@ -1,0 +1,37 @@
+Recipe number:
+12611.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-17T11:57:34.33
+helpfulCount:
+1
+userID:
+22958482
+Display Name:
+lablue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I believe this is the same recipe my mom had gotten from my grandmother. It was my dad's favorite pie, and mine too.  My mom would only make it for my birthday.  Thanks for sharing.

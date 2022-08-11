@@ -1,0 +1,72 @@
+Recipe number:
+6935.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-10-26T13:54:59.163
+helpfulCount:
+5
+userID:
+4083290
+Display Name:
+Susan Claire
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5806897.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a pretty tea bread for the Christmas holidays.  I made this as written with one exception-I left the raisins out, seemed like overkill to me.  This is a colorful, moist loaf, perfect for gift-giving.  My only question is: why call it Cherry SPICE Loaf?  Not a lick of spice in this recipe!
+Review:
+Rating:
+3
+dateLastModified:
+2014-12-29T07:48:59.247
+helpfulCount:
+2
+userID:
+183275
+Display Name:
+Jamie S
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+964
+favoritesCount:
+1787
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/684394.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Would add spices next time. Cinnamon and Nutmeg.

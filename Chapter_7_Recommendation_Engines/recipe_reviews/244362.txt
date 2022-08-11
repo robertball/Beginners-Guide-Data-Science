@@ -1,0 +1,37 @@
+Recipe number:
+244362.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-13T15:03:33.087
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+222
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love that this has no added sugar. The banana is all it needs to sweeten it, and the cocoa powder gives it a nice flavor. I used a spoon full of  natural peanut butter instead of powder, and I used almond milk.

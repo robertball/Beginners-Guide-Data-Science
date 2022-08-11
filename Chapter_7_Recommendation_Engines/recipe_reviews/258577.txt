@@ -1,0 +1,72 @@
+Recipe number:
+258577.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-23T00:12:30.897
+helpfulCount:
+0
+userID:
+25367983
+Display Name:
+Andrea Phillips
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6497087.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I prepared the recipe in half because I only had one pack of tofu to work with.  (I used the full amount of garlic... I love garlic.)  I cooked in toasted sesame oil rather than olive oil.  It was superb.  This will be a “go to” recipe for me.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-14T18:12:04.063
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an easy and tasty method to make tofu. It was delicious served with some sautéed greens but I imagine it would be good in a Buddha bowl. Thank you for the recipe.

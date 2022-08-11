@@ -1,0 +1,72 @@
+Recipe number:
+254298.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-17T08:28:35.69
+helpfulCount:
+1
+userID:
+19975663
+Display Name:
+Awittie Rombo
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used chocolate frosting to cover and give a bit of sweetness.  I'm not good at frosting so my stuff looks funny, but tastes yummy ??
+Review:
+Rating:
+3
+dateLastModified:
+2017-06-03T21:05:36.823
+helpfulCount:
+0
+userID:
+21308126
+Display Name:
+Michaela Robbins
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very, very messy! Be careful as in the microwave it might soon spill over. We had a low-watt microwave, yet it still went over! It's easy to make the batter/frosting, though, and it tastes very good. You just have to forget what it  looks like coming out of the microwave. Don't make it if you want your food looking absolutely perfect!

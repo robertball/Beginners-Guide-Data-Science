@@ -1,0 +1,37 @@
+Recipe number:
+245445.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-06T23:38:50.84
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this as an injection marinade and it turned out good. I think it could use a little more seasoning such as paprika, parsley, chili powder, etc. but overall a good base and one that is easily adapted to whatever flavor you are going for.

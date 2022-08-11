@@ -1,0 +1,72 @@
+Recipe number:
+245714.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-06T21:42:26.13
+helpfulCount:
+1
+userID:
+10819660
+Display Name:
+Major Jack
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4518333.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good. We like cooking for adventure.  I made my own dough seasoned with garlic and rosemary.  I grilled white potatoes using water as advised when grilling in the bacon grease to crisp up and with maple smoked bacon . Very caloric! But everyone liked it after convincing them to try it! ;)  I posted a photo in the photo section but the app should allow this.
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-15T15:54:11.537
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I did not use the recipe for the dough, b/c I made my own, but I followed the recipe for the sauce and ingredients. No red potatoes in the house, so I used regular ones, which worked fine. We really enjoyed the flavors of this pizza and I will definitely be making it again~YUM!!!! Thanks for sharing. :)

@@ -1,0 +1,37 @@
+Recipe number:
+255308.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-28T23:23:20.897
+helpfulCount:
+0
+userID:
+20242181
+Display Name:
+jan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a really good recipe, I added 1/4 c sugar as the peaches were tart. It's a little more like cake instead of cobbler but really tasty.

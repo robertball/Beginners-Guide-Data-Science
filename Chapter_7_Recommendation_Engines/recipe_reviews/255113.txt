@@ -1,0 +1,37 @@
+Recipe number:
+255113.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-09-05T03:21:45.937
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2294
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and even though I love a Chicago dog and all the ingredients that go in it, I didn't love this. I'm not sure it all goes with salmon as much as it seemed like it would. I'm thinking beef or chicken would have been a better vessel? I don't know? Salmon is hard to flavor for me though so maybe this did work better than I thought it did and you might really like it. I love the mustard/salmon flavor combo but the mustard got lost in this. Double it up and give this one a try but don't forget the celery seed because it played an important role and was probably my favorite part in the end.

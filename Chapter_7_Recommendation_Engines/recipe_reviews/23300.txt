@@ -1,0 +1,72 @@
+Recipe number:
+23300.txt
+Review:
+Rating:
+1
+dateLastModified:
+2004-07-12T04:44:50.71
+helpfulCount:
+27
+userID:
+1136986
+Display Name:
+ZEENA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe contains way too much salt for a baby and the sugar is not necessary. Eliminate the salt by using just water as the cooking liquor.  Adding sugar to baby food encourages a sweet tooth, so why not add more carrots or sweet potato if your baby regularly refuses veggies.
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-14T16:15:40.5
+helpfulCount:
+0
+userID:
+630835
+Display Name:
+Rebekah Rose Hills
+isPro:
+False
+followersCount:
+213
+followingCount:
+0
+madeRecipesCount:
+383
+favoritesCount:
+4579
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3790245.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tweaked this one for my 15 month old based on how I prefer to feed her and which vegetables I had available. I used a very large sweet potato (left skin on for extra nutrients), one peeled regular potato, one peeled carrot, 1/2 cup frozen green beans, 1/2 cup frozen corn and veggie broth. I simmered the potatoes and carrot in the broth, then threw everything including the broth, into my Vitamix and whirled until the veggies incorporated, but left a few chunks. I skipped the sugar and salt but will possibly add a little of one or both based on her reaction when she tastes. Great blend of veggies (I thought it tasted great)!

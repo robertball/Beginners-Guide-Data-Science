@@ -1,0 +1,38 @@
+Recipe number:
+176413.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-12-07T04:28:03.453
+helpfulCount:
+2
+userID:
+2403502
+Display Name:
+Michelle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/936974.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This bread is delicious!!  The butter is just the icing on the cake--so to speak. 
+I might adjust the bake time for a few minutes more but otherwise, taste can't beat.

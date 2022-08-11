@@ -1,0 +1,37 @@
+Recipe number:
+268580.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-17T17:29:24.51
+helpfulCount:
+0
+userID:
+24518379
+Display Name:
+Robert Cooter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5954673.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made this twice and it's very tasty. I did not locate the overn temp to use, so went with 350 degrees and it worked fine. Might want to use slightly less sweetener...

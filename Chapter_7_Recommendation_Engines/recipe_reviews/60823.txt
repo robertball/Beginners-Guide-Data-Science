@@ -1,0 +1,37 @@
+Recipe number:
+60823.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-12T21:05:36.273
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow, this is strong! 4 fluid oz per servings, more than what's in a Long Island Ice Tea. Recipe should call for .5 oz of each liquor. Making it a total of 2 oz alcohol per serving/drink. Other than it being so strong, the flavor was good.

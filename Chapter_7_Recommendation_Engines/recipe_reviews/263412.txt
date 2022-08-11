@@ -1,0 +1,37 @@
+Recipe number:
+263412.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-19T01:05:45.393
+helpfulCount:
+0
+userID:
+8848405
+Display Name:
+MDTKane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/804423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow, great recipe! This was a big hit with the family and I will definitely make it again. I cheated and used some packaged shrimp scampi that I cooked and mixed in with the risotto - It was great!

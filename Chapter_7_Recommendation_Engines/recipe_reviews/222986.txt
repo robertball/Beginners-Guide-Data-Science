@@ -1,0 +1,185 @@
+Recipe number:
+222986.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-06-09T17:32:19.86
+helpfulCount:
+1
+userID:
+1715132
+Display Name:
+tanyaj122
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+198
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good, hubby and kids liked it.  I feel like it is missing something, I will have to play with it to figure out what it is.  But a good pasta nonetheless especially when you dont have any tomatoes.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-09T00:49:45.67
+helpfulCount:
+0
+userID:
+12479123
+Display Name:
+weckst
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+One of the best things I ever ate -- so tasty, having pasta for breakfast is the best idea!
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-01T19:01:08.327
+helpfulCount:
+0
+userID:
+5213335
+Display Name:
+tomboy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+110
+favoritesCount:
+333
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4574537.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made enough changes that this review might not count, but the directions for which ingredients to add when were  super helpful.
+Changes:
+Left out the bacon
+Added mushrooms and tomato at the same time as the garlic and green onion
+Add tablespoon of butter right before adding the pasta (just didn't seem like there was enough lube)
+Added salt, pepper and cayenne to the whisked eggs
+
+Next time:
+Cilantro would be quite tasty
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-16T10:43:29.43
+helpfulCount:
+0
+userID:
+469094
+Display Name:
+CHEMNTEACH
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/173646.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I read the comments so added a little cayenne and it was tasty. Also used turkey sausage and no bacon. Thanks for the recipe!
+Review:
+Rating:
+3
+dateLastModified:
+2014-05-06T16:54:16.533
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made half a recipe of this dish, but I used spaghetti rather than the fresh linguini.  I think that made a difference in this recipe because with dried pasta it was dry.  The only other thing I did differently was to use dried parsley rather than fresh.  The flavors in this were really good, but I think that I will have to add some kind of liquid to make this good for my family.  I will try it again using the correct pasta because it is worth the flavors!  Thank you, richlor!

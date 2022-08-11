@@ -1,0 +1,107 @@
+Recipe number:
+262177.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-11T21:34:49.84
+helpfulCount:
+5
+userID:
+2289323
+Display Name:
+Diana Moutsopoulos
+isPro:
+False
+followersCount:
+281
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+357
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/166994.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are my go-to pancakes that I always make for my family, I love them! Spelt results in a fluffier texture than whole wheat flour, yet is still whole grain, and I love that. I often add different fruits, nuts and spices to the mix. A favorite is fig, walnut, and cinnamon. Try these, you won't be disappointed!
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-17T06:18:10.093
+helpfulCount:
+0
+userID:
+24440981
+Display Name:
+Suchita Poojary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5900484.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They were the best pancakes I ever made. Love the recipes. I topped mine with honey and a bit of butter, and it just enhanced it's taste further more.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-25T14:13:30.57
+helpfulCount:
+0
+userID:
+13051663
+Display Name:
+monithetart
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+312
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6571391.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very similar to the Fluffy Pancakes recipe in AR, and as I only buy spelt flour, I’ve made this recipe several times. It’s excellent. I would put out a request to anyone who knows how to make this substituting goat milk for cow. I’ve tried a few times to curdle it with vinegar, but, alas, no joy! I use Meyenberg goat milk, the only one o can find here.

@@ -1,0 +1,37 @@
+Recipe number:
+268492.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-26T19:25:24.303
+helpfulCount:
+0
+userID:
+24381173
+Display Name:
+NLT22
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best stuffed jalapeños ever. I microwave peppers briefly after cutting and cleaning to tenderize. Cooking in greased cast iron corn stick pan helps keep cheese inside pepper.

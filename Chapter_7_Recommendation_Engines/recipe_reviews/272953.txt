@@ -1,0 +1,37 @@
+Recipe number:
+272953.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-10T17:52:21.34
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome!!!!! Made just as written, except I just had to top it with some crumbled blue cheese! I used maybe 1/4-1/3 cup olive oil to get it to the right consistency for us. Great with veggies, pita chips, pretzels and tortilla chips. I will def be making this again and again~YUM! Thanks for sharing. :)

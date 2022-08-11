@@ -1,0 +1,72 @@
+Recipe number:
+262916.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-09T15:27:51.733
+helpfulCount:
+2
+userID:
+6873049
+Display Name:
+Kathy Marie Bradley
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2415734.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I couldn't find the empanada discs so made my own. They were excellent and easy; my first time of doing anything like them.
+Review:
+Rating:
+3
+dateLastModified:
+2018-10-06T02:00:24.537
+helpfulCount:
+0
+userID:
+24320226
+Display Name:
+danelle7108
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good but to crispy for me. Maybe next time I won’t put them in the oven as long

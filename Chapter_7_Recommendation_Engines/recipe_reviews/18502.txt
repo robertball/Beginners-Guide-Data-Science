@@ -1,0 +1,62 @@
+Recipe number:
+18502.txt
+Review:
+Rating:
+4
+dateLastModified:
+09/24/2003
+helpfulCount:
+13
+userID:
+229003
+Display Name:
+SUE D
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Really simple and quick side recipe.....and the children loved it!
+Review:
+Rating:
+3
+dateLastModified:
+09/15/2005
+helpfulCount:
+6
+userID:
+1514181
+Display Name:
+Compugirl
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very quick to make and my 2 1/2 and 4 year old loved it!
+Review:
+Rating:
+2
+dateLastModified:
+06/29/2006
+helpfulCount:
+3
+userID:
+1919945
+Display Name:
+inourbutwhoami
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+it was easy to make but bland at taste
+Review:
+Rating:
+3
+dateLastModified:
+02/23/2013
+helpfulCount:
+0
+userID:
+rae
+Display Name:
+Rae
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/168198.jpg
+text:
+This is okay. I did stir in some butter and salt into the cooked noodles before adding the cheese. I Think it would be good with leftover pasta if you just needed something quick. Definitely needs seasoning other than just cheese.

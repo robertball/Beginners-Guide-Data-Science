@@ -1,0 +1,37 @@
+Recipe number:
+233251.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-12T16:07:20.267
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Makes a great syrup for whatever you want to use it in. I put it in sparkling water. I plan to try it in coconut water next.

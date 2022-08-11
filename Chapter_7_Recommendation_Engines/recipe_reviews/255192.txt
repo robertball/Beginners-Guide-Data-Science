@@ -1,0 +1,120 @@
+Recipe number:
+255192.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-01T21:03:29.303
+helpfulCount:
+0
+userID:
+14200565
+Display Name:
+Lucy Sharp
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3674561.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My first batch of these turned out far too salty for my tastes. Rather than sprinkling the seasoning generously I'd recommend treating it basically like salt and adjusting the amount accordingly. Because I don't have a ton of salt in my diet, I might also cut the amount of salt in the seasoning mixture itself because the salt drowns out the other flavors.
+
+I substituted shitaki mushrooms (fresh ones) for the dried ones in the seasoning. 
+
+I also might substitute other tomatoes for the heirlooms next time. They were fine but probably not worth the increased price. Maybe if I got some better ones.
+
+The aioli and pickled onions were good. I used garlic powder in the aioli and it was fine.
+
+I cooked the burgers stovetop and found medium heat worked best to make sure they were cooked through right.
+
+I had leftover onions, seasoning, aioli, and goat cheese after. So next time I'll consider cutting down the quantities of each of those I make/buy. 
+
+Other than the first batch being too salty the burgers were good and I'll probably make them again.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-19T21:55:43
+helpfulCount:
+0
+userID:
+4895559
+Display Name:
+kjohnson2000
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+229
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simply, wow. 
+My tip: follow the recipe! It's perfect!
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-23T23:49:22.703
+helpfulCount:
+0
+userID:
+11550382
+Display Name:
+Tyrel Stendahl
+isPro:
+False
+followersCount:
+76
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+142
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2399805.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This burger is awesome. I sure wish someone would fix allrecipes' image tools so we could upload a picture!

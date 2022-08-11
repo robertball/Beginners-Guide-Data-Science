@@ -1,0 +1,37 @@
+Recipe number:
+214822.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-08-29T08:08:13.423
+helpfulCount:
+7
+userID:
+4983115
+Display Name:
+gloria
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sorbet was delicious! All of the flavors were wonderful except that the citrus flavors overpowered the mango so much that it didn't taste anything like mango. I loved this and will make it again but will use another recipe for mango sorbet that doesn't have other flavors.

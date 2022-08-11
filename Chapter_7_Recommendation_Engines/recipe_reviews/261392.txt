@@ -1,0 +1,37 @@
+Recipe number:
+261392.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-11-16T00:50:27.813
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My store didn't have bok choy so I subbed cabbage instead. I like the flavor better anyways. I threw in some water chestnuts and mushrooms because we love them. This was okay but  I didn't love the curry flavor mixed with feta. In fact, I didn't think the feta flavor mixed well with anything. Sorry but I wouldn't make this again.

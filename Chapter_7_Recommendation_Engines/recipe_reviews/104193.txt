@@ -1,0 +1,37 @@
+Recipe number:
+104193.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-07-17T19:15:09.437
+helpfulCount:
+0
+userID:
+196355
+Display Name:
+beth
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+66
+favoritesCount:
+238
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4458993.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Interesting.  I was looking for a recipe that would use some veggies I had on hand.  I used 2 potatoes, but everything else the same.  I'm not sure if it was the extra potato or a particularly juicy zucchini, but this never did get 'crispy'.  After about 15 minutes, it was finally starting to dry around the edges, but definitely never approached the hash brown crispiness I was expecting.  Nevertheless, an interesting taste and I might spin it off in to other vegetables when I'm scouring the pantry.

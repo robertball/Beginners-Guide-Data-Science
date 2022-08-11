@@ -1,0 +1,107 @@
+Recipe number:
+68676.txt
+Review:
+Rating:
+4
+dateLastModified:
+2004-03-15T17:57:04.09
+helpfulCount:
+11
+userID:
+824431
+Display Name:
+MAMMALEH
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+790
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hey Cookin' Cowgirls!  This is a delicious sandwich - just like the one they prepare at the gourmet sandwich shop down the block.  You can really make it your own depending on what kind of chutney you use (I like peach or mango), and how hot you want it.  Good tip of toasting the curry powder before adding he oil to saute the chicken breast.  Makes the flavor even better.  All I did was add maybe a clove of minced garlic - but otherwise it was good without any tampering. Now I don't have to spend the big bucks for this sandwich down the street.........  LOL
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-14T10:14:26.553
+helpfulCount:
+1
+userID:
+9832359
+Display Name:
+Francine Lizotte Club Foody
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+2645
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2412350.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice combination of flavors with mayo/chutney. As much as my husband enjoying it, I thought it needed more flavor while cooking the chicken breasts. I'm not sure if it needs more curry or another spice to give it that extra kick. Quick and easy to prepare, would pair well with soup.
+Review:
+Rating:
+4
+dateLastModified:
+2010-11-20T16:43:35.003
+helpfulCount:
+1
+userID:
+5760147
+Display Name:
+Rebecca Funk
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+71
+favoritesCount:
+223
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was an interesting combination of flavours for me, not being the biggest fan of sweet and salty, but it all worked. My husband went back for seconds, which is always a sign to say make it again.

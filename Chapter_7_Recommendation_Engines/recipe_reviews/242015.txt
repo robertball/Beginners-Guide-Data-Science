@@ -1,0 +1,37 @@
+Recipe number:
+242015.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-03T18:54:55.87
+helpfulCount:
+25
+userID:
+11048370
+Display Name:
+BlackMarthaStewart
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+290
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the first time I'm writing a review but I just couldn't help myself. This is literally what I put on my face as a moisturizing anti-inflammatory mask. (minus the pepper) I always make a tea with the leftovers. Use organic honey just rub the mixture on your face. Let it sit for 15 mins (enjoy the tea while waiting) then wash off with a warm face cloth. It's a great for clearing your skin from inside out.

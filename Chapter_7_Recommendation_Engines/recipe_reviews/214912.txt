@@ -1,0 +1,107 @@
+Recipe number:
+214912.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-05-16T16:15:38.453
+helpfulCount:
+5
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Instead of powdered non-dairy creamer, I used two tablespoons liquid sugar free french vanilla Coffeemate. I made no other changes. I thought this was good but it really had a little too much milk. It tasted to me like a watered down Frappucino. I'd make this again but I'd cut the milk and the ice by half--maybe use coffee ice cubes?
+Review:
+Rating:
+4
+dateLastModified:
+2010-08-22T17:06:41.63
+helpfulCount:
+3
+userID:
+3552751
+Display Name:
+Bobbi123
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+561
+favoritesCount:
+1019
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2549.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+As a huge coffee liqueur fan, I had to try this drink.I made as written and although it tasted good, it didn't have nearly enough coffee flavour for me. I ended up adding more than double what it called for. Tasted great after that though, almost like a coffee/chocolate milkshake.
+Review:
+Rating:
+4
+dateLastModified:
+2012-03-31T19:54:11.233
+helpfulCount:
+1
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This tasted good, but I wouldn't say spectacular. It kind of tasted like an icy cafe mocha milk. It was on the thin side. I could not find my coconut extract anywhere in my cupbard, so I just went with almond extract. In case it was too strong I just went for half or 1/4 tsp. I topped the drinks with whipped cream and cinnamon. It paired well with it. ty

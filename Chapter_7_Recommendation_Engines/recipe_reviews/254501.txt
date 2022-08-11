@@ -1,0 +1,108 @@
+Recipe number:
+254501.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-18T03:16:30.667
+helpfulCount:
+1
+userID:
+11419595
+Display Name:
+Laura Wallan
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1424135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was by far the best cherry pie I've ever made or eaten.
+I used sour cherries in a jar (2 jars) and followed the recipe.  I had a hard time getting the lattice to brown so I turned on the broiler for 2 minutes at the end.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-17T02:30:09.92
+helpfulCount:
+1
+userID:
+14471122
+Display Name:
+Brenda Moran
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4714070.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added more cherries that it called for and yes I will make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-04T19:15:40.877
+helpfulCount:
+0
+userID:
+7734354
+Display Name:
+caleonar
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make it again. It was delicious. I used fresh cherries that tasted wonderful in the pie.

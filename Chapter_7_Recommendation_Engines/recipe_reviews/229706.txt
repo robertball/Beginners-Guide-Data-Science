@@ -1,0 +1,72 @@
+Recipe number:
+229706.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-09-16T19:13:13.3
+helpfulCount:
+1
+userID:
+2379752
+Display Name:
+Laurie Pearsall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+689
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6169568.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for the weekly office meeting. Decided to forgo the frosting & just top with powdered sugar. It was GREAT!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-13T16:32:38.66
+helpfulCount:
+0
+userID:
+9208556
+Display Name:
+Megan Mclaughlin
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family has used a frosting similar to this for decades, only we omit the cream cheese. I have followed this cake recipe many times now and it is always a crowd favorite! I get so many complements. I usually have the frosting in a bowl next to the cake and I usually have to tell people that they are supposed to put a dollop onto their cake. For that reason, when I make this next week for a potluck, I am going to just frost the cake ahead of time! I really recommend following his recipe, no need to change anything, it’s perfect!!!!

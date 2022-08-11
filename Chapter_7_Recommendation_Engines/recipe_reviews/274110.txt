@@ -1,0 +1,37 @@
+Recipe number:
+274110.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-13T00:42:41.157
+helpfulCount:
+0
+userID:
+11540993
+Display Name:
+Erin Crow
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6225565.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty much stuck to the recipe and it’s the second time that make it. Super yummy

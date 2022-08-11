@@ -1,0 +1,143 @@
+Recipe number:
+17686.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-12-22T16:53:14.25
+helpfulCount:
+11
+userID:
+1676679
+Display Name:
+Janine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I grated my carrots and substituted coconut for the raisins and added almonds. Very Yummy! A tropical feel...
+It was gone quickly.
+Review:
+Rating:
+1
+dateLastModified:
+2002-10-28T12:21:35.263
+helpfulCount:
+10
+userID:
+671188
+Display Name:
+Jill Yard
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1453125.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty dry and tasleless. I ended up throwing them away ( I made muffins instead of bread). These was no pineapple taste at all. I wonder if the flour measurement is right, seemed like a lot.
+Review:
+Rating:
+3
+dateLastModified:
+2012-12-23T16:39:59.7
+helpfulCount:
+1
+userID:
+1546788
+Display Name:
+Tara Holt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was OK, not very much flavor.
+Review:
+Rating:
+1
+dateLastModified:
+2019-06-01T21:18:05.483
+helpfulCount:
+0
+userID:
+23985383
+Display Name:
+Janet Davis Lenahan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5581913.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious but even tough I let it cool completely it crumbled when I sliced it. I’m now left with a bag full of crumbles that may be yummy with ice cream!

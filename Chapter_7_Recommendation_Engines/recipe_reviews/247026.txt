@@ -1,0 +1,37 @@
+Recipe number:
+247026.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-31T03:41:48.217
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2275
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this but I feel there is room for improvement in the preparation method. The squid releases so much water during cooking that the rest of the ingredients get watered down and lost. My recommendation is to cook the squid by itself, drain, and then toss the sauce and butter over it so that you get exactly that..a sauce.

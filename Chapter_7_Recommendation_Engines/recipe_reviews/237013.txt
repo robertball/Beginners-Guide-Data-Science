@@ -1,0 +1,37 @@
+Recipe number:
+237013.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-14T21:31:37.093
+helpfulCount:
+0
+userID:
+12602162
+Display Name:
+StAnne03
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+307
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4528697.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it and I liked it! I substituted fresh potatoes instead of bagged hash browns, and I used the whole egg. I also added a little onion to the potatoes. I was so hungry until I forgot to take a picture, but it looked great. I will definitely make this one again.

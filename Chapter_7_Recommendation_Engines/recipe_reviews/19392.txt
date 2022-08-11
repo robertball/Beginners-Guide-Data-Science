@@ -1,0 +1,32 @@
+Recipe number:
+19392.txt
+Review:
+Rating:
+1
+dateLastModified:
+05/22/2006
+helpfulCount:
+8
+userID:
+1909822
+Display Name:
+ricosmom
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+this recipe wasn't that good. i considered it a waste of time and money. my family didn't like it.
+Review:
+Rating:
+4
+dateLastModified:
+10/20/2006
+helpfulCount:
+5
+userID:
+1168880
+Display Name:
+pam
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I added a bit of garlic & a little diced green pepper-my husband & I both liked it. Was even better reheated for lunch the next day!

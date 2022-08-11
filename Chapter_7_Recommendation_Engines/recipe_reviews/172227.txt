@@ -1,0 +1,37 @@
+Recipe number:
+172227.txt
+Review:
+Rating:
+1
+dateLastModified:
+2013-06-12T06:59:19.057
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2816
+favoritesCount:
+6006
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've had cumin lassi's, and I was looking forward to making my first at home.  You need to love, love, L-O-V-E cumin to enjoy this.   It has so much cumin that it's the only thing that I could taste.  IMO it needs the cumin reduced significantly (maybe start with just 1 tsp or less) and perhaps add some mint or fresh cilantro as a complement to the cumin.  Sunaina, sorry for the bad review, but this recipe just didn't work for me.

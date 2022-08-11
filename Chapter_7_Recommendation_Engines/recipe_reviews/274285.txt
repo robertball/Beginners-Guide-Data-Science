@@ -1,0 +1,177 @@
+Recipe number:
+274285.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-18T01:48:47.213
+helpfulCount:
+0
+userID:
+26892626
+Display Name:
+Deborah L Burgess Sipes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I left out coconut
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-29T14:48:56.113
+helpfulCount:
+0
+userID:
+4137801
+Display Name:
+Claudia Landberg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+754
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3805629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy & delicious!! Perfect for a chocolate snack craving!! Hubby couldn’t stop eating them!! Lol
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-22T12:20:10.427
+helpfulCount:
+0
+userID:
+17405219
+Display Name:
+Cookin' With Lukie >^..^< 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+719
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple to make and oh so good!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-22T10:53:01.273
+helpfulCount:
+0
+userID:
+23480940
+Display Name:
+Janet Kennedy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5235864.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to put together.  Tasty.  Just what I needed for a quick sweet fix!
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-22T01:03:34.81
+helpfulCount:
+0
+userID:
+24933068
+Display Name:
+Julie Ortiz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6758737.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No coconut, I have been making these for years.  My mom made them 40+ years ago. My brothers all make them for their families.  All of us love them without coconut.

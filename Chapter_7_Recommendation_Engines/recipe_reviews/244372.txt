@@ -1,0 +1,107 @@
+Recipe number:
+244372.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-28T09:21:32.49
+helpfulCount:
+1
+userID:
+5073790
+Display Name:
+Maura Brennan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5003627.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good. I substituted Lorna Doones for the graham crackers and omitted the sugar. Also, I only had one 5 oz can of evaporated milk so I used regular milk for the rest. The pie is mild and definitely comfort food. My kids all loved it. I would make it again. Quick and easy.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-01T20:37:31.577
+helpfulCount:
+0
+userID:
+3932960
+Display Name:
+Angie Hibbard Wright
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+207
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2701608.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delish!!!  It was quick, easy and a lighter version of regular pumpkin pie.  I loved it!!  I used a store bought granola crust and also a regular pie crust that I baked first.  They were both good.  Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-14T20:27:58.68
+helpfulCount:
+0
+userID:
+12685006
+Display Name:
+Megan Sorley
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just made this tonight and it was a hit!  I had a store bought pie crust so I used that instead of the graham cracker and it was great.  Was quick to put together and we all enjoyed it!

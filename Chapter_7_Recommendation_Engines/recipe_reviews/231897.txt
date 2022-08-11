@@ -1,0 +1,146 @@
+Recipe number:
+231897.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-10-06T14:50:39.177
+helpfulCount:
+2
+userID:
+493428
+Display Name:
+ThompsonFamily
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+247
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4563353.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup has potential!
+I needed it for a larger crowd so I doubled the recipe, bad idea. 
+Next time I will double the pumpkin and broth but not the potatoes. They made it too gritty. I definitely will use plain potatoes and add garlic and onion on my own. 
+The cream rounds it off nice however, being dairy intolerant, I will use another non dairy alternative.
+Thanks for posting!
+Review:
+Rating:
+5
+dateLastModified:
+2013-09-22T11:59:01.553
+helpfulCount:
+2
+userID:
+12069441
+Display Name:
+Cheri Langley Hebener
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1833052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tried for fall baby shower.  Big hit.  And super easy.  Loved it
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-03T16:34:37.99
+helpfulCount:
+0
+userID:
+12528265
+Display Name:
+katiemiss
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+257
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup is super easy and quick. It was good, but, as my husband put it, "I feel like I'm eating pumpkin flavored mashed potatoes." If I make this again, I will try reducing the mashed potatoes by half. And maybe throw a cube of chicken bouillon in, in addition to the chicken stock in the recipe. My 1yo LOVED it, though, just as it was.
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-23T12:38:41.95
+helpfulCount:
+0
+userID:
+16590117
+Display Name:
+clemons22
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really easy to make and really good. I added cayenne pepper to make it spicy. It also tastes really well with Club crackers.

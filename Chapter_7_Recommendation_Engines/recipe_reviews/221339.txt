@@ -1,0 +1,107 @@
+Recipe number:
+221339.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-15T06:48:52.727
+helpfulCount:
+2
+userID:
+4132444
+Display Name:
+Caralyn Silver
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4085163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My parents used to buy Nasi Goreng from a local shop when I was a child. This recipe is a perfect reflection of that delicious dish. It's interesting to me that the addition of curry is what gives this dish it's unique taste. This is a new family favorite comfort food! My only change was the addition of peas to make it a complete meal.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-10T23:24:27.753
+helpfulCount:
+0
+userID:
+16892898
+Display Name:
+Dianne McNeill
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7330552.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So delicious! I
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-09T22:05:41.65
+helpfulCount:
+0
+userID:
+7922068
+Display Name:
+Nikki Kalkman Melnyk
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very yummy!!! I also like to use the pre-mix package you can find in some stores. Its only the spices. You still have to use rice, meat, veggies ect... Its great with pork too!!

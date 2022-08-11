@@ -1,0 +1,72 @@
+Recipe number:
+261841.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-22T02:47:31.38
+helpfulCount:
+2
+userID:
+12591447
+Display Name:
+tcasa
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+776
+favoritesCount:
+1504
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2386212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not sure how to rate this..3.5. I followed the recipe exactly as written for the most part. I did not have red potatoes and used russet. The potatoes were absolutely delicious!! I think the recipe should read 1/2 lemon and not a 1/2 c? That is a lot of lemon juice which over powered the citrus flavors. The chicken was ok, rather dry, some of the breading became soggy. My kids asked for ketchup/mustard & even I opted to dip it in mustard. Overall, I like the idea of using one pan for dinner and using parchment paper was genius, however, this was a little bland and had a lot of prep for one sheet pan. I would prepare the cutlets as written then fry them and roast the vegetables as described on the parchment because the potatoes were amazing!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-29T00:41:40.587
+helpfulCount:
+0
+userID:
+26095083
+Display Name:
+Caitlyn Powell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7011267.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make. The combo of the sage and the citrus is delicious.

@@ -1,0 +1,107 @@
+Recipe number:
+266796.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-09T21:22:11.667
+helpfulCount:
+0
+userID:
+25704807
+Display Name:
+Michele Lynn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6735249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out amazing it’s like a chicken gyro in a bowl!  And it actually looks like the original picture!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-05T23:35:47.72
+helpfulCount:
+0
+userID:
+9951888
+Display Name:
+jaxbeacjbum
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+290
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this recipe. The chicken turned out well seasoned and juicy.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-30T23:05:39.21
+helpfulCount:
+0
+userID:
+16769091
+Display Name:
+Charity Rose
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2805350.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it exactly as the recipe states and it was perfect! This will be a weeknight standard.

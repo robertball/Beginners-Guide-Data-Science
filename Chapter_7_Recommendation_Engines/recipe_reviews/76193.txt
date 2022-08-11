@@ -1,0 +1,182 @@
+Recipe number:
+76193.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-02-27T21:14:22.423
+helpfulCount:
+9
+userID:
+3587266
+Display Name:
+inounvme
+isPro:
+False
+followersCount:
+31
+followingCount:
+0
+madeRecipesCount:
+418
+favoritesCount:
+2029
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/211387.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simply and easy I really like chopped liver!
+Review:
+Rating:
+5
+dateLastModified:
+2011-10-23T17:22:55.367
+helpfulCount:
+7
+userID:
+6214874
+Display Name:
+sifrina
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OMG - this is SO GOOD! At first I wasn't sure - it was my first time making this and it seemed too easy to be true, but it really is fantastic! I threw the eggs into the processor with everything else and it turned out great! Thank you for sharing such a great and easy recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2014-09-05T15:36:06.37
+helpfulCount:
+3
+userID:
+10470726
+Display Name:
+shogan80
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1052236.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really basic and good.  easy to make and I added some garlic powder and Mrs. Dash lemon pepper seasoning and used olive oil instead of canola.  YUM!
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-24T22:24:30.123
+helpfulCount:
+0
+userID:
+7505963
+Display Name:
+Marie Durbin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did make some big changes. 
+- I used calve livers and soaked them in milk which makes them taste really good. 
+-I cooked them in a very small amount of onion infused olive oil since I can’t tolerate onions with my Pancreatic cancer
+-using a food processor and a little more olive oil I spun it until it formed a ball on the canister then added some BBQ sauce for great flavor even cold on pumpernickel bread!
+-I need to extra iron to increase my hemoglobin counts and this is becoming a favorite for me
+Hope you will give it a try and also experiment with your favorite spices or sauces ie teriyaki, etc.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-28T04:07:36.483
+helpfulCount:
+0
+userID:
+13059050
+Display Name:
+Deb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the directions exactly.  My family loved it.....soooooo easy.

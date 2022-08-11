@@ -1,0 +1,107 @@
+Recipe number:
+270103.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-11T22:51:45.25
+helpfulCount:
+2
+userID:
+10782482
+Display Name:
+Kevin Leif Jonasen
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6411066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i used a pre-made Baharat spice blend made by Manitou trading.I also used only thighs. Great flavor, smells absolutely wonderful when cooking. This recipe will be one of my definite go-to's.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-17T11:06:50.76
+helpfulCount:
+1
+userID:
+20672783
+Display Name:
+thedude
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It had a wonderful complex flavor - I did not have any loomi - so subbed kefir lime leaf, and I doubled the liquid to 2 cups. It tasted like I was at a Middle-Eastern restaurant.
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-13T13:16:55.333
+helpfulCount:
+0
+userID:
+3803940
+Display Name:
+Katy's Collections
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Needs at least one more cup of water. I was skeptical about the amount of liquid, but have never pre-soaked rice before, and didn't know how much of a difference that would make in need for liquid. Turns out, not enough to overcome the 1.5 C rice to 1 C liquid. While the rice came out crunchy, we did like the flavors.

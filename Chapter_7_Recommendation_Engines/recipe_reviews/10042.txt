@@ -1,0 +1,72 @@
+Recipe number:
+10042.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-05-02T18:38:39.373
+helpfulCount:
+4
+userID:
+1411807
+Display Name:
+Mary Jo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made these yesterday but substituted vanilla pudding mix for Cheesecake pudding mix.  Everyone LOVED them, and I had to put water in the filling bowl because I kept sticking my fingers in the extra ;-) Delicious!!!
+Review:
+Rating:
+5
+dateLastModified:
+2003-03-13T04:36:02.14
+helpfulCount:
+3
+userID:
+777226
+Display Name:
+GITGA
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Lucky cakes are an old recipe. My mother-in-law made these for her children many years ago. They are still a family favorite, and we are into a fourth generation from her. Janis's filling must be a more modern version with the use of the instant pudding. I will contribute Mom's filling recipe.

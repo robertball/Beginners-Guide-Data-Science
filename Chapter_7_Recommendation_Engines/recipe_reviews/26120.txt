@@ -1,0 +1,108 @@
+Recipe number:
+26120.txt
+Review:
+Rating:
+4
+dateLastModified:
+12/12/2003
+helpfulCount:
+9
+userID:
+397440
+Display Name:
+REDAMY
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very easy to make, it is very thick dough so be careful!  But overall very good!!
+Review:
+Rating:
+5
+dateLastModified:
+12/12/2003
+helpfulCount:
+2
+userID:
+577633
+Display Name:
+LOVESTOSHOP
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is delicious as it is easy to prepare. It tastes like cinnamon rolls without all the work!!
+A definite keeper :)
+Review:
+Rating:
+5
+dateLastModified:
+12/12/2003
+helpfulCount:
+2
+userID:
+657026
+Display Name:
+Lyn Johnson Coy
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2365763.jpg
+text:
+OMG, these are so delicious!!! I have made them three times in as many weeks! Be careful, the dough is so thick that I have almost burnt up my mixer. And I had to adjust the cooking time to 13 to 15 minutes. But give these a try... you won't be disappointed!
+Review:
+Rating:
+5
+dateLastModified:
+12/12/2003
+helpfulCount:
+1
+userID:
+798766
+Display Name:
+THEDUCKIEST
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These were really good!  I agree that they taste a lot like cinnamon rolls...I even used cake mix with pudding in it, and they still turned out soft and wonderful...they were a real hit on my floor.
+Review:
+Rating:
+1
+dateLastModified:
+06/23/2004
+helpfulCount:
+0
+userID:
+1122254
+Display Name:
+LG37
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These taste nothing like cinnamon rolls (I have to admit I was already skeptical about it due to the chocolate, which is not in cinnamon rolls).  They taste like chocolate cake mix with cinnamon chips - who could have thought up a worse combination.  I won't make these again.
+Review:
+Rating:
+5
+dateLastModified:
+06/05/2005
+helpfulCount:
+0
+userID:
+1399181
+Display Name:
+EMILYSARTAIN
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My whole family loved these cookies!  They were the best I think I've ever had.
+Review:
+Rating:
+3
+dateLastModified:
+07/12/2005
+helpfulCount:
+0
+userID:
+265740
+Display Name:
+CULMOM37
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My family loves cookies, but this one did not go over very well.

@@ -1,0 +1,107 @@
+Recipe number:
+234739.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-04-02T13:07:54.56
+helpfulCount:
+3
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very tasty. I haven't had truffles before so I am not quite sure what this oil should taste like... it added a slightly earthy musky taste, that I liked.  I do have some black truffle salt that I am going to try on the leftovers. This has flecks of real truffle in it so I will be curious to taste the difference
+Review:
+Rating:
+3
+dateLastModified:
+2013-10-19T17:04:18.53
+helpfulCount:
+2
+userID:
+1644895
+Display Name:
+susiekew
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+873
+favoritesCount:
+2798
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/246115.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As the first person to review this recipe, I tried to make the recipe exactly as written. However, once it was done, it was so thin that I just had to add some cornstarch slurry. The flavour was pretty good, but could have used some herbs. The truffle oil is, in my opinion, a brilliant addition. A sprinkle of fresh chopped parsley on top would have increased the eye appeal. Thanks!
+Review:
+Rating:
+3
+dateLastModified:
+2018-02-11T18:52:44.217
+helpfulCount:
+0
+userID:
+15928972
+Display Name:
+Kristina Wyton
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2357819.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+To continue my previous review (accidentally submitted early) - the second time I made this I added two potatoes and the texture was amazing. My dad said "I love cream soups"

@@ -1,0 +1,37 @@
+Recipe number:
+216139.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-07T14:09:38.66
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is ok. I made it twice. The first time exactly as written. The method works perfectly. The flavor was just ok, though. For the second batch, I added more almonds, left out the cacao, added flax seeds for more crunch and added a couple of tbsp of brown sugar. I thought it was better after tweaking it. I would suggest trying this recipe, adjust according to your tastes. It certainly beats high priced, store bought granola. It’s good with milk, on yogurt, or on ice cream. Thank you for the recipe.

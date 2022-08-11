@@ -1,0 +1,72 @@
+Recipe number:
+246745.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-05T21:45:35.813
+helpfulCount:
+2
+userID:
+7622904
+Display Name:
+donnatodd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This dish was DELICIOUS!!!  I have never made osso buco before...this recipe made the meat tender, the sauce was wonderful over basmati rice.  I am not crazy about the cut of meat - too fatty.  I will be making this again with another cut of beef roast.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-04T06:54:26.233
+helpfulCount:
+1
+userID:
+22587252
+Display Name:
+Miriam Prell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4595890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Dinner tonight for the family, and this meal hit the spot. So savory and tasty over pasta and for my gluten-free daughter-in-law, over rice. Either way it worked.  I added a few more vegetables then what's called for in the recipe such as roasted garlic cauliflower and baby broccoli stems because I had them on hand, but I think these only added to the flavor and texture.

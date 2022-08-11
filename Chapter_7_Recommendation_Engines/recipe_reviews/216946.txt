@@ -1,0 +1,32 @@
+Recipe number:
+216946.txt
+Review:
+Rating:
+1
+dateLastModified:
+04/01/2011
+helpfulCount:
+11
+userID:
+3275476
+Display Name:
+dee
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+long and involved recipe....not worth all the ingredients it takes to make it
+Review:
+Rating:
+5
+dateLastModified:
+01/03/2012
+helpfulCount:
+2
+userID:
+1286774
+Display Name:
+ATROPINE911
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Delicious! Many ingredients yes but for the "cooks" its a result worth the process!

@@ -1,0 +1,72 @@
+Recipe number:
+244446.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-29T18:10:09.253
+helpfulCount:
+0
+userID:
+6596148
+Display Name:
+Momofone
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+106
+favoritesCount:
+630
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3577517.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The idea is great and it tasted wonderful right after it set. But I think I needed to temper the chocolate more as it went grainy and all styrofoamy texture by the next day. I will try again but I think the recipe needs more instruction on tempering chocolate.
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-11T17:54:10.537
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum.. never had dried blueberries before. This wont be my last. I made half with milk and half with dark chocolate. I think I preferred the milk chocolate ones which is surprising since I generally prefer dark

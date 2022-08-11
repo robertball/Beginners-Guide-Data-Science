@@ -1,0 +1,72 @@
+Recipe number:
+258909.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-01T19:36:24.62
+helpfulCount:
+0
+userID:
+26033486
+Display Name:
+watsonellett
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6963788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious, tastes almost like a cinnamon roll. I replaced the stevia with a stevia and erythritol blend.
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-09T00:24:07.24
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+764
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A tasty drink for a cool autumn night. Very easy to make and quick to prepare.  The only change I would make (and this is a personal preference) is to greatly decrease the sweetener as 1 tbsp is a lot.  You could also just add all the ingredients at once before heating.  Thanks for sharing this yummy recipe!

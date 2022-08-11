@@ -1,0 +1,107 @@
+Recipe number:
+246341.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-06T00:30:27.64
+helpfulCount:
+1
+userID:
+15283019
+Display Name:
+Margo Fonda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5398045.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added some craisins to the salad as I saw it as an ingredient in other salads.  My carrots were cut in a disk shape with my salad shooter.  I did not use yeast in the dressing.  It is wonderful.  I will certainly make this again.  Great to use as a salad base under leftover grilled chicken or probably any other protein.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-31T16:18:41.563
+helpfulCount:
+0
+userID:
+16848221
+Display Name:
+Joy Wunderlich
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2856978.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was easy and so good! My husband loved it!!!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-18T20:22:02.023
+helpfulCount:
+0
+userID:
+318976
+Display Name:
+Qhhunters
+isPro:
+False
+followersCount:
+67
+followingCount:
+0
+madeRecipesCount:
+137
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2740383.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Update 5/22/16.  This salad has become a favorite.  I use either more fresh lemon juice or less olive oil in the dressing.   I used  Red Russian Kale from my garden. I have made it adding avocado & pumpkin seeds or apple and raisins.  Versatile! Old review:  The dressing was a little flat,  which is why I gave it 4 stars instead of 5.  The salad was filling and I see much potential with adding a little more zing to the dressing.

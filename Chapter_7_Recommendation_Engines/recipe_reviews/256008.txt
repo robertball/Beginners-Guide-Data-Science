@@ -1,0 +1,107 @@
+Recipe number:
+256008.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-03T03:39:34.74
+helpfulCount:
+1
+userID:
+6960198
+Display Name:
+holly
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+1868
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/779144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this, left out cinnamon, -added a bit of salsa- makes an AWESOME breakfast or dinner burrito.
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-07T10:20:44.66
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+968
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good recipe. If you like  crispy veggies, you will enjoy this. If you prefer them a bit softer, sauté them before adding the eggs and milk. My eggs were small so, I used three instead of two without changing any other ingredients. These were even better once topped with hot sauce and avocado then stuffed inside a tortilla. Don't think these are just for breakfast; they make a great dinner too!
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-17T17:12:49.207
+helpfulCount:
+0
+userID:
+22982724
+Display Name:
+Margot Reyskens
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4774520.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it. I didn't have jalapeno pepper nor onion powder, and I even was out of black pepper. So I wasn't blown away, not sure if it was due to lack of ingredients, or due to the cumin. I would give it a second try.

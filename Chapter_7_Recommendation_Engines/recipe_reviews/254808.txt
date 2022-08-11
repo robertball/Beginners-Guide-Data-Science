@@ -1,0 +1,72 @@
+Recipe number:
+254808.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-22T16:39:49.903
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! The 2 tablespoons plus 2 teaspoons of cayenne pepper must be a typo though. I like spicy but that would have made these inedible. I only used 2 teaspoons and even that was a bit much so I'd scaled it back to 1 teaspoon next time. You have to remember that the majority of these ribs are bone so you're not really marinating 2 pounds of meat. Use your own judgement on the amount of spice you put into it. I grilled some and smoked some and they both turned out great!
+Review:
+Rating:
+1
+dateLastModified:
+2018-10-21T15:03:07.547
+helpfulCount:
+0
+userID:
+14727281
+Display Name:
+natalie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+191
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was awful!  First, the idea of having 2 Tbs and 2 tsps of cayenne petter as well as  hot red pepper totally overwhelmed the flavors.  I actually limited the cayenne to a small Tbs and it was still too much!  The rub and marinade did nothing to break down the toughness of the  meat, and we couldn't eat it.  Next time I'll stick with my tried and true Korean recipe.

@@ -1,0 +1,37 @@
+Recipe number:
+245999.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-25T16:10:43.227
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall this was good. I liked the combo of fruits, making it not need too much sugar. I used a combo of frozen blueberries and diced apples in place of the goji berries. I used quick cook steel cut oats, so I cut back on the water a bit, and it only took 20 minutes to cook. I wasn't a big fan of the chia seeds in this; it made it a little too slimy for me. I think I'll add some walnuts to my next bowl to give it some crunch.

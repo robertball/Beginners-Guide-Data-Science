@@ -1,0 +1,38 @@
+Recipe number:
+172887.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-30T09:39:13.297
+helpfulCount:
+1
+userID:
+801441
+Display Name:
+PHILLYJH
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+285
+favoritesCount:
+709
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/45604.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor was decadent.  I attempted this wrapped in puff pastry, filo wold be better I think.  
+Beautiful dish.

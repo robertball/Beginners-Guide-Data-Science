@@ -1,0 +1,37 @@
+Recipe number:
+255424.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-10T16:58:32.507
+helpfulCount:
+1
+userID:
+5281808
+Display Name:
+Rosalind Brazel
+isPro:
+False
+followersCount:
+63
+followingCount:
+0
+madeRecipesCount:
+82
+favoritesCount:
+531
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3973919.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good technique used to get a restaurant quality meal. Made this for company and got rave reviews. The Idahoan Signature™ Russets Mashed Potatoes were a great touch to complete the meal  in a short time while not ruining your steak.

@@ -1,0 +1,72 @@
+Recipe number:
+157573.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-19T20:09:41.743
+helpfulCount:
+0
+userID:
+22484693
+Display Name:
+Alexander Delapenha
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and smells great.I used a little extra cumin, thyme, cilantro and all spice Next time I'll season the chicken before browning it (I abhor white chicken) and use a little more salt to bring out more flavour.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-27T04:24:20.89
+helpfulCount:
+0
+userID:
+6268008
+Display Name:
+amma320
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+631
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have no experience with Indian food, so I’m not sure how it is supposed to taste. I followed the recipe exactly as written. It makes a good amount of sauce, great to go with rice. The sauce had a lot of flavor, but it is very very sweet. I’m not sure how substituting coconut milk instead of the cream would go, but that’s what I might try next time. Easy to make!

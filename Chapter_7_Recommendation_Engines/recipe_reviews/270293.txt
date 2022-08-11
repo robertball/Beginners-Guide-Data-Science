@@ -1,0 +1,37 @@
+Recipe number:
+270293.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-10T19:09:02.89
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this was a great lunch. The sauce was a little too thick in my opinion but that is the only thing I would change next time.

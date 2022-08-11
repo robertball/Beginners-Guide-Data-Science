@@ -1,0 +1,122 @@
+Recipe number:
+278445.txt
+Review:
+Rating:
+2
+dateLastModified:
+03/11/2020
+helpfulCount:
+1
+userID:
+25992914
+Display Name:
+Wendy
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Much too dry and I put in 1/4 c. almond milk
+Review:
+Rating:
+1
+dateLastModified:
+03/13/2020
+helpfulCount:
+1
+userID:
+17850465
+Display Name:
+Sophia Manta
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3461426.jpg
+text:
+Crumbly, no taste at all!
+Review:
+Rating:
+2
+dateLastModified:
+03/11/2020
+helpfulCount:
+0
+userID:
+23306233
+Display Name:
+Karen Woblick
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5110122.jpg
+text:
+These have potential, but are way too dry. Feel like there is something missing in the recipe. Will try again, adding some milk and possibly maple syrup.
+Review:
+Rating:
+1
+dateLastModified:
+03/12/2020
+helpfulCount:
+0
+userID:
+14122471
+Display Name:
+Taryn Mosley
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7787210.jpg
+text:
+Turned out awful.  The mixture was more like dough than muffin batter. May be healthy but mine do not resemble muffins. Followed the directions to the tee and not at all like the picture
+Review:
+Rating:
+4
+dateLastModified:
+03/14/2020
+helpfulCount:
+0
+userID:
+11226452
+Display Name:
+jmpfoodie
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Incorporated 2 Tbsp of sugar in with the almonds for a low-sugar approach. The result was excellent! This is a recipe to make over and over again.
+Review:
+Rating:
+4
+dateLastModified:
+04/23/2020
+helpfulCount:
+0
+userID:
+26600375
+Display Name:
+Hufflepuff
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7394882.jpg
+text:
+I liked this recipe a lot, however, I thought that the overall muffin was a little dry.
+Review:
+Rating:
+4
+dateLastModified:
+05/20/2020
+helpfulCount:
+0
+userID:
+laurahamm
+Display Name:
+Laura Hamm
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1207983.jpg
+text:
+They were pretty good. As I was mixing the batter I noticed it was a little dry, so I followed the suggestion in a couple other reviews and added 1/4 cup milk. I also added 2T of sugar. Glad I did. These were good. I will make these again.
+Review:
+Rating:
+3
+dateLastModified:
+03/14/2020
+helpfulCount:
+0
+userID:
+16174083
+Display Name:
+Beth
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I added 1/3 tsp salt, 2 tablespoons Monkfruit. Next time I will add a bit of lemon juice to make it a bit more flavorful and tart.

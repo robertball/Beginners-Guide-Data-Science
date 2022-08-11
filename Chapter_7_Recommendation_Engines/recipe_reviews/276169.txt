@@ -1,0 +1,107 @@
+Recipe number:
+276169.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-02T13:45:13.22
+helpfulCount:
+2
+userID:
+9945795
+Display Name:
+Helen Rodemeyer
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3019929.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was awesome soup!  I started making chicken and spinach soup in the crockpot,  but then saw your recipe and decided to make this as the base instead of my version.     I added rotel tomatoes and a shake of cayenne pepper, because I like spicy.  Wasn’t sure how that would come out with heavy cream, but.... it was amazing!  We all loved it!  Thank you for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-19T21:50:17.193
+helpfulCount:
+1
+userID:
+7400352
+Display Name:
+Kelly Nugent-Davis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7171190.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't find the chorizo so used hot and was good.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-21T00:53:11.253
+helpfulCount:
+0
+userID:
+4552495
+Display Name:
+charm
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+1464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6040593.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband is allergic to garlic so I used pepperoni instead of chorizo.   This is a good soup.

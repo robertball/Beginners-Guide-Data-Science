@@ -1,0 +1,72 @@
+Recipe number:
+236512.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-02T22:17:40.033
+helpfulCount:
+2
+userID:
+15814143
+Display Name:
+rachel summerfield
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! I don't think it needs two types of acid, tho. Next time, I would just add lemon juice.  Also, I added 1/2tsp. dry mustard. Also, you could replace the greek olives with green olives, in a pinch. I will also would bump up the curry spice to 1 tsp. , next time. Very tasty recipe, will make again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-08T22:43:16.1
+helpfulCount:
+0
+userID:
+5229612
+Display Name:
+dheinen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+207
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely awesome! I omitted the red wine vinegar and it turned out perfect.  Will make again

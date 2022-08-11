@@ -1,0 +1,72 @@
+Recipe number:
+246498.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-08T15:29:45.167
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+969
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yay sorghum! I am so happy to see recipes using this "grain". I used homemade vinaigrette and used less than a cup. This is refreshing and great on those hot days. We enjoyed this with red, sweet onions and added some cucumbers for extra crunch. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-21T00:31:40.497
+helpfulCount:
+0
+userID:
+11502120
+Display Name:
+TeaLover767
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4496875.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love whole grains, and one with sorghum intrigued me. However,  I could not find that grain at the grocery,  so used barley, which I had on hand. All other ingredients remained as written.  It was tasty. I sprinkled the top crumbled Feta.

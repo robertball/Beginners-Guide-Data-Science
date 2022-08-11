@@ -1,0 +1,72 @@
+Recipe number:
+237754.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-08T12:38:21.92
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6898
+followingCount:
+0
+madeRecipesCount:
+2653
+favoritesCount:
+3308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+AWESOME! I really LOVE this take on the traditional cobb salad! I made my own falafel using 'Pan-Fried Falafel' from this site, and it was great. I made the falafel pretty small and cut them in 1/2 before putting on the salad so it would be easier to eat. I couldn't fit the feta in a row on the plate (it was too full, lol), so I just sprinkled it over top the falafel. I really, REALLY enjoyed this salad and so did my girls...I will def be making this again~YUM! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-03T04:21:59.597
+helpfulCount:
+1
+userID:
+6761192
+Display Name:
+Ida Crombine
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+210
+favoritesCount:
+684
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1349239.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was ingenious and delicious! I don't use the mix,but had some of Sean's Falafel (from this site) uncooked in my freezer. What a great recipe. Thank you, Jenn T.! Please post more of your creations, you kitchen goddess!

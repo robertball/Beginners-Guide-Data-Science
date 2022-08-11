@@ -1,0 +1,73 @@
+Recipe number:
+55694.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-09-01T19:30:07.467
+helpfulCount:
+0
+userID:
+841328
+Display Name:
+starshine57
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A first time effort in making a Banana Cream Pie--glad I chose this recipe. The chocolate crust was different and delicious. I'd use in other pie recipes. But we couldn't wait 2 hours to dig in and the pie "ran", but the next day ---wow.....It was perfect. And not too sweet. 
+It will be The Birthday Pie for my husband from now on.
+Review:
+Rating:
+3
+dateLastModified:
+2004-07-01T20:28:38.263
+helpfulCount:
+0
+userID:
+1129585
+Display Name:
+anniemae
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good but I am not sure it was worth all of the work.  I doubt I will make this again.  However, I will make the crust again and use an alternate filling.

@@ -1,0 +1,37 @@
+Recipe number:
+272490.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-12T03:42:17.327
+helpfulCount:
+0
+userID:
+20370017
+Display Name:
+Kelly Kidd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7103512.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All the recipes are great keep up the yummy work

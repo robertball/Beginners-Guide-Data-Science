@@ -1,0 +1,72 @@
+Recipe number:
+256733.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-02T21:50:17.347
+helpfulCount:
+1
+userID:
+24169574
+Display Name:
+Elisha C.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+221
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My daughter loved it, I booked hers in spring water and used the water to blend until really thin... Let it cool an d cut pouches out of foodsaver  bags sealed the sides out how much I give her in a serving and made individual serving sizes and vacuum sealed it to make sure I can get the best out of freezing them, to avoid freezer burn and lost/change of flavor!!!
+Review:
+Rating:
+2
+dateLastModified:
+2018-10-24T20:25:22.53
+helpfulCount:
+0
+userID:
+18452175
+Display Name:
+Megan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So it says, water to cover..which is NOT enough!! Especially for that time. My water evaporated, and they started to burn, so mine has a slight burnt taste, I'll see if shell eat it. But i through most of it away. Will definitely add more water next time.

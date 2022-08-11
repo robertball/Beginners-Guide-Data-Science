@@ -1,0 +1,72 @@
+Recipe number:
+268519.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-16T11:25:19.693
+helpfulCount:
+2
+userID:
+7658125
+Display Name:
+Andrea Morgan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+442
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7019030.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loooove this recipe! I  upped the chili flakes for my family's spicy palate but made no other changes. First batch is gone, so I bought more cukes for round 2. Delish!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-05T00:33:48.39
+helpfulCount:
+1
+userID:
+23789770
+Display Name:
+canesmojo
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5446289.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I couldn’t find brown mustard seed, so I just doubled the yellow mustard seed. Also tweaked the red pepper up by double. And I will never need to buy pickles again. These are better than anything you’d find in the supermarket and cheaper to make than you’d find them in a specialty store. And they couldn’t get a lot simpler to make either!

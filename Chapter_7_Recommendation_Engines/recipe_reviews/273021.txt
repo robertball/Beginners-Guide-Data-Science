@@ -1,0 +1,109 @@
+Recipe number:
+273021.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-17T23:34:39.767
+helpfulCount:
+0
+userID:
+26302276
+Display Name:
+Karen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipes exactly. It was a little spicy (good) and really needed salt. . No distinct flavor, nothing to really define it, a little bland. Also, this recipe made a very large portion - probably would feed 8. That would be good info to have on recipe - I would have cut in half.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-05T00:16:48.917
+helpfulCount:
+0
+userID:
+5140663
+Display Name:
+mrsmarti
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7005403.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it tonight.  the flavor was similar to vegetarian chili con carne. That seems to be due to the 2 t. of chili powder that over-powered the other spices. 
+I cut the red pepper flakes down to 1/8t, which still gave it a bite (hot, but not overly so). 
+It would have been nice to know what size the onions and tomatoes should be, as there are no 'cup' measurements.  Next time I will cut the chili powder to 3/4t. in hope the Indian spice flavor will stand out better.  And, I'll put in spinach or swiss chard toward the end.
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-30T02:13:05.29
+helpfulCount:
+0
+userID:
+15038755
+Display Name:
+Jean Perry
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a couple changes to this recipe. It sounded like too much spice, so reduced cumin and coriander by almost half. I also used sauté chicken. Instead of the cheese. It turned out delicious and not too spicy at all. I also left out the frozen peas and water.

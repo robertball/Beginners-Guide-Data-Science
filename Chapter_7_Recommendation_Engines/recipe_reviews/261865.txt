@@ -1,0 +1,72 @@
+Recipe number:
+261865.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-31T18:24:42.133
+helpfulCount:
+0
+userID:
+24995384
+Display Name:
+Nathan1337
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No But I will make it again
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-06T20:34:45.947
+helpfulCount:
+0
+userID:
+23801877
+Display Name:
+Unicorn_Girl 101
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5454445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have brown sugar, but I had tons of white sugar. So I used white granulated sugar and it turned out beautiful. I added x2 the amount of chocolate  chips too. Lol I made them round. I turned them into cookies!

@@ -1,0 +1,72 @@
+Recipe number:
+238503.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-12T01:44:42.58
+helpfulCount:
+5
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made one change which I will explain but this is excellent. I went to the specialty store and told the lady what I was making. She recommended a shrimp paste in a tube over the dried salted shrimp. She said the flavor was better, the tube had a longer shelf, and the texture would be better. So, with that being said, that is what I did. This was great! In my honest opinion I think anchovy paste would work in this too.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-28T23:28:47.077
+helpfulCount:
+0
+userID:
+18264018
+Display Name:
+Christie Giles
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful! next time I'll not add as much of the red pepper powder.  very spicy,  but great flavors!

@@ -1,0 +1,32 @@
+Recipe number:
+255630.txt
+Review:
+Rating:
+4
+dateLastModified:
+04/03/2017
+helpfulCount:
+0
+userID:
+melanieq
+Display Name:
+Buckwheat Queen
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8440171.jpg
+text:
+Delicious! It's the perfect consistency as a dip. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+04/29/2017
+helpfulCount:
+0
+userID:
+markstosberg
+Display Name:
+Mark Stosberg
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3785852.jpg
+text:
+A nice creamy dressing with a subtle basil flavor that let's the flavors of the fresh salad veggies shine through. I'm making it again today. It also appears on page 100 of "Moosewood Recipe Cooks at Home".

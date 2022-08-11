@@ -1,0 +1,72 @@
+Recipe number:
+237547.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-22T14:44:18.747
+helpfulCount:
+0
+userID:
+2666140
+Display Name:
+Fiona Turro
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3045561.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Im at the end of the month budget wise, and food wise, lol.  I always have several cans of spam on hand for emergencies, though I have literally never eaten it in my life.  I figured this was a good time to give it a try.  The pineapples kind of helped me decide.  Anyway, to my great surprise it came out really great.  I had to use a frozen mix of red and green peppers, but otherwise followed the recipe.  My son loved it!  I don't really eat meat..Not for any reason other than I don't like the texture of most meat, lol.  But I do taste it, and this actually was very good.  I made broccoli sauteed with butter and garlic, a touch of olive oil on the side.  All in all it came out great and was super easy.
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-23T15:58:48.26
+helpfulCount:
+0
+userID:
+4777000
+Display Name:
+Mullet Sniper
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/572614.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a very good way to have the spam taste less salty. My Whole family loved it and my picky eater went back for seconds :)

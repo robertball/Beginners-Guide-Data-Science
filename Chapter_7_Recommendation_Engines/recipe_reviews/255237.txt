@@ -1,0 +1,168 @@
+Recipe number:
+255237.txt
+Review:
+Rating:
+4
+dateLastModified:
+12/23/2017
+helpfulCount:
+1
+userID:
+22890422
+Display Name:
+Rebecca Reynolds
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4615816.jpg
+text:
+Good soft cookie... but needs about half the salt it says to add
+Review:
+Rating:
+2
+dateLastModified:
+12/20/2017
+helpfulCount:
+1
+userID:
+21248322
+Display Name:
+Cora Lynn
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4444413.jpg
+text:
+I'm going to start this off with a disclaimer I'm more of a cook than a baker. That being said it would be helpful if the recipe indicated that butter should be softened or melted before mixing. I added a little water to the batter because it seemed really dry and that led to sticky cookies that burned on the bottom. I would say the amount of sugar in the recipe could be decreased as well. In short don't make the mistakes I did!
+Review:
+Rating:
+5
+dateLastModified:
+09/25/2019
+helpfulCount:
+0
+userID:
+26023471
+Display Name:
+Isabella Garcia
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6956515.jpg
+text:
+Our cookies turned out great. They were soft and they had crunchy edges. We decided to add chocolate which wasn't the greatest idea because it was too sweet. Other than that it was great.
+Review:
+Rating:
+4
+dateLastModified:
+12/08/2019
+helpfulCount:
+0
+userID:
+26634695
+Display Name:
+Nina Martinez
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7420386.jpg
+text:
+I only made a dozen.
+Review:
+Rating:
+4
+dateLastModified:
+11/08/2018
+helpfulCount:
+0
+userID:
+15688547
+Display Name:
+cherrybordeaux
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I make these all the time for events and to bring to work on holidays. I only add a pinch of salt instead of the two teaspoons though. But people rave about them!
+Review:
+Rating:
+1
+dateLastModified:
+02/04/2018
+helpfulCount:
+0
+userID:
+22469431
+Display Name:
+Kymberlee Mooy
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5188357.jpg
+text:
+They look like puddles
+Review:
+Rating:
+4
+dateLastModified:
+12/08/2017
+helpfulCount:
+0
+userID:
+7265140
+Display Name:
+Kimberley Zellweger
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4854085.jpg
+text:
+Recipe is simple. Cookies are soft with crunchy edges. 2teaspoons of salt is too much I will change it to 1 teaspoon next time to cut the salty taste (especially when dipped in milk)
+Review:
+Rating:
+4
+dateLastModified:
+04/30/2020
+helpfulCount:
+0
+userID:
+22947819
+Display Name:
+Avert
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Great recipe except there is a typo in the instructions. Tells you to add eggs twice instead of butter. 
+Really easy and quick to make.
+Review:
+Rating:
+5
+dateLastModified:
+07/31/2019
+helpfulCount:
+0
+userID:
+25924589
+Display Name:
+Kaitlyn
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I will make it again love it and no changes were made
+Review:
+Rating:
+5
+dateLastModified:
+02/28/2017
+helpfulCount:
+0
+userID:
+lela
+Display Name:
+Lela
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7559577.jpg
+text:
+My family loved these cookies. A great recipe that I will look forward to making again.
+Review:
+Rating:
+3
+dateLastModified:
+11/11/2017
+helpfulCount:
+0
+userID:
+2292363
+Display Name:
+Bertha Bluhm
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These cookies are quite dry.

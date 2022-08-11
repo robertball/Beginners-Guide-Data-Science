@@ -1,0 +1,72 @@
+Recipe number:
+240266.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-02T22:27:00.957
+helpfulCount:
+1
+userID:
+14151784
+Display Name:
+Lorraine
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+93
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is going to be the stuffing I use from now on.  It was very very good.  I did stuff the turkey with it and it was fine.  I don't know why all the gluten free stuffing recipes put it on the side of the turkey in a baking dish.....great!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-24T01:05:04.593
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+471
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was soooooooo good!!!!!! I wasn’t sure about the apples, but they were a great addition. I wouldn’t change a thing, it was perfect as is. Thanks for a great recipe!

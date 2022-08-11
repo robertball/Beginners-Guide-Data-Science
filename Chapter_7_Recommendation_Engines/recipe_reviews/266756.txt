@@ -1,0 +1,37 @@
+Recipe number:
+266756.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-26T02:00:26.577
+helpfulCount:
+0
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+274
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3437
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As is I wasn't a big fan of this recipe.  It didn't taste like caramel corn, but, more like a sticky popcorn ball.  The softer caramel made the popcorn chewy. If I tried this recipe again I would try the optional instruction of the recipe author to cook in the oven for a crunchier texture.

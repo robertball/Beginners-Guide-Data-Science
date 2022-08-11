@@ -1,0 +1,337 @@
+Recipe number:
+268007.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-10T15:37:43.623
+helpfulCount:
+9
+userID:
+1372916
+Display Name:
+snow.phoenix77
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/221662.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these as-is and they're pretty good.  A couple of adjustments would make these stellar.  It lacks balance a little.  
+
+Bump up the cheesecake filling in each cookie.  It needs a solid layer to counteract the chocolate.
+
+Back off the cocoa powder just a bit.  It's very overpowering to the taste.
+
+Add a half tsp of salt to the cookie dough to bring out the flavor.  
+
+Chill the cookie itself in the fridge after it's been thoroughly cooled.  It'll keep the soft texture and allow the cheesecake layer to solidfy in texture and taste.  It really improved the as-is cookie a ton.
+
+Solid recipe.  I'll be making this again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-13T05:10:41.047
+helpfulCount:
+1
+userID:
+16918636
+Display Name:
+Desirée Howard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2905731.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definitely making these again! We love all things cheesecake so these were a hit, and super easy to make!
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-16T15:23:01.943
+helpfulCount:
+1
+userID:
+17873154
+Display Name:
+Steve Parrot
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+63
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are now by far my families favorite cookie...and mine...I've made them several times and the only thing that I've added is when the cookies are cool, I take some melted carmel and drizzle in over them....fattening but seriously worth it.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-12T05:38:51.02
+helpfulCount:
+0
+userID:
+21965557
+Display Name:
+Coley Emde
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+240
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7035250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made some of the changes others recommended: 
+-MY personal changes were adding 1/4 cup mini semi-sweet chocolate chips to the cheesecake mixture and sprinkling some cookies with cinnamon sugar and others with Heath bar toffee. 
+-use only 1/3 a cup of cocoa, anymore would've been too much I think.
+-because the cookies spread since you're indenting them I used a teaspoon scooper for the dough and then also for the cheesecake filling because people are right, you definitely need to add more filling in each.
+-I also chilled them after they had completely cooled from cooking. It really made the filling set and added something to the cookie so I'd recommend trying it with at least half your batch so you can see the difference for yourself. 
+
+Will definitely make again!!! They are good and different which is nice.
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-30T01:25:17.803
+helpfulCount:
+0
+userID:
+25917028
+Display Name:
+Joseph Tudda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6884392.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed exactly.
+
+Overall, a very good chocolate cookie. Not too sweet, no bitterness, and excellent chocolate flavor. The cheesecake filling didn't really add any cheesecakey flavor though. I tasted both components before baking and the filling was pretty cheesecakey. It lost something in the baking, and was more of an icing on the finished product. It didn't take away from the cookie, but it really didn't  add "cheesecake" to it either.
+
+Overall, I give this 3.5 stars because it should have been much more of a cheesecake flavor if it's going to be called a cheesecake cookie. Still a good cookie though.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-25T05:09:46.78
+helpfulCount:
+0
+userID:
+23237563
+Display Name:
+Linwarai Noodlin
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6584498.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’m in love with these cookies
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-01T19:07:03.483
+helpfulCount:
+0
+userID:
+25041773
+Display Name:
+BakerSavy1221
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6328987.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make it again
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-12T01:42:41.08
+helpfulCount:
+0
+userID:
+12482818
+Display Name:
+Katie Blais
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+80
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5791444.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were a lot richer than what I usually make. My husband could only have one. They tasted good and I liked the soft chewy texture. However, my cookies did crack a lot around the outside, I am not sure why.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-01T18:14:45.84
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cookie has wonderful chocolate flavor with a nice cheesecake-like top.  The cookies spreads quite well so I wish I had added more of the cheesecake-like mixture.   The texture of the cookie is more cake-like and not crisp, so if you like a softer cookie you will enjoy this sweet little morsel.

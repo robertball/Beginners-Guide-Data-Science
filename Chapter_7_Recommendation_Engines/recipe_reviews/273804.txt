@@ -1,0 +1,72 @@
+Recipe number:
+273804.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-04T15:53:07.39
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added cilantro to the blender because we love it but other than that I made as written. The veggies are nowhere near charred at 5 minutes. I ended up broiling them on high for 15 minutes. This has good flavor and it is one I will make again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-23T20:39:20.64
+helpfulCount:
+0
+userID:
+24294231
+Display Name:
+Krystle Ausbrooks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5801629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the mix, spice and lime juice! Just used 4 not 6 garlic and coconut oil. Good with chips and on tacos

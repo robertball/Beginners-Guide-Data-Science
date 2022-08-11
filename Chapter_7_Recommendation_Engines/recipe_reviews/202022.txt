@@ -1,0 +1,108 @@
+Recipe number:
+202022.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-07-05T13:01:40.25
+helpfulCount:
+13
+userID:
+287781
+Display Name:
+Gail Cobile
+isPro:
+False
+followersCount:
+181
+followingCount:
+0
+madeRecipesCount:
+263
+favoritesCount:
+771
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2563738.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love how easy this is with super simple ingredients. Almost a buttermilk flavor and with all this lettuce, one I'll do over again. Great timing. Thanks for sharing cooks4forty!
+Review:
+Rating:
+3
+dateLastModified:
+2009-10-08T11:45:30.077
+helpfulCount:
+5
+userID:
+2830720
+Display Name:
+Love2Cook
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/215746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was not for us.  Tasted like milk, vinegar, and sugar. Maybe try it with rice vinegar?
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-23T23:36:46.74
+helpfulCount:
+1
+userID:
+4962718
+Display Name:
+Renae Hoggarth
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+380
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Although I thought it was good, hubby thought it was too tangy.  I would probably add less vinegar the next time I made it.
+I made this again but added about 1/4 cup of mayo.  And it was just right for us.

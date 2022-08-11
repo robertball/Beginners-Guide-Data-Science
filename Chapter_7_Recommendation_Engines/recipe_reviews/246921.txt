@@ -1,0 +1,37 @@
+Recipe number:
+246921.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-27T20:06:38.793
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The marinade for the meat is excellent! I only had 2 hours for marinating time and the meat came out super tender. I'm anxious to try this again when I can let it sit in the fridge all night. The vinegar smells strong but don't let it scare you off because it tenderizes the meat nicely and cooks off during cooking. I did choose to grill the meat out of personal preference but that is the only change I made. The one thing about the recipe I didn't love was the salad dressing. It needed acidity in my opinion so next time I will add a splash of red or white wine vinegar. This recipe is excellent and is one I will make often. Thanks for sharing!

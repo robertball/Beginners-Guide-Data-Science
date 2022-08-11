@@ -1,0 +1,72 @@
+Recipe number:
+280015.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-05-14T22:32:05.92
+helpfulCount:
+2
+userID:
+5118896
+Display Name:
+fabeveryday
+isPro:
+False
+followersCount:
+195
+followingCount:
+0
+madeRecipesCount:
+495
+favoritesCount:
+424
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were delicious! I thought they might have too much seasoning but it ended out tasting perfect for my family’s taste (we like a lot of seasoning). I had a little bit of trouble keeping some of them together but I probably should have worked in smaller batches (I cooked all at the same time). I served mine with egg noodles and brown gravy.
+Review:
+Rating:
+5
+dateLastModified:
+2020-06-11T13:22:06.437
+helpfulCount:
+0
+userID:
+23611411
+Display Name:
+Dwayne L G
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+204
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6359021.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe although maybe a little dry due to the one cup of bread crumbs. Next time I'll probably add a little less. Otherwise made about 20 meatballs that went a long way.

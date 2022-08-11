@@ -1,0 +1,72 @@
+Recipe number:
+245974.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-23T18:47:21.63
+helpfulCount:
+3
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pleasantly surprised by this dish!  Adding the veggies to the rice really sped things up, not to mention saving having to clean an additional pan.  I used onion and broccoli, which was fabulous!   I used thyme as my seasoning on the steak, which was a nice change, however the family still missed salt on their beef.
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-04T16:10:17.577
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This came together in a flash and I actually pulled it off in less than 30 minutes. The rice is universal enough that you could use any vegetables you like or ones you had leftover from another meal. I do have one suggestion and that is that you finely chop your fresh herbs before combining them with the oil so that they distribute better on the steak. This is a great recipe for when you are short on time or simply don't feel like slaving for hours in the kitchen.

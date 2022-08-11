@@ -1,0 +1,37 @@
+Recipe number:
+279919.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-06-09T21:34:10.59
+helpfulCount:
+0
+userID:
+4342225
+Display Name:
+blb1319
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+540
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite easy to make and my first time.  My bar for Baba Ganoush is a middle eastern restaurant in San Francisco and I haven't tried any that was as good as that one yet!

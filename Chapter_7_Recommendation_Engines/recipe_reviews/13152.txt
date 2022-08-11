@@ -1,0 +1,37 @@
+Recipe number:
+13152.txt
+Review:
+Rating:
+1
+dateLastModified:
+2007-10-08T09:49:57.863
+helpfulCount:
+23
+userID:
+2523888
+Display Name:
+kleon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After i browned it, and put the milk in it automatically turned hard. I am willing to try the other recipe for this but certainly not this one again.

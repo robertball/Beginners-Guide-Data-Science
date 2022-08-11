@@ -1,0 +1,37 @@
+Recipe number:
+234979.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-11-02T05:18:53.227
+helpfulCount:
+0
+userID:
+7853359
+Display Name:
+Joey Joan
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+561
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7645128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is just okay, nice flavor, good ingredients and easy enough to make. I just wasn't impressed with the end results.

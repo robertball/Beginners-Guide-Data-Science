@@ -1,0 +1,37 @@
+Recipe number:
+229332.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-31T23:29:55.75
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As written this turns out pretty thin. I like it that way but if you are looking for thick and creamy I suggest not adding all 4 cups of the reserved water at once. You're going to need some but I would start with 2 cups and go from there. I think using reserved bacon grease instead of olive oil would add a lot more flavor too. Overall a good recipe.

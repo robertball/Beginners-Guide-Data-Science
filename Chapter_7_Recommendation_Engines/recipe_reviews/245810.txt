@@ -1,0 +1,107 @@
+Recipe number:
+245810.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-31T16:50:30.057
+helpfulCount:
+1
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-23T23:29:55.02
+helpfulCount:
+0
+userID:
+24911614
+Display Name:
+Mario Spaghetti
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6239585.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No lime sherbet at Albertsons, so I used orange sherbet, but it became Sherbet Islands.
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-08T01:28:31.813
+helpfulCount:
+0
+userID:
+20525495
+Display Name:
+Matthew John Foley
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4453433.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was great.

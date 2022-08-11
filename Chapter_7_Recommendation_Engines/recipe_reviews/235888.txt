@@ -1,0 +1,107 @@
+Recipe number:
+235888.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-12-14T16:58:15.473
+helpfulCount:
+1
+userID:
+11460402
+Display Name:
+conleytx1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was so hungry for deeply flavored Chocolate Cookies (without Chocolate Chips or icing) and I had a hard time finding this recipe. These are not just for Christmas, but anytime!    They are delicious - but I  cut the icing to 1/4 of what they said and drizzled it over them - plenty!  Very orangy, but I love a chocolate orange flavor.   I think you could substitute cherry and make them chocolate cherry flavored, too.
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-24T01:43:55.077
+helpfulCount:
+1
+userID:
+4413353
+Display Name:
+Ignazia Vella
+isPro:
+False
+followersCount:
+41
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+914
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4221301.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+my cookies are a hit !! made a a lot for xmas day and for new year too
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-21T03:18:09.187
+helpfulCount:
+0
+userID:
+16570119
+Display Name:
+Rob Barr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2671453.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+tastes like my wife's , but I loved it...

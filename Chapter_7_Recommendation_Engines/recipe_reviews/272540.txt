@@ -1,0 +1,72 @@
+Recipe number:
+272540.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-04T00:13:54.09
+helpfulCount:
+1
+userID:
+21403810
+Display Name:
+Mimi YuYu
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5749280.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe for the sauce except I used 3/4 cup instead of a whole cup of soy sauce. I used trimmed boneless skinless chicken thighs. And I doubled the amount of meat but kept the sauce ratio as is. The whole family enjoyed it.  I sprinkled some dried chives on mine. Next time I will use fresh ginger and maybe less sugar.  Also it was very very tender. The cooking time maybe lowered by about 4-5 minutes.  But if you follow the recipe as is I’m sure you will like it!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-21T19:25:09.77
+helpfulCount:
+0
+userID:
+5816506
+Display Name:
+crystalandjohn2002
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Husband said this is his new favorite instant pot recipe (and that's saying something).  The corn starch didn't seem to do much to thicken it up but the flavor was outstanding!  Served it over rice and it was devoured by all 3 of my kids (that's also a big deal).  Already on my next week's meal plan!

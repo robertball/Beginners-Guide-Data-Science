@@ -1,0 +1,37 @@
+Recipe number:
+143442.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-02T23:46:08.673
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this tea even though I'm not big on the liquorice taste of fennel. I used some tea from tea bags I got in a hotel room, I figured you can't get cheaper than that. I've never been on an Indian train, but something tells me there should be some ginger in this. It is nice and re-heats well. Thank you KitchenBarbarian for this recipe.

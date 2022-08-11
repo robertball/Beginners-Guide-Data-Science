@@ -1,0 +1,37 @@
+Recipe number:
+246985.txt
+Review:
+Rating:
+1
+dateLastModified:
+2016-05-29T23:30:49.923
+helpfulCount:
+0
+userID:
+2128380
+Display Name:
+W. Adkisson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+946
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way too tangy from the lime juice, I didn't enjoy this at all.

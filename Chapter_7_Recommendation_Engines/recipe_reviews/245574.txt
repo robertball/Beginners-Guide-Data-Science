@@ -1,0 +1,72 @@
+Recipe number:
+245574.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-19T04:38:14.597
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this! I can only do chocolate in small does (allergic) and this was the perfect bite for me. Super simple, creamy, and downright delicious!  I typically send stuff like this with the hubs to share at work but not these. They hold great in the fridge and I will eat them all myself ...one piece at a time. Excellent recipe! Thanks for sharing sweet girl!
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-17T16:52:28.48
+helpfulCount:
+1
+userID:
+20937931
+Display Name:
+Corrie Kent Radke
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are great! We made them a little smaller but otherwise followed the recipe and they're a hit!

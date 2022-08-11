@@ -1,0 +1,37 @@
+Recipe number:
+268841.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-19T20:35:19.31
+helpfulCount:
+0
+userID:
+4861393
+Display Name:
+Mary Horyd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+4970
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2599541.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Make sure you don't make this bigger than a tablespoon size otherwise the inside will taste a little raw.  I missed the word tablespoon size and just saw dollop and I guess my dollop was too huge.  I would try this again but make them a smaller size.

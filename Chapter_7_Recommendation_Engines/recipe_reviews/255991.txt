@@ -1,0 +1,72 @@
+Recipe number:
+255991.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-18T01:03:07.067
+helpfulCount:
+0
+userID:
+23090835
+Display Name:
+OldDoc
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4917800.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good. I made a half recipe since there are just two of us. I used yellow hominy since that is what I had growing up. I used about 1/3 of a small can of green chilies. This was a winner. I made this with the baked Sicilian chicken, asparagus. I made a sauce for the asparagus from white wine, butter, black pepper and 2 garlic cloves.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-03T03:23:04.993
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love hominy and this was a tasty recipe to have it.  I did drain the hominy and there still was a lot of  liquid after baking that I drained off Might be better to make a cheese sauce with a bit of flour and then bake it all together

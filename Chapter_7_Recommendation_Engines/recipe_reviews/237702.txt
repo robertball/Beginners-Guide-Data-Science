@@ -1,0 +1,37 @@
+Recipe number:
+237702.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-27T21:21:45.907
+helpfulCount:
+5
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+519
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2068
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so easy! What a wonderful treat to nibble by the pool on a hot summer day. I froze the leftovers and ate the frozen cubes too. I think I like the frozen better in fact. Thanks for sharing this delightfully refreshing snack Lisa Combest.I will make it all summer!

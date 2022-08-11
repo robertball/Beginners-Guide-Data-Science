@@ -1,0 +1,107 @@
+Recipe number:
+241635.txt
+Review:
+Rating:
+1
+dateLastModified:
+2015-06-08T15:16:17.663
+helpfulCount:
+2
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12223
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+2/3 cup water for 3 cups + flour is not enough.  Maybe 1 2/3 cups?
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-17T15:31:04.007
+helpfulCount:
+1
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9052
+followingCount:
+0
+madeRecipesCount:
+612
+favoritesCount:
+979
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only thing I changed was the quantity of sugar. I used a maximum of 2 Tablespoons. I believe the other flour and oil quantities are not a necessity. I used a total of 3 cups of flour/bread flour. I found the 1/4 cup oil and 2/3 cup water sufficient. Minus a buttery taste this makes me think of the old Chicago style deep dish pizza. I cooked my dough in a cast iron skillet, but prefer my own recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-05T01:49:02.753
+helpfulCount:
+0
+userID:
+22249351
+Display Name:
+Mike Dalgleish
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I use this recipe for panzo crust. It's perfect!

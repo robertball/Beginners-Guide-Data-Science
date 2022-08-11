@@ -1,0 +1,37 @@
+Recipe number:
+240024.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-07T18:07:42.757
+helpfulCount:
+2
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+870
+followingCount:
+0
+madeRecipesCount:
+610
+favoritesCount:
+2578
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice change from the usual. I don't buy parsnips very often, for lack of recipe ideas, so I was excited to try this.  I made it exactly as written. The recipe didn't say to drain the cooking liquid, so I assumed it was to be left in the pot.  It seemed like a lot of liquid to me, so I drained about half of what was left. Even with the liquid I removed, the mixture was plenty moist to puree. I think next time I might blend in the green onion after cooking for more flavor.  Much easier to remove liquid first and add in later, then to puree and realize the mixture is too runny! I served this with some roasted turkey breast for a nice healthy meal. Thanks thischris!

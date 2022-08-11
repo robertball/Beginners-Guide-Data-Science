@@ -1,0 +1,72 @@
+Recipe number:
+220523.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-21T22:28:09.917
+helpfulCount:
+7
+userID:
+2731673
+Display Name:
+slap yo momma
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+728
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the smoothest and cheapest recipe I have found for quality Irish Cream
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-17T20:30:12.687
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+400
+followingCount:
+0
+madeRecipesCount:
+1107
+favoritesCount:
+3213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made homemade Irish cream before and the recipes that I have do not call for eggs. So I left them out of this recipe also. I think if I used heavy whipping cream in place of the evaporated milk it would take it way over-the-top, replacing the creaminess the eggs would have given it. Overall a good recipe for Irish cream. Update: just made a similar recipe with heavy whipping cream, much better and creamier.

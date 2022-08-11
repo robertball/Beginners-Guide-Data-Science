@@ -1,0 +1,72 @@
+Recipe number:
+238855.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-26T06:36:15.567
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Light and refreshing mix of textures and flavours. I was worried about the mozzarella in citrus so I ate it immediately instead of letting it sit. This serves nicely with some tortilla chips. I added some hot peppers and bean sprouts. Ceviche flavours for those of us who can't eat fish! Thank you Traceya822 for sharing your recipe. Update 28/4 I made this with tofu instead of mozzarella and it was delicious! Makes for nice vegan meal!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-01T15:10:00.047
+helpfulCount:
+0
+userID:
+22092368
+Display Name:
+lynnandjohng@gmail.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this recipe!  Fresh and tasty!

@@ -1,0 +1,32 @@
+Recipe number:
+275747.txt
+Review:
+Rating:
+5
+dateLastModified:
+11/29/2019
+helpfulCount:
+1
+userID:
+1698281
+Display Name:
+Kelly Norris Griffin
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7014507.jpg
+text:
+there so good
+Review:
+Rating:
+2
+dateLastModified:
+10/22/2019
+helpfulCount:
+0
+userID:
+26211477
+Display Name:
+J WHITE
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7100167.jpg
+text:
+I dont know what I did wrong, but they were tiny and pretty dry tasting.... I'll have to figure out what I did wrong... I will try it again....

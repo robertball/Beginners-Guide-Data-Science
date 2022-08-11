@@ -1,0 +1,108 @@
+Recipe number:
+214993.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-07-05T01:20:37.683
+helpfulCount:
+37
+userID:
+2722366
+Display Name:
+cstopre
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+In this masala recipe quantity of nutmeg is too much.This will make masala bitter and too much taste of nutmeg  for any savoury dish is not fine.My suggestion is to reduce nutmeg quantity and add some coriander seeds in masala.We use this masala for gravies and pulaos. Chhaya
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-29T05:38:41.023
+helpfulCount:
+1
+userID:
+16263885
+Display Name:
+Lylah Tabisula
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2544752.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you’re having a tough time finding a good garam masala for this recipe, 
+I used  RawSpiceBar’s freshly ground garam masala spice blend and it was wonderful in this dish.
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-15T00:12:42.543
+helpfulCount:
+0
+userID:
+22054642
+Display Name:
+Rebecca Myers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was awesome!

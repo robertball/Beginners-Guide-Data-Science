@@ -1,0 +1,107 @@
+Recipe number:
+239391.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-03T22:15:26.88
+helpfulCount:
+0
+userID:
+20108056
+Display Name:
+Jacque Metzler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have pumpkin pie spice so I used pumpkin pie mix instead of pure pumpkin puree. I also put a tablespoon of it in the frosting. At the end, I sprinkled some cinnamon sugar mix on top . Instead of cupcakes, I used 2 of Pampered Chef's brownie pan and they made perfect squares. Made them for a party  and they were a hit!
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-16T23:30:30.64
+helpfulCount:
+0
+userID:
+11771985
+Display Name:
+Pennie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+146
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cupcake was very moist. Didn't care for the frosting had to make adjustments with some more powdered sugar , vanilla and butter. Will make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-17T12:32:59.917
+helpfulCount:
+0
+userID:
+16717053
+Display Name:
+Sierra Siesie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2768578.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So cool! And delicious!

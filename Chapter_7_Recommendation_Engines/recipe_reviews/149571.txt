@@ -1,0 +1,116 @@
+Recipe number:
+149571.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-01-01T09:41:58.797
+helpfulCount:
+2
+userID:
+1750980
+Display Name:
+Samantha
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+152
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My first attempt at cooking lamb and I wasn't disappointed! The color is a bit pale but tasted really good. Might add some tumeric or chili powder next time to make it a little more vibrant. The lamb gets nice and tender though! Thanks :)
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-26T03:17:56.39
+helpfulCount:
+1
+userID:
+1831935
+Display Name:
+Alex
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Family loved this and it's really quick and easy to make. Left out the chilli (because of young children) and used less lamb (because that's all we had), so modified some other amounts. Wife wanted left overs for lunch, but there isn't any.
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-27T14:38:08.663
+helpfulCount:
+0
+userID:
+15690144
+Display Name:
+Michael Corazón
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2240669.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice recipe overall (although I made changes due to limitations and personal preferences.)
+
+- Canola and coconut oil instead of ghee 
+- Canned salt-free plum tomatoes (hand-chopped) instead of regular tomatoes 
+- Chopped garlic and ginger instead of paste
+- Powder instead of whole seed spcies
+- Allspice instead of clove
+- Habaneros instead of arbol peppers
+
+I browned everything except for the tomatoes and juice, then added the tomatoes and juice. Simmered for 45 minutes and added salt, two bay leaves, coriander, turmeric, paprika, and cumin to taste.

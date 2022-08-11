@@ -1,0 +1,37 @@
+Recipe number:
+273543.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-10T19:26:19.29
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5755
+followingCount:
+0
+madeRecipesCount:
+2830
+favoritesCount:
+6010
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+6.10.19  I make smoothies with avocados occasionally, so I was pretty sure that I’d like this, and I wasn’t wrong.  The avocado brings incredible creaminess, but I’d suggest that you start out modestly with the sugar.  I’m not into super sweet these days, so I did cut it back quite a bit to suit my taste, and it was still plenty sweet for me.  You always can add more to the blender if you want it sweeter.

@@ -1,0 +1,72 @@
+Recipe number:
+262742.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-10T15:28:04.807
+helpfulCount:
+1
+userID:
+14538057
+Display Name:
+Jaw1972
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6805547.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed recipe to the letter.    This is better than regular mac n cheese.  Really different and full of flavor
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-31T17:40:23.917
+helpfulCount:
+0
+userID:
+25635199
+Display Name:
+Allysson Silva
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6686517.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it, it's cool

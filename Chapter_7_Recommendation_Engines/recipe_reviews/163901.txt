@@ -1,0 +1,72 @@
+Recipe number:
+163901.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-05-31T14:03:43.57
+helpfulCount:
+9
+userID:
+2954693
+Display Name:
+Izzi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sounds yummm
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-11T06:41:51.127
+helpfulCount:
+2
+userID:
+12180680
+Display Name:
+Jackie Carroll
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7443623.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very tasty served it with grits for breakfast. I added a little more red pepper as I like hot, but didn't add any salt as I find corned beef salty enough (Y)

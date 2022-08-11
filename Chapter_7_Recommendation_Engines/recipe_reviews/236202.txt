@@ -1,0 +1,107 @@
+Recipe number:
+236202.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-05T17:47:47.157
+helpfulCount:
+0
+userID:
+1454457
+Display Name:
+AKBRUSH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6508698.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’m in agreement with the other reviews. The flavor is lacking something and the texture is very dry. I did try increasing the garlic, but it didn’t really help. Maybe it needs something tart like citrus.  I will not be making this again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-30T22:47:30.183
+helpfulCount:
+0
+userID:
+23204954
+Display Name:
+Diane Robison
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree with Jordan. Did you ever figure out what needed to be included to give it a bit more pizzazz? Do you think swapping out the olive oil with sesame oil would help?
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-14T09:39:09.503
+helpfulCount:
+0
+userID:
+13204676
+Display Name:
+Joe Jordan
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1947513.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Rather boring. A modified version of this recipe with something to add a bit more moisture to the mix would be appreciated. Will experiment and post with results.

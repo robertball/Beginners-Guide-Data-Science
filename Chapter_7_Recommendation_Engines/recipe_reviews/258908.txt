@@ -1,0 +1,37 @@
+Recipe number:
+258908.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-12T00:54:47.69
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+765
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are very convenient for weekday breakfasts when on-the-go is the norm. The flavor is good, although I thought they could use more salt. They are very easy to customize to personal tastes with different veggies and spices.  I made them exactly as written and barely had enough mixture to make 12.  You'd be better off making 10.  They are very small  (about 1" thick) and ended up with concave bottoms (?), so even smaller than they appeared before taking the cupcake liners off...which by the way, are quite difficult to get off because the eggs stick to them. I would make them in silicon or greased cupcake pans next time.

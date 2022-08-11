@@ -1,0 +1,32 @@
+Recipe number:
+244895.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/24/2019
+helpfulCount:
+0
+userID:
+16250328
+Display Name:
+LittleRedBird
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5781250.jpg
+text:
+Followed recipe exactly and they were quite delicious. Next time I will probably half the béchamel as I had a lot left over.
+Review:
+Rating:
+5
+dateLastModified:
+01/08/2018
+helpfulCount:
+0
+userID:
+21892375
+Display Name:
+Olivia
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These are very yummy.

@@ -1,0 +1,72 @@
+Recipe number:
+255338.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-12T02:46:04.95
+helpfulCount:
+2
+userID:
+5853206
+Display Name:
+Rose Murphy
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2063009.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a big hit - there were no leftovers. The only change I made was a reduction in the spices only because I discovered I was low on cumin too late. I will make this again and use the recommended amounts. My guest has already requested the recipe!!
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-31T05:19:10.227
+helpfulCount:
+0
+userID:
+23146006
+Display Name:
+Debrah Olsen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4983910.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this dish. It was a hit with my husband and kids too. The only thing I added was a bit if yogurt dipping sauce that I whipped up using the same spice mixture. I didn’t get a picture, unfortunately.

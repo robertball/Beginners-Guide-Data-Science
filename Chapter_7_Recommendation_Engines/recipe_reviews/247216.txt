@@ -1,0 +1,72 @@
+Recipe number:
+247216.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-06-13T16:51:35.69
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1062
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used the Ghirardelli Double Chocolate brownie mix, it's a great way to use up the instant coffee in your pantry, but the kahlua would best be served in something else.
+Review:
+Rating:
+3
+dateLastModified:
+2016-06-11T17:06:54.417
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+586
+followingCount:
+0
+madeRecipesCount:
+2210
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't normally buy brownie mixes so the reason I didn't like it as much as I had hoped may be  because of the quality of the brownie mix I had used.   The brownie was flat and the flavor was just OK.   I used it as a base for a brownie sundae which worked out well.

@@ -1,0 +1,107 @@
+Recipe number:
+233440.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-01T15:06:43.8
+helpfulCount:
+0
+userID:
+9188917
+Display Name:
+Scott N Robin Lalonde
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4122385.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cooked it in a Dutch oven on a wood cookstove for hours and substituted Merlot for for the cooking sherry and skipped the orange juice. I also altered the quantities and used fresh spices.  After the meat was falling apart tender I added potatoes to the pot. Then 30 minutes before serving added carrots.   Excellent one pot meal.
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-26T20:53:38.66
+helpfulCount:
+0
+userID:
+5475700
+Display Name:
+Tammy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The venison was great very tasty. made it for a dinner party everyone loved it. I would make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-17T01:47:40.683
+helpfulCount:
+0
+userID:
+14843857
+Display Name:
+tim the tool man
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was amazing used port instead of cherry but will definitely be having it again thanks magpie

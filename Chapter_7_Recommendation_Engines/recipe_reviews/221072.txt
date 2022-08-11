@@ -1,0 +1,37 @@
+Recipe number:
+221072.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-14T11:53:00.113
+helpfulCount:
+3
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+6009
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used mini bell peppers and gourmet mini cucumbers.  The cukes are unwaxed and tender, so I didn't peel.  The recipe's name so aptly describes this salad, as it is exactly that.  Admittedly, I had some concerns that the lemon juice might make it too tart, but the sweetness of the yellow and red bell peppers as well as the sweet cukes offset the tartness just enough.  As a definite plus, its colorful ingredients present themselves very well.  Nice and VERY nutritious!

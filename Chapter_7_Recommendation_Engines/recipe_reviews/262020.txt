@@ -1,0 +1,107 @@
+Recipe number:
+262020.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-16T16:24:15.517
+helpfulCount:
+0
+userID:
+3095463
+Display Name:
+Beverly Keelin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+169
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5389014.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I LOVE this recipe! The only change I made was to double the amount of broth, so the curry had a mild flavor and specifically use portabella mushrooms. This is my new winter favorite soup! Thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-23T00:20:34.303
+helpfulCount:
+0
+userID:
+2568321
+Display Name:
+Pauli O'Donnell
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+466
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only change I made was to add more curry powder. Otherwise it was great. I’ll definitely make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-17T22:44:00.363
+helpfulCount:
+0
+userID:
+11878307
+Display Name:
+Donna Cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+169
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Only used half the amount of curry and half the amount of mushrooms.

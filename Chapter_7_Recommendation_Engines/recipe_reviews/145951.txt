@@ -1,0 +1,72 @@
+Recipe number:
+145951.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-22T21:45:14.543
+helpfulCount:
+19
+userID:
+4787563
+Display Name:
+BonBon
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We use to make these all the time.  When I saw "Pink Lady", I couldn't believe my eyes.  We always made these using ice cream.  Use the grenadine syrup and the gin.  Put it into blender and you will the best of the best.  I love eating the first of it with a spoon!
+Review:
+Rating:
+4
+dateLastModified:
+2009-02-07T15:06:05.5
+helpfulCount:
+14
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very interesting.

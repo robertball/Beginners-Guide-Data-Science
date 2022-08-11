@@ -1,0 +1,37 @@
+Recipe number:
+261103.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-20T20:50:35.21
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+541
+favoritesCount:
+704
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fun drink! Loved the flavors beyond just the normal mixing of fruit juice. Served along with waffles. Would make again with no changes!

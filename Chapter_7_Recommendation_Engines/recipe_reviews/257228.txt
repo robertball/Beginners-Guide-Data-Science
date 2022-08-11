@@ -1,0 +1,72 @@
+Recipe number:
+257228.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-07T23:14:36.213
+helpfulCount:
+0
+userID:
+21865738
+Display Name:
+Margaret Cox
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+99
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5629424.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good!
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-19T19:13:38.207
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Due to personal preference I swapped the measurements around for the mint and cilantro. A little bit of mint goes a long ways with us. With that being said, this was great! If you love mint then I say put it all in. I do feel as written it would need more cilantro. Then again, some people feel the same way about cilantro as I do about mint. I served this with chips to go with fajitas but it would be great as a spread for a sandwich or wrap. This one is a keeper!

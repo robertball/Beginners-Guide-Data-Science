@@ -1,0 +1,72 @@
+Recipe number:
+258158.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-10-05T21:24:29.72
+helpfulCount:
+0
+userID:
+26236083
+Display Name:
+Lucky Hoover
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7118040.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After reading this “simple” recipe with just four ingredients, I thought, “Wow, how could it go wrong?” Well, first, 20 minutes of steam was not enough for my potatoes. They were undercooked with hard white parts of uncooked potato. So I couldn’t make them nice and smooth and the color was more on the fuchsia side. Nuked um a couple minutes...The really frustrating part was the rice flour. Three tablespoons of lukewarm water added one tblsp at a time to one cup of rice flour left me with a bunch of mostly dry powder. Added more water 1 tblsp at a time until it stuck together 7-9 tblsps later. Rolled into 6 sep balls and tried to roll them out but it kept sticking and tearing to everything so powdered everything but still dough was tough to work with, especially the tearing part. Fried and the just turned into a hard as rock, crackly, unappetizing mess. And olive oil for frying, not the best idea. I have enjoyed fried mochi with peanut powder and shoyu in the past but this had no resemblance to that.
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-30T10:17:51.51
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make and eat. :-)

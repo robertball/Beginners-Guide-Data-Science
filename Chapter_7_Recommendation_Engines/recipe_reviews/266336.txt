@@ -1,0 +1,72 @@
+Recipe number:
+266336.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-04T14:28:13.933
+helpfulCount:
+2
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+420
+followingCount:
+0
+madeRecipesCount:
+1031
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a tasty jelly that I played with just a little bit to come closer to the seasonings I would actually use in a pie. I  subbed one cup of brown sugar for one of the cups of white sugar and added a tsp of vanilla, a pinch of allspice, and a pinch of clove.  This set a little looser than I would normally like my jelly but not overly so and it was delicious!
+Review:
+Rating:
+1
+dateLastModified:
+2019-08-13T13:39:43.527
+helpfulCount:
+0
+userID:
+13273485
+Display Name:
+Becky Squibb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5438761.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe, but could not get it to set up.  I reboiled it added more pectin and still not setting up.  Never had this problem before with jelly.

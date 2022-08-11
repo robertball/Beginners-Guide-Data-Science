@@ -1,0 +1,38 @@
+Recipe number:
+261554.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-20T14:11:27.293
+helpfulCount:
+0
+userID:
+23004409
+Display Name:
+Mary Grace Benko
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5732758.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this Father's Day Weekend.  I wasn't familiar with lavash bread, so I used crepes instead, which gave them a wonderful flavor.  Next time I would wrap with double crepes because mine fell apart and we had to eat them with a knife and fork.
+Delicious filling!

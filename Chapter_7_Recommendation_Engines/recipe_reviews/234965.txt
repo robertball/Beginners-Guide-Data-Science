@@ -1,0 +1,37 @@
+Recipe number:
+234965.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-10-23T06:29:52.4
+helpfulCount:
+6
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cooked this on the stove top, and it only takes about 20 minutes.  Great tasting Autumn breakfast!

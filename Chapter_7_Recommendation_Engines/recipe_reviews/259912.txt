@@ -1,0 +1,38 @@
+Recipe number:
+259912.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-27T17:02:49.387
+helpfulCount:
+1
+userID:
+10628093
+Display Name:
+Joan Freeman
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+190
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2129696.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were very good. I chose them because I had pear and banana to use, and I wanted a healthy breakfast/snack food.   I did need to cook them a little longer, or perhaps next time I'll bake them at 350.
+The muffins were moist and flavorful.  Thanks for the recipe, Danielle.

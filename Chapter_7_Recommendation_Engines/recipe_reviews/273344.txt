@@ -1,0 +1,37 @@
+Recipe number:
+273344.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-10T22:44:31.663
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Flavor is good and this turned out good but I made one change in the execution. I mixed the garlic, chili powder, and cheese in a bowl together prior to sprinkling it over the popcorn. I recommend doing this so that the flavors are even throughout instead of  getting a handful of chili powder here and and a handful of parm there.

@@ -1,0 +1,37 @@
+Recipe number:
+273420.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-08T16:33:46.1
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I hope I never find myself in a situation where I am needing to cook for 50 people. With that  being said, I scaled this recipe down to 20 servings. I am not familiar with brown onions and used a yellow onion instead and I used the dried cilantro instead of the epazote as the recipe submitter suggested. I wasn't thrilled about adding the cinnamon but it was actually the cardamon that overpowered the dish. I recommend scaling that way back. These were okay but not something I would make again...sorry.

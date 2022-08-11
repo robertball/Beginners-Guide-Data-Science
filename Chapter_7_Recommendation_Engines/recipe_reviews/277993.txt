@@ -1,0 +1,37 @@
+Recipe number:
+277993.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-04T23:01:03.607
+helpfulCount:
+0
+userID:
+21186987
+Display Name:
+SD Nole
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this last week and it was so good! The only change I made was leaving out the cilantro because I don't like it. But this was so fresh and delicious! 5*s

@@ -1,0 +1,37 @@
+Recipe number:
+246017.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-07T08:57:50.117
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+973
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The great Italian marriage of eggs and asparagus prove pretty nicely with pasta. Add bacon...and well, who's going to complain? The Barilla GF pasta is perfect with its balance of taste and texture, not something you find in gluten free pastas. Thank you for the recipe!

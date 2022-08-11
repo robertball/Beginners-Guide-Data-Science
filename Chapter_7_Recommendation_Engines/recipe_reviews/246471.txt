@@ -1,0 +1,37 @@
+Recipe number:
+246471.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-08-01T19:35:14.273
+helpfulCount:
+5
+userID:
+10708418
+Display Name:
+tmouse
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+235
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While plain is simple and good you can kick it up a bit by adding a bit of rice vinegar  and maybe a bit of Mirin or Saki while the rice is cooling. Put anything you like in the center, Ume (Umeboshi = pickled plums),   Bonito flakes & a bit of Soy sauce, any sushi grade fish, tuna or egg salad (kewpi Mayo is the best for this) or Tamagoyaki even Spam . Use a good grade of short grain rice so it is nice and sticky and there are real cheap shapers you can find to make whipping them out real easy. I prefer putting on the Nori right before eating so it does not get soggy.

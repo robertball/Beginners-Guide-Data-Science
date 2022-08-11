@@ -1,0 +1,37 @@
+Recipe number:
+274799.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-01T16:59:44.657
+helpfulCount:
+0
+userID:
+12588424
+Display Name:
+T.J.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6867454.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this last weekend. Turned out fantastic!! Took some to the hockey game the other night and the guys loved it. I will be making more for sure.

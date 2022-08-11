@@ -1,0 +1,72 @@
+Recipe number:
+272352.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-15T14:50:22.8
+helpfulCount:
+0
+userID:
+2268781
+Display Name:
+Jim
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+75
+favoritesCount:
+1165
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1203534.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have beer so I used apple juice. It still came out quite tasty and tender.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-12T00:50:48.417
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out good. This is almost identical to my own IP corned beef on this site. The only difference is the brown sugar. While I didn't taste the brown sugar, this did set up to a more slice-able beef. Not sure if that was the sugar or the fact I let it rest longer than suggested? Regardless, cook time is spot on. Good recipe!

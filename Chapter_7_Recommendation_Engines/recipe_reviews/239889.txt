@@ -1,0 +1,72 @@
+Recipe number:
+239889.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-07T16:16:29.7
+helpfulCount:
+4
+userID:
+12405082
+Display Name:
+reynoldsj13
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2615793.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a delicious, very filling dish! I modified the recipe a bit based on the ingredients I had around - I substituted cream of mushroom soup for the cream of chicken soup, left out the white wine, and didn't have dried basil or poultry spice on hand.  Despite the missing spices, this was flavorful and juicy.  It took more than 20 minutes for me to prepare, since the turkey I was using was not pre-cooked nor pre-cubed - I bought a full turkey breast, cut it up, and pan-fried it in all of its own juices and a bit of olive oil - the resulting turkey was delicious but it did take substantially longer to prep than I was expecting.  Well worth it though, I would definitely make this again!
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-14T11:39:03.08
+helpfulCount:
+0
+userID:
+17508443
+Display Name:
+Betty Cooks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3256096.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and easy!  I substituted corn for the potatoes and chicken broth for the wine. The poultry seasoning added a wonderful "comfort food" taste and aroma. Thanks for the recipe!

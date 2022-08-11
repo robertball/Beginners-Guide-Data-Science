@@ -1,0 +1,37 @@
+Recipe number:
+257538.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-08-05T23:27:43.003
+helpfulCount:
+0
+userID:
+25939140
+Display Name:
+Keith Lloyd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6899699.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We thought this was very tasty but slicing the loin thin and grilling led it to dry out. It also made a mess of my grill. I had the meat on about 60 seconds each side and the loin sliced about 1/8" thick. My 3 year old liked the sweetness and ate 2 tacos but it was too tough for my 15 month old.

@@ -1,0 +1,72 @@
+Recipe number:
+221144.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-01T22:23:06.513
+helpfulCount:
+2
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great refreshing drink!
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-27T00:19:27.51
+helpfulCount:
+0
+userID:
+21467865
+Display Name:
+Shannon Sullivan Martinez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6990345.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This drink was a huge hit with my Cuban relatives :-) When we ran out of sparkling mineral water we used ginger ale and it was just as good!

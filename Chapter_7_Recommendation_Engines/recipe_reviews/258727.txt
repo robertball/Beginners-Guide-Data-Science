@@ -1,0 +1,72 @@
+Recipe number:
+258727.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-20T21:34:16.81
+helpfulCount:
+1
+userID:
+23953323
+Display Name:
+Jason Partridge
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5560040.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good for my first time with this recipe, and with a short cooking time.
+Review:
+Rating:
+3
+dateLastModified:
+2018-04-01T14:26:17.763
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except for the BBQ sauce step. We prefer ours on the side. This is simple and straight forward but if you want fall off the bone tender you'll need to plan on a lot more cook time. When I checked these at 3 hours they were tough. I ended up pulling them up after 5 hours but they still could have gone longer.

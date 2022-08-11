@@ -1,0 +1,47 @@
+Recipe number:
+27134.txt
+Review:
+Rating:
+5
+dateLastModified:
+10/09/2003
+helpfulCount:
+7
+userID:
+385322
+Display Name:
+SHELLEY HITE
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipes was the best!!! it is a bit messy but I found htat if you leave it in the fridge over-night its sets up a little more its like whipped cream cake delicious!
+Review:
+Rating:
+3
+dateLastModified:
+10/09/2003
+helpfulCount:
+6
+userID:
+334928
+Display Name:
+KRITTLIN
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very Good but a bit messy to serve.
+Review:
+Rating:
+5
+dateLastModified:
+02/21/2008
+helpfulCount:
+4
+userID:
+1399365
+Display Name:
+CUTIEPIECOOK
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/64578.jpg
+text:
+I made it in individual serving glasses I thought it was fun.

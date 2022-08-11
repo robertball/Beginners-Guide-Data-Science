@@ -1,0 +1,37 @@
+Recipe number:
+259024.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-08T23:33:50.373
+helpfulCount:
+0
+userID:
+22033916
+Display Name:
+Lynn Jensen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a good meatloaf recipe that did not have bread in it. I saw this and decided to try it. I thought it was really delicious but I do have to say I made a few changes. I did not put the eggs inside of it and I didn’t have the almond. I added cheddar cheese instead. My family loved it.

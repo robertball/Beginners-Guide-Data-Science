@@ -1,0 +1,107 @@
+Recipe number:
+239182.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-28T17:02:25.797
+helpfulCount:
+4
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8917
+followingCount:
+0
+madeRecipesCount:
+1121
+favoritesCount:
+2303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty! I used coconut milk in place of the coconut juice, as I had exactly 1 cup left over from another use. I also used canned pineapple (2 rings) with a bit of the juice, due to the coconut milk being a little thicker, to help thin it out a bit. This made for a nice lunch smoothie, and made me wish I was on vacation in a nice warm place. Bet it would be good with a shot of rum!
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-06T23:58:52.837
+helpfulCount:
+1
+userID:
+21872737
+Display Name:
+Ellen Brodfehrer Robak
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this smoothie. Healthy and a treat at the same time!
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-27T01:38:35.75
+helpfulCount:
+1
+userID:
+3407228
+Display Name:
+Crystal Ortiz
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1716646.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was great :) YUUUMMM

@@ -1,0 +1,37 @@
+Recipe number:
+233670.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-08T02:48:48.05
+helpfulCount:
+0
+userID:
+13468732
+Display Name:
+dexx
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been making this turnip dish for many years, and it is the yummiest.    We don't have turkey dinner without it!   Even people who say they don't like turnips  can't believe that they like this dish.  The strong flavor of the turnip is mellowed with the addition of the eggs, brown sugar, etc.  Please give it a try.  You will love it.

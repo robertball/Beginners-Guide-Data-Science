@@ -1,0 +1,72 @@
+Recipe number:
+245766.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-12T01:29:00.11
+helpfulCount:
+0
+userID:
+23824009
+Display Name:
+Gwendolyn Wendy Evans
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5470248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it for my family and we loved it, its a menu favorite now
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-14T07:12:42.937
+helpfulCount:
+0
+userID:
+8528262
+Display Name:
+mg-newhampshire
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! I made it for the vegan in the family as an option to the chicken and beef fillings everyone else could choose for their burritos, and everyone liked this one just as much.

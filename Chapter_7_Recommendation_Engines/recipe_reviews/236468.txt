@@ -1,0 +1,107 @@
+Recipe number:
+236468.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-02T18:27:14.183
+helpfulCount:
+0
+userID:
+15674600
+Display Name:
+Baking Julia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this revipe.. But I felt that it needed more liquid and flavor. So I added a little extra milk and oil then some orange and almond extract. It was such a huge hit with my family! I believe i also cut back on one egg. I didn't want it cakey. :)
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-14T08:28:20.577
+helpfulCount:
+0
+userID:
+12286178
+Display Name:
+Lori Boyd
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+722
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1601416.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought it was very good ! Tasty and moist
+Review:
+Rating:
+3
+dateLastModified:
+2014-04-13T19:41:04.083
+helpfulCount:
+0
+userID:
+3215980
+Display Name:
+Missy Donovan
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1845721.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the directions, but it didn't turn out well.  It was really thick/dense, and tasted really flour-y.

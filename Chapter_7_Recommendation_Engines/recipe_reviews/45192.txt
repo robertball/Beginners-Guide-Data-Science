@@ -1,0 +1,72 @@
+Recipe number:
+45192.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-09-29T12:02:16.467
+helpfulCount:
+13
+userID:
+1355085
+Display Name:
+Aerospace Chef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you enjoy clam chowder then you should like this recipe. My roommates really enjoyed this and they are picky eaters. I made a much smaller quantity (about 8 servings worth) so cooking times were greatly reduced (except for the cook times in step 3). Add some dried parsley in the final step for a little extra flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2008-08-03T14:39:54.75
+helpfulCount:
+11
+userID:
+3062884
+Display Name:
+stopandsmellthecake
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We live near a river and my husband caught a soft shell turtle.  I tried this recipe and it was wonderful.  I did use light margarine instead of butter and 2% milk instead of whole milk.  It was still very rich and I believe we cut some of the fat out.  I'm making this one again thanks Mike.

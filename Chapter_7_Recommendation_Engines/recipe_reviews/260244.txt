@@ -1,0 +1,37 @@
+Recipe number:
+260244.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-20T06:18:17.55
+helpfulCount:
+2
+userID:
+22381001
+Display Name:
+Meggie and Kesiu Yin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It looks amazing and tastes heavenly! Cant wait till the next recipe like this comes out

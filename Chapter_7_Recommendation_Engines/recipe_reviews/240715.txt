@@ -1,0 +1,72 @@
+Recipe number:
+240715.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-01T18:37:25.917
+helpfulCount:
+2
+userID:
+6852404
+Display Name:
+Ashley Hooker
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6576176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I changed a few things to better suit our preferred taste.  Use sour cream instead of mayo and cut kale instead of broccoli.  Added seasonal and a good bit of cayenne pepper in seasoning the chicken and pasta mix. Last change is a sauté an onion and added to the mix.  All other steps and ingredients the same.  Great flexible recipe.
+Review:
+Rating:
+2
+dateLastModified:
+2017-01-20T02:44:21.547
+helpfulCount:
+1
+userID:
+13877584
+Display Name:
+Jessica Because
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3543588.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't make any changes. Otherwise I'd post my own recipe. I've never had this before so I can't compare it to others, but I guess I can said I don't like chicken divan. it was pretty boring. At the same time it wasn't horrible.

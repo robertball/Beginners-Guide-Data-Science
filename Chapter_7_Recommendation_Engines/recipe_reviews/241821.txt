@@ -1,0 +1,107 @@
+Recipe number:
+241821.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-24T03:44:14.38
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful! Easy to put together, fast and simple yet sophisticated in flavour. I used gluten free rice crisps instead of baguette. The thyme and balsamic vinegar are great together. Thank you Saveur for this great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-22T16:07:08.99
+helpfulCount:
+0
+userID:
+24210173
+Display Name:
+Leslie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7028101.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious.  Didn’t use the thyme, tasted just perfect without it.
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-27T15:00:42.49
+helpfulCount:
+0
+userID:
+1789946
+Display Name:
+lisa j
+isPro:
+False
+followersCount:
+52
+followingCount:
+0
+madeRecipesCount:
+102
+favoritesCount:
+612
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/393186.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Five stars for easy plus fantastic taste. I used bruschetta toast which I will not do again. Will use the toasts recommended in the recipe, I just didn't have any on hand. The bruschetta toast makes a mess.

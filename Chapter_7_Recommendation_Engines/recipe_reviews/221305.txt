@@ -1,0 +1,72 @@
+Recipe number:
+221305.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-26T18:08:19.98
+helpfulCount:
+4
+userID:
+11907687
+Display Name:
+Pete
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a popular drink from the 1930's. However, this recipe is missing one important ingredient: Creme de Violette. It is what gave it the sky blue look. It's from Austria so it wasn't available during the war. People learned to make it with out. It's my wife's favorite drink. My recipe is ½ oz lemon juice, ½ oz Creme de Violette, 1 tsp Luxardo Maraschino Liqueur, 2 ½ oz good quality gin. Shaken and served up with a twist of lemon.
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-15T14:36:14.017
+helpfulCount:
+2
+userID:
+4413790
+Display Name:
+Mrs Phillips
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+99
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7472405.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Coming home from a hot day at work I made this for my husband. He gave it a 5 star... Note* I used 2.5 ounces of Gin, top shelf.

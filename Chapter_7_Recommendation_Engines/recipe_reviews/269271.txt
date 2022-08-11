@@ -1,0 +1,72 @@
+Recipe number:
+269271.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-31T05:28:25.157
+helpfulCount:
+0
+userID:
+26375075
+Display Name:
+Shell Lynn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7221328.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were really good.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-21T02:45:47.663
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out pretty good. I definitely prefer pan fried but these were obviously much healthier. A little dense but not too bad. I really liked the tartness the capers brought. Overall good and healthier alternative and one I would make again.

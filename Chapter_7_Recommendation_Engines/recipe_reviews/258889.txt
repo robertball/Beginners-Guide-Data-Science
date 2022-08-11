@@ -1,0 +1,37 @@
+Recipe number:
+258889.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-28T04:15:58.54
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used cubed ham instead of ham bone to save some time and it worked. This was good, I expected the pickle to overpower but it did not and it was DELISH!

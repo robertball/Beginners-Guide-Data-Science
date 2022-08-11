@@ -1,0 +1,72 @@
+Recipe number:
+216525.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-02-06T07:58:07.247
+helpfulCount:
+5
+userID:
+3560277
+Display Name:
+Denise Van Acker Torok
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3460012.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was OK
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-07T17:25:07.463
+helpfulCount:
+0
+userID:
+5412024
+Display Name:
+Melissa Black
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+226
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3947119.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's my daughter's favorite dish; especially when I add chicken to it.

@@ -1,0 +1,37 @@
+Recipe number:
+223093.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-13T03:24:49.58
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2832
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I made this in my panini press with gluten free bread instead of pumpernickel. I squished the chickpeas with a fork before adding to the sandwich to keep them from rolling away. I thought one slice of prosciutto was not enough, so I added one more. My prosciutto is transparently thin though. I also added some hot peppers. Great flavor, no need for salt. Thank you for the recipe.

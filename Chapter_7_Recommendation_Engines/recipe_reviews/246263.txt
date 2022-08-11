@@ -1,0 +1,109 @@
+Recipe number:
+246263.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-24T01:48:21.533
+helpfulCount:
+1
+userID:
+5161910
+Display Name:
+chancegardner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+253
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Changes:  I used what I had:
+fresh Swiss Chard instead of spinach
+Used 1 c sour cream and 1 c yogurt instead of 2 c yogurt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-11T00:13:44.82
+helpfulCount:
+1
+userID:
+9967694
+Display Name:
+patinncnow
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+71
+favoritesCount:
+619
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe. I substituted the ham for scallops. Definitely will fix again. Also fixed a vegan version for my son who also loved recipe. Both versions I used Silk non dairy yogurt.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-09T03:32:56.753
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really tasty. Delicious warm as is or pureed and served cold

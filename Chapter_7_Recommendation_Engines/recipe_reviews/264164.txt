@@ -1,0 +1,107 @@
+Recipe number:
+264164.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-21T00:14:01.3
+helpfulCount:
+0
+userID:
+15166706
+Display Name:
+Lynn Patterson Monroe
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1953071.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delish
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-13T17:50:01.433
+helpfulCount:
+0
+userID:
+24397705
+Display Name:
+Angelwing
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5870123.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't have green onion so I used minced onion...still was good
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-06T00:05:14.787
+helpfulCount:
+0
+userID:
+23836626
+Display Name:
+Rita Kay Allen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5478362.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time for local salmon. It wasn't bad.

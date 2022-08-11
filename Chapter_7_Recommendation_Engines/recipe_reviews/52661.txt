@@ -1,0 +1,107 @@
+Recipe number:
+52661.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-11-10T10:27:19.37
+helpfulCount:
+10
+userID:
+2153640
+Display Name:
+pinch
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very good recipe.  Something to note.  If you are in a hurry, you can use Pillsbury's croissant dough.  Also, try the hickory smoked Gouda.  And I always serve with sliced tart apples!
+Review:
+Rating:
+4
+dateLastModified:
+2007-12-28T12:33:09.96
+helpfulCount:
+6
+userID:
+859099
+Display Name:
+Jessica Kantola
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+493
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1147100.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a Christmas Day appetizer and it was a hit!  I was worried at first that the dough itself was a little bland, but then found it went very well with the saltiness of the gouda cheese.  I, too, served this with tart slices of granny smith apples.  This was an easy and impressive recipe.  I'll be making it again!
+Review:
+Rating:
+3
+dateLastModified:
+2006-08-20T14:24:27.217
+helpfulCount:
+2
+userID:
+879127
+Display Name:
+Rachel Gearhart
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+454
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6104519.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Couldn't find any gouda (I live on a remote islad) so used havarti instead which wasn't bad.

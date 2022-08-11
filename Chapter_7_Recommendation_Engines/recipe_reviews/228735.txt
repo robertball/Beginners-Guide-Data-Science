@@ -1,0 +1,107 @@
+Recipe number:
+228735.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-25T17:23:28.43
+helpfulCount:
+3
+userID:
+12863383
+Display Name:
+Amy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy!  Just don't use all the milk it calls for, maybe try half a cup and add more if needed, or you will have batter instead of dough!
+Review:
+Rating:
+2
+dateLastModified:
+2018-10-16T12:12:57.473
+helpfulCount:
+0
+userID:
+21981266
+Display Name:
+Mary Ellen
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The owners of this recipe either need to edit the ingredients or take it down. If you follow the recipe it will absolutely not make a dough, it will make a slurry which you have to doctor so drastically it’s no longer what you intended to make. Whatever you do, do NOT use 1 cup of milk.
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-19T13:16:29.46
+helpfulCount:
+0
+userID:
+21939682
+Display Name:
+Raelynn Hartley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This  Carmel  apple coffee cake is amazing! I love It!

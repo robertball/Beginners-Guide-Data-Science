@@ -1,0 +1,37 @@
+Recipe number:
+259989.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-06-24T17:50:40.893
+helpfulCount:
+1
+userID:
+20011456
+Display Name:
+Annie Rose
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3760950.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this a bit too heavy and rich for breakfast.  Although quick and easy to put together, I wouldn't make it again for breakfast.  Maybe I'd enjoy it more with a dollop of frozen yogurt on top, as a dessert.

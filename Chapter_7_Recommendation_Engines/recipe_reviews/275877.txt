@@ -1,0 +1,37 @@
+Recipe number:
+275877.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-28T18:45:15.82
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2820
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+9.28.19 First, I must say I had my doubts about the caramel syrup, but moved forward with it.  The syrup basically balances out the tartness of the vinegar, and I could detect no caramel flavor at all (and that's a good thing IMO).   The apples provided some sweet crunch and the pears additional sweetness.  With the sesame oil and rice vinegar in the dressing, I would describe this salad as having an Asian flair.  We don’t like our salads soaked in dressing, so I did have some left, and it went into the fridge for probably another luncheon salad tomorrow.  Super simple to make, and we enjoyed it.

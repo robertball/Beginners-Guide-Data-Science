@@ -1,0 +1,37 @@
+Recipe number:
+264533.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-08T12:19:43.85
+helpfulCount:
+0
+userID:
+22807676
+Display Name:
+Sherri Mincey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+152
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a double batch and it turned out great. Super quick and easy too.

@@ -1,0 +1,37 @@
+Recipe number:
+73972.txt
+Review:
+Rating:
+2
+dateLastModified:
+2005-08-24T04:00:44.903
+helpfulCount:
+10
+userID:
+422932
+Display Name:
+LynnInHK
+isPro:
+False
+followersCount:
+197
+followingCount:
+0
+madeRecipesCount:
+255
+favoritesCount:
+761
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/768.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used nectarine instead of apricot, but still, the taste is very weird.  The taste just don't blend well.  Also, when making caramel sauce, do not add butter UNTIL the sugar has caramelized, otherwise the butter will burn the sugar.

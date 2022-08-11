@@ -1,0 +1,38 @@
+Recipe number:
+261543.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-17T18:06:07.68
+helpfulCount:
+0
+userID:
+25822922
+Display Name:
+Kris Bart
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6992003.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Boar’s Head all beef hotdogs and grilled them. The only change I made to the recipe was to buy prepackaged coleslaw that included carrots. I did not add red cabbage. I also added two seeded and chopped jalapeño peppers. 
+I bought buns that were split on top and some people put the slaw inside the bun and the hotdog on top for easier eating. I used a fork and knife.  This was a fantastic summer meal. I served with cut up cantaloupe and grapes and potato chips.

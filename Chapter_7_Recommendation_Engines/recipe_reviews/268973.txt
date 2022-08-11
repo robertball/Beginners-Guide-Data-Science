@@ -1,0 +1,37 @@
+Recipe number:
+268973.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-15T18:35:29.427
+helpfulCount:
+0
+userID:
+9480331
+Display Name:
+Philip Lapolla
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1294146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great use of wild local mushrooms

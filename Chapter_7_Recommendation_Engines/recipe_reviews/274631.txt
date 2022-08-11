@@ -1,0 +1,72 @@
+Recipe number:
+274631.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-11T18:35:38.91
+helpfulCount:
+1
+userID:
+16690361
+Display Name:
+Kath.T. Jensen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2961448.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this for years, without the Parmesan cheese BUT with a massive amount of Garlic.  It is called in my house :Mamas Garlicy Pesto Chicken. Sometimes I add a bit of double cream and a mix of veggie and chicken stock if I want it extra juicy - and to have a sauce on the rice.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-17T05:07:24.243
+helpfulCount:
+0
+userID:
+698363
+Display Name:
+RWIK16
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was moist, easy and delicious. We all enjoyed it and made exactly as the recipe is written.

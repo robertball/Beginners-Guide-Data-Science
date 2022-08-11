@@ -1,0 +1,37 @@
+Recipe number:
+260792.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-23T08:19:04.46
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good ratio of chocolate to milk. I tried adding a bit  more chocolate - ok, a lot. I doubled it - and regretted it. Stick to the amounts written. I used coconut milk and added some ground cayenne. Thank you for the recipe.

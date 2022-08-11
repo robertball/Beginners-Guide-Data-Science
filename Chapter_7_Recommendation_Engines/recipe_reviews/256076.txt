@@ -1,0 +1,107 @@
+Recipe number:
+256076.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-10T19:57:32.363
+helpfulCount:
+0
+userID:
+3436324
+Display Name:
+tlmeehan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+New family fav. Made 5 batches so far and looking for other yummy paleo cookies.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-11T00:30:31.06
+helpfulCount:
+0
+userID:
+7498946
+Display Name:
+Maria Zestos
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+95
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6193427.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great cookies. I sprinkled just a little sugar on top instead of salt. Yummy.
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-10T20:19:30.553
+helpfulCount:
+0
+userID:
+12776242
+Display Name:
+carl cortes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5779992.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added more ground ginger , added fresh ginger and dehydrated ginger . Also added more cinnamon. This gave the cookies more flavor

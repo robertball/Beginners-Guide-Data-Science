@@ -1,0 +1,37 @@
+Recipe number:
+236635.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-02-28T09:19:23.813
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+774
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3991
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good base recipe that easily adjusts to one's own personal preferences. I used almond milk instead of soy and Truvia instead of agave. The cherry flavor was nice for a change.

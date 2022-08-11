@@ -1,0 +1,109 @@
+Recipe number:
+244128.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-26T09:00:14
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+TRY THIS RECIPE! Simple and easy to make, all natural and delicious. I've been making my own almond milk for a few months thanks to another recipe on this website yet I wanted to try this because it adds dates and loved the idea of an unprocessed sweetener. This is a great way to have fresh, inexpensive and incomparable taste than any store bought almond milk. The nutrition from the dates alone should convince you to stop buying the store-bought, chemically sweetened/preserved version. Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-17T16:28:44.427
+helpfulCount:
+0
+userID:
+24754459
+Display Name:
+Texas Fig
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe. The dates make it much sweeter than I had anticipated. My daughter was able to help me make it and she hasn’t stopped talking about how good it was.
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-27T07:00:19.887
+helpfulCount:
+0
+userID:
+21864534
+Display Name:
+Sunil Tinani
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you want to make Soya milk at home, without its nutty taste, please check this recipe out. Thanks.
+
+https://www.insidefood.in/vegan-recipes/homemade-soy-milk-recipe-without-the-sharp-nutty-taste/

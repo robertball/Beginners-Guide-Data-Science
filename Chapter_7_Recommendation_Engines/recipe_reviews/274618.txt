@@ -1,0 +1,72 @@
+Recipe number:
+274618.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-24T11:56:25.663
+helpfulCount:
+0
+userID:
+5794687
+Display Name:
+Sally Ann Ball
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Daughter is a Pescatarian, so I’m always looking for a Seafood based recipe that goes beyond the basics. This recipe is FANTASTIC! I’ve made it as a quick dinner for four, quadrupled ingredients and taken to a college football tailgate and this weekend- it’ll be used at our daughter-in-law’s ‘Baby Sprinkle’.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-05T22:36:23.917
+helpfulCount:
+0
+userID:
+20872197
+Display Name:
+Brannon Nilles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6676676.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty and satisfying to the pallet, couldn't find a bottled chile-lime vinegerette so made my own from a recipe  instead of leaving the mint whole would suggest chiffonading it.

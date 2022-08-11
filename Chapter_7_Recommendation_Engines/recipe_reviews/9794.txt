@@ -1,0 +1,107 @@
+Recipe number:
+9794.txt
+Review:
+Rating:
+4
+dateLastModified:
+2001-08-14T13:12:59.437
+helpfulCount:
+8
+userID:
+402498
+Display Name:
+cliff
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is pretty quick and easy, and adds some much-needed additional taste to the traditional almond macaroons.  I think I'm going to try adding toasted sesame seeds to a coconut macaroon recipe next time!
+Review:
+Rating:
+3
+dateLastModified:
+2011-06-07T12:04:35.143
+helpfulCount:
+3
+userID:
+6088698
+Display Name:
+Elizabeth Schultz
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+396
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1783310.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was alright. There were a little too much sesame seeds for my taste, and I didn't even use the full amount the recipe called for.
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-30T02:44:29.48
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice light little cookie..

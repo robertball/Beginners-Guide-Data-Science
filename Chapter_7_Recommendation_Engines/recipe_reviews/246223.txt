@@ -1,0 +1,37 @@
+Recipe number:
+246223.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-22T17:02:46.32
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+975
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is easy to put together and pretty tasty. I ended up puréeing it with a hand blender. Thank you for the recipe.

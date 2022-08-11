@@ -1,0 +1,37 @@
+Recipe number:
+234224.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-05T04:37:34.13
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A veggie burger to sink your teeth into. I used a squirt or two of Sriracha for the garlic (didn't have any on hand). I needed the whole 1/2 cup of chickpea flour.  Next time I'm going to add some mashed chickpeas, I couldn't help thinking they'd go well mixed in. I made 7 smaller sized burgers rather than 2 large and used a variety of cheeses in addition to the Swiss. Thank you for the recipe.

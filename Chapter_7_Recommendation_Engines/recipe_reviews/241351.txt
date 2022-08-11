@@ -1,0 +1,37 @@
+Recipe number:
+241351.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-10-05T14:00:40.333
+helpfulCount:
+0
+userID:
+15968852
+Display Name:
+Olivia
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+81
+favoritesCount:
+1129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4590700.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this to bring to a party and it received the review of 'pretty good'. It took a while longer than 15 minutes to get a thick enough consistency for my preference (at least 25 minutes). It also was hard to get the perfect amount of wine flavor along with the thicker consistency. It was pretty good, but if I made it again I would try using it over a cake instead of a dipping chocolate for fruit.

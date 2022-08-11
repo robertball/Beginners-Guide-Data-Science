@@ -1,0 +1,110 @@
+Recipe number:
+111466.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-10T03:07:03.547
+helpfulCount:
+2
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As much as I love every single ingredient in this recipe, it still seemed to be lacking something.  I made it as written except for adding the milk because I didn't drain either the tomatoes (I used mild Rotel) or the hatch chilies that I used.  It was plenty moist enough, but I'm thinking I was maybe missing the tomato sauce (or something along that line) on the top as it was baking---or maybe it just needed more salt.  Or maybe both.  I would make this again with a few changes.  But I would definitely try it again.  Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-24T04:05:01.483
+helpfulCount:
+0
+userID:
+8581195
+Display Name:
+angelinamarie3
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+1641
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5239802.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an EXCELLENT twist on your normal meatloaf! I actually had to reluctantly make this one, to appease a crowd, and I do NOT regret! This is now a staple. 
+
+My suggestion: follow the “stacking” method of the jalapeño meatloaf recipe- layer some cheese & chilis about mid-way through. You won’t regret that hidden “surprise”! This is total treat from your normal rotation. Absolutely worth a try!
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-03T00:53:20.88
+helpfulCount:
+0
+userID:
+17952067
+Display Name:
+Betty Eberle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3524837.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I  haven't made it yet. I just wanted to let people know that you can get Hatch Chilis from them. Look them up online and you can get them year round.
+I will be trying it soon.

@@ -1,0 +1,37 @@
+Recipe number:
+256232.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-03T18:40:15.95
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty tasty! I made mine thicker in mini heart molds, but I think that was not the best idea b/c it was kinda hard to bite through them, so next time, I will keep them thinner. I then dipped them into chocolate, which made them lood so pretty. Not an exact replica of a Butterfinger, IMO, but still good! Thanks for sharing. :)

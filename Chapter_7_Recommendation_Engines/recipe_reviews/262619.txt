@@ -1,0 +1,39 @@
+Recipe number:
+262619.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-08T17:54:57.883
+helpfulCount:
+1
+userID:
+17901819
+Display Name:
+Mary Hamilton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+730
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7244458.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good COTTAGE PIE BUT I DRAIN BROWNED MEAT, ALSO BROWN SOME DICED LAMB TOO IF I HAVE IT] WE HAVE ROAST LEG OF LAMB FOR EASTER]  SO I ALWAYS MAKE THIS AFTER EASTER.
+THE COMBINED LAMP AND BEEF IS VERY FLAVORFUL. I
+I SERVE ON THE SIDE FRESH PEAS AND HONEYED GLAZED CARROTS TOO.

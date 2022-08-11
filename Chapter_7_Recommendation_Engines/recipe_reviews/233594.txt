@@ -1,0 +1,72 @@
+Recipe number:
+233594.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-09-06T17:07:35.953
+helpfulCount:
+4
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like to throw in crumbled bacon and shredded sharp cheddar for a quick "baked potato" salad. When I make this, there is never leftovers.
+Review:
+Rating:
+4
+dateLastModified:
+2013-08-05T17:42:17.493
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6896
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good! I liked that it used only a few ingredients, and the flavor was nice. I would make this again! Thanks for sharing. ;)

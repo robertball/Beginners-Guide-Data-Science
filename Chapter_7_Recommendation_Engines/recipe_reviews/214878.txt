@@ -1,0 +1,37 @@
+Recipe number:
+214878.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-08-09T17:30:00.757
+helpfulCount:
+7
+userID:
+7363504
+Display Name:
+hehaw
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5 stars from me! I was very skeptical that we would like it but tried it anyway because my husband brought home lots of Vermillion snapper.  We heaped it on crackers and enjoyed as an appetizer.

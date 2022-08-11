@@ -1,0 +1,72 @@
+Recipe number:
+237602.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-08T23:29:31.313
+helpfulCount:
+1
+userID:
+22151463
+Display Name:
+K Anderson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly by the recipe.   It was absolutely amazing.  My fiancé wanted shrimp tacos for dinner and I used this slaw recipe.  He travels for work and recently was in Houston and raved about the fish tacos he had at a few restaurants there.  He said this slaw is restaurant worthy.  He mooed all during dinner.  Ate 5 tacos and had more slaw on the side.
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-05T12:34:04.737
+helpfulCount:
+1
+userID:
+3884384
+Display Name:
+Eric
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very different version of coleslaw with a mustard taste. Many people told me they didn't like Cole slaw but they like this.

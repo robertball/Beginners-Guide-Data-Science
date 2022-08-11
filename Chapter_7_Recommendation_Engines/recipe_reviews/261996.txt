@@ -1,0 +1,37 @@
+Recipe number:
+261996.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-22T05:49:46.05
+helpfulCount:
+0
+userID:
+1625096
+Display Name:
+lamadge
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+286
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7682797.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very yummy. Had to make a couple of changes. Started way too late for the crock pot but half hour of simmering in  my Dutch oven was perfect. Didn't have cilantro so threw in 1/2 cup frozen peas right before serving for color.

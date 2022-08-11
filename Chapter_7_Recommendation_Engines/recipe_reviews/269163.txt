@@ -1,0 +1,37 @@
+Recipe number:
+269163.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-10T14:13:16.52
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious. Thank you for the recipe.

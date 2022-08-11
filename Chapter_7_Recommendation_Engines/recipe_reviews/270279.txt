@@ -1,0 +1,72 @@
+Recipe number:
+270279.txt
+Review:
+Rating:
+2
+dateLastModified:
+2020-03-06T00:49:40.56
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+564
+followingCount:
+0
+madeRecipesCount:
+1250
+favoritesCount:
+3514
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8195143.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Extremely bland even though I seasoned the mixture with salt and pepper prior to baking. I did not care for the crunch of the water chestnuts in this dish. Sorry but this is a recipe I can do without.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-29T01:03:25.21
+helpfulCount:
+0
+userID:
+26201141
+Display Name:
+tonya furrow
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7092593.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely love it, will add spinach next time

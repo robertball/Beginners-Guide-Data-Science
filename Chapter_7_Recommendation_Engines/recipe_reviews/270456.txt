@@ -1,0 +1,37 @@
+Recipe number:
+270456.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-24T00:06:25.377
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+451
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made two changes. 1. I used olive oil instead of coconut oil. 2. I forgot black beans and realized too late. Great recipe! Good taste. The only thing that I wasn’t a huge fan of was the quinoa got a bit over cooked on top and is a bit crunchy. It might also be because I used shredded cheese instead of slices.

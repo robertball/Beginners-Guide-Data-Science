@@ -1,0 +1,107 @@
+Recipe number:
+246377.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-21T12:59:13.307
+helpfulCount:
+0
+userID:
+2805524
+Display Name:
+Mrs. J.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+98
+favoritesCount:
+388
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/154.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent!  Although I used a gallon of ice cream and everyone loved it.  A keeper!
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-17T04:19:25.907
+helpfulCount:
+0
+userID:
+2364225
+Display Name:
+Bayla Meltzer
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+373
+favoritesCount:
+713
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4364033.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+FABULOUS!!!  !  Made it for a bbq  and there was nothing left!  I followed the recipe exactly as written.  Next time though I'll spray the bottom of the pan more liberally than I did because the crust stuck to the bottom somewhat.  I made the crust the day before and then on the day of the bbq I added the ice cream, toffee bits and Magic Shell and froze till ready to serve.  Can't wait to make it again!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-30T18:42:21.053
+helpfulCount:
+0
+userID:
+15518690
+Display Name:
+Stephanie Dawson
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2152543.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful! I doubled the amount of Magic Shell, but other than that, everything else was the same. Taste was fantastic, and was a great first time ice cream cake! 10 stars if I could!!

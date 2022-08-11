@@ -1,0 +1,37 @@
+Recipe number:
+247301.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-21T16:07:23.563
+helpfulCount:
+1
+userID:
+20426855
+Display Name:
+Kelli W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+119
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Enjoyed this as it has a very fresh taste. However, if you use a full cup of tea like the recipe notes, the drink will likely be very thin. However my banana was not frozen.  So I give the recipe a 5 on flavor, but not 100% sure on best measurements.  I will make it again.  I used honey lemon green tea with excellent results.

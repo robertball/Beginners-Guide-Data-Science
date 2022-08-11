@@ -1,0 +1,112 @@
+Recipe number:
+14563.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-05-20T06:22:41.673
+helpfulCount:
+26
+userID:
+81507
+Display Name:
+JB1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is a fine addition to my 
+collection.
+My kids are a bit more adventerous in
+the kitchen (where ever it is) than most.
+They have been cooking with me since the
+age of 3.
+Review:
+Rating:
+3
+dateLastModified:
+2008-06-28T10:48:49.46
+helpfulCount:
+23
+userID:
+3003497
+Display Name:
+Larry Iles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4642279.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Only average, you got to go more than that to claim the "worlds best".
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-24T15:36:59.207
+helpfulCount:
+0
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These ribs were very good, I think the success of this recipe really depends on the barbeque sauce you use. I used Blue Ribbin Sweet Sauce that I received as a gift. The sauce was flavourful and I really liked the onion taste that came through from the sliced onions, but I think I would use my rib rub next time when using this method or try with Sweet Baby Ray's Hickory flavoured sauce.

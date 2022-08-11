@@ -1,0 +1,72 @@
+Recipe number:
+236857.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-23T13:52:04.13
+helpfulCount:
+4
+userID:
+2753412
+Display Name:
+Lucky Noodles
+isPro:
+False
+followersCount:
+296
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+2823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/60059.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a mistake by not making the full recipe, only made half:) These are very easy to make.  The hardest part was waiting.
+Review:
+Rating:
+4
+dateLastModified:
+2014-03-08T18:32:59.42
+helpfulCount:
+4
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really don't think these taste like Tagalongs--I think these are much better! Just a tip--switch directions 1 and 2; make the peanut butter crackers first and then melt your chocoate. That way you're all ready to go. I've been making these for many years, and you can also find them on this site as the recipe "Hockey Pucks."

@@ -1,0 +1,151 @@
+Recipe number:
+247382.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-13T02:18:24.073
+helpfulCount:
+2
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+395
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3195
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm having a difficult time rating this cake.  The flavor was fantastic but the baking time is off.  I baked it in a round 9" pan and I started checking after 35 minutes.  It took 1 hour and 10 minutes to bake, that's 30 minutes longer than the specified time.  Well at least I thought it was baked, my toothpick came out clean when I inserted it in the center of the golden brown cake.  I let it cool in the pan on a wire rack for 15 minutes. Once inverted, the bottom which was now the top looked completely baked. I checked on it 10 minutes later and the center of the cake had fallen into what seemed to be raw batter.  I let it cool completely and yes, the center was unbaked. I wound up cutting out the whole center.  Now it looks like the cake was baked in a tube pan. I might try making this again and  baking it for 15-20 minutes longer, hopefully the top won't burn.
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-16T23:07:33.25
+helpfulCount:
+0
+userID:
+24236762
+Display Name:
+Madison Paul
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5759745.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this recipe but made a few changes after reading another review:
+I used two 8 inch round pans.
+ I split 5 bananas in half length-wise.
+ I split the cake batter, banana and the syrup between both round pans. 
+I turned the heat up to 375 F and baked for about 45 min. 
+I also added on tin foil to the top once it had turned golden brown as to not allow it to burn the top (about 35 min in)
+
+Both came out baked all the way through.
+
+This cake has great flavor but a...different texture. I think if I make this again I will add some nuts, a streusel or something crunchy to have a more dynamic texture. I also recommend having whipped topping with this.
+Review:
+Rating:
+2
+dateLastModified:
+2017-12-26T13:14:30.997
+helpfulCount:
+0
+userID:
+16406333
+Display Name:
+Heidi Suk
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2612440.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had the same problem others did. I made it exactly as instructed, but there was way to much batter for my 9" round pan. I ended up putting the extra into a second pan. I also had to cook it for an extra 25 minutes for it to set up correctly. It tasted great, but it wasn't as pretty as the picture shows. As a matter of fact it didn't look anything like the picture. It looked like a pineapple (banana) upside down cake.
+Review:
+Rating:
+1
+dateLastModified:
+2017-10-25T02:20:39.173
+helpfulCount:
+0
+userID:
+15747385
+Display Name:
+Miranda Jones
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3406322.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I baked this following the directions. I'm not a beginning baker but I didnt follow my gut either. I put a toothpick in and it came out clean after the recommended time. After letting it cool I flipped it over and after a bit it turned to mush with bits of cake. My kids ate it. They wanted me to make more but I didnt like it and the presentation was aweful.

@@ -1,0 +1,72 @@
+Recipe number:
+257680.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-04T01:35:16.413
+helpfulCount:
+0
+userID:
+4812392
+Display Name:
+VAFamilyCook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delish! I didn't have any fresh basil on hand, but with all the other flavors, I didn't miss it. My artichokes were the marinated variety, so that probably helped. It came together easily, but felt fancy. I would definitely serve this to guests.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-26T15:33:24.95
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! I loved all of the extras that went into this. The one flavor I didn't think went together was the green olive and basil. To me they clashed but my husband liked them together so there you have it. I love green olives but for me, black would have worked better in this. You be the judge...

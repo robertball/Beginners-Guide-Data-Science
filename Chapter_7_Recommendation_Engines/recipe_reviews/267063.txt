@@ -1,0 +1,37 @@
+Recipe number:
+267063.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-04T19:51:01.89
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9658
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. I did not soak my peas and they turned out perfectly. After tasting it as written I thought it needed a bit more flavor and added some herbs. Easy fix. This is simple and straight forward and one I'd make again. Thanks for sharing!

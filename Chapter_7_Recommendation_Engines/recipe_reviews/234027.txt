@@ -1,0 +1,37 @@
+Recipe number:
+234027.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-06T23:11:01.807
+helpfulCount:
+0
+userID:
+26831197
+Display Name:
+Missy K
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7576818.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As my husband is English, we are always trying recipes for mushy peas.  This worked well with our Christmas dinner.  I used split peas and doubled the amount.  I could not find whole dried peas.

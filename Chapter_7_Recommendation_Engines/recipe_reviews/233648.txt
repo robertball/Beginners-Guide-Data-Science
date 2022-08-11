@@ -1,0 +1,37 @@
+Recipe number:
+233648.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-20T10:04:06.927
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6002
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The raspberry liqueur is subtle in both the dressing and the whipped topping.  I would think some raspberry extract would work well in this if you don't have the Chambord.  Didn't have any raspberries, so I substituted some green grapes, and I literally forgot the almonds (think they'd be a nice addition).  This was a great dessert on a smokin' hot  Florida day!  The summer fruits are starting to come in season, so bring on the fruit salads!!

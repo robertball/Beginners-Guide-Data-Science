@@ -1,0 +1,107 @@
+Recipe number:
+277492.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-30T14:00:00.433
+helpfulCount:
+1
+userID:
+23419287
+Display Name:
+Purple Unicorn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+One on my favourite soups, loved it!  Sorry it got eaten straight away so no photo :-)
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-08T17:39:48.313
+helpfulCount:
+0
+userID:
+26482691
+Display Name:
+Lorraine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Lacking any real flavor. Nothing special.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-08T05:18:59.533
+helpfulCount:
+0
+userID:
+6077171
+Display Name:
+Toni Odom
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+291
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1201734.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make this again. The only thing I changed was I didn’t have potato starch so I left that out. It was very good. Next time I will add some thyme and celery seed.

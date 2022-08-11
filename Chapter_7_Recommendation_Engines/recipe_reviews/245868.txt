@@ -1,0 +1,72 @@
+Recipe number:
+245868.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-04T12:02:31.39
+helpfulCount:
+3
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out well after adding a little more flour to the batter. The first few I made were too thin for me. They tasted fine--I ate them with sliced strawberries and whipped cream. I probably won't try them again--the champagne really didn't add that much more flavor than regular pancakes. I would rather just drink any leftover champagne. However, they were worth trying, and they tasted good.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-18T21:48:31.12
+helpfulCount:
+0
+userID:
+27039510
+Display Name:
+Elan volk
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I could not stop eating these pancakes since they were so delicious,yum.

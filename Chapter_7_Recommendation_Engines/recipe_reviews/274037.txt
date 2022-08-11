@@ -1,0 +1,37 @@
+Recipe number:
+274037.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-25T23:37:56.64
+helpfulCount:
+1
+userID:
+25734545
+Display Name:
+Mia Scherrer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Seasoning was delicious! Will definitely make this again!

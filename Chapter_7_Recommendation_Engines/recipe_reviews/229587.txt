@@ -1,0 +1,72 @@
+Recipe number:
+229587.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-24T16:08:39.54
+helpfulCount:
+2
+userID:
+14078864
+Display Name:
+Mina Y
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+150
+favoritesCount:
+178
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1346072.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this incredibly easy to make and I love the use of real pumpkin, not the overwhelming canned type.  I usually roast and puree pumpkin in the early fall, freeze it, and that prep makes it possible to get any pesky steps out of the way.  I followed the recipe exactly, it makes a loose filling to pour (be very careful not to slosh it over the crust edges when putting in the oven), and the baking time was perfect.  The guests reaction, and my families', was universally positive, plus it looks delicious and fluffier.  I particularly appreciated the idea of being able to mix larger amounts of this and freeze for an immediate pie whenever needed!   I would definitely make this again and again.
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-30T05:32:17.003
+helpfulCount:
+0
+userID:
+11819333
+Display Name:
+vanna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes just like my grandmas.

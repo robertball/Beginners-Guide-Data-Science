@@ -1,0 +1,37 @@
+Recipe number:
+274534.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-23T22:08:39.6
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+564
+followingCount:
+0
+madeRecipesCount:
+1250
+favoritesCount:
+3514
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8195143.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make a very similar bar but without the oatmeal. I prefer that one over this one. Though they are good, they are even better without the oatmeal, IMO. Thanks for sharing your recipe.

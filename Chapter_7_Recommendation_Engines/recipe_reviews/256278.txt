@@ -1,0 +1,37 @@
+Recipe number:
+256278.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-09T00:31:09.89
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used butter instead of oil to get a nice brown on the onion and Canadian bacon. Cutting cabbage is one of my least favorite things to do so I bought the already shredded in a bag. Problem with that is that it was super fine and burnt a little before I could get the beer in. My own fault and I did want a little brown on it so it was all good. I really liked the beer flavor with this. It was really good! I did think it could have used some heat so next time I will add some crushed chili flakes.

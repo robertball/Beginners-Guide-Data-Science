@@ -1,0 +1,37 @@
+Recipe number:
+259093.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-19T02:57:18.887
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great salad! Two changes based on availability. My store didn't have snow peas so I used snap peas. I wasn't able to find a fresh Thai chile pepper so I used a tablespoon of chile garlic paste instead. If you do that, use two tablespoons. One wasn't enough heat. This salad was good but I want to mention one important thing. IF you have to go out and buy all of the ingredients for this, it is an expensive salad. I had a lot of things including all of the fresh herbs it calls for. If you don't have them it is going to be one expensive salad for two. Good but expensive.

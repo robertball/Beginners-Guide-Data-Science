@@ -1,0 +1,72 @@
+Recipe number:
+278816.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-04-21T18:07:30.45
+helpfulCount:
+0
+userID:
+16571860
+Display Name:
+LauraF
+isPro:
+False
+followersCount:
+87
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8046807.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+How simple and yummy! I can't believe I hadn't tried roasting cabbage before. I used it as a filling for piroshki.
+Review:
+Rating:
+4
+dateLastModified:
+2020-04-03T10:32:17.517
+helpfulCount:
+0
+userID:
+15815005
+Display Name:
+Kendra Valcarcel
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2956456.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used olive oil, garlic powder and black pepper.  I did my corned beef in the pressure cooker and this made the cabbage come out wonderful.  It was much better than the limp cabbage I usually make.

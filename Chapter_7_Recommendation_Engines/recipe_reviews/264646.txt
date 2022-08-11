@@ -1,0 +1,72 @@
+Recipe number:
+264646.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-20T13:07:09.897
+helpfulCount:
+1
+userID:
+17599519
+Display Name:
+keonar
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3311125.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and straight forward, my family loved it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-05T06:28:51.933
+helpfulCount:
+0
+userID:
+9141620
+Display Name:
+Daniela Lopez
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1190098.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple but delicious. When tasting for salt, taste along with salted tostada or chips you’ll be pairing ceviche with to avoid over salting. And don’t skip the avocado!

@@ -1,0 +1,143 @@
+Recipe number:
+231431.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-05-09T21:05:29.39
+helpfulCount:
+1
+userID:
+13602503
+Display Name:
+Sassy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed recipe (left out sunflower seeds) but coconut and almonds browned too quickly.  I would lower heat and add coconut and almonds toward the end.  Oven is calibrated correctly, so it was not my oven.
+Also seems like a lot of oil and sugar, so will modify this recipe significantly, for health and for better results.
+Review:
+Rating:
+3
+dateLastModified:
+2017-05-04T23:12:49.937
+helpfulCount:
+0
+userID:
+15559425
+Display Name:
+Ryno's mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I ended up taking it out 5 minutes early because it was burning which ruined the flavor
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-20T11:18:27.597
+helpfulCount:
+0
+userID:
+16512899
+Display Name:
+Emmy Cook
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+129
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was nice, but nothing fantastic. Am looking for a granola recipe that's better than the boxed stuff as so far I haven't found it.
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-25T05:37:11.207
+helpfulCount:
+0
+userID:
+1809262
+Display Name:
+Sharon L.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have stored this granola at room temp. It will last several months as any dry cereal. It can also be put in the fridge or freezer for longer storage. Hope you enjoy!

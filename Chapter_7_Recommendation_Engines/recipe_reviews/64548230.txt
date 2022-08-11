@@ -1,0 +1,37 @@
+Recipe number:
+64548230.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-14T06:29:15.237
+helpfulCount:
+0
+userID:
+4241297
+Display Name:
+Rob Tanner
+isPro:
+False
+followersCount:
+42
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1974219.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made just half of the recipe, in two round cake pans, and put the filling between the  layers to make a cake that could be picked up to be eaten or packed in a bag lunch.  Very good taste, not to sweet, not to heavy.

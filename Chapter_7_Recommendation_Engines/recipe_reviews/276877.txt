@@ -1,0 +1,37 @@
+Recipe number:
+276877.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-11-11T00:05:19.213
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+402
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This makes one HUGE serving. I wound up splitting it into 3 half cup dishes. I used Truvia in place of the Splenda and craisins in place of raisins. I really didn't care for it and I normally love anything that has pumpkin. Sorry, but I won't be making this again.

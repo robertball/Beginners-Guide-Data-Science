@@ -1,0 +1,37 @@
+Recipe number:
+239512.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-03-12T23:43:08.53
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This has an okay flavor but is lacking the flavor profile I expected. The directions didn't say to drain the tomatoes, but I didn't want a soupy mess so I drained mine. A homemade alfredo sauce would be better. I probably won't make this again.

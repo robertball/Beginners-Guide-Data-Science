@@ -1,0 +1,37 @@
+Recipe number:
+84938.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-05-29T17:38:57.437
+helpfulCount:
+0
+userID:
+1429926
+Display Name:
+BECCAANN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My whole family enjoyed this salad and will be a family favoite!

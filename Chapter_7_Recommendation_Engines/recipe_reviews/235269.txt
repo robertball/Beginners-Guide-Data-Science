@@ -1,0 +1,72 @@
+Recipe number:
+235269.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-12-20T18:12:58.837
+helpfulCount:
+0
+userID:
+18083148
+Display Name:
+Gail
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was the worst .  One reason, the instructions state to roll up like a crescent roll. The picture shows it differently. Dough crumbles because recipe states to refridgerate, so tough isn't pliable
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-18T06:43:46.047
+helpfulCount:
+0
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first time making rugelach. I was invited to a friend's Chanukah celebration and I thought this would be fun to bring and share. I mixed up the sugars but adding more brown sugar than white, especially in the filling. I also added cinnamon to the filling and an extra sprinkle on top of the rolls before baking. I found it helpful to pulse the walnut and sugar filling together in the food processor. I pre-sliced the rolls before baking and then finished slicing them one they were cool.   Everyone loved this and it definitely something I would make again!

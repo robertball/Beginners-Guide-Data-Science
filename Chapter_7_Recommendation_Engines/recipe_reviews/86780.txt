@@ -1,0 +1,108 @@
+Recipe number:
+86780.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-03-12T10:11:49.607
+helpfulCount:
+6
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+243
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added more mayonnaise, and used a combination of Dijon and English mustards. Omitted the wax beans as I couldn't find fresh, and I didn't think canned would be good. Also cut back on the dill as I'm not a huge fan. I served this at room temperature. Not bad at all. Thanks!
+Review:
+Rating:
+3
+dateLastModified:
+2006-10-08T09:20:09.543
+helpfulCount:
+4
+userID:
+915926
+Display Name:
+Cynthia McHugh
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+1802
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6681739.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out alright once I added more mayo, and used dijon mustard.(tried a little of two other mustards, but not good)
+Also, think this needs to be "cool" not cold when you eat it.
+Review:
+Rating:
+3
+dateLastModified:
+2015-12-25T10:55:57.08
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9651
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I doubled up on green beans due to my store not carrying fresh wax beans but other than that I made as written.  This was okay but I think the mayo overpowers and it could have used more Dijon. You need to let your potatoes and beans drain really well or you will end up with a watery dressing. This was pretty good but it  needs some tweaking in my opinion.

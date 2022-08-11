@@ -1,0 +1,32 @@
+Recipe number:
+223564.txt
+Review:
+Rating:
+5
+dateLastModified:
+11/18/2012
+helpfulCount:
+4
+userID:
+doublewideskilletsinglewidebudget
+Display Name:
+Sarah Jo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/699445.jpg
+text:
+Two words--absolutely delicious!
+Review:
+Rating:
+4
+dateLastModified:
+11/01/2013
+helpfulCount:
+1
+userID:
+lutzflcat
+Display Name:
+lutzflcat
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6445679.jpg
+text:
+This was pretty good although there are other cranberry drinks that I like better.

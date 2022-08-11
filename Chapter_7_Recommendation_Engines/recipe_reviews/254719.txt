@@ -1,0 +1,107 @@
+Recipe number:
+254719.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-08T16:36:23.787
+helpfulCount:
+1
+userID:
+2705620
+Display Name:
+Kathie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6355753.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! I was able to make it exactly as listed and would make no changes. Kale is NOT a favourite but removing the spine before chopping made it easier to eat. Definitely a keeper.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-29T20:17:45.63
+helpfulCount:
+1
+userID:
+16436360
+Display Name:
+Melanie Ellis Nelson
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't know why, but I'm convinced that this dish is good for my digestion! It's soooooo good!
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-11T22:37:49.717
+helpfulCount:
+0
+userID:
+17707236
+Display Name:
+Martina Oborna
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3374387.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It turn out delicious! Although, I had to substitute yam for sweet potatoes and I used fresh tomatoes and tomatoe paste instead of canned diced tomatoes. My husband loved this dish, especialy, its creamy flavour.

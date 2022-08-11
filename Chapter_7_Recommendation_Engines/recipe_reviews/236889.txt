@@ -1,0 +1,37 @@
+Recipe number:
+236889.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-04-06T13:33:04.587
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1060
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too orange-y, but decent.  If you like a sweeter screwdriver, then this is the one for you.

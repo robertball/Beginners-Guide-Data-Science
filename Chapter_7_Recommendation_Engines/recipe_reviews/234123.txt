@@ -1,0 +1,47 @@
+Recipe number:
+234123.txt
+Review:
+Rating:
+5
+dateLastModified:
+04/30/2014
+helpfulCount:
+1
+userID:
+lindat
+Display Name:
+Linda T
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2367052.jpg
+text:
+delicious soup. I didn't blend up the bacon but that was only change... other than dummy me forgetting to buy Parmesan cheese. I liked this served cold! And I did add the optional red pepper
+Review:
+Rating:
+5
+dateLastModified:
+01/30/2018
+helpfulCount:
+0
+userID:
+5232278
+Display Name:
+Lana
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I loved this recipe! The only changes I made was I had to use vegetable broth instead of chicken and I sautéed the onion and bacon first. This would be a great recipe to can up for winter with the abundance of zucchini in the summer!
+Review:
+Rating:
+4
+dateLastModified:
+07/13/2017
+helpfulCount:
+0
+userID:
+22166878
+Display Name:
+Joe G.
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Tasty soup very similar to a traditional split pea. So similar that I may try with a ham bone next time. To honor the "creamy" description I may substitute the water for half & half next time to up the fatty flavor. Great the way it is though - sopping up with a loaf of ciabatta. Thank you!

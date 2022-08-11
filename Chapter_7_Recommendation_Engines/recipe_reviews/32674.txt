@@ -1,0 +1,73 @@
+Recipe number:
+32674.txt
+Review:
+Rating:
+4
+dateLastModified:
+2003-01-17T11:13:58.98
+helpfulCount:
+12
+userID:
+460605
+Display Name:
+JoyLee
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+247
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/820364.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good for a cold day. 
+Quick and easy for when unexpected company comes over.
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-12T13:48:20.847
+helpfulCount:
+3
+userID:
+2753412
+Display Name:
+Lucky Noodles
+isPro:
+False
+followersCount:
+296
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+2823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/60059.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect to warm you up on a chilly night!  Love the easy recipe, thank you Jessica!  Will be making this often:)

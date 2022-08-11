@@ -1,0 +1,187 @@
+Recipe number:
+22497.txt
+Review:
+Rating:
+4
+dateLastModified:
+2001-11-05T01:22:20.797
+helpfulCount:
+20
+userID:
+482342
+Display Name:
+YEEHI
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Don't substitute potato flour for corn starch unless you want stange jeelly goo blobs.
+
+It is easily sweet enough as it is.
+
+I used a cinamonstick in the boiling apple juice as I had no powder. It worked ok.
+
+Good recipe. Minimal ingredients and utensils required.
+
+I tried frying the left overs and it didnt work out.
+
+If you are using a big cup you could well do with a larger sized saucepan.
+Review:
+Rating:
+5
+dateLastModified:
+2001-02-21T11:41:13.17
+helpfulCount:
+20
+userID:
+245020
+Display Name:
+SARAJANE_SM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+my familly loved these
+Review:
+Rating:
+1
+dateLastModified:
+2006-04-04T14:50:31.513
+helpfulCount:
+7
+userID:
+1136961
+Display Name:
+Pamela Spencer
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+252
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3606490.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I hate to give bad reviews, but these were simply not edible.  I have never made dumpings before, but I followed the recipe to a t and they were very gummy, and not tasty at all.
+Review:
+Rating:
+5
+dateLastModified:
+2006-12-21T16:27:52.95
+helpfulCount:
+3
+userID:
+2216279
+Display Name:
+pompomgirl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved it but I would recommend a little more cinnamon.It totally saved my life when at the last minute I had to make a extra dessert because my husband forgot to buy one on his way home from work because it's so fast to make.
+Review:
+Rating:
+2
+dateLastModified:
+2005-09-12T12:01:21.403
+helpfulCount:
+3
+userID:
+1517127
+Display Name:
+Nikki
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i found these dumplings really hard and chewy.

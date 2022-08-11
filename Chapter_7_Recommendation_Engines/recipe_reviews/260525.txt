@@ -1,0 +1,37 @@
+Recipe number:
+260525.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-28T13:31:14.587
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+609
+followingCount:
+0
+madeRecipesCount:
+2238
+favoritesCount:
+2628
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This takes a little bit of planning and effort but the results are delicious.  I would use less water next time in the blueberry mixture.  I initially tried to use my crepe maker but it didn't work out well, so in the pan it went.

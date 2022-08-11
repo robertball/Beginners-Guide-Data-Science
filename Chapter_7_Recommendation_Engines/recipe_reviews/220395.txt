@@ -1,0 +1,107 @@
+Recipe number:
+220395.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-07T06:04:29.897
+helpfulCount:
+86
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I increased the bacon to two pieces and I used butter instead of vegetable oil. My oldest son and I split this (my youngest took one look at it and refused to try it). His comment was "Mom--it's a scrambled egg with gravy!" Next time, I want to try this on an english muffin with the hollandaise sauce spooned over the top. I bet that would really be good.
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-07T06:59:26.273
+helpfulCount:
+43
+userID:
+2713558
+Display Name:
+Jillian
+isPro:
+False
+followersCount:
+552
+followingCount:
+0
+madeRecipesCount:
+2420
+favoritesCount:
+6771
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/209339.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow - this definitely is meant for two people and since I've never had a "Colorado Omelet" I really have nothing to compare this to but just as the submitter states it's a "delicious change of pace from traditional omelets".  Since my husband is a huge fan of bacon I did add a little more and I didn't cook this in oil but with just a little butter as I always do.  I also de-seeded my tomato to avoid things getting watery.  The addition of deli turkey was different and next time I might sub ham. I left the hollandaise sauce on the side and I'm kinda glad I did... I served this with a side of toast and OJ - very filling!
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-01T13:02:59.867
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious... I healthied this up and used what was in fridge.. turkey bacon, leftover chicken, egg whites, low fat cheese and made a low fat hollandaise.. mmm very very good

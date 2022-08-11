@@ -1,0 +1,107 @@
+Recipe number:
+239153.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-09-12T11:38:34.113
+helpfulCount:
+3
+userID:
+2287653
+Display Name:
+Cyd_Delve
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+161
+favoritesCount:
+1991
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/303979.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good recipe, and probably very authentic.  It is very simple, but tasty.  I used 3 jalapenos and that was too much;  would cut down to 1-1 1/2 jalapenos next time.  Served with rice and a steamed vegetable, this is a fast and healthy meal.
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-17T16:52:11.25
+helpfulCount:
+2
+userID:
+3706709
+Display Name:
+Magnolia Blossom
+isPro:
+False
+followersCount:
+133
+followingCount:
+0
+madeRecipesCount:
+141
+favoritesCount:
+2733
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/588558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We liked this, and would probably add some mushrooms and green onions next time.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-04T19:22:09.207
+helpfulCount:
+0
+userID:
+15572961
+Display Name:
+Jacquie Davis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+355
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2260271.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to make. A great way to clear out the left over chops and pork stew meat. Served with rice and collard greens.

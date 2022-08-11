@@ -1,0 +1,37 @@
+Recipe number:
+254333.txt
+Review:
+Rating:
+1
+dateLastModified:
+2016-11-17T02:36:23.503
+helpfulCount:
+6
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+564
+followingCount:
+0
+madeRecipesCount:
+1250
+favoritesCount:
+3514
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8195143.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe as written and we did not care for it.  The amount of seasonings called for were not enough, the dish was very bland. The saltine crackers became a soupy, soggy mess. Wound up throwing most of it away. Will not make this again.

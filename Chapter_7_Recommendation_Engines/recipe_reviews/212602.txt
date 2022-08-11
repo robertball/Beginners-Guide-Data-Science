@@ -1,0 +1,72 @@
+Recipe number:
+212602.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-10-24T12:17:04.52
+helpfulCount:
+3
+userID:
+5370323
+Display Name:
+bmc390
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4655326.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Five stars because it couldn't be easier, but only 3 for taste.
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-13T16:25:30.557
+helpfulCount:
+0
+userID:
+15627949
+Display Name:
+Robin Hartman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+102
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2210662.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cheese dip was a massive hit at the b-day party I went to last night. I knew there would be a lot of people so I had to make several batches. I just added in a little salt and did both red and green pepper. Served it with regular tortilla chips and Doritos. Everyone loved it, literally. There wasn't a single complaint. Now I know the easy thing to make for parties.

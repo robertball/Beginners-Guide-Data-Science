@@ -1,0 +1,37 @@
+Recipe number:
+236567.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-13T11:04:40.947
+helpfulCount:
+3
+userID:
+1791490
+Display Name:
+Doughgirl8
+isPro:
+False
+followersCount:
+363
+followingCount:
+0
+madeRecipesCount:
+143
+favoritesCount:
+356
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1122366.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe didn't work so well for us. The covered-bowl-on-steamer-rack method in the pressure cooker didn't work at all, so we ended up having to finish the rice in a saucepan. Also: three tablespoons of garlic is insane. I love saffron risotto, and I love porcini risotto—but somehow, these two lovely flavorful ingredients cancelled each other out. And then shrimp adds a whole other competing flavor.

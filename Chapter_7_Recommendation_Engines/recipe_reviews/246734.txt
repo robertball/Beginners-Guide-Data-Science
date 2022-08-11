@@ -1,0 +1,72 @@
+Recipe number:
+246734.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-15T11:00:44.183
+helpfulCount:
+0
+userID:
+20340353
+Display Name:
+Joanne Durnford-Hasselman
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3895135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i like a nice dense loaf, this was more like cake mix and not like homemade at all, it was tasted good but i wont make it again
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-04T19:08:52.22
+helpfulCount:
+0
+userID:
+24484776
+Display Name:
+Lolly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's okay. I wish the lemon flavour was stronger. It would be excellent with some apple butter spread on it.

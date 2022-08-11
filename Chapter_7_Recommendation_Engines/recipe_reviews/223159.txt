@@ -1,0 +1,37 @@
+Recipe number:
+223159.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-26T12:41:00.02
+helpfulCount:
+0
+userID:
+18224730
+Display Name:
+PositiveTrends
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good.  Eggs on sale for 39 cents a dozen so looking for great recipes to try.  I made it the dish and cooked it all in the same day.  I also added some turkey bacon and diced portobello mushrooms with red peppers for a bit more flavor and color.  It turns out just great - although I did have to cook it a bit longer. The pan didn't last long and it was gone.

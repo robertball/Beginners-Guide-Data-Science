@@ -1,0 +1,72 @@
+Recipe number:
+238628.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-08T14:36:22.723
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1120
+favoritesCount:
+2298
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty and refreshing!
+Review:
+Rating:
+1
+dateLastModified:
+2014-08-14T11:09:01.553
+helpfulCount:
+0
+userID:
+13914174
+Display Name:
+Julia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very bitter.

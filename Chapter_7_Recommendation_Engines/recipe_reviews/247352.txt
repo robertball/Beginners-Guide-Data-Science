@@ -1,0 +1,107 @@
+Recipe number:
+247352.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-22T02:15:31.093
+helpfulCount:
+7
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this however I felt the "spicy" got lost. I think red peeper flakes would bring more heat but that is just my opinion. I made two different salmon jerky recipes this weekend and this one was by far the best. I may just tweak it a little next time. Plenty of flavor but just not enough heat for me.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-04T18:20:49.707
+helpfulCount:
+0
+userID:
+20243995
+Display Name:
+Jason N
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+152
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We used this recipe on trout and it is delicious! As we are trying new ways to add variety to our trout eating and this recipe has proven worthy. Thank you!
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-30T13:26:40.69
+helpfulCount:
+0
+userID:
+24508816
+Display Name:
+Diana Roeloffzen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5947976.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I use halibut great flavour

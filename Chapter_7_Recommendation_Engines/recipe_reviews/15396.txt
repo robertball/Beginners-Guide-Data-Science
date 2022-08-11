@@ -1,0 +1,142 @@
+Recipe number:
+15396.txt
+Review:
+Rating:
+4
+dateLastModified:
+2002-10-13T11:05:35.483
+helpfulCount:
+14
+userID:
+268713
+Display Name:
+LINDA MCLEAN
+isPro:
+False
+followersCount:
+643
+followingCount:
+0
+madeRecipesCount:
+2417
+favoritesCount:
+3410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/330227.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We thought these were very tasty. I added my own spices including cayenne for a little kick. By the way, this recipe was written perfectly fine. I certainly couldn't see where it said to mix the eggs and the bread crumbs together.
+Review:
+Rating:
+1
+dateLastModified:
+2001-02-20T18:52:27.733
+helpfulCount:
+10
+userID:
+238143
+Display Name:
+MARY ANN PUTMAN
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is one of the worst recipes I have ever tried. I took one bite and that was all I could stand. My husband ate a few of them and asked me not to make this again. Besides the taste being bad there was an error in the recipe which stated to mix bread crumbs and eggs together, which I did and the bread mixture wouldn't adhere to the olives, so I had to toss that out and dip the olives in beaten eggs and then roll in bread crumbs. This recipe is very time consuming and by all means not worth it.
+Review:
+Rating:
+4
+dateLastModified:
+2007-10-08T16:41:33.737
+helpfulCount:
+5
+userID:
+1137207
+Display Name:
+Mona Marin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6163291.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made these for Baby showers many times, however, this is the first time I've seen the recipe anywhere else; I always thought it was a southern thing..lol. I got the recipe from a greek resturant in the south and loved them. I also added ceyenne pepper to mine. I have never had any leftovers and no complaints. Keep cooking.....
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-04T18:43:35.677
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made one change which was that I used all ground pork instead of the pork/beef combo. These were a lot of work but worth it in the end in my opinion. Very tasty little morsels and a big hit. I do recommend using jumbo olives so that you get the bigger hole which makes the stuffing process a little easier. Serve with marinara as a dipping sauce and you have a five star all the way!

@@ -1,0 +1,37 @@
+Recipe number:
+258555.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-10T15:47:06.683
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavors in this blend together nicely and it is easy to prepare. I do have one suggestion that I think improves the finished dish. In my experience I've found it nearly impossible to get can corn to blacken. It also starts out so soft that it doesn't take much to overcook it. With that being said, I chose to use fresh corn and blacken it on a gas grill. I did the same with the jalapeno. Both got a really nice char on them AND I had one less pan to wash. While the corn and pepper are cooling you can assemble the rest of the ingredients in a bowl and then chop the pepper and cut the corn from the cob and toss them in.

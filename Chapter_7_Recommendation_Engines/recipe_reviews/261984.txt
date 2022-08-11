@@ -1,0 +1,72 @@
+Recipe number:
+261984.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-22T16:48:34.21
+helpfulCount:
+0
+userID:
+16424421
+Display Name:
+Keith Roe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make these again...they are tasty. I had to bake them for 30 minutes to get them done but they tasted great!
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-16T15:43:17.76
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9658
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were easy and good. After tasting the cream cheese mixture I decided to add some garlic powder and that bumped up the flavor. What I liked most about this recipe is that the ingredient amount was perfect. Typically I end up with way more filling than there are jalapenos and that is a pet peeve of mine. This one was perfect but I do think it needed the garlic powder.

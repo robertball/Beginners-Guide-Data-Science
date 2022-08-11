@@ -1,0 +1,110 @@
+Recipe number:
+84303.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-10T15:06:06.057
+helpfulCount:
+2
+userID:
+20256409
+Display Name:
+William Bebout
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+156
+favoritesCount:
+416
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6655868.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I rated this high because of the awesome taste.  I did have to make a couple of minor changes.  I didn't have any leeks so I omitted that.  The fluid content was way too high.  I used a total of 6 cups (4 of chicken broth and 2 of water) and it was still too thin.  I partially pulse blended with a stick blender and then added some instant mashed potatoes to thicken it a little.  With these minor tweaks it turned out great.  Will make again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-21T02:13:08.48
+helpfulCount:
+1
+userID:
+8381496
+Display Name:
+Cas
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My house smelled marvelous while it was cooking  and it tasted great. I made it with black soy beans to cut down the carb count and after reading  Acknuds review I lowered the water added down to 3 cups, which was perfect.
+I served it with a bit of sour cream and some grated cheddar.
+The herb combination of oregano, cumin and bay leaf is just lovely. 
+Thank you so much for posting COSM0. I'm keeping this!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-05T01:03:55.987
+helpfulCount:
+0
+userID:
+7234677
+Display Name:
+tvisdog
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used dry black beans. Cooked them first, then followed this recipe. I also blended half the beans, leeks, and onions with some tomatoes.

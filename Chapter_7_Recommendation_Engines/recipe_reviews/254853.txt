@@ -1,0 +1,107 @@
+Recipe number:
+254853.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-22T18:26:13.243
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All hail Aunt Dora! This is simple yet, as the description states, chock full of flavor. Everyone loved it. Even the kids gobbled it up. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-26T18:22:14.39
+helpfulCount:
+0
+userID:
+2148272
+Display Name:
+Jane & Rich
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+104
+favoritesCount:
+1541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very Tasty! We only had boneless chicken breasts, which I cut up & put  them & the potatoes in the pot at the same time. This really cut done cooking time.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-21T22:58:13.033
+helpfulCount:
+0
+userID:
+385747
+Display Name:
+njmom
+isPro:
+False
+followersCount:
+80
+followingCount:
+0
+madeRecipesCount:
+491
+favoritesCount:
+1766
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/95380.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was very good.  i had everything on hand to make.  i substituted sweet potatoes for the white potatoes.  it smelled wonderful while cooking.  i cooked in the crockpot and added the peppers the last hour of cooking.  with all of the spices used it really did give the chicken a lot of flavor.  after plating it was discovered that by shredding the chicken really did soak up a lot of the liquid.  i could see using this recipe and method to make chicken for tacos or the like.  thanks for the recipe Tasty and Aunt Dora!

@@ -1,0 +1,107 @@
+Recipe number:
+273809.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-07T00:33:13.943
+helpfulCount:
+7
+userID:
+1468122
+Display Name:
+Patrice Cyril
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+360
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2834265.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am hosting a brunch and thought these would make a great end to the meal. They were easy to make and came out beautiful. They are just right, not too sweet and perfect for a dessert bite, with no cutting , plates or silverware needed. I’m so glad I made these and will certainly be making them often. I can’t wait to try some different flavor combinations too. The bottom cookie cup is perfect to experiment with different fillings.  Thank you for sharing.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-14T23:25:35.173
+helpfulCount:
+0
+userID:
+2297386
+Display Name:
+jeannette
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+661
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/124503.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is great. I did however change it a bit.  I only added 1 1/4 cup of sugar and it turned out great. My family loved it.
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-14T19:17:13.633
+helpfulCount:
+0
+userID:
+25782154
+Display Name:
+Mandy Kay
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cookies came out delicious! Next time I will omit chilling them. It did nothing for them except make them hard. Used two pans, metal and the other silicone. They went in at the same and out at the same time, but the metal pan over cooked them slightly. Will use the silicone muffin pan only next time. Also had to add some extra powdered sugar to the frosting, following the recipe it was too thin and tasted bitter. Adding an extra 1/2 cup balanced it all out.

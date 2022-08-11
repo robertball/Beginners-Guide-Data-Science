@@ -1,0 +1,37 @@
+Recipe number:
+262483.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-09T00:40:30.353
+helpfulCount:
+0
+userID:
+13479130
+Display Name:
+cheryl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+435
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved this! I used an immersion blender and pulsed the soup a few times opting to keep most of the stew chunky. I made a side dish of brown rice to scoop in each bowl and serve soup over. Yum!

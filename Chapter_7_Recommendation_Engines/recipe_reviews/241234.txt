@@ -1,0 +1,37 @@
+Recipe number:
+241234.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-05T17:50:54.363
+helpfulCount:
+0
+userID:
+15301159
+Display Name:
+quantumdetective
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great with pita chips!

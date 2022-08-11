@@ -1,0 +1,37 @@
+Recipe number:
+256819.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-02T18:27:53.877
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6899
+followingCount:
+0
+madeRecipesCount:
+2653
+favoritesCount:
+3308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really liked these! I do wish that I would've really packed the mushrooms in the jar tightly though, b/c when you pour in the hot liquid, the mushrooms begin to shrink down and it leaves a lot of empty space in the jar, which doesn't look so pretty. Other than that, these are very tasty, and I will be making them again! Thanks for sharing. :)

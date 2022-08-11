@@ -1,0 +1,37 @@
+Recipe number:
+222914.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-07T14:11:27.583
+helpfulCount:
+1
+userID:
+6322698
+Display Name:
+Mic Hendrickson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4460637.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A great twist on refrigerator cucumber and onion salad.  Very yummy!  Mycket bra Thor!

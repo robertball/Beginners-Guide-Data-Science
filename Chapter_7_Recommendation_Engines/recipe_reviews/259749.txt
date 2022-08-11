@@ -1,0 +1,37 @@
+Recipe number:
+259749.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-09T22:42:29.383
+helpfulCount:
+0
+userID:
+25421676
+Display Name:
+Katcooks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't cook for 40mins like the recipe says, more like 20ish because it popped back when touched and a toothpick came out clean at that time. I added chocolate chips. I used cinnamon applesauce. It was very bland but moist. I felt like the batter was a bit thick. The finished muffin really stuck to the paper.  They smell really nice though. I'm still going to eat them but probably won't use this recipe again.

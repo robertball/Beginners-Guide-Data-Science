@@ -1,0 +1,146 @@
+Recipe number:
+10111.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-07-01T12:06:12.093
+helpfulCount:
+25
+userID:
+3008100
+Display Name:
+rachaelandchris06
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did a slightly variation of this recipe using what I had on hand: I used self-rising flour instead of all-purpose (omitted baking soda and salt to compensate), regular pancake syrup instead of molasses, and I cooked it in a cupcake pan (makes 8 large cupcakes). The cakes turned out like old-time English crumpets or English muffins, bubbly on top. I made a last-minute glaze of 2 cups confectioner's sugar, 2 tablespoons of butter, and 3 tablespoons of milk. They are very sweet, even without the glaze, and no hint of gingerbread. They go best with milk as they are very soft and moist, slightly spongy (nothing like the cupcakes you are used to). Happy Eating!
+Review:
+Rating:
+5
+dateLastModified:
+2001-11-22T18:23:47.2
+helpfulCount:
+23
+userID:
+509914
+Display Name:
+E J
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thanks for the recipe. We've searched for this for years. This was a favorite as a child, the
+only variation was my grandmother used brown syrup instead.
+Just finished a large batch for Thanksgiving!!!
+Everyone loved them.
+Review:
+Rating:
+2
+dateLastModified:
+2008-06-28T20:22:50.58
+helpfulCount:
+15
+userID:
+880414
+Display Name:
+TexasStyle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+62
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I have never seen a tea cake recipe with molasses as an ingredient, so I decided to try it. I bought regular molasses instead of light, maybe this was my mistake. It turned into the best tasting gingerbread I've tasted, not at all like a tea cake, not even close. Next time I will stick to the traditional tea cake recipe - no molasses. But if you're into gingerbread you'll like this recipe.
+Have Fun Cooking.
+Review:
+Rating:
+4
+dateLastModified:
+2008-06-08T16:32:41.75
+helpfulCount:
+13
+userID:
+2480039
+Display Name:
+Tokyorabbit
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The tea cakes are delicious, but the dough is impossible to work with.  If you want taste, this recipe is great, but presentation is almost impossible.  Little lumpy light spicy cakes is what I ended up with. Using a shaped cupcake tin might help.  But A+ for taste!

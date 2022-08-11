@@ -1,0 +1,37 @@
+Recipe number:
+268483.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-19T17:42:12.017
+helpfulCount:
+0
+userID:
+664346
+Display Name:
+terrylynne
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2352.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Very simple and tasty. Everyone loved it, including the kids. We served it over brown rice.

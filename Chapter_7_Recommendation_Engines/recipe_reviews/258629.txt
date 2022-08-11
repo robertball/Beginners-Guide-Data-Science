@@ -1,0 +1,37 @@
+Recipe number:
+258629.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-09T21:46:27.173
+helpfulCount:
+0
+userID:
+26258639
+Display Name:
+Ashley Dunagan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7134484.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was worried about this at first, because the batter and when cooking it it smelled horrible like it was burned nuts and there was NO sweetness or flavor at all. I was worried the recipe might need to be tweaked. I was expecting it to turn out not great, and after it was done I tried it and I was pleasantly surprised! It's very moist and just the right sweetness to be paired with a homemade icing.  Very almost dark chocolatey taste , almost fudgey in consistency and such an easy throw together recipe I'm sure to use again!

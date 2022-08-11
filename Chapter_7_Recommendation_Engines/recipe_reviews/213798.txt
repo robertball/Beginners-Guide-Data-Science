@@ -1,0 +1,107 @@
+Recipe number:
+213798.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-03-26T20:29:42.377
+helpfulCount:
+8
+userID:
+3291824
+Display Name:
+JIll Sherstobitoff
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+681
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1158563.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+MAN...... not half bad...... will do it again for sure!!
+Review:
+Rating:
+5
+dateLastModified:
+2013-05-25T17:18:57.32
+helpfulCount:
+2
+userID:
+11438898
+Display Name:
+DougR
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My grandmother served this every Christmas Eve with her ham loaf.  It not only brings back memories but it is delicious - give it a try.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-17T22:28:27.063
+helpfulCount:
+0
+userID:
+5439732
+Display Name:
+Rick Whittles
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+45
+favoritesCount:
+894
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1358699.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was leary at first......but I must say this is fabulous!  mmmmmm

@@ -1,0 +1,37 @@
+Recipe number:
+261169.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-09-09T16:46:58.877
+helpfulCount:
+0
+userID:
+25922461
+Display Name:
+Nancy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Glad I only made half a recipe.  Base recipe was too dry, lacked flavor in spite of the cinnamon and blueberries. Still have other half of blueberries and will make another recipe with appropriate adjustments.  Very disappointed.

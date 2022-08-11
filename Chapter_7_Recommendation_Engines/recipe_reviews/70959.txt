@@ -1,0 +1,72 @@
+Recipe number:
+70959.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-11-20T10:54:27.987
+helpfulCount:
+7
+userID:
+1113886
+Display Name:
+Catherine Garretson-Bilnoski
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+409
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2049780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We serve this over rice with steamed vegetables for a meal for two.
+Review:
+Rating:
+2
+dateLastModified:
+2011-10-05T22:12:32.62
+helpfulCount:
+2
+userID:
+6550713
+Display Name:
+KazooW
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+153
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make, but taste is just ok. Not my favorite way to eat shrimp.

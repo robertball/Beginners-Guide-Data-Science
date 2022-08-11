@@ -1,0 +1,72 @@
+Recipe number:
+239228.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-28T18:20:18.85
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hemp is not as high in fiber as flax and that's what I substituted the hemp with. If I make it again I think I will use Silk coconut milk instead of coconut water.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-20T01:17:13.897
+helpfulCount:
+0
+userID:
+5697946
+Display Name:
+Melissa mieske
+isPro:
+False
+followersCount:
+50
+followingCount:
+0
+madeRecipesCount:
+120
+favoritesCount:
+224
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6075966.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought very tasty but the second go around I added bing cherries for antioxidants and chai seeds even if your not vegan I would try this nice energy boost and naturally gluten free thank you for adding I think there should be a higher demand for vegan recipes  :)   thanks Mel

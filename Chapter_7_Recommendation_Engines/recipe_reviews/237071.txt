@@ -1,0 +1,37 @@
+Recipe number:
+237071.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-09-29T22:11:44.43
+helpfulCount:
+0
+userID:
+9975251
+Display Name:
+Twinmommie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+393
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought I'd try this as my first time making samosas because it used sweet potatoes.  The 3 cups of broth was pointless to use in this recipe as it created a soupy mess that I had to take a long time to reduce to a decent consistency.  Taste of filling was so-so.

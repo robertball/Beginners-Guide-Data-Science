@@ -1,0 +1,72 @@
+Recipe number:
+232129.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-05-20T13:29:24.89
+helpfulCount:
+1
+userID:
+2325741
+Display Name:
+atasteofcreole
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+347
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/333659.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very disappointed in this recipe.  Ketchup clashed with velveeta.  2nd batch I used chili sauce w/a pinch of cayenne. MUCH better results.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-09T16:06:51.863
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and I think this turned out great. I did find and use a chili seasoned rotel and that added even more flavor. I've had many cheese dips and this one is just as good if not better than the ones I've made in the past.

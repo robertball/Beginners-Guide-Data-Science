@@ -1,0 +1,145 @@
+Recipe number:
+34320.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-06T15:29:45.447
+helpfulCount:
+32
+userID:
+3449393
+Display Name:
+Clayton and Teresa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We bought some Pillsbury crescent rolls to use as our pastries.  We found that unrolling the whole can and cutting it into 8 squares worked best.  We sealed the edges with egg and pressed it with a fork.  They came out great and were a good after dinner snack.  Although they would be good for breakfast with tea.
+
+The chocolate is very subtle.  The flavors work really well together with nothing over-powering the others.
+Review:
+Rating:
+5
+dateLastModified:
+2007-01-25T19:05:26.027
+helpfulCount:
+21
+userID:
+1192129
+Display Name:
+Golfinggal
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+385
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2414.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent...very flavourful.
+Have used with cookie dough plus phyllo pastry and was loved by all. Thanks for recipe. So if you like fig newtons..you will love this.
+Review:
+Rating:
+5
+dateLastModified:
+2011-08-21T14:36:51.187
+helpfulCount:
+10
+userID:
+7541737
+Display Name:
+Britknee52
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I actually deep fried these with wonton skins. They were really delicious. But I had a lot of filling left over. and I used fresh figs which made it kind of jam like.
+Review:
+Rating:
+2
+dateLastModified:
+2012-07-01T18:45:23.34
+helpfulCount:
+0
+userID:
+6784514
+Display Name:
+Bronson McKinley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1374539.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yeah, not real impressed with this. It tasted just fine, but was thick and tacky. Followed the recipe as is.

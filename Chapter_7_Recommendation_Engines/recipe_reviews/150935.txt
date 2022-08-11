@@ -1,0 +1,37 @@
+Recipe number:
+150935.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-02-20T12:53:54.667
+helpfulCount:
+3
+userID:
+2237901
+Display Name:
+camille
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+218
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fabulous cocktail! We all enjoyed them to much! The jiuces are perfect for a sweet tart drink that even the guys like! Thanks!

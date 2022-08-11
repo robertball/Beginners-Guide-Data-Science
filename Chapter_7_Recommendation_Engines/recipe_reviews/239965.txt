@@ -1,0 +1,37 @@
+Recipe number:
+239965.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-12T23:04:39.34
+helpfulCount:
+0
+userID:
+13436761
+Display Name:
+Chef Davey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5538556.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome recipe. Thanks for sharing it

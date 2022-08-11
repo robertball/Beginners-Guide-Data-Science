@@ -1,0 +1,107 @@
+Recipe number:
+274661.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-04T01:23:00.263
+helpfulCount:
+0
+userID:
+17065229
+Display Name:
+ME1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've always made it this way. Excellent with Heavy Cream!
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-03T22:34:47.103
+helpfulCount:
+0
+userID:
+16563920
+Display Name:
+Phyl Earle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5258173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely wonderful
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-17T14:41:30.74
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is quite good. It’s very, very strong. This is nice if you have lots of people to serve. Thank you for the recipe.

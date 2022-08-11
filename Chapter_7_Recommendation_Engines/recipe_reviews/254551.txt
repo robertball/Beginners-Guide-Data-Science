@@ -1,0 +1,72 @@
+Recipe number:
+254551.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-01T23:06:08.993
+helpfulCount:
+2
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9161
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great tasting recipe but I highly recommend eating the ice cream after its freshly churned, otherwise it freezes very hard and become more icy despite it being properly stored. The ice cream was very smooth and creamy when it was freshly churned. It makes a lot so you may want to consider cutting the recipe in half.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-06T21:03:35.003
+helpfulCount:
+1
+userID:
+2570788
+Display Name:
+Ruth O'Morrow Neidlinger
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+118
+favoritesCount:
+331
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7051755.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This gets 5 stars for flavor. The texture is a bit hard after freezing overnight, but if you manage to scoop some and let it rest a few minutes in your bowl, it's wonderful. The flavor is seriously perfect. I made it with a mix of 70% and 85% chocolate, and plan to try it with sugar-free chocolate next time. It's wonderfully rich and chocolatey, with that hint of espresso that takes it up a notch. I used full-fat coconut milk, suspecting it wouldn't taste nearly as good if I used light coconut milk. It needs the fat.

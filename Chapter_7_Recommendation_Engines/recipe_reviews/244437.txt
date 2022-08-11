@@ -1,0 +1,72 @@
+Recipe number:
+244437.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-13T13:50:51.95
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+AWESOME! I LOVE chocolate covered potato chips, so I knew these were gonna be good. I used my favorite brand of candy making chocolate instead of chocolate chips. So simple, and addicting...I will def be making these again and again~YUM!!!!!! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-12T17:14:52.683
+helpfulCount:
+0
+userID:
+22885492
+Display Name:
+Lisa Thompson
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy! So good. My daughter made this and put a little in cup

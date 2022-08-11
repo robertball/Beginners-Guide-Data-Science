@@ -1,0 +1,218 @@
+Recipe number:
+254416.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-08T22:33:59.84
+helpfulCount:
+5
+userID:
+23462481
+Display Name:
+Holly Shrader
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+218
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5222487.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice recipe and easy.  I used my food processor attachment to slice the onions, squash (I used zucchini), and potatoes so they were thinner than the tomato slices.  I also added 3/4 tablespoon of Parmesan cheese and sprinkled Italian seasoning between layers.  I did not salt each layer.  Cooked in an hour but I had to put foil over the top to not burn the onions half way through the cook time.  I will definitely make again with the above changes.
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-12T01:01:09.813
+helpfulCount:
+1
+userID:
+650016
+Display Name:
+PUTERTCHR2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I know this is a vegetarian dish, but DH doesn't do vegetarian so I browned a pound of ground turkey and layered it in with the other ingredients.  Also added dried oregano with the salt and pepper.  Very good one dish meal.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-02T21:14:57.42
+helpfulCount:
+1
+userID:
+20798117
+Display Name:
+frankaredia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4599543.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great recipe.  My wife and I really enjoyed it.  I made a couple of changes.  I added fresh sweet banana pepper rings from my garden and I added a sprinkling of parmesan cheese between layers.  Absolutely delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-06T18:49:54.317
+helpfulCount:
+0
+userID:
+26179522
+Display Name:
+MELISSA 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7075782.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was great! The tastiest meal I served on Christmas. It was so easy to make! I added cheese on top and still defiantly make again
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-10T12:33:31.42
+helpfulCount:
+0
+userID:
+17103448
+Display Name:
+Mika Kissenkoetter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7181466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good quick recipe, that can be tweaked to suit the veggies you have in the house and your taste. Some adjustments I made:
+- I replaced the summer squash with butternut, which I peeled and cut into very thin slices.
+- I sprinkled some paprika and turmeric between each layer of veggies. Tastes great with curry powder too, or whatever other spices you like.
+- I added some cloves of garlic, cut into ¼ inch slices, under the top layer of veggies
+- If you want the dish to cook in about 25 minutes, slice the potatoes and veggies really thin (less than ¼ inch thick), pour about ½ cup of broth into the pan, and cover the pan loosely with foil before putting it into the oven.
+- I found the butter really didn't add much to the recipe, so if you want it to be vegan (or just a lower fat option), cut out the butter and pour a bit of veggie broth over the veggies before baking.
+- I sprinkled a mix of breadcrumbs and spices on top right before putting the dish into the oven. This gave the dish a really nice texture and taste. Make your breadcrumb mix with any spices you like! I used salt, pepper, turmeric and paprika.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T20:23:04.573
+helpfulCount:
+0
+userID:
+21331630
+Display Name:
+Karen McFeron
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6288008.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great Recipe Amy!  Easy and we all loved it! A definite "Do Again"!

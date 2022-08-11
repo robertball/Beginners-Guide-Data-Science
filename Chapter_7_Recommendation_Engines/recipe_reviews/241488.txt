@@ -1,0 +1,142 @@
+Recipe number:
+241488.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-11T17:41:54.777
+helpfulCount:
+17
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made then recipe as written and this is a keeper! As someone with an autoimmune disease looking to make better choices this is perfect! The taste reminds me of a tangy honey mustard dressing. We not only put this on our salads but roasted vegetables too.
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-07T22:28:22.407
+helpfulCount:
+2
+userID:
+15456264
+Display Name:
+Jenna Rich
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+162
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2117167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is a great base for all kinds of delicious dressings! I thought that the final product was a little heavy on olive oil flavor and mouthfeel, and that there wasn't enough avocado. Both easily fixable! Tasted great and a beautiful color!
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-10T17:22:22.73
+helpfulCount:
+2
+userID:
+20394793
+Display Name:
+Rick Has a Lemon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was skeptical of a 5 star rating with only two reviews, but this is my new favorite dressing! Tangy, sweet and spicy. I sub'ed vegannaise for the avocado and added black pepper. The lemon zest gives it amazing flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-13T15:18:56.11
+helpfulCount:
+1
+userID:
+5717109
+Display Name:
+Donna S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+109
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought it was very good.   I put half an avacado in recipe.

@@ -1,0 +1,73 @@
+Recipe number:
+215230.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-10-02T08:28:54.097
+helpfulCount:
+11
+userID:
+3711761
+Display Name:
+Cabinluvn
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+240
+favoritesCount:
+1388
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/931912.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fixed this as written. The marinade smells delicious and I will use it for other meats, but this dish turned out just OK. I have to say that I did not fry the pork cubes in oil...I couldn't see adding the fat calories, so I sauteed them to brown them and added the onion. I won't fix it again, as it was nothing special and there are better ways to fix a pork loin.
+Review:
+Rating:
+4
+dateLastModified:
+2011-08-01T11:36:53.333
+helpfulCount:
+1
+userID:
+4260416
+Display Name:
+mauso1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very authentic .. MUST fry to make it right.
+Frozen maduros??? NO way. Double recipie and save 1/2 the loin for media noches.

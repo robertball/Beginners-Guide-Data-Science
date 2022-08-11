@@ -1,0 +1,37 @@
+Recipe number:
+242300.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-08T15:14:22.99
+helpfulCount:
+0
+userID:
+16224051
+Display Name:
+Keke
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We enjoyed this meal. I did marinated the meat in the mojo sauce for a few hours instead of serving it on the side. The meat was nice and tender. The sauce was a tad bit sour, next time I will tone down the lime juice to a 1/4 cup and add some cilantro.

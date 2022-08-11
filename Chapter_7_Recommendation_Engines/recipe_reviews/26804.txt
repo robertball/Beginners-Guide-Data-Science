@@ -1,0 +1,37 @@
+Recipe number:
+26804.txt
+Review:
+Rating:
+3
+dateLastModified:
+2002-12-11T20:34:56.327
+helpfulCount:
+19
+userID:
+379190
+Display Name:
+DREGINEK
+isPro:
+False
+followersCount:
+97
+followingCount:
+0
+madeRecipesCount:
+1132
+favoritesCount:
+1067
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There are some recipes where canned chicken works great but this isn't one of them. Also, be sure to drain the tomatoes well, using a strainer b/c my "dip" was really runny.  This is okay but IF I make this again, I will boil 2 chicken breasts, shred it, drain the tomtatoes REALLY well, mix and bake in the oven until the cheese has melted, stirring occassionally.  This recipe has hope but it just needs some tweeking. I may try this again and see if there is texture and taste improvement.

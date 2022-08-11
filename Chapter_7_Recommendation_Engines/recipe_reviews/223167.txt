@@ -1,0 +1,37 @@
+Recipe number:
+223167.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-30T11:12:01.763
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2815
+favoritesCount:
+6005
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.30.16   The crepes are pretty good, but I found the filling and flavor of the cardamom  almost nonexistent.  I definitely would add more to the filling, if nothing more than some small pieces of berries, blueberries, bananas, a little cream cheese, whatever.  There must be some “technique” involved in folding the crepe into a “letter” because that was a little tedious for me.  In the future, I’d probably just fold or roll like an ordinary crepe.  ravera, thanks for sharing a recipe that you used to have in your hostel.

@@ -1,0 +1,37 @@
+Recipe number:
+234022.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-16T20:45:40
+helpfulCount:
+1
+userID:
+3589427
+Display Name:
+Brittanne
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/190390.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cake is amazing! The icing wasn't for me though, too plain for such an elegant cake. NOTE: You need 7 eggs, but only 5 of the yolks. I also sliced the cake in half and added some walnuts and drizzles of pure maple syrup. Yum!

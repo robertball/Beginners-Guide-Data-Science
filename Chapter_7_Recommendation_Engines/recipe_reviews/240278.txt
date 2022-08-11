@@ -1,0 +1,43 @@
+Recipe number:
+240278.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-29T16:03:20.787
+helpfulCount:
+0
+userID:
+20634549
+Display Name:
+Danielle Kuhrt
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4075743.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! 
+A great twist on traditional corn muffins. 
+I only made a few changes (because I didn't have all the ingredients.) Everything else I kept exactly as is and the muffins turned out moist, and cooked through exactly on time and at temperature. I especially enjoyed the apple chunks.  Both my boyfriend and I devoured them. 
+
+Instead of white pepper I used regular.
+Instead of fresh sage I used 1/2 tsp dried rosemary, 1/4 tsp dried oregano, and 1/4 tsp dried marjoram.
+Instead of buttermilk I used whole milk with lemon juice squeezed from a lemon wedge.

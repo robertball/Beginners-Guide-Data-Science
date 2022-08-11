@@ -1,0 +1,37 @@
+Recipe number:
+64621684.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-12T21:26:26.75
+helpfulCount:
+0
+userID:
+21271124
+Display Name:
+Aunt Betty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh my!!  This OMM is my current breakfast obsession.  I never thought of using the Walden Farms products like this.  Genius.

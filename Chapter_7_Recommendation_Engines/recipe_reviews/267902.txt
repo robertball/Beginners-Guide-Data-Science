@@ -1,0 +1,72 @@
+Recipe number:
+267902.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-24T19:43:29.317
+helpfulCount:
+0
+userID:
+6922631
+Display Name:
+Jan'l Adair
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+1529
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so good!  Glad I made a double batch so there will be enough that I can enjoy it myself for the next few days and still have some for Thanksgiving in 4 days.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-15T12:43:38.923
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is fantastic. It gets very thick and it’s even tastier the next day. It works well with sweet or savory dishes. I used it on a crostata as well as with meatballs. It was a delicious addition to my oatmeal, too. Thank you for the recipe.

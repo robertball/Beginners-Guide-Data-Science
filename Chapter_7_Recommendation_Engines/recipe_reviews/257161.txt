@@ -1,0 +1,37 @@
+Recipe number:
+257161.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-22T13:22:12.573
+helpfulCount:
+3
+userID:
+14142296
+Display Name:
+humboldthoney
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Obviously this recipe makes a ton of muffins.  I halved it, and reduced the oil to half.  Didn't have pineapple so I subbed in some raisins.  My family and friends raved about them.  They tasted like carrot cake.  I didn't tell them the 'secret' ingredient (carrot pulp) until later because the idea of using a pulp turns people off.  But what a great use for pulp!

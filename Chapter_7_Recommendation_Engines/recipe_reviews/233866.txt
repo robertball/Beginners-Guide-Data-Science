@@ -1,0 +1,72 @@
+Recipe number:
+233866.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-09-09T04:46:28.98
+helpfulCount:
+3
+userID:
+3338908
+Display Name:
+Faith N
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+300
+favoritesCount:
+1850
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7721931.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All 5 people I prepared these for enjoyed them. A bit on the salty side but not a bad flavor. The pepperoni tasted like summer sausage. My biggest issue with this recipe was the dough; normally I make my own. I followed the recipe exactly and had so much trouble getting the dough the right size and to stay together.  I had a lot of leftover mixture.  Next time I'll definitely stick to homemade dough.
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-05T14:50:09.113
+helpfulCount:
+0
+userID:
+15583182
+Display Name:
+Christa Murillo
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2187535.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For us, this recipe made 6 triangles. I browned up a 16oz package of  sweet italian sausage but could only fit half in the triangles comfortably. They looked and tasted REALLY good! Husband and company loved them- they're perfect for a weekend meal or game day snack!

@@ -1,0 +1,37 @@
+Recipe number:
+274440.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-21T19:33:40.36
+helpfulCount:
+0
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+1978
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are surprisingly good! They do have a lot of ingredients and things going on--but I think it's all for the best, because they mesh together really well. I did have to do a few substitutions based on what I had available to me. The grocery did not have any large flaked oats, so I substituted rolled oats; and I also could not find any unsalted pepitas anywhere, so I substituted sliced almonds instead. The recipe still turned out great! These cookies do keep their shape exactly how you form them, so make sure to flatten them fairly well before you put them in the oven. I got 39 cookies out of this recipe and they were perfectly baked in 13 minutes. Thanks for the recipe!

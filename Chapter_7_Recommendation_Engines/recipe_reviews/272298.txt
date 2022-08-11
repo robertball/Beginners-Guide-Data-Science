@@ -1,0 +1,107 @@
+Recipe number:
+272298.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-15T23:58:18.65
+helpfulCount:
+1
+userID:
+2352245
+Display Name:
+Kim Secula
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1487870.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+DO NOT USE 2 TBSP OF BAKING SODA......USE 2 TSP OF BAKING SODA.....AND ADD EXTRA TBSP SUGAR......MUCH BETTER.....AND  USE A TABLE SPOON TO DROP IN OIL
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-25T21:41:43.753
+helpfulCount:
+1
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There is a LOT of baking powder in these, so the finished product after cooking is really bitter.  We used both powdered sugar and honey on them, which masked the bitter taste.  Props for this recipe being easy.  The kids made them on their own and enjoyed doing it.  Watch them closely while cooking as there's a super fine line between raw and over-cooked.  The family enjoyed them, and that's all that matters.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-16T22:53:02.737
+helpfulCount:
+0
+userID:
+17890869
+Display Name:
+Didi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is by far that best and easiest beignet recipe I've ever made. This will be my go to recipe from now on!

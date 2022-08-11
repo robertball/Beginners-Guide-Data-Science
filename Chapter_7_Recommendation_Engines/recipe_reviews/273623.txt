@@ -1,0 +1,72 @@
+Recipe number:
+273623.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-10-03T18:57:47.057
+helpfulCount:
+0
+userID:
+11035247
+Display Name:
+Jade Lufercus
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We live in Hawaii and I thought this would be a nice side on burger night. Unfortunately it was not a hit, no flavor. My boys generally destroy anything with noodles and they refused to eat this.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-29T17:14:54.383
+helpfulCount:
+0
+userID:
+5118896
+Display Name:
+fabeverydayblog
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+468
+favoritesCount:
+305
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ridiculously easy macaroni salad! We all loved it, made exactly as written.

@@ -1,0 +1,72 @@
+Recipe number:
+235087.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-27T18:53:15.467
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were yummy. I did find it needed much more salt for me than just a pinch. I did think these were a little dry, but that it pretty common with veggie burgers. I will make these again and bake for a little less time and also add some grated onion to add some moisture.
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-31T11:22:09.787
+helpfulCount:
+1
+userID:
+12672269
+Display Name:
+Zaclac
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good flavor but dry. Used whole eggs and breadcrumbs instead of bran and no cheese.

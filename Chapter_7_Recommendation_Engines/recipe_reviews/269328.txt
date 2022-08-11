@@ -1,0 +1,37 @@
+Recipe number:
+269328.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-10-24T21:09:56.34
+helpfulCount:
+0
+userID:
+21240802
+Display Name:
+Terri
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If I was going to make it again I would definitely add more chocolate

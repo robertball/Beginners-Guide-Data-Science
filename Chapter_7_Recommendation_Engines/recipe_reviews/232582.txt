@@ -1,0 +1,72 @@
+Recipe number:
+232582.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-09T21:50:02.93
+helpfulCount:
+0
+userID:
+23186520
+Display Name:
+Karen Pollak
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5016949.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved it. No did not make any changes.
+Review:
+Rating:
+3
+dateLastModified:
+2013-09-08T15:26:42.837
+helpfulCount:
+0
+userID:
+2360345
+Display Name:
+Melissa Goff
+isPro:
+False
+followersCount:
+1368
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+1338
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2417840.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe seemed very easy to make, however the flavor profile was, a so-so. There was to much acidity to the recipe and no amount of spices or a tad of sugar helped. I would leave out the vinegar and lemon juice and beef up the spices with a seasoned tomato sauce. My family didn't much say it was great or good, it was "ahhh it's okay" Meaning they really didn't care for it much. Sorry this recipe needs some good tweaking to become a really good recipe. As is, I'm sorry to say, won't me making again.

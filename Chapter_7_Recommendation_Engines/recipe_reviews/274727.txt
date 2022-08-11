@@ -1,0 +1,37 @@
+Recipe number:
+274727.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-02T00:34:38.733
+helpfulCount:
+0
+userID:
+7892097
+Display Name:
+alverstone14586
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good. Used molasses instead of brown sugar. (didn't have any) Also, well worth broiling the chicken and bacon for the extra five minutes. Used regular bacon. Served with rice pilaf and green beans. Very good meal.

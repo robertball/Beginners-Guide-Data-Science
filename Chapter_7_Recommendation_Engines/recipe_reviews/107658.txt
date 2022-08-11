@@ -1,0 +1,37 @@
+Recipe number:
+107658.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-08-21T17:43:57.467
+helpfulCount:
+0
+userID:
+2037390
+Display Name:
+Angela
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We needed a last minute recipe for an outdoor potluck and these sandwiches turned out great.  We used white bread and just cut them into fours--the sandwiches still taste fine once they've cooled.  Just be sure to add some lemon juice to the avocado so it doesn't brown to quickly.

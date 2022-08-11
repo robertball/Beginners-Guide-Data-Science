@@ -1,0 +1,73 @@
+Recipe number:
+272531.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-04-21T04:46:41.897
+helpfulCount:
+0
+userID:
+24176920
+Display Name:
+Melissa F
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8010796.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were quite tasty! The only change I made was adding a bit of garlic powder and oregano. I will definitely be making these again. They were perfectly chewy on the outside and fluffy on the inside. 
+Next time I will likely brush with butter instead of egg, just so they're a bit buttery/salty on the outside.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-20T14:33:10.907
+helpfulCount:
+0
+userID:
+25596521
+Display Name:
+Lucile
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6658505.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out great! I made mine 6in long but I think I would make them a 7 or 8in next time.  They Remind me of  a soft pretzel or Olive Garden bread sticks.

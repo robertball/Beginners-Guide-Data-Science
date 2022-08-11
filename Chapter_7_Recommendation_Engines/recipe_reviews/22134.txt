@@ -1,0 +1,109 @@
+Recipe number:
+22134.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-11-06T11:32:24.64
+helpfulCount:
+1
+userID:
+247266
+Display Name:
+Ellen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great make a head dish.  I have made it several times and wach time it has been a big hit.  It does reheat well, in the rare event there is any left over.  I plan on incorporating this into our holiday brunch this year.
+Review:
+Rating:
+5
+dateLastModified:
+2001-02-23T15:30:44.153
+helpfulCount:
+1
+userID:
+262433
+Display Name:
+ERIKA E
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Like everything I make, I changed the recipe a bit.  I omitted the tomato, and added ham.  I also sauteed some hot peppers with the onions. It was excellent.
+Review:
+Rating:
+4
+dateLastModified:
+2002-11-27T12:28:11.59
+helpfulCount:
+0
+userID:
+711594
+Display Name:
+Jennifer Jones Bulsza
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+167
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3932947.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used what I had on hand- regular white bread and tomato paste instead of tomatoes.  There were a LOT of onions in it, although I halved the amount of onions I put in it.  My husband, who dislikes onions, will normally eat them if they're 'disguised' well.  He hated this recipe.
+
+I thought it was really good, however!!!  My daughter loved it as well, but we both love onions!  I'll make it again, but when he's out of town!

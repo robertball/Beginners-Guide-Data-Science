@@ -1,0 +1,80 @@
+Recipe number:
+241228.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-30T19:27:59.453
+helpfulCount:
+4
+userID:
+2429212
+Display Name:
+Matt Silkey
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+East to throw in the rice cooker. Use good quality broth/base.
+
+Vegetables are great in this. Diced carrot, celery, onion cook nicely.
+
+Don't be afraid to add some spices! I like thyme, rosemary and acid, like balsamic vinegar or lemon juice. 
+
+Taco seasonings, before or after cooking, are awesome on this dish. Serve with topping and chips. Great dress up for leftovers.
+
+Green and brown lentils are firmer than yellow or red. French lentil Le Puy are the firmest of all.
+Review:
+Rating:
+3
+dateLastModified:
+2015-04-20T20:31:16.693
+helpfulCount:
+2
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like all of these ingredients, but I just didnt love them together. The lentils fell apart, almost acting like a binding to the rice and bulgar. I had to add so many seasonings and flavorings to get this to work. Not a repeat dish, but interesting to try the rice cooker beyond brown or white rice.

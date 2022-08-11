@@ -1,0 +1,37 @@
+Recipe number:
+256372.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-25T15:21:19.177
+helpfulCount:
+1
+userID:
+1496227
+Display Name:
+Sheila
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+1198
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly since there were no reviews yet, except that I baked it in a Bundt pan.  I did have banana cream sugar free pudding mix and it worked great.  I poured the glaze over the cake before releasing it from the pan (which came out perfectly), and also poured some on top of the cake after poking holes in it.  It didn't really make a glaze as such, but it was good and made the cake very moist.  Sadly, I forgot to take a picture of it.

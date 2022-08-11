@@ -1,0 +1,72 @@
+Recipe number:
+220672.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-04-30T22:24:38.933
+helpfulCount:
+8
+userID:
+3609081
+Display Name:
+Cappy Schupp
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/193254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was simple and easy... but I would half the rice, double the veggies, and use a tad more liquid than the recipe said to use.  We're trying to lower our cholesterol, so the more veggies I can squeeze into our day the better.  It went great with the Thai Coconut Soup recipe from Allrecipes.  And I was excited to use bok choy for the first time in a recipe.  I didn't use the leafy part of it, don't know if you're supposed to or not.  Thanks for sharing!
+Review:
+Rating:
+4
+dateLastModified:
+2013-01-27T05:10:42.943
+helpfulCount:
+6
+userID:
+1532140
+Display Name:
+pomplemousse
+isPro:
+False
+followersCount:
+382
+followingCount:
+0
+madeRecipesCount:
+2015
+favoritesCount:
+2753
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/58080.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This isn't bad, although I thought it could use a little more seasoning.  I didn't use chicken bullion, however, so perhaps that is the problem; I used 2 cans of chicken stock and it seemed to work well.  I did have some issues with my rice cooker; perhaps the amount is too much for it?  I had to keep unplugging and starting it on cook again.  It does make lots of rice for two people anyway, so I believe I'll halve it next time.  I agree with the other reviewer who suggests more liquid, less rice, and more veggies.  Thanks for the recipe!

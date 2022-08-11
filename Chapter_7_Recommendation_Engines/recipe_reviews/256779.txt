@@ -1,0 +1,72 @@
+Recipe number:
+256779.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-16T17:50:25.907
+helpfulCount:
+1
+userID:
+2798151
+Display Name:
+stormybeach
+isPro:
+False
+followersCount:
+42
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+222
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4485957.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would never thought of using  McCormick® Grill Mates® Baja Citrus Marinade in a salsa.  Our only changes were replacing the ham with diced jicama.  I loved using a seasoning packet it made it so much easier and faster to make.  I will definitely be making this again.  It was very yummy.
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-08T00:09:29.563
+helpfulCount:
+0
+userID:
+22639827
+Display Name:
+Matt Park
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4864477.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for a party, it was a hit with most of the folks there

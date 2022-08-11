@@ -1,0 +1,37 @@
+Recipe number:
+235034.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-07T18:38:07.78
+helpfulCount:
+7
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe, you can add the Kahlua to taste. They have so many flavors. Love the coffee with the limited edition flavors such as the pumpkin spice and peppermint mocha. Don't forget, regular or flavored whipped cream to top. Also, garnish with chocolate shavings, cocoa, spices, crushed peppermint or candy cane, to make it even more fancy for yourself or to serve to your holiday guests. Here is the video link: http://allrecipes.com/video/4106/kahlua-coffee-break/detail.aspx

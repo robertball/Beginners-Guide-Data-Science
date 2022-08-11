@@ -1,0 +1,72 @@
+Recipe number:
+234318.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-10-03T21:46:33.07
+helpfulCount:
+2
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A huge hit with my daughter and I enjoyed it too! I made this recipe as written. I used the homemade "Hasty Chocolate Pudding" recipe from AllRecipes instead of store bought.
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-02T13:18:53.95
+helpfulCount:
+0
+userID:
+16322256
+Display Name:
+I@Mcute;)
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a delicious kid-friendly snack!!!:)

@@ -1,0 +1,37 @@
+Recipe number:
+260966.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-28T02:43:12.71
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We liked this dish but felt it was missing something that could be fixed.  I must admit to not having grilled the chicken but rather just stovetopped chicken tenders (that shouldn't have changed the chicken at all).  I didn't use head lettuce but rather leafy red lettuce.  Otherwise I followed the recipe.  It just needed to be easier to eat.  This is a great starting point because the sauce as written was okay.  I hope someone else has a better idea on this because it has possibilities!  I hope someone will give it a try!  EDIT:  We had leftovers in sandwich form tonight and the chicken was better!  Maybe it just needs to marinate longer!

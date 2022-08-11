@@ -1,0 +1,37 @@
+Recipe number:
+143951.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-12T14:53:02.663
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+969
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an excellent version of a Sicilian recipe. The capers are a tasty addition. I used the tomato paste, but only a tbsp.  I only needed a little more water than the cup as written. Use any leftovers for pasta or risotto. This is one of our favorite dishes. Thank you for the recipe.

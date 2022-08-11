@@ -1,0 +1,37 @@
+Recipe number:
+246809.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-12T10:01:51.28
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for hubby: He said that he liked it! He also said that the onion flavor wasn't strong, but he could get a hint of it. It went really well with the shot of tequila. I did scale this back quite a bit , just for him to try and drizzled the pomegranate in before serving. He said he would drink this again! Thanks for sharing. :)

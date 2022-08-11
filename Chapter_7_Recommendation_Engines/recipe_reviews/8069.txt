@@ -1,0 +1,37 @@
+Recipe number:
+8069.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-08-22T16:54:14.977
+helpfulCount:
+6
+userID:
+1492686
+Display Name:
+Caroline
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+102
+favoritesCount:
+313
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/61226.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was easy to make, however I didn't like the orange with the dates and raisins. I can see how it could go well with the Heritage Jam Cake, but I wasn't a fan. Next time I try this filling, I will use tart apples - not sure if that will work. Otherwise, I'll just make the cake with a different topping altogether.

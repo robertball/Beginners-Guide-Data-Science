@@ -1,0 +1,490 @@
+
+THE RISE AND PROGRESS OF PALAEONTOLOGY
+
+THIS IS ESSAY #2 FROM "SCIENCE AND HEBREW TRADITION"
+
+By Thomas Henry Huxley
+
+
+
+That application of the sciences of biology and geology, which is
+commonly known as palaeontology, took its origin in the mind of the
+first person who, finding something like a shell, or a bone, naturally
+imbedded in gravel or rock, indulged in speculations upon the nature
+of this thing which he had dug out--this "fossil"--and upon the causes
+which had brought it into such a position. In this rudimentary form, a
+high antiquity may safely be ascribed to palaeontology, inasmuch as we
+know that, 500 years before the Christian era, the philosophic doctrines
+of Xenophanes were influenced by his observations upon the fossil
+remains exposed in the quarries of Syracuse. From this time forth not
+only the philosophers, but the poets, the historians, the geographers
+of antiquity occasionally refer to fossils; and, after the revival of
+learning, lively controversies arose respecting their real nature.
+But hardly more than two centuries have elapsed since this fundamental
+problem was first exhaustively treated; it was only in the last century
+that the archaeological value of fossils--their importance, I mean, as
+records of the history of the earth--was fully recognised; the first
+adequate investigation of the fossil remains of any large group of
+vertebrated animals is to be found in Cuvier's "Recherches sur les
+Ossemens Fossiles," completed in 1822; and, so modern is stratigraphical
+palaeontology, that its founder, William Smith, lived to receive the
+just recognition of his services by the award of the first Wollaston
+Medal in 1831.
+
+But, although palaeontology is a comparatively youthful scientific
+speciality, the mass of materials with which it has to deal is already
+prodigious. In the last fifty years the number of known fossil remains
+of invertebrated animals has been trebled or quadrupled. The work of
+interpretation of vertebrate fossils, the foundations of which were
+so solidly laid by Cuvier, was carried on, with wonderful vigour and
+success, by Agassiz in Switzerland, by Von Meyer in Germany, and
+last, but not least, by Owen in this country, while, in later years, a
+multitude of workers have laboured in the same field. In many groups of
+the animal kingdom the number of fossil forms already known is as great
+as that of the existing species. In some cases it is much greater; and
+there are entire orders of animals of the existence of which we should
+know nothing except for the evidence afforded by fossil remains. With
+all this it may be safely assumed that, at the present moment, we are
+not acquainted with a tittle of the fossils which will sooner or later
+be discovered. If we may judge by the profusion yielded within the last
+few years by the Tertiary formations of North America, there seems to be
+no limit to the multitude of mammalian remains to be expected from that
+continent; and analogy leads us to expect similar riches in Eastern
+Asia, whenever the Tertiary formations of that region are as carefully
+explored. Again, we have, as yet, almost everything to learn respecting
+the terrestrial population of the Mesozoic epoch; and it seems as if
+the Western territories of the United States were about to prove as
+instructive in regard to this point as they have in respect of tertiary
+life. My friend Professor Marsh informs me that, within two years,
+remains of more than 160 distinct individuals of mammals, belonging to
+twenty species and nine genera, have been found in a space not larger
+than the floor of a good-sized room; while beds of the same age have
+yielded 300 reptiles, varying in size from a length of 60 feet or 80
+feet to the dimensions of a rabbit.
+
+The task which I have set myself to-night is to endeavour to lay before
+you, as briefly as possible, a sketch of the successive steps by
+which our present knowledge of the facts of palaeontology and of those
+conclusions from them which are indisputable, has been attained; and I
+beg leave to remind you, at the outset, that in attempting to sketch
+the progress of a branch of knowledge to which innumerable labours
+have contributed, my business is rather with generalisations than with
+details. It is my object to mark the epochs of palaeontology, not to
+recount all the events of its history.
+
+That which I just now called the fundamental problem of palaeontology,
+the question which has to be settled before any other can be profitably
+discussed, is this, What is the nature of fossils? Are they, as the
+healthy common sense of the ancient Greeks appears to have led them to
+assume without hesitation, the remains of animals and plants? Or are
+they, as was so generally maintained in the fifteenth, sixteenth, and
+seventeenth centuries, mere figured stones, portions of mineral matter
+which have assumed the forms of leaves and shells and bones, just as
+those portions of mineral matter which we call crystals take on the form
+of regular geometrical solids? Or, again, are they, as others thought,
+the products of the germs of animals and of the seeds of plants which
+have lost their way, as it were, in the bowels of the earth, and have
+achieved only an imperfect and abortive development? It is easy to sneer
+at our ancestors for being disposed to reject the first in favour of one
+or other of the last two hypotheses; but it is much more profitable to
+try to discover why they, who were really not one whit less sensible
+persons than our excellent selves, should have been led to entertain
+views which strike us as absurd, The belief in what is erroneously
+called spontaneous generation, that is to say, in the development
+of living matter out of mineral matter, apart from the agency of
+pre-existing living matter, as an ordinary occurrence at the present
+day--which is still held by some of us, was universally accepted as an
+obvious truth by them. They could point to the arborescent forms
+assumed by hoar-frost and by sundry metallic minerals as evidence of the
+existence in nature of a "plastic force" competent to enable inorganic
+matter to assume the form of organised bodies. Then, as every one who is
+familiar with fossils knows, they present innumerable gradations, from
+shells and bones which exactly resemble the recent objects, to masses of
+mere stone which, however accurately they repeat the outward form of the
+organic body, have nothing else in common with it; and, thence, to mere
+traces and faint impressions in the continuous substance of the rock.
+What we now know to be the results of the chemical changes which take
+place in the course of fossilisation, by which mineral is substituted
+for organic substance, might, in the absence of such knowledge, be
+fairly interpreted as the expression of a process of development in the
+opposite direction--from the mineral to the organic. Moreover, in an age
+when it would have seemed the most absurd of paradoxes to suggest that
+the general level of the sea is constant, while that of the solid land
+fluctuates up and down through thousands of feet in a secular ground
+swell, it may well have appeared far less hazardous to conceive that
+fossils are sports of nature than to accept the necessary alternative,
+that all the inland regions and highlands, in the rocks of which marine
+shells had been found, had once been covered by the ocean. It is not so
+surprising, therefore, as it may at first seem, that although such men
+as Leonardo da Vinci and Bernard Palissy took just views of the nature
+of fossils, the opinion of the majority of their contemporaries set
+strongly the other way; nor even that error maintained itself long after
+the scientific grounds of the true interpretation of fossils had been
+stated, in a manner that left nothing to be desired, in the latter half
+of the seventeenth century. The person who rendered this good service
+to palaeontology was Nicolas Steno, professor of anatomy in Florence,
+though a Dane by birth. Collectors of fossils at that day were familiar
+with certain bodies termed "glossopetrae," and speculation was rife as
+to their nature. In the first half of the seventeenth century, Fabio
+Colonna had tried to convince his colleagues of the famous Accademia dei
+Lincei that the glossopetrae were merely fossil sharks' teeth, but his
+arguments made no impression. Fifty years later, Steno re-opened the
+question, and, by dissecting the head of a shark and pointing out the
+very exact correspondence of its teeth with the glossopetrae, left no
+rational doubt as to the origin of the latter. Thus far, the work of
+Steno went little further than that of Colonna, but it fortunately
+occurred to him to think out the whole subject of the interpretation of
+fossils, and the result of his meditations was the publication, in 1669,
+of a little treatise with the very quaint title of "De Solido intra
+Solidum naturaliter contento." The general course of Steno's argument
+may be stated in a few words. Fossils are solid bodies which, by some
+natural process, have come to be contained within other solid bodies,
+namely, the rocks in which they are embedded; and the fundamental
+problem of palaeontology, stated generally, is this: "Given a body
+endowed with a certain shape and produced in accordance with natural
+laws, to find in that body itself the evidence of the place and manner
+of its production." [1] The only way of solving this problem is by the
+application of the axiom that "like effects imply like causes," or as
+Steno puts it, in reference to this particular case, that "bodies which
+are altogether similar have been produced in the same way." [2] Hence,
+since the glossopetrae are altogether similar to sharks' teeth, they
+must have been produced by sharklike fishes; and since many fossil
+shells correspond, down to the minutest details of structure, with the
+shells of existing marine or freshwater animals, they must have been
+produced by similar animals; and the like reasoning is applied by
+Steno to the fossil bones of vertebrated animals, whether aquatic
+or terrestrial. To the obvious objection that many fossils are not
+altogether similar to their living analogues, differing in substance
+while agreeing in form, or being mere hollows or impressions, the
+surfaces of which are figured in the same way as those of animal or
+vegetable organisms, Steno replies by pointing out the changes which
+take place in organic remains embedded in the earth, and how their solid
+substance may be dissolved away entirely, or replaced by mineral matter,
+until nothing is left of the original but a cast, an impression, or
+a mere trace of its contours. The principles of investigation thus
+excellently stated and illustrated by Steno in 1669, are those
+which have, consciously or unconsciously, guided the researches of
+palaeontologists ever since. Even that feat of palaeontology which has
+so powerfully impressed the popular imagination, the reconstruction of
+an extinct animal from a tooth or a bone, is based upon the simplest
+imaginable application of the logic of Steno. A moment's consideration
+will show, in fact, that Steno's conclusion that the glossopetrae are
+sharks' teeth implies the reconstruction of an animal from its tooth. It
+is equivalent to the assertion that the animal of which the glossopetrae
+are relics had the form and organisation of a shark; that it had
+a skull, a vertebral column, and limbs similar to those which are
+characteristic of this group of fishes; that its heart, gills, and
+intestines presented the peculiarities which those of all sharks
+exhibit; nay, even that any hard parts which its integument contained
+were of a totally different character from the scales of ordinary
+fishes. These conclusions are as certain as any based upon probable
+reasonings can be. And they are so, simply because a very large
+experience justifies us in believing that teeth of this particular form
+and structure are invariably associated with the peculiar organisation
+of sharks, and are never found in connection with other organisms. Why
+this should be we are not at present in a position even to imagine; we
+must take the fact as an empirical law of animal morphology, the reason
+of which may possibly be one day found in the history of the evolution
+of the shark tribe, but for which it is hopeless to seek for an
+explanation in ordinary physiological reasonings. Every one practically
+acquainted with palaeontology is aware that it is not every tooth, nor
+every bone, which enables us to form a judgment of the character of the
+animal to which it belonged; and that it is possible to possess many
+teeth, and even a large portion of the skeleton of an extinct animal,
+and yet be unable to reconstruct its skull or its limbs. It is only
+when the tooth or bone presents peculiarities, which we know by previous
+experience to be characteristic of a certain group, that we can safely
+predict that the fossil belonged to an animal of the same group. Any one
+who finds a cow's grinder may be perfectly sure that it belonged to an
+animal which had two complete toes on each foot and ruminated; any one
+who finds a horse's grinder may be as sure that it had one complete
+toe on each foot and did not ruminate; but if ruminants and horses
+were extinct animals of which nothing but the grinders had ever been
+discovered, no amount of physiological reasoning could have enabled
+us to reconstruct either animal, still less to have divined the
+wide differences between the two. Cuvier, in the "Discours sur les
+Revolutions de la Surface du Globe," strangely credits himself, and has
+ever since been credited by others, with the invention of a new method
+of palaeontological research. But if you will turn to the "Recherches
+sur les Ossemens Fossiles" and watch Cuvier, not speculating, but
+working, you will find that his method is neither more nor less than
+that of Steno. If he was able to make his famous prophecy from the jaw
+which lay upon the surface of a block of stone to the pelvis of the same
+animal which lay hidden in it, it was not because either he, or any
+one else, knew, or knows, why a certain form of jaw is, as a rule,
+constantly accompanied by the presence of marsupial bones, but simply
+because experience has shown that these two structures are co-ordinated.
+
+
+The settlement of the nature of fossils led at once to the next advance
+of palaeontology, viz. its application to the deciphering of the history
+of the earth. When it was admitted that fossils are remains of animals
+and plants, it followed that, in so far as they resemble terrestrial, or
+freshwater, animals and plants, they are evidences of the existence of
+land, or fresh water; and, in so far as they resemble marine organisms,
+they are evidences of the existence of the sea at the time at which
+they were parts of actually living animals and plants. Moreover, in
+the absence of evidence to the contrary, it must be admitted that the
+terrestrial or the marine organisms implied the existence of land or
+sea at the place in which they were found while they were yet living.
+In fact, such conclusions were immediately drawn by everybody, from
+the time of Xenophanes downwards, who believed that fossils were really
+organic remains. Steno discusses their value as evidence of repeated
+alteration of marine and terrestrial conditions upon the soil of Tuscany
+in a manner worthy of a modern geologist. The speculations of De Maillet
+in the beginning of the eighteenth century turn upon fossils; and Buffon
+follows him very closely in those two remarkable works, the "Theorie
+de la Terre" and the "Epoques de la Nature" with which he commenced and
+ended his career as a naturalist.
+
+The opening sentences of the "Epoques de la Nature" show us how
+fully Buffon recognised the analogy of geological with archaeological
+inquiries. "As in civil history we consult deeds, seek for coins, or
+decipher antique inscriptions in order to determine the epochs of human
+revolutions and fix the date of moral events; so, in natural history,
+we must search the archives of the world, recover old monuments from the
+bowels of the earth, collect their fragmentary remains, and gather into
+one body of evidence all the signs of physical change which may enable
+us to look back upon the different ages of nature. It is our only
+means of fixing some points in the immensity of space, and of setting a
+certain number of waymarks along the eternal path of time."
+
+Buffon enumerates five classes of these monuments of the past history of
+the earth, and they are all facts of palaeontology. In the first place,
+he says, shells and other marine productions are found all over the
+surface and in the interior of the dry land; and all calcareous rocks
+are made up of their remains. Secondly, a great many of these shells
+which are found in Europe are not now to be met with in the adjacent
+seas; and, in the slates and other deep-seated deposits, there are
+remains of fishes and of plants of which no species now exist in our
+latitudes, and which are either extinct, or exist only in more northern
+climates. Thirdly, in Siberia and in other northern regions of
+Europe and of Asia, bones and teeth of elephants, rhinoceroses, and
+hippopotamuses occur in such numbers that these animals must once have
+lived and multiplied in those regions, although at the present day they
+are confined to southern climates. The deposits in which these remains
+are found are superficial, while those which contain shells and other
+marine remains lie much deeper. Fourthly, tusks and bones of elephants
+and hippopotamuses are found not only in the northern regions of the old
+world, but also in those of the new world, although, at present, neither
+elephants nor hippopotamuses occur in America. Fifthly, in the middle of
+the continents, in regions most remote from the sea, we find an infinite
+number of shells, of which the most part belong to animals of those
+kinds which still exist in southern seas, but of which many others have
+no living analogues; so that these species appear to be lost, destroyed
+by some unknown cause. It is needless to inquire how far these
+statements are strictly accurate; they are sufficiently so to justify
+Buffon's conclusions that the dry land was once beneath the sea; that
+the formation of the fossiliferous rocks must have occupied a vastly
+greater lapse of time than that traditionally ascribed to the age of
+the earth; that fossil remains indicate different climatal conditions
+to have obtained in former times, and especially that the polar regions
+were once warmer; that many species of animals and plants have become
+extinct; and that geological change has had something to do with
+geographical distribution.
+
+But these propositions almost constitute the frame-work of
+palaeontology. In order to complete it but one addition was needed, and
+that was made, in the last years of the eighteenth century, by William
+Smith, whose work comes so near our own times that many living men may
+have been personally acquainted with him. This modest land-surveyor,
+whose business took him into many parts of England, profited by the
+peculiarly favourable conditions offered by the arrangement of our
+secondary strata to make a careful examination and comparison of their
+fossil contents at different points of the large area over which they
+extend. The result of his accurate and widely-extended observations
+was to establish the important truth that each stratum contains certain
+fossils which are peculiar to it; and that the order in which the
+strata, characterised by these fossils, are super-imposed one upon the
+other is always the same. This most important generalisation was
+rapidly verified and extended to all parts of the world accessible to
+geologists; and now it rests upon such an immense mass of observations
+as to be one of the best established truths of natural science. To the
+geologist the discovery was of infinite importance as it enabled him to
+identify rocks of the same relative age, however their continuity might
+be interrupted or their composition altered. But to the biologist it
+had a still deeper meaning, for it demonstrated that, throughout the
+prodigious duration of time registered by the fossiliferous rocks, the
+living population of the earth had undergone continual changes, not
+merely by the extinction of a certain number of the species which had at
+first existed, but by the continual generation of new species, and the
+no less constant extinction of old ones.
+
+Thus the broad outlines of palaeontology, in so far as it is the common
+property of both the geologist and the biologist, were marked out at
+the close of the last century. In tracing its subsequent progress I must
+confine myself to the province of biology, and, indeed, to the
+influence of palaeontology upon zoological morphology. And I accept
+this limitation the more willingly as the no less important topic of
+the bearing of geology and of palaeontology upon distribution has been
+luminously treated in the address of the President of the Geographical
+Section. [3]
+
+The succession of the species of animals and plants in time being
+established, the first question which the zoologist or the botanist had
+to ask himself was, What is the relation of these successive species
+one to another? And it is a curious circumstance that the most important
+event in the history of palaeontology which immediately succeeded
+William Smith's generalisation was a discovery which, could it have been
+rightly appreciated at the time, would have gone far towards suggesting
+the answer, which was in fact delayed for more than half a century. I
+refer to Cuvier's investigation of the mammalian fossils yielded by
+the quarries in the older tertiary rocks of Montmartre, among the chief
+results of which was the bringing to light of two genera of extinct
+hoofed quadrupeds, the _Anoplotherium_ and the _Palaeotherium._ The rich
+materials at Cuvier's disposition enabled him to obtain a full
+knowledge of the osteology and of the dentition of these two forms, and
+consequently to compare their structure critically with that of existing
+hoofed animals. The effect of this comparison was to prove that the
+_Anoplotherium,_ though it presented many points of resemblance with the
+pigs on the one hand and with the ruminants on the other, differed from
+both to such an extent that it could find a place in neither group. In
+fact, it held, in some respects, an intermediate position, tending to
+bridge over the interval between these two groups, which in the existing
+fauna are so distinct. In the same way, the _Palaeotherium_ tended to
+connect forms so different as the tapir, the rhinoceros, and the horse.
+Subsequent investigations have brought to light a variety of facts of
+the same order, the most curious and striking of which are those
+which prove the existence, in the mesozoic epoch, of a series of forms
+intermediate between birds and reptiles--two classes of vertebrate
+animals which at present appear to be more widely separated than any
+others. Yet the interval between them is completely filled, in the
+mesozoic fauna, by birds which have reptilian characters, on the one
+side, and reptiles which have ornithic characters, on the other. So
+again, while the group of fishes, termed ganoids, is, at the present
+time, so distinct from that of the dipnoi, or mudfishes, that they have
+been reckoned as distinct orders, the Devonian strata present us with
+forms of which it is impossible to say with certainty whether they are
+dipnoi or whether they are ganoids.
+
+Agassiz's long and elaborate researches upon fossil fishes, published
+between 1833 and 1842, led him to suggest the existence of another kind
+of relation between ancient and modern forms of life. He observed that
+the oldest fishes present many characters which recall the embryonic
+conditions of existing fishes; and that, not only among fishes, but in
+several groups of the invertebrata which have a long palaeontological
+history, the latest forms are more modified, more specialised, than the
+earlier. The fact that the dentition of the older tertiary ungulate
+and carnivorous mammals is always complete, noticed by Professor Owen,
+illustrated the same generalisation.
+
+Another no less suggestive observation was made by Mr. Darwin, whose
+personal investigations during the voyage of the _Beagle_ led him
+to remark upon the singular fact, that the fauna, which immediately
+precedes that at present existing in any geographical province of
+distribution, presents the same peculiarities as its successor. Thus, in
+South America and in Australia, the later tertiary or quaternary fossils
+show that the fauna which immediately preceded that of the present day
+was, in the one case, as much characterised by edentates and, in the
+other, by marsupials as it is now, although the species of the older are
+largely different from those of the newer fauna.
+
+However clearly these indications might point in one direction, the
+question of the exact relation of the successive forms of animal and
+vegetable life could be satisfactorily settled only in one way; namely,
+by comparing, stage by stage, the series of forms presented by one and
+the same type throughout a long space of time. Within the last few years
+this has been done fully in the case of the horse, less completely
+in the case of the other principal types of the ungulata and of the
+carnivora; and all these investigations tend to one general result,
+namely, that, in any given series, the successive members of that series
+present a gradually increasing specialisation of structure. That is to
+say, if any such mammal at present existing has specially modified and
+reduced limbs or dentition and complicated brain, its predecessors in
+time show less and less modification and reduction in limbs and teeth
+and a less highly developed brain. The labours of Gaudry, Marsh, and
+Cope furnish abundant illustrations of this law from the marvellous
+fossil wealth of Pikermi and the vast uninterrupted series of tertiary
+rocks in the territories of North America.
+
+I will now sum up the results of this sketch of the rise and progress
+of palaeontology. The whole fabric of palaeontology is based upon two
+propositions: the first is, that fossils are the remains of animals and
+plants; and the second is, that the stratified rocks in which they
+are found are sedimentary deposits; and each of these propositions is
+founded upon the same axiom, that like effects imply like causes. If
+there is any cause competent to produce a fossil stem, or shell, or
+bone, except a living being, then palaeontology has no foundation; if
+the stratification of the rocks is not the effect of such causes as
+at present produce stratification, we have no means of judging of the
+duration of past time, or of the order in which the forms of life have
+succeeded one another. But if these two propositions are granted,
+there is no escape, as it appears to me, from three very important
+conclusions. The first is that living matter has existed upon the earth
+for a vast length of time, certainly for millions of years. The second
+is that, during this lapse of time, the forms of living matter have
+undergone repeated changes, the effect of which has been that the animal
+and vegetable population, at any period of the earth's history, contains
+certain species which did not exist at some antecedent period, and
+others which ceased to exist at some subsequent period. The third is
+that, in the case of many groups of mammals and some of reptiles,
+in which one type can be followed through a considerable extent of
+geological time, the series of different forms by which the type is
+represented, at successive intervals of this time, is exactly such as it
+would be, if they had been produced by the gradual modification of the
+earliest forms of the series. These are facts of the history of the
+earth guaranteed by as good evidence as any facts in civil history.
+
+Hitherto I have kept carefully clear of all the hypotheses to which men
+have at various times endeavoured to fit the facts of palaeontology, or
+by which they have endeavoured to connect as many of these facts as they
+happened to be acquainted with. I do not think it would be a profitable
+employment of our time to discuss conceptions which doubtless have had
+their justification and even their use, but which are now obviously
+incompatible with the well-ascertained truths of palaeontology. At
+present these truths leave room for only two hypotheses. The first is
+that, in the course of the history of the earth, innumerable species
+of animals and plants have come into existence, independently of
+one another, innumerable times. This, of course, implies either that
+spontaneous generation on the most astounding scale, and of animals
+such as horses and elephants, has been going on, as a natural process,
+through all the time recorded by the fossiliferous rocks; or it
+necessitates the belief in innumerable acts of creation repeated
+innumerable times. The other hypothesis is, that the successive species
+of animals and plants have arisen, the later by the gradual modification
+of the earlier. This is the hypothesis of evolution; and the
+palaeontological discoveries of the last decade are so completely in
+accordance with the requirements of this hypothesis that, if it had not
+existed, the palaeontologist would have had to invent it.
+
+I have always had a certain horror of presuming to set a limit upon the
+possibilities of things. Therefore I will not venture to say that it is
+impossible that the multitudinous species of animals and plants may have
+been produced, one separately from the other, by spontaneous generation;
+nor that it is impossible that they should have been independently
+originated by an endless succession of miraculous creative acts. But
+I must confess that both these hypotheses strike me as so astoundingly
+improbable, so devoid of a shred of either scientific or traditional
+support, that even if there were no other evidence than that of
+palaeontology in its favour, I should feel compelled to adopt the
+hypothesis of evolution. Happily, the future of palaeontology is
+independent of all hypothetical considerations. Fifty years hence,
+whoever undertakes to record the progress of palaeontology will note the
+present time as the epoch in which the law of succession of the forms of
+the higher animals was determined by the observation of palaeontological
+facts. He will point out that, just as Steno and as Cuvier were enabled
+from their knowledge of the empirical laws of co-existence of the parts
+of animals to conclude from a part to the whole, so the knowledge of the
+law of succession of forms empowered their successors to conclude, from
+one or two terms of such a succession, to the whole series; and thus
+to divine the existence of forms of life, of which, perhaps, no trace
+remains, at epochs of inconceivable remoteness in the past.
+
+
+
+
+FOOTNOTES:
+
+[Footnote 1: _De Solidoiintra Solidum,_ p.5--"Dato corpore certa figura
+praedito et juxta leges naturae producto, in ipso corpore argumenta
+invenire locum et modum productionis detegentia."]
+
+[Footnote 2: "Corpora sibi invicem omnino similia simili etiam modo
+producta sunt."]
+
+[Footnote 3: Sir J. D. Hooker.]
+
+
+
+
+

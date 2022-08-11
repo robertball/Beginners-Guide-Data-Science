@@ -1,0 +1,37 @@
+Recipe number:
+270196.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-13T02:08:49.363
+helpfulCount:
+2
+userID:
+12766850
+Display Name:
+AnnAlyse
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found several recipes for "chocolate hummis", this one was the simplest. The family loved it and really liked that it was a healthier snack choice.

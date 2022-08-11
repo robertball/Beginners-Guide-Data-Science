@@ -1,0 +1,37 @@
+Recipe number:
+235408.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-13T12:40:22.38
+helpfulCount:
+1
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used currants instead of the raisins to keep things a small uniform size.  The hidden extras, the nuts and the seaweed made this an interesting salad! Delicious!  My husband appreciated this!

@@ -1,0 +1,72 @@
+Recipe number:
+257058.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-01T18:36:15.88
+helpfulCount:
+0
+userID:
+14554994
+Display Name:
+Ken Codd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1612545.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It works, its good but not the best texture. I will try again and probably again and review if texture improves
+Review:
+Rating:
+3
+dateLastModified:
+2017-03-02T18:08:21.323
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2823
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.2.17  I followed the recipe to the letter, perhaps cutting a little  too deeply into the top.  It certainly is easy and quick with no rising time involved, but it was a bit of a disappointment to me.  Honestly, I’ve never had brown soda bread before and I’m giving this recipe an additional star based solely on that, but I simply wasn’t crazy about either the taste or the texture,.  Wish I could give a better review and I don't want to discourage others from trying this recipe, but doubtful I’ll make this one again.

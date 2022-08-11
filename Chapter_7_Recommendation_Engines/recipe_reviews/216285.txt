@@ -1,0 +1,72 @@
+Recipe number:
+216285.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-11-09T08:36:33.527
+helpfulCount:
+6
+userID:
+5693243
+Display Name:
+sthrnfriedmom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/560524.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this several times for our Ladies Christmas party where we decorate household items for the holidays and this puts us in the mood! If you choose, you can make it in frozen drink form and its even better!
+Review:
+Rating:
+4
+dateLastModified:
+2010-12-18T14:41:01.75
+helpfulCount:
+5
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I mixed this shot and added it to a cup of Starbucks Christmas blend. I used homemade irish cream and DeKuyper Peppermint Blast schnapps as that was what I had on hand. This was just what I needed today and very.....christmas-ish. Next time, I'd increase the peppermint schnapps just a bit.

@@ -1,0 +1,72 @@
+Recipe number:
+231517.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-27T21:58:32.343
+helpfulCount:
+0
+userID:
+17885454
+Display Name:
+Megan Walters
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’ve made this a few times and I love how it tastes! So yummy!
+Review:
+Rating:
+3
+dateLastModified:
+2016-01-06T18:16:00.633
+helpfulCount:
+0
+userID:
+15058165
+Display Name:
+Maria
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used olive oil to sauté the asparagus instead of butter and wish I would have taken the outside of the Brie off. It gave it a weird taste cuz I love Brie and I could have left the bread crumbs off. And it needed more pepper. I used no salt at all  I would make it again. My 6 yr old loved it

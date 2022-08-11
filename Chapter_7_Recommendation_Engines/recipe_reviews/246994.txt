@@ -1,0 +1,72 @@
+Recipe number:
+246994.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-18T03:37:59.26
+helpfulCount:
+0
+userID:
+20284610
+Display Name:
+Emily
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They are pretty good for having so little ingredients. I didn't have any self rising flour so I substituted 2 tablespoons of cornstarch in place of the last 2 tablespoons of flour. Definitely recommend! :)
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-13T17:34:57.887
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty little orange pancakes... I am not sure I understand having them with tea, which appears to be traditional but they taste nice

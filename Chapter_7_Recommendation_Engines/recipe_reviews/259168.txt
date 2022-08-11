@@ -1,0 +1,37 @@
+Recipe number:
+259168.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-07T12:39:47.74
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and super refreshing! I used lime flavored sparkling water, which was wonderful in this. I cut the recipe back just for hubby and I. I will be making these again, for sure~YUM! Thanks for sharing. :)

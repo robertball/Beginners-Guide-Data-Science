@@ -1,0 +1,47 @@
+Recipe number:
+256883.txt
+Review:
+Rating:
+5
+dateLastModified:
+02/16/2017
+helpfulCount:
+2
+userID:
+6868601
+Display Name:
+Sue Pape
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7626072.jpg
+text:
+We were going to a trivia night and wanted a lo-cal dip. we doubled the pickles and onion and served with pretzels and celery. Everyone loved it.
+Review:
+Rating:
+5
+dateLastModified:
+03/31/2019
+helpfulCount:
+0
+userID:
+23555116
+Display Name:
+Mary
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I didn't use anything lower in fat. Used 4tbls of juice and onion salt (had no onion)...and it turned out great! This I e is a keeper.
+Review:
+Rating:
+4
+dateLastModified:
+01/24/2017
+helpfulCount:
+0
+userID:
+bdweld
+Display Name:
+bd.weld
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4501775.jpg
+text:
+I'm all for cutting corners on calories but some foods are a bit off in taste with their low fat versions. Next time I will try neufchâtel cheese and up the onions and pickles a bit.

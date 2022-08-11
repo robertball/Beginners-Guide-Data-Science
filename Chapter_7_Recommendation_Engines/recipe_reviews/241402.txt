@@ -1,0 +1,37 @@
+Recipe number:
+241402.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-25T16:33:26.743
+helpfulCount:
+2
+userID:
+12700006
+Display Name:
+erinhead
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed it exactly and it is really yummy. Great use of zucchini! Plopping them on the pan was a bit like making pumpkin cookies- no way to make them exact circles or balls, but the texture after they are cooked are airy, cakey and not gooey. It took mine closer to 13 or 14 mins cooking time. I used mini cinnamon chips from a kitchen store- not the Hershey's brand, but I'm sure those would be great in it too.

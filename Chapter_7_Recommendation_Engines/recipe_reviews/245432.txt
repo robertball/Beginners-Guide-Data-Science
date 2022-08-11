@@ -1,0 +1,37 @@
+Recipe number:
+245432.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-04-18T19:12:22.013
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly except for cutting it in half. The mixture wouldn't roll into a ball at all. The best I could hope for were globs to roll in the coconut. I also had to put more coconut in a bowl for rolling because there wasn't enough. Since this is a "healthy" recipe, I used unsweetened coconut. The final product wasn't sweet enough either.

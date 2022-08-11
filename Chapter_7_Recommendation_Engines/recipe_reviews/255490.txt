@@ -1,0 +1,37 @@
+Recipe number:
+255490.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-17T16:30:17.623
+helpfulCount:
+0
+userID:
+18082847
+Display Name:
+Claire
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6008112.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this recipe and it was exactly what I was looking for. I had the pumpkin spice pudding mix, gingerbread cake mix, and canned pumpkin and wanted an easy recipe to use all 3. The substitutions I made were gingerbread cake mix instead of yellow, 2 cups of whole pecans and then I crushed them, added some pepitas, added a little salt to the nut and sugar mixture, and subbed applesauce for the canola oil. I really liked how moist the cake is. It’s also somewhat dense so I called it pumpkin bread instead of cake. But I had positive feedback and my relatives are asking me to make it again for Thanksgiving. Thank you!

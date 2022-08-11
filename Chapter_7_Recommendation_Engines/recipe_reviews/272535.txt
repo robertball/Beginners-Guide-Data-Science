@@ -1,0 +1,37 @@
+Recipe number:
+272535.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-24T05:47:25.003
+helpfulCount:
+0
+userID:
+3769149
+Display Name:
+Dave Taube
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+154
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5654796.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe as directed, but instead of broiling the sprouts at the end, I left them in the pan.  They were already charred from cooking them in the oven.  My wife and I agreed that this dish is pretty good, nothing special.

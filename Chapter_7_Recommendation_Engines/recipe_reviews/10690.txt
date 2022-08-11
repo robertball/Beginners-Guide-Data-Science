@@ -1,0 +1,72 @@
+Recipe number:
+10690.txt
+Review:
+Rating:
+3
+dateLastModified:
+2004-11-27T18:22:34.78
+helpfulCount:
+11
+userID:
+180435
+Display Name:
+Jen Thies McDowell
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+441
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am conflicted over how many stars to give this recipe, as they are *soo* yummy, yet I had trouble forming the mix into balls. There was no way they would have stood up to being dipped in the chocolate - they just weren't that sturdy. What I ended up doing was mushing a ball together and putting it in a little truffle foil and pouring chocolate candy coating (also called chocolate almond bark) over the top. Don't let the mashed potatoes gross you out - you can't taste them at all. I'll definitely play with this one and leave more comments if I figure out how to get them to form better balls.
+Review:
+Rating:
+4
+dateLastModified:
+2006-12-29T08:40:59.637
+helpfulCount:
+4
+userID:
+1468560
+Display Name:
+MrsKilmer
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/77420.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good, but I wish the chocolate would harden so they would be a little less messy!

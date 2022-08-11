@@ -1,0 +1,37 @@
+Recipe number:
+261021.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-11T15:24:54.76
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty good and will definitely make them again. I made a half batch but used one whole egg anyway. I got twelve, golf ball size balls. After ten minutes, I tried to turn one and it fell apart so, I did not turn any of them. I cooked them for another ten minutes. They were quite dry outside even though they remained moist and tender inside. So, keep your eye on them those last five minutes. Also, read the notes regarding blending the mixture. I will definitely try that next time. Thank you for the recipe.

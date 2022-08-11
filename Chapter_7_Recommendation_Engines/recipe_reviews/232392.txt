@@ -1,0 +1,72 @@
+Recipe number:
+232392.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-06T02:55:19.113
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! I used buckwheat instead of oatmeal for health reasons. Still delicious! Thank you Michapavon for your recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-25T14:23:35.003
+helpfulCount:
+0
+userID:
+25719470
+Display Name:
+Tony Rolfe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6746120.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good morning cereal that's really nutritious!

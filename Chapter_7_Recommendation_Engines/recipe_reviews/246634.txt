@@ -1,0 +1,37 @@
+Recipe number:
+246634.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-02T22:53:39.97
+helpfulCount:
+0
+userID:
+8566860
+Display Name:
+Scottee Meade
+isPro:
+False
+followersCount:
+27
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2289388.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was simple and tasty, but we found it a little sweet, possibly because the balsamic vinegar we use is thick and syrupy and sweet, and the sugar we used may be sweeter than normal white sugar. Will definitely make it again, with adjustments (less sugar).

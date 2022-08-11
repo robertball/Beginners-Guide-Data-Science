@@ -1,0 +1,37 @@
+Recipe number:
+265987.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-24T14:48:05.07
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10.24.18  I gave up on thinly slicing the cauliflower, as it was just crumbling, looking like cauliflower rice.  Instead, I just cut it into small, bite-size florets which worked fine.  Didn’t really measure the veggies, just eyeballed it, but I made the dressing as written using olive oil instead of canola.  I used a combination of Kalamata and green olives with pimento which brought a little brininess to the salad, and also added the optional onions, but skipped the optional green peppers.  This is a nice change for a side salad with a mild flavor.  Thanks for sharing.

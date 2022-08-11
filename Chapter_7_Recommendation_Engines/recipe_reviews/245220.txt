@@ -1,0 +1,37 @@
+Recipe number:
+245220.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-14T23:20:20.193
+helpfulCount:
+0
+userID:
+12213773
+Display Name:
+patricia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1010
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it by the recipe family liked it a lot

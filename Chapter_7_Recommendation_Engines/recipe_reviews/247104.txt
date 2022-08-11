@@ -1,0 +1,144 @@
+Recipe number:
+247104.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-11T09:24:51.7
+helpfulCount:
+4
+userID:
+21458058
+Display Name:
+Andy Martin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A couple of small changes, to suit my taste preferences, and this was lovely. As the daily gourmet suggested onion was added (half a Spanish onion lightly fried to soften before adding the tomato), some more fresh herbs - basil, which always goes well with tomato, coriander (cilantro) leaves for gentle spiciness - and omitted the salt ( there is more than enough in the stock cube).
+I will have no hesitation in making this again and I may try it with hot paprika!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T23:43:01.617
+helpfulCount:
+0
+userID:
+20970903
+Display Name:
+Marlene
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5738352.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe worked for my grass fed pork steak. Was absolutely delicious. I’m a gardener so lots of fresh spices made this. Will use this recipe again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-21T23:07:31.743
+helpfulCount:
+0
+userID:
+9814392
+Display Name:
+Lynda Johnson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+291
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6172382.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this except that I had bone in pork blade steaks so no flattening needed. 
+I used a can of diced tomatoes since I didn't have fresh tomatoes.  It turned out nicely. I will use white rice next time. I used a seasoned yellow rice.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-31T02:58:18.097
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9071
+followingCount:
+0
+madeRecipesCount:
+617
+favoritesCount:
+997
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think this would benefit by the addition of sliced onions. Very good and simple recipe, but needs a little more seasoning.

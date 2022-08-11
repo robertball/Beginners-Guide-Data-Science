@@ -1,0 +1,37 @@
+Recipe number:
+234455.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-27T12:42:36.223
+helpfulCount:
+0
+userID:
+4201487
+Display Name:
+Degas
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Smelled and tasted delicious! I think some of the dill should be cooked in the rice, not just in lamb/beans/onion mixture. Also, I thought it should be 2 1/2 cups of rice, not lbs, so that’s what I did. Otherwise, followed recipe closely. It was good, but better when mixed together rather than layered. I will make again.

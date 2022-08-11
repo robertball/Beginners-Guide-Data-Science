@@ -1,0 +1,37 @@
+Recipe number:
+245378.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-10T00:08:44.43
+helpfulCount:
+4
+userID:
+12002426
+Display Name:
+Lora Silvernail
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5172630.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cake is delicious and ended up being very dense and moist.  There was a little confusion when it came to making the mousse.  The recipe calls for a 1/4 cup of warm water, but there is no use for it in the instructions.  I ended up using a few teaspoons because the chocolate mixture was so thick, but not a full 1/4 cup.  There was also no sugar called for in the mousse.  I added 1/4 cup thinking the water was a typo.  I'm happy I did because the mousse would have been too bitter without it.

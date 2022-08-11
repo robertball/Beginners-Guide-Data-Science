@@ -1,0 +1,72 @@
+Recipe number:
+256861.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-03-09T17:59:05.167
+helpfulCount:
+2
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was just not for me; I didn't like the texture of the quinoa. I looked at other recipes after trying this one, and they all simmer for a longer time with the lid on. They all also use milk in the recipe. I added about 2 tablespoons honey. I'm not sure if it was just the method of this recipe or if breakfast quinoa is just not for me.
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-16T18:36:23.52
+helpfulCount:
+1
+userID:
+16372346
+Display Name:
+Marina Bottoms
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+1205
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6594121.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe to use up leftover quinoa. I chopped up some leftover peanuts and walnuts. I didn't have any dried fruit, so I used canned peaches. I also found that the recipe needed more juice, so I dumped in the whole can, juice and all. I then added honey, sugar and milk. It was good, and I liked the nutty texture for the guys. Thank you!

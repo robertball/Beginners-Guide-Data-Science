@@ -1,0 +1,72 @@
+Recipe number:
+215234.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-08-09T06:04:09.44
+helpfulCount:
+1
+userID:
+3178347
+Display Name:
+Janet Henderson
+isPro:
+False
+followersCount:
+98
+followingCount:
+0
+madeRecipesCount:
+202
+favoritesCount:
+476
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4459432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made these last night and we loved them. The flavors were amazing. I used red peppers and red onions because I hade them on hand. I also added some red pepper flakes and fresh minced garlic to the marinade. This is a keeper and easy too. My husband wants me to try it with shrimp next time.
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-18T18:07:04.2
+helpfulCount:
+0
+userID:
+13576879
+Display Name:
+KimLueck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick easy and had a lot of flavor.

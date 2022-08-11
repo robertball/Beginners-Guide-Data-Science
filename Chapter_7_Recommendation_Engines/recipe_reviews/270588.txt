@@ -1,0 +1,37 @@
+Recipe number:
+270588.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-14T22:32:39.947
+helpfulCount:
+1
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were quick and easy. The bacon is the star in this recipe. I used fire roasted diced tomatoes and diced the jalapeno. I will definitely make these beans again.

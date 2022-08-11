@@ -1,0 +1,37 @@
+Recipe number:
+257664.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-27T00:17:50.45
+helpfulCount:
+0
+userID:
+14855249
+Display Name:
+CoachJen
+isPro:
+False
+followersCount:
+50
+followingCount:
+0
+madeRecipesCount:
+78
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2201577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was yummy (with a couple tweaks). Maybe I'm a lightweight, but I thought it was overpowering where the gin was concerned. So I halved the gin to one oz and tripled the red wine to 1.5 oz. I didn't have "tropical" fruit unfortunately so I used frozen strawberries and added about 3 oz of pineapple juice. I like how the frozen berries cancelled the need for ice that would have watered it down. Cheers!

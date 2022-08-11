@@ -1,0 +1,37 @@
+Recipe number:
+258586.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-13T10:29:18.053
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this. It is very easy to make. I used gluten free whole grain flour and it worked perfectly. I accidentally added the flour before cooking, so I added some water. It worked well, anyway and the taste was bursting with flavor. The texture is similar to meat, just slightly more crumbly, but still chewy. This is very enjoyable. Thank you for the recipe.

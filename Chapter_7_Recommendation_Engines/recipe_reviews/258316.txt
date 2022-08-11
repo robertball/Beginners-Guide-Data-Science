@@ -1,0 +1,37 @@
+Recipe number:
+258316.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-02-23T22:18:49.953
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+775
+followingCount:
+0
+madeRecipesCount:
+1676
+favoritesCount:
+3991
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this but with frozen strawberries and cherries. I also ended up adding a little bit of stevia to it. The taste is ok, but the end result is an ugly muddy color. Not very appetizing and a little off-putting. I do feel good, though, about getting quite a few  fruits and veggies in my diet.

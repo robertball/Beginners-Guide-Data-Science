@@ -1,0 +1,107 @@
+Recipe number:
+169582.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-01-20T16:18:24.99
+helpfulCount:
+11
+userID:
+1806067
+Display Name:
+Erin M.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent!  I did modify slightly.  I used chicken breasts cut into bite-sized pieces.  I could not find mochiko (didn't have time to go to an Asian market), but I followed the directions otherwise- except subbed teriyaki for the oyster sauce- and then just before frying, I tossed the pieces with Panko.  The whole family loved it- this will go on my 'make often' list for sure!
+Review:
+Rating:
+5
+dateLastModified:
+2010-11-06T11:12:57.867
+helpfulCount:
+8
+userID:
+482257
+Display Name:
+Judy Tamanaha
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+967
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1657678.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great authentic recipe. I use soy sauce instead of oyster sauce and added some minced ginger  (about 1TBS)  also cut chicken in bite sized pieces
+Review:
+Rating:
+5
+dateLastModified:
+2012-07-01T18:09:12.413
+helpfulCount:
+6
+userID:
+4676104
+Display Name:
+Cookin Up A Storm
+isPro:
+False
+followersCount:
+99
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+1164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/368784.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good.  The directions are a little sketchy on exactly how the whole dredging thing is supposed to happen, but what I did was leave the Rice Flour out of the "marinade" and use that to do the pre-fry dredge.  Not sure if that was the intention, but it made for a nice crispy and light coating on this tasty chicken.  I will definitely make this again.  I did this recipe as a part of the Western Region's Faceless Frenzy July 2012.

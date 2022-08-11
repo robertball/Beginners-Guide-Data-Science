@@ -1,0 +1,107 @@
+Recipe number:
+247067.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-11T23:04:42.43
+helpfulCount:
+1
+userID:
+21265501
+Display Name:
+Lydia Pace Workman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4702601.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it with boneless pork filets and it was fantastic. My husband asks me regularly to make it now. A big hit.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-03T15:46:19.483
+helpfulCount:
+0
+userID:
+12663165
+Display Name:
+Debby Callahan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7122358.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So delicious and fairly easy. Don’t forget the rack
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-21T17:06:50.413
+helpfulCount:
+0
+userID:
+5911921
+Display Name:
+Sue Wilker Rockamann
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+57
+favoritesCount:
+527
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5389137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good flavor.  However, next time (and there will be a next time) I will bake longer, 45-60 minutes as the pork chops were still raw in the centers  AND make about half of the bread crumb mixture.

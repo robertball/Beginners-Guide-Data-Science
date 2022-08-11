@@ -1,0 +1,37 @@
+Recipe number:
+232172.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-07T13:08:49.82
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. It was a little too sweet for us but the cola sure made the tips tender. I recommend using a grill basket to make things easier and also so that you don't lose half of the tips in the bottom of the grill.

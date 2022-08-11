@@ -1,0 +1,74 @@
+Recipe number:
+140445.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-11T16:20:45.907
+helpfulCount:
+4
+userID:
+6148858
+Display Name:
+lwarner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Recipe name should be changed to Paul's Lamb and Lentil Soup and SKIP the apples. When I read the recipe I knew I would not be putting apples in it, and that was confirmed by the one review prior to mind. I put a few stalks celery and halved onions in the pot when cooking and removed when I removed the bones.
+
+This was delicious. My family loved it and it will be one I will make over and over, especially after having a lamb dinner.
+Review:
+Rating:
+1
+dateLastModified:
+2010-12-23T05:24:46.467
+helpfulCount:
+0
+userID:
+5944190
+Display Name:
+bonnie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Did not enjoy this soup. The flavours of the apple and wine did not blend well with the lamb.

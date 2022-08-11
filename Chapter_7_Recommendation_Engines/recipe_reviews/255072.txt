@@ -1,0 +1,76 @@
+Recipe number:
+255072.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-17T21:33:23.073
+helpfulCount:
+2
+userID:
+24093841
+Display Name:
+Foodie69
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+107
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6296402.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I swapped out lemon juice, & used Bragg’s apple cider vinegar instead  -
+I also used EIGHT large Granniesto make 2 rustic tarts,  I don’t think “2 apples” is anywhere near sufficient to fill a 9-inch pie crust.
+My first attempt used pre-made  crust from Immaculate Bakers & it came out beautifully,
+I also made it several times with Trader Joe’s frozen pie crust, & once with Whole Foods’ version.  //. They were all good;  the tart-sweet sticky ooze that forms during baking is fantastic, if you LET THE SUGARED APPLES REST in a sealed bag overnight.  ;—)
+I cut the sugar by a full third, & used Florida organic cane sugar.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-24T17:28:33.96
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great holiday dessert. It's light and not too sweet. I used fresh cranberries instead of dried. Thank you for the recipe.

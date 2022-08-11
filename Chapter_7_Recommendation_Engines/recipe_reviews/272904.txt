@@ -1,0 +1,72 @@
+Recipe number:
+272904.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-20T13:31:34.023
+helpfulCount:
+0
+userID:
+25016754
+Display Name:
+Marss
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Kids loved it. I think it tasted better with no mustard or Ketchup, cause it didn't go well with the cheese.  I had 2 dogs one with condaments one without.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-16T21:45:56.077
+helpfulCount:
+0
+userID:
+6439061
+Display Name:
+Don Sanders
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is somewhat different; but good. I placed the cheese in the wrap 1st per instructions & then used salsa versus mustard & ketchup. Worked for my family! These will go into our dinner rotation.

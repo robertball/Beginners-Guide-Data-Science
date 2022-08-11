@@ -1,0 +1,72 @@
+Recipe number:
+258218.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-06T04:00:19.26
+helpfulCount:
+4
+userID:
+15242201
+Display Name:
+amy w
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+853
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1994501.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! The only changes I made were to use grated (rather than shaved) Parmesan cheese (because grated was what I had on hand) and to toast the almonds before tossing them in. I also chilled the salad for a few hours, though I tasted before chilling and it was delicious hot too.
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-17T20:18:07.11
+helpfulCount:
+0
+userID:
+4805943
+Display Name:
+cpwoolley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+184
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it with gluten free pasta, a good option for those with celiac disease. Great recipe to make ahead of time.

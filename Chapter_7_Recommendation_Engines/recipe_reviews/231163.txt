@@ -1,0 +1,72 @@
+Recipe number:
+231163.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-04-23T13:34:36.357
+helpfulCount:
+2
+userID:
+4404325
+Display Name:
+julie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Initially I had used the "ingredients on hand" to find a recipe using chicken, broccoli and cheese and this recipe popped up. So having said that, I used cooked chicken instead of ham and also added a can of mushrooms (with liquid)to the other ingredients. I omitted the cornflakes because I didn't have any on hand.I also added a little poultry season and a few shakes of crushed red pepper for some pizzaz. I put all ingredients in the microwave for 5 minutes so that the hashbrowns would thaw out some before putting in the oven. This was very good. There was enough to make a 9x13 plus a small one which I shared with my son and his wife. Thanks for the recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-18T12:04:47.647
+helpfulCount:
+1
+userID:
+10919760
+Display Name:
+Alice K Folsom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+203
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like the broccoli and garlic added to an old time favorite of ours.

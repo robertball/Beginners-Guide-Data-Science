@@ -1,0 +1,37 @@
+Recipe number:
+275669.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-10T02:38:13.127
+helpfulCount:
+0
+userID:
+7557352
+Display Name:
+Dianne Mannheimer
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1165309.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did use a prepared pie crust from the store but otherwise I made the recipe just like it was written.  The pie is very good, exceeding expectations.  Even though it is reduced sugar the calorie count is still pretty high.

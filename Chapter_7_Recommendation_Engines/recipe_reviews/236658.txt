@@ -1,0 +1,37 @@
+Recipe number:
+236658.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-23T13:53:40.383
+helpfulCount:
+0
+userID:
+15674955
+Display Name:
+LOVETOCOOK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fabulous.  First time I've ever tried an untried recipe and my hubby couldn't get enough!!  Didn't have the mushroom soup in recipe so used a portobello soup(not condensed); also didn't have lentil soup mix so just used lentils and the flavor was great!

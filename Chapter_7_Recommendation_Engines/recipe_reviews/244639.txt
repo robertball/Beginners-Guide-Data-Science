@@ -1,0 +1,142 @@
+Recipe number:
+244639.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-23T13:30:23.96
+helpfulCount:
+4
+userID:
+16081989
+Display Name:
+Margaret H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this but used butternut squash.  It was enough for 4 meals and very delicious.  I only used 1/2 lb of Neeses hot sausage and that was plenty.  Didn't have any mushrooms, but that would have been good too.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-26T10:25:32.397
+helpfulCount:
+1
+userID:
+7863282
+Display Name:
+Barbara A. Anderson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1931377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used chorizo and it was perfect.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-04T15:25:07.097
+helpfulCount:
+1
+userID:
+13572622
+Display Name:
+Kat Jurewicz
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4873954.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I substituted hot sausage...this will deff blow you away!
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-02T01:08:28.303
+helpfulCount:
+1
+userID:
+22507184
+Display Name:
+darby melnik
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! I added a little ricotta like 1\4 cup, and more cheese, precorino Romano.

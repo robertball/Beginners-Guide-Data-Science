@@ -1,0 +1,107 @@
+Recipe number:
+268152.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-19T15:08:47.49
+helpfulCount:
+0
+userID:
+6110980
+Display Name:
+D.j. Goris Hornik
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+182
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6895579.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was worth the work.  I used two Italian sausage and one hot zesty sausage 1# packages.  1 tsp cayenne pepper.  Two medium sized jalapenos, de-seeded and and finely chopped.  A hit.  Really, I could have just served this for Thanksgiving.  ;)
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-24T20:20:50.17
+helpfulCount:
+0
+userID:
+24602031
+Display Name:
+Lady Blu
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6015289.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy!! My family loved it!! They kept telling me how good it was. They requested I bring it to Thanksgiving again this year??
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-05T00:09:12.303
+helpfulCount:
+0
+userID:
+21777586
+Display Name:
+Kathy Brown-purdy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7483109.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was very good

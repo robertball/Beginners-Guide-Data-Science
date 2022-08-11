@@ -1,0 +1,37 @@
+Recipe number:
+177793.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-14T07:55:13.803
+helpfulCount:
+0
+userID:
+1159739
+Display Name:
+LINDA0902
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+160
+favoritesCount:
+518
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/639512.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick & easy "throw together" meal.  3 adults in our house, and we all liked it.  I've made it a few times.  I get the canned chicken at our wholesale club (BJ's), but I'd bet Costco or Sam's Club probably has canned chicken.  The only change I made is adding a bit more milk, because the finished casserole tends to be a bit on the "dry" side.

@@ -1,0 +1,107 @@
+Recipe number:
+231620.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-24T21:58:17.183
+helpfulCount:
+1
+userID:
+14226507
+Display Name:
+Dana Lopez
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+107
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4017496.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! My brother-in-law said he doesn't like the sweet potatoes with marshmallows so I was on the hunt for a recipe without them. I got rave reviews! I didn't use all of the topping but saved the left overs for another round! Thank you for sharing this wonderful recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-25T19:40:32.82
+helpfulCount:
+1
+userID:
+21097614
+Display Name:
+skipppy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-25T16:44:10.01
+helpfulCount:
+0
+userID:
+24814110
+Display Name:
+Vicki Diane Downs
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6171887.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I always make my own changes to a recipe like, adding a little more cinnamon and a dash of nutmeg. I also like a thick topping, but the rest is the same.

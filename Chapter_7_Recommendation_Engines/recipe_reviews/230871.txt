@@ -1,0 +1,256 @@
+Recipe number:
+230871.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-03T19:36:35.47
+helpfulCount:
+3
+userID:
+3825474
+Display Name:
+Rebecca Lebowitz
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+128
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4782995.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was one of the BEST salads I have ever made!  I made it for a dinner party and every single person had two servings.  Absolutely will make again!
+My modifications:
+~Used half field greens and half baby spinach
+~Threw in a handful of walnuts because I had them around
+~Roasted the beets drizzled in a garlic-infused olive oil.  I used kosher salt and black pepper to season both beets and avocado-made a huge difference-don't forget this step!
+~Used the same garlic-infused olive oil to drizzle on the avocados and also make the salad dressing.
+~Threw in two cloves of garlic (pressed from my garlic presser) right  into my salad dressing
+~Used sliced almonds with dried cranberries instead of pistachios and dried cherries
+~Skipped all cheese to save on calories-and is a great vegan friendly choice
+Review:
+Rating:
+5
+dateLastModified:
+2015-09-18T04:55:46.577
+helpfulCount:
+1
+userID:
+12506154
+Display Name:
+Iloveit
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+399
+favoritesCount:
+1556
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3736783.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made with both avocado and goat cheese. I love 
+avocado but goat cheese is really good in this.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-22T23:14:31.32
+helpfulCount:
+0
+userID:
+20426855
+Display Name:
+Kelli W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+119
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and it actually made 3 large salads.  However,  I added roasted chicken to the top.  I should have added more grated Parmesan.  Overall, excellent taste!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-26T07:10:42.583
+helpfulCount:
+0
+userID:
+13681685
+Display Name:
+jennifer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+385
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4822135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! I adjusted to what I had in my kitchen so the final product had beets, spinach, pistachios, dried cranberries, and goat cheese. Very close to the original so I don't feel like it should lose stars (I would have done the original if I didn't have such close ingredients at home).
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-26T16:34:07.713
+helpfulCount:
+0
+userID:
+4909492
+Display Name:
+Mmmmfood
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+148
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty!  Beautiful to serve too.
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-15T13:29:17.443
+helpfulCount:
+0
+userID:
+4141307
+Display Name:
+Molly
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+402
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1152909.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a wonderful salad. You can vary the nuts and cheese and it's still delicious. I don't bring home leftovers of this one!
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-16T08:10:13.773
+helpfulCount:
+0
+userID:
+5625780
+Display Name:
+M_Lensenmayer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this salad!! We followed all directions in recipe. Added the garlic infused oil to the beets and avacado and used an herbed salt. Best with fresh parm/reggiano grated cheese! Will definitely make this salad again! Paired well with Mean Woman's Pasta Sauce-check it out on this site!

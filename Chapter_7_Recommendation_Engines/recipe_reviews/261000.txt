@@ -1,0 +1,107 @@
+Recipe number:
+261000.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-18T20:55:42.267
+helpfulCount:
+1
+userID:
+15530954
+Display Name:
+The Recipe Collector
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+85
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4266961.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Like, quarter the marmite.... And a little sriracha would bring this home to the 90's
+Review:
+Rating:
+5
+dateLastModified:
+2020-04-16T23:56:30.43
+helpfulCount:
+0
+userID:
+26573513
+Display Name:
+Cupcake Smasher
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7373072.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+ABSOLUTELY DELISHOUS SO AMAZING. A PERFECT AMOUNT OF SPICE!!!!!
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-04T13:06:36.003
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This one is difficult for me to rate . I never tried the sauce from Mc Donald's so I don't have anything to compare it with. What I will say is that the flavor and texture was good and it worked well as  a dipping sauce for the popcorn chicken I made. The one problem I did have is that something balled up as soon as it  got to medium heat even though I was whisking continually. I think it was the cornstarch but I'm not sure? Again, I never tried the original sauce but with a name like Szechuan I would expect some heat. Maybe there wasn't, I don't know?  On that note, it tasted just fine as written but in the end I added a healthy dose of rooster sauce to the mix and that made it even better.

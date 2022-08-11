@@ -1,0 +1,114 @@
+Recipe number:
+233744.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-04T13:44:14.91
+helpfulCount:
+5
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1033
+favoritesCount:
+1847
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was definitely an enjoyable salad, though I did back off on the kale- maybe this was written for smaller bunches of kale, but the kind at our grocery store is always in massive bunches!  I also used a whole bell pepper.  This would also be great with mushrooms and red onion added!
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-11T12:53:56.047
+helpfulCount:
+2
+userID:
+11889569
+Display Name:
+KimSchafer4
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4405953.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Make this quite often. Love it!
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-23T16:40:31.857
+helpfulCount:
+0
+userID:
+23652420
+Display Name:
+Sandi Fentiman
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+127
+favoritesCount:
+214
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5414645.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It tasted great and definitely different! My home-made dressing dressing would go well with it as well. And I added some feta cheese as well.
+
+1/4 cup olive oil.
+2 T. red wine vinegar
+bit of salt
+1 garlic clove
+a dash of tobacco sauce (optional)
+Mix well.

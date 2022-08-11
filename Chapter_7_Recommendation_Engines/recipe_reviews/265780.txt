@@ -1,0 +1,37 @@
+Recipe number:
+265780.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-10T17:20:25.477
+helpfulCount:
+0
+userID:
+23713506
+Display Name:
+Orrj
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious salad.  Lots of chopping and peeling, so be sure to do all prep beforehand.  I thought it needed a little salt and could have used some crunch, but it was delicious and easily adjusted.

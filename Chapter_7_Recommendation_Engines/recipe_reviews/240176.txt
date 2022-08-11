@@ -1,0 +1,37 @@
+Recipe number:
+240176.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-02T13:56:58.4
+helpfulCount:
+4
+userID:
+6892443
+Display Name:
+modedina
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+236
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome dry rub. Great on rib and thinner skirt steak. Adding one tablespoon of tamarind boosted flavor.

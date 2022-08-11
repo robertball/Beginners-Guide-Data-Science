@@ -1,0 +1,37 @@
+Recipe number:
+233351.txt
+Review:
+Rating:
+1
+dateLastModified:
+2013-08-13T08:24:13.42
+helpfulCount:
+0
+userID:
+2325741
+Display Name:
+atasteofcreole
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+347
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/333659.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Original recipe for 65 people!  WOW!  Cut it down for 20.  I found this to be bland and dry, with  no onion, no garlic, no bell pepper or capers.  Eggs bind, but add no moisture.

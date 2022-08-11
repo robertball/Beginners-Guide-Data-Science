@@ -1,0 +1,37 @@
+Recipe number:
+240050.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-11T18:01:40.327
+helpfulCount:
+2
+userID:
+6749231
+Display Name:
+Terry Goff Tripp
+isPro:
+False
+followersCount:
+45
+followingCount:
+0
+madeRecipesCount:
+66
+favoritesCount:
+360
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1498445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A great addition to our Martini menu! If you like fireballs. .. you will love this simple syrup with Vodka!

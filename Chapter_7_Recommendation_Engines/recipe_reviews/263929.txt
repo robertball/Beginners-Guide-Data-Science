@@ -1,0 +1,37 @@
+Recipe number:
+263929.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-05T15:55:25.383
+helpfulCount:
+0
+userID:
+13869181
+Display Name:
+Tashagang
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good way to use up left overs. Very easy and fast weeknight dinner. I've used both corned beef and ham in this. We thought the ham was a little better.

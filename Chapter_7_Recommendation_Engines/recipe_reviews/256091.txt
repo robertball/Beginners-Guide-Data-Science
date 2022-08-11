@@ -1,0 +1,37 @@
+Recipe number:
+256091.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-27T03:01:48.147
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Mmmmmm.... This is a 5 star drink! Great flavors mixed together with a similar eggnog flavor. Perfect for after a meal!

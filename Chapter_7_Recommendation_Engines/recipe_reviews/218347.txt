@@ -1,0 +1,37 @@
+Recipe number:
+218347.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-10-03T11:56:47.96
+helpfulCount:
+2
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9070
+followingCount:
+0
+madeRecipesCount:
+617
+favoritesCount:
+994
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't too crazy about the cinnamon peach juice combo...I think if the peaches were warmed, and the juice mixture thickened, it would've been better - not sure...not a bad dessert.  I chose to make mini tarts instead :)

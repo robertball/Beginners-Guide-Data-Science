@@ -1,0 +1,110 @@
+Recipe number:
+10194.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-12-18T12:09:52.153
+helpfulCount:
+4
+userID:
+1291204
+Display Name:
+DAFFODIL2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was SO EASY to make and they turned out perfect!  I made six different Christmas cookies and everyone commented about liking this cookie the best.  One close friend said, "I really liked the sandtarts the best" and I didn't even mention that I had included sandtarts in her mixture of home made cookies.  She recognized them immediately as being sandtarts.  I'm making another batch this week because the others are all gone.
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-04T15:54:26.447
+helpfulCount:
+2
+userID:
+7115135
+Display Name:
+jashby
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe! This yielded 7 dozen cookies. Modifications that worked for us:
+* Cooked at 325 for a full 10 minutes 
+* Increased vanilla to 2 1/2 tsp
+* Added cinnamon AND sugar on top after cooking
+Review:
+Rating:
+3
+dateLastModified:
+2006-09-11T15:50:28.497
+helpfulCount:
+0
+userID:
+266810
+Display Name:
+Panda Cookies
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/22631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was way too rich for me, but the sugar and cinnamon on top was a nice flavor.

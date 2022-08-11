@@ -1,0 +1,37 @@
+Recipe number:
+242336.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-20T18:07:36.11
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum! This is creamy, smooth, and delicious ice cream. The tofu helps give it such body, you won’t believe it’s vegan. I used store-bought, unsweetened soy milk that has carrageenan in it, which may have had some effect on texture. I used coconut oil instead of canola. I used the exact amount of matcha as written. A couple of people though it was too strong, but most of my taste testers liked it. So, I’ll stick with that measurement. It only took 18 minutes in my ice cream maker. Thank you for the recipe.

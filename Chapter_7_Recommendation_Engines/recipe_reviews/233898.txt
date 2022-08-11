@@ -1,0 +1,37 @@
+Recipe number:
+233898.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-23T19:06:56.88
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked these and it was a nice change but the cornflakes and sugar took away from the tartness. Great for kiddo's or for someone first trying out the fried green tomato but I prefer the cornmeal/flour batter to be honest.

@@ -1,0 +1,107 @@
+Recipe number:
+257835.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-11-02T21:28:57.76
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really wanted to like this but unfortunately I did not care for it. I tasted the pumpkin/mascarpone mixture and felt it wasn't sweet enough so I added about a tsp more of Pyure Bakeable Blend. I tried eating the French toast by itself, with Pyure honey substitute and with Pyure Maple syrup substitute and it just did not work for me. Regardless, thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-27T10:47:01.187
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My Boys and I loved this recipe! I would suggest adding abit more pumpkin to the mixture for a more pumpkin flavor and adding a bit of cinnamon to the egg mixture. Overall, it was a great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-20T23:21:10.023
+helpfulCount:
+0
+userID:
+14776244
+Display Name:
+Bobby Darapureddi
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+79
+favoritesCount:
+509
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5722852.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Toast that should try for sure!!

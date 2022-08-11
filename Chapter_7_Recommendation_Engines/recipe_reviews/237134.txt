@@ -1,0 +1,74 @@
+Recipe number:
+237134.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-23T13:01:44.963
+helpfulCount:
+4
+userID:
+17357080
+Display Name:
+Veronica
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this with an olive oil crust instead of a butter pie crust, and it complimented the filling quite well.
+
+The filling itself, though delicious, was fairly homogeneous and the recipe made a lot for a 9 inch pie pan (ours made a little hill in the crust, and there was still more to spare!). If I made it again, I would cut the amount of sweet potato by a bit, and reserve some of the parmesan to put on top for a bit of browning and visual appeal.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-04T03:19:37.083
+helpfulCount:
+0
+userID:
+24483266
+Display Name:
+Tahni
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum, I made this for the first time recently to take to a party. It was a big hit! So easy to make and no pre baking of the pastry shell required. The only alteration I made was a little more cold water to form the dough and the addition of parsley and chives to the filling. A great way to use up all our home grown sweet potatoes.

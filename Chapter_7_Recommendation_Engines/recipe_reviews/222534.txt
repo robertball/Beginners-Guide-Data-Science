@@ -1,0 +1,73 @@
+Recipe number:
+222534.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-15T16:07:57.507
+helpfulCount:
+10
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and delicious!  I like the addition of the banana. They balance out the tartness from the pineapple and mango.  I'm not normally a huge fan of papaya, but it's very good mixed with the other fruits. I think next time I might sprinkle some coconut over the top. Great recipe!
+Edited to add: I would recommend eating this the same day. It tends to get mushy when stored for more than a day.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-17T18:56:00.027
+helpfulCount:
+0
+userID:
+759648
+Display Name:
+michellew
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I added strawberries and some shredded coconut for texture. A squeeze of lime and it was good!!

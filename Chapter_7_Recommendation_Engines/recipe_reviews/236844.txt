@@ -1,0 +1,39 @@
+Recipe number:
+236844.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-02T16:35:51.797
+helpfulCount:
+0
+userID:
+782864
+Display Name:
+Tricia Statser Guidry
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good and easy to make.  
+It was well-loved.  
+Will be making this all summer long.

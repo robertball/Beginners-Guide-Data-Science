@@ -1,0 +1,107 @@
+Recipe number:
+228124.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-03T21:06:29.33
+helpfulCount:
+5
+userID:
+7725355
+Display Name:
+Waterless Cooker
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+1426
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2120045.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had this today as part of a birthday dinner made for my nephew...just very simply used fresh tomatoes, sliced mozzarella ball, fresh basil and a tad of olive oil, then sprinkled w/pepper...fresh, nice addition to meal...it was very well received!
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-02T21:56:43.97
+helpfulCount:
+5
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12224
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and on so tasty with fresh summer tomatoes and basil.   A good balsamic would be great to really finish this along with a good hunk of bread or foccacia.
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-31T08:36:34.707
+helpfulCount:
+0
+userID:
+10813120
+Display Name:
+chrisevans15
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love it!

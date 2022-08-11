@@ -1,0 +1,107 @@
+Recipe number:
+87033.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-04-18T14:31:06.267
+helpfulCount:
+17
+userID:
+678930
+Display Name:
+Hot Chilli
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+512
+favoritesCount:
+510
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/15674.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice. I halved the recipe but it still made way too much for two people. Didn't bother with using the stock & flour as the condensed soup on it's own enough sauce. I added a diced carrot to the mixture to up the vegetable content. This would also be a good appetizer in smaller Vol-au-vent shells.
+Review:
+Rating:
+3
+dateLastModified:
+2009-10-18T09:03:30.36
+helpfulCount:
+9
+userID:
+2927491
+Display Name:
+Ms.D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband really likes this.  My biggest problem: I had a very hard time finding the cream of asparagus soup.
+Review:
+Rating:
+4
+dateLastModified:
+2006-03-30T12:02:55.997
+helpfulCount:
+9
+userID:
+1792615
+Display Name:
+Jodi V
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+259
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/387653.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I both love asparagus and was looking for a recipe to do anything w/ fresh asparagus.  We both enjoyed but served over penne because that is all I had on hand and I think it would have been better as original recipe suggested.

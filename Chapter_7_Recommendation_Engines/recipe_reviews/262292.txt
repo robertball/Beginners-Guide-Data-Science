@@ -1,0 +1,107 @@
+Recipe number:
+262292.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-21T17:05:35.597
+helpfulCount:
+5
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been making these for year but never thought to use avocado oil. I loved the flavor it added. I typically add some chili powder to the oil and will do that next time. 5 stars for the avocado oil!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-21T02:27:10.733
+helpfulCount:
+1
+userID:
+21633923
+Display Name:
+Lisa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made them! I used canola oil and cooked them in the air fryer, I put them on a paper towel to get the grease off and sprinkled with Carne Asada seasoning that I read from a tortilla soup recipe, they were amazing, My husband even said I could stop buying tortilla chips at the store and just make these. That’s probably not gonna happen.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-03T18:26:20.12
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved these. The avocado oil is a great oil to use for tortillas!

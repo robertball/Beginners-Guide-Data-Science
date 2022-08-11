@@ -1,0 +1,37 @@
+Recipe number:
+223264.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-15T22:27:48.94
+helpfulCount:
+2
+userID:
+2465853
+Display Name:
+Nita Rockwell Minto
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2713678.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made as directed  and it lacked seasoning.  I added shell pasta, salt and Old Bay Seasoning and didn't put it over greens it was very good!  I don't like rating a recipe if not made exactly as posted.  I would recommend this recipe over greens and/or with pasta added.  Makes a really good base for many different ideas.

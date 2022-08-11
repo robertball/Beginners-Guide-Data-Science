@@ -1,0 +1,72 @@
+Recipe number:
+256149.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-25T21:51:24.02
+helpfulCount:
+0
+userID:
+21383443
+Display Name:
+Amy Green
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6542481.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+made with no pecan and added fruits
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-23T03:27:18.677
+helpfulCount:
+0
+userID:
+4361450
+Display Name:
+Kateri
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Theses have great flavour. I didn't have a blender or food processor, so that may have altered the consistency but I think it actually needs more sweet potato as they seemed a bit dry and dense. I'd try them again with more sweet potato.

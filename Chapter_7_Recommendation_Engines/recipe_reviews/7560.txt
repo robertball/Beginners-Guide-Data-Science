@@ -1,0 +1,72 @@
+Recipe number:
+7560.txt
+Review:
+Rating:
+2
+dateLastModified:
+2000-03-28T12:37:02.737
+helpfulCount:
+11
+userID:
+12203
+Display Name:
+JACKIE H.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this cake for a recent dinner party and it was definitely NOT a hit.  In fact, no one ate their whole piece.  Not a good sign.  Although it was very beautiful, I think this cake tasted like a very bland angel food cake.
+Review:
+Rating:
+4
+dateLastModified:
+2012-06-28T17:37:47.427
+helpfulCount:
+0
+userID:
+8230909
+Display Name:
+gator
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have a similar recipe somewhere in my files, but even though I have them sorted, there are still so many that I have trouble finding a specific one I want. Thank you for submitting this recipe. I think the one I have uses orange zest instead of lemon extract. We always loved this cake. So pretty and light. Don't like cakes that start with box mixes. Not so hard to bake from scratch.

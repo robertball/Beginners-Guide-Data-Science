@@ -1,0 +1,72 @@
+Recipe number:
+264527.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-07T18:30:45.23
+helpfulCount:
+0
+userID:
+2703068
+Display Name:
+shelteredrose
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+163
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/57525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I always use Penzeys Spices and Arizona Dreaming was exactly what I had on hand when I went looking for a recipe for this.  I had a craving and used Frozen corn that I charred a bit in a skillet on the stove,  Made this as a side with a pork tenderloin rubbed with the same Arizona Dreaming mix.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-06T22:55:42.363
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this and I especially loved the fact the sauce was just drizzled over the top instead of stirred in like most call for. It makes for a much better presentation this way. I also liked the flavor the ancho gave it. Great recipe and a definite keeper!

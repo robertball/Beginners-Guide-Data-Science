@@ -1,0 +1,72 @@
+Recipe number:
+277466.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-01T08:38:34.34
+helpfulCount:
+0
+userID:
+17405219
+Display Name:
+Cookin' With Lukie >^..^< 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+615
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, showy dessert!  I used sugar-free chocolate pudding and sugar-free Cool Whip due to diet restrictions in the family.  The dish was well received!  I will definitely make this again and again!!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-27T01:17:41.833
+helpfulCount:
+0
+userID:
+11367939
+Display Name:
+Patrick Swick
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+771
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7419266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious... everybody gets their chocolate peanut butter cup fix taken care of!!

@@ -1,0 +1,73 @@
+Recipe number:
+259206.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-09-29T07:09:19.84
+helpfulCount:
+0
+userID:
+28127022
+Display Name:
+Scarah Jolie Laide
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8588890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i skipped a few ingredients as i didnt have them (vanilla essence, baking powder ,nutmeg and replaced coco oil with olive) and for some rason the pancakes wouldnt stay together?
+i'll try again with all the ingredients..otherwise pretty good.. bit bland without all the spices i guess so i added a bit of salt and honey after cooking.. anyone know why thy fell apart? also the mixture was very thick and did not spread out by itself..
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-14T21:53:06.443
+helpfulCount:
+0
+userID:
+25420203
+Display Name:
+Briana Rodrique
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6533245.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When the 'ulu ripens too quickly, this is a great recipe to use. My baby loves them, and I can freeze them after making. Can take out a few at a time when I need them.

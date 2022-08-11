@@ -1,0 +1,72 @@
+Recipe number:
+268055.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-13T17:05:48.247
+helpfulCount:
+0
+userID:
+26300776
+Display Name:
+Sheila C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very easy to make and very good.  We at it over lettuce and peppers and it was very refreshing and bursting with flavour.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-21T00:26:05.213
+helpfulCount:
+0
+userID:
+5466718
+Display Name:
+CJWood
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+727
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1001432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Me and my family are sure glad I made this tonight thumbs up all around only change is less pepper flakes 1/2 tspn had all the garnish’s shredded cabbage ,chopped jalapeño, chopped peanuts,cilantro,cucumbers ,green onions will definitely make again and again thank u for submitting this recipe might try ground turkey next time

@@ -1,0 +1,147 @@
+Recipe number:
+10714.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-07-31T11:46:26.11
+helpfulCount:
+10
+userID:
+1344684
+Display Name:
+ritajennings
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+102
+favoritesCount:
+412
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/173128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok - Main reason why I used this recipe is because I needed a cookie, but I had no chocolate or butter and wanted to use what I had on hand instead of running to the store.
+So....I used unsweetened cocoa with oil instead.
+(3 Tbsp Cocoa + 1 Tbsp oil or butter = 1 oz Unsweetened Chocolate)
+I didn't have egg substitute so I used 2 eggs instead.(I only made 1/2 a batch) 
+I placed batter in freezer for about 45 minutes and rolled the cookies good in the powdered sugar, and baked- they are great!
+Review:
+Rating:
+5
+dateLastModified:
+2000-04-03T05:29:26.22
+helpfulCount:
+4
+userID:
+50902
+Display Name:
+ANGIE RYBAK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent!  I was asked for the recipe the very first time I baked them!
+Review:
+Rating:
+5
+dateLastModified:
+2007-06-14T19:57:12.81
+helpfulCount:
+3
+userID:
+2399982
+Display Name:
+RaluvsNovy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+absolutly beautiful, thouroghly enjoyed them
+my kid got pushed off our roof into a rose bush
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-25T14:14:13.327
+helpfulCount:
+1
+userID:
+1701141
+Display Name:
+Tiffany
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+298
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/406248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This are really pretty simple and a great chocolaty flavor without seeming really rich and fatty. Will definitely make these again when I have unsweetened chocolate to use. Don't overbake...they harden up as they cool

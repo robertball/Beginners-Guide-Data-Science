@@ -1,0 +1,107 @@
+Recipe number:
+255542.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-01T22:22:53.317
+helpfulCount:
+0
+userID:
+20675224
+Display Name:
+Susan Fleming
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+176
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4249423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+excellent flavours, super simple and nice and light on the tummy.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-03T22:28:34.493
+helpfulCount:
+0
+userID:
+8731538
+Display Name:
+Brookside Bistro
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+1370
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3597265.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy, delicious & nutritious...we loved it!  I eyeballed the onion and sun-dried tomatoes, but they were wonderful in this.  I had to cook it about 15 minutes longer than recommended, but no big deal.  I was scared when I took this out of the oven because it rose unevenly; however, it leveled out quickly while cooling.  Great item to take to a brunch...loved it!!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-24T18:53:46.667
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really delicious.  This has no meat and very little cheese so I didn't have a lot of hope for the flavor. The sun dried tomatoes are what gives this the taste... so don't leave them out. Adding meat with this would work great, but I think I would leave the cheese level as it is

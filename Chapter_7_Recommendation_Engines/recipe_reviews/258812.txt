@@ -1,0 +1,112 @@
+Recipe number:
+258812.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-17T23:37:36.24
+helpfulCount:
+2
+userID:
+22297070
+Display Name:
+Fawx
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4548390.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It smells awesome.  Peeling and coring the fruits took me the most time to do. Everything else was simple.  
+The changes I made;
+I omitted the peaches entirely and just used nectarines because I have a huge box of them to get through. 
+In the crumble I halved the flour and added rolled oats instead, to add more of a crunch. 
+All in all it was easy to make
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-26T01:49:36.643
+helpfulCount:
+0
+userID:
+3398053
+Display Name:
+Mark2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5433644.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have nectarines but did have a ton of peaches so I just used those. I did one and a half times the recipe to put it in a 9x13. Outside of that I left it just as it was and it turned out fantastic. My family loves it and using 9 cups of peaches was awesome!
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-30T01:51:11.75
+helpfulCount:
+0
+userID:
+24016534
+Display Name:
+joopoinca
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Skip Dinner.  Seriously.
+Modifications:  1/2 c oats, 1/2 c flour, did not boil produce just skinned the ripe fruit.  Added 1 tsp lemon zest, 1/4 t ground ginger and 1/8th t ground nutmeg.   Sooooooooo delicious.  Who needs dinner.  This feeds the soul.  Mmmmmmmm!

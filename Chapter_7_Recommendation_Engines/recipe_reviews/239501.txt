@@ -1,0 +1,113 @@
+Recipe number:
+239501.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-16T18:49:37.887
+helpfulCount:
+2
+userID:
+20480690
+Display Name:
+meher
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Some 2 more red chilies and 5 mm slice of Galangal was added.
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-09T09:30:24.203
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very good alternative to store-bought, which allows you to adjust the flavors to your prefencence and ingredients to your diet. I soaked the chilis in some water beforehand and think this helps the mixing process as well as texture in the end. I also used fresh lemon grass and turmeric. Being allergic to shrimp, I used fermented bean paste and some umami seasoning instead of shrimp paste. Thank you for the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2019-09-05T03:50:48.077
+helpfulCount:
+0
+userID:
+20710230
+Display Name:
+Kevin_Morgan87@amazon.com
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744997.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Substitute these ingredients:
+• 2 tablespoons chopped fresh cilantro,
+• 1 tablespoon ground coriander,
+• 2 teaspoons lemon zest,
+• 2 teaspoons shrimp paste,
+• 1 teaspoon lemon grass powder;
+For 4 tablespoons & 1 teaspoon dry barbecue spice powder.

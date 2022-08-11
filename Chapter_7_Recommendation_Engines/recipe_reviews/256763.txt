@@ -1,0 +1,37 @@
+Recipe number:
+256763.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-26T14:18:59.19
+helpfulCount:
+0
+userID:
+12591447
+Display Name:
+tcasa
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+776
+favoritesCount:
+1504
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2386212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it!! I made this for s family gathering and they loved it. I could not find can lentils so I used 3 cups of cooked lentils, which I cooked according to the packaging instructions. Aside from that I made the recipe as written and served it warm topped with crumbled feta along tortilla chips. Delicious!! I froze  the leftovers to serve with tacos or burritos.

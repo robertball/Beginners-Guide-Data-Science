@@ -1,0 +1,37 @@
+Recipe number:
+246573.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-06T00:11:26.217
+helpfulCount:
+0
+userID:
+3193814
+Display Name:
+Jacqueline
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+143
+favoritesCount:
+1101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1018748.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic!  Very close to to dish I grew up with  and very easy.  It might have some ingredients that are not quite as familiar to some, but these days can be found quite easily.  Only thing I would modify is the amount of turmeric. I put 3/4 tbs instead and put a tablespoon of Ketjap Manis (sweet soy sauce). Yum!

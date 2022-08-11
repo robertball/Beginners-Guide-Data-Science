@@ -1,0 +1,72 @@
+Recipe number:
+241801.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-15T13:27:45.937
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I used regular tortilla's and also sprinkled pepperjack cheese on the top layer before rolling. The swiss was nice melted on the bottom but I just wanted some non melted cheese on the top. This crisped up nicely and even though I'm not a huge tofu fan, this is one I would definitely make again.
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-29T18:48:29.59
+helpfulCount:
+0
+userID:
+17481699
+Display Name:
+Rob Culp
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty, but I think it needs something more. I'm considering including caramelized onions and substituting bleu cheese crumbles for the melted Swiss next time I make it but doing so would complicate the recipe and muddy the concept of "cheap, quick and easy".

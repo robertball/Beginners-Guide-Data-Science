@@ -1,0 +1,37 @@
+Recipe number:
+270625.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-10T14:22:42.853
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. The only change I made up front was with the pine nuts. They are expensive and come in small bags and I only bought one which ended up being just over 1/4 cup. Even with less pine nuts I still had trouble getting the pesto to blend so I added some extra virgin olive oil and that did the trick. I ended up needing more flour than the recipe calls for but other than that this was great as written and one I will make often this spring once the basil plant takes off.

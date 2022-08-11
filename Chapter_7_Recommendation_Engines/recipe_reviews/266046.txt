@@ -1,0 +1,72 @@
+Recipe number:
+266046.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-08T15:44:47.823
+helpfulCount:
+0
+userID:
+5258462
+Display Name:
+G Hofmann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+687
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5051586.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Here's the thing... I had leftover shoulder roast that I needed to use and not a lot of time to cook, so I adapted the recipe to use the pork and organic canned cannelinis.  Except for the 2 main ingredients :), I stuck to the recipe and the result was fantastic! Very flavorful in about half an hour plus some simmering.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-21T23:05:03.883
+helpfulCount:
+0
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+1971
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very simple, but delicious meal. Very easy to put together. Only thing I would do differently next time is maybe add in some additional dried herbs while the soup is cooking, or wait until closer to the end of cooking to add in more fresh herbs. Other than that, I really enjoyed this, especially served with some crusty bread! (Sprinkled some green onions on top just for a garnish.) Sometimes simple is better, and this dish is proof of that. Thank you for the recipe

@@ -1,0 +1,92 @@
+Recipe number:
+67840.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/04/2004
+helpfulCount:
+9
+userID:
+1013683
+Display Name:
+ONYX085
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was absolutly delicious!!! Except I used nonfat yogurt instead
+Review:
+Rating:
+4
+dateLastModified:
+06/27/2004
+helpfulCount:
+8
+userID:
+1122889
+Display Name:
+KATHERINE13
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Pretty good.  I found the vanilla yogurt a bit too sweet.  Next time I would use plain yogurt with a little honey.
+Review:
+Rating:
+5
+dateLastModified:
+10/18/2004
+helpfulCount:
+7
+userID:
+816575
+Display Name:
+TINKYBELLL
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+i added a little honey and cinnamon-i LOVE this fruit salad!! :)
+Review:
+Rating:
+5
+dateLastModified:
+03/26/2006
+helpfulCount:
+2
+userID:
+1445689
+Display Name:
+ASARAHGUS
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+very healthy and very refreshing :-)
+Review:
+Rating:
+5
+dateLastModified:
+02/04/2006
+helpfulCount:
+2
+userID:
+858605
+Display Name:
+CrystalGayle
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/590602.jpg
+text:
+What a delicious healthy dessert/snack/brunch/whatever you want!
+Review:
+Rating:
+5
+dateLastModified:
+02/22/2006
+helpfulCount:
+1
+userID:
+1674866
+Display Name:
+Marlese
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+So easy! I also added a red grapefruit to the mix and cut my grapes in half (easier to "fork" that way). So good and healthy. I might add a banana next time.

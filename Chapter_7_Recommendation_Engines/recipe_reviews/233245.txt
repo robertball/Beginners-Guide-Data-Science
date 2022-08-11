@@ -1,0 +1,72 @@
+Recipe number:
+233245.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-13T08:36:53.75
+helpfulCount:
+3
+userID:
+1683460
+Display Name:
+Spud Buddies
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+881
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's a divine version of old-fashioned tea cakes and so delicious! Thanks, Guinevere and Grandma Lulu.
+Review:
+Rating:
+2
+dateLastModified:
+2014-11-04T15:47:11.753
+helpfulCount:
+0
+userID:
+14580360
+Display Name:
+Jane Prestigiacomo Gramza
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1627832.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The taste is good,but not pleased with instructions. Would recommend using a piping bag or a baggie with the corner cut off.

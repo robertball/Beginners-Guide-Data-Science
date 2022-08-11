@@ -1,0 +1,72 @@
+Recipe number:
+267540.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-20T02:40:15.463
+helpfulCount:
+0
+userID:
+5155796
+Display Name:
+cookie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+2613
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it for my vegetarian and vegan friends and they liked it.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-03T21:58:50.69
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+541
+favoritesCount:
+702
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For someone who is used to adding butter, milk, heavy creamer, or sour cream to my mashed potatoes I was surprised at the flavor these potatoes bring. I used about 1/2 cup of reserved water and soy milk to get the consistency I wanted. I did use red potatoes.

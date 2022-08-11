@@ -1,0 +1,72 @@
+Recipe number:
+86495.txt
+Review:
+Rating:
+2
+dateLastModified:
+2008-07-03T17:38:43.14
+helpfulCount:
+6
+userID:
+2956688
+Display Name:
+Dawn Yates
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1555685.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree ... 1 hour is going to be really tough ribs !!  An hour and a half at 325 is the bare minimum.  I prefer 2 hours baking time, then to the grill for a slight char, and sauce.  Their rub is fine, just cook them longer in the oven.
+Review:
+Rating:
+1
+dateLastModified:
+2005-12-25T06:46:53.733
+helpfulCount:
+4
+userID:
+71652
+Display Name:
+HOWARDFOXX
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+95
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry McCormick® & Company but one hour cook time is going to yield some mighty tough ribs.

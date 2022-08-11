@@ -1,0 +1,72 @@
+Recipe number:
+257108.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-02T22:11:36.94
+helpfulCount:
+0
+userID:
+12541024
+Display Name:
+Ms Jean
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+246
+favoritesCount:
+1656
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used elbow macaroni because I had some leftover. I halved the recipe but should have added the dressing gradually as it seemed to overwhelm. It was very creamy, but I'd reduce the amount of dressing, just a personal preference. I didn't add tomato and only used red peppers and a small amount of fresh mushrooms. Good to try, but I prefer oil-based Italian pasta salads when using pepperoni.
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-18T12:38:09.343
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We LOVED this pasta salad! I thought it was going to end up being on the dry side, but it wasn't at all. Loved the flavors in this...a definite keeper~YUM! Thanks for sharing. :)

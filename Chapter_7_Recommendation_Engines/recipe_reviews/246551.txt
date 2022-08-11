@@ -1,0 +1,72 @@
+Recipe number:
+246551.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-13T07:11:24.32
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and another similar recipe from this site last night for dinner and this one had a lot more flavor and was much better in my opinion. Black beans are bland to me and need something to help flavor so the salsa was perfect. I left out the optional sour cream because the other recipe called for it and a little bit of sour cream goes a long way with me. I plan on making this again with corn tortilla chips like the recipe submitter suggested and I will add jalapeno's and more cilantro when I do.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-18T19:00:45.917
+helpfulCount:
+0
+userID:
+878112
+Display Name:
+CHAOTICA
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/356726.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is not the recipe I submitted. I would not use flour tortillas!! Use corn tortillas.  Also, 1/4 cp sour cream is too much!! This is a dish for 1.

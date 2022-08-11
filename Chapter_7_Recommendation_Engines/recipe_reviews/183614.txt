@@ -1,0 +1,72 @@
+Recipe number:
+183614.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-12-15T15:38:03.86
+helpfulCount:
+17
+userID:
+6010354
+Display Name:
+Marvel's Kitchen
+isPro:
+False
+followersCount:
+69
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/561362.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fast and easy.  Think it needs some green beans as well.  I'd use chicken stock and only one cup of tomato sauce... and in summer a chopped fresh tomato or two.  I'll throw in some leftover homemade pasta which cooks super fast.  This would also be great with beef marrow ravioli!
+Review:
+Rating:
+3
+dateLastModified:
+2010-04-26T18:35:16.717
+helpfulCount:
+9
+userID:
+916663
+Display Name:
+LJOY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+152
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+From the description I thought I would love this recipe. I like the vegetable ingredients, but the spaghetti sauce overpowered the soup. I'll try it again, and when I do I'll cut back to half spaghetti sauce and half chicken broth.

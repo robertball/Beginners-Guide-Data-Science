@@ -1,0 +1,72 @@
+Recipe number:
+166729.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-05-26T18:09:41.55
+helpfulCount:
+2
+userID:
+412195
+Display Name:
+tax pro
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+545
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/671634.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for company, my friend can only eat chicken and turkey, and I made it exactly as as the recipe said. Only had time to marinate for 6 hours. It had really, really strong flavor. I think it might be wise to rinse the chicken before skewering. 5 showed up for dinner, and I had alot of leftover chicken. Since she is still here, tonight we are trying a turkey recipe.
+Review:
+Rating:
+2
+dateLastModified:
+2008-09-25T04:25:34.857
+helpfulCount:
+0
+userID:
+2932546
+Display Name:
+AndyK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Bland and boring, this did not taste like tandoori at all. I gave it two stars because it was still edible, but the recipe is awful.

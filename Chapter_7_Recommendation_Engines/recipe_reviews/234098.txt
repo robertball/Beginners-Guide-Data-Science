@@ -1,0 +1,62 @@
+Recipe number:
+234098.txt
+Review:
+Rating:
+5
+dateLastModified:
+11/01/2013
+helpfulCount:
+4
+userID:
+bdweld
+Display Name:
+bd.weld
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4501775.jpg
+text:
+Surprisingly refreshing. I give this concoction 5 oom-pahs. Not real pretty but it works for me.
+Review:
+Rating:
+5
+dateLastModified:
+05/26/2014
+helpfulCount:
+2
+userID:
+13655561
+Display Name:
+kippyjay
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This stuff is so good I had it in Germany. Yet to try the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+07/24/2017
+helpfulCount:
+1
+userID:
+22206680
+Display Name:
+Natty_610
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The original recipe for Spesi / Spezi is Fanta and coca-cola - u can buy it in German stores called Mezzomix
+Review:
+Rating:
+4
+dateLastModified:
+01/28/2016
+helpfulCount:
+0
+userID:
+10081587
+Display Name:
+Sadye
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My cousins made this for me when I visited Germany to see family. For some odd reason it didn't sit well. I think I may have to try it again.

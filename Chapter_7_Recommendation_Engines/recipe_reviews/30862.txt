@@ -1,0 +1,37 @@
+Recipe number:
+30862.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-06-21T18:28:38.493
+helpfulCount:
+18
+userID:
+20636
+Display Name:
+Susan Taylor
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+1339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2804276.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy, fast and I got to use fresh herbs from my garden.  Lemon thyme really makes this so flavorful.  I've cooked this twice.  The first time, the heat was too high (med.) so it cooked too fast and burned. The second time I turned the heat down to med. low and cooked it slower.  Even so, both times, the liver was excellent to eat! Cooking it slow is definitely the better way to go. BTW, this was my first attempt at preparing liver!

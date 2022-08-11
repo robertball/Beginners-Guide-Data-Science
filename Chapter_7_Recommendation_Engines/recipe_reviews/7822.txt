@@ -1,0 +1,72 @@
+Recipe number:
+7822.txt
+Review:
+Rating:
+4
+dateLastModified:
+2003-04-17T21:52:01.75
+helpfulCount:
+14
+userID:
+392562
+Display Name:
+Charlotte Sybil
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+109
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4505799.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a very good cake with something one it.  Like suggested I used it for shortcakes. The bowls all came back empty.  We did not like it plain. Thank you Carol for sharing.  I will never by the packaged little yellow cakes again!
+Review:
+Rating:
+1
+dateLastModified:
+2009-01-05T15:12:22.557
+helpfulCount:
+7
+userID:
+2948693
+Display Name:
+nimbiss
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for this.

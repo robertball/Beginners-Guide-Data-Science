@@ -1,0 +1,73 @@
+Recipe number:
+272422.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-03T16:57:16.67
+helpfulCount:
+0
+userID:
+14450717
+Display Name:
+doublehale
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added extra cumin, lemon juice and some thyme, very tasty!
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-17T00:17:09.19
+helpfulCount:
+0
+userID:
+25293114
+Display Name:
+Moemei
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added Shiitake Mushrooms 
+Nix the beer

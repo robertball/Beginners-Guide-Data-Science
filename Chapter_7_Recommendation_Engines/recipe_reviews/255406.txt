@@ -1,0 +1,37 @@
+Recipe number:
+255406.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-10-10T16:05:45.927
+helpfulCount:
+0
+userID:
+4659858
+Display Name:
+Land of Yip
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OMG! This is awesome. I wanted a recipe to use some homemade apple butter and this was IT. I did reduce the sugar and spices  because I used my homemade apple butter which is already heavily spiced. I added some apple pie filling in dollops across the top, but this was great with or without the extra apples. Will definitely make again.

@@ -1,0 +1,37 @@
+Recipe number:
+272441.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-14T15:45:59.837
+helpfulCount:
+1
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1031
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+DELICIOUS!!!  Absolutely fabulous and loaded with flavor.  I am so excited to be eating this for lunch right now!  This comes together so quickly- it was done before my rice finished cooking!  Definitely a keeper.

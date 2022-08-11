@@ -1,0 +1,37 @@
+Recipe number:
+277225.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-14T17:28:53.303
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I  made half this recipe just for my husband and I.  This is such an easy recipe, with great chocolate flavor.  If you make this, it won't last long.

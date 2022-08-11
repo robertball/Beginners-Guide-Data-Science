@@ -1,0 +1,37 @@
+Recipe number:
+244665.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-03-02T19:07:36.743
+helpfulCount:
+0
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was different, and we'd probably enjoy it more with something crunchy added (chopped celery, maybe).

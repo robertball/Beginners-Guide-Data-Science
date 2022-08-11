@@ -1,0 +1,37 @@
+Recipe number:
+261320.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-28T01:10:27.13
+helpfulCount:
+1
+userID:
+3789742
+Display Name:
+Christina J
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3368226.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This had great flavor. I don't know that I will make this again, but only because this took more time and had more steps in it than this mom of two toddlers has nowadays! But the taste was very good, and I usually don't like anything with mushrooms.

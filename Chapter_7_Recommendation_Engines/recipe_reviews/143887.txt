@@ -1,0 +1,145 @@
+Recipe number:
+143887.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-11-02T18:46:00.863
+helpfulCount:
+43
+userID:
+789885
+Display Name:
+Rude Nun
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+95
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/340420.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been looking for a raspberry dressing/vinaigrette that used fresh raspberries for quite some time now. This one is a bit thick due to the ratio of olive oil to balsamic vinegar. I added a bit more balsamic (it's all up to your personal taste) and decided it needed a bit of sugar as it was pretty tart. I may look into adding some herbs but unsure what goes well with raspberries and balsamic vinegar at this point.
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-13T20:43:36.81
+helpfulCount:
+26
+userID:
+3452373
+Display Name:
+Jill Hanson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/292988.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added a splash more Balsamic Vinegar.
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-26T19:16:24.993
+helpfulCount:
+8
+userID:
+6823888
+Display Name:
+Edwin
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+285
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/615660.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1 small jar raspberry jam
+1 Tbls balsamic vinegar
+1/2 cup olive oil
+place in blender med speed until blended.
+Review:
+Rating:
+2
+dateLastModified:
+2013-01-25T07:20:35.277
+helpfulCount:
+0
+userID:
+5728782
+Display Name:
+MsMarge
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+602
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/657109.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with strawberries, as suggested, and thought it tasted waaaaay too oily. Wound up adding more vinegar which made it too sour. Then added strawberry jam to make it more palatable. Will not make again.

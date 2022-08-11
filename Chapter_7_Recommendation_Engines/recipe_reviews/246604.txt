@@ -1,0 +1,37 @@
+Recipe number:
+246604.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-05-28T22:49:34.757
+helpfulCount:
+0
+userID:
+14372536
+Display Name:
+Regina Pompeo
+isPro:
+False
+followersCount:
+92
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1941203.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This wasn't too terrible, taste was good I think the pretzel is a bit overpowering in taste. Next time I will add less sweet and sour sauce I'm the dip and add on top if wanted. Family liked it.

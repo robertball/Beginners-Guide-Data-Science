@@ -1,0 +1,72 @@
+Recipe number:
+244844.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-25T00:49:33.207
+helpfulCount:
+3
+userID:
+15104323
+Display Name:
+Joan222
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think that I am the first reviewer!  It's a long story, however, the bottom line is that my 11 year old grandson (who hates all vegetables) thought it would be cool to give his aunt (my daughter) an acorn squash as a birthday present.  (Who knows how an 11 year old mind works??)  I found this recipe with the intention of turning the tables on him and making a dish that he would eat before confessing that it was made from that dreaded 'vegetable'!  He was almost finished his second slice when I admitted it was 'squash pie'.  Please note that my family enjoy weekly 'Sunday family' dinners'  (my kids, their spouses, my adult grandchildren, their girlfriends, boyfriends or friends) are always welcome).  Tonight, eleven out of the fourteen asked me to make this again.  That's very high praise!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-11T22:54:35.93
+helpfulCount:
+0
+userID:
+20191377
+Display Name:
+Michael Reagan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7515141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great pie. I used Tromboncino squash, and I like the pie better than pumpkin

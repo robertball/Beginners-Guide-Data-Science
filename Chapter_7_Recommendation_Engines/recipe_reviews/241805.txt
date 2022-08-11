@@ -1,0 +1,37 @@
+Recipe number:
+241805.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-11T07:40:40.38
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice light salad. The flavours, for me, were a bit much. I may leave out the vinaigrette the next time. Thank you for your recipe.

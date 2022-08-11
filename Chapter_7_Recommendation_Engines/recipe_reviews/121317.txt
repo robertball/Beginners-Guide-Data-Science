@@ -1,0 +1,37 @@
+Recipe number:
+121317.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-04-21T18:34:09.817
+helpfulCount:
+3
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+873
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very good bread recipe. I used skim milk in place of powdered milk and water. Bonus: Leftovers make excellent croutons!

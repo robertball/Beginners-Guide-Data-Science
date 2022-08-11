@@ -1,0 +1,177 @@
+Recipe number:
+272444.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-29T00:46:05.22
+helpfulCount:
+1
+userID:
+25633673
+Display Name:
+Johana Venegas
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6685478.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make and adjust. Will make again!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-09T03:13:51.63
+helpfulCount:
+0
+userID:
+22815814
+Display Name:
+Beth Pace
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5038062.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only change I made was that I added 1/4 of a block of cream cheese. It helped thicken it. This was very delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-10T15:26:47.83
+helpfulCount:
+0
+userID:
+14606945
+Display Name:
+Kelly Shelton Evans
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1644450.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic recipe and very easy. Stir and stir that cream after you add it. It will look like it's not going to thicken and then all of a sudden it does. I use a whisk but you could also use an immersion blender to get it really creamy. Voila!
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-14T14:41:04.037
+helpfulCount:
+0
+userID:
+5623852
+Display Name:
+Terry Doyle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2273305.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The picture is horrible. The sauce is very good.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-13T04:09:57.81
+helpfulCount:
+0
+userID:
+26275929
+Display Name:
+Joanne Cryan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7147403.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and delicious

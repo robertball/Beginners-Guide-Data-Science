@@ -1,0 +1,37 @@
+Recipe number:
+201978.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-12-22T20:08:08.497
+helpfulCount:
+27
+userID:
+3545684
+Display Name:
+jessicainboise
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was actually a pretty good recipe, of course it always depends on the cut of meat you buy, and be sure to bring it up to room temperature before grilling or broiling.

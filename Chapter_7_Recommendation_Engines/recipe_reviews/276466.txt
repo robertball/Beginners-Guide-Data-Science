@@ -1,0 +1,73 @@
+Recipe number:
+276466.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T22:25:52.87
+helpfulCount:
+0
+userID:
+9872805
+Display Name:
+Dari Bailey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+528
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5748341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these the same way.  They were great. I drained them after they cooled as I was storing them.  
+ Do check for rocks in your beans before cooking them though.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T18:58:36.137
+helpfulCount:
+0
+userID:
+5751848
+Display Name:
+Gaylen Michel
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+618
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5419939.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made exactly as directed. Came out soft and was fast just as described. Without soaking first, these were not quite as whole as when you soak. In other words, some were split. Perfectly useable in recipes and salads, etc. After cooked you can spice to your preference. Personally I would add a grind of pink Himalayan salt while cooking to bring out the flavor of the bean a little more so you don’t have to salt them as much at the table. All in all fast alternative to canned beans!

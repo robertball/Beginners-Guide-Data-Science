@@ -1,0 +1,72 @@
+Recipe number:
+261126.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-06T00:14:14.073
+helpfulCount:
+0
+userID:
+6787526
+Display Name:
+Santa Bob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+346
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/811202.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+left out the merlot
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-04T19:48:42.73
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6002
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+11.4.17  Admittedly, it’s tough to get really good beef gravy without the drippings from the meat.  Understanding that, the merlot flavor did come through after simmering out the alcohol, and it thickened nicely.  Would recommend you use a high-quality beef stock (I use only Kitchen Basics for stock).  I did saute some mushrooms and added them to the gravy, and it worked pretty well over simple grilled beef patties.  Not sure if I’ll make again, but this is super easy to make with few ingredients, so that’s a definite plus.  Thanks for sharing Ben.

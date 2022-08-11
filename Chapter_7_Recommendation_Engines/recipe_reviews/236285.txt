@@ -1,0 +1,37 @@
+Recipe number:
+236285.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-05T08:30:03.397
+helpfulCount:
+2
+userID:
+198337
+Display Name:
+ccofer
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+80
+favoritesCount:
+143
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7065418.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All that have tried these have loved them.  We season generously before frying with Nature's Supreme Flavor Mate Kentucky Chicken & Poultry Seasoning.  Doubling the sauce mixture is best for 4 lbs of wings.

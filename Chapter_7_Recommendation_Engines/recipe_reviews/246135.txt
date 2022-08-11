@@ -1,0 +1,74 @@
+Recipe number:
+246135.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-15T20:32:09.92
+helpfulCount:
+0
+userID:
+6039496
+Display Name:
+Albert DeLisa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+154
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We only made one change. We used only half the sugar. We used regular granulated sugar 1/2 cup.
+When our friend from Ukraine tried it, she said it was the best she ever had.
+Sometimes people give compliments... but she did return for a second helping. :)
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-09T06:30:37.983
+helpfulCount:
+0
+userID:
+12570391
+Display Name:
+purplebutterfly26
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you Tania, for posting this recipe! My grandmother made this years ago and I loved it:) I was reminded of it a few days ago and thought I would try to find a recipe when I came upon yours. The texture is exactly like I remembered although I used the almond extract. Not quite like Baba's but delicious nonetheless. I had to give some away to friends because I was eating it all;) Awesome!

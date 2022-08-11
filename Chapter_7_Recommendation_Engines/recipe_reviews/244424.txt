@@ -1,0 +1,37 @@
+Recipe number:
+244424.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-16T11:00:57.45
+helpfulCount:
+0
+userID:
+5131411
+Display Name:
+Jennifer
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+173
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5793352.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made these last night for dinner. Lots of flavor and nice crunchy texture.  The only change I made was using roasted chicken instead of canned chicken.

@@ -1,0 +1,109 @@
+Recipe number:
+220155.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-10-01T11:49:47.8
+helpfulCount:
+1
+userID:
+12122081
+Display Name:
+Misslyps
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it. Definitely a hit and will make it again. Flan was creamy and white chocolate wasn't overbearing. Thumbs up!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-22T00:22:45.203
+helpfulCount:
+0
+userID:
+8358199
+Display Name:
+Brittany Barkasi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6020476.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great!  Only changes I made was to use dark chocolate chips and stevia instead (used about 1/2 of what was recommended for the sugar though since stevia is very sweet).
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-14T07:17:10.027
+helpfulCount:
+0
+userID:
+14789076
+Display Name:
+Tricia Maloney
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1750770.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!
+I was looking for a good recipe using white chocolate since my friend brought me back a humongous bar from his trip to Ecuador. This flan was perfect!  Almost like a cheesecake-flan hybrid.
+So creamy and not too sweet.

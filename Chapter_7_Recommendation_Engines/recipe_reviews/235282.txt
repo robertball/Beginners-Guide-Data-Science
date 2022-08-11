@@ -1,0 +1,107 @@
+Recipe number:
+235282.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-18T09:18:51.083
+helpfulCount:
+1
+userID:
+12586900
+Display Name:
+Hollie Alverson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+166
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was just in the mood for this type of smoothie and it hit the spot. My two year old wasn't too impressed though. I read the other reviews and knew it wouldn't be the traditional smoothie and was prepared for a difference. I was worried about the apple juice but it worked together and tasted good to me.
+Review:
+Rating:
+4
+dateLastModified:
+2013-11-09T10:22:19.74
+helpfulCount:
+1
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This smoothie is so strange! I would probably rate it between a 3-4, because I have not made anyone like it and don't even know how to describe it. I only made a couple of changes. I made 1/2 recipe to cut the calories in half and that was plenty for 1 person. The other thing was I used a banana that was frozen, which I recommended. Then, at the end I added 2 ice cubes (for 1/2 recipe) that were definitely needed so this did not taste room temperature. The smoothie is almost a mint green color and I thought it tasted like oatmeal and fruit. The other person I let try it, that didn't see me make it, said oh this is a peanut butter flavored smoothie. :-)
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-22T09:14:07.26
+helpfulCount:
+0
+userID:
+9550403
+Display Name:
+Jennifer Aleman
+isPro:
+False
+followersCount:
+7278
+followingCount:
+0
+madeRecipesCount:
+207
+favoritesCount:
+831
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6012647.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this smoothie. At first I was skeptical about the ingredients and thought it was going to be very thick. Its not. I did add some ice as I like my drinks cold. Very yummy!!

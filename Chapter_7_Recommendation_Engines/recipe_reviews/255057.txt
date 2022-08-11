@@ -1,0 +1,110 @@
+Recipe number:
+255057.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-28T21:11:05.567
+helpfulCount:
+3
+userID:
+6595768
+Display Name:
+Elizabeth Beyl Burrows
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+743
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very similar to my family's Hoe cakes. We use white cornmeal but otherwise it's the same:) I discovered weisenberger mill unbolted white cornmeal and it's pretty similar to the meal the family ground themselves. A little coarser but still yummy!
+Review:
+Rating:
+1
+dateLastModified:
+2020-02-28T01:52:01.173
+helpfulCount:
+0
+userID:
+27066342
+Display Name:
+Amanda is trying
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7765811.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not like it
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-15T15:14:13.973
+helpfulCount:
+0
+userID:
+25026302
+Display Name:
+eldee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been looking for the method I learned in N.C. years ago.  This is the closest.  The method (no recipe) was to put stone ground cornmeal in a bowl with salt and add hot water from the tap stirring it in with your index finger until it felt right - not too thick and almost pourable as pancakes.  Let it rest, and then correct salt to taste and adding more hot water if needed.  Spoon into hot oil in cast iron skillet on med. heat until brown and then turn and finish on the other side.  Serve warm with butter.  Sometimes a T. of white flour was added but I don't remember why.  They were delicious with fried fish and became a tradition for our family,
+Thanks for having a taste of my past.  
+P.S.  I would experiment with minced onion in the batter for a change.
+Submitted by:  LaVada Roufs

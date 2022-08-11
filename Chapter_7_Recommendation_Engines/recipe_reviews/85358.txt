@@ -1,0 +1,37 @@
+Recipe number:
+85358.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-03T13:47:37.227
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were excellent! The only change I would recommend is cutting way back on the oil. That or skip the first step altogether and just drop the potatoes in the deep fryer and place them in the skillet and start at step 2. There is plenty of jalapeno flavor throughout the dish so I do not think the jalapeno chili oil is even necessary. You won't miss it. I am very impressed with the way these turned out and I will make these time and time again. SO flavorful but not overwhelming in the heat department.

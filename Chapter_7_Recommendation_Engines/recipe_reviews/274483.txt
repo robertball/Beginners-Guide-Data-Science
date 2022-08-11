@@ -1,0 +1,107 @@
+Recipe number:
+274483.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-28T14:22:45.983
+helpfulCount:
+1
+userID:
+8273726
+Display Name:
+BG
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall yummy!  Made it for Thanksgiving morning for a houseful of company -- worried I guess we wouldn't get enough to eat that day!!!  Anyway, made it the night before.  I had three cans of cinnamon rolls, so I made 1 and 1/2 recipes.  I used pumpkin pie spice instead of cinnamon.  Only negative is that some places on the bottom tasted a little scrambled egg like -- nobody complained and everyone ate it!  It rose nice and high, so was impressive coming out of the oven.  Frosting, cinnamon rolls, pecans -- you can't go wrong, really!  I might cut down on the eggs by one or two next time.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-24T16:43:57.047
+helpfulCount:
+0
+userID:
+27064459
+Display Name:
+mamma meg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+One of my kids favorite Saturday morning wake ups!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-16T02:29:00.55
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+700
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple canned cinnamon rolls are turned into this amazing dish. Your guests won't believe how simple this recipe is with such great flavors! Followed as written. I did not see where it needed topped with anything. Will make again!

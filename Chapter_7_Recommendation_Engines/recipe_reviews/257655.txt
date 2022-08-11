@@ -1,0 +1,37 @@
+Recipe number:
+257655.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-08T19:26:08.073
+helpfulCount:
+1
+userID:
+5405421
+Display Name:
+Jody
+isPro:
+False
+followersCount:
+64
+followingCount:
+0
+madeRecipesCount:
+195
+favoritesCount:
+2428
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3301710.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’ve never tried babka before so I googled it. I’m not sure if this recipe is a typical babka (no yeast, not rolled), or if it’s merely Babkaesque, but it doesn't matter. The aroma as it was baking was divine. Mere words can’t describe the taste and texture so if you’re reading this, make it and see for yourself. We love it. I thought I had bittersweet chocolate squares, but I did not, so I melted semi-sweet chocolate chips for the drizzle. Otherwise I followed the recipe, and 55 minutes was the perfect baking time. Five stars for sure.

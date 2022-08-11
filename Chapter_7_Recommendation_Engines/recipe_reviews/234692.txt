@@ -1,0 +1,73 @@
+Recipe number:
+234692.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-11T02:17:02.913
+helpfulCount:
+1
+userID:
+17687310
+Display Name:
+Vivian Austin
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3362580.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added a heaping Tbsp of Better than bouillon vegetable base to the 4 cups of water.  I prefer it to the chicken and it added a lot of flavor.  Thanks to the other review  that the Korean curry powder contains a thickening agent, I added my curry powder (no thickening agent) to the pot when I added water and vegetable base. Gave it some time to absorb into veggies.  Used 2 Tbsp of cornstarch to thicken . 
+I tried  2 Tbsp of curry powder but might use a little less next time.  It was good and enjoyed it.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-15T23:06:54.91
+helpfulCount:
+1
+userID:
+3439303
+Display Name:
+tonia.st
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+67
+favoritesCount:
+1787
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3313718.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did some research before making this as I could not find the Korean curry powder recommended in the recipe. It turns out it is a mixture of spices and thickeners. So I substituted 1 tbsp. Mild Curry Powder from allrecipes and 2 tbsp flour. We thought it was good but a little bland as we are used to hotter curries. I will make this again but add 2 or more tbsp. of mild curry powder next time.

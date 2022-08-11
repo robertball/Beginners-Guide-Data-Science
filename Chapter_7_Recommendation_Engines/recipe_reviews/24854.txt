@@ -1,0 +1,47 @@
+Recipe number:
+24854.txt
+Review:
+Rating:
+2
+dateLastModified:
+12/05/2005
+helpfulCount:
+6
+userID:
+1630085
+Display Name:
+JenBaker
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was not a big hit at our house. Maybe I did something wrong but I didn't care for it.
+Review:
+Rating:
+2
+dateLastModified:
+02/27/2007
+helpfulCount:
+5
+userID:
+2300315
+Display Name:
+April
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Did not care for it. It tasted ok but got runny within a day and of course the bananas were very brown within a few hours. Just not a salad I'd make again.
+Review:
+Rating:
+3
+dateLastModified:
+01/07/2007
+helpfulCount:
+5
+userID:
+2238727
+Display Name:
+Christa
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+this is a good recipe but if u add some manderine oganges small cubes of cream cheese and mini marshmellows...it sweetens the whole recipe up! we make this every year(we have our own recipe but similar to this one) for Memorial Day its a great summer time treat!

@@ -1,0 +1,47 @@
+Recipe number:
+220778.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/21/2013
+helpfulCount:
+5
+userID:
+2719400
+Display Name:
+sueb
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/274670.jpg
+text:
+I used spelt flour instead of the kind called for. My mashed beans were a bit chunky. The flavor is great and the ease of preparation was easy. Wonderful recipe!
+Review:
+Rating:
+1
+dateLastModified:
+03/25/2013
+helpfulCount:
+2
+userID:
+5397535
+Display Name:
+Anne Wilson
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1358816.jpg
+text:
+Disappointing - I tried this recipe exactly as directed. My sweet potatos may have not been large enough. It turned out very very bland. Even with more sweet potato this recipe would need a lot more spice than it had and possibly less flour. If you make it definitely don't hesitate to adjust it. The batch I made are inedible without sauce or something to flavour them.
+Review:
+Rating:
+3
+dateLastModified:
+10/17/2017
+helpfulCount:
+0
+userID:
+22003317
+Display Name:
+Carla Murchison
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+It'd probably be better with less flour or maybe some oil.

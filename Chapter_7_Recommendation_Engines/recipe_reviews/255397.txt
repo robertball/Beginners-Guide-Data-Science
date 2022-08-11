@@ -1,0 +1,112 @@
+Recipe number:
+255397.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-09T08:50:37.64
+helpfulCount:
+0
+userID:
+25722070
+Display Name:
+Alison Madalinski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6747983.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great BASE recipe. I actually changed it bit b/c people said it was bland (I also live close to Korea so...)
+#1 I used beef broth NOT chicken (has no flavor)
+#2 I added fresh tomato and more garlic to get that nummy soup flavor
+#3 I used a sweet Taiwan Style sausage to compliment the spicy of the Kimchi
+These additions changed the flavor A LOT. I also added a bit more Gochujang and Korean pepper powder. 
+And, lets be real, I used the noodles from Cup O Noodles.
+Review:
+Rating:
+3
+dateLastModified:
+2019-07-07T15:26:04.953
+helpfulCount:
+0
+userID:
+25368826
+Display Name:
+Justus
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was alright.  Had to use some Dasida (MSG) to make it a bit better along with the chicken stock.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-11T04:52:51.707
+helpfulCount:
+0
+userID:
+17016625
+Display Name:
+Loh Ami
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3790360.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great for easy Korea dinner!

@@ -1,0 +1,80 @@
+Recipe number:
+247377.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-15T20:49:44.877
+helpfulCount:
+1
+userID:
+7807872
+Display Name:
+Puckflame
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used aged white cheddar, so I used a little less cheese than the recipe called for, but I think it was a good call given that the recipe was written for milder cheese. Both my compatriot and i enjoyed these very much, so great job on the recipe. Mostly these aren't far off from cheddar herb biscuits. I don't think the asparagus and capers are bringing much to the table, but they don't detract either (which was a small surprise.) I suppose it's worth the effort to be able to say you ate an asparagus muffin. After all, what is life without trying new things, tasting new flavors, finding little vacations within your life. As Neruda wrote:
+He who does not travel, 
+who does not read, 
+who does not listen to music, 
+who does not find grace in himself, dies slowly.
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-15T18:56:11.45
+helpfulCount:
+1
+userID:
+25849093
+Display Name:
+melissas
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Despite an unusually extensive ingredient list, a surprisingly good recipe. Asparagus and capers were definitely milder than the cheese, and that actually works really well. 
+
+Would add a little lemon zest next time.
+
+Thanks, Phoebe!

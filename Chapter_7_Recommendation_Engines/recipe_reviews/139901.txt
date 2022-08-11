@@ -1,0 +1,107 @@
+Recipe number:
+139901.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-04-10T14:47:01.533
+helpfulCount:
+6
+userID:
+3678800
+Display Name:
+Sheila
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved these doughnut holes. They were a nice treat after the seder.  They do taste better when they come right out of the fryer and dipped in sugar.  If you like zeppoles then you will love these.
+Review:
+Rating:
+2
+dateLastModified:
+2008-12-22T13:11:19.63
+helpfulCount:
+6
+userID:
+2218465
+Display Name:
+ari and clint
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/144643.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yikes did not like this recipe. Did not have a good taste at all
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-30T12:39:03.1
+helpfulCount:
+4
+userID:
+2628724
+Display Name:
+Betty Cassella-Russo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+124
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2686630.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+SO glad I found this recipe I had a few boxes of matzo meal that I wanted to use up .They are great and  very easy . I will make these again when I'm in the mood for something ,warm,soft & sweet.

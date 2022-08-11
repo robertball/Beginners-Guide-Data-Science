@@ -1,0 +1,72 @@
+Recipe number:
+267250.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-11-08T01:11:34.467
+helpfulCount:
+9
+userID:
+22096055
+Display Name:
+Lori Anne Brian Mailloux
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Takes forever to make a decent amount even just for two people as they lay down in a single layer. Then they come out tasting like doughy green beans. They looked delicious, but They taste horrible. I won’t waste my time again.
+Review:
+Rating:
+1
+dateLastModified:
+2019-12-05T23:27:46.473
+helpfulCount:
+0
+userID:
+26621681
+Display Name:
+Pam Koski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7410679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wanted to love this recipe but I have to agree with the first reviewer. The batter is just too thick for the air fryer.  It gobs up  and sticks to the parchment paper.  It just isn’t the right texture.

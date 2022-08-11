@@ -1,0 +1,117 @@
+Recipe number:
+244805.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-05T13:04:52.697
+helpfulCount:
+1
+userID:
+20670460
+Display Name:
+Ruth Vandergeest
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4096318.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Photo above is inaccurate.... This being said...
+
+I doubled the recipe, because who wants to hold onto half a spaghetti squash? Be careful not to over cook your spaghetti squash or things can become mushy when combining the flour, parm and onion mixture (I did that). Don't add too much Parmesan either for same reason. I would be tempted to slightly under-cook the squash to help keep some textured strings in the centre of the hashbrowns.
+
+Flavours are all around decent (barely tasted garlic).
+
+And I used green instead of red pepper because that is what I had. It worked out just fine. 
+
+I am not sure getting up extra early to cook this squash is worth it. You could definitely prep these the night before and warm them in the oven the morning of so you don't make them soggy.
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-05T12:42:49.96
+helpfulCount:
+0
+userID:
+14766496
+Display Name:
+Mindy LaFontaine
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1736664.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe, especially with leftovers.
+ Though as I find with hash it was not as crispy as I would have desired. 
+I forever will be roasting my spaghetti squash instead of steaming it.
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-20T06:21:39.82
+helpfulCount:
+0
+userID:
+8297037
+Display Name:
+Cocoa
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe.

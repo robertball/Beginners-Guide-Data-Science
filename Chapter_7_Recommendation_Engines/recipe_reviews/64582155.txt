@@ -1,0 +1,143 @@
+Recipe number:
+64582155.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-23T14:11:42.94
+helpfulCount:
+1
+userID:
+22075356
+Display Name:
+Brittany Tozo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’ve made this quite a few times. And every single time it gets a little better. I love trying to make foods that look a little challenging. The first time I mad it I was totally scared hour it would come out. But everyone always loves when I make it. Even my now 11 (he was 8 the first time I made it) picky eater LOVES IT!
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-16T17:26:46.57
+helpfulCount:
+1
+userID:
+16110054
+Display Name:
+Ana P Alvarez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an easy and delicious recipe, my family loved it.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-14T12:07:42
+helpfulCount:
+0
+userID:
+21800050
+Display Name:
+Maggie Quirot
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made for a dinner partynand eveyone loved it 
+Making again tonight by request of a friend
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-15T19:53:56.53
+helpfulCount:
+0
+userID:
+12747877
+Display Name:
+Mary Kate
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved it!! Will definitely make it again and again.

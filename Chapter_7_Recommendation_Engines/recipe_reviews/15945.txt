@@ -1,0 +1,76 @@
+Recipe number:
+15945.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-03-18T21:15:03.967
+helpfulCount:
+24
+userID:
+8996863
+Display Name:
+justjenine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you like figs, have a lot of figs, then this is a great recipe.
+
+Having an over-burdened fig tree, I used fresh figs instead of dried.  Substitute in 1.5kg of fresh figs.  The big danger is the filling can be too liquid. Stew them with only just enough water to keep the bottom of the pot from burning.  Just a TINY bit!  And you still may need to drain out some water after stewing.  I increased the sugar in the fig filling to about a 1/2 cup, also, which turned out to be a good idea. 
+
+I took my pie along to a party and it was very well received.  I'll definitely give it another go.
+Review:
+Rating:
+3
+dateLastModified:
+2009-04-08T09:43:07.817
+helpfulCount:
+19
+userID:
+3119218
+Display Name:
+Gord Giddings
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+212
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/180451.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The quality of this recipe depends on the quality of figs used. I used dried turkish figs and it ended up tasting like a prune pie.  It may be better if made with fresh figs.

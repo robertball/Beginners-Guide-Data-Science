@@ -1,0 +1,37 @@
+Recipe number:
+207381.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-10-09T12:19:06.433
+helpfulCount:
+17
+userID:
+3112425
+Display Name:
+Cassidy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+903
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/192397.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+a dangerous combination of ingredients -- the cannellini beans, pasta, and greens are very bland if not seasoned properly. I recommend adding crushed red pepper flakes.

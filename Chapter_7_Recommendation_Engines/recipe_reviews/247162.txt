@@ -1,0 +1,37 @@
+Recipe number:
+247162.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-05T00:21:13.487
+helpfulCount:
+0
+userID:
+20976390
+Display Name:
+Graceness
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+438
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Such a delicious salad. So flavorful. Reduce the sriracha if you don't want really hot.

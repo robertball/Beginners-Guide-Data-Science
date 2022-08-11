@@ -1,0 +1,107 @@
+Recipe number:
+244569.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-04T12:50:13.393
+helpfulCount:
+1
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12224
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall this was well received.  I used orange lentils because they are so much more appealing to look at.  My lentils and rice were a little sticker than I had hoped for.   Next time  I would either use a bit less broth or bring the broth to a full boil for a few minutes before adding the rice and lentils.  I also did not use the full amount of red onion.  Orange and red bell peppers really brighten up the dish. The type of salad dressing used will either make or break this salad.  I used a light Italian and that worked well.  The nice thing is you could use different dressings to compliment the main dish.   This would be a good recipe to make for vegetarians using vegetable broth instead of  chicken broth.
+Review:
+Rating:
+1
+dateLastModified:
+2015-08-22T12:34:58.663
+helpfulCount:
+0
+userID:
+1987747
+Display Name:
+Dee Cribb
+isPro:
+False
+followersCount:
+63
+followingCount:
+0
+madeRecipesCount:
+183
+favoritesCount:
+806
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/738233.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This won't be a repeat at my house. The lentils weren't finished cooking when the rice was done.
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-15T11:48:43.527
+helpfulCount:
+0
+userID:
+1013798
+Display Name:
+ONIOND
+isPro:
+False
+followersCount:
+128
+followingCount:
+0
+madeRecipesCount:
+490
+favoritesCount:
+690
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5925271.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice and refreshing. I couldn't bear the thought of all that raw onion, so I put it in with the rice and lentils when they were half done. Used dried parsley instead of fresh. Thanks for the recipe!

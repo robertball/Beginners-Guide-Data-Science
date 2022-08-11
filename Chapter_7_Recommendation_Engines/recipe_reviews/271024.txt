@@ -1,0 +1,108 @@
+Recipe number:
+271024.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-03T21:02:34.147
+helpfulCount:
+2
+userID:
+21103436
+Display Name:
+Zou Yang
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7572542.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made Dulce de Leche on the stove with milk, vanilla, and soda. It's quicker. 
+If your buying sweetened condensed milk in a can, why not buy Dulce de Leche in a can.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-02T18:06:38.433
+helpfulCount:
+1
+userID:
+14326052
+Display Name:
+christe399
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this countless times. It is very good. However I have never removed from the can to cook it. Honestly don't see any reason to put in a glass jar to do the same thing as I have always done in the can.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-20T22:49:19.157
+helpfulCount:
+0
+userID:
+21933103
+Display Name:
+Karen Anstey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this several times.. It is excellent and so easy!

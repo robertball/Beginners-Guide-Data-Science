@@ -1,0 +1,107 @@
+Recipe number:
+238279.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-25T23:30:23.333
+helpfulCount:
+0
+userID:
+11888468
+Display Name:
+Tara Leigh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+482
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very healthy & delicious!
+Review:
+Rating:
+2
+dateLastModified:
+2016-05-07T23:53:32.78
+helpfulCount:
+0
+userID:
+17592964
+Display Name:
+Natasha Gibson
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3306394.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+WAYYYY too much banana!!! I had to add 1 1/2 oranges and some peel to even get a hint of orange. I could barely taste any chocolate either.
+Review:
+Rating:
+2
+dateLastModified:
+2014-07-05T16:48:57.33
+helpfulCount:
+0
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9161
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't find this to be a good consistency and it lacked overall taste.

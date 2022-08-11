@@ -1,0 +1,37 @@
+Recipe number:
+267914.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-18T22:52:23.59
+helpfulCount:
+1
+userID:
+4077080
+Display Name:
+Sharon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I took OP's advice and used a jar of salsa verde since I had one in the cupboard. This was outstanding soup. This will be my go to now. It think it will make an excellent base for chicken tortilla soup (without the beans) also.

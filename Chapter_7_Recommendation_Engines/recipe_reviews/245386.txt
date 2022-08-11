@@ -1,0 +1,72 @@
+Recipe number:
+245386.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-17T03:45:37.66
+helpfulCount:
+0
+userID:
+4782478
+Display Name:
+Tammy Turpin
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2064109.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The granddaughters were over and I was not at my home so I did not have my supplies on hand and of course it’s not a trip to Gigi’s without making cookies - and theirs ONLY ONE COOKIE ....nothing else will do.  So I had to find an icing with what I had and this one turned out fabulous!  They just added some candy to the top and they were as happy as could be.  I’m going to use this on my back to school cookies and beach cookies and hope I get the same response .
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-20T15:50:20.103
+helpfulCount:
+0
+userID:
+22958622
+Display Name:
+Clare Pollick
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe!

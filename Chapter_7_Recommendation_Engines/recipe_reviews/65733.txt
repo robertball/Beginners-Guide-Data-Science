@@ -1,0 +1,37 @@
+Recipe number:
+65733.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-05-04T21:33:40.613
+helpfulCount:
+0
+userID:
+2928585
+Display Name:
+Jennifer Teeters
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2208157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i used this recipie for my first ever tenderloin. We had a bunch of relatives come up, and everybody loved it. I cooked it to about medium well and it came out extremely tender, and was even great reheated the next day. I already have gotten requests to make this again!

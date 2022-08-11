@@ -1,0 +1,76 @@
+Recipe number:
+247123.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-14T02:21:16.72
+helpfulCount:
+2
+userID:
+21482643
+Display Name:
+Tyson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6371639.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We didn't have garlic scapes available, so we used 2 garlic cloves instead. next time we will try using green onion stalks instead of the scapes.
+
+We added the zest of 1 medium sized lemon. Also the juice of half of the lemon from above.
+
+Instant family favorite!
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-08T15:31:51.96
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I went the nut free route and this turned out great! Garlic scapes were not available so I used 2 cloves of garlic the submitter mentioned in the notes. This was super fresh tasting and worked great on my sandwich. Be sure your cup of basil is a packed cup. Thanks for sharing!

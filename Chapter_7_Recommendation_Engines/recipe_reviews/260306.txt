@@ -1,0 +1,37 @@
+Recipe number:
+260306.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-30T00:04:45.633
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was okay but a disappointment to me. I drove 30 miles to get tomatillos and then spent 20 minutes roasting them and the  finished dish lacked. It has potential but needs more flavor. All you could taste was the sourness of the tomatillo. I have issues digesting pepper seeds so instead of grating them I softened them and then cut a slit down the side so that I could control the seeds. It released the perfect amount of heat so that isn't where the problem was. I really love tomatillos and wanted this to work. I think it would if you added some taco seasoning but I'm not going to go to the trouble of finding out.

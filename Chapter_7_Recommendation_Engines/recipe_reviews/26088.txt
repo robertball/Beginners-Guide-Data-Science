@@ -1,0 +1,72 @@
+Recipe number:
+26088.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-04-03T12:43:45.547
+helpfulCount:
+1
+userID:
+289607
+Display Name:
+LORA M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy and a great change from ground meat tacos!! The kids asked when I would make them again so that's a good sign!
+Review:
+Rating:
+5
+dateLastModified:
+2007-07-06T11:37:24.067
+helpfulCount:
+0
+userID:
+224602
+Display Name:
+Jennifer Thorpe
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+62
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6260226.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so quick, simple and easy...and my kids love it...so it's a no-brainer in this house...you need to try it! :)

@@ -1,0 +1,37 @@
+Recipe number:
+270587.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-03T14:05:11.2
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really enjoyed this and I will definitely make it again. I had a problem with the rice becoming soggy and can’t figure out why. I will try a different rice next time but even mushy, it was delicious. I used one cup of dried beans, which I soaked overnight instead of canned. Easy one pot dinner. Thank you!

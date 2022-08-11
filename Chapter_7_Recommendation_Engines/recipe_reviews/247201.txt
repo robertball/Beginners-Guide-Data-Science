@@ -1,0 +1,107 @@
+Recipe number:
+247201.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-07T16:06:50.187
+helpfulCount:
+0
+userID:
+26989705
+Display Name:
+Eligio Martinez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7700075.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i love it but dont ever call Navajo Tacos ....Fry BrEaD TaCos ever again!!!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-31T12:06:41.763
+helpfulCount:
+0
+userID:
+23145694
+Display Name:
+Björn Ryttegård
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4983642.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I googled red wine to tacos and then read an article on a Swedish site about tacos (www.vinomondo.se). After having procured that specific wine I felt that I needed a great recipe for Indian tacos and then stumbled upon this one. It was really great and the bread gave the whole experience some extra zest as the kids loved the new type of tacos and I really enjoyed hove well the wine tasted with the fried bread tacos. I will be making this time and time again!
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-18T02:42:39.833
+helpfulCount:
+0
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+303
+followingCount:
+0
+madeRecipesCount:
+252
+favoritesCount:
+1639
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7778502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love navajo tacos, and I'm always looking for the perfect recipe! I liked this one a lot! The dough was nicely stretchy and fried very well. The end result was a little tough -- we couldn't easily cut into it with a knife...not a problem for the kids, as they just picked it up with their hands :) I think, though, that the ratio of flour to baking powder to water may be off. Thanks for the recipe!

@@ -1,0 +1,111 @@
+Recipe number:
+270231.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-26T00:49:26.27
+helpfulCount:
+1
+userID:
+14786042
+Display Name:
+Bobbie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+226
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't usually eat bread pudding, but hubs loves it.  I made it for him but this recipe had me at Nutella!  I prepped all my ingredients the night before and I had this assembled today by the time my oven preheated.  Easy and delicious.  I've already had 2 servings. I did however decide to put the bread cubes in a bowl and blend in the softened Nutella before adding it to my buttered pan.  At 40 minutes the toothpick test seemed moist with Nutella rather than egg and the top was brown, so I figured it was done.  After I cut into squares, it probably was ready 5 min sooner.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-13T15:35:57.063
+helpfulCount:
+1
+userID:
+7462481
+Display Name:
+easma
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6692255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe, this can even be done in one bowl! 
+1. Take the bread and break into bowl then place into buttered pie dish.
+2. Melt the butter in the bowl and microwave and drizzle butter over the bread. 
+3. Whisk evaporated milk, both sugars, eggs, cinnamon, vanilla, and salt in bowl and pour bread and melted butter in pie dish.
+4. In same bowl melt Nutella in microwave and dollop away!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-30T14:42:04.657
+helpfulCount:
+0
+userID:
+8699684
+Display Name:
+texasbeersnob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent and easy

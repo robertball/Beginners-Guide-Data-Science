@@ -1,0 +1,37 @@
+Recipe number:
+262480.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-25T14:00:18.43
+helpfulCount:
+0
+userID:
+14876330
+Display Name:
+Laura Rinker
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+242
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6301708.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this recipe with the canned  green jackfruit from Trader Joe's because I had heard about jackfruit and wanted to try it for myself. This dish is tasty and not too spicy. The jackfruit consistency reminded me of artichokes. I am not vegan or vegetarian so I ended up mixing it with leftover beef taco meat to stretch it and that was really good!

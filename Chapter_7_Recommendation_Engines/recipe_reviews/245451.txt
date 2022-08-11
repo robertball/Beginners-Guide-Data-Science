@@ -1,0 +1,37 @@
+Recipe number:
+245451.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-05T16:30:28.107
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2807
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10.5.16  The potatoes have a nice little kick from the red curry paste.  I added a bit more lime juice and a few red pepper flakes to the sauce, which was a nice partner to the lettuce cups.  The Thai red curry paste and olive oil produced great potatoes, and I can even see them (cut in larger chunks) as a good side dish to an entree.  Nice lunch today, enjoyed!

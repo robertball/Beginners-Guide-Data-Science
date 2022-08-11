@@ -1,0 +1,37 @@
+Recipe number:
+219612.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-24T16:32:44.75
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Growing up we had dressing instead of stuffing meaning that it was never cooked inside the bird. With that being said, I made this as written minus the bird. I did add some celery while cooking the sausage because I love the crunch celery gives stuffing/dressing. This turned out really good and I liked the flavor the sausage added. The only bad thing about the recipe is that it was too salty. Next time I will leave the salt out altogether and also use low sodium broth.

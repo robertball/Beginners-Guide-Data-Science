@@ -1,0 +1,72 @@
+Recipe number:
+182392.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-07T22:23:46.027
+helpfulCount:
+0
+userID:
+16497383
+Display Name:
+Frances Fraser
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4754722.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This simple and delicious  marinade is great! I used a little extra garlic and pepper to taste and added 1tsp sesame seeds too. I combined my spices with the oil to  marinade instead of applying separately. It was a hit at Easter dinner and the recipe was asked for;)
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-21T07:17:57.11
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out really good. I thought the lime seemed a little odd but it worked perfectly. This had the perfect amount of heat and salt. I did add some dill because I typically always do with salmon. It definitely bumped the flavor up some but I don't think it was completely necessary either. This is one I will definitely make again.

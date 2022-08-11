@@ -1,0 +1,72 @@
+Recipe number:
+266389.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-03T04:44:06.003
+helpfulCount:
+0
+userID:
+26973214
+Display Name:
+teri
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was delicious! I will definitely make it again!!!!
+Review:
+Rating:
+3
+dateLastModified:
+2018-08-15T21:28:45.91
+helpfulCount:
+0
+userID:
+17241463
+Display Name:
+Al Cantwell
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+260
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3099481.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Won't make it again.  Regular lemonade is fine enough for me.

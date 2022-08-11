@@ -1,0 +1,38 @@
+Recipe number:
+271141.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-03-06T19:36:39.08
+helpfulCount:
+1
+userID:
+9192231
+Display Name:
+Allison
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I always make the recipe as it first appears on the site.  Then ask, "Does it need something else?"  This was a winner and I'll keep it with my Brussels Sprouts recipes, variety is good. 
+I'd like a separate section for "What did you do to change a recipe."  Reading all the changes first, puts off making the original for me.  I like being the first to review just to let readers know, this is an easy tasty recipe without adding anything.

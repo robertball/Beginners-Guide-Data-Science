@@ -1,0 +1,182 @@
+Recipe number:
+13689.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-12-23T19:45:55.58
+helpfulCount:
+19
+userID:
+2219940
+Display Name:
+Nancy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+In response to steffunny, if you will add the following, I think you will like the dip much better:
+1 cup finely chopped onion
+1 cup finely chopped celery
+1 cup finely chopped green bell pepper
+
+I thought the same thing as you and added the above and it was great!!!!
+Review:
+Rating:
+4
+dateLastModified:
+2006-11-29T06:51:18.903
+helpfulCount:
+12
+userID:
+1624056
+Display Name:
+Steffunny
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/131.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good, and it was a hit with my visitors.  It seemed to me like something was missing, but I could never put my finger on it.  Oh well, thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-09T18:17:48.313
+helpfulCount:
+3
+userID:
+6549646
+Display Name:
+Angela Sackett Superhotmama
+isPro:
+False
+followersCount:
+195
+followingCount:
+0
+madeRecipesCount:
+112
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2406088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been making a variation of this since I was first married... it's so simple and it's so good!!!  Who needs a cracker?  :)  This does make a LOT, so halve it or invite a crowd to share!  I will also say that I thought it needed just the littlest bit more PUNCH... next time I'm putting in half a teaspoon of horseradish.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-27T17:59:23.803
+helpfulCount:
+0
+userID:
+17966730
+Display Name:
+Jan Nixon
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3533548.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I put a twist to this.  I chunky chopped the shrimp.
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-18T15:38:30.707
+helpfulCount:
+0
+userID:
+2644104
+Display Name:
+SamBo
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+666
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/51358.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was addicting! Myself along with all my dinner guests agreed this was a keeper. Very easy to make. Thanks!!

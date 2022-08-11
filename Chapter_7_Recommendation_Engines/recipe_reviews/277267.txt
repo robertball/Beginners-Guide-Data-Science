@@ -1,0 +1,37 @@
+Recipe number:
+277267.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-26T03:25:48.947
+helpfulCount:
+1
+userID:
+8057444
+Display Name:
+OlympiaGal
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+910
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/858666.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my cranberry loving MIL.  I doubled the dutch baby ingredients and put them in a 12 inch cast iron, and cheated by used ready made cranberries from Trader Joe's.  Very yummy and received all kinds of compliments.  The Chinese five spice was the surprise ingredient that really works.  It was great with the butter, but fantastic with a drizzle of maple syrup.   I will definitely be making this again!

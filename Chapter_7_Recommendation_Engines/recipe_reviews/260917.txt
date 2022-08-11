@@ -1,0 +1,183 @@
+Recipe number:
+260917.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-10T02:15:52.01
+helpfulCount:
+4
+userID:
+18164138
+Display Name:
+Garrett Williams
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5366994.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. Might have use a little less vinegar but I like this version. Reminds me of when I was in school in DC!
+Review:
+Rating:
+3
+dateLastModified:
+2018-07-29T01:41:42.14
+helpfulCount:
+2
+userID:
+23911818
+Display Name:
+Gin Hearn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5532588.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe as written is sickly sweet and to me, too hot, but I realize that both are subjective. My biggest gripe is that it is out of balance and has no depth of flavor. I would rate it just ok. It needs help. 
+
+It was a good base to start with and by the time I got done tweaking  it was good. However, it bore very little resemblance to the original recipe. 
+
+If I was ever to make it again, I would use brown sugar because it adds depth and makes a better barbeque style sauce. I didn't use the entire teaspoon of Cayenne to begin with because we don't like things really hot and that would have been fiery (I used 1/2), but it needed depth so I added cumin, smoked paprika, coriander, ground mustard and garam marsala. I also added some extra white vinegar and fresh lemon peel for some brightness and to balance out all the sweetness. It turned out good in the long run, but it took a bit to get it there.  As is the sauce tastes really sweet and hot, but lacks any real depth of flavor and has absolutely no balance. It needs some smokiness that the paprika brings and some balance in acidity and sweetness.   
+
+Thanks for sharing the recipe. Sorry I didn't care for it much.  (P.S. This says I've made it twice  -i've only made it once).
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-23T21:51:50.867
+helpfulCount:
+0
+userID:
+12713081
+Display Name:
+westsidesaint
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+214
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5742728.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed recipe exactly.   Slightly sweet with a little heat.  Texture is on the thinner side, over all great!
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-22T20:16:40.777
+helpfulCount:
+0
+userID:
+9993390
+Display Name:
+Ms. Dee Dee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good for BBQ burger and Links
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-03T21:07:02.95
+helpfulCount:
+0
+userID:
+24872124
+Display Name:
+Estes618
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you like spicy this recipe is perfect... if not you could afford to cut down on the cayenne a bit

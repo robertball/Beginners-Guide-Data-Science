@@ -1,0 +1,37 @@
+Recipe number:
+22896.txt
+Review:
+Rating:
+1
+dateLastModified:
+2002-07-07T19:13:11.467
+helpfulCount:
+27
+userID:
+368125
+Display Name:
+MicheleMary
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/78269.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe did not turn out too well for me. I was expecting a frozen fruit salad with a sugary glaze. Instead, I got banana mush that I had to throw away. THis recipe is more like a smoothie than a salad. I would try slicing the bananas, rather than mashing them. It just made a disgusting looking mess.

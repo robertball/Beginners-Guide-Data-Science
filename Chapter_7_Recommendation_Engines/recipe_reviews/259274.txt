@@ -1,0 +1,37 @@
+Recipe number:
+259274.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-10T10:24:11.68
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2831
+favoritesCount:
+1833
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As delicious as it sounds. I used yellow split peas and a purple sweet potato so the color was fun. Watch the pot! In minutes it will burn, so keep your eye on the broth. I ended up adding a cup or two more than what was written.

@@ -1,0 +1,107 @@
+Recipe number:
+255120.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-14T13:47:41.95
+helpfulCount:
+0
+userID:
+12791504
+Display Name:
+Past Allrecipes User
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used whole egg, not just the yolk, not to waste egg white. Was worried that garlic on top would burn and taste bitter, but it was perfect. They are fast to make and taste yummy, photo was with half already missing they were going so fast. I used medium cheddar as I had it at home and baked them at 205 C fan.
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-27T05:45:49.173
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+244
+followingCount:
+0
+madeRecipesCount:
+1336
+favoritesCount:
+2827
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were tasty. My store didn't carry the habanero shredded cheese. So I bough a brick of Cracker Barrel sharp and shredded it. I made these ahead of time and froze them. I'll make again with the spicy cheese if I can find it.
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-09T06:13:10.163
+helpfulCount:
+0
+userID:
+20911460
+Display Name:
+Eric
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4251155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They did really well at a secret santa I just hosted! Easy to do and tasty as hell!

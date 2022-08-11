@@ -1,0 +1,72 @@
+Recipe number:
+273314.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-11T01:20:53.65
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+540
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple to make and great that you can make it ahead. I would double the sauce next time for my taste. Good recipe
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-13T00:06:00.3
+helpfulCount:
+0
+userID:
+22170712
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+274
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5744620.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+quick and easy and a great side in the summer

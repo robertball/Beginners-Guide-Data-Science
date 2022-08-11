@@ -1,0 +1,107 @@
+Recipe number:
+257968.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-29T18:31:04.647
+helpfulCount:
+5
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3228
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make these all the time, however they are not what I consider Chilaquiles. I topped them with a sprinkle of Mexican cheese blend and diced onions.. When pressed for time, I open a can of El Pato Mexican Tomato Sauce rather than making it.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-22T09:13:18.427
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so good! After I finished eating this, I made another huge portion of the salsa  It was that good. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-14T22:35:10.427
+helpfulCount:
+0
+userID:
+17239280
+Display Name:
+amanda morales
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+376
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No real changes other than added cheese.  Great pretty much as is!

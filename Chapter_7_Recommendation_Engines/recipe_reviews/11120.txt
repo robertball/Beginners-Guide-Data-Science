@@ -1,0 +1,111 @@
+Recipe number:
+11120.txt
+Review:
+Rating:
+1
+dateLastModified:
+2001-01-15T09:00:24.7
+helpfulCount:
+51
+userID:
+245759
+Display Name:
+CARYLTON COOPER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Don't waste your time with this recipe.. it does not work.   For instance, if it makes 12
+cookies, why buy 24 carmels? There isn't room for TWO carmels in each.
+The mix as defined is not usable as described, more like a cake batter. If you add
+ flour to make it firm enough to divide you end up with a result similar to cardboard.
+I threw mine away. The worst thing I ever made in my kitchen...
+Review:
+Rating:
+1
+dateLastModified:
+2005-03-27T12:26:46.467
+helpfulCount:
+28
+userID:
+1356304
+Display Name:
+Jill
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2883.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe DOES NOT WORK! It's like there is a missing step or ingredient, because there is no way that it is like dough, it's more like oat soup. I couldn't shape this or turn them into calzones at all. It was impossible. KT, I'm sorry, but they really were not good. In the end, I just plopped wet blobs of them onto a cookie sheet and put jam on top. Not good at all.
+Review:
+Rating:
+1
+dateLastModified:
+2001-07-19T16:18:16.64
+helpfulCount:
+26
+userID:
+396620
+Display Name:
+KATELYNNO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+161
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was one of the worst recipes that I have ever made--I even tried it twice to make sure I made it right the first time.

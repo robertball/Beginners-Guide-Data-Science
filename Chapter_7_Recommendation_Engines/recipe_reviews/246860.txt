@@ -1,0 +1,43 @@
+Recipe number:
+246860.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-13T23:11:29.89
+helpfulCount:
+0
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I scaled to 3 servings as I had 4 oz of the margarita mix to use up.
+I used half club soda and half ginger ale to counter the sweetness of the mix and cranberry juice. 
+I also added a lime sliced as I like the lime flavour in margaritas.
+It was really tasty and a nice addition to our Mexican themed dinner.
+#AllrecipesAllstarsCanada
+#LetsTacoAboutIt
+#FacelessNoMore

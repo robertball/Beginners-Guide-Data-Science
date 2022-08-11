@@ -1,0 +1,107 @@
+Recipe number:
+274743.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-23T04:46:11.033
+helpfulCount:
+1
+userID:
+6612298
+Display Name:
+Carsenle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made mine in the oven because it was late, and I had already cut the chicken up into chunks. I made this with chicken breast. It is very good. The sauce was too thick for my liking. Maybe the chicken breast absorbed more than the tenders would have. You should put a volume measure on how much marinade you have after marinading so that water might be added to bring it back up to volume...
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-30T12:30:50.837
+helpfulCount:
+0
+userID:
+8459787
+Display Name:
+Charlene Baker
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6958468.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I halved the marinade.  Threaded the marinated chicken strips on skewers.  Grilled on gas grill.  Delicious, very flavorful and moist.  I didn’t use any sauce on chicken after grilling.  Very good.  Easy.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-19T01:14:25.943
+helpfulCount:
+0
+userID:
+15250415
+Display Name:
+Sherry C.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Whole family liked it!  My grandson said it was the best-tasting chicken I'd ever made.

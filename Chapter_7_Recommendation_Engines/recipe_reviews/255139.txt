@@ -1,0 +1,72 @@
+Recipe number:
+255139.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-10T09:26:35.97
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+That's a lot of leeks. Nevertheless, these meatballs are delicious. The lemon butter sauce at the end is really a winning part of this. I suggest making a bit more than written. In fact, don't throw out the water used for boiling the leeks. Use that water to make the sauce at the end and then use the rest to make a soup later... yum! Thank you and your mother-in-law for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-04T10:28:43.173
+helpfulCount:
+2
+userID:
+4641753
+Display Name:
+KBJR
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+251
+favoritesCount:
+228
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7533484.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is DELICIOUS! I made a batch last night to have for lunch todaybut they are almost gone a little after breakfast when everyone started "tasting" them. Thanks for sharing this recipe!

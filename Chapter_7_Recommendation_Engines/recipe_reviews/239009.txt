@@ -1,0 +1,107 @@
+Recipe number:
+239009.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-11-20T18:47:24.397
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There was a lot going on in this recipe but oddly enough the flavors worked okay. What didn't work for me was the 2 hours and 10 minutes of time invested just to end up with a so so dish. Also, my chicken was nice and tender after it simmered in the beer but after the total cook time of 1 hour 50 minutes, it was completely dried out. I think this recipe has potential but as written I cannot give it more than 3 stars. Sorry.
+Review:
+Rating:
+2
+dateLastModified:
+2018-12-03T23:39:34.447
+helpfulCount:
+0
+userID:
+24646206
+Display Name:
+Ryan Johnston
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6049619.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So after making this I realized that some of the directions seemed off the chicken it’s self was delicious but personally I’d reduce the amount of tomatoe stew used and add the rice in before adding the tomato sauce or  stew and mix it around. Then let cook for the 45 mins  my rice as following the recipe did not cook all the way and this is the only way I could come up with to resolve that issue.
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-09T17:44:56.543
+helpfulCount:
+0
+userID:
+14612541
+Display Name:
+Justin Steen
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1647855.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe. Not sure you'll need three cups of rice but you can always save rice for later. I used the left over sauce from the chicken mixture to add to the rice for flavour.

@@ -1,0 +1,37 @@
+Recipe number:
+71214.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-04-07T15:33:57.497
+helpfulCount:
+13
+userID:
+719546
+Display Name:
+CHELLBURT
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+161
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is adorable and super easy and fun to make.  It was a large hit last year-and will now become a family tradition.  One bad thing-everyone wants a bunny ear. Highly recommend...

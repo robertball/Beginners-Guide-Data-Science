@@ -1,0 +1,72 @@
+Recipe number:
+212738.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-02-19T06:53:00.65
+helpfulCount:
+14
+userID:
+2237662
+Display Name:
+Nancy C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe exactly as written. The taste was delicious but we found that the sauce was too thick. Will add more milk to it next time. But 2 fussy eaters ate it up and asked for it to be put in our favourite recipes to serve again and again.
+Review:
+Rating:
+3
+dateLastModified:
+2011-01-24T15:55:19.023
+helpfulCount:
+0
+userID:
+3006211
+Display Name:
+AMO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+393
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+easy enough for a weekday meal. I made exatcly as written except i used real grated parm cheese only because it was all i had. It taste good but kind of bland...i will make again but play with the spices a little bit...has potential

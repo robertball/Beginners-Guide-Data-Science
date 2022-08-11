@@ -1,0 +1,72 @@
+Recipe number:
+245604.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-01-01T18:10:59.47
+helpfulCount:
+0
+userID:
+5570403
+Display Name:
+Jennifer Lester Paradise
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+246
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2128364.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I doubled the spices, and the flavor was still mild. Flavor was better the next day, but then they lost their crispness, as with any pizelle recipe.
+Review:
+Rating:
+2
+dateLastModified:
+2017-12-13T19:35:53.473
+helpfulCount:
+0
+userID:
+5780597
+Display Name:
+Patty Jane Wykes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4683430.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These don't even taste like gingerbread.  I suggest upping all the spices except for black pepper.  maybe the ginger should be 1 Tablespoon?

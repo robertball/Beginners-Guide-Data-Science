@@ -1,0 +1,37 @@
+Recipe number:
+187093.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-04-08T19:30:15.77
+helpfulCount:
+1
+userID:
+1153276
+Display Name:
+FoodFan
+isPro:
+False
+followersCount:
+637
+followingCount:
+0
+madeRecipesCount:
+499
+favoritesCount:
+1200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6832577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A neat little treat, the crackers were a bit salty for this type of snack though.  I did, however, use Townhouse since that is what I had. They were a pain to assemble, everything kept rolling off the crackers so I had to reassemble them in the microwave.

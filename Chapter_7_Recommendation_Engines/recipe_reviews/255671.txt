@@ -1,0 +1,37 @@
+Recipe number:
+255671.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-17T14:18:06.123
+helpfulCount:
+0
+userID:
+163026
+Display Name:
+JeniRenee
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+179
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5918262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe, definitely a keeper.  I admit I used regular milk since I didn't have any almond milk.  These muffins are fluffy, moist, and packed with flavor.   the recipe made 22 perfect sized muffins.

@@ -1,0 +1,37 @@
+Recipe number:
+258846.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-24T16:17:43.36
+helpfulCount:
+0
+userID:
+20146296
+Display Name:
+Jessica Fowler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6165873.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a hit at my Christmas party! I didn't make the cake though I already had an almond cake made from scratch left over from my daughters birthday. I did however soak the cake in some Godiva chocolate liquor for an adult twist. Then did everything above. I added an eighth of a teaspoon of orange extract to the canoli mixture also (only because I didn't have any orange on hand). It gave it just a little more depth of flavor. Very delicious recipe, indulgence!

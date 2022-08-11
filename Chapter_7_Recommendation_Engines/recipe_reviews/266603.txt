@@ -1,0 +1,37 @@
+Recipe number:
+266603.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-05T22:01:28.117
+helpfulCount:
+2
+userID:
+24808186
+Display Name:
+Doris Russell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6166962.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy  good substitute for milk.

@@ -1,0 +1,73 @@
+Recipe number:
+24123.txt
+Review:
+Rating:
+2
+dateLastModified:
+2008-06-16T04:27:33.237
+helpfulCount:
+8
+userID:
+2478417
+Display Name:
+elliebelly
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/83454.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was okay, but not the best.  Texture was a little different.  It wasn't runny but it wasn't fully set (like pudding).  The flavor was okay, the cherries were good, but it didn't taste like cheesecake at all.  My family's compliment was "this is different, it's okay".  I might try making this again with some changes.  My thoughts... add 4 oz softened cream cheese in with the pudding and yogurt (to firm it) and add a topping of whipped cream with some marashino cherries (the pie didn't look very pretty).
+Review:
+Rating:
+4
+dateLastModified:
+2014-02-08T19:01:56.11
+helpfulCount:
+0
+userID:
+12469100
+Display Name:
+StickySue
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+149
+favoritesCount:
+829
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1091469.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for friends the said that it would be a great summer dessert. I made it with a Greek yogurt. and firm up just fine. But if your expecting cheese cake the flavor wasn't there.
+I could see making this with a peach or blueberry topping. If you want to save some calories use a fat free graham cracker crust. Thanks, Happy Cooking

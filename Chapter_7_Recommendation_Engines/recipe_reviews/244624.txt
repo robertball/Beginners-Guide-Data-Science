@@ -1,0 +1,37 @@
+Recipe number:
+244624.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-03-15T20:38:04.557
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the thicknesses the Chia seeds provided. My banana was very ripe and maybe that is why it overpowered every other flavor in this drink. To me it tasted just like a banana smoothie. Couldn't taste the mango or the raspberries. Being just ok I won't be making this again.

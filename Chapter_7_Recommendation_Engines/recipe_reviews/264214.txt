@@ -1,0 +1,72 @@
+Recipe number:
+264214.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-05T16:05:17.723
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out good. My only complaint is in the sauce. It's a little too sweet and it is really thin. I used an enchilada sauce imported from Mexico because I love the flavor of it but it is a little thinner than lets say Old Elpaso so you might want to use that. The slaw was super fresh tasting and got better as it sat. Overall great recipe and one I will make again.
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-28T01:14:19.88
+helpfulCount:
+0
+userID:
+17411870
+Display Name:
+Denise Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes I made it and more than likely will again.

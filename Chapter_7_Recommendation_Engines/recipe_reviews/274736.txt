@@ -1,0 +1,72 @@
+Recipe number:
+274736.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-17T22:50:17.05
+helpfulCount:
+0
+userID:
+1691757
+Display Name:
+Jennifer S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Light, flaky, buttery shortcake. Used 'sparkling' sugar sprinkles in cake decorating section of local supermarket. Couldn't easily buy vanilla bean paste so just used vanilla too. Otherwise followed recipe and video was very helpful. Pressed out dough on lightly floured wax paper, and used wax paper to help fold over dough. Great recipe and will make again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-19T18:24:26.53
+helpfulCount:
+0
+userID:
+25672853
+Display Name:
+Tuscan_Italian
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+2120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6796750.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OUTSTANDING!!  The vanilla bean paste added to the whipped cream was amazing!  Home run!!

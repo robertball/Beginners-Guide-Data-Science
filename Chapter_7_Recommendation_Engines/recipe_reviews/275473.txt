@@ -1,0 +1,37 @@
+Recipe number:
+275473.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-20T00:03:09.29
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9659
+followingCount:
+0
+madeRecipesCount:
+2471
+favoritesCount:
+2310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and good. I did end up adding another tomatillo because the ones at the store were really small this time of year. I know this sounds crazy but if you use fresh fried tortilla chips instead of the pre-packaged kind, the sauce almost has a fried green tomato taste to it. While I did like this sauce, I still prefer the more traditional all green tomatillo sauce.

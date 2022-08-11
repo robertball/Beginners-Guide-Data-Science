@@ -1,0 +1,37 @@
+Recipe number:
+213901.txt
+Review:
+Rating:
+1
+dateLastModified:
+2010-08-26T09:24:46.46
+helpfulCount:
+1
+userID:
+5269262
+Display Name:
+Jamase607
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm Korean...not only is this barely even Korean inspired, it's a bit weird to the Korean cook 3/4 cup of mayonnaise? Wow.  I'm not sure how I would change this to make this something you could call Korean, I guess substitute the Boston Lettuce with either red leaf or some other leaf lettuce (ask any Korean for Sang Chu with a long "a), don't use hot pepper sauce, use ggochujang - hot pepper paste...don't know where else to go with this.  The mayonnaise is just weird.

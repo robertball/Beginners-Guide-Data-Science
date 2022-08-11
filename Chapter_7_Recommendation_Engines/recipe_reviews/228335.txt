@@ -1,0 +1,72 @@
+Recipe number:
+228335.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-27T03:16:42.66
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2275
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made as written except used a pound of can crab due to availability and these turned out EXCELLENT! The mixture seemed a little dry at first but moistened up  perfectly after an hour in the fridge. I loved the Asian flavor in this and everything about these actually.
+Review:
+Rating:
+3
+dateLastModified:
+2016-02-10T05:06:00.013
+helpfulCount:
+0
+userID:
+15559425
+Display Name:
+Ryno's mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Land locked and can't find "fresh crab" so I tried with imitation. The patties didn't hold together.  I even tried adding an extra egg and mayo.

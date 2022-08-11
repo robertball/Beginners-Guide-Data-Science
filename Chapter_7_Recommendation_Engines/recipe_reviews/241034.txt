@@ -1,0 +1,72 @@
+Recipe number:
+241034.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-26T15:19:35.733
+helpfulCount:
+0
+userID:
+12992415
+Display Name:
+scotper
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5863094.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a good meal, I kept the onions and grilled them too.
+Review:
+Rating:
+3
+dateLastModified:
+2015-12-12T14:13:13.07
+helpfulCount:
+0
+userID:
+16326166
+Display Name:
+Becky Kitchen Jetzke
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+59
+favoritesCount:
+136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2579713.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice. A bit too sweet. I'd make  it again, but with less sugar. Maybe some soy sauce or steak sauce too? Good though. And I marinated it for 24 hours.

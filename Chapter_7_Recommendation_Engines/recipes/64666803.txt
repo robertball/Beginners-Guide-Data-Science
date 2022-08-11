@@ -1,0 +1,30 @@
+URL:
+https://www.allrecipes.com/personal-recipe/64666803/test/
+Title:
+Test Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+Test
+
+Directions:
+Test
+
+Submitter: 
+Nguyen Duc Cuong
+Description: 
+Test
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+20
+Ready in:
+NA
+Number of servings: 
+2
+Nutritional Facts:
+NA

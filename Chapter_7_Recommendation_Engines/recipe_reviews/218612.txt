@@ -1,0 +1,37 @@
+Recipe number:
+218612.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-08T16:25:32.237
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out okay but for as much that went into the marinade, there wasn't a lot of flavor to the meat. I marinated it for 10 hours so that wasn't the problem. It definitely needs more salt and more red pepper flakes. These were very colorful and pretty. Overall good recipe but I recommend adding more seasoning.

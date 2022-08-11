@@ -1,0 +1,37 @@
+Recipe number:
+271076.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-30T14:28:53.53
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9646
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and straight forward just how a salad should be. It was also really colorful which is always pleasing to the eyes. I wanted to add some tang so I gave my cauliflower a quick pickle and that was the only change I made. The celery leaves add a lot of flavor so be sure and add them in.

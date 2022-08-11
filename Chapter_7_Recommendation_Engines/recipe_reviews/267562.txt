@@ -1,0 +1,38 @@
+Recipe number:
+267562.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-20T14:22:18.04
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe raises the bar on brunch menus. I used 2 leftover egg yolks from another recipe and a whole egg. I also dressed it like I do cheeseburgers, adding mustard and pickled jalapenos.
+I didn’t have leftover bacon or hamburgers so I cooked the bacon, then the burger, then the omelet, all in the same pan. Wow! It was awesome. Just add a side of flapjacks and you’re good to go for your brunch table. Thank you for the recipe.

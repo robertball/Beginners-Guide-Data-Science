@@ -1,0 +1,37 @@
+Recipe number:
+105138.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-04-08T18:54:50.54
+helpfulCount:
+2
+userID:
+2171224
+Display Name:
+Julie M
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First off, we didn't have Mache, so substituted mixed greens.  I really didn't know what tarragon was, but was pleasantly suprized by the minty licorice taste. Beets were yummy and the sweetness of the beet was a good complement to the vinegar.

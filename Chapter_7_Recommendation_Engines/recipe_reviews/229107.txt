@@ -1,0 +1,37 @@
+Recipe number:
+229107.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-10-01T12:45:18.85
+helpfulCount:
+2
+userID:
+3314732
+Display Name:
+Emily Brown Parnell
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1582549.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The filling was delicious, but the cones got extremely soggy very quickly - even in the 30 minutes in the freezer. I have some leftover filling in the fridge that I've put in cones and served immediately - that worked just fine. I would NOT assemble these ahead at all, though.

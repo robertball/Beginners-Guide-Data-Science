@@ -1,0 +1,72 @@
+Recipe number:
+245264.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-04T14:28:26.073
+helpfulCount:
+0
+userID:
+15702717
+Display Name:
+Kristen Kay Pokharel
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+361
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This review is just for the waffles. They had nice flavor, but they were a bit dry. This recipe only made I think 6 waffles. I don’t think I’ll make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-10T02:57:25.29
+helpfulCount:
+0
+userID:
+2738539
+Display Name:
+Susie Marie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+253
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354655.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thinned it down a little with more milk. I also didn't cook as long as regular BELGIAN waffle. Everyone loved them!

@@ -1,0 +1,47 @@
+Recipe number:
+18228.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/22/2003
+helpfulCount:
+10
+userID:
+57046
+Display Name:
+TONIPAL
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I loved this!  I love casar dressing, but fear the raw egg.   This really solved the problem!
+Review:
+Rating:
+5
+dateLastModified:
+01/22/2003
+helpfulCount:
+7
+userID:
+280461
+Display Name:
+RESIEMOR
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Fabulous!  Simply fabulous...
+Review:
+Rating:
+1
+dateLastModified:
+01/22/2003
+helpfulCount:
+7
+userID:
+62332
+Display Name:
+TOTO
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Awful! The texture of this dressing was not good. I love Caeser dressing...but not this one!

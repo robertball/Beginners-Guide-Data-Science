@@ -1,0 +1,72 @@
+Recipe number:
+237323.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-06T13:30:57.917
+helpfulCount:
+2
+userID:
+814556
+Display Name:
+KARENKINM
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+216
+favoritesCount:
+404
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/54.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Doubled the quinoa. I also added some vinegar to give this some pizzazz.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-01T14:35:08.933
+helpfulCount:
+0
+userID:
+20496597
+Display Name:
+Janese Henson
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3989583.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I doubled the quinoa, added more lemon juice plus traditional mint. Used more parsely and less kale. Nutritious and delicious!

@@ -1,0 +1,111 @@
+Recipe number:
+239186.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-11T02:46:16.61
+helpfulCount:
+5
+userID:
+20251525
+Display Name:
+Jessica Paredes-Porter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3836496.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is authentic, clearly from someone that knows what this is supposed to taste like. However, if you make it as is, it will be a little too thick and with 5 habanero peppers it will definitely be too spicy for MOST palates. 
+
+That said, we did make it as is but we added a half cup of water to make more of a sauce consistency and we added 3 tablespoons of brown sugar for a spicy-sweet taste. Add brown sugar 1 tablespoon at a time until you get the consistency you like. 
+
+Also, recipe didn't say to blend at the very end. We did to get a completely smooth sauce. It was delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-11T20:10:52.853
+helpfulCount:
+0
+userID:
+7140598
+Display Name:
+Patmar7
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+422
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I also added water and brown sugar to the sauce. It has quite a kick. At first taste you get the mango and the sweetness and then the heat hits. Not too hot, but I used four peppers instead of five.
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-21T20:49:01.897
+helpfulCount:
+0
+userID:
+22214804
+Display Name:
+sharisse 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Well seeing how I made this sauce on a extreme budget. I pre-seasoned the chicken then baked it so while it was baking I used mango nectar concentrated, red pepper flakes an banana peppers for some extra kick ,an some garlic with paprika for that colored sauce ??

@@ -1,0 +1,182 @@
+Recipe number:
+255353.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-15T16:07:09.883
+helpfulCount:
+1
+userID:
+10193326
+Display Name:
+Deanna K. Onisko
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2565946.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these cookies for a friend who is allergic to gluten.  She LOVED them and wanted the recipe!  I tried too...  Very good
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-21T19:10:39.827
+helpfulCount:
+1
+userID:
+14559151
+Display Name:
+Monica Yoder
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1615002.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My hubby is on a Paleo diet so I made these for him.  I'm not on the diet and normally don't care for the "goodies" I make for him.  These were very good though and I enjoyed them too. Definitely making these again.  Thank you!
+Review:
+Rating:
+2
+dateLastModified:
+2019-10-20T18:57:19.273
+helpfulCount:
+0
+userID:
+26316814
+Display Name:
+Linda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There is something missing in this recipe.  Not enough liquid.
+I followed the directions exactly....it was dry and crumbly...would never go into a ball.
+I added about 1/3 cup of cream to have it stick together.
+They baked and looked like the picture but they are crumbly.
+
+I would never make them again until I find out what liquid is missing.   1/4 c of maple syrup and 3 Tablespoons of coconut oil is definitely not enough.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-23T02:13:26.867
+helpfulCount:
+0
+userID:
+16569015
+Display Name:
+Susannah Kim
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+56
+favoritesCount:
+258
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4434946.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think it was the almond flour - the cookies didn’t stick together even when i sprayed a little oil on top and put it back in the oven.  So i ended up serving it in a bowl with cream on top so that the fam’ would eat it. Vanilla ice cream would also work. Great thing is that that it was hit.  The not so great thing is that it’s a lot of paleo ingredients to end up not making it paleo. There are other carrot cake-ish recipes here that would be better to tweak into carrot cake cookies. I was hoping this would be my go-to alternative for carrot cake, but the search continues. If anyone know of a great way to to make carrot cake cookies that actually keep their shape, let me know!
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-01T01:24:25.803
+helpfulCount:
+0
+userID:
+14218522
+Display Name:
+Susan Neilsen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1539624.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have enough maple syrup so I added molasses instead,and put a raisin on each cookie which probably changed the classification to less than totally paleo, and the cookie turned out wonderfully, so much so that I could eat this all four seasons with the nice taste of carrot and cinnamon.

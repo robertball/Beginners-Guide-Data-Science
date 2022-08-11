@@ -1,0 +1,72 @@
+Recipe number:
+238128.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-05T12:17:10.693
+helpfulCount:
+2
+userID:
+9887792
+Display Name:
+Julie Julie
+isPro:
+False
+followersCount:
+83
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+198
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2466715.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The spice flavor is great, but I'd add even more black tea (another couple tablespoons).
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-04T00:58:37.6
+helpfulCount:
+1
+userID:
+18261278
+Display Name:
+Carlypeters
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut the sugar to 2 cups to start with and it is still overwhelmingly sweet.   Aside from that,  the flavor is really nice.

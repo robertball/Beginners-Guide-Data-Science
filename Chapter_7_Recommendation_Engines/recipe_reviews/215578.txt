@@ -1,0 +1,37 @@
+Recipe number:
+215578.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-09-22T08:08:43.21
+helpfulCount:
+8
+userID:
+3806116
+Display Name:
+Wendy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So fresh & delicious!  I substituted honey for the white sugar, and I'm pretty sure I used more mint than called for - but it was wonderful. I had never heard of pickled ginger, and look forward to using it often in the future now.  Thanks for sharing!

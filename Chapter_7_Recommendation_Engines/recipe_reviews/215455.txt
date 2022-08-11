@@ -1,0 +1,72 @@
+Recipe number:
+215455.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-10T04:49:56.77
+helpfulCount:
+1
+userID:
+3807285
+Display Name:
+doberman/puglover
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/232769.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added sauteed carrots, celery, and onion to the soup, and it turned out to be delicious. It's a very hardy pot pie that I would make again. It's so easy!
+Review:
+Rating:
+3
+dateLastModified:
+2016-04-27T00:34:06.04
+helpfulCount:
+1
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It definitely tasted like soup with stuff.  We missed the onion and garlic.  The broccoli soup was off putting.  If I made it again I would use two cans of cream of chicken soup.

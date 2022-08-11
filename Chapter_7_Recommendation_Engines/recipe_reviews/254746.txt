@@ -1,0 +1,37 @@
+Recipe number:
+254746.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-09T19:19:25.023
+helpfulCount:
+0
+userID:
+5619090
+Display Name:
+Kasey Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4983119.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+By far the best healthy snack I've ever made!  Even my pickiest eater loved them. The one that would go into convulsions at the thought of eating something fresh or green. I made them exactly according to the directions. They are so good and very filling.  I was a bit confused by the addition of white sugar but thought there must be a reason since all the other ingredients are so healthy. I think next time I may try a natural alternative such as xylitol. Any suggestions?

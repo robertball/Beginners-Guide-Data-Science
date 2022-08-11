@@ -1,0 +1,37 @@
+Recipe number:
+214673.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-05-31T16:25:29.63
+helpfulCount:
+18
+userID:
+892937
+Display Name:
+Miss Dusty
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+224
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/37348.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was absolutely wonderful!  I made it for a family gathering, and there is nothing left!  I did have to make a couple of changes, though.  Following the recipe, the batter is way too thick to be called a "smooth batter" or to "pour."  It was more like bread dough.  I added about 1/2 cup more of milk, and it became much easier to handle and pour.  I also had to bake it an extra 10 minutes - the inside was still gooey after more than 15 minutes, like an undercooked biscuit. After all was said and done, though, I loved this recipe.  It's sweet, but not TOO sweet; the fruit shines!

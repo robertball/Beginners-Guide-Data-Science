@@ -1,0 +1,72 @@
+Recipe number:
+246296.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-13T17:00:05.48
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out really good. As mentioned in the footnotes, I used chicken broth and anchovy paste. The one change I knew I had to make to suit our taste was in the preparation of the steaks. We are a grilled steak kind of people and so I grilled them rather than pan fry. With that being said, regardless of how you prepare the steaks themselves, I do think they needed some seasoning. The sauce has good flavor but it wasn't quite enough. I tested this by preparing one plain as the recipe stated to do and on the other one I sprinkled some Cavenders. The one with the Cavenders was hands down better than the other. The sauce had really good flavor but keep in mind that it is a very thin sauce. Overall this is a good recipe and one that would impress guests.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-19T00:14:42.1
+helpfulCount:
+0
+userID:
+26469508
+Display Name:
+Helene
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe....we loved the sauce! Didn’t have chervil or anchovies so left those out and still came out very good. Thank you for sharing!

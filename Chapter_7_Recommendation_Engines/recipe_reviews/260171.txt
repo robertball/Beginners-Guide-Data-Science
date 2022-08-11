@@ -1,0 +1,39 @@
+Recipe number:
+260171.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-04T00:27:46.943
+helpfulCount:
+1
+userID:
+3439303
+Display Name:
+tonia.st
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+67
+favoritesCount:
+1782
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3313718.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Different, and very rich tasting. I made a couple of substitutions: cinnamon raisin bagels for cinnamon swirl bread and chocolate chips for chocolate-covered raisins.
+#AllrecipesAllstarsCanada
+#Facelessnomore

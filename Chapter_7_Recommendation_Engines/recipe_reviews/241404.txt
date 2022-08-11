@@ -1,0 +1,37 @@
+Recipe number:
+241404.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-10T14:06:15.043
+helpfulCount:
+1
+userID:
+17466620
+Display Name:
+Sherril Minns
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+175
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3231469.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty.  I didn't have any beets, will add next time.  It was very thick, however, so I added some water.

@@ -1,0 +1,72 @@
+Recipe number:
+245299.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-22T10:38:59.223
+helpfulCount:
+0
+userID:
+17057537
+Display Name:
+Mary Sch
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3060890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and tasty, but too heavy on the flax seeds.  I'm going to try replacing the flax seeds with a a combination of the sunflower seeds and wheat germ.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-03T22:56:37.86
+helpfulCount:
+0
+userID:
+14131579
+Display Name:
+SandyS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2733245.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These biscuits are so yummy!  They  use lots of seeds and grains, making them substantial and wholesome.

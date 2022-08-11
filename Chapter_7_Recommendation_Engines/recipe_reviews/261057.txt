@@ -1,0 +1,37 @@
+Recipe number:
+261057.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-01-10T15:09:07.59
+helpfulCount:
+0
+userID:
+24919254
+Display Name:
+Dave
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There is something VERY wrong with the proportions of the ingredients in this recipe! Too much liquid? Too much ghee? I'm not sure what, but it is just a greasy, runny mess, even after hours of boiling.

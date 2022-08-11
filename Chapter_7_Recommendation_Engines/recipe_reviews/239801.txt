@@ -1,0 +1,37 @@
+Recipe number:
+239801.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-25T16:48:46.707
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and I liked these. They were definitely different than what I am used to but I really liked the cumin seeds in the batter. The one thing I did not like was the way the recipe instructs you to cut the potatoes. I found that trying to fry/flip them was more difficult to do with them so long. It would have been easier if they would have been cut width wise. No biggie but I will definitely do that next time. Don't forget to lightly salt them once they come out of the oil.

@@ -1,0 +1,47 @@
+Recipe number:
+153364.txt
+Review:
+Rating:
+4
+dateLastModified:
+06/30/2008
+helpfulCount:
+6
+userID:
+doublewideskilletsinglewidebudget
+Display Name:
+Sarah Jo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/699445.jpg
+text:
+I made this for my kids this morning using frozen yogurt, a frozen banana and sugar-free orange Jello. They loved it. Another great way to get more fruits down them in the morning.
+Review:
+Rating:
+5
+dateLastModified:
+10/27/2009
+helpfulCount:
+2
+userID:
+4107241
+Display Name:
+Cutiegurl
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/394893.jpg
+text:
+Very good recipe! I used lime jello, I love it. Thanks.
+Review:
+Rating:
+5
+dateLastModified:
+01/29/2010
+helpfulCount:
+1
+userID:
+3764606
+Display Name:
+Bella
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/224557.jpg
+text:
+FANTASTIC!!!

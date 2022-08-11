@@ -1,0 +1,37 @@
+Recipe number:
+273155.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-16T15:25:01.997
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+544
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I needed to add 1/4 cup of flour to my recipe. The batter was still rather wet, so I needed to cook it an extra 15 minutes. The recipe worked well and the flavor was very blueberry. It is a very dense texture from the butter. Brownies for breakfast! No one complained!

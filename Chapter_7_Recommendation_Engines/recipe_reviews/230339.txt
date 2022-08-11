@@ -1,0 +1,37 @@
+Recipe number:
+230339.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-01-17T11:18:34.937
+helpfulCount:
+5
+userID:
+1460190
+Display Name:
+C. J.
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very good recipe.  I have made salad similar to this in the past, but the pesto in this one gives it that extra special zing.  One very important thing is to be sure you buy FRESH mozzarella cheese (not the kind you get sliced, i.e. american, swiss, etc).  Your Italian supermarket OR any large chain supermarket will carry this type at their deli counter.  When ordering, be sure to tell them you want the fresh kind. My guests and my family liked this recipe.

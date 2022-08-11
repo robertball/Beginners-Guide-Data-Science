@@ -1,0 +1,72 @@
+Recipe number:
+266526.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-05T02:13:48.13
+helpfulCount:
+0
+userID:
+10006369
+Display Name:
+plates4u
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+326
+favoritesCount:
+1227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4569544.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was good. However I think it needs a bit of extra salt. As for everything else, it is fast and easy. You can get the same creamyness thanks to the eggs just like you do with creme fraiche. Still, I prefer Chef John's version without the cayenne!
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-23T22:40:35.523
+helpfulCount:
+0
+userID:
+16215651
+Display Name:
+Betty. I got only nine right.
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2814620.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love the recipes I get on this website!  Tonight I am  making the BLT  pasta salad.   Keep the awesome recipes coming! I always recommend this website to  my friends and family.

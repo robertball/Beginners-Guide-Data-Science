@@ -1,0 +1,37 @@
+Recipe number:
+246160.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-14T20:39:09.903
+helpfulCount:
+0
+userID:
+3755179
+Display Name:
+reisy5
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty good—I added water at the end as the batter was too thick. They don’t replace a traditional pancake, but are a good, healthful alternative for a low carb lifestyle.

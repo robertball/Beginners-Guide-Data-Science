@@ -1,0 +1,76 @@
+Recipe number:
+124072.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-12-25T19:49:04.063
+helpfulCount:
+15
+userID:
+1525415
+Display Name:
+CookingGirl
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+292
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/56404.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+everybody really loved this and even my family members who are on low carb diets were able to induldge themselves by just peeling the top layer with the eggs, cheese and bacon.. and leaving bread out..  this is very good and i'll be making it again i'm sure!
+Review:
+Rating:
+3
+dateLastModified:
+2008-07-20T15:48:59.46
+helpfulCount:
+12
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed this recipe exactly. It turned out almost quiche-like in form.
+I liked it alright, but the rest of my family members did not. 
+
+I just don't think we're a strata family.
+Too bad because they are so easy to make.

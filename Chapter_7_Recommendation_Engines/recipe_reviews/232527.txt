@@ -1,0 +1,72 @@
+Recipe number:
+232527.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-02-19T01:00:29.247
+helpfulCount:
+0
+userID:
+21999708
+Display Name:
+Judy Martin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+447
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6734231.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will not make again.  Loaf is sitting in a 1” puddle of fat and water and the cheese and sauce that slid off the top. Tastes ok and held together nicely, but the cooking method does not work. The cheese sauce just oozes out into the sludge in the pan when you cut it, and the loaf is too big to just lift out of the pan first, while it’s warm.
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-28T17:51:53.57
+helpfulCount:
+0
+userID:
+9605174
+Display Name:
+Ed
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+178
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loves traditional meatloaf with mashed potatoes or mac and cheese....the true comfort foods.  This meatloaf was outstanding. Watch the cooking time closely so you do not over cook it.  If prepared and cooked correctly, there's no way you will not be impressed.

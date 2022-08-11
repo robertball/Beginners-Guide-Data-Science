@@ -1,0 +1,37 @@
+Recipe number:
+254780.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-10T00:03:16.443
+helpfulCount:
+0
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9161
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice spin on mashed potatoes. We are not caper fans so I left those out. If you are looking to switch it classic mashed potatoes then give these a try.

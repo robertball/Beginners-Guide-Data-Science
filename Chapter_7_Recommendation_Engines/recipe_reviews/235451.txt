@@ -1,0 +1,72 @@
+Recipe number:
+235451.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-20T05:03:02.163
+helpfulCount:
+6
+userID:
+4692940
+Display Name:
+moc2948
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+210
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Now I can't wait till a snowy day.  Rec. looks like t takes time to prepare.  I would use either potatoes w/sautéed onion & celery & chopped spinach or stuffing w/tiny pcs of broccoli & add craisinettes to mixtures.  What a perfect after snow or freezing day movie night dinner.  Sure beats the sound of pizza.  Thanks.  I'm saving this.
+Review:
+Rating:
+2
+dateLastModified:
+2017-12-04T19:11:15.767
+helpfulCount:
+0
+userID:
+9709913
+Display Name:
+Megan Awong
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+120
+favoritesCount:
+295
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6125761.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really wanted to like this, but the final product just wasn't appetizing for us. I used a bread dough that I've used plenty of times, but I think it just turned out too carb-heavy with the mashed potatoes and the stuffing in the dough. Might be better if stuffing was eliminated and craisins were incorporated- give it a little more punch. I tried to save some by dunking them in velvetta, but to no avail.

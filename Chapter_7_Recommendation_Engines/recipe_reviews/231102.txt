@@ -1,0 +1,37 @@
+Recipe number:
+231102.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-03-06T16:16:58.143
+helpfulCount:
+1
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't care much for this. The sour cream and yogurt came off as tasting like mayonnaise, which I really didn't want, once the mustard was added. There was also way too much of the dressing texture wise. Only changes I made was making 1/2 recipe, using a different lettuce, and I used the lemon juice but left out the rind so it wasn't too tart. The lettuce, mayo taste, and potatoes was just too much confusion for my taste buds. I can see others liking this though.

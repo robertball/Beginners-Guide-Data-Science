@@ -1,0 +1,107 @@
+Recipe number:
+15972.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-02-03T14:47:59.43
+helpfulCount:
+26
+userID:
+3934534
+Display Name:
+I &hearts; Food!!
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+208
+favoritesCount:
+422
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/677171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Don't be scared off by the name! My family all made faces when I told them what I was making, but once they tasted it, they were begging for more :) This pie is amazing!!  It actually tastes a lot like a lemon meringue pie, next time I think that I will put a meringue on top.  The only thing that I did differently, was that I used about a half tsp of lemon extract, and half a tsp of lemon juice. Enjoy!
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-14T14:13:05.747
+helpfulCount:
+7
+userID:
+840802
+Display Name:
+EMMIT419
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Vinegar pie is a very old recipe and a very good one, built for economy, as most people have these ingredients on hand. The taste is sweet and citrusy. I used 1 tsp orange extract and a sprinkle of orange peel this time instead of lemon. It tasted sort of like a lightly flavored dreamsicle pie. This recipe did not fill my pie shell up as far as I would like, but next time I will try multiplying recipe by 1/2 and adding meringue.  Great old recipe, Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-08T23:33:57.657
+helpfulCount:
+0
+userID:
+25299718
+Display Name:
+Rusty Shakelford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6601059.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sort of a citrus flavored egg custard. Taste much better than the name.

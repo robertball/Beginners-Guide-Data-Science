@@ -1,0 +1,37 @@
+Recipe number:
+256618.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-03T15:05:15.903
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is easy to put together and pretty tasty. I added some soffritto. It seems hard to believe but it really does get thick like a ragù in only thirty minutes. I think it's the fact that there is a small ratio of meat to tomatoes, but thanks to the peppers you get a tasty sauce. Thank you for the recipe.

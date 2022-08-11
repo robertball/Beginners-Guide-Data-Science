@@ -1,0 +1,107 @@
+Recipe number:
+219158.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-11-15T04:40:12.31
+helpfulCount:
+26
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this in the crockpot yesterday. Because I'm working with a small food budget, I used stew meat instead of sirloin roast. I used red bell pepper instead of green (personal preferance), beef broth instead of water, and I did not add the full amounts of pepper/salt. I just added them to taste. This was a VERY thick and flavorful chili (that really does seem to improve even more the longer it sits--honest!) and this was quick for me to make and portion out for work lunches. NOTE: The recipe did not specify wether to rinse the beans and tomatoes. I did. Also, the mild chili powder I used was california ground chili powder. It's got all the flavor of chili powder with half the heat.
+Review:
+Rating:
+4
+dateLastModified:
+2011-10-17T11:49:42.203
+helpfulCount:
+13
+userID:
+5882077
+Display Name:
+Odipherus
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very Good Chili, I'm not a Bell Pepper fan and I substitute a Serano, but it was enjoyed by the whole family.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-09T23:06:57.847
+helpfulCount:
+0
+userID:
+448789
+Display Name:
+Jennifer Dixon
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1586800.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am embarrassed to say that I did not fully read the directions before staring this chili. After a busy soccer weekend, I started this chili around 5pm Saturday. Our chili cook off was the next day. I cooked the chili for a few hours before placing it on low for 8 hours overnight.  The next day, I unplugged the crockpot and brought it to church.  Long story short, I won the Chili cookoff after 10 years of failed attempts.  The judges loved the taste and how the roast shredded.

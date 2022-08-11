@@ -1,0 +1,32 @@
+Recipe number:
+87446.txt
+Review:
+Rating:
+5
+dateLastModified:
+06/10/2010
+helpfulCount:
+6
+userID:
+3715062
+Display Name:
+fakeymcfake
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/625967.jpg
+text:
+Maybe you need a new job
+Review:
+Rating:
+5
+dateLastModified:
+05/07/2011
+helpfulCount:
+1
+userID:
+4351300
+Display Name:
+martyrthisthat
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/445599.jpg
+text:
+This is one of my favorite recipes!  The only difference is that I use orange Gatorade and Popov Vodka. I've found that Vodka is less noticeable on the breath!

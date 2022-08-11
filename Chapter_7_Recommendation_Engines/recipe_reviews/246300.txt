@@ -1,0 +1,72 @@
+Recipe number:
+246300.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-16T21:21:21.553
+helpfulCount:
+0
+userID:
+7462642
+Display Name:
+warneg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it, especially since it was quick and easy. Cheddar on one, Meunster on the other.
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-16T04:10:29.733
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Personally I think these would lack in flavor as written. I used leftover grilled seasoned chicken breast and they were great!

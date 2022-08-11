@@ -1,0 +1,37 @@
+Recipe number:
+265855.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-28T14:05:36.243
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8905
+followingCount:
+0
+madeRecipesCount:
+1113
+favoritesCount:
+2273
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love the combination of flavors in this ice cream, and with the swirl of colors, it makes a pretty presentation! I created this after returning home from a 7 day Caribbean cruise on Royal Caribbean's Oasis of the Seas! My kids favorite drink on their ships is a virgin "MasterCard" (the colors of the drink are like the MasterCard logo). This was so refreshing! We had friends for over for dinner, and served this for dessert, and everyone loved it! I hope you like it too!

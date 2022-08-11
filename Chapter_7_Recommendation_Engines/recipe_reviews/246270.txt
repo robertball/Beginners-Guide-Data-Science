@@ -1,0 +1,107 @@
+Recipe number:
+246270.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-14T01:02:41.623
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+968
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5 stars for any recipe that helps me clean out my fridge! I used black rice and made a couple of substitutions. For starters, prosciutto cotto instead of bacon as well as opted for Sriracha sauce instead of ketchup.  The butter was a bit heavy for me, so I will probably use a light oil next time. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-07T08:04:08.05
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+612
+favoritesCount:
+982
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Given this was considered an omelette recipe for leftovers I decided to use vegetables I already had.  I think salsa as opposed to tomato and ketchup would be a better idea.  I did not add any salt because the bacon is salty enough.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-06T06:21:07.563
+helpfulCount:
+0
+userID:
+9550403
+Display Name:
+Jennifer Aleman
+isPro:
+False
+followersCount:
+7278
+followingCount:
+0
+madeRecipesCount:
+207
+favoritesCount:
+831
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6012647.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a great way to use leftovers. It is fair to say that only onion, rice and peppers were my leftovers in my fridge for the rest I had to shop . I added to the recipe a clove of garlic as I think is delicious and goes so well with the vegetables and bacon. It is a very rich omelet but for my husband and my self it was a pleasure to eat and I'm sure I'll make it often.

@@ -1,0 +1,72 @@
+Recipe number:
+102466.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-03-23T18:36:08.89
+helpfulCount:
+1
+userID:
+78037
+Display Name:
+JEANRG
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A tasty, hearty chili-like soup.  The spices were more subtle than I expected.  I could find no cardamom so used extra cinnamon, and my five-quart pot was nearly over-flowing, so I only used one can of cannellini beans.  Great for meatless days, health & creative source of protein.
+Review:
+Rating:
+4
+dateLastModified:
+2006-04-11T21:51:05.59
+helpfulCount:
+0
+userID:
+1851896
+Display Name:
+Michelle from Seattle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6689297.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We had this for dinner tonight and it is good.  My boyfriend, a MEAT FREAK, did not even add any meat to it since it is so protien heavy.  The seasoning was nice, but a little subtle.  I will probably increase the seasonings next time, but the good news is that there will be a next time.  Thanks for an easy and filling recipe.

@@ -1,0 +1,37 @@
+Recipe number:
+276435.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-21T04:55:06.57
+helpfulCount:
+0
+userID:
+26228414
+Display Name:
+Donna in Kirkland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this! Thank you for the recipe!

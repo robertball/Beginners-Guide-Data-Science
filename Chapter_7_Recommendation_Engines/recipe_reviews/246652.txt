@@ -1,0 +1,37 @@
+Recipe number:
+246652.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-27T02:52:25.417
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I left at the vegetarian beef crumbles. Mainly because I am not a vegetarian but also because I used this as a side dish instead of the main. GREAT flavor to what is normally boring beans! The only change I would make next time is to use pepperjack cheese instead to add more heat. Other than that, perfect as written.

@@ -1,0 +1,73 @@
+Recipe number:
+254410.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-17T21:56:55.823
+helpfulCount:
+0
+userID:
+10678751
+Display Name:
+Jen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic. There are so many healthy salads to make this way by simply changing the make up of the veggies. The greens stay crisp and the taste of all is sharp as if you had just made it t home 
+This is a definite winner
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-23T04:38:11.17
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All the ingredients are very good for a pasta salad. It tasted great but I had to take everything out of the jar to mix up! Good recipe.

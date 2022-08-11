@@ -1,0 +1,75 @@
+Recipe number:
+151752.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-12-17T06:38:18.533
+helpfulCount:
+2
+userID:
+2683928
+Display Name:
+Jill
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed these cookies.
+
+The only thing is...I suggest using 3 oz of chocolate chips apposed to the baker's chocolate.
+Also, I rolled mine in chopped almonds and coconut, they were really good!!
+Review:
+Rating:
+2
+dateLastModified:
+2007-11-10T17:39:50.973
+helpfulCount:
+0
+userID:
+2462139
+Display Name:
+Punchbowl
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2549.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I am not crazy about these cookies. The cookies really don't have good chocolate flavor. Needs more chocolate because with how they are the pecans over power the cookies.

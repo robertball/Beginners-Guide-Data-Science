@@ -1,0 +1,72 @@
+Recipe number:
+229269.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-29T19:02:42.733
+helpfulCount:
+10
+userID:
+1153011
+Display Name:
+naples34102
+isPro:
+False
+followersCount:
+4544
+followingCount:
+0
+madeRecipesCount:
+3627
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7786532.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While this was very good, I can’t honestly say that the addition of the zucchini blossoms made it any more special.  It was pretty, for sure, as well as fun and interesting to try.  But given that zucchini blossoms in most instances would be difficult to come by, don’t hesitate to prepare this without them. If I hadn’t prepared this myself and had been blindfolded, I wouldn’t even have known they were in there.  Still, a delicious dish nonetheless.
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-02T09:04:59.627
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A fantastic pasta dish made like traditional pasta in Italy: simple and full of flavour. I made up the sauce while the pasta was cooking and the timing was right on for my bucatini.  This dish is as beautiful as it is delicious. The colours are bursting as is the flavour. I think a key factor here is to use a smooth pasta, not rigata it really makes a difference. Thank you robwala for sharing this lovely recipe.

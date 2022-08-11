@@ -1,0 +1,72 @@
+Recipe number:
+262228.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-06T22:46:27.197
+helpfulCount:
+0
+userID:
+966931
+Display Name:
+SEWDREAMS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really easy.  Was looking for a way to quickly make some chicken for dinner. Did NOT make the teriyaki sauce, used a jarred sauce I already had.  Chicken was falling apart.  The sauce is thin, but made a delicious addition to the rice.
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-01T00:58:15.987
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This made an easy, quick meal. It  could have used a little more flavor, and the sauce was very thin even after sauteeing five minutes.

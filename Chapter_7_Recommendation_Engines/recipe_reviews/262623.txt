@@ -1,0 +1,38 @@
+Recipe number:
+262623.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-18T21:34:15.313
+helpfulCount:
+1
+userID:
+25196747
+Display Name:
+Karin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hi - this is a good recipe. I add more cinnamon and cloves though. My german mother's (married to an Austrian) recipe calls for 1 tsp of cinnamon and 1 teaspoon of cloves. 
+Love this torte. Reminds me of childhood.

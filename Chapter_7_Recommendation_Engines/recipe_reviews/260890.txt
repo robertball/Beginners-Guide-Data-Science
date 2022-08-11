@@ -1,0 +1,72 @@
+Recipe number:
+260890.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-06T00:38:17.057
+helpfulCount:
+0
+userID:
+16347814
+Display Name:
+Erica Mars
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2592917.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are the best cookies I have ever made. I used gluten free flour and they turned out amazing. I have made them 3 times now. My go too!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-07T15:35:15.45
+helpfulCount:
+0
+userID:
+22897909
+Display Name:
+B Mee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4627619.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love it!  Made for the first time yesterday and shared with three people -- each of whom said "Best cookie I ever ate".

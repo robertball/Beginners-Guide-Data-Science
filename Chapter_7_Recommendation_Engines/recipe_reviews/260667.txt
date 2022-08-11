@@ -1,0 +1,37 @@
+Recipe number:
+260667.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-01T14:07:48.71
+helpfulCount:
+0
+userID:
+1338481
+Display Name:
+JHOLLER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Truly excellent recipe.  I read through several and selected this one because I liked that the cake is mostly eggs.  The lime zest seems delightfully unusual.  The final tipping point was the dulce de leche because my husband loves that.  I made this for a dinner with friends, there were 8 of us and I did not want to be tempted with leftovers, so cut the recipe in half and made it in an 8x8 glass pan.  Served it with fresh blue- and blackberries.  It all worked perfectly and got rave reviews.

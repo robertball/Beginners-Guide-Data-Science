@@ -1,0 +1,72 @@
+Recipe number:
+149271.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-12-21T14:37:30.967
+helpfulCount:
+8
+userID:
+3125909
+Display Name:
+Darcy McElhaney Lichnerowicz
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1323087.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe has nice flavor, but did not turn out as traditional chrabeli should.  I had to add well over an additional cup of dry ingredients (combination of flour and powdered sugar) to get the right consistency.  I left the cookies out for the recommended 24 hours, but they could have gone closer to 36.  I baked just as directed, forgetting the old trick I had been taught to bake them at a lower temperature and crack the oven door.  Had I done this and let them set longer than the recipe directs, they would have risen during the baking process, giving the "feet" chrabeli are supposed to have.  As it was, these ended up plump little cookies with no feet.  My husband enjoys them, and they are good for dunking, but the recipe should be tweaked to add more dry ingredients and alter the baking style to get the traditional feet.
+Review:
+Rating:
+2
+dateLastModified:
+2012-02-23T07:14:10.06
+helpfulCount:
+1
+userID:
+8870130
+Display Name:
+Potatopancake
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ditto on the not enough dry ingredients to form a dough.  Otherwise the taste is heavenly if you like anise, but something seems not quite right in the consistency department.

@@ -1,0 +1,37 @@
+Recipe number:
+275902.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-10T15:57:41.903
+helpfulCount:
+0
+userID:
+20984152
+Display Name:
+Sande McDermott
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4297476.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a delicious recipe, but we found it to be rather dry.  When I make it again I will add liquid, either veggie broth or miso.  I will also add more vegetables, I think some combination of spiral carrots, peas, celery, sweet green, yellow, or red peppers or maybe baby corn pieces.  As a side dish it may be ok as is, but for my vegetarians it was a main dish and needed more.

@@ -1,0 +1,72 @@
+Recipe number:
+229530.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-06T03:12:11.41
+helpfulCount:
+0
+userID:
+8888059
+Display Name:
+Nancy G
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+210
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made what I would call the light version of this salad. It didn't have any almonds or green beans or white pepper. I also have never poached salmon so I just cooked it in the oven at 375 F with lemon juice and a few dabs of butter. I used a little more than half of the oil called for in the dressing and I didn't have a lemon to zest. I also use double the amount of mustard called for, as the recipe says use your own personal taste and I'm sure different mustards will affect the flavor. It turned out great, a nice simple light salad for lunch or supper.
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-27T22:09:36.553
+helpfulCount:
+0
+userID:
+11008344
+Display Name:
+Fraucha
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+311
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4038321.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made the recipe as written. Fresh, light and delicious. I will definitely make this a go to meal when having salmon. Thank you for sharing your recipe!

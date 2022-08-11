@@ -1,0 +1,72 @@
+Recipe number:
+230465.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-01-07T22:28:06.203
+helpfulCount:
+1
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5134
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this tasted pretty good. I had been meaning to try it over Christmas time. It would work well for someone that cannot have eggs or cream. When I first tasted it, I thought the rum flavoring was strong. However, after I added the cinnamon and nutmeg it blended well. When I did the calorie count it came in closer to 80 instead of 134. It also made one serving which is nice. ty
+Review:
+Rating:
+1
+dateLastModified:
+2013-12-25T17:21:11.893
+helpfulCount:
+0
+userID:
+12696462
+Display Name:
+izzarino
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It doesn't even come close to tasting like eggnog of any kind which is a little disappointing for someone with an egg allergy that used to look forward to the holidays strictly for the eggnog.

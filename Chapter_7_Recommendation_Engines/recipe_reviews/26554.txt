@@ -1,0 +1,37 @@
+Recipe number:
+26554.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-09-28T06:00:28.53
+helpfulCount:
+1
+userID:
+696878
+Display Name:
+KATHRYN007
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This salad was a wonderful addition to a chicken quesadilla recipe.  I wanted a meatless salad and this was perfect.  The time involved in roasting the peppers was worth the outcome, my guests were very impressed.  I severed the leftover salad two days later and it was just as delicious.

@@ -1,0 +1,37 @@
+Recipe number:
+235788.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-14T13:04:11.683
+helpfulCount:
+1
+userID:
+753310
+Display Name:
+kelcampbell
+isPro:
+False
+followersCount:
+154
+followingCount:
+0
+madeRecipesCount:
+712
+favoritesCount:
+1945
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3294500.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this pie for international Pi Day and the end result was pretty good! I followed the recipe pretty closely, but had to make a few changes to the custard element of the recipe as it was not nearly thick enough. After the custard was complete, I realized it was too thin, so I added about 2 Tbsp of custard powder to 1/4 milk and added that to the hot custard and continued cooking until it was the desired consistency. Although the recipe doesn't state, I allowed my custard to cool to room temperature before pouring over the peanut butter mixture. From there, I followed the recipe exactly and the end result was delicious!

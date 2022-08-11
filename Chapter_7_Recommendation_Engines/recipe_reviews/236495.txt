@@ -1,0 +1,74 @@
+Recipe number:
+236495.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-03T16:36:51.45
+helpfulCount:
+1
+userID:
+20596467
+Display Name:
+Angelea S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall, my family thought it was quite tasty.  Even my picky teenager asked for seconds.
+Review:
+Rating:
+3
+dateLastModified:
+2015-11-15T12:52:32.637
+helpfulCount:
+1
+userID:
+16751916
+Display Name:
+Danna Glore
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As it is, the recipe makes for a rather bland stuffing.  I ended up adding 1/2 tsp garlic powder, 1/2 tsp oregano and doubled the cumin and paprika.
+
+I also added 1/4 cup lemon juice and it really freshened it up.  This recipe fills about 30-36 of the pre-made 4" frozen empanada dough (Goya).

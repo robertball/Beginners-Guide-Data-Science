@@ -1,0 +1,72 @@
+Recipe number:
+274566.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-13T23:02:04.84
+helpfulCount:
+1
+userID:
+4441663
+Display Name:
+Amber
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+130
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with Marionberries instead of Strawberries and I did a Graham Cracker Crust. It was a HIT!!!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-09T06:54:42.573
+helpfulCount:
+1
+userID:
+13768676
+Display Name:
+Jon Hennington
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6560798.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect summer dessert!

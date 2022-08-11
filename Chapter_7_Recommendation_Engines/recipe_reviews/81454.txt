@@ -1,0 +1,107 @@
+Recipe number:
+81454.txt
+Review:
+Rating:
+2
+dateLastModified:
+2009-01-14T02:35:32.35
+helpfulCount:
+12
+userID:
+2562400
+Display Name:
+Krysti N
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+57
+favoritesCount:
+337
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6920997.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+its possible i just didnt make it correct ... but we did not like this stew
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-22T17:22:39.67
+helpfulCount:
+0
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+302
+followingCount:
+0
+madeRecipesCount:
+251
+favoritesCount:
+1620
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7665074.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good! I omitted the macaroni, and took my immersion blender to the stew a tiny bit. Delicious, and you're right the cheese on top was perfect :)
+Review:
+Rating:
+4
+dateLastModified:
+2012-07-31T16:35:38.307
+helpfulCount:
+0
+userID:
+7556520
+Display Name:
+Christina Coombs Sarley
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2148845.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was an interesting combination and it tasted good.  I omitted the red pepper because I didn't have any and used a white potato because it is what I had on hand and thought it was pretty good.  I also used protein penne noodles because I didn't have any elbow macaroni, but think elbow may be better.  I would add this recipe to my weekly rotation.  Thanks for sharing your recipe!

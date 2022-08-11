@@ -1,0 +1,37 @@
+Recipe number:
+244170.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-28T21:27:33.657
+helpfulCount:
+0
+userID:
+3252329
+Display Name:
+Linda Heil Pluke
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Old family recipe handed down by my mom.  Couldn't find my copy so came here.

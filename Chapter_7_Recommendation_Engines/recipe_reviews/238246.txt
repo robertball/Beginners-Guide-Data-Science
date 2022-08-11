@@ -1,0 +1,73 @@
+Recipe number:
+238246.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-02T19:48:21.34
+helpfulCount:
+1
+userID:
+14998538
+Display Name:
+jec
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy, tasty and healthy.
+I didn't have any flaxseed or fennel so used Chia seeds instead. turned out really well. not sure how many I made six but would make 8 next time as they were big. kept well for a few days. Definitely will make again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-04T02:21:32.743
+helpfulCount:
+0
+userID:
+24163637
+Display Name:
+Nik
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+113
+favoritesCount:
+485
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these with all-purpose gluten free (GF) flour, GF rolled oats, & substituted the soy milk with almond milk.   I also added a little cinnamon for fun.  Mild flavor, but tasty!

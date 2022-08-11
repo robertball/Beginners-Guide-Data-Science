@@ -1,0 +1,40 @@
+Recipe number:
+273830.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-27T03:48:50.407
+helpfulCount:
+0
+userID:
+8636909
+Display Name:
+larson119
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+677
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a delicious & healthy salad! I loved how simple it was but still satisfying. 
+  My husband was impressed by the meal but especially the dressing. Definitely make your dressing first so the flavors have a chance to meld together.
+  There are 2 things I may add or change next time I make the salad. Firstly, add a bit more chicken. Then either add candied pecans or swap the almonds out completely just because they're not my favorite. 
+Thanks for a yummy recipe!

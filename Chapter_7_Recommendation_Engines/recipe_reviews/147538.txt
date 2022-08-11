@@ -1,0 +1,72 @@
+Recipe number:
+147538.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-01-08T20:05:17.803
+helpfulCount:
+25
+userID:
+2317889
+Display Name:
+mermaid
+isPro:
+False
+followersCount:
+28
+followingCount:
+0
+madeRecipesCount:
+300
+favoritesCount:
+501
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This should really be called fish balls instead of shrimp croquettes. A croquette is usually a cone shaped product. This is formed into balls and also uses cod. It is impossible to roll the balls in the cubed bread. Use bread crumbs instead.
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-06T22:38:44.873
+helpfulCount:
+1
+userID:
+7828848
+Display Name:
+Deborah DeLeon George
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When working with seafood, I try to follow a new recipe as closely as possible because fish and shellfish are definitely not in my wheelhouse. Overall the flavor was fine, but the amount of salt was far too much. 1/4 of a teaspoon should have been sufficient. Was that a typo originally?

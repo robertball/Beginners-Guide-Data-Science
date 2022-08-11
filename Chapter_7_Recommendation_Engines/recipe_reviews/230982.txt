@@ -1,0 +1,624 @@
+Recipe number:
+230982.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-04T22:49:08.62
+helpfulCount:
+8
+userID:
+11014142
+Display Name:
+LittleCook21
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This pudding got raving reviews at my family's 4th of July celebration! I loved it! I followed it to a T. Personally, I think it was very clever to include the cream cheese in the recipe because it gave it such a smooth delicious flavor and added some tartness. It was very unique, and I nor my family have ever had banana pudding this way, but it turned out so good that my grandmother and mom who are the cooking gurus in the family have requested that I make it at our next family functions. I didn't get to include the raspberries because I bought a bad batch, but the rest of the desert was so great I'm sure either way it will be delicious time and time again. I'm never making banana pudding the same way I did before. Thanks for the great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-16T13:18:55.92
+helpfulCount:
+3
+userID:
+4735805
+Display Name:
+Southflgal
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+394
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made banana pudding forever but never found a recipe that I thought was perfect - until now. Took to a family picnic and there were nothing but raves about it. I did use a few more bananas and wafers to fill it up, but no complaints. Thanks for the recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-02T08:38:36.227
+helpfulCount:
+2
+userID:
+5905628
+Display Name:
+mikeslich
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+130
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2004138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had to make some adjustments living in Spain. Used instant "natillas" instead of vanilla pudding, but it's basically the same. Also, had to heat the mix up to get it to thicken, instead of letting it sit in the fridge. Still, it turned out delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-22T17:39:59.657
+helpfulCount:
+2
+userID:
+11255970
+Display Name:
+Me Myself
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+66
+favoritesCount:
+457
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5052034.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best ever!  Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-28T07:42:19.46
+helpfulCount:
+2
+userID:
+10831279
+Display Name:
+gmonie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I absolutely love this recipe! Banana pudding is one of my favorite desserts, and this is the BEST I've ever had. Definitely try the suggested variations. I promise you will not be disappointed!
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-07T18:58:29.26
+helpfulCount:
+1
+userID:
+16953409
+Display Name:
+Rose Munroe
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4277864.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was fabulous! The only difference is I added blueberries and raspberries to the layers as well.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-25T16:03:30.907
+helpfulCount:
+1
+userID:
+10935395
+Display Name:
+Happy in the Kitchen
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+462
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/967267.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+yum! I made it for thanksgiving and everyone loved it! I put it in a pie crust and sprinkled crushed nilla wafers in it.  This is a great pudding.
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-26T11:15:07.223
+helpfulCount:
+1
+userID:
+10818150
+Display Name:
+HB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the best Banana Pudding ever!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-16T12:29:33.793
+helpfulCount:
+0
+userID:
+1390152
+Display Name:
+Barbara Sue Andrews
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+142
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4774193.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Will definitely make again!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-04T20:49:16.85
+helpfulCount:
+0
+userID:
+16742629
+Display Name:
+paulap
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this today and everyone loved it. It was creamy but not too heavy.  Everyone loved the strawberries in it with the bananas. I might even add a few more next time. I make banana pudding frequently but I’ve never made it like this or with strawberries. It’s a definite keeper!!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-03T15:57:13.85
+helpfulCount:
+0
+userID:
+17947755
+Display Name:
+surus
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+370
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy Peasy and so impressive. I doubled the amount of strawberries and used all blueberries on top with some cookie crumbs and a big strawberry in the middle. I made three layers in a trifle dish and it looked like something out of a magazine. I took it to a dinner party and all 8 people had seconds and finished it off. I will definitely make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-16T01:00:16.573
+helpfulCount:
+0
+userID:
+9913462
+Display Name:
+dburbach
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+161
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn’t change a thing and this was great!  Only issue I had was it wasn’t all eaten the first day and the bananas got pretty black and slimy. Definitely doesn’t keep well but will keep that in mind next time I make it, there WILL be a next time :)
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-11T22:23:23.5
+helpfulCount:
+0
+userID:
+10770723
+Display Name:
+Nona
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+546
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I LOVED this recipe, and so did everyone I made it for! It was so delicious, looked beautiful in my glass bowl, and I will make it again and again and again!
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-21T15:46:49.143
+helpfulCount:
+0
+userID:
+9264485
+Display Name:
+Michelle Harris
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1574684.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I DID MAKE SOME CHANGES AND CROSSED TWO RECIPES 
+
+Banana Pudding Surprise & No Cook Banana Pudding Base
+
+1 package of both banana and vanilla pudding instant
+4 cups of water
+6 green bananas
+2 boxes of vanilla wafers
+1 can of coconut cream
+1 large tub of cool whip
+2 cups of either frozen or fresh cut up fruit of your choice
+
+I used a pan big enough to be able to do 2 -3 layers of each wafers, banana, whip cream 
+
+1st mix both types of pudding with milk and allow to chill for 2 hours
+in meantime if using frozen fruit take out to allow to start to thaw
+also allow coconut cream to chill as well
+take out and allow whip cream to semi thaw not too much about 30 mins out of freezer
+get pan ready with a layer of wafers 
+
+in a bowl mix one large scoop of whip cream and a 1/4 of coconut cream whip together
+fold in some fruit here is you like
+
+on the layer of wafers spread pudding about 1/4 
+cut up banana about 2 and layer on top of pudding
+spread a layer of mixed whip cream 
+repeat until done 
+cover is you can and either serve right away or allow to chill more its up to you
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-26T14:03:26.717
+helpfulCount:
+0
+userID:
+10816863
+Display Name:
+Twana Bowman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2879220.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes other than a strawberry in the middle on top as a garnishment.   Will definitely make again. Quick and easy! Loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-31T17:52:58.283
+helpfulCount:
+0
+userID:
+9146614
+Display Name:
+Vmay
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best banana pudding recipe! Made it today for a family dinner and received rave reviews from everyone!
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-27T06:52:57.957
+helpfulCount:
+0
+userID:
+10823111
+Display Name:
+bstric10
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe makes a delicious creamy pudding!! Best tasting banana pudding ever!!

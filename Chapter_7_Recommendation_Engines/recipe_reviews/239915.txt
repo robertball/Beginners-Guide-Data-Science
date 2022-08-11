@@ -1,0 +1,73 @@
+Recipe number:
+239915.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-17T00:27:33.5
+helpfulCount:
+0
+userID:
+4574772
+Display Name:
+Alicia Lynch
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+174
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1578551.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  Omitted lemon juice and mint but only because it wasn't on hand.  Didn't have fresh cilantro but squirted some from tube into dressing.
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-08T16:47:38.367
+helpfulCount:
+0
+userID:
+11596346
+Display Name:
+Drmomoftwins
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+add extra kale -- a little too much peanuts and needs more kale but overall delicious!!
+I tripled the kale and doubled the other ingredients.

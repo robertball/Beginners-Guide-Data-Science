@@ -1,0 +1,179 @@
+Recipe number:
+261228.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-15T13:16:27.133
+helpfulCount:
+6
+userID:
+5094301
+Display Name:
+Pat Nugent
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2632501.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Have used pickle brine for fried chicken for a number of years.  My wife, who was raised in Tenn., said that this recipe is very much used recipe in her home State.  Both of her grandmother's used it almost exclusively.  Do Not use the same recipe brine for your fried chicken that you use to make homemade pickles.  Way too strong.  Just regular pickle juice does the trick.  I know, I had to throw a batch of fried chicken out with that experiment.  Live & learn.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-17T17:15:44.55
+helpfulCount:
+1
+userID:
+4856449
+Display Name:
+Bob Betts
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2573233.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did this recipe with pork chops and it was awesome!!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-06T01:13:53.14
+helpfulCount:
+0
+userID:
+24143376
+Display Name:
+Lisa Lee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5692041.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I actually started making Pickle Chicken from another recipe that called for a 24-hour swim in the pickle juice. Not liking the final prep instructions over there I wandered over here to find THIS Pickle chicken. 
+GREAT double dip technique. Of course I had to make my own from milk and vinegar and it was even thicker than buttermilk. 
+I HIGHLY recommend THIS recipe. But do not let your chicken swim in pickle juice for 24 hours.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-17T16:03:01.36
+helpfulCount:
+0
+userID:
+8937272
+Display Name:
+fruitdog
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+312
+favoritesCount:
+724
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3930066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The BF loved this chicken! I didn't double dip the thighs because the coating seemed pretty thick and just fried them till done vs going in the oven because I'm more familiar with it. They did have this odd green-yellow hue from soaking in the brine, but the BF commented on how flavorful and juicy they were...so I will have to do this again!! Thank you
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-23T02:33:53.417
+helpfulCount:
+0
+userID:
+18212245
+Display Name:
+John Plummer
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3683697.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Brining works ok, but I took it a step further and injected it with the juice after brining. Much big pickle flavor!

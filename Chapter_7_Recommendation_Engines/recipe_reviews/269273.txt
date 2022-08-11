@@ -1,0 +1,37 @@
+Recipe number:
+269273.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-23T08:02:49.283
+helpfulCount:
+1
+userID:
+23972860
+Display Name:
+ChefRod
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe for hollandaise sauce is so simple to make,  normally one wrong step and it will curdle and become junk, I have made this 3 times now, and it always turns out perfectly, the more traditional French version also has finely sliced ham under the salmon.

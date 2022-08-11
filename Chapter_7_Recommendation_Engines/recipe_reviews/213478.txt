@@ -1,0 +1,72 @@
+Recipe number:
+213478.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-03T19:52:06.827
+helpfulCount:
+6
+userID:
+2702239
+Display Name:
+Damita Sexton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome recipe! My entire family loved it and none of them besides me loves Marmite. Excellent recipe and works great with substitutes like ground beef or cabbage.
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-20T20:18:40.83
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had never had Marmite before, but picked up a jar last month and was looking for a recipe to try it in before I tried it on toast. This was excellent. It added a nice yeasty tang to the dish that I really liked..

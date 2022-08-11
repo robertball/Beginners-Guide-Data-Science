@@ -1,0 +1,37 @@
+Recipe number:
+214677.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-06-11T08:39:48.977
+helpfulCount:
+13
+userID:
+4957235
+Display Name:
+Lil_MZ_JaZZy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/416536.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow. Thank you for the great recipe!!! i mean i actually dig there clams on a regular basis and if u live near the coast it wouldnt be a problem for me to find razor clams for you! But its great to try a new recipe with razor clams other then the traditional way. GREAT RECIPE!!!

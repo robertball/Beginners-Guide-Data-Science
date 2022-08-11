@@ -1,0 +1,37 @@
+Recipe number:
+272582.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-08T22:55:22.583
+helpfulCount:
+0
+userID:
+25409672
+Display Name:
+DrJames
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6578423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love the chicken meatballs and I wasn’t sure that I would. I am doing a whole30 diet so I had to omit all dairy and breadcrumbs for the recipe. I added in a Tablespoon of coconut flour to bind them. I cooked in the oven for twenty minutes and then another twenty or so in a pot of bubbling sauce. The taste was fantastic and a great alternative to beef/pork! Thank you

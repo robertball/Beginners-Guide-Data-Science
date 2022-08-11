@@ -1,0 +1,37 @@
+Recipe number:
+276831.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-27T23:53:07.977
+helpfulCount:
+1
+userID:
+25641063
+Display Name:
+Michelle Willyard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+221
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7192680.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I actually used this seasoning mixture on some fresh caught Alaskan halibut, and the flavor was delightful!  I'll definitely try this on pork chops next time around.

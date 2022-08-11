@@ -1,0 +1,37 @@
+Recipe number:
+280338.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-06-09T00:30:54.13
+helpfulCount:
+0
+userID:
+24986739
+Display Name:
+Scott
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don’t eat cheesecake but my wife loved it!

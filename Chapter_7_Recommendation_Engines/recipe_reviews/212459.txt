@@ -1,0 +1,73 @@
+Recipe number:
+212459.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-11-20T13:50:41.93
+helpfulCount:
+4
+userID:
+4205900
+Display Name:
+Megan Rae Duff
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7096415.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!!
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-10T12:20:35.113
+helpfulCount:
+0
+userID:
+8700376
+Display Name:
+livinhapaz
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1115478.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It got even better on the next day.
+The picture in this recipe is mine. I'll make more for thanksgiving.

@@ -1,0 +1,72 @@
+Recipe number:
+258187.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-30T04:37:21.44
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! I didn't really know what the orange drink was supposed to be (Tang? Koolaid? Orange Crush soda?) and 3 cups seemed a lot considering there was already going to be orange sherbet in it. I used some real orange juice and called it good. This was fun AND tasty and one I will make again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-04T15:41:17.947
+helpfulCount:
+0
+userID:
+23253967
+Display Name:
+Kimberly Vilhauer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5071802.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The punch itself turned out pretty tasty! I didn’t know what to use for “orange drink” so I actually substituted cran-mango juice. Very tasty, but the ending color of the punch was anything but!

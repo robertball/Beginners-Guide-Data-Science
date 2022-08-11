@@ -1,0 +1,72 @@
+Recipe number:
+255203.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-18T22:09:54.347
+helpfulCount:
+0
+userID:
+21907807
+Display Name:
+Suzy MacFarland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is great!  I never thought to bake my polenta.  I stood over the stove for about 30 minutes or more to make it.  I found an instant polenta but it is just not as good.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-06T20:35:56.253
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this stuff!.. Easy and delicious.  I added greek yogurt since I use that instead of sour cream in the house and sprinkled just the top with some Srirachia cheddar!  Will make this many times... soooo good!

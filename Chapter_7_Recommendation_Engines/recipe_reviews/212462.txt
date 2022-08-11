@@ -1,0 +1,107 @@
+Recipe number:
+212462.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-02T21:00:25.633
+helpfulCount:
+3
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There are many different versions of raspberry puree, so I think this recipe needs to be defined a little more as to which kind to use.  I thought this was sweet but very good, but maybe too sweet for a salad.  So then I mixed it with items that weren't sweet--arugula, red onion, feta, and then blueberries, too. That worked very well.  The vinegar I used was some I made from this site--Raspberry Vinegar II--and it had sugar in it, so that may be part of my problem.  The bottom line is that I will try this recipe again using a different kind of puree---maybe what you can get from a liquor store that is used in either alcohol or non-alcohol drinks.  I WILL be trying this again!  Thanks, Chef Ricky!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-23T02:46:44.773
+helpfulCount:
+0
+userID:
+12161113
+Display Name:
+Daybie Reed
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband was looking to replace store bought dressing for something with olive oil.  He really likes this.
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-24T09:55:13.79
+helpfulCount:
+0
+userID:
+20425805
+Display Name:
+Gillian Weeks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3942558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I couldn't find the oil mentioned so used Sesame oil instead also made a quarter batch. I made it and did like it so I have some I'm using in the fridge and another small container in the freezer but does anyone know how long in the fridge this will keep. It was quick and easy to make and a pleasant change on my Avocado salad.

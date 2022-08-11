@@ -1,0 +1,37 @@
+Recipe number:
+260961.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-08T23:28:09.923
+helpfulCount:
+1
+userID:
+16639058
+Display Name:
+Stevie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6199269.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I also spread chive cream cheese, spinach, and prosciutto instead of salami

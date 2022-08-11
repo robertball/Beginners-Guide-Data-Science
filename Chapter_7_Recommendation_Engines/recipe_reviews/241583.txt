@@ -1,0 +1,72 @@
+Recipe number:
+241583.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-31T04:33:38.527
+helpfulCount:
+0
+userID:
+4342706
+Display Name:
+Accepted in the Beloved
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4570615.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I add one packet artificial sweetener.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-05T19:21:23.127
+helpfulCount:
+0
+userID:
+23906512
+Display Name:
+Anya Walker
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5528996.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for something quick to make and it was delicious, I did half mango and half peaches when I did mine and it was great.

@@ -1,0 +1,37 @@
+Recipe number:
+276056.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-03T20:20:46.243
+helpfulCount:
+0
+userID:
+22170712
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+274
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5744620.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This came out very tender and delicious. We served it with mashed potatoes and green beans.

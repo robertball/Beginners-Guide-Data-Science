@@ -1,0 +1,37 @@
+Recipe number:
+255506.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-30T01:54:20.747
+helpfulCount:
+0
+userID:
+5402327
+Display Name:
+Derbakermom
+isPro:
+False
+followersCount:
+56
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+396
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2635460.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe, I might suggest a low temp oven bake so it's not too sticky, 225 for 30-45 minutes after the caramel is on the popcorn. Also, it takes well over 5 minutes for the sugar/Karo mixture to get to 245.

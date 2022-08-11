@@ -1,0 +1,72 @@
+Recipe number:
+246394.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-02T15:25:52.73
+helpfulCount:
+1
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very "simple and light" apple topping, and I liked it! I used orange juice instead of lemon juice because it's what I had, and it worked just fine. I cooked my apples on low heat for 10 minutes without adding any water and they still had a little crunch to them, which I liked. If you want them soft, you might need to add the water and cook longer. I used these to top my Ultimate French Toast. A delicious and filling breakfast.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-12T10:26:10.16
+helpfulCount:
+0
+userID:
+16318957
+Display Name:
+Ruth Carswell
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+147
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2923468.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this several times, but I used Splenda brown sugar blend and left out the raisins.  It's good with pork roast

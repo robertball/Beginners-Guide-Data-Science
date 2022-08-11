@@ -1,0 +1,72 @@
+Recipe number:
+257726.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-17T22:42:21.437
+helpfulCount:
+3
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+765
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I grew up eating Ragout de Boulettes, served over potatoes. As a French Canadian, my mom, my aunts and grandmothers each had their own variation.  These were different than what I'm used to - mostly the seasonings and the method - but still tasty.   I didn't have enough flour left over to thicken at the end, so I ended up having to use a bit of cornstarch since I didn't have time to brown more flour. Thanks for sharing!
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-20T22:16:25.843
+helpfulCount:
+0
+userID:
+10410966
+Display Name:
+Kelly Mahaney
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1518371.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not use flour.  I mixed the cloves,  cinnamon, mustard powder, s&p together then rolled meatballs in it.  Browned meatballs, then added a small amount of water matched by a small amount of white wine.  Cooked about 30 minutes. Delicious.

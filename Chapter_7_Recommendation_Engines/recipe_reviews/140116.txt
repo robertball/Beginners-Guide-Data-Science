@@ -1,0 +1,108 @@
+Recipe number:
+140116.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-10-10T14:06:31.11
+helpfulCount:
+5
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Smirnoff citrus vodka, fresh squeezed grapefruit juice and organic orange juice. This was so different from 
+what I usually drink, but fabulous all the same. Really refreshing. You almost can't tell you're drinking alcohol.
+Review:
+Rating:
+5
+dateLastModified:
+2008-06-24T18:21:51.133
+helpfulCount:
+1
+userID:
+2108932
+Display Name:
+OStreetGuy
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+86
+favoritesCount:
+312
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/191767.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn’t think I was really going to care for this much, what with the grapefruit juice, which I don’t really care for all that much.  What a pleasant surprise I got!  I tried these out the other weekend at a pool party.  They were really good and everyone enjoyed them.  So, of course we played around with the second batch a tad and turned them into what we ended up calling a Rocky Rita!  Anyway you look at it, recipe as given or altered to fit the fun, thanks for sharing, they were great and enjoyed by all!
+Review:
+Rating:
+1
+dateLastModified:
+2009-02-22T08:12:58.55
+helpfulCount:
+0
+userID:
+1894325
+Display Name:
+Shannon McGarry
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2688994.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No flavor.  Very bitter.  A waste of Absolut mandarin!

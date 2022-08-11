@@ -1,0 +1,107 @@
+Recipe number:
+11319.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-11-21T19:03:25.32
+helpfulCount:
+14
+userID:
+2476864
+Display Name:
+Estee Fraser (Pinchasin)
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+131
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/543779.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Substituted the espresso with Ghirardelli chocolate hazelnut cocoa powder.
+Review:
+Rating:
+5
+dateLastModified:
+2001-10-30T15:04:04.437
+helpfulCount:
+14
+userID:
+477154
+Display Name:
+BARB KNEZOVICH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Unusual and delicious Italian pastry. Freezer friendly. One of my favorites.
+Review:
+Rating:
+2
+dateLastModified:
+2008-04-13T07:00:37.503
+helpfulCount:
+6
+userID:
+2251094
+Display Name:
+CakeMama
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+175
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While I love chocolate and hazelnuts, I found this cookie to have a certain unpleasant bitterness.  It was too dense and not chocolatey enough for my American tastes.

@@ -1,0 +1,72 @@
+Recipe number:
+263718.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-19T23:42:49.473
+helpfulCount:
+0
+userID:
+4292545
+Display Name:
+Dick Mayer
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2150397.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Five stars for sure. This is an elegant way to serve tilapia. My wife thinks I am  the best. I changed nothing and really enjoyed the tang of the capers. I am going to prepare this tonight,  this will be my third time.
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-26T00:43:00.607
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+775
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3991
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is wonderful! I made it exactly as the recipe said, but next time, I will not use two different pans. I will remove the fish, then pour in the cream, and deglaze the pan. It made a prettier photo to use two pans, but did not add to the flavor. With that said, though, I loved this recipe and will definitely make it again. I served the fish over jasmine rice and poured extra sauce over the rice.

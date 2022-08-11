@@ -1,0 +1,406 @@
+Recipe number:
+13177.txt
+Review:
+Rating:
+1
+dateLastModified:
+2002-08-25T15:13:45.513
+helpfulCount:
+25
+userID:
+682133
+Display Name:
+LEANNE RUTZ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really bland, kind of like lobster meat floating in thickened milk. The best part about it was the lobster meat, which would have been better used in another recipe.
+Review:
+Rating:
+1
+dateLastModified:
+2003-02-04T10:40:03.78
+helpfulCount:
+17
+userID:
+786657
+Display Name:
+MERESWARTZ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was not at all what I was expecting.  It is very easy to make, but there is no taste to it...AT ALL.  I tried to spice it up by adding a can of creamy tomato soup.  It helped a little, but not enough.
+Review:
+Rating:
+5
+dateLastModified:
+2001-02-15T08:16:00.75
+helpfulCount:
+16
+userID:
+201435
+Display Name:
+CHRIS523
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple, Delicious and elegant!  This was the perfiect second course for my light
+three course dinner on Valentine's Day!  Thank-you!  Rich, yet smooth and light.
+Review:
+Rating:
+3
+dateLastModified:
+2000-12-21T07:42:58.45
+helpfulCount:
+12
+userID:
+231448
+Display Name:
+ERIC BERGGREN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is quick and easy recipe.  It's not bad- If taste is not important to you.
+Review:
+Rating:
+5
+dateLastModified:
+2006-04-20T09:42:39.107
+helpfulCount:
+9
+userID:
+1859858
+Display Name:
+SuperMom4
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/154.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and shared it with my co-workers for an office luncheon... they have been begging me to make it again ever since!!! I added just a dash of cayenne to the recipe - just enough to add a little flavor and not a lot of heat. It was absolutely wonderful. Thank you.
+updated changes(8/17/07): added about a tblspoon of tomato paste before adding half and half; used cream sherry instead of dry sherry; added two slices of american cheese with the half and half.
+Review:
+Rating:
+1
+dateLastModified:
+2007-07-24T14:49:27.583
+helpfulCount:
+8
+userID:
+2436634
+Display Name:
+shannon_s
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this recipe was horrible. I was highly disappointed with the way it turned out. As someone else  stated, it tasted like warm milk with lobster cubes in it.
+Review:
+Rating:
+4
+dateLastModified:
+2005-10-14T22:00:11.31
+helpfulCount:
+7
+userID:
+1517531
+Display Name:
+Wylder
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried out this recipe a little while ago, and with a couple substitutions, it was great. Neither myself or my husband like onions so I omitted them, then added cayenne for a bit of a hot flick, and wow!!! I was amazed at how close it got to restaurant quality, if you like spice try the cayenne, its worth it:) thanks for the great recipe base!!
+Review:
+Rating:
+2
+dateLastModified:
+2010-07-08T05:53:57.047
+helpfulCount:
+6
+userID:
+4144336
+Display Name:
+piperwings
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+356
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i agree with others - very bland.  even my husband thought it tasted like warm flour.  i added more sherry, some white wine, old bay seasoning and a dash or two of worcestershire sauce to give it some taste and probably put in 2 cups of cooked lobster.  after letting it simmer for almost an hour, we had more taste.   i love my lobster.  ended up with a good bisque, but wanted a fabulous bisque.
+Review:
+Rating:
+3
+dateLastModified:
+2010-02-10T06:10:56.843
+helpfulCount:
+5
+userID:
+4113624
+Display Name:
+Antoinette
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would suggest that when making bisque, you allow it to mellow overnight.  The flavors are much more intense when the lobster infuses the broth.
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-21T00:48:28.523
+helpfulCount:
+0
+userID:
+9615882
+Display Name:
+Aja
+isPro:
+False
+followersCount:
+350
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+542
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2512199.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good recipe - considering some of the recommended changes from previous reviews. Yes, this does need a bit extra flavor, so cayenne and salt is much needed. I have been doing more gluten-free meals so I subbed the all-purpose flour for coconut flour. Overall, a tasty bisque with needed enhancements.
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-03T18:39:28.12
+helpfulCount:
+0
+userID:
+16106734
+Display Name:
+Lonely Ranger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2453533.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great base recipe!!!
+
+I added three table spoons of tomato paste, for the wow factor.
+Half a tea spoon of chili peppers. I like a little heat.
+
+Doubled the veggies and added two small Yukon gold potatoes; made the soup thick.
+
+Quarter of a tea spoon of fresh ground black pepper. My food is spicy and so is my life.
+Two table spoons of crushed garlic. Just enough to scare vampires away.(:
+
+Four table spoons of fish sauce. Gave it that sea food taste I was looking for.
+
+Two cups of half and half cream. The extra cream smoothed everything out.
+
+Then I blended it all in my Blendtec blender and back on the stove for 5 minutes on low. 
+Thick creamy full flavored rich and spicy lobster bisque soup to die for. Yum yum!!!
+Omit chili peppers if you don't like heat.
+Ranger out!

@@ -1,0 +1,72 @@
+Recipe number:
+150924.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-24T14:02:19.227
+helpfulCount:
+13
+userID:
+3334879
+Display Name:
+Kittywitch
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/158316.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was very Good. Made it with Raspberries without the sweet and sour, and it was just as good as a strawberry daiquiri.  need to have a beefy blender, though. It was very thick.
+Review:
+Rating:
+4
+dateLastModified:
+2011-04-09T18:09:49.113
+helpfulCount:
+3
+userID:
+163054
+Display Name:
+Kelly Walsh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8250821.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very good as is.  In order to add a little something extra, though, I tried adding a splash each of blackberry brandy and triple sec, and that was excellent.

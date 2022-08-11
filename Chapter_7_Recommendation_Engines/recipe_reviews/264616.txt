@@ -1,0 +1,107 @@
+Recipe number:
+264616.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-06-26T15:44:57.707
+helpfulCount:
+1
+userID:
+5966039
+Display Name:
+Basset5
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+156
+favoritesCount:
+797
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2450632.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was very tempted to brown the beef before adding it to the slow cooker but I stayed true to the recipe except for a splash of Worcestershire sauce which did not help, This came out more like a beef stew than goulash. I suggest doubling the paprika and browning the onions and beef before adding to the slow cooker.
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-21T20:14:27.797
+helpfulCount:
+0
+userID:
+16353983
+Display Name:
+Joseph Matovich
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2596258.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came out a bit to sweet. I'll try again because I like goulash. a lot! going to try to adjust the spices.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-12T14:22:17
+helpfulCount:
+0
+userID:
+20666589
+Display Name:
+anna hoffman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4094791.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would make it again. Very easy and delicious

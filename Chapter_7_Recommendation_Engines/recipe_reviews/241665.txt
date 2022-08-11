@@ -1,0 +1,37 @@
+Recipe number:
+241665.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-16T07:30:52.94
+helpfulCount:
+0
+userID:
+12562207
+Display Name:
+beachwalk1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am a great cook, but can't bake worth a darn... This brownie mix worked very well, and lunch guests asked for more. Just bought another box.

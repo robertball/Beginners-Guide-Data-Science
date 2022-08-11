@@ -1,0 +1,37 @@
+Recipe number:
+246650.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-20T02:11:22.683
+helpfulCount:
+0
+userID:
+6428089
+Display Name:
+Paual
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7325726.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This granola is good and crunchy. Because I can't have coconut oil, I used avocado oil instead, which probably gave less flavor than the original recipe, but was still good. I also ended up adding some dried cranberries for a little tang. I think I might peel the apples next time even though it would reduce the amount of fiber.

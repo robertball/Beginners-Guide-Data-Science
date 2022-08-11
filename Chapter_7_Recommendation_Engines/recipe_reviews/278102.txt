@@ -1,0 +1,37 @@
+Recipe number:
+278102.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-21T00:51:55.633
+helpfulCount:
+0
+userID:
+8220531
+Display Name:
+Connie Horner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+374
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2093616.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great juicy pork chops. Easy too. Loved them.

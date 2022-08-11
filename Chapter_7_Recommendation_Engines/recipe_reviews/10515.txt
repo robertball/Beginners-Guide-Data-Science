@@ -1,0 +1,256 @@
+Recipe number:
+10515.txt
+Review:
+Rating:
+5
+dateLastModified:
+2000-12-26T16:55:19.81
+helpfulCount:
+48
+userID:
+235146
+Display Name:
+NANCY-PGH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sugar-free cookie is really good as is, but I took it a step further and used this as a thumbprint cookie, putting the indentation in the middle before baking and then filling the "thumbprint" with sugar-free jelly after they cooled. This really made a fantastic cookie even better!!!
+Review:
+Rating:
+3
+dateLastModified:
+2005-03-06T16:55:20.653
+helpfulCount:
+26
+userID:
+1368995
+Display Name:
+ROYALBLUE33179
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hello, my dad is a diabetic and wanted to make him some cookies. I made a couple of alterations to make this recipe actually taste good instead of plan like many many recipes! LOL! OK, I talk alot. . . let me tell you what I did: 
+  I only made half the recipe first.
+  I substituted 2 Tablespoons of artificial sweetener and used 2 Tbs of fresh squeezed orage juice. I didn't use half of that amount because I really wanted the taste of it.
+  1/2 of vanilla and of course the margarine
+  Instead of adding water I again used 2 Tablespoons of orange juice :)
+  1 cup of flour
+  Since I didn't have any peanuts or peanut butter with nuts I didn't use the egg white or the peanuts; I used instead 1/2 cup of creamy peanut butter, 1/2 cup of raisins, and I grated a large, fresh orange and used half of the gratings, plus I used a dash of nutmeg and cinnamon.
+  Every oven seems to cook or bake differently anyway it baked very nicely for 20 minutes. They came out soft and a little sweet because of the raisins. I will make it again.
+  You can e-mail me at royalblue33179@AOL.com about my alterations in this recipe, tell me what you think. Type in the subject box peanut butter cookies.
+ Goodbye and happy baking.
+Review:
+Rating:
+1
+dateLastModified:
+2001-12-19T20:19:52.217
+helpfulCount:
+21
+userID:
+540410
+Display Name:
+DMARIES
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Something must be missing--probably an egg.  When I took these out of the oven, they literally disintegrated!  Looking at the recipe now, I see there's nothing to bind the cookies--it's basically butter and flour.  Add an egg, and these would probably be very tasty.
+Review:
+Rating:
+4
+dateLastModified:
+2007-12-31T13:11:22.9
+helpfulCount:
+17
+userID:
+2716478
+Display Name:
+JSB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+130
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are great, considering they're sugar free.  I did make some alterations: I used 1/2 C dairy-free margarine (Nucoa) and 1/2 C peanut butter instead of 1 C margarine.  I also put an additional teaspoons of vanilla in after tasting the dough.  I added 1 Tablespoon of honey in addition to the artificial sweetner.  Also, since I can't have gluten, I used 1 2/3 C brown rice flour and 1/3 C amaranth flour.  I made one tray, and was wishing they were a little sweeter, so I dipped the tops of the rest in Xylitol (after rolling in peanuts).  They come out looking glossy on top, but delicious!
+Review:
+Rating:
+1
+dateLastModified:
+2002-12-22T16:42:21.247
+helpfulCount:
+6
+userID:
+759841
+Display Name:
+DELILAMYST
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very dry and tasteless...kind of like a biscuit with nuts
+Review:
+Rating:
+1
+dateLastModified:
+2007-12-16T20:08:35.257
+helpfulCount:
+3
+userID:
+2683516
+Display Name:
+Kimmy60
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was possibly the worst recipe that I have ever tried.  It was not to our liking at all.
+Review:
+Rating:
+1
+dateLastModified:
+2010-05-10T15:28:32.05
+helpfulCount:
+2
+userID:
+4863301
+Display Name:
+jane48
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+poor must be some errors

@@ -1,0 +1,107 @@
+Recipe number:
+275009.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-27T18:54:52.15
+helpfulCount:
+0
+userID:
+26943620
+Display Name:
+Jaycee Stearman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7663404.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very solid muffin recipe! Super easy, but like one of the other reviews said, the oven heat / cook time is a bit off.  I set my oven to 350 and baked for about 23 / 25 minutes and they were good as gold.  Very delicious, I added a bit of cinnamon to give it a bit of oomph.  They do stick to the muffin wrapper,  but that's the only real downside.  They taste delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-30T11:54:45.997
+helpfulCount:
+0
+userID:
+25503806
+Display Name:
+Kerry
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe! My fiance devoured them!!
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-13T11:40:40.513
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are a nice basic muffin that can accommodate different add-ins and flavors.  I do recommend a few changes. The oven temp was too high (at least in my gas oven) and after 10 mins these were starting to get too brown, so I lowered the temp to 350F. Even so, they were more than done after 20 minutes and I should have pulled them a little sooner.  These stuck to the paper liners if trying to eat them warm, as suggested, but they were fine once cooled.  There was plenty of batter, so you will want to fill the muffin cups way more than 2/3 full, or just make a couple extra muffins. I brought these to work and they were devoured instantly.

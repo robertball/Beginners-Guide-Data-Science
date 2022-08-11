@@ -1,0 +1,37 @@
+Recipe number:
+275525.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-12T00:58:27.16
+helpfulCount:
+0
+userID:
+5118896
+Display Name:
+fabeverydayblog
+isPro:
+False
+followersCount:
+160
+followingCount:
+0
+madeRecipesCount:
+474
+favoritesCount:
+312
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It’s a really involved meal that takes some time to make, but the results are worth it! Savory and delicious without being too heavy, made exactly as written.

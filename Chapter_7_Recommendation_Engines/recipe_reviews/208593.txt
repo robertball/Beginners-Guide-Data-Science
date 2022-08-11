@@ -1,0 +1,72 @@
+Recipe number:
+208593.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-15T07:37:24.12
+helpfulCount:
+7
+userID:
+2533918
+Display Name:
+halster
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+207
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/248073.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm rating this recipe for what it is: a creamy chocolate fix in less than 10 minutes with 2 or 3 ingredients. Delish! I used the Extra Creamy variety of Cool Whip for a better flavor. A few words of caution: if you use milk chocolate instead of dark or bittersweet, it will be so sugary that your teeth will rot away before you even finish your dish. And as with any recipe like this, just make sure you temper your chocolate with a small amount of Cool Whip so you end up with a smooth and blended mousse instead of hardened flecks of chocolate throughout.  Enjoy!
+Review:
+Rating:
+4
+dateLastModified:
+2011-01-02T07:30:35.487
+helpfulCount:
+4
+userID:
+3415982
+Display Name:
+Natalie Hahn
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+228
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4517848.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My kids loved this so much they learned how to make it themselves.  Like others, we didn't cool the chocolate the first time and so we ended up with "flecked" mousse.  The second time we made it, we blended a bit of the cool whip into the chocolate to cool it and had a nice dark finish.  the kids decided they liked the flecked version better, and now they make it on their own.  Nice and easy sweetness!

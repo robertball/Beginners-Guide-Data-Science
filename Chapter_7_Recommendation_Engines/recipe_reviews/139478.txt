@@ -1,0 +1,217 @@
+Recipe number:
+139478.txt
+Review:
+Rating:
+2
+dateLastModified:
+2007-09-12T13:24:34.587
+helpfulCount:
+13
+userID:
+2255136
+Display Name:
+CHELS
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+264
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I love gorgonzola cheese and olives seperately, but after trying this, I discovered that I don't like them combined.
+Review:
+Rating:
+3
+dateLastModified:
+2007-06-16T18:17:35.793
+helpfulCount:
+7
+userID:
+1274229
+Display Name:
+PammyT
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+692
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Interesting recipe ... we are black olive lovers so we were excited to try this.   Not sure what we did wrong, but the cheese didn't stay in them very well.  The taste was pretty good, although I guess we aren't huge Gorgonzola cheese fans.   We'd like to try these again though with maybe a different type cheese.
+Review:
+Rating:
+3
+dateLastModified:
+2007-09-24T07:19:49.767
+helpfulCount:
+5
+userID:
+1397746
+Display Name:
+CALLY5
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They really don't look that great, but sure do taste awesome! We all fought over the last one! Would make again.
+Review:
+Rating:
+3
+dateLastModified:
+2008-02-24T20:54:47.15
+helpfulCount:
+4
+userID:
+2821491
+Display Name:
+Foodie Girl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was just OK.  The general opinion was that the flavor was alright, but we would have liked a stronger cheese.  It's the only fried dish I've served that our friends haven't devoured.  Also, the olives were a bit difficult to stuff and the third can of olives was not necessary.
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-07T18:14:47.587
+helpfulCount:
+2
+userID:
+2890182
+Display Name:
+Lillian
+isPro:
+False
+followersCount:
+260
+followingCount:
+0
+madeRecipesCount:
+228
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2947921.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the fried olives using the following stuffing and it worked great! So I'll give you 5 stars for your fried olive idea!
+2 cans colossal size pitted black olives.
+4oz. fat free cream cheese.
+2 tbls. part skim ricotta cheese.
+1 large clove garlic made into a paste with a pinch of kosher salt.
+1 tsp. minced jarred jalapenos.
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-17T19:51:11.373
+helpfulCount:
+1
+userID:
+17542734
+Display Name:
+Jillian P
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After searching for more than 25 minutes for a deep fried black Olive recipe, I found your site.  It took me straight to the recipe without a thousand different websites sending me somewhere I did not wish to go.  Yours is the first cooking site I gave my email to.  Thank you sincerely and I look forward to accessing your wonderful recipes in the very near future.  Jill P

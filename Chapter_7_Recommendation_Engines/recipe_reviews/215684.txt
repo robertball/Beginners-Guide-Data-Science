@@ -1,0 +1,107 @@
+Recipe number:
+215684.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-27T14:45:25.11
+helpfulCount:
+3
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Please note that I made a major change! Instead of making boats, I skipped the boiling step and diced the zucchini. I put the zucchini in the baking dish and mixed it with the other ingredients, with the 1 T of parm on top.  (oh, and I omitted bread crumbs because I didn't have any on hand). I baked for 20 minutes, broiled for 3. My family loved it and gobbled it up.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-13T15:01:06.563
+helpfulCount:
+1
+userID:
+23157040
+Display Name:
+China
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+358
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I  believe the recipe is correct. Of the 5 tablespoons  of breadcrumbs, 4 of them is 1/4 cup and the other tablespoon is sprinkled on top. Anyway that's how I did it. It came out great.
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-08T16:28:23.277
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I reduced the cooking time (we prefer zucchini a little crisp) and this was pretty darn good. The 1/4 cup of breadcrumbs was left off of the ingredient list so be sure to make note of that when planning. It should be 1/4 cup + 5 tablespoons, divided. 1/4 cup goes in the filling and then the rest if to sprinkle on the top.

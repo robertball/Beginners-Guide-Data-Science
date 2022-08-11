@@ -1,0 +1,72 @@
+Recipe number:
+273796.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-08T03:15:31.84
+helpfulCount:
+1
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1033
+favoritesCount:
+1847
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are delicious!  I would recommend using very large shrimp and small jalapeños as I had shrimp left over and I only started with a pound.  I think very large shrimp would have made this recipe perfect!
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-04T16:25:32.133
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great flavor combo! I only used a pound of shrimp and was able to fit two in each jalapeno half and still had shrimp leftover. The one thing I did not care for is that the shrimp get overcooked in the time it takes to brown the bacon. I recommend pre-cooking the bacon a bit first to eliminate the overcooking of the shrimp. Overall good recipe and one that would be a hit at your next cookout.

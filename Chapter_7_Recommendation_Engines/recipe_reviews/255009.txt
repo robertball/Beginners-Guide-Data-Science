@@ -1,0 +1,37 @@
+Recipe number:
+255009.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-07T23:22:59.93
+helpfulCount:
+0
+userID:
+7577878
+Display Name:
+4boysmom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+197
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are DELICIOUS! I made them exactly as the recipe reads. I was hesitant because the recipe calls for a LOT of sugar and a LOT of butter! But it makes a very large batch, great for a holiday gathering. They hold together rather well when cutting, though crumbly and messy when eating them. I accidentally added the cinnamon and nutmeg to the crust mix also but still also added it to the “apple” mixture and it was amazing. I pressed the crust on top but next time I would more so sprinkle it so that it looks more crumby. No one will EVER know that this is not apple! Enjoy!!!

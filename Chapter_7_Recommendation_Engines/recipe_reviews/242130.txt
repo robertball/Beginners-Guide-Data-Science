@@ -1,0 +1,107 @@
+Recipe number:
+242130.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-19T12:23:15.547
+helpfulCount:
+4
+userID:
+982699
+Display Name:
+PARABIANS
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+74
+favoritesCount:
+230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1131629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this using my Ninja.   Came out pretty good. I didn't have almonds  or hempseed so I didn't include them.  This will be my Sunday afternoon treat, thanks for the recipe
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-09T17:24:10.14
+helpfulCount:
+1
+userID:
+16380317
+Display Name:
+Kimberly Joy 
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+532
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4513700.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an awesome recipe. I had to make something for my mom (she is going off sugar) and for my sister (she is going dairy free.) It takes a long time to find a recipes that don't have much sugar (or none) and has no dairy also. Also I can't have kiwi or pineapple which makes it even harder.
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-03T17:42:55.75
+helpfulCount:
+0
+userID:
+23564789
+Display Name:
+Simply Sweet
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5294204.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the recipe but,I put it in the freezer so it would be more ice cream like.

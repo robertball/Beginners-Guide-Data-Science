@@ -1,0 +1,107 @@
+Recipe number:
+232038.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-21T13:56:43.247
+helpfulCount:
+1
+userID:
+21577088
+Display Name:
+L P
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super delicious recipe, impossible to mess up. Can be messy but would be fun to make   with the kids!
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-12T18:19:53.24
+helpfulCount:
+0
+userID:
+25514149
+Display Name:
+Carlos Ortiz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+238
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6600518.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, will make again.  I am a bit biased, though, as I am a cookie fanatic.
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-22T12:53:55.1
+helpfulCount:
+0
+userID:
+18001082
+Display Name:
+mraguilerafish
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tried this one night when we had a bbq pizza party. Came out great and was a big hit. We even baked this in the bbq.

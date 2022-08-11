@@ -1,0 +1,37 @@
+Recipe number:
+64591856.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-06T22:36:03.547
+helpfulCount:
+0
+userID:
+20230720
+Display Name:
+Susie D
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this sauce to brush skewers of chicken, red peppers, purple onions, and fresh pineapple wedges.  The sauce worked really well for that plus we had some to serve along side.  Yum! Thanks for sharing the recipe! ...... Susie D

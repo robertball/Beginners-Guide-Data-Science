@@ -1,0 +1,62 @@
+Recipe number:
+121153.txt
+Review:
+Rating:
+5
+dateLastModified:
+04/13/2011
+helpfulCount:
+5
+userID:
+sher_bear1
+Display Name:
+Sherbear1
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/688244.jpg
+text:
+These were very good.  I didnt have lemon juice so I used some 1 teaspoon lemon extract, it worked great.  Also after pouring the cheesecake over the crust I added some strawberry jelly and made swirls.  Tasted like strawberry lemonade.  Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+03/24/2008
+helpfulCount:
+2
+userID:
+16640522
+Display Name:
+Stephanie Zartman
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2716602.jpg
+text:
+We really enjoyed this. Thanks for a good recipe.
+Review:
+Rating:
+5
+dateLastModified:
+08/08/2011
+helpfulCount:
+1
+userID:
+5759050
+Display Name:
+Nicole Muilenburg
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These are very good.  I didn't have whipping cream so I used sour cream.
+Review:
+Rating:
+5
+dateLastModified:
+05/27/2012
+helpfulCount:
+0
+userID:
+1796549
+Display Name:
+shannong
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Great recipe.  Followed exactly except I used walnuts.  Easy and yummy.  Thanks for sharing!

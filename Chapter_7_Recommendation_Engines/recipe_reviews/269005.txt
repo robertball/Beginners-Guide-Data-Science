@@ -1,0 +1,37 @@
+Recipe number:
+269005.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-26T19:23:19.693
+helpfulCount:
+0
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1033
+favoritesCount:
+1847
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was very enjoyable- the second day.  I'm currently eating it for lunch and it's much better than it was for dinner last night.  Last night I was not impressed at all, but today the flavors seem to have developed.  If I were to make this again I'd forgo the brown rice- it took longer to cook than called for in the recipe  and I don't think that the texture works well in this one.  Also, I think the recipe assumed that I was using a narrower link of chorizo than is offered at my grocery store and I ended up with rather large pieces, I wish I had diced it instead of slicing as called for.

@@ -1,0 +1,107 @@
+Recipe number:
+101474.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-05-14T10:56:14.64
+helpfulCount:
+2
+userID:
+939980
+Display Name:
+Butterfly Flutterby
+isPro:
+False
+followersCount:
+164
+followingCount:
+0
+madeRecipesCount:
+1112
+favoritesCount:
+889
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious, my only complaint was that I didn't get much of a marinade flavor. This was ok, because I liked the flavor of the meat, but I think that next time I will allow the meat to marinade overnight. Thanks for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2006-07-26T04:47:28.733
+helpfulCount:
+1
+userID:
+1902774
+Display Name:
+Angie Beliveau
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+88
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/26763.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Like the other reviewer. PLEASE, PLEASE, PLEASE let this sit for longer than 1 hour. I let mine sit for 8 and it was great. I don't have an outside grill so used the inside one and it was wonderful! This is my new steak recipe from now on. Thanks for the posting.
+Review:
+Rating:
+5
+dateLastModified:
+2006-09-01T16:33:53.7
+helpfulCount:
+0
+userID:
+595916
+Display Name:
+JDVMD
+isPro:
+False
+followersCount:
+162
+followingCount:
+0
+madeRecipesCount:
+1625
+favoritesCount:
+1530
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/408423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really liked the flavor of this. Used with ribeyes. Next time, I may try to use rosemary combined with the thyme.

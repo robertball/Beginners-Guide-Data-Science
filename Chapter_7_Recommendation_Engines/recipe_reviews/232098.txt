@@ -1,0 +1,72 @@
+Recipe number:
+232098.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-10-28T16:14:26.74
+helpfulCount:
+2
+userID:
+844886
+Display Name:
+It's A New Day
+isPro:
+False
+followersCount:
+288
+followingCount:
+0
+madeRecipesCount:
+450
+favoritesCount:
+522
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/615239.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We weren't a fan.  It really tasted like Worcestershire Sauce to me.  Husband asked to go back to our old recipe.  Sorry, but we won't be making this again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-01T09:04:01.77
+helpfulCount:
+0
+userID:
+542456
+Display Name:
+ONI1ST
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3999288.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Has become a favourite.

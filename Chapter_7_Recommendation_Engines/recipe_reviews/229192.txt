@@ -1,0 +1,77 @@
+Recipe number:
+229192.txt
+Review:
+Rating:
+5
+dateLastModified:
+10/24/2012
+helpfulCount:
+7
+userID:
+doublewideskilletsinglewidebudget
+Display Name:
+Sarah Jo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/699445.jpg
+text:
+This is even better with Smirnoff Whipped Cream Vodka. It tastes like a float!
+Review:
+Rating:
+5
+dateLastModified:
+10/23/2012
+helpfulCount:
+3
+userID:
+10091678
+Display Name:
+thug
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Delicious! I love 7UP Cherry but even more so with some vanilla vodka!
+Review:
+Rating:
+5
+dateLastModified:
+10/24/2012
+helpfulCount:
+1
+userID:
+10147153
+Display Name:
+jennyjonesshow
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Perfect simple at home mixer!
+Review:
+Rating:
+5
+dateLastModified:
+10/08/2014
+helpfulCount:
+1
+userID:
+14279972
+Display Name:
+MeganV
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I added lime slices to neutralize the sweetness of the cherry 7up.
+Review:
+Rating:
+5
+dateLastModified:
+12/29/2012
+helpfulCount:
+1
+userID:
+1720428
+Display Name:
+Terri Penaflorida-Lotto
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2219944.jpg
+text:
+So yummy super easy to mix. This is going to be my new year's drink served in a champagne flute with frozen maraschino cherries. May even try diet cherry 7up.

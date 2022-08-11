@@ -1,0 +1,113 @@
+Recipe number:
+272782.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-20T22:05:57
+helpfulCount:
+0
+userID:
+7956789
+Display Name:
+blueplate
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+84
+favoritesCount:
+307
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/831890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this cake. Its not super sweet and the strawberry flavor is  wonderful. Thanks for posting.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-26T18:50:55.58
+helpfulCount:
+0
+userID:
+21946495
+Display Name:
+Lori Schreiner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6736593.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Omg this is very,very delicious.  I made this for me and my husband.I will make this again. Thanks for the recipe. My husband and I loved it.
+Review:
+Rating:
+1
+dateLastModified:
+2019-05-23T18:12:50.41
+helpfulCount:
+0
+userID:
+16542346
+Display Name:
+Barbara Amidon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6208576.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Recipe issues. 
+
+For butter in cake is it 1/4 or 1/2.  Ingredients say ‘divided’ but directions say 1/2
+
+Re Stawberry purée.  Is it one cup then purées or a cup of already puréed?
+
+Came out dense.  Frosting needed milk to. E spreadable.

@@ -1,0 +1,47 @@
+Recipe number:
+238852.txt
+Review:
+Rating:
+4
+dateLastModified:
+10/29/2018
+helpfulCount:
+0
+userID:
+4511954
+Display Name:
+Mitsuko Fredrickson
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5172126.jpg
+text:
+I made it for us two and it was way too much though tasted good.
+Review:
+Rating:
+5
+dateLastModified:
+07/24/2015
+helpfulCount:
+0
+userID:
+16050059
+Display Name:
+Lori
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I have tasted this recipe and it is delicious one of the best I've had and better than my own! Will definitely be making this at home. Looks easy!
+Review:
+Rating:
+5
+dateLastModified:
+09/16/2015
+helpfulCount:
+0
+userID:
+10357941
+Display Name:
+dcwerk
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+We loved this. Light and fresh. We skipped the salsa no need for it. Tastes better the longer it sits.

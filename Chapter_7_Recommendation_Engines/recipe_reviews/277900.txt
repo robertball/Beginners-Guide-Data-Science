@@ -1,0 +1,107 @@
+Recipe number:
+277900.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-10T01:15:02.077
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an excellent method for a salsa with depth. I really enjoyed it. I am not a fan of garlic, so I halved the amount. Thank you for this recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-05T00:50:11.287
+helpfulCount:
+0
+userID:
+26103360
+Display Name:
+Numu
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes and yes I’ll make it again
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-28T20:10:48.993
+helpfulCount:
+0
+userID:
+26770536
+Display Name:
+Paul Tannos
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7529547.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made mine chunkier and more onions.  Came out great.

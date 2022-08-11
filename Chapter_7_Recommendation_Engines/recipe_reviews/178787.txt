@@ -1,0 +1,37 @@
+Recipe number:
+178787.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-16T18:18:39.187
+helpfulCount:
+3
+userID:
+541834
+Display Name:
+Lisa Altmiller
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+167
+favoritesCount:
+762
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6840434.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these for a group of friends last night and every one loved them.  The key is to make sure they are bite sized - you must put the whole piece in your mouth or you'll make a mess!  I spread 1/3 cup of mozzerella on each side, instead of the 1/4c that the recipe called for just to make the bites a bit sturdier.  I spread the mozzerella around the phyllo dough, kind of like a barrier, to help keep the chowder from seeping out.  Will definitely use again and may tweak for other flavors.

@@ -1,0 +1,37 @@
+Recipe number:
+274204.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-11-11T16:07:29.58
+helpfulCount:
+0
+userID:
+26441174
+Display Name:
+Christina Ravens Bridges
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7270513.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tangy flavor, dry and tough texture.  Okay with sausage or jam but not on its own.

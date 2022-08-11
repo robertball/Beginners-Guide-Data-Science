@@ -1,0 +1,37 @@
+Recipe number:
+272513.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-14T22:57:33.46
+helpfulCount:
+0
+userID:
+24293991
+Display Name:
+Mark
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5803081.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe and pretty easy to make. I would just pump up the amount of jalapeño pepper to increase the kick if you want it hotter like I do. Also I sprayed the sheet to make them come off easier.

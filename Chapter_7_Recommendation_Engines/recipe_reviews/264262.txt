@@ -1,0 +1,72 @@
+Recipe number:
+264262.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-24T22:18:53.63
+helpfulCount:
+1
+userID:
+18245079
+Display Name:
+mrst528
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe for my husband, who is on the keto diet. I used almond flour instead of coconut, and misread the recipe and used 3 oz. of cream cheese instead of 3 TBS. He said they were great, and asked me to make them again. Yay!
+Review:
+Rating:
+3
+dateLastModified:
+2019-07-30T02:49:47.95
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As the recipe is written, these were just ok..  I topped half of them with nuts and those were better

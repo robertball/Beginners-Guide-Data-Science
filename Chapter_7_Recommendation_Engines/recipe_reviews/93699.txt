@@ -1,0 +1,37 @@
+Recipe number:
+93699.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-12-07T16:44:14.153
+helpfulCount:
+0
+userID:
+1014565
+Display Name:
+Tara McKinney DelVecchio
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+180
+favoritesCount:
+297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1525121.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy recipe.  Used butter instead of olive oil, b/c the recipe said butter.  Also, used sherry because I didn't have any marsala.  Otherwise made as described.  I didn't like the nutmeg taste at all and would not use again.  Overall, my husband and I agreed that this was like a cross between chicken french and cordon bleu, but not as quite good as either of those.  Still, worth a try.

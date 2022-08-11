@@ -1,0 +1,74 @@
+Recipe number:
+265353.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-02-11T23:23:09.153
+helpfulCount:
+1
+userID:
+25096566
+Display Name:
+cookink
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Seemed like there was too much flour. The egg whites collapsed under it, even adding a tablespoon at a time. Will try again and stop adding the flour mix when we get to ‘lava’ consistency.
+Review:
+Rating:
+1
+dateLastModified:
+2019-04-23T00:06:54.457
+helpfulCount:
+0
+userID:
+17643977
+Display Name:
+Bobbi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+wayyy too much flour/powdered sugar mix. had to up the egg whites to 9 and a cup of sugar for that amount to get to a workable consistency. 
+
+if/when i try this recipe again im going to cut the flour/powdered sugar by 1/2 and add another egg white

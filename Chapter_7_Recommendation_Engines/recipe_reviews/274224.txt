@@ -1,0 +1,37 @@
+Recipe number:
+274224.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-24T01:29:32.39
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9069
+followingCount:
+0
+madeRecipesCount:
+617
+favoritesCount:
+994
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the idea, and the only change I made was to cook it in my instant pot. Aside from changing the cooking technique I followed the ingredients. I added the curry paste in at the end, but regardless, I was expecting a lot more flavor.

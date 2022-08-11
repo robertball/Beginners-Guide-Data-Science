@@ -1,0 +1,107 @@
+Recipe number:
+222992.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-09-29T06:57:34.533
+helpfulCount:
+5
+userID:
+2994806
+Display Name:
+Paula-Ann Simon
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1752358.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Close to my family's recipe..can't hit the pow wow trail without enjoying these
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-26T15:03:46.483
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe!  I’m the only one who eats beans, so I omitted them and doubled the ground beef.  The dough was EXTREMELY sticky - either reduce the water to one cup and add as needed, or add another cup of flour.  It was impossible to roll out as it stuck to everything.  The teens enjoyed doing this so much they told mom to leave the kitchen!  Add some hotsauce and you’re good to go!
+Review:
+Rating:
+4
+dateLastModified:
+2014-02-28T17:36:45.167
+helpfulCount:
+0
+userID:
+2903881
+Display Name:
+anjnluv
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent, but too much water for fry bread. Use half.

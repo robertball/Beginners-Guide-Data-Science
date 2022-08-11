@@ -1,0 +1,37 @@
+Recipe number:
+255827.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-18T04:55:52.27
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Left the peel on the potatoes and this was surprisingly good for so many condensed soups!

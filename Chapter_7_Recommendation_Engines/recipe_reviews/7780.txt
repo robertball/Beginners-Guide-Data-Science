@@ -1,0 +1,37 @@
+Recipe number:
+7780.txt
+Review:
+Rating:
+1
+dateLastModified:
+2001-06-03T22:09:15.17
+helpfulCount:
+11
+userID:
+356332
+Display Name:
+CLAUDIA TERAN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not enough batter to fill both cake pans which made the cakes very thin.

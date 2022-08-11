@@ -1,0 +1,37 @@
+Recipe number:
+273967.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-23T01:27:05.467
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+700
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This salad contains a few make ahead components that lead to a beautifully composed salad in the end. I followed the recipe exactly besides marinating the chicken for 8 hours. No harm there. All the flavors combined were great with the poppy dressing.

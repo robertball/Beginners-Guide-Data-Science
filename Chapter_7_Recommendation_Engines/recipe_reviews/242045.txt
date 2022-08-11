@@ -1,0 +1,37 @@
+Recipe number:
+242045.txt
+Review:
+Rating:
+1
+dateLastModified:
+2015-11-22T15:08:43.553
+helpfulCount:
+0
+userID:
+10825421
+Display Name:
+Mjbc10408
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Mixture ended up too runny and just didn't work. Smelled good.

@@ -1,0 +1,72 @@
+Recipe number:
+255804.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-08T03:10:29.433
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this! My only complaint is that all of the flattening down with the spatula still did not fully melt the cheese. Other than that, the flavor was spot on! Next time I will throw a slice of ham on the mix. Excellent!
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-17T20:41:04.017
+helpfulCount:
+0
+userID:
+16021360
+Display Name:
+Alexus Delaney
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+1178
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3790813.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+omg that's my kinda kick!!

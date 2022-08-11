@@ -1,0 +1,107 @@
+Recipe number:
+257414.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-03T14:27:34.507
+helpfulCount:
+1
+userID:
+3509222
+Display Name:
+Chelsey Carr
+isPro:
+False
+followersCount:
+70
+followingCount:
+0
+madeRecipesCount:
+140
+favoritesCount:
+5366
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3266587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty good, but even if I had enough chocolate to do the outside coating, I don't think I would have had enough (I only had 1 & 1/4 C chocolate chips, but 1 & 1/2 C was called for). Out of the 22 dough balls this recipe made, only half were coated with the amount of chocolate I had, so try using 1 & 3/4-2C for the coating. I didn't have any white chocolate to drizzle on top. I also wish the recipe indicates how many balls this would make. It says 15 servings... (I'm guessing 2 each=a serving), but I made 22 using a cookie scoop. I would make these again for an event, but would increase the chocolate coating... and thin it out better (I did add a touch of EVOO but the chocolate was still thick).
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-18T23:30:36.433
+helpfulCount:
+0
+userID:
+16535503
+Display Name:
+Kelley Leuschner
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4070308.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definitely will make again so easy and so so good
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-19T19:30:59.21
+helpfulCount:
+0
+userID:
+22142616
+Display Name:
+Elliot Allen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good! I would leave out the coating or leave out the chocolate chips in the dough because the chocolate chip flavor is a bit overpowering. Will definitely make again!

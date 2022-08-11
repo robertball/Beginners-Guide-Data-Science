@@ -1,0 +1,37 @@
+Recipe number:
+266727.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-26T16:57:08.543
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+LOVED THESE!!!!! I was skeptical that there wasn't going to be enough flavor in the filling, but I was wrong...it was delicious! I baked mine at 400 degrees maybe 20-25 mins until the bacon was done. Great use of banana peppers from the garden. I will def be making these again~YUM! Thanks for sharing. :)

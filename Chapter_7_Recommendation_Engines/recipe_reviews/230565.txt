@@ -1,0 +1,72 @@
+Recipe number:
+230565.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-01-08T04:49:04.313
+helpfulCount:
+11
+userID:
+3816489
+Display Name:
+Deeli
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/975005.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good basic recipe however it needs some work. First, do not core the cabbage wedges (or at least not completely) in order to help keep them from possibly falling apart. Secondly, there is a lack of flavor so I suggest to add about 1/4 cup of prepared mustard (I prefer Dijon) to the egg wash and increase the grated parmesan from 1 cup to 1 1/2 cups and mix that extra 1/2 cup in with the bread and flour mixture (fresh parmesan instead of the canister kind is best). And last but not least, the wedges will absorb seasoning better if par boiled in salted water for about two or three minutes and then drained before coating and frying.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-06T04:09:28.62
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and decided to read the reviews/review prior to adding mine. I agree 100% with what Deeli said and couldn't have written it better myself. Her review is SPOT On!

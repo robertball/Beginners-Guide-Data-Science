@@ -1,0 +1,72 @@
+Recipe number:
+257694.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-09T22:48:59.8
+helpfulCount:
+0
+userID:
+12971459
+Display Name:
+Mrs Hoefy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and tasty!
+Review:
+Rating:
+3
+dateLastModified:
+2017-04-11T02:47:34.423
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I should have listened to my instincts and started with only half the mayo.  As you can see from my photo, the salad was covered with mayo!  I'm thinking that with only half the mayo that the rest of the seasoning had a chance of adding flavor to the chicken and remaining ingredients.  This has possibilities, and with a few changes it'd be better suited to our tastes.   Thanks to the submitter!

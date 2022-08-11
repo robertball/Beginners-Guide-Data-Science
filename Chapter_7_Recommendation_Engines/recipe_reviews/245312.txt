@@ -1,0 +1,37 @@
+Recipe number:
+245312.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-15T04:23:58.177
+helpfulCount:
+0
+userID:
+15391535
+Display Name:
+Alyssa Mogil
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2079283.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was out of soy sauce so used hoisin as a replacement. also added some red pepper. but it was super tasty and satisfying. I let it cook twice as long as recommend so the bacon would process further.

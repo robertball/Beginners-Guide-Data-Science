@@ -1,0 +1,37 @@
+Recipe number:
+16055.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-02-14T13:09:39.31
+helpfulCount:
+9
+userID:
+1771849
+Display Name:
+gottabegood
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for something special for Valentines Day and this one hit the spot. It was DELICIOUS. Although, I did some changes. I didn't want peppermint, so I used 1/2 cup crushed cinnamon hearts, cut back the sugar just a bit and it didn't need the food coloring. It would also be great layered in parfait glasses with whip cream. Thanks.

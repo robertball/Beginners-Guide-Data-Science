@@ -1,0 +1,72 @@
+Recipe number:
+244637.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-07T02:21:40.733
+helpfulCount:
+2
+userID:
+17583756
+Display Name:
+BOBBY MALONE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These pickles are east to make.  I followed the recipe fairly close except for the waiting time.  I would be doing something else and forget about the pickle.  Everyone that has tried them said that they were very good.  This recipe is close to the “Mrs. Wages lime pickle” recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-21T08:05:33.19
+helpfulCount:
+0
+userID:
+15430236
+Display Name:
+Laura Harmon
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2101544.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a half recipe of this. It took 3 large cucumbers, peeled and seeded. This recipe is the same as my grandparents used to make. A great, crisp pickle. It's sweet and you can taste the cloves, so don't overdo the amount of cloves.

@@ -1,0 +1,73 @@
+Recipe number:
+244752.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-18T23:22:07
+helpfulCount:
+0
+userID:
+6941923
+Display Name:
+Chepa W.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I omitted the cheese mostly except a little on top, as my husband not supposed to eat cheese.
+Still very good and tasty. I will do it again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-22T05:31:57.73
+helpfulCount:
+0
+userID:
+16585511
+Display Name:
+Kathleen Browning Welch
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2744242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made for vegetarian nephew who is coming for Thanksgiving, Of course we had to sample it before hand and we loved it. I made my  pie crust from scratch and it tuned out so flaky.  Didn't have olive oil mayo so used Best Foods. If it was this good with reg mayo can't wait to use olive oil mayo.  This is a keeper. Plan to make it with regularity. Thanks

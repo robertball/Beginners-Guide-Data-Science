@@ -1,0 +1,108 @@
+Recipe number:
+274929.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-16T19:41:42.483
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+8.16.19  This may not be the prettiest side dish you’ve ever put on the table, but it may be one of the tastiest.  I used Maldon® Sea Salt Flakes which were simply superb on these green beans.  Took out of the oven at 15 minutes because they were done, starting to brown and shrivel, and I was a bit concerned what another 5 minutes would do to them.  I’ve roasted a lot of veggies, but never green beans, and I certainly won’t hesitate to make this recipe again.  Thanks for a delicious, easy new recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-27T17:52:08.093
+helpfulCount:
+0
+userID:
+20959610
+Display Name:
+Iduna Stormcrow
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice way to put the side dish in with the main course , I agree with other reviewer in that not pretty but  tastes liked you did more than you did
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T22:43:26.257
+helpfulCount:
+0
+userID:
+13428606
+Display Name:
+Karen McIntyre
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2181386.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy!
+Nice taste.

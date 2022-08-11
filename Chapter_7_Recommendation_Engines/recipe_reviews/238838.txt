@@ -1,0 +1,37 @@
+Recipe number:
+238838.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-01T06:16:56.017
+helpfulCount:
+0
+userID:
+8772420
+Display Name:
+MARIA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Much easier than it sounds and really delicious combination of flavors.

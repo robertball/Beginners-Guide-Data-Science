@@ -1,0 +1,107 @@
+Recipe number:
+242064.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-29T14:32:36.49
+helpfulCount:
+2
+userID:
+14734265
+Display Name:
+Dee-Dee Therens
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1718050.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great rub! thank you
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-02T00:26:25.593
+helpfulCount:
+1
+userID:
+16959171
+Display Name:
+Jim Becker
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+95
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6727759.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an awesome rub! Coat your ribs a couple of hours ahead of time, wrap in tinfoil, wait... start an indirect charcoal grill, place foil wrapped ribs off to the side of the heat and cook for 2 to 2-1/2 hours. Remove ribs from foil and slather with your favorite BBQ sauce ( hopefully altered by you or made from scratch!) I like to lightly char the sauce 3-4 times recoating after each char, re coat one last time and bring them in to serve! Best. Ribs. Ever.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-08T20:40:15.73
+helpfulCount:
+0
+userID:
+20627391
+Display Name:
+I CAN COOK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5638942.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy to make. My pork spare rubs tasted great. Wasn’t sure why onion powder was listed twice so I only added 1 tablespoon.

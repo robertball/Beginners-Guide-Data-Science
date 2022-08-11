@@ -1,0 +1,72 @@
+Recipe number:
+255669.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-23T18:58:27.947
+helpfulCount:
+0
+userID:
+14926558
+Display Name:
+Melanie Laureen Bonthron Winst
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4200008.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make this it is so great no picture, but next time for sure.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-05T00:59:59.79
+helpfulCount:
+0
+userID:
+13306830
+Display Name:
+Annie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty and easy to make, great alternative to using heavy cream and butter which add on calories. The kale and pesto made a great addition. Thanks for sharing!

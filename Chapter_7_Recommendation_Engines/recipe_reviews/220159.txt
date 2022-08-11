@@ -1,0 +1,72 @@
+Recipe number:
+220159.txt
+Review:
+Rating:
+1
+dateLastModified:
+2012-02-29T15:19:04.963
+helpfulCount:
+6
+userID:
+8896424
+Display Name:
+nunac
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/797448.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm sorry but the cookies didn't taste very well. I followed the instrutions exactly as it was written. It tastes like hot flour and butter. I'm sorry for the bad review. :(
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-12T16:38:40.353
+helpfulCount:
+2
+userID:
+844886
+Display Name:
+It's A New Day
+isPro:
+False
+followersCount:
+297
+followingCount:
+0
+madeRecipesCount:
+450
+favoritesCount:
+522
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/615239.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A perfectly fine ordinary peanut butter cookie.  I cut back on the recipe to 20 servings since I'm not feeding a camp full of kids and it did make 20 large cookies.  I didn't change the recipe at all other than the quantity and using chunky peanut butter.  They are tasty and I'm sure if feeding a camp full of kids, this recipe will be fantastic.

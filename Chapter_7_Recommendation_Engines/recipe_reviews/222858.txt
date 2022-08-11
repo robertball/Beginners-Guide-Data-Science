@@ -1,0 +1,72 @@
+Recipe number:
+222858.txt
+Review:
+Rating:
+2
+dateLastModified:
+2012-08-03T14:10:39.69
+helpfulCount:
+6
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to try it, I just had to.  I love bacon and I love popcorn, what can I say?  Usually when I make popcorn it’s because I want a healthy, light snack, so I feel guilty I made this and added quite a bit of bacon.  The bacon flavor just didn’t come through prominently enough for me, and had a greasy taste to it.  I thought it was pretty blah even with sea salt added.  Considering the cost of bacon, I will save it for BLT’s and leave it out of the popcorn.
+Review:
+Rating:
+4
+dateLastModified:
+2012-09-10T20:33:06.233
+helpfulCount:
+1
+userID:
+9909512
+Display Name:
+bluespaz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+going to try it i love bacon its the candy of meats lol

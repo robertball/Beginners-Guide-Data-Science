@@ -1,0 +1,72 @@
+Recipe number:
+241618.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-11T13:57:07.3
+helpfulCount:
+1
+userID:
+24943617
+Display Name:
+Beth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the rub as instructed and used on seared pork chops done on my mini George Foreman. Just the right touch for the chops. Will make again- my family loved it. Paired with some homemade Ricotta and Fennel bread I made in my bread machine and Apple Broccoli slaw with low calorie Asian Vinaigrette recipe from AR and had dinner prep done in 20 minutes.
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-17T06:48:09.69
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out really good on some bone in pork chops I grilled. This would work nicely on salmon too. Toasting the seeds first really makes a difference in the flavor so I do not recommend skipping that step.

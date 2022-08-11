@@ -1,0 +1,37 @@
+Recipe number:
+7396.txt
+Review:
+Rating:
+2
+dateLastModified:
+2005-01-20T10:13:16.403
+helpfulCount:
+8
+userID:
+712786
+Display Name:
+WARREN4
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+57
+favoritesCount:
+159
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/446779.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+dry; needed to bake less or at a lower temperature.

@@ -1,0 +1,107 @@
+Recipe number:
+260220.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-28T23:48:50.43
+helpfulCount:
+0
+userID:
+26583582
+Display Name:
+Ryan De Ryke
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7381813.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing! SO EASY! All the flavors, colors, and textures of Thanksgiving in one recipe. Seriously, it's heaven.
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-21T04:12:31.193
+helpfulCount:
+0
+userID:
+24342217
+Display Name:
+Duke Raley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5830184.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good turkey dinner, not sure I made the rafts correctly.
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-28T20:19:59.697
+helpfulCount:
+0
+userID:
+1124398
+Display Name:
+D4Say
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+334
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious but I think I overcooked the turkey cause it was a little tough. Would make again. I've never used cornbread (store bought from Publix) for a stuffing before. Was wonderful. I added raisins.

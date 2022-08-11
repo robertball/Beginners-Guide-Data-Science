@@ -1,0 +1,107 @@
+Recipe number:
+255888.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-10T08:39:04.523
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite delicious and perfect for those cool mornings. Instead of using whole vanilla beans, I used a tsp of vanilla bean paste.  Also, if using red and/or black quinoa, expect cooking time to be a bit more than written and possibly require more liquid because of this. Refrigerate any leftovers for a nice afternoon snack! Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-24T21:00:55.78
+helpfulCount:
+0
+userID:
+13763789
+Display Name:
+Alex Taylor
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2010598.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good. Gets better the next day. I add a little more almond milk when I heat up the leftovers.
+Review:
+Rating:
+2
+dateLastModified:
+2017-04-03T02:02:25.38
+helpfulCount:
+0
+userID:
+21698349
+Display Name:
+Joey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make but terribly bland and high in calories.  To be fair I'm sure that part of the taste is altered by using regular milk as I'm allergic to almond milk...but the cinnamon and vanilla are lost

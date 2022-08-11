@@ -1,0 +1,72 @@
+Recipe number:
+218224.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-06-19T14:43:22.13
+helpfulCount:
+11
+userID:
+2079610
+Display Name:
+Cathy Myers
+isPro:
+False
+followersCount:
+141
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+385
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/461230.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is a lighter version of candied walnuts. I think the boiling the nuts helped reduce the bitterness that walnuts sometimes own. This pleased my husband as walnuts are not his favorite nut, although I think that most any nutmeat could be used. A tasty, adult friendly treat. Thanks, Linda!
+Review:
+Rating:
+4
+dateLastModified:
+2011-06-19T05:55:35.38
+helpfulCount:
+7
+userID:
+3154637
+Display Name:
+my name is LINDA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+years ago l would always make these fried walnuts for christmas and give them as gifts .there are very tasty and easy to do......linda

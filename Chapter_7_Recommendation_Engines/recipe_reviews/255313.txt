@@ -1,0 +1,72 @@
+Recipe number:
+255313.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-05T20:47:43.197
+helpfulCount:
+0
+userID:
+20442424
+Display Name:
+Steve Warwick
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+LUSH! Awesome idea!
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-17T15:14:50.573
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty good and definitely different! Hubby said they were ok, but he couldn't get past the peanut butter addition, lol. Thanks for sharing this unique recipe...it was fun to try! :)

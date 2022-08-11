@@ -1,0 +1,37 @@
+Recipe number:
+245991.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-30T19:22:21.807
+helpfulCount:
+1
+userID:
+1171191
+Display Name:
+Phoebe
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+390
+favoritesCount:
+2767
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/572879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very nice side dish!  As there were only two cups of steamed rice involved, I only used 1/4 lb of low salt bacon, NO added salt, low sodium soy sauce and a whole bunch of green onions.  Drained the bacon on paper towels.  Also added 1/4 cup of julienned carrots for extra crunch.  Easy and very tasty.

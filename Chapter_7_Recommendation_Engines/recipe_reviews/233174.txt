@@ -1,0 +1,73 @@
+Recipe number:
+233174.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-14T13:40:56.663
+helpfulCount:
+0
+userID:
+12521583
+Display Name:
+Robyn VanAelst Terpstra
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5850935.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great alternative for us because my husband LOVES pistachio pudding but has a cream cheese allergy.
+I made it just as-is then added a layer of whipped topping. It was light, not too sweet.  I loved the texture with the nuts in it but it tasted almost too nutty and drowned out that classic Pistachio Pudding taste.  I would make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-21T05:45:05.387
+helpfulCount:
+0
+userID:
+5993348
+Display Name:
+Chrissy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/871061.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great pie but it is also great as a pistachio salad.  Using pistachios in the place of walnuts and do not use the graham cracker crusts...just serve as a summer salad.

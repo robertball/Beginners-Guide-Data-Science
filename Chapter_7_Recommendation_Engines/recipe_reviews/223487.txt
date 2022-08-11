@@ -1,0 +1,37 @@
+Recipe number:
+223487.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-24T18:39:05.93
+helpfulCount:
+0
+userID:
+4308752
+Display Name:
+lotsofdishes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This salad fit the bill exactly - I searched for a salad that used dates and spinach. It came together very quickly with just a handful of ingredients. The yogurt dressing was creamy (I used whole milk plain yogurt.).  A nice change-up on spinach salad. Thanks for posting the recipe.

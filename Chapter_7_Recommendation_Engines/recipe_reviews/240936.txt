@@ -1,0 +1,37 @@
+Recipe number:
+240936.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-22T08:48:19.89
+helpfulCount:
+0
+userID:
+13770577
+Display Name:
+Bford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made these twice now. Good and easy , used coconut sugar and coconut oil and they come out great .

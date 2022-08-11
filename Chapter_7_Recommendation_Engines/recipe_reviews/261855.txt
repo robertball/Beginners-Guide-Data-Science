@@ -1,0 +1,72 @@
+Recipe number:
+261855.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-20T22:54:16.993
+helpfulCount:
+1
+userID:
+21716847
+Display Name:
+David Becker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4735329.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+no changes, it tastes great as given thanks
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-23T23:51:47.113
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and tasty,  I used mixed nuts in this and  it worked well.  Took these to church and they were gobbled up  Next time, I think I would prefer peanut butter or butterscotch chips... but they are great this way

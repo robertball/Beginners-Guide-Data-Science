@@ -1,0 +1,72 @@
+Recipe number:
+240895.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-30T05:03:28.233
+helpfulCount:
+0
+userID:
+22848915
+Display Name:
+GFL
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good. Used fresh Steelhead that had been baked first and then deboned.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-02T18:19:01.257
+helpfulCount:
+0
+userID:
+3964202
+Display Name:
+Teri Scott
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+546
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1301524.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sounds like it would be very good- I haven't tried it yet, but plan to. I would probably just add a pound of cod which is available here (sea bass isn't), add 1 pound of halved fresh mushrooms and skip the sugar at the end. All the rest sounds awesome!

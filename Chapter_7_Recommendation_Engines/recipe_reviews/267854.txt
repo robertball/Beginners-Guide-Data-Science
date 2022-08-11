@@ -1,0 +1,38 @@
+Recipe number:
+267854.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-08T22:05:44.243
+helpfulCount:
+0
+userID:
+24509110
+Display Name:
+Jagjeet Kaur Saini
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5948198.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and it tastes yummy. I just feel the quantity of condensed milk mentioned in the recipe was a bit high to hold the mixture in shape. I added couple tablespoons of milk powder to balance it and it was perfect. Instead of food colouring I added two tablespoons of roohafza for the flavour and beautiful pink colour. 
+Placed it in mini cupcake liners so that they don’t lose shape in any case.

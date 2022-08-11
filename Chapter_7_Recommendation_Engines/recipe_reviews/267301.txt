@@ -1,0 +1,74 @@
+Recipe number:
+267301.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-08T15:47:13.337
+helpfulCount:
+1
+userID:
+25323905
+Display Name:
+Lisa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7421789.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought the sweetness level on these cookies was spot-on!  Fig Newtons aren’t supposed to be cloyingly sweet .
+My whole family enjoyed the cookies; even those who aren’t keen on Fig Newtons. 
+My only change was I had to use almond meal/flour instead of crushed walnuts. It seemed to work. This recipe is going in the “keepers” file!
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-10T02:16:18.22
+helpfulCount:
+0
+userID:
+20698167
+Display Name:
+Alicia Stockman
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4113535.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good but not sweet enough

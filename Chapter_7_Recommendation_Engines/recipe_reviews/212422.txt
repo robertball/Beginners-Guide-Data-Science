@@ -1,0 +1,37 @@
+Recipe number:
+212422.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-02-09T13:04:28.663
+helpfulCount:
+9
+userID:
+2200903
+Display Name:
+goddess
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+407
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow, really good, and it's actually a potato curry. VERY spicy but worth every bite! Didn't have (and couldn't find) black lentils, so left them out. Asafoetida powder is 1/2 onion powder, 1/2 garlic powder. Used regular flour for chickpea flour, and crushed red pepper for the whole, dried ones, and cumin powder and mustard powder for the seeds. Came out great!

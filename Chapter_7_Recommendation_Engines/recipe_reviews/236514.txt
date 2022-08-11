@@ -1,0 +1,72 @@
+Recipe number:
+236514.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-03-09T11:18:26.32
+helpfulCount:
+4
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3463
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm wondering where I went wrong!  This didn't work for us.  I followed the recipe---even setting aside the yolks (which could have helped in retrospect).  The flavors didn't come together for me, and so I'm glad that I made only a partial batch.  I hope someone else will make this to prove me wrong!
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-18T15:24:01.09
+helpfulCount:
+1
+userID:
+16778922
+Display Name:
+Lyle Furr
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2811996.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is outstanding just as it is.  I made half exactly as recipe and then thought about the egg yolks..so I added them but in chunks and it was great also.   I will certainly make again

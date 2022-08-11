@@ -1,0 +1,37 @@
+Recipe number:
+232716.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-12-11T10:18:40.34
+helpfulCount:
+4
+userID:
+14575539
+Display Name:
+Mary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+290
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe looks weird, but it works. It's not as dry as I'm used to breakfast bars being, tastes a lot like an amped up bowl of oatmeal. I used raisins instead of craisins because that's what I had and no nuts because I don't like them. The caffeine content is comparable to a cup of tea. It's great to have a grab and go breakfast that includes my caffeine fix!

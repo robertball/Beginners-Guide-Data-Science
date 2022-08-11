@@ -1,0 +1,37 @@
+Recipe number:
+255820.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-29T17:36:37.71
+helpfulCount:
+0
+userID:
+7471112
+Display Name:
+scran
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+240
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best Paleo Pancake I've come across yet! Fluffy and nice, with very good flavor. You almost don't need anything on them! Very good recipe, as is. I think the whipped egg whites and coconut milk, along with the tapioca flour, make this recipe uniquely good!

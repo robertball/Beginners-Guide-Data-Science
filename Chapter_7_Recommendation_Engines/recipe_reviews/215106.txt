@@ -1,0 +1,72 @@
+Recipe number:
+215106.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-09-29T16:36:07.667
+helpfulCount:
+7
+userID:
+130124
+Display Name:
+Patti Weiss
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+57
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1457002.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I hope you enjoy my family's stuffing as much as we do.  You can substitute chicken liver for the stuffing, if your bird comes without the liver.  I have made this many times with the recipe from this site, A Simply Perfect Roast Turkey, by Trudie.  These two are a winning combination.  Enjoy!  And thanks grandpop!
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-22T16:37:11.853
+helpfulCount:
+0
+userID:
+8483747
+Display Name:
+Melissa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved it.

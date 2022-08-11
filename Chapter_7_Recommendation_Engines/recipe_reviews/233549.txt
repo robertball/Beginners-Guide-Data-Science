@@ -1,0 +1,107 @@
+Recipe number:
+233549.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-01-31T19:10:03.37
+helpfulCount:
+8
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6889
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! Thick, rich and flavorful...everything a good pizza sauce should be. I did cut the dried basil in 1/2 b/c dried basil gets too strong for me, but that was my only change. I will be using this again! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-22T14:18:05.143
+helpfulCount:
+1
+userID:
+9768453
+Display Name:
+golden wings
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+599
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2646629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did my best to stick to the recipe: no fennel, sugar or bay leaf. Added a sprinkling of marjoram. Wonderful! No heat, great for the kids. Perfect flavor and thick yummy goodness! I like heat and for me would add flakes or something, but! ultimately, I prefer toppings for heat. So, there ya go!
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-10T05:16:11.247
+helpfulCount:
+0
+userID:
+11696101
+Display Name:
+Carol V.
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+219
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sauce was thick and chunky as described.  It tasted like the sauce on frozen pizza; which we don't like.  I cut the celery and onion in half.  Added 2 tsps. of sugar.  It was still bitter.  It made enough sauce for 2 pizzas.  I will be working on my own recipe.  Homemade is so easy! Thanks

@@ -1,0 +1,79 @@
+Recipe number:
+27102.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-20T08:37:25.553
+helpfulCount:
+7
+userID:
+3304279
+Display Name:
+lampard_lover
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i loved this recipe but we didnt have all the ingredients so i suggest 
+100ml of orange juice
+2 large apples
+1 mandirin
+2 bannanas
+
+this tastes amazing!!
+LOVE
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-12T07:19:10.883
+helpfulCount:
+1
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm surprised how tasty this was! I normally am not a fan of banana in most smoothies because the banana ends up overwhelming the remainder fruit, but this was actually good the orange was the most detectable flavor of the entire smoothie and I like that!!!

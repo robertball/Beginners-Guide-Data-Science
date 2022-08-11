@@ -1,0 +1,72 @@
+Recipe number:
+241733.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-27T18:49:05.547
+helpfulCount:
+10
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I eliminated the liquid smoke due to the ham I used was leftover from one I smoked. This is really good but if you don't have all of these different beans on hand you could just buy one of those 16 ounces packages of mixed beans. I want to say they call it 15 bean soup? Anyway, use whatever dry beans you like or whichever ones you have on hand. I made as written but any dry beans would work nicely as long as you use 16 ounces. Note I also used Rotel with diced green chilies for my tomatoes and I did  not drain them.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-31T04:21:55.75
+helpfulCount:
+0
+userID:
+1779288
+Display Name:
+Gladari
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+203
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes, I used each type of beans, but the canned version. Used much less garlic & Liquid Smoke. Turned out extremely well.

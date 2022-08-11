@@ -1,0 +1,107 @@
+Recipe number:
+232736.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-27T15:41:25.91
+helpfulCount:
+4
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First off, I loved the ease of cooking everything together in one pot all at once. Just throw it all in and let simmer. Since milk is being used, it can be difficult finding a perfect temp that is high enough for the milk to simmer and veggies to cook, but not cause the pot to boil over. Milk has a tendency to do that, so I had to keep a constant eye on the pot. The flavor was ok (I made it exactly as written) and it can easily be tweaked. I felt the soup was missing something though. It definitely needed more salt to bring out the flavors, as it was a little bland as written. I think maybe half the amount of apple would have been enough, since this was a little on the sweet side. That is just personal preference though. I love spicy foods, but would have preferred a little less cayenne in this soup. For extra flavor, I'm thinking maybe half milk/half vegetable broth might be tasty, or even using low-fat coconut milk.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-14T00:06:21.987
+helpfulCount:
+1
+userID:
+12673197
+Display Name:
+Olefaithfull
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Again (colon stopped last review), this was the first soup I made in my Instant Pot Ace blender and it is awesome.  Chopped vegetables, put all raw ingredients in blender and selected “soup” (#2) setting taking almost ten minutes. Twenty-two minutes later it was done!  Used milled pepper instead of peppercorns and omitted cayenne; it had enough bite.  Can’t wait to try other soups in the Ace.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-19T14:11:55.607
+helpfulCount:
+0
+userID:
+15466039
+Display Name:
+Ashley Marie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3659041.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+HEAVEN !

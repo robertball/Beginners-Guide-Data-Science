@@ -1,0 +1,143 @@
+Recipe number:
+265868.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-01T19:45:18.803
+helpfulCount:
+0
+userID:
+5240321
+Display Name:
+Denise Klein
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2299606.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple recipe to use up my chicken livers left over from processing our chickens.  My dogs will do anything for these treats.  High motivation treat for our foster dogs. Thanks for the recipe have made 3 batches and love healthy treats my dogs can have.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-20T01:46:35.043
+helpfulCount:
+0
+userID:
+16097378
+Display Name:
+Jean Roberts
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2667299.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+my dogs love it! simple and awesome.
+i used whole wheat flour, beef liver, doubled the recipe for the larger beef liver but didnt double the oats, just did 1 1/2 cups of oats.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-14T03:58:36.73
+helpfulCount:
+0
+userID:
+26669254
+Display Name:
+Kellee Freund
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7446410.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn’t stink my kitchen up to much and all three of my dogs think they are AMAZING!!!  I cut them small and stuck them in the dehydrator for a small crunchy treat.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-25T06:45:58.113
+helpfulCount:
+0
+userID:
+26038970
+Display Name:
+Lesli Conway
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6967676.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My dogs LOVED these.

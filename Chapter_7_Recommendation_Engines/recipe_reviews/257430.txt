@@ -1,0 +1,37 @@
+Recipe number:
+257430.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-01T18:15:38.95
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this.. I didn't have black sesame seeds so I used a mixture  of sesame seeds, poppy seeds, onions and garlic.  I also zoodled my zucchini to be fancy :D

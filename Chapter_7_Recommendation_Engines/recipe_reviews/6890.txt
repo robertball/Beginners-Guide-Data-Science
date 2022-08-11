@@ -1,0 +1,80 @@
+Recipe number:
+6890.txt
+Review:
+Rating:
+3
+dateLastModified:
+2000-07-07T18:28:53.787
+helpfulCount:
+12
+userID:
+853
+Display Name:
+Marilyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have to be honest and say that this
+recipe did not meet my expectations.
+I feel the sherry flavor is too over-
+powerering.  The currants all sunk to
+the bottom of all of my muffins. These
+muffins are pretty good right out of the
+oven.  When they are room temperature,
+they're not so good.  Also:  too high
+in fat.
+Review:
+Rating:
+5
+dateLastModified:
+2011-09-25T18:34:49.643
+helpfulCount:
+0
+userID:
+7643004
+Display Name:
+christiane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+instead of sherry i used vanilia and almond extract,used raisins and currants but combined them with dry ingredients first so they won,t sink.  they are yummy and hubby can,t stop eating them.  enjoy

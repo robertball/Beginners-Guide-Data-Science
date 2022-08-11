@@ -1,0 +1,37 @@
+Recipe number:
+235728.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-26T21:43:51.13
+helpfulCount:
+0
+userID:
+5419345
+Display Name:
+Kilyena
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+134
+favoritesCount:
+1375
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+The meatballs had a really good flavor, however, the sauce really needs some sugar. The cheese kind of gets lost, not sure I would use in these next time.   The sauce was tangy and very tart.  With some sugar I think it would make a world of difference.  The maple syrup didn't add enough sweetness.  I wish I had of tasted the sauce before I poured it over the meatballs. I would like to try these again but sweeten the sauce up a bit for a more tangy sweet balance.  I followed the recipe exactly as written.  Thanks for sharing.

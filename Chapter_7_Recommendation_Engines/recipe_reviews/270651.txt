@@ -1,0 +1,72 @@
+Recipe number:
+270651.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-05T17:25:54.94
+helpfulCount:
+0
+userID:
+17947755
+Display Name:
+surus
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+386
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sounded really weird (root beer and horseradish?) but I had all the ingredients except the cranberries so gave it a try. We loved it! I had two thick pork chops and red potatoes cut into chunks. Everything was tender in 6 hrs on low. Delicious.
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-27T00:57:18.123
+helpfulCount:
+0
+userID:
+7861059
+Display Name:
+Connie Herm
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+99
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/935542.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not bad.  Chops were tender .

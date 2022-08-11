@@ -1,0 +1,37 @@
+Recipe number:
+270609.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-06T22:29:28.487
+helpfulCount:
+1
+userID:
+23966097
+Display Name:
+Cindi O’C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We like more spice than most people, but I only used 1 tablespoon of sriracha, because 2 tablespoons would be way too much. The heat was fine with only 1 tablespoon. The recipe is very easy to make. My husband thought the ham was a little dry, but this is probably because I am new at using an instant pot and I don't think I did the natural release properly.  I think I may use the quick release next time.

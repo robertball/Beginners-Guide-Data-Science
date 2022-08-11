@@ -1,0 +1,107 @@
+Recipe number:
+231948.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-08-25T13:19:38.813
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe is described this as a side dish but, honestly, I would never serve this as a side dish.  I consider this a dessert, but we all have different taste preferences.  I made one change, used Truvia in place of the sugar.  This certainly is easy to make, and it’s OK, but I doubt I'll make it again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-27T15:36:50.303
+helpfulCount:
+1
+userID:
+16478511
+Display Name:
+Reen McGurl
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5091888.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Doubled the recipe except for the pineapple and sugar . I added a half cup of coconut and 2 tabs  of rum for flavoring since I ran out of vanilla, I  served it with strawberries and whipped cream. Our guests loved it. It is so easy that I will make it again. I served in antique bowls and would have loved to add a photo here but don't know how!
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-02T04:36:04.637
+helpfulCount:
+1
+userID:
+23027120
+Display Name:
+pig momma
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a few changes. I used half and half instead of milk, real pineapple that I diced, and added coconut. It is not very sweet so I think next time I'm going to use sweetened coconut and replace the sugar with a little more brown sugar. Then it will be perfect!

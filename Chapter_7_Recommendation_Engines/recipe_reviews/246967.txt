@@ -1,0 +1,37 @@
+Recipe number:
+246967.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-04-03T23:35:40.637
+helpfulCount:
+0
+userID:
+15580679
+Display Name:
+kaffrin_
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a pretty simple meal to make, but my fiancé and I thought it needed “a little something” added to it, but we couldn’t figure out what. I would make this again but add corn or maybe diced tomatoes next time.

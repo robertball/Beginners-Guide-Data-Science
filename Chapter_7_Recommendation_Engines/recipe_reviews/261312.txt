@@ -1,0 +1,72 @@
+Recipe number:
+261312.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-29T00:14:22.573
+helpfulCount:
+1
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this!!!! It’s so easy and so tasty!!! I’ve actually made this recipe before but it was so yummy that it disappeared before I could take a picture! I made the recipe as is but once I pieces apart the pork I put it back in the instant pot, turned it to sauté and let it go for another 10 minutes. That way the meat could soak up more flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-20T21:38:19.51
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2221
+favoritesCount:
+2566
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe exactly as written.  My husband thought the sauce was just a smidgen bitter so I would add a little sugar the next time.  However, it was easy to put together and very tasty.  My family has already requested to have it again.

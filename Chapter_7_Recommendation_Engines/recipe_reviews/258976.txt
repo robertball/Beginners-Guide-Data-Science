@@ -1,0 +1,37 @@
+Recipe number:
+258976.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-21T18:31:04.103
+helpfulCount:
+0
+userID:
+22669881
+Display Name:
+Wanda Oehrli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6574391.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Use honey instead of brown sugar.

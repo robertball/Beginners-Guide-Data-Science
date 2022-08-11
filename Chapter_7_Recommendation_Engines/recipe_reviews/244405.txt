@@ -1,0 +1,47 @@
+Recipe number:
+244405.txt
+Review:
+Rating:
+5
+dateLastModified:
+12/18/2015
+helpfulCount:
+1
+userID:
+lindat
+Display Name:
+Linda T
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2367052.jpg
+text:
+Easy and delicious. Great over grilled chicken. Next use will be over some pulled pork
+Review:
+Rating:
+5
+dateLastModified:
+10/31/2020
+helpfulCount:
+0
+userID:
+28282369
+Display Name:
+Thomas Davidson
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8686438.jpg
+text:
+Very easy and delicious. I made this for smoked pork belly burnt ends and liked it so much that I'm using it for pulled pork and basically all my BBQ.
+Review:
+Rating:
+5
+dateLastModified:
+07/13/2020
+helpfulCount:
+0
+userID:
+11526208
+Display Name:
+RosieBelle
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2293386.jpg
+text:
+So good! I made this as a topper to the Cajun Style Meatloaf (from this site) and it was the perfect complement. Love it

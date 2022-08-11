@@ -1,0 +1,39 @@
+Recipe number:
+47615.txt
+Review:
+Rating:
+2
+dateLastModified:
+2008-09-19T12:36:58.147
+helpfulCount:
+11
+userID:
+2177978
+Display Name:
+William H. Wiersema
+isPro:
+False
+followersCount:
+25
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2293739.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The was no salami flavor at all as far as I could see.
+Would need some sort of seasonings added and probably smoked slowly.
+I'm sorry but this just didn't do it for us.

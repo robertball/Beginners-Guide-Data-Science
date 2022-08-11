@@ -1,0 +1,109 @@
+Recipe number:
+256092.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-20T02:54:22.003
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Substituted pepper jack for the cheese and I loved this salad. I do think it needed more of a dressing other than just the drippings but other than that this was perfect.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-29T02:29:27.543
+helpfulCount:
+1
+userID:
+17463212
+Display Name:
+Gina Anderson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I increased the cumin to 1/2 teaspoon and included bell pepper chunks to the veggies before roasting.    I agree with another reviewer that additional dressing would be helpful so I used some good salsa instead of an oil based salad dressing.  Yum!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-17T04:46:16.967
+helpfulCount:
+0
+userID:
+15891255
+Display Name:
+tiggerpan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy. I just marinated the meat with my Sunday meal prep so all I had to do was cut the tomatoes and onions and bake it. Made it a quick 25 min meal.
+I wasn't able to find the flank steak so I used some thin cut ones and lessened the broil time
+YUM!

@@ -1,0 +1,72 @@
+Recipe number:
+106275.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-10-29T15:41:08.81
+helpfulCount:
+15
+userID:
+4038151
+Display Name:
+Alison Chisholm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+169
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was OK, but had a few issues: bottom pie crust wasn't cooked at all - I suggest cooking the crust a few minutes before adding the filling. Also, I found it pretty salty after adding 2 tsp of both garlic salt and onion powder - will try 1 tsp each next time.
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-18T16:31:25.947
+helpfulCount:
+6
+userID:
+1894919
+Display Name:
+tlc
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/523575.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made with jalapeno soy cheese tasted great!

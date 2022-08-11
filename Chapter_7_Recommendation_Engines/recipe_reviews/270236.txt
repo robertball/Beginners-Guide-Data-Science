@@ -1,0 +1,37 @@
+Recipe number:
+270236.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-28T23:38:13.823
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except in step 4 I added reduced sodium chicken broth instead of water. I honestly think it needed the extra flavor. I also ended up adding more chili powder. Overall, this was easy and had great flavor and it is one I would make again.

@@ -1,0 +1,38 @@
+Recipe number:
+222548.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-19T23:01:38.6
+helpfulCount:
+0
+userID:
+5799817
+Display Name:
+dbamed91
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+648
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/583770.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my favorite drink! Lots of calories because of the cola, but every so often (just once a day, usually) I go for the gold.
+I don't drink any soft drinks with artificial sweeteners, but I'm sure you could use them.

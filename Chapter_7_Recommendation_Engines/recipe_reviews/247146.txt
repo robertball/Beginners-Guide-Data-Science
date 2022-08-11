@@ -1,0 +1,37 @@
+Recipe number:
+247146.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-21T21:20:19.203
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to cook the apple longer to get it done. Next time, I would dice the apple rather than cutting it in 8 sections. I did peel mine. This made good unsweetened applesauce for a baby...or for anyone.

@@ -1,0 +1,297 @@
+Recipe number:
+272402.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-03T16:48:11.267
+helpfulCount:
+9
+userID:
+25792478
+Display Name:
+JKD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The nutrition facts on this page MUST be wrong. As Denice Rayburn said, 33 carbs seemed way too high to me for a recipe with almond flour, butter, erythritol, etc. Where were the carbs coming from??
+
+
+I used my own "Nutrition/Macros Spreadsheet" and came up with these results. Note that everything is right in line with this page's stated nutrition facts, EXCEPT the carbs, which are considerably lower:
+
+Serving (1/12)
+Calories:   455.02 kCal
+Fat:   43.009 g
+Carbs:   5.593 g (NOTE: these are NET carbs, I deduct the dietary fiber in my spreadsheet)
+Protein:   11.787 g
+
+
+So my calculations show about 6 times LESS carbs than is listed, which makes sense to me because, as I said above, where would the 396 total carbs (33 * 12 servings) be coming from?!
+
+
+Erythritol has ZERO net carbs, since it's not digested as a carb by our bodies.
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-02T11:12:01.89
+helpfulCount:
+2
+userID:
+25874424
+Display Name:
+Ashleigh M. Henszey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6917011.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this but the crust turned out very dry and fell apart very easily. Next time I will be adding more butter to the crust itself to make sure it hardens up and baking the crust about 10 minutes longer to get a more genuine feel. I also added lemon juice to the fruit topping and that turned out amazing! My fiancé love it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-13T20:25:58.863
+helpfulCount:
+1
+userID:
+17368356
+Display Name:
+Tracy Hayes-Watson
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3173353.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Family Loved it! Used strawberries instead
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-05T23:14:57.417
+helpfulCount:
+1
+userID:
+6794486
+Display Name:
+Denice Moscarelli
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1319336.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While it's a REALLY good cheesecake, at almost 33 grams of carbs I can hardly call it a "low carb" cheesecake!  Still, it really is tasty and almost undiscernable from the "real" ones!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-21T03:12:18.48
+helpfulCount:
+0
+userID:
+27049643
+Display Name:
+Jeff's food beach bar
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'll definitely make this again!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-03T23:04:21.647
+helpfulCount:
+0
+userID:
+22255902
+Display Name:
+Rebecca
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4544527.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used strawberries and halved the recipe to fit in a pie plate. Got thumbs up from the whole family, keto dieter and non dieters. Will have to lessen the bake time for crust as my oven darkened it fast!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-31T02:35:48.877
+helpfulCount:
+0
+userID:
+20913127
+Display Name:
+CEStanley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super good and easy to make. Keto all the way!
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-24T21:22:38.09
+helpfulCount:
+0
+userID:
+21382778
+Display Name:
+Pat Estep
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+had I been served this cheesecake in a cafe I would have never believed that it was Keto friendly or low calorie. I will make this cake even after I stop doing the Keto diet. I cannot say enough how good.

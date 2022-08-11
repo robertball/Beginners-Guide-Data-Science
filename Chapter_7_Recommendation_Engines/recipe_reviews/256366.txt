@@ -1,0 +1,37 @@
+Recipe number:
+256366.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-12-22T18:06:32.197
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+12.22.16   I had to add quite a bit of water to the thick dressing to get it to the right consistency, and it diluted the flavor, so I adjusted all the dressing seasonings.  I was expecting more flavor from this salad, found it just a little bland.  I gave it a healthy shot of Sriracha which suited our tastes, but I’m not sure I’ll make this again.  Thanks for sharing your recipe Ann D.

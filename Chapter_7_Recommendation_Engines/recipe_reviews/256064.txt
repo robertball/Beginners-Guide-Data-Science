@@ -1,0 +1,72 @@
+Recipe number:
+256064.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-30T11:22:44.087
+helpfulCount:
+0
+userID:
+4614118
+Display Name:
+tbake
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a party.  Used chicken and no rice.  It was a big hit. Planning on making it again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-07T22:58:03.227
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2294
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out really good. I did make a couple of changes. Hubs is picky when it comes to tomatoes so I blended the can instead of leaving them in dice. My other change was with the rice. I didn't realize the only brown rice I had was minute rice and we know that wouldn't have stood up to the total cook time. I made it after the pork was done and mixed it in that way. I made burritos out of the filling and they were a huge hit.

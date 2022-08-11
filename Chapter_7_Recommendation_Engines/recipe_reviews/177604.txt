@@ -1,0 +1,72 @@
+Recipe number:
+177604.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-05-07T19:19:49.46
+helpfulCount:
+3
+userID:
+4797943
+Display Name:
+Shelby Knockenhauer
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4537977.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a very simple recipe, but the stew is much too tomato based for me. I like having tomatoes in my stew, but having tomato sauce be the base was just too much.
+Review:
+Rating:
+3
+dateLastModified:
+2012-10-13T17:10:25.407
+helpfulCount:
+0
+userID:
+5486563
+Display Name:
+paulakaymn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Something's missing...not sure what.  Isn't very "saucey" for a stew using all of the egg noodles.  If I make again, I won't use an entire package.

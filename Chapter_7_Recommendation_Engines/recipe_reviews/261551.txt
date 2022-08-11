@@ -1,0 +1,107 @@
+Recipe number:
+261551.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-22T02:15:59.62
+helpfulCount:
+3
+userID:
+10958516
+Display Name:
+AlabasterJar
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+495
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5797099.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I both loved it! I will definitely prepare this one again. Thank you for sharing.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-26T23:06:06.303
+helpfulCount:
+1
+userID:
+8937360
+Display Name:
+Terry Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+393
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was better than any chicken Parmesan recipe that I have tried!  Great reviews by everyone at the table.  I made it just as described, but used Perdue thin sliced chicken breast to avoid having to pound the chicken.  Yum!
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-22T00:18:47.587
+helpfulCount:
+1
+userID:
+23169483
+Display Name:
+Thomas & Jennifer Reiter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5004470.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious!

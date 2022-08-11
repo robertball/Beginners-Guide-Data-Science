@@ -1,0 +1,37 @@
+Recipe number:
+240550.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-03T17:46:44.147
+helpfulCount:
+1
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+272
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3415
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't typically make many recipes using prepackaged sauces due to the sodium content, but, I needed a quick meal I could make and my husband is a big bbq chicken fan, so, I thought I would give it a try.   The plus to the recipe is that the instructions are spot on and it was a quick and easy meal to get together.   The downside was that the sauce was very sweet due to the quantity of applesauce added to the bbq sauce.   I also was hoping that the sauce would become sticky on the chicken, but, it remained more of a sauce instead.

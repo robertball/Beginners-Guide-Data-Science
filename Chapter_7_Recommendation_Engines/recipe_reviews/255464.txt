@@ -1,0 +1,37 @@
+Recipe number:
+255464.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-10T20:10:01.897
+helpfulCount:
+4
+userID:
+16308718
+Display Name:
+Anna Pamperin
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+383
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3974375.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good, I was delighted with the texture and taste.  I will be making this again. However, the water ratio was too much, I added about 3 TBLS of gluten free flour to it as it was too liquidity.  I used 2 Corning Ware pie plates when I baked them, this worked well. Topped the bread with hummus, spinach, tomatoes, crumbled bacon, and sprinkled Cilantro as the final step.  YUMMY!

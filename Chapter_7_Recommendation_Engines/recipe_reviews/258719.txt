@@ -1,0 +1,37 @@
+Recipe number:
+258719.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-22T16:53:50.263
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fall off of the bone deliciousness! To keep them moist I gave them a squirt of apple juice from time to time. I ended up needing an extra hour of smoke time to get them nice and tender and I served my BBQ sauce on the side out of personal preference. This is  a great rub and a great rib recipe!

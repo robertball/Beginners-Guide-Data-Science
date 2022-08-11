@@ -1,0 +1,37 @@
+Recipe number:
+236389.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-26T12:52:25.53
+helpfulCount:
+0
+userID:
+7349181
+Display Name:
+nandi99
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+365
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's really different, but I was trying to find a Crab Cake without mayo.  This was it, the taste is not for everyone just the same neither is mayo.  I liked it enough to say I want to try it with frozen black eyed peas cooked my way.

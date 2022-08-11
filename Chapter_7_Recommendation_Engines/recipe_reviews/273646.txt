@@ -1,0 +1,37 @@
+Recipe number:
+273646.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-27T16:35:09.34
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and 5 stars all the way! I  only had small potatoes on hand and decided to use them instead of making a trip into town to the store. We grill most every night so this recipe will be perfect for us this summer.  You really can't go wrong with any of Bren's recipes!

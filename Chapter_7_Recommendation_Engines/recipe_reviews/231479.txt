@@ -1,0 +1,37 @@
+Recipe number:
+231479.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-25T01:35:39.453
+helpfulCount:
+1
+userID:
+9792167
+Display Name:
+TwaiRice
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/119.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I added bacon and a diced serrano and used baby spinach.  Delicious, I will make it again!

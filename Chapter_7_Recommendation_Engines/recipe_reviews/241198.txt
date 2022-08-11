@@ -1,0 +1,72 @@
+Recipe number:
+241198.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-03T16:50:52.52
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and straight forward just like lobster should be.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-17T22:56:10.75
+helpfulCount:
+0
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+220
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+911
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't use the tomatoes and I steamed just the one lobster tail.  I had to adjust the time as the lobster tail that I cooked was on the smaller size. The lobster was wonderful. I thought that I could use the cooking liquid for a dipping sauce but it would be better served with clarified butter. Thanks for sharing.

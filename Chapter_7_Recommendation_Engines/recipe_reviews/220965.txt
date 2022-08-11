@@ -1,0 +1,72 @@
+Recipe number:
+220965.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-06-19T12:28:43.323
+helpfulCount:
+7
+userID:
+2162694
+Display Name:
+Allison Fletcher Acosta
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2990874.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+More flavorful than your average baked ham.
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-09T17:23:43.56
+helpfulCount:
+1
+userID:
+8213363
+Display Name:
+Garlandaire
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+305
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6433914.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very tasty. The garlic added a nice flavor without being overpowering. I will definitely make this again.

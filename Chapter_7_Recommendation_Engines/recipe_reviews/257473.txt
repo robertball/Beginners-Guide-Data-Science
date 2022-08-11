@@ -1,0 +1,143 @@
+Recipe number:
+257473.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-04T23:24:53.29
+helpfulCount:
+3
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8912
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You know what I really liked about this dish? The pesto didn't over-power the dish like it can sometimes do. We loved that there was a lot of "juice" that we could soak up with some crusty bread. The flavors in this just worked! My Italian hubby made one suggestion, which I will do when I make this again, and that's to take the pasta out of the water a couple of minutes before it's "al dente" and finish the cooking of the pasta right in the pan with the clams and shrimp. Really nice recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-15T16:54:20.117
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a great recipe! My husband and I both enjoyed this very much. I was concerned that either the pesto or the clam flavor would overpower the dish but neither of them did. It was a perfect balance. This recipe is easy and quick enough to whip up on a weeknight and also one that is worthy enough to serve guests. It is impressive both in taste and in presentation.
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-12T11:40:43.56
+helpfulCount:
+1
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This dish turned out well, and the clams and shrimp were cooked perfectly. There was plenty of sauce, and I served it with a crusty baguette for dipping.
+I may play around with the sauce a little next time, to see if I can give it a slightly deeper taste.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-09T16:35:55.193
+helpfulCount:
+0
+userID:
+4531738
+Display Name:
+foodlovers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+241
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/344611.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great!

@@ -1,0 +1,37 @@
+Recipe number:
+262325.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-26T19:59:09.073
+helpfulCount:
+2
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+2016
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A really good chili, that re-heats very well too! I scaled this way back since it was just for my husband and I. Used only about 2 lbs of meat, and it was all ground venison. I also added a chopped bell pepper, some chopped carrot, and some beans to it. The addition of the masa harina was unexpected too. It made the chili thick and added a little bit of corn flavor to it--I really liked it! I really enjoyed this chili; and I almost think it tastes better the next day!

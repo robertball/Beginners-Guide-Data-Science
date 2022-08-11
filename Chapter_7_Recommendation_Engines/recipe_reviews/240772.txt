@@ -1,0 +1,107 @@
+Recipe number:
+240772.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-05-13T18:25:55.683
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+389
+followingCount:
+0
+madeRecipesCount:
+1099
+favoritesCount:
+3177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I frothed my warm milk with an immersion blender, placed in my Ninja Coffee Bar and brewed my coffee over my frothed milk for this layered drink. As far as taste it was okay but not something I would make again.
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-09T10:34:19.79
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A nice mocha without the guilt. I made this on the stove instead of the microwave. Thank you aroverman for your recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-20T16:26:00.043
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this. It had just the right coffee, cocoa and sweet taste. I'm not a big fan of the Splenda aftertaste, but if you're used to that, you'd have no problem. I made this on the stove since I don't have an espresso machine. Usually I whisk the milk until it's nice and frothy, but with the added cocoa, it didn't froth very well. It still tasted good though.

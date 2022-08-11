@@ -1,0 +1,107 @@
+Recipe number:
+237575.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-11T22:16:04.003
+helpfulCount:
+2
+userID:
+10487367
+Display Name:
+Char Shirvan
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4935349.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great basic recipe that you can play with if you'd like.  The flavors  here though are clean.  You can add other ingredients, such as clam juice, ketchup (so I've been told), cucumber.  But this is a great one that is easily made.  I can make it even while I am at work...yup, that easy.  I like to serve it with lettuce on the side. Also great on tortilla chips or tostadas.
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-21T18:47:00.763
+helpfulCount:
+2
+userID:
+3883180
+Display Name:
+ojis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe!  I like to marinate it for thirty minutes in the fridge and eat it on tostadas.
+Review:
+Rating:
+3
+dateLastModified:
+2014-05-14T08:22:52.01
+helpfulCount:
+2
+userID:
+13622888
+Display Name:
+Belinda Basnight
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definitely for those on a budget dish but not bad for first timers cevichens and those afraid of the "raw fish."

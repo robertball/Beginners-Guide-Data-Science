@@ -1,0 +1,72 @@
+Recipe number:
+236571.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-14T03:08:10.46
+helpfulCount:
+0
+userID:
+2265973
+Display Name:
+Joel & Lauren
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+226
+favoritesCount:
+313
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/97305.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious. I only did about 1 minute on the initial bake and 10 minutes for the final bake. I figured it would be crispy if I did the full time, and we like naan softer. I couldn't find tandoori paste, so I made some for the marinade.
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-28T16:14:00.75
+helpfulCount:
+0
+userID:
+15035157
+Display Name:
+Mama Avis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic recipe.

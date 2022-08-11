@@ -1,0 +1,37 @@
+Recipe number:
+247327.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-17T17:30:45.987
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is surprisingly good. I cut back on the syrups though. I made only one serving, and I just put in a squirt of each syrup, and I left out the sweetner completely. It was still plenty sweet for me.

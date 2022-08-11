@@ -1,0 +1,72 @@
+Recipe number:
+245318.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-29T20:54:23.48
+helpfulCount:
+0
+userID:
+26604432
+Display Name:
+Marianne Halderman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7575200.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great recipe for the left over Christmas ham! I’ll be sure to make this again with whatever meat is around ! Delicious and quick!
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-22T08:56:06.28
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a tasty nosh. I liked it. If you are going to add the cheese, I wouldnt add the soy sauce.. just use salt and pepper.  I didn't have any butter in the house so I only used oil.

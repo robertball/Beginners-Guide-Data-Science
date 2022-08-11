@@ -1,0 +1,72 @@
+Recipe number:
+231597.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-01T15:44:50.397
+helpfulCount:
+0
+userID:
+18181362
+Display Name:
+Jennifer Lill
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe. We don't have access to nuts where I live but it tastes amazing without them.
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-27T11:44:02.583
+helpfulCount:
+0
+userID:
+12063928
+Display Name:
+Candace212
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this last year at Thanksgiving, was sooo good i made it for New Years, absolutely having it again this year!

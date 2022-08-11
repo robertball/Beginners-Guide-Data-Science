@@ -1,0 +1,72 @@
+Recipe number:
+245352.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-12T22:19:34.937
+helpfulCount:
+0
+userID:
+10429310
+Display Name:
+Amy Rowland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6022191.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I saw that another reviewer talked about how the cookies burned, so I reduced the baking temperature to 375 and only baked the cookies for 8 minutes on parchment paper and they turned out perfect! You could always bake them for a minute or two longer, but start with 8 minutes and go up from there.
+Review:
+Rating:
+2
+dateLastModified:
+2015-11-14T17:09:43.56
+helpfulCount:
+0
+userID:
+1171191
+Display Name:
+Phoebe
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+390
+favoritesCount:
+2761
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/572879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+2.5  Unfortunately these did not taste like eggnog at all and making the colored sugar was kind of a hassle but I did try.  Bottoms burnt @ 10 minutes for first batch and almost @ 8 minutes for the second batch.   Again, an alright taste for the unburned ones but shall stick with my regular snickerdoodle recipe.

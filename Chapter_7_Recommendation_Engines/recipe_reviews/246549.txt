@@ -1,0 +1,107 @@
+Recipe number:
+246549.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-13T14:38:20.46
+helpfulCount:
+0
+userID:
+2635641
+Display Name:
+Karen Bleakley
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5137389.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used this more for inspiration than a recipe to follow. Made my own tortilla bowls.  Let everyone choose their own toppings from shredded cheese, diced fresh tomatoes, sliced avocado, sour cream, pickled jalapenos, taco sauce, salsa etc.  Big hit here, we'll be making these again for sure!
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-20T13:55:48.307
+helpfulCount:
+0
+userID:
+21912252
+Display Name:
+Jazzy Fresh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a Mother's Day breakfast and it was a big hit!  I really enjoyed making it.
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-13T07:05:04.41
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2275
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I made my own taco bowl. This was pretty good. I do feel it needed some salsa.

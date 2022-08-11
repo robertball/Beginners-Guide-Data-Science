@@ -1,0 +1,37 @@
+Recipe number:
+219553.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-10T11:35:58.22
+helpfulCount:
+35
+userID:
+2713558
+Display Name:
+Jillian
+isPro:
+False
+followersCount:
+571
+followingCount:
+0
+madeRecipesCount:
+2420
+favoritesCount:
+6794
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/209339.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick and easy for lunch! I just made one for myself and instead of whole grain bread made this into a wrap sandwich and added some shredded Cheddar cheese I had on hand - YUM!

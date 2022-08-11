@@ -1,0 +1,72 @@
+Recipe number:
+245105.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-13T23:36:20.587
+helpfulCount:
+0
+userID:
+24374161
+Display Name:
+Lorri
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this but it needed some seasoning.  So added salt and pepper
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-28T14:23:40.443
+helpfulCount:
+0
+userID:
+11729226
+Display Name:
+Mike H
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+205
+favoritesCount:
+1164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is good.  I was able to find baby Bok Choy, but regular would also be fine.  I'll try adding 1 cup frozen corn next time for more interesting texture.

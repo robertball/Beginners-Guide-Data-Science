@@ -1,0 +1,37 @@
+Recipe number:
+273692.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-17T15:37:29.54
+helpfulCount:
+0
+userID:
+5212790
+Display Name:
+Janice Peiffer
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+691
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1996227.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this cake. Recipe does not state amount of milk. I used 1 cup buttermilk . Very good. Moist and not overpowering lemon flavor. Just right.

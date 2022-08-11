@@ -1,0 +1,72 @@
+Recipe number:
+236791.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-28T00:08:19.023
+helpfulCount:
+1
+userID:
+12476919
+Display Name:
+Gerald Dyer
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1143822.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Molto Bene! Delicious, easy one skillet cacciatore.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T10:13:25.693
+helpfulCount:
+0
+userID:
+13442874
+Display Name:
+FunkyBrewster
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/46.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a smaller version and added a few more vegetables (used a frozen mix I had on hand). Added a little sugar at the end to balance out tomato sourness (I used chopped canned tomatoes). This is a good version to eat with rice.

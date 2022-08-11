@@ -1,0 +1,37 @@
+Recipe number:
+261937.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-12T01:25:53.423
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I finely diced my ham instead of grinding it. These turned out GREAT! The only change I would make next time is to use less breadcrumbs. They were more "bready" than they needed to be.

@@ -1,0 +1,72 @@
+Recipe number:
+257019.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-08T00:20:03.967
+helpfulCount:
+2
+userID:
+21022031
+Display Name:
+Nicola Barbar
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5095548.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice. Very goey. Followed the recipie and came out well would not season the sauce with so much black pepper but it was excellent.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-28T03:00:24.44
+helpfulCount:
+0
+userID:
+6555921
+Display Name:
+Jashergord
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+143
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definitely will make it again. However, I misread the cheese amounts and used 2/3rds the amount of cheese and it still came out terrific.. I did top the mixture with some coarsely crushed, famous brand, buttery crackers. Next time I plan on addding some "OLD BAY" seasoning to zip it up a little (for my taste.)

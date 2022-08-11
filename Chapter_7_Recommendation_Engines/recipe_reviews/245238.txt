@@ -1,0 +1,37 @@
+Recipe number:
+245238.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-17T02:12:39.07
+helpfulCount:
+2
+userID:
+22957028
+Display Name:
+Erica Lynn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4710683.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a casual Christmas get-together. I wanted my uberpicky grandpa to be able to eat it, so I skipped the hot sauce and used garlic powder. It was a great contribution to the snack feast. I loved it.

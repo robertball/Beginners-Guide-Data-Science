@@ -1,0 +1,76 @@
+Recipe number:
+7635.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-03-20T15:17:42.773
+helpfulCount:
+9
+userID:
+2308309
+Display Name:
+Darryl
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+108
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/917806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pandan has an excellent and unique taste.  I originally tried making the paste myself using Pandan leaves, but it's difficult to get the flavour to come out of the leaves.  Use Pandan extract instead.
+
+This recipe is challenging!  The multi-layers take time and patience.  I would have rated the recipe higher, but my cake didn't turn out too well (tasty though)!
+
+*update* My Malaysian mother-in-law hates the pandan extract, although I thought it wasn't too bad.  We also managed to find canned pandan filling at a Missasagua Asian grocery, although it's not easy to find and not always stocked.  Check the canned fruits section.
+Review:
+Rating:
+5
+dateLastModified:
+2004-01-30T20:48:01.187
+helpfulCount:
+7
+userID:
+953361
+Display Name:
+YUMMY3
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+taste good and easy to make

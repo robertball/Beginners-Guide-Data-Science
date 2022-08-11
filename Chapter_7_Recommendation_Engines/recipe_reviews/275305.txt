@@ -1,0 +1,72 @@
+Recipe number:
+275305.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-27T23:01:32.323
+helpfulCount:
+0
+userID:
+26329395
+Display Name:
+Geri Gitter Bearden
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7186532.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy and so yummy. I made it for first night of Hanukkah and again a few days later for Christmas dinner.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-22T22:52:21.777
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A quick way to prepare a delicious side dish! For my tastes, 8-10 minutes in the microwave is way overcooked. If you like your green beans with a bit of snap to them, I highly recommend cooking only half the stated time. I found them perfectly done at 4 minutes. I also didn't find they needed 5 minutes in the pan as they were still warm when I added them; 2 minutes to toss and coat everything evenly was plenty. I loved the flavor of the garlic and toasted almonds. A great combo that I will make again!

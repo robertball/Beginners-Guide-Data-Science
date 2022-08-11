@@ -1,0 +1,37 @@
+Recipe number:
+218907.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-09-10T18:16:04.757
+helpfulCount:
+8
+userID:
+5192320
+Display Name:
+gg810
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/458814.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+REALLY SMELLS GOOD COOKING AND TASTE GREAT!

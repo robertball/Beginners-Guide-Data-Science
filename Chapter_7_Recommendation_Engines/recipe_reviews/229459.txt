@@ -1,0 +1,37 @@
+Recipe number:
+229459.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-03-07T13:12:00.637
+helpfulCount:
+0
+userID:
+4218338
+Display Name:
+fred
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+878
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used less sugar, and instead of using a blender, I used an old fashioned potato masher. It gives me a chunkier finished product.

@@ -1,0 +1,37 @@
+Recipe number:
+158289.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-06-08T16:25:56.977
+helpfulCount:
+1
+userID:
+1958749
+Display Name:
+ChristineM
+isPro:
+False
+followersCount:
+198
+followingCount:
+0
+madeRecipesCount:
+796
+favoritesCount:
+3404
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2567820.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good and a little unusual for us.  I used fresh minced ginger instead of ground, and a combination of wild rice and this burgundy rice I found.  The dressing is good and contrasts the sweet/tartness of the dried cherries and the nutty rice flavor nicely, but I thought it needed additional vegetables.  Next time I might try adding some grated carrot, chopped scallions and parsley, and maybe a few slivered almonds for crunch.

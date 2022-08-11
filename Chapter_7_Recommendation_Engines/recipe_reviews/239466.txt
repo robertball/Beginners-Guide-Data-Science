@@ -1,0 +1,72 @@
+Recipe number:
+239466.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-11T02:33:12.49
+helpfulCount:
+2
+userID:
+22719529
+Display Name:
+Janice Marcus
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. And very easy to make, just takes a bit of time to cook. I made a few changes.... Being a vegan I swapped the stock to low sodium vegetable stock, and when there was about 20 minutes left to go I added some frozen peas and frozen spinach because I'm always looking to add more veggies in a dish. Also I covered it so the beans would cook better. I will definitely make it again.
+Review:
+Rating:
+2
+dateLastModified:
+2015-10-05T16:27:29.073
+helpfulCount:
+0
+userID:
+16243497
+Display Name:
+david
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cooking time inadequate. Should have been covered while cooking. Came out so so.

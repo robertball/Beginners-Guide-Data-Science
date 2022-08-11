@@ -1,0 +1,72 @@
+Recipe number:
+235222.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-16T07:25:01.63
+helpfulCount:
+3
+userID:
+2739489
+Display Name:
+Patricia Anne Peel
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+409
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/972224.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made this 3 times in the last 2 weeks. These are very good & pretty but the recipe is wrong in 2 ways. First, 1" balls would make a LOT more than 36 balls. I'd say mine were 1 1/2 " & made 40-44. Secondly, it takes a lot longer than the time given to finish these! HINT: Use a heaping regular teaspoon & another teaspoon to aid in scooping out the warm mixture.  Scoop from the sides 1st. Scoop a few at a time onto wax paper to cool enough to shape.  To add a bit of color after rolling in confectioner's sugar,  I dipped the tops in melted butter then colored sugar.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-02T18:29:38.01
+helpfulCount:
+0
+userID:
+3767053
+Display Name:
+Deb Bruss
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3307408.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make and yummy.

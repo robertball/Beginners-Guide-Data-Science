@@ -1,0 +1,37 @@
+Recipe number:
+268333.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-01T13:03:06.72
+helpfulCount:
+0
+userID:
+15111031
+Display Name:
+Lindsey Shroyer
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1923133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just have to get over the fact that anything that uses almond flour is going to be dry.  This had good flavor, but I would recommend using more dill and was one of the better "bread" keto recipes that I've tried.  I will probably make these again.

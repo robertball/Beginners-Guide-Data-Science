@@ -1,0 +1,107 @@
+Recipe number:
+236011.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-01-11T12:24:12.72
+helpfulCount:
+3
+userID:
+4957336
+Display Name:
+Rachel S Karpe Jones
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5282783.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I use olive oil spray to cut the fat and spray sheet and top of kale then just sprinkle with sea salt ,15 minutes in oven at 350.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-04T20:20:04.093
+helpfulCount:
+1
+userID:
+12999325
+Display Name:
+Dixie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5180313.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Takes twice the time listed; I line cookie sheet with parchment paper.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-02T21:05:23.353
+helpfulCount:
+0
+userID:
+15410146
+Display Name:
+Mike W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5813915.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made this recipe a few times now. The kale comes out crispy and flavorful. I usually sub a vinegar and jalapeno based hot sauce for the vinegar. I leave them in for closer to 45 mins. A baking sheet with a rack takes less time.

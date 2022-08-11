@@ -1,0 +1,37 @@
+Recipe number:
+17313.txt
+Review:
+Rating:
+2
+dateLastModified:
+2001-01-07T07:25:04.967
+helpfulCount:
+8
+userID:
+149414
+Display Name:
+DAWN M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This looked pretty until I added the tomatoes--they muddied the bright green cabbage color.  The taste was okay, but not fabulous.

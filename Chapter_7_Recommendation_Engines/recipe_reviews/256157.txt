@@ -1,0 +1,37 @@
+Recipe number:
+256157.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-09T01:30:47.02
+helpfulCount:
+0
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+219
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+907
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Jan 8 2017 The first time that I make a recipe I try to stay as close to the written recipe as possible but I couldn't find Red River® cereal so I subbed 1/4 cup cracked wheat and 1/4 cup 10 grain cereal. I don't have a bread pan and prefer a rustic loaf so I formed it into a round ball and baked it on a cookie sheet. If I were to make this again I would bake it in a dutch oven as that method produces a very crusty exterior.

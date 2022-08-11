@@ -1,0 +1,72 @@
+Recipe number:
+258132.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-27T20:40:19.703
+helpfulCount:
+0
+userID:
+14031375
+Display Name:
+Kirin Lee
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+2752
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1320320.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe, but of used dried dill weed instead of fresh dill. I also added a bit more lemon pepper.  I upped the pierogies to 20 because I didn't want to leave 5 in the bag. My sons and I all loved it. My sons are huge pierogie fans anyway. It is great with hot sauce added on top. Definitely will make it again.
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-05T02:06:12.203
+helpfulCount:
+0
+userID:
+23018517
+Display Name:
+Stacy Sternnadle Clark
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+57
+favoritesCount:
+226
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4808151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used less water.

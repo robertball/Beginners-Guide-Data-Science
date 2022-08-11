@@ -1,0 +1,72 @@
+Recipe number:
+268873.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-14T12:33:12.827
+helpfulCount:
+0
+userID:
+24826036
+Display Name:
+Robert E Robey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6180434.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these pancakes this morning (7/14/19 4:25 AM EST), and they slightly exceeded my expectations; they turned out quite well for a vegan dish. I didn't have one and a half cups of all-purpose flour handy, so I used the remaining half cup that I had left in addition to one cup of rice flour. They aren't very sweet when eaten plain, but does taste better topped with maple syrup.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-28T23:38:01.083
+helpfulCount:
+0
+userID:
+20728665
+Display Name:
+Theresa Seisan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+152
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No i did not make any changes, my daughter and i loved them, and i would make it again

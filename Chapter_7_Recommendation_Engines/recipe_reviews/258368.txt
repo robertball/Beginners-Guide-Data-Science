@@ -1,0 +1,72 @@
+Recipe number:
+258368.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-06T16:44:28.567
+helpfulCount:
+3
+userID:
+21907807
+Display Name:
+Suzy MacFarland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I definitely recommend coconut milk and Kashmiri chile powder instead of jalapeno.  This way there is more of a blended flavor and not chunks of jalapeno which I find annoying in many recipes not only Mexican food for which they may be intended.  Roast your spices in a dry pan or with your onion to release their flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-01T17:54:21.663
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6896
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! I used light coconut milk in place of the regular. Even the kids liked this. I recently made a 'regular' version of this for the first time, which we all loved, but this was great for something on the healthier side. I would make this again! Thanks for sharing. :)

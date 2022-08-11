@@ -1,0 +1,37 @@
+Recipe number:
+258136.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-17T14:08:23.307
+helpfulCount:
+0
+userID:
+783810
+Display Name:
+MORTENSEN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+88
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cooked as directed and it was pretty good. A few notes: 1. I really liked the pretzel topping. 2. The thyme overwhelmed the other flavors, maybe use a little less. 3. Unless using a precooked brat, the temp should be lower than med-high.

@@ -1,0 +1,37 @@
+Recipe number:
+257952.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-22T01:39:28.313
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and these turned out good. I honestly thought the uncooked chicken would water down everything else once it cooked and I'd be left fishing for everything but I was wrong. The one thing that stood out as different to me in this was using corn tortillas instead of flour. I liked that. You really do need to toast them in a skillet first though. Other than that I wouldn't change a thing.

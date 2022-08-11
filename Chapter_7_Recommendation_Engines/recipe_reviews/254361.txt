@@ -1,0 +1,72 @@
+Recipe number:
+254361.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-03-31T22:01:58.06
+helpfulCount:
+0
+userID:
+15537988
+Display Name:
+Mark Kamimski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For as most of the flavor comes from the tomatoes, having that much salt is overpowering. I would suggest that salt be to taste or 1 teaspoon.
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-06T07:19:41.53
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty dish that pleased the family. Thank you for sharing.

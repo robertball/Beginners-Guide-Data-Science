@@ -1,0 +1,37 @@
+Recipe number:
+262478.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-04T15:12:30.127
+helpfulCount:
+1
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+2011
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really great granola. Good peanut butter flavor, not too sweet, and no processed sugars! It's super fast to make and I could see adding almost any dried fruit, nut/seed, or even some dark chocolate chips into it. I substituted chopped walnuts for the pumpkin seeds, but kept everything else the exact same. Thank you for the recipe!

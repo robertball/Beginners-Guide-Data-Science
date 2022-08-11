@@ -1,0 +1,72 @@
+Recipe number:
+237328.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-14T14:57:35.613
+helpfulCount:
+1
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12226
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We liked this a lot but it makes a lot more than you would expect from the number of servings.  It isn't quite like the dressing you get at a Teppan Grill but close - very close.  Thanks!
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-04T17:53:40.507
+helpfulCount:
+0
+userID:
+4763812
+Display Name:
+just_jam
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+600
+favoritesCount:
+972
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1588823.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i had trouble with this recipe bc i didn't have ginger paste and i was using fresh ginger that i grated on my microplane.. i used a little less than 1 tbsp but the dressing was way too gingery.. i tried doubling all the other ingredients and it was still super pungent.. i ended up making bf's lunch for the next couple of days.. a mix of pasta, sausage, carrots, onion, and celery and i used this as dressing/sauce for it.. it worked

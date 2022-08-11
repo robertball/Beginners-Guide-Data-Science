@@ -1,0 +1,72 @@
+Recipe number:
+268255.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-02T22:09:50.84
+helpfulCount:
+0
+userID:
+13075315
+Display Name:
+Lori Peppard Williams
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2836992.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+they weren't bad . you would never kniw they glutin free .
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-01T02:42:59.14
+helpfulCount:
+0
+userID:
+9565917
+Display Name:
+tlcatc
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The meatballs burned on the cookie sheet, I would flip them over halfway through their oven time in the future.

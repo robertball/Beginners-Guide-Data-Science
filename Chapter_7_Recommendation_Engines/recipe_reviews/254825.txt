@@ -1,0 +1,37 @@
+Recipe number:
+254825.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-08T01:23:43.017
+helpfulCount:
+0
+userID:
+22384903
+Display Name:
+Hilda Gerbrandt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I reduced the sugar by 1/2 and still found it very sweet. I doubled the recipe and will use only 1 1/2 cups sugar next time. I used only 1 box jello and jam thickened well. Good overall taste.

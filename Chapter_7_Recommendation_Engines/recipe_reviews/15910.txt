@@ -1,0 +1,37 @@
+Recipe number:
+15910.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-27T20:13:29.04
+helpfulCount:
+2
+userID:
+3417576
+Display Name:
+Heide
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+71
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1407384.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! Perfect clone of my ex-MIL's recipe and I didn't have to ask her for it! Light, sweet and citrusy. Used my own candied orange and lemon peels. It generously filled 2  pre-made pie shells. I've been looking for this recipe for years. Thank you Linda!

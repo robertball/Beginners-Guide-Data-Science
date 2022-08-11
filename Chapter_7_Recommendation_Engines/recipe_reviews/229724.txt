@@ -1,0 +1,107 @@
+Recipe number:
+229724.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-10-24T04:04:57.607
+helpfulCount:
+7
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used orange juice concentrate for more orange flavor. Interesting mocha. I don't think I would use cocoa powder if I made it again, I would use cocoa mix or chocolate syrup.
+Review:
+Rating:
+3
+dateLastModified:
+2012-12-20T14:11:15.813
+helpfulCount:
+2
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Well, this did really taste like orange flavored coffee. I just realized this combination of coffee, cocoa, and orange doesn't work for me. It may have worked if it was a little sweeter or had cream in it, I don't know. The tartness of the orange juice just made the coffee a little unpalatable to my taste buds. Others may like this though.
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-07T17:48:30.647
+helpfulCount:
+0
+userID:
+19976898
+Display Name:
+Octavius
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was interesting flavor, i would make it a couple more times but its not a favorite.

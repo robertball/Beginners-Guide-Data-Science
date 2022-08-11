@@ -1,0 +1,72 @@
+Recipe number:
+278236.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-03T01:33:20.937
+helpfulCount:
+1
+userID:
+3896099
+Display Name:
+Buddy Irwin
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+651
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5963632.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!!! I made this as Chef John's recipe was written and this spread is a winner. A no mess way to eat Buffalo style chicken with all of the favorites you would expect. Be sure and make the blue cheese spread and put it on a crostini!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-30T06:00:45.69
+helpfulCount:
+1
+userID:
+26954312
+Display Name:
+Vandergoogles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7671971.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used White Castello cheese instead of blue cheese as hubby not keen on  blue.  Delicious!

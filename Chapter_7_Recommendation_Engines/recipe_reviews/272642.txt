@@ -1,0 +1,37 @@
+Recipe number:
+272642.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-27T16:39:03.22
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except for adding a couple pieces of crumbled bacon and this turned out pretty good. I was afraid the mayo would overpower but it didn't at all. Next time I will sprinkle some chopped tomatoes over the pizza after I take it out of the oven.

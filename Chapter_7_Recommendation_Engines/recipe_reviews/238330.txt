@@ -1,0 +1,73 @@
+Recipe number:
+238330.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-01T22:06:21.3
+helpfulCount:
+3
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+245
+followingCount:
+0
+madeRecipesCount:
+1342
+favoritesCount:
+2864
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Believe it or not it wasn't as tangy as you'd think it would be.  Nice for a change but doesn't beat Mom's. 
+I'd would try this one if you are on the fence.  The only change I made was subbing turkey bacon- it did crisp up real nice.
+Review:
+Rating:
+1
+dateLastModified:
+2020-02-10T16:44:41.187
+helpfulCount:
+0
+userID:
+812326
+Display Name:
+momto3gr8girls
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+120
+favoritesCount:
+609
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6613846.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very soggy and fell apart and was just too sweet.  Will need to spice up the leftovers and turn them into sloppy joes or taco meat.

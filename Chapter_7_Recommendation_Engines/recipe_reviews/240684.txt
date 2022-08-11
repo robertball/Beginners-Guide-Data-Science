@@ -1,0 +1,107 @@
+Recipe number:
+240684.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-04T08:46:10.2
+helpfulCount:
+3
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+766
+followingCount:
+0
+madeRecipesCount:
+519
+favoritesCount:
+2119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was a little skeptical of this one, because although I make tons of smoothies with greens added, I've never made one with Romaine lettuce. I made this exactly as written, including using the vanilla extract. It was sweet enough for my liking because the banana I used was very ripe.  The overall flavor was good, however I think I prefer my smoothies with kale or spinach instead. This was a very nice change of pace though!
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-23T01:13:51.837
+helpfulCount:
+1
+userID:
+1885593
+Display Name:
+Ella Leeh
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1596495.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have strawberry's so I used frozen blueberries and raspberry's, added a tsp of  fresh squeezed lemon,  1 TBS of powdered PB8 peanut powder and used unsweetened almond milk.  It came out very good.  You can always adjust the sweetness by adding Monk Fruit or some other natural sweetener to your liking or dietary needs.
+Review:
+Rating:
+3
+dateLastModified:
+2017-05-05T01:57:45.613
+helpfulCount:
+0
+userID:
+8707727
+Display Name:
+froggybaby
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+78
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2073061.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I serve it at school for children to sample.  To average the rating I got, I have to say it's OK.  !

@@ -1,0 +1,37 @@
+Recipe number:
+256114.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-27T21:12:15.647
+helpfulCount:
+0
+userID:
+8776078
+Display Name:
+Christa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+209
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was a little disappointed in these cupcakes. The gram cracker crust was too crumbly. It needed more butter to hold it together. The cupcakes themselves just tasted like yellow cake with bits of apple. If I make these again I will add spice to the cake batter or purchase a spice cake instead of a yellow cake I will also use more butter to make the crust stay together

@@ -1,0 +1,72 @@
+Recipe number:
+257101.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-22T23:25:09.033
+helpfulCount:
+2
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+222
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+865
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+With the exception of it being too salty, we really liked this. I made two large thin crust pizza's instead of one. I loved the Italian seasoning in the crust but I will add a tad more next time. I made no changes other than adding the sugar to the yeast/water mixture. I baked this on a pizza pan covered with parchment paper and dusted with corn meal. Thanks for sharing.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-22T00:52:59.07
+helpfulCount:
+0
+userID:
+16304475
+Display Name:
+Erica Pappalardo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+422
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3089447.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+LOVE this recipe!  I recommend following as is for a delicious crust!!!  Thanks for sharing. My Sicilian husband has finally approved of my homemade crust!

@@ -1,0 +1,37 @@
+Recipe number:
+231757.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-05T12:24:12.597
+helpfulCount:
+0
+userID:
+15803438
+Display Name:
+mking
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2295568.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned it into cupcakes. The Guinness added a nice flavor to the cheesecake, not too overpowering. The mixture was a bit watery, but they came out fine. They disappeared before I could take a pic lol.

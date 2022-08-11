@@ -1,0 +1,37 @@
+Recipe number:
+269392.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-08T05:20:57.75
+helpfulCount:
+0
+userID:
+26598164
+Display Name:
+Bepi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes but next time will use  apricot pieces - took too long to cut up. Was a big hit with family

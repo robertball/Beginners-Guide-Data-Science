@@ -1,0 +1,107 @@
+Recipe number:
+255646.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-06T00:10:45.52
+helpfulCount:
+2
+userID:
+10144060
+Display Name:
+T White
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+511
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6720635.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Such a great recipe! Ours turned out very nicely. My guy absolutely LOVED it. I followed the recipe but just made more rue than in the recipe so it would not dry up with all the filling. I also added an herb flavored vegetable bullion cube.  Was perfect! Will definitely make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-29T02:55:00.847
+helpfulCount:
+1
+userID:
+4320578
+Display Name:
+Jacqueline
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3588905.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so easy to prepare and perfect for leftover turkey! My whole family (including children) absolutely loved it, and were impressed at how "gourmet" it looked. I had to add a little extra broth because the flour mixture was extremely thick & impossible to work with. I also added a little garlic powder, but will add fresh garlic to the onion mixture next time.  I will definitely be making this again!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-02T01:43:43.243
+helpfulCount:
+0
+userID:
+12719682
+Display Name:
+Laurie Brindle
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+161
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2066106.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this turned out excellent!  I added spinach and some more onions and celery to give it more vegetables.  This was my first time with phyllo and it turned out fantastic!

@@ -1,0 +1,62 @@
+Recipe number:
+238851.txt
+Review:
+Rating:
+5
+dateLastModified:
+12/23/2014
+helpfulCount:
+3
+userID:
+plainolebob
+Display Name:
+Plain ole Bob
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I have made this recipe as directed and it is fabulose. Also works well as a dip.
+Review:
+Rating:
+5
+dateLastModified:
+07/10/2016
+helpfulCount:
+1
+userID:
+19989223
+Display Name:
+allyflowergurl
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I made it vegan & I didn't have lemon pepper so used white pepper it was yummy
+Review:
+Rating:
+1
+dateLastModified:
+11/16/2019
+helpfulCount:
+0
+userID:
+18136475
+Display Name:
+Stephen Rainey
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+absolutely nasty. made as listed
+Review:
+Rating:
+4
+dateLastModified:
+05/24/2019
+helpfulCount:
+0
+userID:
+georgiagirl
+Display Name:
+Tracey Cravey Hires
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2052354.jpg
+text:
+I ll keep this in my go to recipes.

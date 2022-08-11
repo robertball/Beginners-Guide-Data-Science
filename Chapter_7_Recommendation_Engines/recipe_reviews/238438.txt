@@ -1,0 +1,111 @@
+Recipe number:
+238438.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-05T14:20:55.88
+helpfulCount:
+2
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’m not sure if it was because I used butter instead of margarine, or because I added extra chips and nuts that the cookies did not spread, however they were still very good and wonderful for the chocoholic.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-10T17:37:49.883
+helpfulCount:
+1
+userID:
+1969256
+Display Name:
+Winnie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So .. I hadn’t made these is a couple years.  Today, I made a double batch.  I got 5 1/2 really large cookies out of that double batch. 
+
+While cooking,  I played with the temperature a bit.   At exactly 350 degrees, the cookies came out with a beautiful glossy cracked pattern and a brownie-like texture inside.    When I dropped the temperature to 325 degrees, the cookies lost that.  They looked “softer” and just not as pretty of a presentation.
+
+It was an excellent reminder to me that when baking cookies, correct  temperature is really important.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-16T01:51:58.72
+helpfulCount:
+0
+userID:
+4602111
+Display Name:
+muckymuck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies turned out amazing. I actually used a full 12oz bag of Hershey’s Special Dark chips as well as a 12 oz bag of Sea Salt & Caramel baking chips. What an awesome flavor. It did take them about 13 minutes to bake vs the 8-10 as directed. Will definitely make these again!

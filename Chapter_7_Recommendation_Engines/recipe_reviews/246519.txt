@@ -1,0 +1,107 @@
+Recipe number:
+246519.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-07T16:56:00.11
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+973
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This gets 10 stars! I tried the store-bought version of Sriracha salt and loved it, but ran out. I figured I could make my own to make do, since I can't buy any in my area. It doesn't matter. It's a hundred times better when you make your own. I would like to leave a tip: when spreading it out on the baking sheet, really spread it out. I made a patty-like sheet and the edges almost burned and the middle was still slightly, ever-so-slightly, gooey. So, the three hours is perfect but you might get a better result if you don't clump it all together. I'm hooked on this stuff. Next, I'm trying the hotter garlic sauce from Huy Fong Foods. Thanks a million WFDM!
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-13T01:46:48.44
+helpfulCount:
+1
+userID:
+4725020
+Display Name:
+Cindy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+146
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy & the sriracha gives just the right amount of flavor. Really good on anything. If you're a watermelon salter, like me, try it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-20T13:55:29.133
+helpfulCount:
+0
+userID:
+25681993
+Display Name:
+Janet Metzger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6735997.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fabulous recipe and so very easy...this will make great gifts come holiday season!!    Janet Metzger, Warrenton, Va

@@ -1,0 +1,72 @@
+Recipe number:
+239535.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-23T03:21:56.737
+helpfulCount:
+0
+userID:
+5780094
+Display Name:
+good Sheri
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7960954.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The idea was good. It came out much to tart
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-23T14:28:18.15
+helpfulCount:
+0
+userID:
+9558942
+Display Name:
+Mary Coleman
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1397773.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was absolutely delicious! My family really enjoyed indulging in this healthy dish!

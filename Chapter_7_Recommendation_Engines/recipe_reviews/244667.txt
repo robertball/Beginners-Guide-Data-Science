@@ -1,0 +1,37 @@
+Recipe number:
+244667.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-01-05T19:16:42.43
+helpfulCount:
+2
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for this. It got extremely thick when I shook it in the cocktail shaker. It turned out almost as thick as baby food and just as tasteless.

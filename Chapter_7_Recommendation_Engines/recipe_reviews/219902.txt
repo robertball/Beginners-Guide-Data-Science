@@ -1,0 +1,107 @@
+Recipe number:
+219902.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-03-03T17:26:29.83
+helpfulCount:
+0
+userID:
+21438800
+Display Name:
+Lizzy Corley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i used like a ton of mayonnaise and it was still really soupy. I then added some corn starch which significantly helped the consistency.
+Review:
+Rating:
+2
+dateLastModified:
+2015-02-02T11:01:06.07
+helpfulCount:
+0
+userID:
+15215791
+Display Name:
+Keyana Gregg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4143302.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor was good but the consistency was awful. I used a full cup of mayonnaise and let it set in the fridge for 12 hours and it was still too "soupy" and there certainly was not enough for 6 servings. I would try it again with 1 cup of sour cream, 1/2 cup of mayo and 1 tablespoon of water instead of 1 teaspoon.
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-27T07:47:34.47
+helpfulCount:
+0
+userID:
+2885646
+Display Name:
+Giovanna75
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a dip to have on hand for snacking on raw veggies, this one fits the bill.  Extremely simple and fast to make.  Consistency was a bit weird after first mixing, but evens out after some time in the fridge. Lacks the rich creaminess of a dip with sour cream, but good nonetheless.

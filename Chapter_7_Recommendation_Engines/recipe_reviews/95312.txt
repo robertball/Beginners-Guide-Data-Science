@@ -1,0 +1,76 @@
+Recipe number:
+95312.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-28T12:32:41.117
+helpfulCount:
+7
+userID:
+11767720
+Display Name:
+Mad Doc
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6582003.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As traditionally prepared Sea-Pie is quite tasty. This was and continues to be a staple of sailors & seafarers.  
+
+Sea-pie was & is essentially a layered meat pie made with meat or fish, and is known to have been served to American & British sailors during the 18th century.  As a sailor I have enjoyed this dish on occasion.
+
+In Quebec this dish is called cipaille, cipâtes or six-pâtes (in French), and is a traditional Quebec dish. The French name originated as an adaptation of sea-pie.
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-09T00:36:42.413
+helpfulCount:
+4
+userID:
+5979369
+Display Name:
+EmergGirl
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+292
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3317841.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Authentic to what we're used to eating in Northern Ontario, Canada. Turned out just like my hubby's mémère (grandma) used to make!

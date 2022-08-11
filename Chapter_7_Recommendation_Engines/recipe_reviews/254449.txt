@@ -1,0 +1,72 @@
+Recipe number:
+254449.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-25T14:48:52.63
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2832
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious. I froze mine. I made a non-alcoholic version for the kids, which turned out like a granita.
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-04T22:48:13.807
+helpfulCount:
+0
+userID:
+17425988
+Display Name:
+Matt Wencl 
+isPro:
+False
+followersCount:
+70
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+241
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3268229.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Crisp and refreshing, this not-too-sweet beverage is perfect for cooling down on relaxing summer evenings...yum.

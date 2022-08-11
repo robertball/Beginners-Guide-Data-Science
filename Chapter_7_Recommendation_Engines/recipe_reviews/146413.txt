@@ -1,0 +1,37 @@
+Recipe number:
+146413.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-10-24T11:18:28.52
+helpfulCount:
+1
+userID:
+2560847
+Display Name:
+chef climber
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is a really good recipe. it's great 4 a quick dish on the line

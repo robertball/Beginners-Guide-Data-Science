@@ -1,0 +1,37 @@
+Recipe number:
+260059.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-01T23:31:57.303
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made only half the recipe and it was still enough for 4 people. I used Hatch Chiles since they're in season and I just bought 25 lbs. It was just ok, more on the bland side. There was a bit of spiciness due to the chiles but other than that there was really no flavor. And Hatch Chile's are very flavorful.

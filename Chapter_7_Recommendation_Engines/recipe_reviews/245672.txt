@@ -1,0 +1,72 @@
+Recipe number:
+245672.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-02T21:53:32.027
+helpfulCount:
+0
+userID:
+8548213
+Display Name:
+Laura Henninger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5946094.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just got back from Sicily and I was looking for a pistachio pesto recipe. This sauce tastes pretty authentic. My husband and I were both very happy. I did not use gluten free noodles though.
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-05T23:30:32.327
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoyed the pistachio pesto and it alone will grab you. I used a pestle and mortar to make it so I didn't need the ice cubes. The pasta is probably the best gluten free pasta around, not just for it's authentic taste, but for texture. Thank you for the recipe.

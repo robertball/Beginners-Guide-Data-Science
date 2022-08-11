@@ -1,0 +1,72 @@
+Recipe number:
+276108.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-27T18:12:40.267
+helpfulCount:
+1
+userID:
+26184055
+Display Name:
+JD DeTrempe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7080400.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best flavored Swiss Steak since I was a kid.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-08T17:37:04.413
+helpfulCount:
+0
+userID:
+7870765
+Display Name:
+Hawaiivike
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+226
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/791737.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added another 15 minutes pressure time to tenderize the meat a little more. I also added a half cup of beef stock and used smoked paprika instead of plain.  It turned out great! (for my taste buds anyway).

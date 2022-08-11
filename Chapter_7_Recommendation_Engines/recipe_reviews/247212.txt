@@ -1,0 +1,72 @@
+Recipe number:
+247212.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-18T09:17:08.74
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A delicious and complete breakfast. I did not add honey. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-21T21:05:43.77
+helpfulCount:
+1
+userID:
+9238162
+Display Name:
+Heather Meyers
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3615407.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was really delicious. I didn't follow the steps I just stuck everything in my blendtec and turned it on. I omitted the chocolate chips because I really wanted to taste the other flavors and not bits of chocolate. It was very tropical, mildly sweet and delicious.

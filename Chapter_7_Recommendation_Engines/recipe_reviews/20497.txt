@@ -1,0 +1,107 @@
+Recipe number:
+20497.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-02-07T13:02:27.39
+helpfulCount:
+14
+userID:
+3867623
+Display Name:
+Washington mountainman
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/243737.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good dip. I had to use what I had in the house, so any change to the ingredients works fine. I chose to spread the finished dish in a cassarole dish and layer with cheeses and black olives. Quite hardy.
+Review:
+Rating:
+4
+dateLastModified:
+2006-09-25T12:13:06.623
+helpfulCount:
+7
+userID:
+1050274
+Display Name:
+23TERRY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I though the flavor was a little bland so I added chili powder and red pepper flakes and it turned out to be a pretty good hit.  I will make again
+Review:
+Rating:
+4
+dateLastModified:
+2012-11-18T09:43:03.63
+helpfulCount:
+5
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used leftover seasoned taco meat in this recipe and only one can of black beans because that was all I had on hand. I did go light on the hot sauce because I was serving my husband and two kids. They made quick work of this dip and a bag of tortilla chips, I swear it was inhaled in 15 minutes.

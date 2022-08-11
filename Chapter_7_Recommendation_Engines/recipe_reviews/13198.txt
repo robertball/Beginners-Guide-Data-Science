@@ -1,0 +1,72 @@
+Recipe number:
+13198.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-11-15T17:52:36.783
+helpfulCount:
+6
+userID:
+1645225
+Display Name:
+Mary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+108
+favoritesCount:
+3150
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/297766.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We were snowed in this weekend and I did not go to the store before the storm settled in.  I found that I had most of the ingredients for this and it really was good. I did not have tomato paste so I used ketsup nor did I have any beer so I just used beef broth. I will make it again with all the correct ingredients. Thanks for another good recipe in my box!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-02T04:53:06.487
+helpfulCount:
+0
+userID:
+1578150
+Display Name:
+Zuzana Halbgewachs
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+345
+favoritesCount:
+1730
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup is excellent. I cooked potatoes separate and added a lot more sauerkraut, because we love it.

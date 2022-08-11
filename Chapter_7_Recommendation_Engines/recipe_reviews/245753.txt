@@ -1,0 +1,72 @@
+Recipe number:
+245753.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-25T17:42:45.763
+helpfulCount:
+6
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm assuming the 80 servings is supposed to read 8. That being said, I halved the recipe with 4 servings in mind. I really liked this but wanted to mention a couple of things. One egg per pound of shrimp is plenty so save yourself some eggs. Step 7 says to test your shrimp but doesn't state how to do that. Eating under cooked shrimp would not be a good idea however  5 minutes in hot enough oil is plenty and there is no need for testing. Lastly, I found that the breading set on the shrimp just fine and didn't really need the 30 minutes refrigerating time. The end results was great but  I think you can save yourself some time and money with the things I suggested.
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-02T06:22:27.39
+helpfulCount:
+3
+userID:
+2405207
+Display Name:
+Wiley
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+153
+favoritesCount:
+513
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/224938.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are really good!  I only had a handful of shrimp, so I made 1/4 the batter recipe.  I made a few changes to the sauce recipe.  I left out the corn syrup and used only two tablespoons of butter to 1/2 cup of Frank's.  Also, I baked the shrimp instead of frying.  Will make again!

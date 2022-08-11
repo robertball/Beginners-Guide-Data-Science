@@ -1,0 +1,37 @@
+Recipe number:
+275065.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-15T12:19:24.07
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+540
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very simple to make and very good flavors. I found it to be kind of wet, but it may have just been my pears making the liquid when being heated up. My onions cooked faster than 10 minutes and my quesadillas browned in 1 minute per side. This made 3 quesadillas for me. Make it! Try it! It's good!

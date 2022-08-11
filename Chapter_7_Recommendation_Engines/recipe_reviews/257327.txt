@@ -1,0 +1,37 @@
+Recipe number:
+257327.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-07T04:45:01.767
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and these were great. Tip for the fries. Let them soak in cold water for 5 minutes. Change out the water and let them soak again. When you go to fry, fry them for 3 minutes and take them out of the oil and let them drain on a paper towel for a few minutes. Fry them again. If you like them crispy then this is the way to do it.

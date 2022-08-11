@@ -1,0 +1,108 @@
+Recipe number:
+212908.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-15T22:30:02.13
+helpfulCount:
+23
+userID:
+6049709
+Display Name:
+Paul Panlilio
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+162
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/535132.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this dish specially when the spices are bumped up several notches. I changed a few ingredients: 1/2lb liver, 1lb lung, 1lb heart, 1lb spleen, 4bay leaves, 3 large onions finely chopped, 1 16oz can of stewed tomatoes, dash of parika, cayenne, and 2 jalapeno peppers.
+I boil the meats in water with salt, pepper and spring onions. (the water left from boiling the meat makes a good base for Demi-Glaze).
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-10T17:58:27.817
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a tasty dish. The texture is what is difficult for me, but the flavor is excellent. I prefer to a mince rather than cutting into pieces. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-06T11:05:24.597
+helpfulCount:
+1
+userID:
+14426219
+Display Name:
+Jaffy Malagar
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1532691.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So good!!!

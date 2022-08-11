@@ -1,0 +1,72 @@
+Recipe number:
+232989.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-18T16:53:30.99
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't expect to like the ranch but it was really good in here. A little on the salty side but still good. These came out very pretty but very hot. Hotter than without the ranch packet which I would have thought to tame the heat but no. Still good though and one I will make again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-25T03:53:22.027
+helpfulCount:
+1
+userID:
+12591697
+Display Name:
+guitarxace
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everyone loved these and i dont think i made enough!!!

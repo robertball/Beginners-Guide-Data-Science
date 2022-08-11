@@ -1,0 +1,37 @@
+Recipe number:
+218446.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-02-05T21:59:16.38
+helpfulCount:
+0
+userID:
+23006445
+Display Name:
+Kiki
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+my mixture came out way to dry! I added some almond milk just to get it mixed. tastes OK but didn't stay together.

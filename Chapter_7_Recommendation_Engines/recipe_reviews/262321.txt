@@ -1,0 +1,107 @@
+Recipe number:
+262321.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-21T17:29:10.747
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good but needed a LOT more liquid which translates to more seasoning as well. I ended up doubling the bouillon and also adding Mexican oregano. When I realized it was going to need more liquid to get the noodles done, I used a mixture of the tomato puree and chicken broth instead of water. That definitely added to the flavor and I would replace all of the water with it next time. Watch your noodles closely. They do not make any sizzling noises so if you turn your back on them like I did you will end up with some very brown noodles around the edge of the skillet. Overall I think this was a good recipe but one that just needs a little extra than what it calls for.
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-16T00:55:12.097
+helpfulCount:
+1
+userID:
+6583712
+Display Name:
+nursermk
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+1540
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2555114.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good with a little embellishment. I took the suggestion of the previous reviewer and used more tomato puree instead of water, also additional broth (to cook the noodles) and some oregano. I started by sautéing  onion and celery after the noodles just to give it a little texture. I have made Sopa de Fideo before in various ways and find it to be tasty and filling.  This is a good base recipe and I may try a little chicken or sausage next time, but I will keep it and play around with the ingredients for fun.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-01T05:16:10.873
+helpfulCount:
+0
+userID:
+11837919
+Display Name:
+Kathy McDonald Spencer
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+421
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4213564.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It  turned out very thick so I added a little more chicken broth.  If I make it again, I don't think I will brown the noodles as much.

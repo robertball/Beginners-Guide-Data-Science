@@ -1,0 +1,111 @@
+Recipe number:
+267628.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-27T17:04:47.627
+helpfulCount:
+0
+userID:
+24317295
+Display Name:
+Kitty Rocha
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7525289.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the closest recipe I've found that tastes like my grandmother's.  I diced the veggies up much smaller, which makes it easier to serve as a taco filling, or in an empanada.
+Review:
+Rating:
+2
+dateLastModified:
+2019-08-21T03:29:43.727
+helpfulCount:
+0
+userID:
+26021184
+Display Name:
+Learn, lunch, lunch
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think posting a recipe on a site has to be a baring, giving experience and I thank you for posting.  I sure as heck haven’t done it so please know I the following is my attempt st honest yet occasionally colorful critique.  I liked a lot of the techniques on paper.  I did enjoy the onion-serrano sauté base and the potato and carrot addition, but so much liquid in this recipe.  In order to make this recipe work I needed to strain the solids and retain and separately reduce the liquid.  Also cumin isn’t sufficient.  Needs adobo and Mexican powdered chile in place of the single jalapeño.  Depending on the fat content of the beef one might use I’d suggest making the side tomato-onion-garlic base with a mini can of tomato paste and 1 standard tomato instead of six tomatoes.  Unless you have a paella pan it will be hard to brown anything after the beef addition let alone the enormous amount of resultant liquid from the blending of six tomatoes. 
+Overall I liked the flavors but am curious what equipment this was prepared on when the dish was first documented.  Really happy to see a Mexican picadillo recipe but for the purpose of a review I have to say monitor your liquid input and how wide of a pan you can use.  Steam and excess liquid are the enemy here.
+Fantastic quesadillas filling though.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-20T21:15:57.963
+helpfulCount:
+0
+userID:
+24262691
+Display Name:
+Elisabeth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added serranos to the blended tomato, came out very spicy and delicious but I would recommend adding extra veggies like peas/zuchinni/bell peppers for some color and more texture.
+
+Ate it as tacos with some queso fresco on the side.

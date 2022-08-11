@@ -1,0 +1,37 @@
+Recipe number:
+268609.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-07T22:26:26.323
+helpfulCount:
+0
+userID:
+24425485
+Display Name:
+Beth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this recipe made according to the directions.  I think it might of been better without the sausage.  I thought the best part was the cheese ravioli and the pumpkin sauce.  I could of done without the sausage.

@@ -1,0 +1,37 @@
+Recipe number:
+257623.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-07-07T21:23:11.247
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1103
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really did not care for this. I thought the combo sounded totally out of the box, which it was. Flavor wise it did not work. I took 3 sips and wound up pouring it down the sink. Sorry for such a harsh review but I just could not drink it.

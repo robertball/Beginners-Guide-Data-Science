@@ -1,0 +1,37 @@
+Recipe number:
+240117.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-29T07:34:00.463
+helpfulCount:
+0
+userID:
+2016123
+Display Name:
+spice of life
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+253
+favoritesCount:
+2318
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5746750.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this as an appetizer on Thanksgiving.  Had to substitute bluefish with trout, but it was delicious.  Served on peppered water crackers.  Will be making this again.

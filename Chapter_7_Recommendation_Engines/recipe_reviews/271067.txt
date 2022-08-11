@@ -1,0 +1,37 @@
+Recipe number:
+271067.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-20T22:42:28.597
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a refreshing and creamy treat for dessert on Taco Tuesday. I made a few for the kids by omitting the tequila. Truly delicious. I did not like the salt, though. I thought it would go so well with the sweet and tart, but it didn’t.

@@ -1,0 +1,37 @@
+Recipe number:
+261016.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-13T17:45:06.93
+helpfulCount:
+0
+userID:
+17265068
+Display Name:
+Barbara Gilson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3113352.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn’t have Almond milk on hand, so I used regular 2% milk, and maybe that’s why it was a bit bland.  I would increase the cinnamon and include some nutmeg.

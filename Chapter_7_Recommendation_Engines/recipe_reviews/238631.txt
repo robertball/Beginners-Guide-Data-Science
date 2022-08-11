@@ -1,0 +1,72 @@
+Recipe number:
+238631.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-28T23:04:36.02
+helpfulCount:
+0
+userID:
+17960857
+Display Name:
+Tim Church
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think a little less mayo, and a little more sour cream would fit my palet better
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-26T21:12:06.857
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good.  It was lacking in color and so maybe an invitation to eat it because of that.  But it was good.  I think maybe I'm not a fan of Beau Monde and so will make this next time with a different seasoned salt and the whole green onion!  Kate, I'm pretty sure my mom used to make something very similar to this, too!  Thanks for the reminder!

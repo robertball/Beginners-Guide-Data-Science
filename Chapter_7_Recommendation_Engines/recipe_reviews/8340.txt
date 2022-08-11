@@ -1,0 +1,142 @@
+Recipe number:
+8340.txt
+Review:
+Rating:
+1
+dateLastModified:
+2000-05-30T12:11:56.247
+helpfulCount:
+34
+userID:
+62090
+Display Name:
+RALPH PARKER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe sounded good but came out heavy. The taste was just o.k.
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-22T16:44:33.577
+helpfulCount:
+4
+userID:
+844886
+Display Name:
+It's A New Day
+isPro:
+False
+followersCount:
+288
+followingCount:
+0
+madeRecipesCount:
+450
+favoritesCount:
+522
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/615239.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You have to wonder what you are to do with a cake like this.  It is very dense and almost is like a snacking cake but very plain.  I used it as base for berries and whipped cream.  You really cannot tell that there is strawberry jam in it.  I used some homemade jam which actually was the bottom of a jar and was mostly the jelly and not the strawberries which may have been why we couldn't tell it was there.  We really enjoyed this with the berries and whipped cream.  DH had seconds.  Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-11T10:18:19.36
+helpfulCount:
+1
+userID:
+7275810
+Display Name:
+Kate Ruddle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1653939.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I kept everything as is except used 1/2 c jam.  I baked it in cupcake molds and it came out tasting like sweet strawberry muffins.
+Review:
+Rating:
+1
+dateLastModified:
+2018-06-18T16:15:23.287
+helpfulCount:
+0
+userID:
+14897826
+Display Name:
+Emily Guthrie
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1808572.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't write reviews. But I  just feel like I have to...this cake was horrible! It tasted like pancake mix, so much that it powered out the strawberry flavor. I do like a cake that is dense...but this cake was way too dense. I truly don't recommend it.

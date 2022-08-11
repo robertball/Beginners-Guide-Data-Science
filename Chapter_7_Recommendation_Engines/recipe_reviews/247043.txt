@@ -1,0 +1,72 @@
+Recipe number:
+247043.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-02T21:23:18.3
+helpfulCount:
+0
+userID:
+22361767
+Display Name:
+chblue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I doubled the recipe because of our large family.  Everyone loved it and we had leftovers to take for lunch the next day.
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-14T02:20:56.007
+helpfulCount:
+0
+userID:
+20581361
+Display Name:
+Steve Joy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4389787.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's a very good dish. Don't go too crazy with the mango or it's overwhelming. I used half of one and it was great!

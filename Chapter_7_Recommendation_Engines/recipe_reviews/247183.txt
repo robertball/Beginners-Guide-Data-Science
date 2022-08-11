@@ -1,0 +1,37 @@
+Recipe number:
+247183.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-24T18:40:34.997
+helpfulCount:
+1
+userID:
+9881858
+Display Name:
+Jen Heinisch Nero
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+132
+favoritesCount:
+411
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1649826.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe just as it’s written! We only thread shrimp though and double the recipe. I usually roast peppers onions and new potatoes in the oven to serve with it and will throw some sliced pineapple along side the shrimp on the grill. When friends come over they don’t last long! Absolutely delicious!

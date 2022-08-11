@@ -1,0 +1,37 @@
+Recipe number:
+240345.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-23T07:44:22.39
+helpfulCount:
+3
+userID:
+4462283
+Display Name:
+What's for dinner, mom?
+isPro:
+False
+followersCount:
+11593
+followingCount:
+0
+madeRecipesCount:
+555
+favoritesCount:
+1378
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3274570.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good basic recipe.  I prefer Bourbon to Vodka for making vanilla.  I also split my beans and scraped the pulp out and put that in the bottle along with the beans.  It adds nice flecks to the extract.  You still have a slight Bourbon flavor but that is a plus for me.  If you don't want that then I suggest you use Vodka.  If the vanilla flavor is not as strong as you would like you can let it stand another few weeks.  I used all the beans that I bought as it came in a package with 12 beans.  Makes a nice addition to a home made items gift basket.

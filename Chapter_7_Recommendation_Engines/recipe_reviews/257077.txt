@@ -1,0 +1,37 @@
+Recipe number:
+257077.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-04-03T21:45:27.127
+helpfulCount:
+0
+userID:
+3439303
+Display Name:
+tonia.st
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+67
+favoritesCount:
+1782
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3313718.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this following the recipe, only leaving out the walnuts. It was okay but there was not enough of the lemon and honey dressing. If I made this again, because I like the ingredients, I would double the dressing, and add some spices.

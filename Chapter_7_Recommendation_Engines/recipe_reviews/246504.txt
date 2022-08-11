@@ -1,0 +1,495 @@
+Recipe number:
+246504.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-25T23:41:06.913
+helpfulCount:
+3
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+272
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3415
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved, Loved, Loved this recipe!  The creaminess of the ricotta, crunch of the coconut and almonds, and sweetness of the blueberries and honey worked perfectly together.  I would eat this for dessert!
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-30T16:22:36.2
+helpfulCount:
+3
+userID:
+13388720
+Display Name:
+crazy14hoops
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+223
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it!  The honey adds the perfect amount of sweetness.  I tossed the shaved coconut with the almonds and threw in some oats for a little more substance.  Tasty treat.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-10T21:53:44.78
+helpfulCount:
+1
+userID:
+3514185
+Display Name:
+Gotrecipe?
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+1779
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow!  this was nice!  I didn't have the coconut milk and I wasn't about to run out to the store (I live out in the country) and buy some for just 1 T., so I used the almond milk I already had on hand.  Don't know how it could have tasted any better.  Thanks Lexus Oliver for a healthy, delightful recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-09T12:33:43.213
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I used part-skim ricotta, so this made a great light breakfast. Also, I used sliced almond b/c that's all I had on hand. I will def be making this again~YUM! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-30T16:13:03.35
+helpfulCount:
+0
+userID:
+7801402
+Display Name:
+Culinary Slut
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7318341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and simple to make. 
+
+I use coconut water instead of coconut milk. Sometimes I just use regular milk and a few drops of coconut flavour extract .
+
+There's lots of other fruit combinations that work with this:
+Strawberries Banana (considering swapping almonds for pistachios); 
+Pineapple (considering swapping almonds for pistachios); 
+Blackberries;  
+Mango (consider swapping almonds for cashews);
+ Passionfruit  (consider swapping almonds for cashews);
+ Strawberries and Banana; 
+Banana and Blueberries;
+ Blackberries and Banana; 
+Mango (consider swapping almonds for cashews);
+Banana and Mango; 
+Blackberries and Mango;  
+Blueberries and Mango; 
+Passionfruit and Mango  (consider swapping almonds for cashews); 
+Mango and Strawberries;  
+Banana and Passionfruit (consider swapping almonds for cashews); 
+Pineapple and Banana (consider swapping almonds for cashews); 
+Pineapple and Mango (consider swapping almonds for cashews); 
+Passion Fruit and Pineapple (consider swapping almonds for cashews); 
+Strawberries and Pineapple;  
+Pineapple and Oranges; 
+Mango and Oranges (consider swapping almonds for pistachios);  
+Passion Fruit and Oranges;
+Blackberries and Strawberries; 
+Blueberries and Strawberries; 
+Mangos and Strawberries; 
+Oranges; 
+Oranges and Banana (consider swapping almonds for pistachios);  
+Blackberries and Oranges;
+Blueberry and Oranges;
+Pineapple and Oranges;
+Strawberries and Oranges;
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-06T11:56:50.873
+helpfulCount:
+0
+userID:
+24057762
+Display Name:
+Jennie Hammond
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is straight from heaven! I wondered if instead of blueberries and almonds you could change things up sometimes n try different nuts n fruits. Pecans and cranberries! That's what's great about all recipes they're inspirations.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-19T00:46:48.84
+helpfulCount:
+0
+userID:
+8327308
+Display Name:
+lovely1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3266
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved It.  I used part-skim ricotta to save some calories.
+Honey was just the right amount of sweetness.  This
+will definitely be on my breakfast menu.
+Review:
+Rating:
+3
+dateLastModified:
+2018-06-24T22:21:04.06
+helpfulCount:
+0
+userID:
+2870524
+Display Name:
+Charisma138
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+127
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/17.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Not really to my liking, more into granola/yogurt/fruit, but wanted to try something new.
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-25T18:07:46.873
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+7.25.17  This was a nice change from my morning yogurt, and I really liked the honey drizzle on the part-skim ricotta that I used.  Recipe calls for you to top this with 1/2 cup of blueberries and that would be too much for such a small portion unless you mix the berries into the ricotta.  Whatever suits you, I just sprinkled some over the top.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-23T00:08:27.86
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I also used part-skim milk ricotta and the outcome was still delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-26T22:58:31.81
+helpfulCount:
+0
+userID:
+14355365
+Display Name:
+HollyD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3844547.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A fantastic healthy breakfast or snack! I substituted cashew milk and omitted the coconut flakes. I also used sliced strawberries instead of blueberries.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-30T14:15:42.713
+helpfulCount:
+0
+userID:
+7129748
+Display Name:
+Cookie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+664
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a wonderful, filling breakfast.  I used cashew milk instead of coconut and followed recipe.  This could even be a dessert, it's so good.  Loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-22T13:34:08.817
+helpfulCount:
+0
+userID:
+4198209
+Display Name:
+Katherine Marie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3441152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious Summer breakfast! Definitely filling and satisfying while still feeling fairly light and healthy. Love the fact that it is so different from our normal breakfast selections.
+ We sprinkled a few chocolate chips on top, per my 5 year old daughter's request.  Highly recommended and will definitely be making again! Thanks!

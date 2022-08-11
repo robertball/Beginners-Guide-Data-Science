@@ -1,0 +1,72 @@
+Recipe number:
+260763.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-03T20:09:20.517
+helpfulCount:
+1
+userID:
+23461559
+Display Name:
+Lena
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+225
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5221891.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This came out so good and looked so pretty! will definitely make again
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-22T18:06:48.577
+helpfulCount:
+1
+userID:
+2289323
+Display Name:
+Diana Moutsopoulos
+isPro:
+False
+followersCount:
+281
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+357
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/166994.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just made this again using all whole milk instead of coconut milk and it’s just as delicious. My kids love it too! Since the ube is so sweet you can even reduce the sugar to 1/3 cup, which would make each serving less than 1 tbsp of added sugar each.

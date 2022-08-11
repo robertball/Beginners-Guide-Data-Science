@@ -1,0 +1,37 @@
+Recipe number:
+35920.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-04-29T03:49:33.75
+helpfulCount:
+10
+userID:
+1409159
+Display Name:
+WEBGUY1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Similar to the Filipino lechon de leche... requires time to cook... but it's worth it!

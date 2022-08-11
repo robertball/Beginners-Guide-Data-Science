@@ -1,0 +1,72 @@
+Recipe number:
+230309.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-11-27T11:51:35.423
+helpfulCount:
+1
+userID:
+3543276
+Display Name:
+jdbishop
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not really a fan- just tasted like melted ice cream to me. I've never had an ice cream punch, though, so maybe that's what it is supposed to taste like?
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-05T08:27:23.83
+helpfulCount:
+0
+userID:
+25262984
+Display Name:
+Josiah Brooks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6433306.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Try eggnog and cremesoda together, its a lot better. My whole family mixes eggnog and different kinds of Pop together and we all love it I don't know why LOL. so I've tried a lot of different combinations and so far I like cream soda the best

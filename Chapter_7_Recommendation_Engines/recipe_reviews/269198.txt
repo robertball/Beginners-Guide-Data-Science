@@ -1,0 +1,37 @@
+Recipe number:
+269198.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-09T18:48:08.27
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was really surprised that this turned out well. Mine only took 70 seconds, and it was moist and tasty. I made mine with mint chocolate chip ice cream!

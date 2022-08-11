@@ -1,0 +1,37 @@
+Recipe number:
+246472.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-19T01:46:05.677
+helpfulCount:
+1
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+302
+followingCount:
+0
+madeRecipesCount:
+251
+favoritesCount:
+1637
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7665074.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yep, this is how to make rice balls :) Wet your hands, add a little salt and form the rice into a ball, adding a filling in the middle. Best fillings are seeded umeboshi and this cook seaweed thing called "gohan desu yo". Tunafish w/mayo in the middle of rice is a little odd, but it wasn't bad, and I made it with brown rice. I love the taste of nori with rice so you really cannot go wrong!

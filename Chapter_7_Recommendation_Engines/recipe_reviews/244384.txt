@@ -1,0 +1,107 @@
+Recipe number:
+244384.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-10T13:55:26.797
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+969
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very good. I bet cashews would work here if you are out of sunflower seeds. The lime gives it an edge. I added some extra sunflower seeds before popping it in the oven for some extra crunch. Next time, I will definitely add some cauliflower. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-26T03:56:25.057
+helpfulCount:
+0
+userID:
+25264557
+Display Name:
+Baseball Cat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445929.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing recipe! Don’t expect it to taste anything like Mac and cheese but everybody I shared this meal with loved it! I think the recipe could have been written in a much less confusing way as it made it kind of hectic to make because I had to calculate a lot of measurements that should have been plainly stated in the later part of the recipe but the meal itself is stellar. Definitely going to be making this again soon.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-29T01:29:31.807
+helpfulCount:
+0
+userID:
+4745280
+Display Name:
+BRG
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+841
+favoritesCount:
+1544
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good concept - I added a few more vegetables.

@@ -1,0 +1,37 @@
+Recipe number:
+255404.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-05T00:26:52.86
+helpfulCount:
+0
+userID:
+10566508
+Display Name:
+MamaGreen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time making this recipe and I wasn't super impressed with the flavor. I made it exactly as written and it was much sweeter and not as spicy as I was anticipating. It was so nice and easy to make though and the consistency of the chicken was amazing! I will probably be making it again but I'll try and add some different spice to make it spicier. If you're looking for spicey chicken this really isn't it.

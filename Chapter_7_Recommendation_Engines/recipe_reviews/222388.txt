@@ -1,0 +1,108 @@
+Recipe number:
+222388.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-20T15:50:25.96
+helpfulCount:
+4
+userID:
+11174581
+Display Name:
+Serene Feng
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1362908.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome!
+It's amazing.
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-14T07:27:51.307
+helpfulCount:
+2
+userID:
+8262477
+Display Name:
+Leslie Knox
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7046052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavors came together well and it really was simple to prepare. My husband and I both enjoyed it!
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-22T12:46:43.663
+helpfulCount:
+1
+userID:
+8542392
+Display Name:
+Leah Woodward Wiley
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+274
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3622441.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best breakfast ever! I ran out of paprika while seasoning, so I used garlic piercer on the other half of the batch. Very good! Can't wait to make it again... and figure out how to use the drippings!

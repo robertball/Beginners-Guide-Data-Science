@@ -1,0 +1,37 @@
+Recipe number:
+238650.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-01-13T18:13:17.523
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+403
+followingCount:
+0
+madeRecipesCount:
+1118
+favoritesCount:
+3233
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this exactly as written and I could not drink it. The Pepsi gave it a very weird taste. Took two sips and threw the rest away. Glad I only made 1 serving.

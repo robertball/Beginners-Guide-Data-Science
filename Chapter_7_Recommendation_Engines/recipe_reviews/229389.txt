@@ -1,0 +1,37 @@
+Recipe number:
+229389.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-25T13:24:30.357
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10.25.17  If you’re a fan of pimento cheese, give this recipe a try.  I know, I know it sounds a bit strange with this combination of ingredients for a dessert, but it works!  I used sugar-free Jell-O®. skipped the sugar completely (would do that again), pineapple in its own juice, and light whipped topping to make it more diet friendly.   The pimento cheese gives the dessert a bit of a chunky texture (and that's OK), but it’s very light and creamy   This one’s definitely outside-the-box for me, but we liked it and I would make again!

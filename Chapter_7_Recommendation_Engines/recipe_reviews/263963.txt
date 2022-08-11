@@ -1,0 +1,37 @@
+Recipe number:
+263963.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-12T12:53:26.89
+helpfulCount:
+1
+userID:
+3949743
+Display Name:
+drkataterfish
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+An amazing recipe that has consistently turned out well. The crust is crunchy and the inside tender. The flavor is neutral but can be enhanced with toppings, the addition of cinnamon or almond. Exactly what I was looking for!

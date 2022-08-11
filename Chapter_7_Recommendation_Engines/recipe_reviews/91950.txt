@@ -1,0 +1,107 @@
+Recipe number:
+91950.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-07-09T10:47:14.967
+helpfulCount:
+7
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+244
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this using 3 regular-sized bagels, and pretty much just eyeballed the ingredients. I thought one cup of mayo sounded WAY too much, so I used a heaped tbsp, and it was plenty. This was quick and easy, but not something I would want too often. Thanks, debsling!
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-22T17:20:13.05
+helpfulCount:
+1
+userID:
+2197043
+Display Name:
+Erin C.
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+214
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made these exactly as the recipe was written, and they were a HUGE hit!  The only thing I might do differently next time is also make a batch of a vegetarian version- maybe cream of mushroom soup and replacing the ham with another veggie?  I had a few people who didn't eat red meat who were disappointed they couldn't try them.
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-15T11:36:21.203
+helpfulCount:
+0
+userID:
+12880376
+Display Name:
+Membership
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4085405.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thought they were very good,not quite airy but great  out of the oven and even better toasted! TY  Pot Luck Baker.....

@@ -1,0 +1,37 @@
+Recipe number:
+277717.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-09-29T23:57:26.073
+helpfulCount:
+0
+userID:
+14083379
+Display Name:
+Patricia
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+220
+favoritesCount:
+1082
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4557433.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the ease and simplicity of this recipe. Because there is only two of us I scaled it down to 3 servings. I also have to admit that I used onions instead of leeks, which I know would have been way better.  Next time I would definitely increase the amount of sauce and slice the potatoes thinner.   I like the recipe just looking for a bit more flavor.

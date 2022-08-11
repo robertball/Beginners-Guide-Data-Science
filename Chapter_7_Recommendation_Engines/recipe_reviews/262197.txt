@@ -1,0 +1,76 @@
+Recipe number:
+262197.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-01T01:41:22.163
+helpfulCount:
+2
+userID:
+1786179
+Display Name:
+Call Me Ishmael
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5278876.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this a couple of weeks ago.  These were good for the first few days then FREAKING INCREDIBLE after that.  
+
+The color combined with the crispy texture and yummy taste made these a HUGE hit with my family.  I am now going to can 6 pint jars of these.  
+
+HUGE HIT!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-16T00:59:42.24
+helpfulCount:
+1
+userID:
+7973031
+Display Name:
+Kabee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+56
+favoritesCount:
+703
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/950609.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved these.  Wanted to try a partial batch before committing to a full jar.  Wishing I'd have made the full recipe.  Easy enough to make more.  I used them on pork carnitas. Will be good with so many things!

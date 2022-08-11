@@ -1,0 +1,37 @@
+Recipe number:
+242421.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-21T11:36:43.56
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+An entire 7 oz. can of chipotle peppers would be inedible in my opinion. These little dudes are spicy and I am a fan of spicy. I used 3 peppers and that was the perfect spiciness for us. I highly recommend starting out with only a couple of peppers and then adding as you go.

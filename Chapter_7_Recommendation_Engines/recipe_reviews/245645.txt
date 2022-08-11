@@ -1,0 +1,107 @@
+Recipe number:
+245645.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-01T16:57:35.96
+helpfulCount:
+2
+userID:
+7727158
+Display Name:
+Beth Crader
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+93
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6101321.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i cut each sugar by half....if you use pumpkin pie spice blend why are you also adding the individual spices? One of the other is sufficient.  Pumpkin pie spice blend is cinnamon, ginger, allspice and nutmeg (I add cloves).
+Review:
+Rating:
+3
+dateLastModified:
+2016-11-19T17:51:24.28
+helpfulCount:
+0
+userID:
+8851494
+Display Name:
+Yadee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way, way, WAY too much ginger. Because it sounded like too much ginger, I cut the ginger in half. Half was still too much ginger. Couldn't even taste the pumpkin because so much spice.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-12T13:35:51.91
+helpfulCount:
+0
+userID:
+8144385
+Display Name:
+Kathie Gorelick
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6025443.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this last year and gave them out as gifts. This year a made an even bigger batch. I also add some cloves when cooking.

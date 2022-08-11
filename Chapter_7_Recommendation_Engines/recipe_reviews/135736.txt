@@ -1,0 +1,72 @@
+Recipe number:
+135736.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-09-02T03:51:37.75
+helpfulCount:
+8
+userID:
+2761942
+Display Name:
+DiamondGirl amanecer
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+350
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/593907.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good cocktail but I think traditional Piña Colada without Irish cream is more delicious. I also added more pineapple juice and cream of coconut.
+Review:
+Rating:
+3
+dateLastModified:
+2008-07-29T19:09:55.36
+helpfulCount:
+6
+userID:
+2590815
+Display Name:
+judymurphy56
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+10174
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good, but not sure that I like the Irish cream in this drink.  I added more pineapple juice and cream of coconut to my glass to cut the taste of the Irish cream . . . and I like Irish cream, but not in a pina colada!  I also think this should be mixed altogether in the blender so that it's all cold and the crushed ice melts more than it does with just half a cup of the mix.  Not sure that this is my ultimate pina colada recipe.

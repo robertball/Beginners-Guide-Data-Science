@@ -1,0 +1,107 @@
+Recipe number:
+245961.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-24T21:44:32.677
+helpfulCount:
+1
+userID:
+2441857
+Display Name:
+Manda
+isPro:
+False
+followersCount:
+123
+followingCount:
+0
+madeRecipesCount:
+284
+favoritesCount:
+383
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1928304.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added some extra cheese to this while it was cooking and used broth instead of water. It turned out extra delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-25T05:28:22.113
+helpfulCount:
+0
+userID:
+1472389
+Display Name:
+Carrie C.
+isPro:
+False
+followersCount:
+144
+followingCount:
+0
+madeRecipesCount:
+305
+favoritesCount:
+1835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2475216.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this dish. I made it earlier in the day and reheated it once my hubby got home. The liquid had been absorbed so it did not come out like a chili. More like a beans, rice and chicken dish but great flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-02T16:56:26.16
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8913
+followingCount:
+0
+madeRecipesCount:
+1118
+favoritesCount:
+2285
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy to make, and tasty too! I used a chicken breast that I had left over from a rotisserie chicken. My husband said it's "do again" worthy, which says a lot!

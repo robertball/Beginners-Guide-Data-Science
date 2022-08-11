@@ -1,0 +1,37 @@
+Recipe number:
+275613.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-03T05:46:57.647
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor was very good. I really liked it a lot. I did have problems keeping the burger together. When I flipped it it fell apart I tried it again with smaller dice and even ground it all up in the food processor.. worked a little better but was still had some damage when flipping. I will try this again with maybe more crumbs.. even when it fell apart, it tasted great!

@@ -1,0 +1,72 @@
+Recipe number:
+236307.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-10T15:51:22.993
+helpfulCount:
+0
+userID:
+4347719
+Display Name:
+Anne Danko
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4542646.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hands down a super recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2014-02-06T09:53:14.36
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6889
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! I used green onions in place of the chives and less cayenne than called for (didn't want it TOO spicy). Great texture and loved the 'different' flavor. I really liked the addition of the Romano cheese. A nice take on guacamole...I will be making this again! Thanks for sharing. :)

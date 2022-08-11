@@ -1,0 +1,73 @@
+Recipe number:
+257520.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-03-25T20:49:04.72
+helpfulCount:
+2
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sourcream/mayo mixture was over powering to the imitation crab. Next time I will add the mixture to taste with the crab. A pinch of cayenne would help too.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-22T17:27:04.047
+helpfulCount:
+1
+userID:
+1709101
+Display Name:
+Marcia
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+537
+favoritesCount:
+797
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/940208.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious as written. Thanks for sharing it, but it would have been better and more honest though not to name it as 
+"Crystal's", since it can be found online (word for word) at Tasteofhome, where proper credit to the original publisher was given. (It was originally published as Seafood Nachos in Light & Tasty February/March 2002).

@@ -1,0 +1,80 @@
+Recipe number:
+182052.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-12-20T17:17:33.62
+helpfulCount:
+6
+userID:
+3401136
+Display Name:
+Anthony W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is good and quick.  I made a few changes to give it a little more flavor.
+
+I cooked fresh chopped garlic and diced shallots in the olive oil before cooking the chicken, which I also sprinkled some pepper and garlic powder on.  The rosemary was a little strong so I used less than recommended.  When I had all the ingrediants added I squeezed an entire lemon in.
+
+To use some of the extra broth I cooked the rice with a broth / water mixture.
+Review:
+Rating:
+4
+dateLastModified:
+2008-12-09T16:18:19.75
+helpfulCount:
+3
+userID:
+3367476
+Display Name:
+sweetsue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an easy recipe and everyone
+enjoyed it. I added 2 teaspoons of
+Italian spice for flavor. It didn't
+take long to make and makes enough
+for 6 with no problem.

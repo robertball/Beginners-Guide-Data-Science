@@ -1,0 +1,72 @@
+Recipe number:
+247230.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-05T13:52:17.5
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok, this "recipe" seems simple enough, I know. However, the proportions are key as not to get too much of one thing. This recipe does it. The only thing I will do differently the next time is to chop the almonds before mixing. This will help you grab a balanced handful. With the almonds being larger than the sunflower seeds and heavier than the coconut, you end up eating them separately. Also, I added some cocoa bits...purely medicinal though. :-) Thank you for sharing this with us.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-26T20:43:19.37
+helpfulCount:
+0
+userID:
+24505160
+Display Name:
+Madison Ling
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6323449.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good, I used coconut chips in place of shredded coconut. My sunflower seeds were salted but my almonds were not, the salt level was good this way.

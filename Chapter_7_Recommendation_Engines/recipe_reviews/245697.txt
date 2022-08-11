@@ -1,0 +1,37 @@
+Recipe number:
+245697.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-09T16:30:23.68
+helpfulCount:
+1
+userID:
+21960572
+Display Name:
+Emazilun
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great! I made for a winter/Christmas party and everyone loved it! This is best in the winter time with some hot cocoa.

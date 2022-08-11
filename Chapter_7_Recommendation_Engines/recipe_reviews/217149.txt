@@ -1,0 +1,37 @@
+Recipe number:
+217149.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-03-03T14:07:21.753
+helpfulCount:
+3
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5747
+followingCount:
+0
+madeRecipesCount:
+2800
+favoritesCount:
+5994
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry,  I think it needed the "gin octane," as this had very little flavor., so little that I would even call it subtle.  Think I'll stick with the Negroni.

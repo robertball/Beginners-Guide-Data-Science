@@ -1,0 +1,107 @@
+Recipe number:
+218613.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-22T06:22:53.457
+helpfulCount:
+19
+userID:
+7676241
+Display Name:
+homecookgal
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good recipe especially now that the weather is getting nice. I did however omit the shrimp since i've never grilled shrimp before. I also added some worshtershire sauce to the marinade. turned out great and even the kids ate it.
+Review:
+Rating:
+5
+dateLastModified:
+2012-02-08T14:16:58.133
+helpfulCount:
+16
+userID:
+2603848
+Display Name:
+Jigger Queen
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+1400
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/93725.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+yummi!!  I only added one thing different, pineapple chunks, Otherwise did exactly what Holly said to do. Perfection! Has an awesome  flavor.  Thank you Hally for a wonderful recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2013-04-12T08:41:52.297
+helpfulCount:
+2
+userID:
+2242488
+Display Name:
+Stan Wis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/955233.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used yellow squash instead of zucchini. Great recipe for a quick, satisfying meal.

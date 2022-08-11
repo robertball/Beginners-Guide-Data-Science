@@ -1,0 +1,107 @@
+Recipe number:
+245633.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-11T16:04:11.69
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out really good! Don't forget the lemon because it really adds to the dish. I'll admit that I would have preferred my fish fried but then that wouldn't be healthy now would it? The raw fish is wet enough that you really don't need to use the egg. The coating sticks just fine without it. Other than that, I wouldn't change a thing. Thanks for the great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-29T15:14:02.453
+helpfulCount:
+1
+userID:
+177428
+Display Name:
+BARNKITTY
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+1132
+favoritesCount:
+4466
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Okay, so I admit to just using this recipe as a base.  I'm not a fan of grilling fish, so we pan fried in a cast-iron skillet.  We had 6 quite large tilapia fillets and 1 egg for dipping was plenty.  Instead of a "seafood" seasoning, used a salt-free grilling seasoning blend (for chicken, fish, etc.) in the bread crumbs and no powdered garlic.  The 1C of bread crumbs was just about enough for 5 fillets, so used crushed tortilla chips for the last one.  Pan fried the fillets in olive oil until flaky, then fried up the asparagus in the same pan with seasoned salt, pepper, and a little orange peel, keeping the fish warm in a warm oven.  Easy and incredibly delicious dinner.
+Review:
+Rating:
+2
+dateLastModified:
+2016-05-17T22:58:27.827
+helpfulCount:
+0
+userID:
+17964446
+Display Name:
+little pete
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was not very appetizing.  I would not make again.

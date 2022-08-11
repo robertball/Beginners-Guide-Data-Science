@@ -1,0 +1,37 @@
+Recipe number:
+256400.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-04-26T18:47:41.68
+helpfulCount:
+0
+userID:
+3795092
+Display Name:
+virgi
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A sweet tooth would probably love it but it was way, way too sweet for me.  Won't make again. The dough is really hard to spread; I had to do it with wet hands. Can easily cut in 24 squares instead of 12.

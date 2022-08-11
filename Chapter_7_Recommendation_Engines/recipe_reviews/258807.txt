@@ -1,0 +1,72 @@
+Recipe number:
+258807.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-28T16:40:55.32
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good. It is a little expensive to make but good.  I did think it needed more salt than the recipe called for. I ended up adding some paprika after tasting it but it didn't end up needing it. I plan to play around with this one a bit to suit our tastes. Great recipe though and one worth making if you are vegan. It was super simple.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-24T23:11:40.88
+helpfulCount:
+0
+userID:
+17122662
+Display Name:
+Sandra
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+215
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes made.  Will definitely make again

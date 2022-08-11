@@ -1,0 +1,73 @@
+Recipe number:
+277699.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-29T15:47:41.81
+helpfulCount:
+1
+userID:
+15348738
+Display Name:
+Lynda S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+609
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this according to the recipe and it was excellent!
+I usually make lasagna with zucchini to avoid the pasta but had never tried it with spaghetti squash. I will definitely make it again and again.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-26T16:54:37.46
+helpfulCount:
+1
+userID:
+10009604
+Display Name:
+kwizer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good and we liked it but made a couple of mistakes. First of all I bought the wrong sausage. I bought the type that was shown on the photo that Allrecipes has on it’s website. Be careful to drain the squash very well. Also used diced tomatoes instead of crushed. The finished lasagna had lots of water in it and had to be drained.  My family liked it. Will make again.

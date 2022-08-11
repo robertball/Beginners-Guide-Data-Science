@@ -1,0 +1,37 @@
+Recipe number:
+269718.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-04T16:24:38.097
+helpfulCount:
+0
+userID:
+24744433
+Display Name:
+Chris B 47
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7618790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is sweet and savory, with a touch of Hazelnut.   It's delicious with Asiago bread as a side.

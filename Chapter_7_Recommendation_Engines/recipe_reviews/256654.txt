@@ -1,0 +1,72 @@
+Recipe number:
+256654.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-08-02T21:24:20.327
+helpfulCount:
+0
+userID:
+10512011
+Display Name:
+Jennifer Rockers
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7439440.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe to a T (subbing in a chopped chipotle pepper) - all I tasted at first was Olive Oil and sugar. Added a ton more lime juice, then all I tasted was olive oil and lime juice. Agreed that it may be a better marinade, but as a salad dressing - no thanks.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-10T08:21:50.547
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+1829
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I admit, I only used a teaspoon of sugar in this. It was delicious on a salad and complimented pecorino very well. I also used it on a pasta salad. I can see this as a perfect marinade for meats to be grilled, maybe for fajitas or tacos. Next time, I will omit the sugar completely Thank you for the recipe.

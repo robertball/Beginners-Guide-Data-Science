@@ -1,0 +1,154 @@
+Recipe number:
+275978.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-02T01:18:13.27
+helpfulCount:
+0
+userID:
+21537015
+Display Name:
+Karen Vanarsdale
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was really good I would probably put an extra apple in the dish just because I love apples. Very easy to put together. I would definitely make again.
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-31T20:21:46.69
+helpfulCount:
+0
+userID:
+24236323
+Display Name:
+Eva McLean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5759394.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made some minor changes ....(made it for one)
+
+1 tsp olive oil
+1 leek
+Added 1/3 fennel bulb
+
+Roasted vegs/Apple in oil for 20 minutes. 
+
+Then added 1/4 cup brown rice and 1/2 cup chicken stock 
+
+Put boneless skinless seasoned chicken breast on top and continued baking for another 40 minutes (chicken was still partially frozen). 
+
+It was tasty (not spectacular) and healthy.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-30T21:14:12.733
+helpfulCount:
+0
+userID:
+26287666
+Display Name:
+Pbt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only additional comment I'd make is to baste the chicken periodically to brown the skin.  We ate this for 3 days straight and my husband, who's picky, loved it.
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-30T01:44:25.68
+helpfulCount:
+0
+userID:
+5003749
+Display Name:
+Ellana
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don’t care for rosemary, so I used thyme.  It was fairly good.

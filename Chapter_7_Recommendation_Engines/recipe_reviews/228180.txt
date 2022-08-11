@@ -1,0 +1,47 @@
+Recipe number:
+228180.txt
+Review:
+Rating:
+4
+dateLastModified:
+09/26/2012
+helpfulCount:
+4
+userID:
+9941047
+Display Name:
+JointTech
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+easy and tastes good.
+Review:
+Rating:
+4
+dateLastModified:
+06/29/2014
+helpfulCount:
+1
+userID:
+13478408
+Display Name:
+Shon
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1387682.jpg
+text:
+Quick, easy, delicious......
+Review:
+Rating:
+4
+dateLastModified:
+05/03/2013
+helpfulCount:
+0
+userID:
+7395553
+Display Name:
+mlovesz53
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Give these a lower rating because of the calories involved but I must state that the overall flavor and texture is amazing! These are delicious but the calories are high

@@ -1,0 +1,37 @@
+Recipe number:
+267033.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-07T23:26:01.88
+helpfulCount:
+5
+userID:
+3955834
+Display Name:
+Pam
+isPro:
+False
+followersCount:
+32
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+1555
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/335835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We have made many versions of baked stuffed shrimp. Personally we do not like stuffing that is  overly buttery. We love everything about this recipe and thank you for our new go to when it comes to baked stuffed shrimp.. We highly recommend. Thank you!

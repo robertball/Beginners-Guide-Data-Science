@@ -1,0 +1,37 @@
+Recipe number:
+235253.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-16T14:24:29.347
+helpfulCount:
+0
+userID:
+11579334
+Display Name:
+landroval16
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+191
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6832886.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought it was delicious! I used it to top an authentic Bavarian cream I made. The fatness if the compote counter-acted the sweetness of the cream. Was worried the ginger would be too strong. Don't skimp on it.

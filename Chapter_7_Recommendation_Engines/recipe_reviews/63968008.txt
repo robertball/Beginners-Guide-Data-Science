@@ -1,0 +1,37 @@
+Recipe number:
+63968008.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-11T02:24:48.487
+helpfulCount:
+0
+userID:
+23730196
+Display Name:
+Old School
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5496296.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This came out great. The only change I made was to the type and quantity of pasta...I used whole wheat plus protein penne pasta (cooks up a wee differently than even whole wheat)...and used enough pasta to fill an 8x8 pan (scaling ingredients down only 1/3). Total delish. This will be a remake!

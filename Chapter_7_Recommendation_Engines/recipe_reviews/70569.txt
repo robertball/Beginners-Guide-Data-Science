@@ -1,0 +1,32 @@
+Recipe number:
+70569.txt
+Review:
+Rating:
+5
+dateLastModified:
+04/07/2004
+helpfulCount:
+2
+userID:
+719546
+Display Name:
+CHELLBURT
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I made this recipe up last year and it was so much fun.  It was very easy to assemble and very tasty too.  The only problem is everyone wanted the bunny ears.  I highly recommend especially if you will be with children-you will be the hit of the party.
+Review:
+Rating:
+4
+dateLastModified:
+04/30/2004
+helpfulCount:
+1
+userID:
+1085324
+Display Name:
+HOTMAMMA1
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+HOTMAMMA1

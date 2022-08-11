@@ -1,0 +1,75 @@
+Recipe number:
+255616.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-09T01:13:25.343
+helpfulCount:
+2
+userID:
+1629558
+Display Name:
+Staci
+isPro:
+False
+followersCount:
+240
+followingCount:
+0
+madeRecipesCount:
+223
+favoritesCount:
+1364
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2404307.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am one of the creators of this recipe. I made it again tonight with a couple of adjustments and it was better than the original. Here is what I did:  Line your sheet pan with parchment to avoid sticking. Brush both sides of the potato slice with oil and season with salt & pepper. Cook as directed. 
+First, brown your sausage in a skillet (I used spicy pork sausage, so I omitted the chipotles). Drain sausage on paper towels & remove most of the grease from the skillet. To the skillet, add one clove of minced garlic along with onion, bell peppers and mushrooms. Sauté until cooked to your liking.
+Tip cooked potato slices with sausage, onion mixture and sprinkle with cheese. Garnish with chopped fresh cilantro. 
+This was a complete meal & definitely not just for breakfast!
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-24T03:33:03.877
+helpfulCount:
+0
+userID:
+6145350
+Display Name:
+Molly
+isPro:
+False
+followersCount:
+684
+followingCount:
+0
+madeRecipesCount:
+1465
+favoritesCount:
+4449
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2426420.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+02.03.17 ~ Loved this meal. Made this on a chilly Friday night and it really hit the spot. I skipped the mushrooms and added some yellow bell pepper in its place. My DH thought this meal was great and filling. I only added fresh sliced cucumbers to round out our meal. Really happy we tried this meal.

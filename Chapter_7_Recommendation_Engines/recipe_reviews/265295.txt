@@ -1,0 +1,107 @@
+Recipe number:
+265295.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-04T02:32:36.787
+helpfulCount:
+1
+userID:
+26397049
+Display Name:
+Nechama Dworkind
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7237654.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe exactly as is and the result was phenomenal! I’ve never made these before, but I will definitely be making them again! They remind me a bit of spaghetti-could be used as a gourmet gluten free noodle!
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-10T23:11:27.49
+helpfulCount:
+1
+userID:
+9140392
+Display Name:
+Carm Moscarello
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+166
+favoritesCount:
+1123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2651711.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-14T15:20:48.373
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent and perfect as written!

@@ -1,0 +1,62 @@
+Recipe number:
+58357.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/25/2004
+helpfulCount:
+7
+userID:
+798414
+Display Name:
+D. Scalon
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+So easy and delicious!  My kids loved these tacos and my husband did, too.
+Review:
+Rating:
+5
+dateLastModified:
+01/25/2004
+helpfulCount:
+4
+userID:
+294101
+Display Name:
+Shawn M Fischer
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Hey thought I invented this! How easy, and good. We actually fry our own corn tortillas so they're crisp & warm and have had this several times for a quick, fun dinner
+Review:
+Rating:
+5
+dateLastModified:
+11/18/2006
+helpfulCount:
+2
+userID:
+163293
+Display Name:
+QUASINAUGHT
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+MMM. So good. I added some sour cream.
+Review:
+Rating:
+4
+dateLastModified:
+06/19/2006
+helpfulCount:
+1
+userID:
+1594756
+Display Name:
+ChefNan
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Real good.  Used a little tarter sauce also

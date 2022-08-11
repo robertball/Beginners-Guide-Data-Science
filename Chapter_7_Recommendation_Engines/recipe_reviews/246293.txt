@@ -1,0 +1,216 @@
+Recipe number:
+246293.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-19T02:12:00.217
+helpfulCount:
+0
+userID:
+1335367
+Display Name:
+Deborah Cusick
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+419
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2479066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very quick recipe!
+1.  Extra fennel is ok, too!
+2.  Fennel seeds add a bit more anise flavor but are not a good substitute for an anise liqueur.
+3.  Thawed frozen organic peas are a nice addition in place of the carrot. 
+4.  Save plenty of fronds for garnish.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-28T22:54:04.943
+helpfulCount:
+0
+userID:
+6394878
+Display Name:
+Ltmay
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+1133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5933392.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will deffinately make again!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-14T02:37:23.54
+helpfulCount:
+0
+userID:
+24542008
+Display Name:
+KerryLo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it - thanks for posting this recipe! We received a fennel bulb in our CSA this week and this recipe was the perfect fate for it. It was popular with both my kids, and went really well with sourdough bread.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-12T00:33:56.65
+helpfulCount:
+0
+userID:
+4206916
+Display Name:
+Pauline
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+388
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty much followed the recipe exactly, except for substituting onion for the scallions (didn’t have  any), and adding a bit of a red jalapeño with the bell pepper. It was good, just not fantastic. I thought it was a bit lacking in taste, but hubby said he really liked it, so maybe it’s just me.
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-30T23:41:38.54
+helpfulCount:
+0
+userID:
+13711108
+Display Name:
+Richard B
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+361
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did make a few tweaks but made it pretty much by the recipe. It is very nice. Great consistency, subtle background and finishes well with finely chopped and sauteed fennel fronds. I will definitely make it again----maybe substituting acorn squash for 1/2 the potatoes.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-23T10:51:24.55
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+973
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very flavourful and creamy soup. I added the optional ingredients. This is a very nice way to use the outer sections of the fennel that typically get used for broth. Thank you for this unique recipe.

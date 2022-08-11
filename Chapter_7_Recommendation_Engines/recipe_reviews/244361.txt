@@ -1,0 +1,108 @@
+Recipe number:
+244361.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-02T12:34:04.43
+helpfulCount:
+1
+userID:
+16153305
+Display Name:
+custommusclebootcamp
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3309110.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are great.. Especially when I'm leaning out. I prepped them for the week and had them with cucumber salad and sweet potato chips. No bun. 
+I shared this recipe with my personal training clients and bootcamp clients. This is great for people who are used to eating clean.
+Review:
+Rating:
+1
+dateLastModified:
+2015-12-29T14:31:46.113
+helpfulCount:
+0
+userID:
+4303976
+Display Name:
+Curtis H. Fuller
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4440020.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Looked unappetizing, messy and flavorless.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-05T10:41:01.457
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+YUM!  I  thought these were wonderful burgers.  I took out the ground beef from the freezer, let it defrost but when I went to make the burgers - I realized it was ground elk and not beef, so I used that. I did make my burgers a bit smaller so I got 6 out of this recipe. Will make this again with beef and I bet even ground turkey would work well

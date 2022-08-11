@@ -1,0 +1,72 @@
+Recipe number:
+231150.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-04T00:58:30.943
+helpfulCount:
+8
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Works perfectly for more than just sandwich bread.  I use it for all my GF recipes both sweet and savoury.  It's better than those pre-mixed flours at the store because it doesn't have gums and especially all those hidden chemicals and additives.  Thank you Amy C. for sharing.
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-21T07:03:59.91
+helpfulCount:
+1
+userID:
+9246227
+Display Name:
+manella
+isPro:
+False
+followersCount:
+169
+followingCount:
+0
+madeRecipesCount:
+343
+favoritesCount:
+1307
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6603558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Buckwheat Queen suggested this gluten free flour to me and i;m so very she did. It is wonderful, i coated my fish with it and it stuck on the fish. Thank you very much Amy for this recipe!!

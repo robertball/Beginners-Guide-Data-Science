@@ -1,0 +1,72 @@
+Recipe number:
+268256.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-09T13:07:39.24
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I went ahead and made half this as meatballs and half as hamburgers. I made several larger meatballs. They will brown really fast so keep an eye. Can't go wrong adding more ingredients to the meats flavoring.
+Review:
+Rating:
+3
+dateLastModified:
+2018-10-08T15:26:03.123
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were ok. They weren’t particularly tender. Everyone thought they were quite bland, too. Next time, I’ll use half the meat for the same amount of other ingredients.

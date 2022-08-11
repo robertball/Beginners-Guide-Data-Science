@@ -1,0 +1,37 @@
+Recipe number:
+240273.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-28T03:04:58.21
+helpfulCount:
+0
+userID:
+11068992
+Display Name:
+vamomof5
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6011870.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+only had almond flour so just used that .  Turned out well.

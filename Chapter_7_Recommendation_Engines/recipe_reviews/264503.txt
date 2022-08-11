@@ -1,0 +1,72 @@
+Recipe number:
+264503.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-31T17:05:09.66
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a delicious version of chilaquiles. They are so savory but not overly seasoned. I reduced the amount of garlic, though. I did not use two skillets. I just pushed the mixture to one side of the skillet and added the eggs on the other side, slowly mixing it all together. Thank you for the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-03T02:44:48.897
+helpfulCount:
+0
+userID:
+21560190
+Display Name:
+Teneka Lynn Wright Rodriguez
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+238
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4479104.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I believe more than 5 eggs were needed or a little less tortilla chips wasn't creamy enough for me. But it was still very good all I did was cook some more eggs.

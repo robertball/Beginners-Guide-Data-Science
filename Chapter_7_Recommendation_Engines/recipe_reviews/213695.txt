@@ -1,0 +1,37 @@
+Recipe number:
+213695.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-10-23T16:34:09.787
+helpfulCount:
+7
+userID:
+5178317
+Display Name:
+maria_gza
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+172
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/482264.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+cute and easy

@@ -1,0 +1,303 @@
+Recipe number:
+219588.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-12T13:57:35.303
+helpfulCount:
+23
+userID:
+3362287
+Display Name:
+Kathi Richards Smith
+isPro:
+False
+followersCount:
+66
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/601249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Looking forward to Christmas!
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-11T00:41:41.077
+helpfulCount:
+19
+userID:
+10600603
+Display Name:
+Shaida Jamal
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3400994.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent!!!
+I made a few changes...
+I used spicy dijon mustard instead of horseradish
+I did not use the carrots, onions nor the celery.
+
+Also I drizzled a little bit of Sesame oil on top.
+
+We had two ducks, a turkey and my roast...
+Tell you my roast was the first one gone.....
+
+Oven at 400 C.
+
+Mixed the marination.  Put the garlic cloves as instructed.
+Put some marination on top... the fat side up and put it in the oven. Till the top part was totally browned.
+
+Removed from the oven and put the rest of marination. And put it in the fridge.
+
+Next day put the beef in the oven without cover for 2.6 hrs. for rare to medium.
+
+Removed from the oven and covered with foil as it kept cooking outside the oven.
+
+This was the best.....!!!!!
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-05T08:33:58.23
+helpfulCount:
+15
+userID:
+11010207
+Display Name:
+Jsavalli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+256
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe! I add 1 Tbsp dijon mustard to the paste and use fresh, finely chopped rosemary. I roast at 475 for first first 30 minutes to get good crust going, turn down to 350 until internal temp is 135. Everybody loved it.
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-24T08:27:30.61
+helpfulCount:
+5
+userID:
+12726750
+Display Name:
+shawnab0884
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe. I used whole grain Dijon mustard instead of horseradish, as my family is not one for spicy foods. Nixed the veggies and used all fresh herbs. Marinated it in the paste over night. I had a 6 lb roast, no bones, and it took a little longer than the time listed to cook to where we liked it. Overall, tasted great and will definately do this again.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-07T22:11:01.98
+helpfulCount:
+2
+userID:
+15442406
+Display Name:
+Kari
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely wonderful, especially WITH the horseradish and not Dijon mustard. Didn't change a thing and it was perfect, thank you.
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-28T09:47:35.62
+helpfulCount:
+2
+userID:
+13612410
+Display Name:
+Julia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It turned out great!
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-31T15:48:24.88
+helpfulCount:
+1
+userID:
+17165382
+Display Name:
+Che Valderamos
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect and easy!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-30T20:17:26.21
+helpfulCount:
+0
+userID:
+21326295
+Display Name:
+Kathy's Kitchen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+224
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Started at 500 degrees then lowered to 325 after about 40 min (just over 8 lbs. of meat)- even lowered again when it was cooking faster than I wanted- came out perfectly. I was afraid horseradish would make it spicy but it wasn't at all.

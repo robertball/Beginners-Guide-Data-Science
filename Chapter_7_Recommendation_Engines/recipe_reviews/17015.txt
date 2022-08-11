@@ -1,0 +1,37 @@
+Recipe number:
+17015.txt
+Review:
+Rating:
+1
+dateLastModified:
+2005-04-18T19:35:41.607
+helpfulCount:
+18
+userID:
+1402001
+Display Name:
+KMACLEOD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is really bad and should be tossed out!

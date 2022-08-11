@@ -1,0 +1,37 @@
+Recipe number:
+256868.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-20T15:30:17.57
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+245
+followingCount:
+0
+madeRecipesCount:
+1342
+favoritesCount:
+2864
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were so beautiful and super easy. I added a few dark chocolate chips to each cup before baking. The only issue is that the flavor was bland.

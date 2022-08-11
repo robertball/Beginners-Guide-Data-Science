@@ -1,0 +1,37 @@
+Recipe number:
+222950.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-15T19:17:47.897
+helpfulCount:
+0
+userID:
+25995448
+Display Name:
+Eemeli Kemppainen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6937283.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good stuff, but very VERY much too spicy, so i swapped the ghosts with fresh habaneros. Would've gave 5*, but this is missing some of the ingredients found in some top rated curry dish recipes, which could gave this better taste. I don't know if it matters much tho because when you do this with ghost chili peppers you won't be tasting anything other much but only fire and brimstone!

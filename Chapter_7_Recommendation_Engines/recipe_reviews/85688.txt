@@ -1,0 +1,37 @@
+Recipe number:
+85688.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-07-28T12:04:09.153
+helpfulCount:
+5
+userID:
+808567
+Display Name:
+DROPS99
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this recipe.  Have made it with Peach Schnapps instead of rum also.  Being pregnant now, I used orange juice instead of alcohol for a wonderful non-alcoholic drink.

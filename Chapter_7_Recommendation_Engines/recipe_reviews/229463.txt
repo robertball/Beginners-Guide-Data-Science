@@ -1,0 +1,145 @@
+Recipe number:
+229463.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-10T14:08:38.93
+helpfulCount:
+10
+userID:
+10576336
+Display Name:
+Cathy51
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are great cookies, very sweet.  Be sure to sift flour, I didn't and had too much. If you don't be sure to use 1/4 cup less.
+Review:
+Rating:
+3
+dateLastModified:
+2014-08-09T15:23:19.547
+helpfulCount:
+4
+userID:
+11059557
+Display Name:
+Angela Clayton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1331492.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really easy to make, however I used full Truvia rather than the blend. First, I had a hard time with the dough. It was very crumbly and didn't stick real well. Then when I went to press the crisscross pattern with the fork, if I pressed too much and they tried to fall apart, so I had to make gentle presses. The cookies are a bit dry. I'm not sure what I think yet.
+Review:
+Rating:
+1
+dateLastModified:
+2019-02-13T23:33:40.817
+helpfulCount:
+1
+userID:
+25106324
+Display Name:
+Peggy Parish
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6371089.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies were too dry and crumbly.
+Also did not have the expected flavor when made with stevia and not real sugar.
+
+Felt like a waste of good peanut butter!
+Review:
+Rating:
+3
+dateLastModified:
+2016-12-15T22:03:36.453
+helpfulCount:
+1
+userID:
+20966469
+Display Name:
+Lainey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Needs more moisture, very crumbly, cannot press down with fork without cookies breaking apart.  I reduced flour by 1/4 cup as Angela suggested....ok but no nice criss cross impression.  Next time will add a bit more peanut butter as well, maybe a bit more shortening as well.

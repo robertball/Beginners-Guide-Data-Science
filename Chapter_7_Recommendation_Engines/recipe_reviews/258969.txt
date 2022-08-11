@@ -1,0 +1,72 @@
+Recipe number:
+258969.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-25T02:20:56.21
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While I do not follow the Paleo diet, I have free range hens and thought why not? 1/4 cup of coconut mile ruined this for me. Sorry. It was edible but a couple of teaspoons of water or nothing at all would have been much better and even healthier. Again I am not on the Paleo bandwagon but the coconut milk didn't taste good in eggs at all.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-24T16:40:31.033
+helpfulCount:
+0
+userID:
+4293059
+Display Name:
+chrislnaples
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe!  Made some changes by reducing one egg.  Instead of coconut milk, I used red wine.   Knee buckling good!

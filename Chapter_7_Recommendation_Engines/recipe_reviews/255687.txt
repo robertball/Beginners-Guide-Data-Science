@@ -1,0 +1,37 @@
+Recipe number:
+255687.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-29T00:48:00.263
+helpfulCount:
+1
+userID:
+23767642
+Display Name:
+Brianna Menard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5431618.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cooked the quinoa in vegetable broth instead of water, doubled the cheese, and added breadcrumbs to the top. The recipe didn't specify what temperature to set the oven at so I set it at 375 and kept an eye on it, taking it out when the breadcrumbs became golden. Also, next time I make it I want to experiment with more spices because it was a little bit bland for my taste.

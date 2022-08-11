@@ -1,0 +1,37 @@
+Recipe number:
+34306.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-02-04T17:57:21.217
+helpfulCount:
+29
+userID:
+748214
+Display Name:
+TiredMomtoSIX
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not sure if it was just me, but I had a really hard time getting these thin enough even using a flat spatula & silpats.  If they are not thin enough they end up being way too chewy.  If they get too brown you have literally about 3 seconds to get them rolled before they become too brittle.  The actual taste of the cookie was ok.  I'm not sure I'll try these again.

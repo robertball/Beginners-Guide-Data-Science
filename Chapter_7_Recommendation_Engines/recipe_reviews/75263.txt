@@ -1,0 +1,122 @@
+Recipe number:
+75263.txt
+Review:
+Rating:
+4
+dateLastModified:
+01/14/2005
+helpfulCount:
+3
+userID:
+632179
+Display Name:
+PATTY22
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+It was good and a big hit.  I might add a little salt next time.
+Review:
+Rating:
+4
+dateLastModified:
+11/16/2004
+helpfulCount:
+2
+userID:
+1054801
+Display Name:
+LAURIESTEN
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Easy to make and tastes great.  I may try with cream cheese next time.
+Review:
+Rating:
+3
+dateLastModified:
+04/17/2006
+helpfulCount:
+1
+userID:
+657355
+Display Name:
+HappyApple
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was good but I thought it could use a little something to boost the flavor. Experimentation is in order.
+Review:
+Rating:
+5
+dateLastModified:
+08/17/2005
+helpfulCount:
+1
+userID:
+783950
+Display Name:
+SONIA79
+photo:
+global/features/190.gif
+text:
+Real good! Highly reccomend!
+Review:
+Rating:
+5
+dateLastModified:
+01/01/2007
+helpfulCount:
+0
+userID:
+2230230
+Display Name:
+Claudia
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very good and easy.  I used canned artichokes instead of the marinated ones, and used plain yogurt instead of sour cream.  Was a hit!!
+Review:
+Rating:
+5
+dateLastModified:
+12/13/2006
+helpfulCount:
+0
+userID:
+2204392
+Display Name:
+goodcook
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+So good! I made this for a work party and everybody loved it.  There were no leftovers.
+Review:
+Rating:
+5
+dateLastModified:
+11/22/2005
+helpfulCount:
+0
+userID:
+1358187
+Display Name:
+Carolyn Shaw Reed
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7856728.jpg
+text:
+I made this dip for a baby shower...was asked for the recipe that night for a friend's party that weekend.  Easy to make and oh so yummy, perfect combo!!!!
+Review:
+Rating:
+4
+dateLastModified:
+01/28/2008
+helpfulCount:
+0
+userID:
+2780902
+Display Name:
+lovinfood
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very good, easy, loved it.

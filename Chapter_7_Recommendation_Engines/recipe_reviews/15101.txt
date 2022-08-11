@@ -1,0 +1,72 @@
+Recipe number:
+15101.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-12-18T12:04:48.293
+helpfulCount:
+16
+userID:
+229183
+Display Name:
+CLAUDIA JONES
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great bar cookie. I did find it a little crumbly, but of course I am at high altitude so it may be okay for sea level.  They were great even without the frosting.
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-02T06:59:49.93
+helpfulCount:
+0
+userID:
+6076180
+Display Name:
+cooksgood
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you Carol for posting this recipe! I have looked for it for years. My mother made these every Christmas and I did not have the recipe. I will now take over the tradition! Thanks!

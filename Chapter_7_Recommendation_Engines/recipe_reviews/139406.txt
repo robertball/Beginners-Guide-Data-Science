@@ -1,0 +1,109 @@
+Recipe number:
+139406.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-05-05T12:53:46.807
+helpfulCount:
+10
+userID:
+2364817
+Display Name:
+John P.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you...thank you for preparing a very easy receipe that is not so often prepared because of the end-users taste. My partner, guests and myself enjoyed this receipe which was served with a italian salad and cranberry vinegritte and french cut greenbeans.
+
+I encourage everyone to try at least once.
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-21T19:01:11.167
+helpfulCount:
+0
+userID:
+13890255
+Display Name:
+Jeremiah Salinger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2063625.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Omnomnom! :) Very easy prep on it, made the following subs: red onion (for regular), grated parmesan (for Monty Jack), extra virgin olive oil (for butter), and dry red wine (for the sherry)...excellent taste, the parm made for an interesting texture (think I'll try cheese slices next time, just to see how it comes out). Was a new take on liver for me, and definitely one I plan to repeat!
+Review:
+Rating:
+4
+dateLastModified:
+2012-10-16T07:13:15.487
+helpfulCount:
+0
+userID:
+9228327
+Display Name:
+Lynn Chaplinski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+276
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5205501.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good flavor. Wanted to try something dif. Used garlic powder and thyme instead of rosemary.yummy

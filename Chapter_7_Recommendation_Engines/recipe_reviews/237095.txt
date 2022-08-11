@@ -1,0 +1,73 @@
+Recipe number:
+237095.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-10T22:31:43.947
+helpfulCount:
+1
+userID:
+14876928
+Display Name:
+SimplySherry
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This glaze is also great spread over a block of softened, mounded cream cheese and used as a dip or spread. 
+I can taste it now...YUMMY
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-27T14:16:25.277
+helpfulCount:
+1
+userID:
+8670461
+Display Name:
+Barfknechtl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy and yummy!  Accented the ham very well.  Loved by the whole fam!

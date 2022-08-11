@@ -1,0 +1,37 @@
+Recipe number:
+255208.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-19T16:34:19.82
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. I used almond milk because that is what I had on hand. I had to use double the amount the recipe called for to get my cashews blended. Because of that I wish I would have added more green chiles.  Overall good recipe and one I would make again.

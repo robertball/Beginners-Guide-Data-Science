@@ -1,0 +1,107 @@
+Recipe number:
+233307.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-13T09:03:52.21
+helpfulCount:
+1
+userID:
+13758403
+Display Name:
+Faith Olberg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was an amazing cake! Such a creative idea. I made it for my family reunion and people were coming back for thirds when there was none left!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-31T18:55:42.173
+helpfulCount:
+0
+userID:
+6857292
+Display Name:
+Angela K Lightfoot
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+94
+favoritesCount:
+612
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1280088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+07/11/16:  Made for DeWayne's birthday cake. For the crust I used a package of oatmeal cookie mix, made as directed.  Put half in the bottom of a casserole glass dish, baked then poured a mix of the chocolate sauce and melted peanut butter on top.  Next layered ice cream then toffee bits.    Topped with cool whip, rest of crumbled cookie I cooked separate,  chocolate and camamel drizzle.
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-27T10:43:01.097
+helpfulCount:
+0
+userID:
+16084395
+Display Name:
+momoftwins
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a wonderful recipe because there are so many ways to tweak it to fit an occasion and your tastes.  My family and friends loved it!

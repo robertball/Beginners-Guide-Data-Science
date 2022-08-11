@@ -1,0 +1,37 @@
+Recipe number:
+245927.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-25T17:26:59.277
+helpfulCount:
+0
+userID:
+6549646
+Display Name:
+Angela Sackett Superhotmama
+isPro:
+False
+followersCount:
+195
+followingCount:
+0
+madeRecipesCount:
+112
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2406088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is our favorite sausage recipe for entertaining now!  The maple syrup and pistachios are a perfect combination and these disappear in an (appreciative!) frenzy.

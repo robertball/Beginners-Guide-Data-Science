@@ -1,0 +1,37 @@
+Recipe number:
+261964.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-12T15:00:10.85
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out great and were super flavorful. My package of turkey was a pound and a half so I decided to experiment. While egg and breadcrumb are fine for most, it makes it too meatloafish for our liking, not to mention extra carbs. With my extra half pound of meat I made 2 burgers without the egg and breadcrumb. Because they had no binder, I stuck them in the freezer for 30 minutes to firm them up so that they would stay together on the grill. They worked wonderfully and we actually preferred them over the ones made as written. Good as written but just wanted to let everyone know they work the other way too.

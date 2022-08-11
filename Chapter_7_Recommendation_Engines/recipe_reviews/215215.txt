@@ -1,0 +1,37 @@
+Recipe number:
+215215.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-07-26T11:27:13.557
+helpfulCount:
+10
+userID:
+3883699
+Display Name:
+moaa
+isPro:
+False
+followersCount:
+110
+followingCount:
+0
+madeRecipesCount:
+727
+favoritesCount:
+1342
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/586780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry, but this didn't work out for us. The nectarines brought out the tanginess. Maybe if used splenda/sugar for the nectarines, it wouldve been a bit sweeter. Don't get offended with my review; the temperature and time were right on, plums were good and it was easy. So overall, it was average for us.

@@ -1,0 +1,109 @@
+Recipe number:
+219780.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-06-21T03:56:11.893
+helpfulCount:
+9
+userID:
+6069565
+Display Name:
+AJaye2010
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+348
+favoritesCount:
+307
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/551459.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Served with Yaki Mando & Kimchi Fried Rice.  Par-Cooked chicken ahead of time and came out pretty tasty.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-10T19:10:10.23
+helpfulCount:
+0
+userID:
+26650856
+Display Name:
+K A T _07
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7432332.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this soup minus the fish sauce and shrimp since I have a shellfish allergy and I replace the chicken breast with drumsticks since it hold the flavor better in soups to me. Love love love this recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-02T22:19:42.58
+helpfulCount:
+0
+userID:
+24314987
+Display Name:
+A Patterson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup came out wonderfully!
+I did however double the recipe and I baked a black peppered pork tenderloin and cut it into thin slices to place atop the soup when serving. We didn't have lemongrass at the store so I opted for the zest of a lemon and the juice of half a lemon (only use half a lemon squeezed if you're doubling recipe).
+Again this soup was wonderful and it made my husband and I very happy.

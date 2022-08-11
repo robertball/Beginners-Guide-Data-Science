@@ -1,0 +1,72 @@
+Recipe number:
+258245.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-09T21:52:38.347
+helpfulCount:
+0
+userID:
+2521750
+Display Name:
+sareenwaters
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2247551.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe is quick and easy.  My first experience with anything like this, so not sure if they are "right" or not.  I am working on making mu shu right now (velveting the chicken currently).  They seem like they will stand up to the filling without ripping, so that is a plus.  I had to cook mine a bit longer, but I think it is my old worn out stove.  Thank you for this recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-13T02:58:18.043
+helpfulCount:
+0
+userID:
+12854715
+Display Name:
+Diane Stadler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+358
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and fun to do. Cut the recipe down to make only four. I was glad I didn’t have to use flour tortillas for my mu shu. I will definitely make these again.

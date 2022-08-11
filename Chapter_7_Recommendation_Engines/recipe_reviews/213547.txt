@@ -1,0 +1,72 @@
+Recipe number:
+213547.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-06T05:03:05.19
+helpfulCount:
+11
+userID:
+3598620
+Display Name:
+Color Fell
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/191105.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cooked this recipe once again but skipped the canned tomato sauce. It tastes fresher, more summery this way.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-18T12:02:32.64
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used the sauce from this recipe with store bought fresh goat cheese ravioli.  We absolutely loved the tomato pineapple combination and the herbes de provence  really brings everything together.  Only change I made was to use an 8oz can of sauce so the fresh tomato flavor really was the star.

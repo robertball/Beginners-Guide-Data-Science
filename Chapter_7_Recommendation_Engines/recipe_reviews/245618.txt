@@ -1,0 +1,72 @@
+Recipe number:
+245618.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-20T23:37:07.833
+helpfulCount:
+0
+userID:
+15893038
+Display Name:
+Habauder
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious. I added my bbq sauce and some sea salt to the pulled pork before frying. Turned out great.
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-30T21:13:34.52
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were great! The only thing I would change is to add a shake or two of a Memphis type rub on your pork before adding to the wrapper. It adds a ton of flavor. Also be sure to use a BBQ sauce you are familiar with and one you like. Excellent!

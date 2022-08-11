@@ -1,0 +1,37 @@
+Recipe number:
+240821.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-10T22:27:52.297
+helpfulCount:
+1
+userID:
+21909633
+Display Name:
+ItsLaurenMarie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4513687.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hi So Delicious Dairy Free! I am dairy intolerant and I LOVE your ice creams! They're so good! I want to make these doughnuts right now but I don't have the ingredients. I will try the recipe as soon as possible. Thanks for making delicious foods for people like me who are limited on desserts. :)

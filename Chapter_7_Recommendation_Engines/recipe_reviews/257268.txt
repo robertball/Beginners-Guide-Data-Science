@@ -1,0 +1,107 @@
+Recipe number:
+257268.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-04T20:56:41.113
+helpfulCount:
+1
+userID:
+11437635
+Display Name:
+Lucy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy enough to make. I hate to say this but your bunny's look more like fishy's.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-01T22:09:33.737
+helpfulCount:
+0
+userID:
+24101359
+Display Name:
+Diana Rudolph
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5661984.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-05T12:14:19.37
+helpfulCount:
+0
+userID:
+20592440
+Display Name:
+Miraculous Ladybug
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4580005.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love it so much. Great recipe!

@@ -1,0 +1,72 @@
+Recipe number:
+14783.txt
+Review:
+Rating:
+4
+dateLastModified:
+2004-03-11T14:48:05.06
+helpfulCount:
+4
+userID:
+1023090
+Display Name:
+DELLASTAR12
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very good. It takes a long time but the results are very tasty.
+Review:
+Rating:
+3
+dateLastModified:
+2006-12-13T14:06:50.053
+helpfulCount:
+0
+userID:
+1033437
+Display Name:
+Sharon Tracy-sonsini
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3896573.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+don't need as many spices as the flavor from the pork makes all the difference I found

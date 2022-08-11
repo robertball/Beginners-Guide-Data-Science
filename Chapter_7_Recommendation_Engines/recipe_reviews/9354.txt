@@ -1,0 +1,37 @@
+Recipe number:
+9354.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-08-17T12:35:36.747
+helpfulCount:
+2
+userID:
+2057689
+Display Name:
+Peej
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+1365
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/689400.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't care much for chocolate, so I used Banana Split Ice Cream. and added some chopped mixed nuts. Yummy, this was so good! Thank you for the recipe SnowYs!

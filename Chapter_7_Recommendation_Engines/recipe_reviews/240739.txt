@@ -1,0 +1,37 @@
+Recipe number:
+240739.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-18T01:23:43.78
+helpfulCount:
+0
+userID:
+3904643
+Display Name:
+Greg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'll be the first to say, this base recipe was EXACTLY what I needed! Thank you! I had some overcooked kidney beans and garbanzo beans and did a search for what I could use them for...this recipe is genius. I have a favorite garbanzo hummus recipe, so I altered just a couple items (fresh smoked chili powder, cayenne, turmeric, etc.) to taste. Love the addition of hemp...I use it to sprinkle on oatmeal and never thought to add it to hummus.

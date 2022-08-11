@@ -1,0 +1,37 @@
+Recipe number:
+239987.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-15T08:37:40.287
+helpfulCount:
+1
+userID:
+26466027
+Display Name:
+Krista Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7290161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My absolute favorite snack! I love the salty/sweet mix. So underrated... I don’t think enough people give it a shot.

@@ -1,0 +1,37 @@
+Recipe number:
+242003.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-06T12:09:29.127
+helpfulCount:
+0
+userID:
+18041135
+Display Name:
+witchyd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did a few changes. I added sunflower seeds, and spices, and a few other ingredients. it turned out so good. I am eating it  with homemade eggnog yogurt.

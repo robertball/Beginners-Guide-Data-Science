@@ -1,0 +1,72 @@
+Recipe number:
+256160.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-08T00:16:29.457
+helpfulCount:
+1
+userID:
+14845356
+Display Name:
+Anni
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For years I bake my breads and rolls every day fresh. Here and there I try some new recipes, so I made this one. While I thought this bread will be our lunch bread for the next day when I baked in in the evening, it was eaten by my family within 1 hour just with olive dipping oil and salt. I should have made 2 loaves :)  The flavor and consistency was just perfect. Thank you for sharing this recipe!
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-06T14:10:05.78
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+586
+followingCount:
+0
+madeRecipesCount:
+2210
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a very easy recipe, however the flavor really didn't work for us.  This is the first time I baked bread and the house didn't have that delicious baked bread aroma.

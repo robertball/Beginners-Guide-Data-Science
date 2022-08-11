@@ -1,0 +1,37 @@
+Recipe number:
+244755.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-04T21:44:21.217
+helpfulCount:
+4
+userID:
+7327002
+Display Name:
+jeannine
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sounds good but tho I'm a lifelong cook who always enjoys a new food adventure I have no idea what or where one can get edible pea vines. Clarification needed so I can try this salad a sap. Thanks.

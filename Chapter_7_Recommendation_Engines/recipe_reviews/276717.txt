@@ -1,0 +1,37 @@
+Recipe number:
+276717.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-04T03:53:48.343
+helpfulCount:
+2
+userID:
+5124616
+Display Name:
+JennyLea
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not only was this dish uncomplicated and delicious but it was eye candy.  Beautiful colors.  Delightful flavors.  Used Olive Harvest Tapenade Traditional - Nummy!  Also, used a popular store's garlic salt that is fresh ground on the vegetables (instead of salt)..  The dark green on one side with bright red tomatoes, white fish in the middle, and roasted new red tomatoes on the other side made a lovely presentation.  Next time I make this, it will be for company as I expect them to be impressed.

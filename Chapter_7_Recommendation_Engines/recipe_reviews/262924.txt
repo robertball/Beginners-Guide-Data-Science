@@ -1,0 +1,72 @@
+Recipe number:
+262924.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-19T05:29:51.623
+helpfulCount:
+0
+userID:
+2669783
+Display Name:
+Tanya Kristine Hughes
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2299629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Well, somehow making stir fry in the pressure cooker didn't seem quite right, and mine did end up with quite mushy vegetables.  But I did put it on for 16 min instead of 12 - I guess because I made 1 1/2 recipes so I thought it might take longer?  I rated it 4 stars for flavor however.  Not sure how the other reviewer ended up with dry meat; I had so much liquid, and not enough time to reduce it as much as I wanted, so it was very stew-like.  I used half the sugar, which was plenty.  What I learned from this recipe was the garlic!  Roasting a whole head of garlic (or 1 1/2 in my case) in the oven and then adding it all to the meal was delicious!  I probably doubled the ginger, which was still mild.  I also added more than a little oil - probably 1/3 - 1/2 cup lard.  The meat had no fat so it needed it.  I don't think this recipe created a time savings over stir-frying, since you had to reduce the resulting liquid.  Next time I will probably just stir-fry it, but keep all that garlic & flavor!  My meat came out very tender, which was great, and I do wonder if I'd need to pressure cook the meat to get it that tender quickly.  Perhaps I'll pressure cook the meat and stir-fry everything else, when I make it again.
+Review:
+Rating:
+2
+dateLastModified:
+2018-08-01T00:23:27.09
+helpfulCount:
+0
+userID:
+14128894
+Display Name:
+Chris Fostel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+304
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Taste was good but beef was dry.  Not wasting steak on it again.

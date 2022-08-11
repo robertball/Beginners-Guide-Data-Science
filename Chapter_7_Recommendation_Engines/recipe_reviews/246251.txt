@@ -1,0 +1,37 @@
+Recipe number:
+246251.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-27T23:42:13.273
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and my rating for taste is a 5. My rating for execution is a 2. These start out frying up nicely  but before it is even time to flip they completely fell apart into one big crumble  in the skillet. I never touched or moved them but they just fell apart into one big pile of crumbly mush and  I even added flour.  After they were cooked thru and cooled I was able to smash them back into shape but it wasn't an easy task nor was it pretty. Sorry but as written these did not work for me. I really liked the taste so I might try to tweak them to see if I can't make them work again.

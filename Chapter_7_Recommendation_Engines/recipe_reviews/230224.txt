@@ -1,0 +1,107 @@
+Recipe number:
+230224.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-01-01T05:36:20.513
+helpfulCount:
+1
+userID:
+15052781
+Display Name:
+Dawn Maczis Black
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1894352.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cake was done way sooner and it was good I checked as it had already dried out. Also good that I made a figgy pudding before and knew to boil the dried figs and then puree to add to the mixture. The directions in this recipe do not tell you to chop, puree, etc. Be sure you do!
+Review:
+Rating:
+5
+dateLastModified:
+2014-03-05T14:40:43.167
+helpfulCount:
+1
+userID:
+12252183
+Display Name:
+mary Dietz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4915668.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this recipe for figgy pudding. I suggest adding some of the milk to the figs and chopping them finely in a food processor. I make these in jumbo muffin tins so that I have easy individual servings.  They are kept in the freezer and when I want to indulge, I warm one up and pour cream over them.
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-23T14:27:14.01
+helpfulCount:
+0
+userID:
+8377399
+Display Name:
+Maria1012
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It smells delicious, and was easy to make, and was tasty! Will make it again next year. :-)

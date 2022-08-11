@@ -1,0 +1,72 @@
+Recipe number:
+21177.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-02-28T10:47:23.1
+helpfulCount:
+5
+userID:
+3923952
+Display Name:
+Jenno!
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is good, but I made a few changes. I used homemade whipped cream instead of frozen and I doubled the amount of coffe liquer. I also recommend against freezing this. The top layer gets a funky taste; refrigerate it for 6 hours instead! Make sure it's covered as well.
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-23T06:18:20.85
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What an easy yet elegant dessert. I used AR recipe Whipped Coconut Cream (by Karen Gaudette) instead of whipped topping and some decaf espresso powder instead of liqueur so the kids could enjoy it. This was delicious. Thank you for the recipe.

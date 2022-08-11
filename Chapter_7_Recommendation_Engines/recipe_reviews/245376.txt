@@ -1,0 +1,107 @@
+Recipe number:
+245376.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-29T20:29:24.177
+helpfulCount:
+2
+userID:
+3202828
+Display Name:
+Heather
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! It is very creamy - the consistency of mayonnaise. I had to use lime and rice wine vinegar but the sesame oil gave it a deeper flavor. I had it on a baked potato and look forward to using it in place of mayonnaise in various applications.
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-27T00:17:07.127
+helpfulCount:
+0
+userID:
+9116244
+Display Name:
+Tina Marie Hinchman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1984635.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious . I'd definitely make it again but would increase the lemon juice. It was very thick.i also added fresh cilantro.
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-14T09:11:36.943
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As good as it sounds. Cool and creamy and a nice smooth flavour. I only used one clove of garlic though. I also added some cayenne pepper powder. It is quite thick. If you want a runnier dressing, I suggest mixing up 50% more of the liquid ingredients and adding it in little-by-little until you get the consistency desired. It all depends on the size of your avocado I think. Definitely a keeper for salads or as a dip.

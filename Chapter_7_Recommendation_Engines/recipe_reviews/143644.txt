@@ -1,0 +1,72 @@
+Recipe number:
+143644.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-28T17:15:52.037
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You definitely need to plan ahead to make this. They take some time but are worth it in the end. I do think these would be perfectly fine as written but I made a few minor changes due to who I was making them for. Our good friends are from El Salvador and are very particular about the roja and curtido.  After comparing her recipe to this one, I left out all of the green for the roja. The minor change with the curtido is that I used white onion instead of green which was her request. For the filling I ended up adding more cheese to get the texture I was going for. These turned out really good. They had never had them with bacon before and they enjoyed them. She did suggest I add some beans to the filling next time so I'll put that out there. The hardest part of making pupusas for me is stuffing and then forming them. I had her here for help and she did it like a pro. After watching her I realized that in the past I try to flatten them too much. She left them large and fluffy so that they were easier to shape. I definitely recommend making the roja and curtido ahead of time like I did so that the flavors have a chance to get acquainted. I also recommend buying the already shredded cabbage and carrot in a bag to save some time. If you have never made pupusas you are missing out!
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-08T21:38:27.353
+helpfulCount:
+0
+userID:
+25415999
+Display Name:
+Kristen Laboy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6530114.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Roja came out delicious and everything else was on point

@@ -1,0 +1,107 @@
+Recipe number:
+254793.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-10-02T06:01:18.44
+helpfulCount:
+5
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good recipe for those of us who are baking-challenged. It’s easy to put together and uses pretty common ingredients in my house. It sets well, too. Unfortunately, the lemon ruined this for me. I will make this again, just without the lemon. Thank you for the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2016-09-29T00:47:58.04
+helpfulCount:
+2
+userID:
+4862204
+Display Name:
+toothfairy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+326
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe has potential! I made it as directed first and found it to be lacking in flavor. I ended up adding 1/4 tsp of pumpkin pie spice, along with an extra cup (maybe two!) of pumpkin. I just kept adding until it tasted right. (My pumpkin wasn't canned however, so that could have affected it. I make my own purée and maybe that's why) try it out!!!
+Review:
+Rating:
+2
+dateLastModified:
+2019-11-30T16:31:10.993
+helpfulCount:
+0
+userID:
+24767444
+Display Name:
+Karen DeMarchi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7035423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought I’d try this recipe as a change to my previous dish. If I attempt this recipe again (unlikely), I will omit the lemon juice as it overwhelmed the pumpkin flavor. Also, the consistency was more like pudding. Will go back to my trued and true recipe.

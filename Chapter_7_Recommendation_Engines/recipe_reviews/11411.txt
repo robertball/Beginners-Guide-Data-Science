@@ -1,0 +1,72 @@
+Recipe number:
+11411.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-10-21T05:39:53.7
+helpfulCount:
+3
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+873
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These taste great. They are flat cookies - surprisingly flat. I made my first batch too large, and they did start to fall apart. When I used my small cookie scoop the result was much better. The oats give these a great texture.
+Review:
+Rating:
+4
+dateLastModified:
+2008-03-06T20:02:50.557
+helpfulCount:
+2
+userID:
+2844515
+Display Name:
+Rachel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They taste wonderful, but the recipe calls for WAY too many chocolate chips.  Instead of 4 cups, we used 2 cups.  Still too many.  Next time we will use only 1 cup (1/4 of what recipe calls for.)  Seems like it could benefit from a tiny bit more flour too, since they had trouble staying together.  Regardless, they really taste GOOD, and I'm sure we'll cook them again!

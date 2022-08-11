@@ -1,0 +1,72 @@
+Recipe number:
+220247.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-07T23:56:25.4
+helpfulCount:
+1
+userID:
+25773044
+Display Name:
+Carrie C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7057449.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added fresh asparagus, chicken breast strips, and spring onions, this casserole was super filling and yummy.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-09T00:00:12.813
+helpfulCount:
+0
+userID:
+20692619
+Display Name:
+Joanna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum! My mom used to make a similar casarole with broccoli when I was a kid. Me and my mom both loved this! I even got my 7 y/o to try it and she liked it too, until she realized it was a vegetable. I will definitely be making this yummy, quick and easy dish.

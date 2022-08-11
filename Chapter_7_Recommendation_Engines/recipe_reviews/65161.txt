@@ -1,0 +1,37 @@
+Recipe number:
+65161.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-05-24T14:13:22.147
+helpfulCount:
+6
+userID:
+1197175
+Display Name:
+~TxCin~ILove2Ck
+isPro:
+False
+followersCount:
+317
+followingCount:
+0
+madeRecipesCount:
+1988
+favoritesCount:
+8958
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198040.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice luncheon salad. I used Kraft French dressing and Miracle Whip with a little Frank's Red Hot. It was good, but not really different than regular French dressing. This did make a pretty salad.

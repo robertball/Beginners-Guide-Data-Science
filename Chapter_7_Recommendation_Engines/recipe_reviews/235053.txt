@@ -1,0 +1,37 @@
+Recipe number:
+235053.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-16T19:09:14.783
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I served these with white rice for a dinner meal, and it was good. My 3 year old gobbled them up. I used half red currant and half apple jelly. I used a cabernet sauvignon.The sauce is pretty sweet for me. I added an overflowing tablespoon of hot pepper sauce, and I liked it much better.

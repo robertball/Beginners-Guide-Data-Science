@@ -1,0 +1,143 @@
+Recipe number:
+270416.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-04T04:11:34.157
+helpfulCount:
+1
+userID:
+3387898
+Display Name:
+David Douthett
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+244
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/235098.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Complex combination of flavors that ends up being very tasty. I was expecting more heat, but maybe my (ordinary) chili powder was too old. There was still enough to get my lips tingling. It was easy enough to make and more fun than watching the Super Bowl.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-04T02:37:06.963
+helpfulCount:
+1
+userID:
+25051828
+Display Name:
+Kelly Josephson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6336000.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty. The right combinations of sweet and savory with a good heat.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-29T02:26:38.563
+helpfulCount:
+0
+userID:
+16609460
+Display Name:
+Chickn_Tika
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3120824.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not only does this taste delicious it's so easy to make.  No turning in the oven.  I laid down parchment paper before baking instead of the silpad.  I've made this twice now and definitely recommend finding the ancho chile powder.  The second time I made this I ran out and had to substitute half of the ancho with regular chili powder and it just wasn't the same.  We like to serve ours with blue cheese and celery but they really don't need any dip- we just like to call that a vegetable side to make it a balance meal. ;) Go Bears
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-19T21:20:27.533
+helpfulCount:
+0
+userID:
+21777150
+Display Name:
+Brian VanFossen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are fantastic.  I like them slightly better before tossing in the sauce again at the last stage, but they are great either way.  
+ My wife prefers them with the extra sauce.   I also use an air fryer to get them crisp, but that is just preference.  Chef John really knows his flavors.

@@ -1,0 +1,37 @@
+Recipe number:
+246945.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-10T17:58:44.167
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out pretty good. I am glad that I used the fire roasted tomatoes that the recipe submitter mentioned. They gave the dish a nice smoky taste. The one thing I did not like about this recipe was getting the chicken crispy just to turn around and mush it up. I know a lot of recipes call for this but if I were to make this again I'd set aside the chicken after it was crispy and then pour the sauce over it in the end. The  corn tortilla flavor got lost in the sauce which was a shame. I recommend using two or even three. Overall a good recipe but I think it could use a tad bit of tweaking.

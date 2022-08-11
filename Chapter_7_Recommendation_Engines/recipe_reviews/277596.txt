@@ -1,0 +1,37 @@
+Recipe number:
+277596.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-25T15:36:11.99
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I typically make recipes as written but on this one I couldn't risk the cost of the meat. While it might have worked without liquid, I wasn't going to take the chance. I added 2 cups of water which ended up being the perfect amount  to shred the pork up in.

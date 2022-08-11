@@ -1,0 +1,72 @@
+Recipe number:
+272520.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-13T15:13:07.73
+helpfulCount:
+0
+userID:
+25308600
+Display Name:
+Catherine Jirak
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6454074.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would reduce the lemon juice just a tad, it overpowered the flavor of the dressing at first. Perfect for a dinner for 3, with 2 servings left over.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-14T15:56:24.9
+helpfulCount:
+0
+userID:
+10129686
+Display Name:
+Teddi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is fantastic!! I made this for my family and they couldn't stop eating it or raving about it! I made no changes to the recipe other than adding a slight amount of brown sugar to bacon prior to baking it to give it a candied flavor. I also skipped the croutons because I forgot to buy the bread on my shopping run. This will definitely be one of my go to recipes!

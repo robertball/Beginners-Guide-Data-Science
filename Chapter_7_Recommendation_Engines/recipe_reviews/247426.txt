@@ -1,0 +1,37 @@
+Recipe number:
+247426.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-15T17:05:50.687
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were delicious! As suggested, I used sherry instead of port. This is a 5 star recipe all they way !

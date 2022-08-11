@@ -1,0 +1,74 @@
+Recipe number:
+246740.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-08T22:49:09.803
+helpfulCount:
+2
+userID:
+12101087
+Display Name:
+kdblum
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+511
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4576728.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Okay this was my fault, I did not think the bacon was done -- however it WAS, so I cooked it too long.  The bottom was burnt -- but STILL my hubby ate every one.
+
+If you cannot find bread-stick dough in the refrigerator section, use french bread dough, cut in half, then strips. Works just fine, in fact, the little crunch on the outside is good!  Minus the burnt part, so don't overcook this.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-13T21:16:05.74
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! My only wish was that the bacon on top would've gotten a bit crispier, but my bacon wasn't super thin either, so that may have been the issue. Really great flavor, and the family devoured them! A definite keeper~YUM, YUM, YUM!!!!! Thanks for sharing. :)

@@ -1,0 +1,37 @@
+Recipe number:
+238664.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-12T10:42:40.52
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was wonderful. I had home seitan in smaller pieces so I didnt get handsized slices to nestle the artichokes in.. came out great with the artichokes scattered on top. I think next time I'll dice the seitan up a bit rather than long slices.. was a little more difficult to eat

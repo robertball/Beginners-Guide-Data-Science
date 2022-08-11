@@ -1,0 +1,37 @@
+Recipe number:
+258999.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-10T02:45:49.983
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not sure how to rate this because mine leaked out all the butter and honey from underneath the rounder.    It would have been good because I used all good ingredients, and I was as careful as I could be to make sure all seams were firmly in place.  I guess if I were to rate how it looked, I'd say it was a 5, but the taste?  Your guess.  Sorry so very much to the contributor of this recipe!

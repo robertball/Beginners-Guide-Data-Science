@@ -1,0 +1,37 @@
+Recipe number:
+231772.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-26T01:46:01.32
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was  tasty and easy way to jazz up jarred sauce. I used some homemade turkey sausage instead of pork.  The potatoes tasted fine, but I think I would like this better over polenta

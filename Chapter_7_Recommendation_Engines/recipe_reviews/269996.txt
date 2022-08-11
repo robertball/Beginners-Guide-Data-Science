@@ -1,0 +1,107 @@
+Recipe number:
+269996.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-16T18:46:54.87
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out great and was super simple to do. I only steamed for 10 minutes and would probably go even less next time to get bigger and fluffier "rice". The key with this recipe is letting the cauliflower drain really good before you go to ricing it. While it still tasted great, I had quite a bit of mushy pieces from the moisture.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-22T13:18:32.733
+helpfulCount:
+1
+userID:
+10795952
+Display Name:
+nmunson1377
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I put the head in a food processor before i cooked it and used chicken bone broth but followed the season ingredients. This was amazing!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-30T23:06:55.133
+helpfulCount:
+1
+userID:
+22050811
+Display Name:
+Sally Stanton
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super Yummy!!!!! Super Easy!!!

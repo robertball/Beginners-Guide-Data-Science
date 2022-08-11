@@ -1,0 +1,37 @@
+Recipe number:
+256187.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-22T17:51:37.263
+helpfulCount:
+0
+userID:
+9795441
+Display Name:
+Maria Whitesell
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+65
+favoritesCount:
+260
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3754260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out ok!  The flavor combination was delish, but we seemed to lose some filling during cooking or the spread to pastry ratio wasn't quite enough.  I'll try again!

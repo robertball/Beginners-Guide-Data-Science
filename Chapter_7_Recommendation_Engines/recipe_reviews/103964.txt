@@ -1,0 +1,72 @@
+Recipe number:
+103964.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-08-16T14:06:22.2
+helpfulCount:
+12
+userID:
+1987747
+Display Name:
+Dee Cribb
+isPro:
+False
+followersCount:
+63
+followingCount:
+0
+madeRecipesCount:
+183
+favoritesCount:
+806
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/738233.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good but does taste much better using beef drippings. If you're a fan of lamb, you'll like this.
+Review:
+Rating:
+3
+dateLastModified:
+2010-08-01T14:45:39.967
+helpfulCount:
+1
+userID:
+4298606
+Display Name:
+mkaras
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+128
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/725215.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good but did not have a great deal of lamb flavor to them.

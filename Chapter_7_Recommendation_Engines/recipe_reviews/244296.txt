@@ -1,0 +1,107 @@
+Recipe number:
+244296.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-08T05:08:17.173
+helpfulCount:
+1
+userID:
+7867420
+Display Name:
+mgueye
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+141
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I really liked this dish. If you want a little bit of a bolder taste and enough for a family, I used  one cup of quinoa mixing it with white cooking wine with water (made measurements according to package directions).  I added olive oil and Bosari salt, which you can get at Whole Foods, to taste. It was great and I made a side of sautéed spinach with garlic, olive oil, and a little bit of seasoning. Great healthy dish.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-13T02:30:46.933
+helpfulCount:
+0
+userID:
+21789705
+Display Name:
+Mrs V
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I substituted water with bone broth and added salt. Very tasty and very easy(I don’t usually cook)!
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-10T02:37:34.557
+helpfulCount:
+0
+userID:
+3895544
+Display Name:
+Michael Rosencrants
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+253
+favoritesCount:
+233
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1629655.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this.  If I make it again I would definitely either add more curry or the white wine as suggested.  Good enough as it is but a little more spark wouldn't hurt.  Thanks for sharing.

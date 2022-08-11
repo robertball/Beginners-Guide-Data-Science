@@ -1,0 +1,37 @@
+Recipe number:
+270280.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-26T22:19:49.983
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you for such a great recipe! The only thing I would change would be to use a little less of the heavy cream and pesto mixture. I made the recipe as is and it was a huge hit!

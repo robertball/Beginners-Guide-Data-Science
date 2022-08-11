@@ -1,0 +1,72 @@
+Recipe number:
+260128.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-10T23:47:15.353
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out good. A little thick/dry but the flavor was spot on. There was a nice heat but not one that set you on fire two bites in. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-22T00:12:09.257
+helpfulCount:
+0
+userID:
+5571350
+Display Name:
+Audrey E. Urban
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+7321
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1614926.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I left out the bleu cheese because I don't like it. The recipe turned out great.

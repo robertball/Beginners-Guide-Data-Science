@@ -1,0 +1,73 @@
+Recipe number:
+262509.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-13T02:18:53.92
+helpfulCount:
+1
+userID:
+23283041
+Display Name:
+David Berube
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5093214.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious little bites. The recipe made 40.
+We are very happy with them and will serve them to company this summer. Great with chilli sauce.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-24T23:38:07.427
+helpfulCount:
+0
+userID:
+9795854
+Display Name:
+mpk6328
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+175
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delish and easy. Add different seasonings to change it up like Mrs. Dash Fiesta Lime!

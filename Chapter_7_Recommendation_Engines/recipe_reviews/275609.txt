@@ -1,0 +1,37 @@
+Recipe number:
+275609.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-16T23:00:19.963
+helpfulCount:
+0
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+302
+followingCount:
+0
+madeRecipesCount:
+251
+favoritesCount:
+1620
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7665074.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The London Fog latte is my absolute favorite comfort drink and my go to whenever I'm at a new coffee shop to "try" the shop. This recipe is perfect and very easy to make at home!

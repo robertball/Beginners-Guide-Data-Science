@@ -1,0 +1,72 @@
+Recipe number:
+172843.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-02-10T12:05:49.463
+helpfulCount:
+6
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+892
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very tasty and simple to make. I have an indoor grill which worked fine for the green onions. I served this on Turkey, Bacon, and Ranch Burgers (personal recipe by Stacey) and it was delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2020-07-21T19:43:48.113
+helpfulCount:
+0
+userID:
+27820814
+Display Name:
+claire allan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8353420.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this mayo was great. at first, I was skeptical because it called for cinnamon but once made, it was great and the cinnamon added a kick of flavour. would recommend this recipe

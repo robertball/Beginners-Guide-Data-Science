@@ -1,0 +1,49 @@
+Recipe number:
+40192.txt
+Review:
+Rating:
+3
+dateLastModified:
+01/09/2005
+helpfulCount:
+6
+userID:
+1281659
+Display Name:
+DEHERE98
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe was tasty, but the meat was not very tender. I think next time I will let the meat marinate for several hours. The red pepper is a nice compliment to the beef and we had roasted potato's.
+Review:
+Rating:
+5
+dateLastModified:
+12/17/2005
+helpfulCount:
+1
+userID:
+1405209
+Display Name:
+STEVE50613
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/222230.jpg
+text:
+So tender and tasty
+Review:
+Rating:
+3
+dateLastModified:
+01/05/2007
+helpfulCount:
+0
+userID:
+1045812
+Display Name:
+Me Here
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8205342.jpg
+text:
+The flavour was good, but as another reviewer said the meat was tough. The second time I marinated it overnight but the beef was still tough. The third time was the charm: instead of marinating, I browned the cutlets "as is", added all the ingredients except the red pepper into the saucepan, covered, and cooked on low for two hours. I then sauteed the red pepper separately and added it to the cooked steak.
+
+I have a feeling the "round steak cutlets" I buy at my supermarket aren't the same that the recipe creator buys, which could be the problem.

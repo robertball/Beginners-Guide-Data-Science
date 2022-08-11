@@ -1,0 +1,72 @@
+Recipe number:
+13361.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-03-25T17:51:05.933
+helpfulCount:
+3
+userID:
+3632174
+Display Name:
+BigShotsMom
+isPro:
+False
+followersCount:
+186
+followingCount:
+0
+madeRecipesCount:
+637
+favoritesCount:
+1878
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Well, it lived up to its description "Quick, warm, cheap and very filling."  There is too much macaroni for the amount of liquid and the clam flavor gets lost. I even replaced the chicken broth with clam juice.  The only flavors that come through are tomato and chili.  I'm sorry, but we will not be having this again.
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-15T20:01:40.67
+helpfulCount:
+0
+userID:
+15647508
+Display Name:
+Luke Kale
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great recipe

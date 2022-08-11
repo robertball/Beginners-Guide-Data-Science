@@ -1,0 +1,37 @@
+Recipe number:
+274636.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-06T00:56:55.307
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+612
+favoritesCount:
+984
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was convinced I would not like this, but surprisingly it was really tasty! I couldn’t locate the whole wheat penne pasta, so I used whole wheat spaghetti noodles. Aside from the small swap, no other changes. This could be a meal with pieces of cooked chicken.

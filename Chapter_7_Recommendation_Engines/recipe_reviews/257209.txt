@@ -1,0 +1,72 @@
+Recipe number:
+257209.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-18T18:18:00.533
+helpfulCount:
+1
+userID:
+4220332
+Display Name:
+JulieMarie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+178
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5732665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not have milk so I used extra sour cream.  I used melted butter rather than oil. I baked it in a rectangular cake pan for ease, and  I made a lemon glaze rather than the canned frosting.  It's very sweet and moist.  I served it with lightly sweetened whipping cream.  Everyone was gaga.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-27T16:37:08.727
+helpfulCount:
+0
+userID:
+2740193
+Display Name:
+Kelly's Kitchen recipes
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+191
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4103368.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cake was amazing...unbelievably moist and full of flavor!  I was a bit skeptical of the ingredients but I’m glad I tried this recipe.  My only change was that I used lactaid milk and sour cream, but no one could tell that.  The 2 round cake pans cooked much quicker...my cakes were done in 35 minutes.  As ovens vary I would just caution you to check your cake after 30 minutes. My family loved the raspberry cake!  I also added lemon pudding as a filling between the 2 cakes...simply delicious!

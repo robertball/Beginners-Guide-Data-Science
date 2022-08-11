@@ -1,0 +1,37 @@
+Recipe number:
+212567.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-01-28T00:58:35.007
+helpfulCount:
+6
+userID:
+4508532
+Display Name:
+johntone
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/340782.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i tried this with cooked prawns and it wasn't too bad.next time i'll use green prawns to let the flavours infuse.very tasty.

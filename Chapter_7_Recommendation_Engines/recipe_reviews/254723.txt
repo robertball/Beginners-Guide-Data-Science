@@ -1,0 +1,72 @@
+Recipe number:
+254723.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-09T22:23:09.727
+helpfulCount:
+0
+userID:
+14686394
+Display Name:
+Calif.Marsha
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe has the most authentic choices of meats that I've seen from all the current Feijoada choices here.  If your store doesn't carry some of these meat cuts, at least be sure to add the bacon (or even salt pork) and the pigs feet - or if feet sound too scary to you, add some ham hocks.  We always added chorizo, and a salami that had been cut into large bite size chunks.  In the last 1/2 hour, skin a large orange, and pull apart in 4-6 sections, and toss into the pot.  That's an authentic addition, and it really gives it an especially nice flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-08T19:25:38.377
+helpfulCount:
+0
+userID:
+14627454
+Display Name:
+Patrícia Guerra
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+116
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6450321.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe!

@@ -1,0 +1,37 @@
+Recipe number:
+271110.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-22T19:09:40.37
+helpfulCount:
+0
+userID:
+290510
+Display Name:
+REDENG
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+624
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6320628.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I needed a bit more cassava flour to make a “rollable” dough and used monk fruit sugar instead of coconut sugar. My test cookie didn’t flatten much so the rest of them I flattened a bit before baking. Not very sweet, so if you like sweet cookies, you might want to up the sugar (unless the low sweetness was due to my use of monk fruit, but I won’t think so.) As is, I’d say it’s an adult cookie, a unique but pleasant flavour. Good texture, hold together well.

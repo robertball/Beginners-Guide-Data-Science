@@ -1,0 +1,37 @@
+Recipe number:
+247422.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-06T15:29:05.177
+helpfulCount:
+0
+userID:
+8272819
+Display Name:
+tpn1018
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+574
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6054902.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these as an after-school snack for my kids. I didn’t have any cacao nibs, so I left those out. I also didn’t have brown rice syrup, so I used honey instead. The only dried fruit I had were raisins, and those complimented the other ingredients nicely. The recipe came together easily and the kids have enjoyed snacking on them in the afternoons. The bars aren’t crumbly and hold together well. I like the flexibility of the recipe in that different nut/seed /fruit combinations can be used and the bars should still turn out well. I’ll definitely use this recipe again and will experiment with different ingredients.

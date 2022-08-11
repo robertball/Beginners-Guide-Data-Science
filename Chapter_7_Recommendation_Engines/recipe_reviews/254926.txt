@@ -1,0 +1,37 @@
+Recipe number:
+254926.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-08-17T22:43:03.45
+helpfulCount:
+0
+userID:
+1598858
+Display Name:
+MariaTheSoaper
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1556291.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will state, this isn't so much a "cake" in the traditional bready sense, more like a hard set multi-grain custard with raisins in it and a bottom crust like a bar/pie.  We really didn't care for the texture of it because of the egg/milk base and the jumble of banana vs apple vs spices together. The extra addition of yogurt and honey does make this better, but it wasn't for us.

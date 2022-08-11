@@ -1,0 +1,40 @@
+Recipe number:
+263793.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-17T22:35:23.757
+helpfulCount:
+0
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+In Canada this steak is called a blade steak, I could not find them anywhere, I used 2 eye of round steaks instead. My steaks were smallish so I reduced the cooking time, 2 1/2 minutes each side in cast iron pan, then 15 minutes in the oven. They were well done, next time maybe pan only to make them more medium for my husband. The meat was very flavourful though and I would definitely use the method again, I think on chicken would be good too.
+#AllrecipesAllstarsCanada
+#TacoLove
+#FacelessNoMore

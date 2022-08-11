@@ -1,0 +1,32 @@
+Recipe number:
+85700.txt
+Review:
+Rating:
+3
+dateLastModified:
+03/06/2006
+helpfulCount:
+3
+userID:
+977713
+Display Name:
+Chrissy DeCosmo Fessler
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2992836.jpg
+text:
+The taste was okay but this was way to thick to drink. I would cut down significantly on the crushed pineapple. I ended up throwing most of it out. What a waste.
+Review:
+Rating:
+4
+dateLastModified:
+06/25/2006
+helpfulCount:
+0
+userID:
+802795
+Display Name:
+Chelsey Wolnowski
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4367.jpg
+text:
+Not the best chi chi I have had, but still OK :)

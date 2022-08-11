@@ -1,0 +1,76 @@
+Recipe number:
+50025.txt
+Review:
+Rating:
+2
+dateLastModified:
+2004-11-21T15:08:41.983
+helpfulCount:
+5
+userID:
+1194551
+Display Name:
+DRAGONFLIE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked using Cardamom in a recipe.  Along with the Dates, walnuts and sesame seeds, this is not like any other cookie recipe that I've had.  However, It lacks a few traditional cookie elements (salt, leavening agent), which makes it taste more like an unfinished, flat-tasting cookie than anything.
+
+If I try making this cookie again, I will likely add some salt and baking soda, along with some other additions and subtractions to change the consistancy of the dough and to make these taste more like a truely finished cookie than my current product.
+
+I would recommend this recipe to those who like to twick there recipes into their own, as this recipe has a lot of possibilies . . .
+Review:
+Rating:
+4
+dateLastModified:
+2004-11-17T11:07:30.81
+helpfulCount:
+5
+userID:
+648869
+Display Name:
+TDAWNP
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1797522.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Although I think the name is a bit exagerrated, these are quite good. They are not too sweet and I didn't feel as guilty eating 4 in a row, warm from the oven as I would chocolate chip cookies, because they are so nutrient dense. They aren't your traditional American cookie, but if you like cardamom and dates, it's a good one to try. All I did differently was to substitute pecans for the walnuts. I think they tasted best eaten warm the same day.

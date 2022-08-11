@@ -1,0 +1,37 @@
+Recipe number:
+242469.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-02-28T08:12:12.007
+helpfulCount:
+0
+userID:
+10386479
+Display Name:
+Veni
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2613900.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty good for healthy pancakes! I substituted coconut oil for butter. Be careful cause they cook super fast, about 2-3 minutes each side. Topped them off with a little  bit of pure maple syrup.

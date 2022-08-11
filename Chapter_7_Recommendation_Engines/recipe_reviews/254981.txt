@@ -1,0 +1,37 @@
+Recipe number:
+254981.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-03T23:48:57.457
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8908
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were SO good! I had a medium sized eggplant, and I sliced it and used 12 slices (6 stacks of 2) for this recipe, and still had a few slices left over for another use. I kept all of the rest of the ingredients as is, and substituted green onions for the leeks, as that is what I had on hand. I served these over a bed of angel hair pasta tossed in a light marinara sauce. My Italian husband suggested adding a slice of mortadella between the layers next time! Sounds good to me, but they were terrific as is as well! Will make again!

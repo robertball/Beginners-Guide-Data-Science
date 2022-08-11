@@ -1,0 +1,38 @@
+Recipe number:
+261881.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-16T03:16:45.347
+helpfulCount:
+1
+userID:
+13273427
+Display Name:
+traley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+525
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definately will make again; very delish and simple as written!  I did use some sweet potato as well adding color and additional flavor.
+Super straight forward to make and enjoyed by my husband as well~Thank you for great Vegan recipe!

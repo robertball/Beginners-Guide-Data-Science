@@ -1,0 +1,72 @@
+Recipe number:
+222380.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-07-09T16:44:02.97
+helpfulCount:
+4
+userID:
+3192007
+Display Name:
+Lindsay
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+337
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Never would have thought to stir-fry tortellini...Glad I did! Left the sausage out and did just veggies, pineapple, and pasta. Delicious! Good alternative to a cream or tomato sauce.
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-04T00:46:58.82
+helpfulCount:
+0
+userID:
+25795041
+Display Name:
+Sundeep Gandhi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved it! I cut the veggies very tiny and cooked them a little longer so the kids would eat it.  Was crossing my fingers it would turn out good and was well pleased with the result, very interesting dish

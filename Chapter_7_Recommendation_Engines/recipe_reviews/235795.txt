@@ -1,0 +1,72 @@
+Recipe number:
+235795.txt
+Review:
+Rating:
+1
+dateLastModified:
+2016-11-23T17:59:26.517
+helpfulCount:
+3
+userID:
+10995331
+Display Name:
+yadira
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't think this dish is sopes. Sopes are made from corn masa and you fry them. My family did not like this recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-26T01:16:38.757
+helpfulCount:
+0
+userID:
+11139913
+Display Name:
+Cathy Dorchuck
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4047108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We love this recipe! The trick is to keep them thin and light. We topped ours with Carnitas.

@@ -1,0 +1,37 @@
+Recipe number:
+220554.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-03-17T13:11:01.07
+helpfulCount:
+6
+userID:
+6011862
+Display Name:
+lesleyb101
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We've been doing campfire pies for 40 years.  They are great.  This recipe is good but a little flat.  We usually add a small amount of cinnamon and nutmeg to the apple filling (to taste).  We've also used blueberry pie filling, lemon which is also good cold, raspberry and a filling of extra lean ground beef cooked and crumbled, seasoned with garlic powder, salt and pepper; cooked, crumpled bacon and shredded cheddar cheese.  Everyone who visits us requests these for dinner.  We even do this in the winter in our home fireplace.

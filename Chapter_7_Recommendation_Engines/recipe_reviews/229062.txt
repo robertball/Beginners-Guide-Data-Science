@@ -1,0 +1,109 @@
+Recipe number:
+229062.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-04T12:42:30.8
+helpfulCount:
+3
+userID:
+3807895
+Display Name:
+Kathy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is AMAZING! I substituted beets for the peas and used purple cabbage.  I put in about 4 jalapeños to give it some zip. 27 lbs is one half of a bushel.  Good stuff!
+Review:
+Rating:
+1
+dateLastModified:
+2017-06-27T04:28:05.47
+helpfulCount:
+2
+userID:
+22105517
+Display Name:
+Whit Elfner
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This doesn't appear to meet the minimum standards for tomatoes for shelf safe acidity. Which recommends 2 table spoons of Lemon juice per quart just for canning tomato  juice.
+
+Most of the added veggies aren't acidic, so even more would be needed to be 'shelf stable'.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-02T13:15:41.147
+helpfulCount:
+0
+userID:
+1375559
+Display Name:
+Nikki Boyce
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5800345.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made my first batch as indicated. Year later is still good.  Second batch I added beets which I like with everything.

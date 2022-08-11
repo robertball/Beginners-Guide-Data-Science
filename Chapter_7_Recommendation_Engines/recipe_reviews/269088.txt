@@ -1,0 +1,37 @@
+Recipe number:
+269088.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-14T01:47:45.33
+helpfulCount:
+0
+userID:
+4573028
+Display Name:
+sumar
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+470
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used sirloin, less garlic and only 1 T of the chili-garlic sauce. We thought the flavor was just right and will have it again.

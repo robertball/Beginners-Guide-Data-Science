@@ -1,0 +1,37 @@
+Recipe number:
+272923.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-29T14:21:18.437
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+187
+followingCount:
+0
+madeRecipesCount:
+530
+favoritesCount:
+692
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple recipe with a strong cilantro flavor. Quick and easy. Followed recipe as written!

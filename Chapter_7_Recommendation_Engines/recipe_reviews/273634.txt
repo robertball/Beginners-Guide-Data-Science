@@ -1,0 +1,73 @@
+Recipe number:
+273634.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-14T23:35:35.34
+helpfulCount:
+0
+userID:
+9738026
+Display Name:
+Marcia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy a child could make it
+.  It was delicious, no changes needed. will try it with blueberries too.  I didn't have an 11 x 7" baking dish so I used my club aluminium frying pan, it worked swell. Thanks for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-14T23:21:47.197
+helpfulCount:
+0
+userID:
+3272052
+Display Name:
+Lisa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+95
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it using the exact recipe. I did have to bake it longer than it said to and then the middle was still a little under baked. My husband loved it and said it was a keeper!

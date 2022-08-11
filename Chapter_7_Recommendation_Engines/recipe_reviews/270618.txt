@@ -1,0 +1,37 @@
+Recipe number:
+270618.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-12T21:55:16.953
+helpfulCount:
+0
+userID:
+7330931
+Display Name:
+Barbara Cooper Nace
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5877789.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added chopped dates-really good and rich.

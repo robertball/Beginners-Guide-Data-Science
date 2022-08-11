@@ -1,0 +1,37 @@
+Recipe number:
+254193.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-18T20:07:11.833
+helpfulCount:
+1
+userID:
+17425988
+Display Name:
+Matt Wencl 
+isPro:
+False
+followersCount:
+69
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+241
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3268229.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was out of mint, but that was fine, because this tasted like Southern sweet tea, a great refreshing finish after a dinner of spicy bbq!

@@ -1,0 +1,37 @@
+Recipe number:
+269268.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-16T15:48:23.413
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+190
+followingCount:
+0
+madeRecipesCount:
+534
+favoritesCount:
+696
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5 stars from my family! I followed the recipe exactly, but need extra sauce to make sure the noodles were cooked correctly. I think next time I will up the amount of veggies. My son loved it just as much. I have a feeling it will taste even better the next day.

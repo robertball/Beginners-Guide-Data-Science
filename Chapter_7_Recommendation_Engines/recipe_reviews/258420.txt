@@ -1,0 +1,40 @@
+Recipe number:
+258420.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-17T01:26:07.793
+helpfulCount:
+1
+userID:
+7694259
+Display Name:
+brykate
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+552
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3954090.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this salad! Sooo yummy, unique, wholesome, sweet, savory, and refreshing. 
+The nectarines and dressing really make this special. The more ripe and tasty the the fruit, the better. 
+My recipe is slightly different and does not include bell pepper and I use whole can of chickpeas, plus the nectarines are chopped up and stirred into the salad. Also 1/2c finely chopped up fresh spinach (or greens). 
+For 6 servings: 213 cal, 3.9 fat, 7.8 pro, 3.6 fiber, ?40carbs

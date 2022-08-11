@@ -1,0 +1,37 @@
+Recipe number:
+245468.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-12-18T15:06:19.94
+helpfulCount:
+1
+userID:
+5068637
+Display Name:
+BevKat
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+191
+favoritesCount:
+298
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/637860.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was different! It has a sweet garlicy taste.  I am a garlic lover so I added a bit more garlic, not a good idea. Also, I would saute the garlic  or roast it first.  I don't eat wheat so no pita for me. I tried tortilla chips, no, they don't work w/ this. I think it makes a good salad dressing if you like sweet & creamy, which I do not. I think I will just eat it with a spoon. I will probably not make it again. The system would not let me post a photo. I ended up giving it to my neighbor Carolyn.

@@ -1,0 +1,37 @@
+Recipe number:
+221922.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-07T14:21:01.2
+helpfulCount:
+1
+userID:
+6478289
+Display Name:
+gleefulmom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We are recent transplants to Florida and someone gave us a bag of kumquats.  I looked up recipe ideas and found this one.  We enjoyed it very much!  I made it following the instructions given and it was orangey and yummy. I discarded the insides and used the peels as directed, mincing them as much as I could in a small food processor and then in my blender.  The ice cream had small bits of peel, reminding me of the texture of coconut.  I’m only giving four stars for that reason (perhaps an extra good blender like a vitamix would work to get a completely smooth paste).  I would make again!

@@ -1,0 +1,107 @@
+Recipe number:
+255103.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-01T21:03:50.327
+helpfulCount:
+0
+userID:
+16390485
+Display Name:
+Sam S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice! Great for me today with just the first green beans and zucchini!  I even had a young cuke to add for crunchiness.
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-05T12:23:29.34
+helpfulCount:
+0
+userID:
+8764255
+Display Name:
+Betty W Stone
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+897
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1162987.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great option for using fresh farmers market bounty.  I will season a bit more next time, as flavor was a little dull.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-17T01:51:31.96
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+LOVED this recipe and 5 stars all the way! If I had to change anything I'd say add more potatoes to make them the true star of the show that they are. This a great alternative to your every day dull potato salad and I am 100% certain your guests will agree. SO fresh and full of life! Make this! You won't regret it!

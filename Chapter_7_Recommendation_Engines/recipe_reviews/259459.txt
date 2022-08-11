@@ -1,0 +1,72 @@
+Recipe number:
+259459.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-26T01:04:44.05
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good. A bit time consuming as another reviewer stated but the outcome is well worth it.
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-13T17:24:09.527
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were excellent! Cumin is one of my favorite spices and I really liked it in this one. I made both of the recipe submitter broccoli tots recipes and the only change I made was to add bacon to this one as well. I preferred these ones and hubs preferred the Broccoli Bacon Ranch Tots . We both agreed that both were excellent though. Again, the key is in step 4. Get as much moisture out of the broccoli as you possibly can. These are a bit time consuming but well worth it in the end. Excellent recipe!

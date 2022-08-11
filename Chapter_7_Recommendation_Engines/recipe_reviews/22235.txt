@@ -1,0 +1,47 @@
+Recipe number:
+22235.txt
+Review:
+Rating:
+4
+dateLastModified:
+08/29/2002
+helpfulCount:
+3
+userID:
+143799
+Display Name:
+TMoore
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/116089.jpg
+text:
+I'm not an eggplant fan, but this was a great dip for our party. Fresh basil would work much better than dried, I think, since the dried added a grainy element to the recipe. Our guests certainly thought it was a hit though! Great vegetarian recipe and appetizer!
+Review:
+Rating:
+4
+dateLastModified:
+08/29/2002
+helpfulCount:
+2
+userID:
+281202
+Display Name:
+LENOREK
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is more authentic if you add capers, otherwise it is good.
+Review:
+Rating:
+5
+dateLastModified:
+08/29/2002
+helpfulCount:
+1
+userID:
+303122
+Display Name:
+KUNGFUSCRIBBLE
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+very yummy and different

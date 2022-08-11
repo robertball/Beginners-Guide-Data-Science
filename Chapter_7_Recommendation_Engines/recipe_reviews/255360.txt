@@ -1,0 +1,37 @@
+Recipe number:
+255360.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-11-24T20:37:08.213
+helpfulCount:
+0
+userID:
+6308063
+Display Name:
+paulryb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+156
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are OK. Not as spicy as I hoped, even though I doubled the mustard powder and added candied ginger I had on hand. Also,  I thought there was no reason to make them "giant" so I made them normal sized cookies...started with about 1" sized balls of dough which I flattened and sugared. These cookies really spread out when baking and made really thin cookies...thin, and kind of ugly. Maybe if I had made them giant they would have worked better, but I doubt it. They are good, but I would not make this recipe again. Also, I missed the usual cinnamon which can be spicy itself. So far favorite from this site is Grandma's Ginger Snaps.

@@ -1,0 +1,37 @@
+Recipe number:
+260479.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-03-20T00:56:05.393
+helpfulCount:
+0
+userID:
+4687937
+Display Name:
+itsmemaggi
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1134279.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Measurements are wrong. I needed at least 3 cups of flour total to get a workable dough. Pretty bland, but has potential.

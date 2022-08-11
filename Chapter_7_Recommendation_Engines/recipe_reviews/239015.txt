@@ -1,0 +1,37 @@
+Recipe number:
+239015.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-03T13:33:13.46
+helpfulCount:
+0
+userID:
+6490994
+Display Name:
+JJ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+250
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavors in this were very satisfying. I didn't have the buckwheat so I substituted bulgar wheat and just reduced the water.

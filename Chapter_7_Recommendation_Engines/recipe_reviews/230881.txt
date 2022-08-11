@@ -1,0 +1,205 @@
+Recipe number:
+230881.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-03-11T15:54:21.923
+helpfulCount:
+6
+userID:
+21621323
+Display Name:
+Irem Odabasi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hi, I'm from Turkey and this is how we make Turkish coffees.
+
+First, you need a coffeepot(we call it cezve) for Turkish coffees.
+
+And you need a cup for Turkish coffees. 
+
+''Turkish coffee cups called -fincan- are a necessity for serving Turkish coffee. These new cups were the half size of a typical tea cup of that time. It could hold 2-3 fl. oz. / 60-90 ml of liquid. They have a height of 2-2.5 in. / 5-6 cm. They were accompanied by saucers (“coffee stands”) which had a diameter of 4-4.5 in. / 10-12 cm.''
+
+For one fincan, you put 2 teaspoons of the coffee. 
+if you want to have low-sugar coffee: you need half of the cube sugar.
+if you want to have medium-sugar coffee: you need 1 cube sugar.
+if you want more sugary: you need max 2 cube sugar. 
+or you don't even need to add sugar at all, it's your choice.
+
+but as an advise; the more sugar, the less taste of the coffee.
+
+So this is how it goes:
+
+1. take your cezve and put 2 teaspoons of coffee. if you are 2 person then you'll need 4 teaspoons of coffee.
+
+2. if you want, add your sugar. Max 2 sugar is also enough for 2 person if you want to drink sugary. 
+
+3. then  take your -fincan- and fill with water (not milk). if you are 2 person so you need 2 fincans of water in the -cezve-.
+
+4. before taking -cezve- to the heat, you should mix all together and for 35 seconds. 
+
+5. take the cezve with the mixture to the low heat and continiue to stir. make sure you stir nice and slow. stir until it bubble ups.
+
+6. then take the coffee from
+Review:
+Rating:
+1
+dateLastModified:
+2014-02-27T16:09:04.89
+helpfulCount:
+4
+userID:
+4430059
+Display Name:
+Cheri Partain
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5848521.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The whole idea of me looking for a Turkish Coffee recipe was to see a recipe from scratch,with the individual ingredients, spices, that make it "Turkish". This is a real disappointment. I'm right where I started: Having to go out and buy a prepackaged mix.
+Review:
+Rating:
+3
+dateLastModified:
+2015-03-06T07:07:42.483
+helpfulCount:
+1
+userID:
+2543907
+Display Name:
+Rochelle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I bought a bag of Turkish coffee, but wasn't sure how to make it, so I looked up this recipe.  I made this with cashew milk instead of regular milk. Otherwise followed the directions, and found it a bit too strong and rich.  Also, I need two servings and it only came out to half a cup. I'm not sure if Turkish coffee supposed to be drunk in smaller cups. If so, then it makes sense.
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-08T16:44:19.773
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is definitely more mild than traditional Turkish coffee. I used a cezve. This is a pleasant drink for those who want a creamy coffee.
+Review:
+Rating:
+4
+dateLastModified:
+2013-09-19T16:07:43.053
+helpfulCount:
+0
+userID:
+11475168
+Display Name:
+osssaqr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good Recipe !

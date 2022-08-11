@@ -1,0 +1,47 @@
+Recipe number:
+153308.txt
+Review:
+Rating:
+4
+dateLastModified:
+12/04/2007
+helpfulCount:
+2
+userID:
+2111971
+Display Name:
+Chikee
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/91990.jpg
+text:
+These were good, but a bit too spicy for my boyfriend and his friend.  Next time, I'll add less chipotle pepper but I liked them as is...although we ended up serving the slaw on the side versus atop the Joe.  Thanks for the different idea.
+Review:
+Rating:
+5
+dateLastModified:
+01/11/2009
+helpfulCount:
+0
+userID:
+2985575
+Display Name:
+food friend
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6857131.jpg
+text:
+not very spicy at all but has a little zing to it.
+Review:
+Rating:
+5
+dateLastModified:
+12/09/2008
+helpfulCount:
+0
+userID:
+3365568
+Display Name:
+Heidi
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/163920.jpg
+text:
+Loved it.  A keeper for sure.

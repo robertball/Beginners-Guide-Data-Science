@@ -1,0 +1,73 @@
+Recipe number:
+233769.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-21T10:07:13.123
+helpfulCount:
+6
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12229
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2670
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an easy and tasty salsa. Here is a tip to remove the cilantro leaves from the stems.  Wash the cilantro and then hold the stem end of the bunch in one hand and 'rake' the bunch with a fork.  Most of the leaves will be removed leaving you holding just the stems. Enjoy!
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-06T02:29:01.3
+helpfulCount:
+0
+userID:
+5291689
+Display Name:
+nolteteam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+210
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I originally posted this recipe.  The photo with the very large chunks of avocado is not mine.  I actually slice the avocado into small, short slivers before adding to the salsa in the last step, never using large chunks.  The two tomatoes in the last step are chopped into very small pieces typical for salsa.
+And there is absolutely no need to remove the cilantro leaves from their stems prior to blending.  Just wash a large handful of cilantro thoroughly and throw it into the blender.

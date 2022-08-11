@@ -1,0 +1,109 @@
+Recipe number:
+18176.txt
+Review:
+Rating:
+1
+dateLastModified:
+2006-10-08T22:40:17.56
+helpfulCount:
+20
+userID:
+2111196
+Display Name:
+MSG Hollmann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You can't make a real SacherTorte with boxed cake and boxed icing and some jam!
+Real SacherTorte is dense and moist, but NOT sweet.  The "frosting" is more of a chocolate glaze which drizzles down the side of the genoise and buttercream filling with either apricot or raspberry jam.  Try again!
+My Grossmutti is turning over in her grave
+Review:
+Rating:
+2
+dateLastModified:
+2004-10-20T09:32:05.903
+helpfulCount:
+15
+userID:
+1214070
+Display Name:
+GETYOURLEASH
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe gets barely 3 stars. It's not a SACHERTORTE, not even close. It's a boxed cake with rum and apricot added to it. Disappointing to say the least. I should have known when it started out with boxed cake!
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-12T16:03:17.853
+helpfulCount:
+7
+userID:
+1052663
+Display Name:
+ARCTICAMY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+100
+favoritesCount:
+272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/63094.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an excellent recipe. An authentic sacher torte is apricot, but I have found that orange marmalade is a super substitute. The chocolate cake I made was altered a bit...instead of using water in the mix, use half and half or buttermilk. This makes the cake more moist and flavorful. Add a little Grand marnier for a special treat.

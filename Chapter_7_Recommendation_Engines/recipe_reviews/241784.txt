@@ -1,0 +1,73 @@
+Recipe number:
+241784.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-07T10:52:20.76
+helpfulCount:
+2
+userID:
+14855249
+Display Name:
+CoachJen
+isPro:
+False
+followersCount:
+50
+followingCount:
+0
+madeRecipesCount:
+78
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2201577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are so yummmmmy :) Everyone loved them.
+I'm not sure if the timing was mistyped, but it only took 15 minutes to sauté and caramelize the onions and mushrooms to a lovely brown. Another way to shave some time off was to have the pastry puffs come out of the oven as the sautéing started so they were cooled when it was time to put it all together. I absolutely love cooking with butter, and the flavour goes great with onions and mushrooms but it was a bit too much for me. I would cut it with a splash of white wine or just reduce the amount of butter going in. The goat cheese mixture was creamy and deeelish! Mmmm. I also didn't have a 5" cutter so mine were smaller and disappeared in two bites! All told the timing including prep right to taking the first bite was about 40 minutes.
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-18T01:15:29.977
+helpfulCount:
+0
+userID:
+20808374
+Display Name:
+Junior Chef Pique
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A tarte tatin is and apple of fruit and caramel tart baked upside down. Although does look tasty!

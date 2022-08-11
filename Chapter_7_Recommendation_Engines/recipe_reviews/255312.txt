@@ -1,0 +1,37 @@
+Recipe number:
+255312.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-11-02T14:22:34.357
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Maybe savory oatmeal like this is an aquired taste. I'm sorry to give this a bad rating, but I did not like it. The vegetable seasoning was just not good in it. Just salt and pepper would have been better. I added some sundried tomatoes to give it a bit more flavor, and that helped. I ended up adding some crumbled sausage and a sprinkle of parmesan. I was able to eat half the bowl.

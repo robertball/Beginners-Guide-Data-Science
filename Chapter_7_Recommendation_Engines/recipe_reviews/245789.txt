@@ -1,0 +1,37 @@
+Recipe number:
+245789.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-25T08:27:50.007
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1060
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I could not convince the drinker of this cocktail that there was beer in it!   A few subbed Sprite for the beer, and that was OK....but most preferred the beer over the lemon lime soda.  I garnished with cherries....because...hello!  Marashino cherries!  Next time I might soak the cherries in the rum for a few days before serving this drink.  That would take it over the top!  Thanks!

@@ -1,0 +1,37 @@
+Recipe number:
+254550.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-02T16:23:28.13
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This couldn't be any easier. I was tempted to add some onion and bell pepper to the ground meat, but didn't. In fact, there was no need because the salsa in the end, gives it all the flavor you need. I will add sone black beans next time but, as is, this recipe is an excellent way to get a great dinner on the table, fast.

@@ -1,0 +1,37 @@
+Recipe number:
+242217.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-13T16:39:21.243
+helpfulCount:
+0
+userID:
+14670007
+Display Name:
+Lisa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and simple!

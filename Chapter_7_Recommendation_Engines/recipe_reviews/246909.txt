@@ -1,0 +1,37 @@
+Recipe number:
+246909.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-12T22:06:31.063
+helpfulCount:
+4
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+432
+favoritesCount:
+913
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband loved this! Peaches and blueberries are a great combo and mixing cobbler and muffins is a great idea. Due to allergies I did not use coconut oil or sugar. I used canola cooking oil and regular granulated sugar. I also upped the cinnamon in both the batter and peach mixture and doubled the vanilla in the batter mixture out of preference . I omitted the lemon juice and it was not missed or needed. I did need to bake this longer than 40 minutes but that could be due to using a square baking dish since the dish size was not specified.

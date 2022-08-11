@@ -1,0 +1,62 @@
+Recipe number:
+236587.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/15/2014
+helpfulCount:
+2
+userID:
+christina
+Display Name:
+Christina
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8555880.jpg
+text:
+Simple and tasty! I thought it needed a bit of salt but that was my only change. I do like the creaminess of it. I would make this again! Thanks for sharing.:)
+Review:
+Rating:
+4
+dateLastModified:
+06/29/2014
+helpfulCount:
+1
+userID:
+7547558
+Display Name:
+cbsmcnew
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I made this yesterday and added 2 Tbsp of lime juice 1/2 tsp of Cilantro 1/2 tsp minced garlic and salt and pepper to taste and everyone loved it. I will be making it again on the 4th of July.
+Review:
+Rating:
+4
+dateLastModified:
+03/03/2014
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7801621.jpg
+text:
+It was great served with the quesadillas I made for dinner. After tasting I added some garlic salt to it.
+Review:
+Rating:
+5
+dateLastModified:
+03/31/2019
+helpfulCount:
+0
+userID:
+22867155
+Display Name:
+Ed Morris
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4598239.jpg
+text:
+It was delicious and a big hit with the fam.

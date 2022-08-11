@@ -1,0 +1,72 @@
+Recipe number:
+217608.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-23T18:42:53.63
+helpfulCount:
+6
+userID:
+7093573
+Display Name:
+dwnhmcookn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great idea after a hot day in the sun! Perfect blend of garden fresh ingredients. A tip though: Fresh sliced green chillies taste better than canned!
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-16T07:53:56.8
+helpfulCount:
+2
+userID:
+5054179
+Display Name:
+Scott Steely
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2114078.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really tasty and easy. The avocado makes the wrap creamy and chilies add some heat.

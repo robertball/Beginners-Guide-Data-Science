@@ -1,0 +1,78 @@
+Recipe number:
+274178.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-21T15:42:11.663
+helpfulCount:
+2
+userID:
+25854363
+Display Name:
+Susan Warshell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Disclaimer: I made 2 substitutions - 1) used baby spinach because I had it and it was mid morning on a Sunday and I hadn’t eaten and didn’t want to run out 2) Eggbeaters instead of the 2 whole eggs because of my high cholesterol.
+
+It is delicious! I used to make a ‘pie’ with spinach and cheese and bisquick that was great but lots of carbs. This took the carbs out, but the cauliflower gave it body and substance. 
+
+It is a great base recipe to experiment with - add extra veggies, add cheese etc. 
+
+Will make again very soon!
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-08T22:11:17.41
+helpfulCount:
+1
+userID:
+24699776
+Display Name:
+Irene
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn’t make any changes. I would have preferred more yolk and less egg white but made as the recipe called for, it was delicious. Would make again.

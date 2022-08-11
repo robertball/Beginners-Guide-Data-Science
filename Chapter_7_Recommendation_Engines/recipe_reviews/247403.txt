@@ -1,0 +1,72 @@
+Recipe number:
+247403.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-21T05:23:20.907
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+564
+followingCount:
+0
+madeRecipesCount:
+1250
+favoritesCount:
+3514
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8195143.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these twice because the first time I made the mistake of leaving them in the freezer for about 4 hours.  The  strawberry and the chocolate were frozen, something I did not care for.  The 2nd batch I left in the freezer for 15 minutes, as stated in the recipe. I liked them better and they were tastier.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-30T01:28:50.333
+helpfulCount:
+0
+userID:
+1472389
+Display Name:
+Carrie C.
+isPro:
+False
+followersCount:
+157
+followingCount:
+0
+madeRecipesCount:
+310
+favoritesCount:
+1896
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2475216.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My crew really enjoyed these for a quick snack after school.  Great idea! I used chocolate covered strawberry ice cream and it came out so good.

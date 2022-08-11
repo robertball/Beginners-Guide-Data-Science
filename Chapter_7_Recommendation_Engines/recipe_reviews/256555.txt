@@ -1,0 +1,72 @@
+Recipe number:
+256555.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-29T23:01:06.097
+helpfulCount:
+0
+userID:
+8730999
+Display Name:
+Hara Maderich
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2489977.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it over butternut squash doodles and grilled the marinated chicken.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-30T12:32:51.75
+helpfulCount:
+0
+userID:
+12219884
+Display Name:
+WalkerM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made 2 versions of this: one with chicken and one with tofu.  We didn't bake the zoodles but cooked them in a stir fry pan and served separately.  Made the two sauces as described but added mushrooms, oregano and basil.  Also tripled the number of zucchini.  Family very much liked the recipe.  Will do again.

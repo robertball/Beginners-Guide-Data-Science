@@ -1,0 +1,72 @@
+Recipe number:
+261002.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-05T16:29:25.17
+helpfulCount:
+0
+userID:
+26234439
+Display Name:
+Morgan Miranda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7116807.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love these! Substituted swerve for the sugar to make them low carb. Taste like little marzipan cookies
+Review:
+Rating:
+1
+dateLastModified:
+2019-09-15T20:28:31.96
+helpfulCount:
+0
+userID:
+15183641
+Display Name:
+PeachLily
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Forgettable. As directed, these tasted like farina cereal with cinnamon sprinkled on top. No taste of almonds whatsoever. Since I tasted some before baking it all, I tried to salvage the rest by adding almond extract. This improved the  taste somewhat, but definitely not worth making in my opinion.

@@ -1,0 +1,107 @@
+Recipe number:
+215088.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-06-14T12:49:44.033
+helpfulCount:
+4
+userID:
+2954620
+Display Name:
+Jo Ritchey
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+508
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1240372.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sounds so easy, I must try it - Just had veggie dogs with plain mustard and would have preferred a relish!
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-05T11:29:51.133
+helpfulCount:
+3
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12227
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy and tasty too!  I used a mini food processor and this came together in a snap.
+Review:
+Rating:
+5
+dateLastModified:
+2013-08-20T17:46:55.063
+helpfulCount:
+1
+userID:
+6315593
+Display Name:
+debanilyn13
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/604537.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so easy and WAY better than the hot dog relish in the store! My family are not fans of sweet relish so this was a big hit at our house!

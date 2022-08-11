@@ -1,0 +1,72 @@
+Recipe number:
+239004.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-18T16:45:01.927
+helpfulCount:
+2
+userID:
+15656478
+Display Name:
+HomemadePreferred
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used this with Chicken on the grill , marinated easily , tasted great just the right amount of sweet & spice for all to enjoy!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-04T22:12:06.647
+helpfulCount:
+0
+userID:
+23855608
+Display Name:
+Bobby E
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent!!!! This works great on ribs!

@@ -1,0 +1,37 @@
+Recipe number:
+240649.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-17T22:13:30.55
+helpfulCount:
+0
+userID:
+9065136
+Display Name:
+senorapublix
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just made a batch of this recipe and they turned out really great....they are cooling off right now and I can't wait to ice them with anise icing....

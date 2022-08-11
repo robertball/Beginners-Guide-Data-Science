@@ -1,0 +1,37 @@
+Recipe number:
+256417.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-15T10:23:32.143
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! I wasn't sure, so I used marinated artichokes, which worked well in this. I was afraid that there was gonna be too much going on here, but all the flavors went together nicely. This does have a nice kick to it, and I reduced the cayenne a bit, so just keep that in mind. I would make this again! Thanks for sharing. :)

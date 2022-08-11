@@ -1,0 +1,37 @@
+Recipe number:
+239684.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-10-04T14:36:41.027
+helpfulCount:
+0
+userID:
+634564
+Display Name:
+AEMAZA
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+139
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Meatballs were not bad, but not very tender.  I made this as I had no eggs nor breadcrumbs, but had the cornmeal.  Worked fine as a substitute, but overall just OK. I added extra italian seasoning and roasted garlic, rather than regular minced garlic. The flavor was fine.  Good substitute if you don't have the usual ingredients.  Everyone liked them, but nothing to write home about.

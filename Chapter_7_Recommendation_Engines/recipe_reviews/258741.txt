@@ -1,0 +1,72 @@
+Recipe number:
+258741.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-21T22:44:17.497
+helpfulCount:
+2
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+555
+favoritesCount:
+871
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was wonderful and so fast and easy.  The flavours blended nicely and neither overpowered the other. I didn't have frozen pineapple so I used fresh and I don't have a large blender but the emersion blender worked well. Thanks for sharing your recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-29T21:50:30.85
+helpfulCount:
+0
+userID:
+8516495
+Display Name:
+Brittany Ortiz
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1366021.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't sure if it was okay to use canned pineapple, I did. Did not know if I should also use the juice, I didn't. It tasted good but.....it needs more sweetness. I am going to find some other sorbet recipes and see what is lacking. It was definitely easy and the kids liked it but we all agreed the orange juice overpowered the pineapple.

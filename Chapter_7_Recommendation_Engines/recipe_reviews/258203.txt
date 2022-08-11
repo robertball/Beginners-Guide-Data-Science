@@ -1,0 +1,37 @@
+Recipe number:
+258203.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-05T22:35:40.343
+helpfulCount:
+0
+userID:
+6201967
+Display Name:
+Tracy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious  flavor profile,  Just don't boil away the alcohol!!  Add the rum plus more after you blend the other ingredients.....then you will have an adult pop!!!

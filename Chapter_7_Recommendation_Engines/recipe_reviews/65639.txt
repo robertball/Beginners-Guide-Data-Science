@@ -1,0 +1,72 @@
+Recipe number:
+65639.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-03T13:47:20.947
+helpfulCount:
+4
+userID:
+8250697
+Display Name:
+Janice Coats
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6926107.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy, could'nt have just one. 4,5,6,? I forget, love them and i'm in Lotus land, my new fav. Could use leech garnish.
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-23T10:51:02.437
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For anyone who likes a fruity, sweet and refreshing drink, this is for you!  I only had white cranberry juice, so that is what I used.

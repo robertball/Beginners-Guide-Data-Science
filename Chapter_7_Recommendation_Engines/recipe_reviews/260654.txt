@@ -1,0 +1,142 @@
+Recipe number:
+260654.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-01T18:52:46.933
+helpfulCount:
+5
+userID:
+23010855
+Display Name:
+Amanda Thompson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4801422.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was given a huge batch of persimmons from a friend's tree.   This was a perfect use for them.  I added a teaspoon of vanilla extract for sweetness and sprinkle them lightly with powder sugar as a desert perfection.  My family of picky eaters destroyed them at Thanksgiving.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-22T18:16:05.19
+helpfulCount:
+0
+userID:
+26722206
+Display Name:
+Elaine V
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like the bumpy, crunchy tops.  However, I did sprinkle a bit of organic sugar on top to sweeten them and 1/4 c. raisins.  I think because the persimmons I added didn’t seem sweet or ripened enough it lacked some sweetness.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-09T03:05:53.72
+helpfulCount:
+0
+userID:
+24704291
+Display Name:
+Taryn Fischer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6091024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really like this recipe but I also didn't add any walnuts because not everyone in my family likes them so I just left them out. Otherwise I followed everything in the recipe and they turned out great I LOVE THEM!!!! However, the next time I make them I will probably add more cinnamon just because I love it otherwise they were perfect.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-09T18:16:57.503
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+432
+favoritesCount:
+912
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found persimmons in the store and thought we would try them.My husband and son liked the muffins and I thought they were ok. There just wasn't enough persimmon flavor in them for me. The only change I made was to use gluten free flour.

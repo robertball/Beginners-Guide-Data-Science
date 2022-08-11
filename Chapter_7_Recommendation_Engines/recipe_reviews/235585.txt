@@ -1,0 +1,32 @@
+Recipe number:
+235585.txt
+Review:
+Rating:
+5
+dateLastModified:
+03/05/2014
+helpfulCount:
+2
+userID:
+beejae
+Display Name:
+B.j. Harrand
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1948490.jpg
+text:
+Very Good!
+Review:
+Rating:
+5
+dateLastModified:
+05/02/2015
+helpfulCount:
+0
+userID:
+31529
+Display Name:
+Auntylene
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6165542.jpg
+text:
+This was good and so easy to put together. I added some fried onions and for some color I added cooked peas. I would make this again.

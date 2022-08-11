@@ -1,0 +1,37 @@
+Recipe number:
+269745.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-22T16:58:45.647
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fast, simple, and flavorful. Can't wait to use the leftover for nachos! This would make a great burrito filling or even a great Frito pie.

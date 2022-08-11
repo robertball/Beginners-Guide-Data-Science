@@ -1,0 +1,107 @@
+Recipe number:
+245022.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-05T22:09:33.753
+helpfulCount:
+0
+userID:
+26600912
+Display Name:
+ Big Apple
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7395393.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not bad just not much flavor. Some salt and cheese helped.
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-13T15:09:01.62
+helpfulCount:
+0
+userID:
+10820274
+Display Name:
+Nicole21
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+487
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Looked better than it tasted. I think my family was being polite.
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-14T08:44:08.197
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definitely a nice change from the traditional flavors mixed with pumpkin. The cumin really stands out. Thank you for the recipe.

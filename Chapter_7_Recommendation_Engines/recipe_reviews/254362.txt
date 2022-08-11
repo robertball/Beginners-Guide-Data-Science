@@ -1,0 +1,72 @@
+Recipe number:
+254362.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-06T01:54:31.333
+helpfulCount:
+0
+userID:
+3048059
+Display Name:
+ScooterD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+201
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as a gf pizza crust dough and it worked great - i used about 1/3 the salt, and used coconut flour to dry and flatten it so that i could transfer to the oven.  I baked the pizzas on a pizza stone, and it worked best dusting the stone with cornmeal and pre-cooking the crust for 2-3 minutes before putting the toppings on then finishing baking the pizza.
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-09T16:53:29.41
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent flavor when you drastically reduce the amount of salt. I've never tried these rolls before, so I don't have any real comparison. The texture of these is a bit hard on the outside but soft inside. I used a cheese similar to pepper jack so the spicy kick is really pleasurable. Everyone in the house liked them and devoured them in minutes. The fact that they are gluten free was super for us in a house of both celiacs and non! Thank you for the recipe.

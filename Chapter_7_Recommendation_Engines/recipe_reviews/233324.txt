@@ -1,0 +1,107 @@
+Recipe number:
+233324.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-11-03T17:56:58.843
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great beer bread. I loved the additions of cinnamon and flax. I only used a tablespoon of melted butter and thought that it was plenty to give it a nice look and crunch. My only issue was the cranberries were so tart, especially since the bread isn't very sweet. I don't have any cream cheese, but I bet that would tone down the tartness a bit. I'll make this again and use dried cranberries instead, which I've added to regular beer bread before.
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-03T16:35:27.917
+helpfulCount:
+1
+userID:
+9058258
+Display Name:
+Steve
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great flavor.  I used a dark micro brew.  Next time I will increase to 1 tsp of cinnamon.  I'm a literal person, so I attempted to "whisk" beer into flour... don't try.  Use anything but a whisk.  Recipe doesn't say dried cranberries, so I used fresh.  Decided to dice the cranberries instead of leaving them whole. Dried would work.
+Review:
+Rating:
+5
+dateLastModified:
+2013-10-14T05:33:19.78
+helpfulCount:
+1
+userID:
+9491999
+Display Name:
+Bob Van Zandt
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+533
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have tried this recipe numerous time and love it. I am 70  and (knead) need the ease of preparation . Great recipe   BVZ

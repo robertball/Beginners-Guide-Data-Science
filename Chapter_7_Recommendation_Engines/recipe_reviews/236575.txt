@@ -1,0 +1,257 @@
+Recipe number:
+236575.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-18T23:53:45.517
+helpfulCount:
+3
+userID:
+3669368
+Display Name:
+Grace's kitchen
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+420
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1198852.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I takes longer but are also good cold
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-22T13:47:33.713
+helpfulCount:
+0
+userID:
+25999740
+Display Name:
+Jerry Maule
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6940294.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a 5 star recipe.  Exactly what I was hoping these pancakes would be.  At first, I was a little overwhelmed with the large amount of batter, but they fry up super fast and in no time you’re done.  They will be excellent to freeze leftovers for another meal.  Will definitely make these again!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-26T02:39:30.84
+helpfulCount:
+0
+userID:
+12165681
+Display Name:
+Michael Moore
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4847924.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent, not too sweet at all, which means any toppings work. I had to add a little extra flour to get the batter thick enough for thicker pancakes.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-08T20:07:26.07
+helpfulCount:
+0
+userID:
+3864190
+Display Name:
+ftcchef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+558
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OMG these pancakes are the BEST I EVER MADE that's the direct comment from my husband 
+He requests that I make these every Sunday sometimes he asks me to make these for dinner during the week. 
+
+If I make them for dinner I let the batter rest between 1-2 hours considering this is on the weekday.
+
+*** NOTE. my husband likes a thinner pancake, I whisk in between 1/4 to 1/2 cup of water, orange or Apple juice just before using.
+I also add in 1 Tablespoon of sugar...
+
+I didn't have vanilla during one use so I substituted 1 Tablespoon of maple syrup (it use just as delicious.
+
+*** I also melted some butter and used a pastry brush and brushed the pan with it before my first pancake.  It worked quite well
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-28T03:54:39.297
+helpfulCount:
+0
+userID:
+8964060
+Display Name:
+Steven Watford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7753591.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+good
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-18T22:53:24.397
+helpfulCount:
+0
+userID:
+22088318
+Display Name:
+IceCream24
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+813
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These pancakes were delicious, but next time I make them I will add more flour as they were quite thin.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-11T13:43:46.963
+helpfulCount:
+0
+userID:
+9589485
+Display Name:
+Barbie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+124
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+missed the sugar, I don't like very sweet pancakes, but I have to put sugar or something on these. Very easy to make, maybe even over night if u put it on a colder spot

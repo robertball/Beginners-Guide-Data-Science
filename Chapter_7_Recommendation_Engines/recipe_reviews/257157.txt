@@ -1,0 +1,37 @@
+Recipe number:
+257157.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-02T16:54:05.897
+helpfulCount:
+0
+userID:
+1709101
+Display Name:
+Marcia
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+803
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/940208.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Lovely and delicious! I used gluten free all purpose flour to make this gluten free, but otherwise followed the recipe exactly. I used the zest and juice from just 1 good sized lemon and that was perfect.  This makes a very light cheesecake, maybe more like keylime pie consistency. The crust is quite thick, and though fine with us, a larger pie pan with the same amount of crust mix and more filling would be fine too. We liked the sweetness, but it would still be good if you want to cut back a bit on the sugar. Maybe I will try making a keylime pie from this recipe!

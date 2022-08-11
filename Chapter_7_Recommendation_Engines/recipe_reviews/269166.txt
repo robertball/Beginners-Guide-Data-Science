@@ -1,0 +1,37 @@
+Recipe number:
+269166.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-28T00:00:49.477
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used an apple instead of persimmon as the recipe submitter mentioned, left out the optional cucumber, and used sambal oelek instead of the red pepper flakes. I've found in previous kimchi making that red pepper flakes were just fine but you just get that firey red color I was after. I still didn't achieve that and will just add more sambal next time. Overall good recipe and super easy. I will definitely make this again with some minor tweaks to suit my taste.

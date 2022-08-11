@@ -1,0 +1,37 @@
+Recipe number:
+241505.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-13T13:36:19.39
+helpfulCount:
+2
+userID:
+11323953
+Display Name:
+mrmpiper
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This has a very good taste to it.  The only reason why it has 4 instead of 5 stars is because the coconut oil clumped together.  If you drink this smoothie right after you make it, it probably doesn't have that issue.  But I take mine to work with me and then drink it for lunch.  I even took it in a shaker cup and the clumsiness was too much to break up.

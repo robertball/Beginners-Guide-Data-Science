@@ -1,0 +1,107 @@
+Recipe number:
+257360.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-02T19:26:12.977
+helpfulCount:
+6
+userID:
+5875122
+Display Name:
+Beverly
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+361
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I first saw this recipe in the current edition (April 2017) of Allrecipes magazine . It looked interesting so I thought I would try it.  I made it almost exactly as written.  The only changes I made was adjusting the recipe for 2 people.  I also did not use frozen pineapple for the sauce. I used fresh. I topped the bread just before baking with a little cinnamon.  It was delicious. Impressive and very easy.  Husband said, "you ought to open a restaurant" that is how much he liked it.  I made the pineapple rum sauce the day before and also the french toast except for baking as the recipe calls for.  Sunday morning, all I had to do is top the bread with the coconut and cinnamon, bake it and warm the sauce. I also served it with bacon and some strawberries. Try it.  This one is a winner.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-30T18:18:47.477
+helpfulCount:
+2
+userID:
+17366570
+Display Name:
+Bonnie Munoz
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3172246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and easy. Great for a lazy weekend breakfast.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-09T21:23:39.617
+helpfulCount:
+1
+userID:
+4403120
+Display Name:
+Wendy Thorson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7641958.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not make any changes and the next time I will pan fry it in butter and top it with the coconut and pineapple sauce.  Mine was too dry.

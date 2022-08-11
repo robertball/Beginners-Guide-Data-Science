@@ -1,0 +1,72 @@
+Recipe number:
+44030.txt
+Review:
+Rating:
+3
+dateLastModified:
+2004-09-08T15:00:00.89
+helpfulCount:
+20
+userID:
+1021485
+Display Name:
+PALETIFAMILY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is better to use Vermicelli rather than Spaghetti, as it is thinner. You can also use cooked rice.  I would also recommend more milk and sugar. (I use 1/2 gallon of milk and 1 cup of sugar.) This recipe needs to cook down for a long time to reach the pudding-like texture, but will still be slightly thinner than traditional puddings.  To compare with other recipes, search for recipes for the Indian dessert Kheer. To improve the flavor, add cardamom, whole pods (remove before eating) or powdered.
+Review:
+Rating:
+3
+dateLastModified:
+2006-01-21T19:46:42.763
+helpfulCount:
+13
+userID:
+1715324
+Display Name:
+Juan Vallee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6567.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family couldn't get over the fact that I made this for them !

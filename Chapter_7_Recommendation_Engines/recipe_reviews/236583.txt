@@ -1,0 +1,109 @@
+Recipe number:
+236583.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-27T15:48:44.19
+helpfulCount:
+2
+userID:
+4262888
+Display Name:
+Pam's kitchen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/572718.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+as far as fishiness is was not to pronounce and especially good with raw green salads!!:)
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-19T03:03:00.51
+helpfulCount:
+2
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great Friday night dish!  I picked up fresh mahi mahi on my way home from work, prepped the marinade, and enjoyed a glass of wine with dear hubby before he fired up the grill.
+Lovely subtle taste and perfectly cooked fish made this one a keeper!
+Sorry for the slightly blurry picture - we were hurrying to enjoy the meal!  ;)
+Review:
+Rating:
+3
+dateLastModified:
+2016-11-13T07:47:04.25
+helpfulCount:
+0
+userID:
+20457132
+Display Name:
+David Lloyd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3962948.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We don't get mahi mahi in New Zealand so I used a local fish instead. It would have worked really well but for the fact the lemon juice seemed to overwhelm the flavours of the herbs. Next time I'll add the lemon juice carefully to the oil, mix and taste. But certainly it's potentially a lovely summery dish.

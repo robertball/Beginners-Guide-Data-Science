@@ -1,0 +1,37 @@
+Recipe number:
+151704.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-12-24T11:04:48.09
+helpfulCount:
+3
+userID:
+1214467
+Display Name:
+Kristin Blanchard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2110200.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to make.  My only recommendation is to roll from the shortest side or you'll lose a lot of the filling.

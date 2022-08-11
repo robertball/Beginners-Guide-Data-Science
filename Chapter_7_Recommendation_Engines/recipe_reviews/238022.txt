@@ -1,0 +1,37 @@
+Recipe number:
+238022.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-18T22:59:15.18
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty and refreshing. I added chocolate syrup to the inside of my glass. Nice presentation.

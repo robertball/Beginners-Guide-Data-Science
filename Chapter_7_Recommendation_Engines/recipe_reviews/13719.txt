@@ -1,0 +1,107 @@
+Recipe number:
+13719.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-10-26T21:36:31.263
+helpfulCount:
+45
+userID:
+2565547
+Display Name:
+Millie Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/74591.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is basically the same thing as my Gramma Mazie's cranberry salad.  It wouldn't be Thanksgiving without it.  The difference is that instead of the lemon juice and the pineapple juice, Gramma put in 1 cup of sugar with a bag of fresh cranberries and a box of any red colored jello.  She boiled this mixture until the berries popped open.  Then, She mixed this together with a large can of crushed pineapple.  Finally, she added the chopped celery, apple, and nuts and put the mixture in the fridge to chill for several hours. I've tried to adjust the ingredients when cranberries weren't available, but nothing compares to the original.
+Review:
+Rating:
+4
+dateLastModified:
+2005-11-19T06:44:23.327
+helpfulCount:
+19
+userID:
+620169
+Display Name:
+KZINK11725
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't like the traditional cranberry sauce from a can, but when my sister-in-law brought this salad to Thanksgiving dinner I had to try it. Ever since I plead with her to bring it for dinner every year. I love having it as a treat in the summer. The fresh fruits make this very appettizing.
+Review:
+Rating:
+4
+dateLastModified:
+2003-04-19T15:42:01.607
+helpfulCount:
+14
+userID:
+392086
+Display Name:
+MAGGIE MCGUIRE
+isPro:
+False
+followersCount:
+54
+followingCount:
+0
+madeRecipesCount:
+956
+favoritesCount:
+2389
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This jello salad was, as stated, almost a relish. It was a bit tart and very tasty with our ham dinner last evening.I used cran-raspberry jello as the base. Delicious!

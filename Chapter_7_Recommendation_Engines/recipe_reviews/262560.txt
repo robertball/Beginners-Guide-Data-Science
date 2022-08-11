@@ -1,0 +1,72 @@
+Recipe number:
+262560.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-09T23:04:36.28
+helpfulCount:
+1
+userID:
+10988852
+Display Name:
+mjbucknor
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+175
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great, easy, Indian dish. The spices make it full of flavor and it only took 10 minutes for my instant Pot to naturally release the pressure, so doesn’t take too long. We served it over veggie rice to reduce the carbs. Even the kids gave it a thumbs up.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-25T15:46:39.41
+helpfulCount:
+0
+userID:
+26040299
+Display Name:
+Frank C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6968579.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My Favourite at the moment. The cooking times seem a bit long, but creates a great curry, to go with rice and some plain yogurt. quick and simple but authentic tastes!

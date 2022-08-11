@@ -1,0 +1,181 @@
+Recipe number:
+261313.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-06-16T16:30:34.667
+helpfulCount:
+0
+userID:
+25713981
+Display Name:
+Patricia McDougald
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6742093.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I give this recipe no stars, because it is the worst waste of expensive ingredients and precious time I have ever experienced.  It tasted horrible when I scraped the globby mess out of the pan.  The word I would use to describe this awful stuff is “Pesh”.  Dont waste your time or ingredients on this ...its was not salvageable.
+Review:
+Rating:
+1
+dateLastModified:
+2019-05-26T17:16:00.89
+helpfulCount:
+0
+userID:
+25621752
+Display Name:
+Dave Howie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6676788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is thee worst recipe for pancakes. 
+Im not sure who proofed this.
+Waste of time, money and ingredients. 
+Fyi, you need a starch in there to hold the batter together eg tapioca. 
+Would give it a 0, however i need to rate it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-23T18:49:51.22
+helpfulCount:
+0
+userID:
+24649231
+Display Name:
+April Kathleen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6051660.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! But the recipe calls for way too much baking powder. I halved the baking powder right away, doubled the banana, and added a touch of vanilla extract and a couple sprinkles of ground allspice. I also used regular all-purpose flour. They turned out super fluffy, the amount of banana was perfect for me, and the texture is very nice. Definitely one of my new favorite recipes!
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-25T12:41:07.697
+helpfulCount:
+0
+userID:
+25349930
+Display Name:
+Carter88
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made mine with regular flour and oat milk and they turned out nice and fluffy. I personally would’ve like more banana, but that’s just me. I really liked this recipe
+Review:
+Rating:
+1
+dateLastModified:
+2019-01-01T13:53:57.767
+helpfulCount:
+0
+userID:
+24856373
+Display Name:
+Shane Frondelli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6201655.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is terrible. Do not make this. The pancakes burned immediately even at the lowest heat and fell apart when I tried to flip them.

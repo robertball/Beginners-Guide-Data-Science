@@ -1,0 +1,73 @@
+Recipe number:
+237055.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-20T21:49:21.623
+helpfulCount:
+1
+userID:
+25598319
+Display Name:
+CJay
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was  very good. 
+I used Bell Pepper Jam instead of jelly, however.
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-24T15:53:28.807
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+501
+followingCount:
+0
+madeRecipesCount:
+1554
+favoritesCount:
+3236
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this on a dare and I liked it. I didn't have a kaiser onion roll so I used a regular crusty roll. It was a little too sweet for me but I think that could be corrected with using a lower sugar jam. Next time, a little spice in the burger would be excellent

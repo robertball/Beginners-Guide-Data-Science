@@ -1,0 +1,37 @@
+Recipe number:
+142578.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-06-04T18:39:55.257
+helpfulCount:
+8
+userID:
+2278986
+Display Name:
+Mara
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good and easy.  I don't know if the 2 cups of water is for the rice. I didn't think so since it said cool rice according to package directions. I made it as stated except I had my own sweet and sour sauce.  I also had fresh pineapple waiting to be used.  A nice recipe.  Should be good with chicken, too.

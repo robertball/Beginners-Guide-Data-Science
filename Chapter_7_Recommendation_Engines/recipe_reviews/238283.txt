@@ -1,0 +1,107 @@
+Recipe number:
+238283.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-23T03:35:20.71
+helpfulCount:
+1
+userID:
+14907333
+Display Name:
+Marine Mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I bought my seeds already toasted and it tasted just like I  used to drink it in PR. Can't wait to make this drink for my son. He is in the military  but is excited to drink it again....he loved it as a child growing up in PR... thanks for the reicpe
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-14T12:17:23.37
+helpfulCount:
+0
+userID:
+25367837
+Display Name:
+Martha Mitchner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6496971.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No. It was delicious! Thank you for sharing this juice. I drank it while I was breastfeeding my children and it really give a boost, in providing milk for them. I recommend it to everyone that is doing the same, after giving birth.
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-05T01:54:48.123
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very, very delicious. If you don't like things sweet, definitely add less sugar. I used 3/4 the amount written and would lessen it further the next time. Also, I believe this would work with agave or honey just the same. The leftover pulp is a plus to use for other recipes. Thank you for the recipe.

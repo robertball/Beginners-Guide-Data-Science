@@ -1,0 +1,72 @@
+Recipe number:
+254761.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-05T06:29:08.497
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are really good pancakes. You really need to like quinoa and buckwheat to enjoy this earthy flavor. I made a second batch using 1/2 cup buckwheat, 1/4 cup quinoa, and 1/4 cup gf all purpose flour and my kids liked those better. They whip up in minutes and cook up quickly, too. They aren't too heavy nor too light and crumbly, just a real pancake you can eat with a fork. The batter seems runny and thin at first, give it a second, as you wait to put them on the griddle, the batter thickens. I made these for dinner and put the leftovers in the fridge. They were perfect the next morning after 1 minute in the microwave. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-28T15:51:16.527
+helpfulCount:
+1
+userID:
+8791918
+Display Name:
+Stephen Boyle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1550348.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this #vegan by substituting milk and eggs with a combination of applesauce, ground flax seeds, a bit of minced ginger, can of organic light coconut milk. Used 2x amount carob molasses instead of sugar.

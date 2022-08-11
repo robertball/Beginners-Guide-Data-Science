@@ -1,0 +1,107 @@
+Recipe number:
+245563.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-06T09:35:59.203
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+1096
+followingCount:
+0
+madeRecipesCount:
+2888
+favoritesCount:
+1948
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8440171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had I known that making homemade nut butter cups were so easy, I'd have made them years ago. These are so silly easy to make and they taste so much better than industrial produced brands. The key is in the quality of the ingredients. I used homemade almond butter which was nice and fresh. I needed more chocolate than written though, about 50% more. I also used both paper and silicone cup liners and found the silicone were better. They were easier to handle and fill as well as release the cup once hardened. I put them in the fridge to speed up the process too. Thank you for the recipe.
+Review:
+Rating:
+2
+dateLastModified:
+2016-08-31T23:50:54.997
+helpfulCount:
+1
+userID:
+8758377
+Display Name:
+Diana Barton
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2722911.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I gave it 2 stars because it doesn't matter how it looks, nut butter and chocolate will always taste pretty good. But what a mess it is dealing with melted chocolate.  The chocolate needs more care in melting than the recipe calls for.  The recipe doesn't note that the "cookies" need to be immediately chilled so that it can actually form a shape.  And it needs to stay chilled or it starts to melt into a shapeless, but still tasty form.  They look nothing like Reese's peanut butter cups if that is what you are looking for. The chocolate hardens and the butter stays creamy. One bite and the almond butter oozes out all over the place.  I can think of a dozen other recipes that pair nut butters and chocolate that are more presentable and tasty than this mess of a recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-19T16:24:28.653
+helpfulCount:
+0
+userID:
+14073269
+Display Name:
+Cathy in NY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made this recipe but used light brown sugar instead of confectioners sugar.  It was delicious!  We shared with family for Vantines Day using a plastic chocolate mold of hearts instead of the muffin cups.  No one could believe we made them.  It was so easy to make and came out beautiful.

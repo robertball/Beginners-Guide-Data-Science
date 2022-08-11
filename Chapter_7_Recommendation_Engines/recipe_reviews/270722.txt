@@ -1,0 +1,37 @@
+Recipe number:
+270722.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-08T17:14:32.42
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+973
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked these tacos. I made them with black chickpeas and ground chipotle and chili powder instead if cajun seasoning.  I loved them! Thank you for the recipe.

@@ -1,0 +1,72 @@
+Recipe number:
+244374.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-03T03:45:01.68
+helpfulCount:
+0
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+274
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3437
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We were not the biggest fans of this pie.  Both my husband and I are chocoholics, but, this pie was unbelievably sweet and too rich.  The texture was heavier than a cheesecake and never fully set up.  The crust was also a little wet, so, it was difficult to get out of the pie pan.  I made an unsweetened whip cream with a little vanilla to cut some of the sweetness.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-30T16:58:04.827
+helpfulCount:
+0
+userID:
+11018142
+Display Name:
+Art Hyland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5803504.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was gone in a flash , huge taste , everyone loved it

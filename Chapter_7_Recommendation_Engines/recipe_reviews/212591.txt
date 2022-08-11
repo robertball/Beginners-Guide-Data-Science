@@ -1,0 +1,107 @@
+Recipe number:
+212591.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-03-31T11:52:41.503
+helpfulCount:
+5
+userID:
+4516395
+Display Name:
+Julianna Buchanan McCracken
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2199481.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and definitely a feel good food. I didn't have brocoli soup on hand so I used cream of mushroom and added in some shredded cheddar cheese until it had enough cheesy flavor. The cheese made it thicker so I also added more milk for a better consistency. Everyone, teenagers and all enjoyed it.
+Review:
+Rating:
+3
+dateLastModified:
+2011-06-23T14:32:35.85
+helpfulCount:
+4
+userID:
+4885686
+Display Name:
+Sarah Mason
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+86
+favoritesCount:
+372
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6937924.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not quite enough flavor, but not terrible, either.
+Review:
+Rating:
+5
+dateLastModified:
+2010-07-27T15:44:11.287
+helpfulCount:
+2
+userID:
+4034086
+Display Name:
+Mmegan33
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/345549.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good Basic Recipe. I added lots of real cheese, and Broccoli Florets, and cocktail weenies! Made a great quick easy meal!!

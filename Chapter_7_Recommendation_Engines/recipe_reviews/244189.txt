@@ -1,0 +1,37 @@
+Recipe number:
+244189.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-04T19:42:19.757
+helpfulCount:
+1
+userID:
+9536096
+Display Name:
+Sugarplum
+isPro:
+False
+followersCount:
+323
+followingCount:
+0
+madeRecipesCount:
+226
+favoritesCount:
+718
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3927438.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoyed this healthy salad.  I used some sesame ginger dressing that I had on hand.  I also substituted sunflower seeds in place of pumpkin seeds.

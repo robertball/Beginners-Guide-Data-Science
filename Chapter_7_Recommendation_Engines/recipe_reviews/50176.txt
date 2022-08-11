@@ -1,0 +1,107 @@
+Recipe number:
+50176.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-05-14T17:05:40.647
+helpfulCount:
+8
+userID:
+1094711
+Display Name:
+COLESKY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Harsh, yet awfully tasty.
+Review:
+Rating:
+1
+dateLastModified:
+2008-10-31T14:43:16.947
+helpfulCount:
+6
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1661
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This did not taste good to me. I didn't take more than one sip. It was a waste of ingredients. I made the drink exactly according to the recipe.
+Review:
+Rating:
+1
+dateLastModified:
+2014-04-06T13:33:59.877
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had to add some sprite to it just to be able to consume it.

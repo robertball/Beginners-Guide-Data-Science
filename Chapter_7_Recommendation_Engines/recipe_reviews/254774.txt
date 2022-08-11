@@ -1,0 +1,37 @@
+Recipe number:
+254774.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-29T17:44:14.927
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5755
+followingCount:
+0
+madeRecipesCount:
+2830
+favoritesCount:
+6011
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+7.29.16  Thought the feta cheese might bring a little more tang to this, and I couldn’t taste the coriander at all, even after giving it an extra sprinkle.  This is very mild with a pop of sweetness from the cherries and sugar, but I wasn’t thrilled serving it on the suggested pita.  For my personal taste, I could see serving it on a croissant or even a toasted English muffin, or heading into the other direction, on a savory cracker.  I like how easy this is to make and enjoyed it.

@@ -1,0 +1,62 @@
+Recipe number:
+257495.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/09/2019
+helpfulCount:
+0
+userID:
+13419438
+Display Name:
+daisan
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I tried this recipe with whole wheat flour to serve as a breakfast item. My family loved them. Very delicious. Thank you for sharing this recipe!!
+Review:
+Rating:
+5
+dateLastModified:
+07/21/2019
+helpfulCount:
+0
+userID:
+24065261
+Display Name:
+Amy Whitney
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5636453.jpg
+text:
+We love these muffins! We use gluten free flour from Bob s Red Mill and they are delicious.
+Review:
+Rating:
+5
+dateLastModified:
+06/13/2017
+helpfulCount:
+0
+userID:
+22049266
+Display Name:
+MMG
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+made these when i had friends in town to have muffins on hand they were a big hit with everyone (adults and kids).
+Review:
+Rating:
+5
+dateLastModified:
+06/08/2017
+helpfulCount:
+0
+userID:
+4685622
+Display Name:
+JoniR921
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My family loved them!

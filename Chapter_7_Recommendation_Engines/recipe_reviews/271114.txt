@@ -1,0 +1,37 @@
+Recipe number:
+271114.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-06T23:27:12.72
+helpfulCount:
+0
+userID:
+11651780
+Display Name:
+E Justice
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5853536.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I actually made it in a mini crock pot.  Very nice blend of black beans and baked beans.  Takes at least 18 hours though.

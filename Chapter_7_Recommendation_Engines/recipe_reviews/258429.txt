@@ -1,0 +1,37 @@
+Recipe number:
+258429.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-28T21:49:09.12
+helpfulCount:
+0
+userID:
+23853256
+Display Name:
+KathyP
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the herb rub flavor, and will certainly be making this again!  I used thick sliced pork belly and covered the pieces with the rub by placing them in a ziploc bag and moving the contents until the rub was evenly distributed.

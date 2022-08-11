@@ -1,0 +1,290 @@
+Recipe number:
+244934.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-23T03:46:03.04
+helpfulCount:
+1
+userID:
+1828332
+Display Name:
+Sheila LaLonde
+isPro:
+False
+followersCount:
+170
+followingCount:
+0
+madeRecipesCount:
+716
+favoritesCount:
+1144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/874540.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very flavorful and delicious soup!  My only change was to omit the milk.  A definite addition to my recipe box! Thanks for sharing your recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-05T13:11:46.733
+helpfulCount:
+1
+userID:
+4085870
+Display Name:
+Mother Ann
+isPro:
+False
+followersCount:
+177
+followingCount:
+0
+madeRecipesCount:
+303
+favoritesCount:
+2734
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1084310.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We had some prime rib left over and we are currently experiencing frigid temperatures; so what is the most logical thing to make for dinner?  Soup!  This was so warm, comforting, and filling!  I followed the recipe to a "T" and topped the bowls off with a mix of shredded Monterey jack and pepper jack cheese, avocado, and sour cream.  The two of us ate almost all of it!
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-07T01:46:12.9
+helpfulCount:
+1
+userID:
+5925346
+Display Name:
+Hottentizer
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+125
+favoritesCount:
+1028
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the directions closely short of omitting the milk and adding the meat near the end of the process. I had left over beef roast the I cut into small pieces.  My daughter devoured it. It improves with time, it was even better the second and third days.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-03T03:30:13.857
+helpfulCount:
+1
+userID:
+20893116
+Display Name:
+Just Jared
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe on a cold dreary day to warm my wife up from the inside when she wasn't feeling good.  I followed the recipe with a few exceptions.  Used a pound of steak for stir fry (from Wal-Mart) and seared it in the bottom of the pan without draining, added a few dashes of chili powder while it was all simmering and a little sea salt.  
+
+For garnish and to add a little more substance used some cut up flour tortillas that I had lightly cooked on the gas burner, and added them to the top with the cheese and avocado.  
+
+My wife and daughter loved it!  I am quite happy with it too.  I was afraid the onion would be overpowering but the flavors were well blended.
+
+I would suggest maybe cooking part of the peppers and garlic with the steak and letting those flavors come out a bit more but the recipe is quite good and one we are adding to the notebook for future use!
+
+Thanks for the addition to our food library!  And made more than four servings.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-26T22:41:59.967
+helpfulCount:
+0
+userID:
+21073735
+Display Name:
+Hildy T
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious and is going in to regular rotation!
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-08T00:51:03.61
+helpfulCount:
+0
+userID:
+16734175
+Display Name:
+Daneen Berry-Guerin
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6528578.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was easy and delicious.  Great soup for the dreary rainy day we had.  I cooked the meat with a little fajita seasoning and waited to add the meat until after the rice was cooked.   Added cheddar, cotija, sour cream and tortilla chip strips for the top. Yum!  This recipe is keeper!
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-11T19:53:52.96
+helpfulCount:
+0
+userID:
+20959610
+Display Name:
+Iduna Stormcrow
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+substituted a can of tomato soup for milk and tomato sauce used 3 cloves of garlic ,1 1/2 teaspoons cumin ,the whole envelope of fajita seasoning I also added a can of chopped fire roasted green chiles and a dash of hot sauce Put the rice on side
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-15T14:19:20.453
+helpfulCount:
+0
+userID:
+9291782
+Display Name:
+Teresa Seamonson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+202
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7696785.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this soup and it was very good.  The only thing I did differently was to use refried black beans instead of the actual beans and added cilantro.  Everybody loved it!  I will be making this again.

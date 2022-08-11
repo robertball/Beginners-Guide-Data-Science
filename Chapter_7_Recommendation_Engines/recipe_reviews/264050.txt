@@ -1,0 +1,37 @@
+Recipe number:
+264050.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-22T15:59:09.87
+helpfulCount:
+0
+userID:
+23804652
+Display Name:
+Rose Umland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7419980.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is one of the best soups I've ever made.  I did not have lemon grass or cilantro , but  squeezed a fresh seedless, lemon into the soup; then  split it open to place it  on top of the soup.  I added 2 cups of low salt chicken broth & a jalapeno.  Also used low salt tomatoes.  Even with the  coconut milk, its nutrition values were upper edge of reasonable within my personal targets.    I expect my adjustments have made it even better.   I will be making it often

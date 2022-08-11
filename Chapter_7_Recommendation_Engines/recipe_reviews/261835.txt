@@ -1,0 +1,72 @@
+Recipe number:
+261835.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-13T17:52:03.103
+helpfulCount:
+0
+userID:
+4935769
+Display Name:
+LindaJ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Parmesan cheese also works well
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-08T03:50:30.287
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty side dish or snack. Only thing I added was salt and pepper. I may have baked mine longer as well. I liked them with a nice crunch

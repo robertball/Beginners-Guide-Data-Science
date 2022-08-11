@@ -1,0 +1,37 @@
+Recipe number:
+254531.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-06T01:19:38.703
+helpfulCount:
+0
+userID:
+22692692
+Display Name:
+Jeanne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6902754.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick, tasty and healthy!

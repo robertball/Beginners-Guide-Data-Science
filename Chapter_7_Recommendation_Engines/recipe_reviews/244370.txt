@@ -1,0 +1,72 @@
+Recipe number:
+244370.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-05-12T22:19:06.89
+helpfulCount:
+0
+userID:
+21156155
+Display Name:
+Jackson Family
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wish I had read the review before making the pizza. 18 ounces of barbecue sauce is entirely too much for a single pizza and 10 oz of chicken was entirely too little. It think it would be better if you reduced the barbecue by 1/2 and increased the chicken by 5 oz.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-16T01:52:14.51
+helpfulCount:
+0
+userID:
+1828332
+Display Name:
+Sheila LaLonde
+isPro:
+False
+followersCount:
+170
+followingCount:
+0
+madeRecipesCount:
+716
+favoritesCount:
+1144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/874540.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I  made two 15x10 pizzas,  doubling only  the crust, chicken and cheese.  I was able to use one onion, one red pepper, one can diced tomatoes and slightly less than one bottle of BBQ sauce for both (big) pizzas. I skipped the mushrooms and added fresh chopped cilantro to the top before baking.  I baked at 375 for approximately 17 minutes.   With these modifications,  this turned out really well and will probably make a reappearance in my dinner rotation. I  loved the addition of the chopped tomatoes in this.  Thanks for sharing your recipe!

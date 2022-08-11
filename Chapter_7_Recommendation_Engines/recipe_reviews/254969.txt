@@ -1,0 +1,37 @@
+Recipe number:
+254969.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-15T13:12:38.78
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I got lucky and found some green tomatoes at a little farmers stand but only enough to do half a batch of this. I added a lot more cilantro because I think it needs it. I also ended up blending it in batches once it was done. This turned out pretty good and it is one I would make again with a few small changes.

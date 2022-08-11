@@ -1,0 +1,37 @@
+Recipe number:
+254544.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-19T01:32:01.18
+helpfulCount:
+0
+userID:
+12584305
+Display Name:
+CakeAndPencils
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was amazing! My husband, who isn’t always sure of making new things, made this and surprised us for dinner. My 18 month old loved them too! A great way to use our garden zucchini and it makes a good snack or side dish! Will definitely be making this again soon!

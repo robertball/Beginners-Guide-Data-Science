@@ -1,0 +1,37 @@
+Recipe number:
+162593.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-04-20T16:07:23.213
+helpfulCount:
+0
+userID:
+1316027
+Display Name:
+Kathryn Walters
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+226
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! It was a total hit at the family gathering!

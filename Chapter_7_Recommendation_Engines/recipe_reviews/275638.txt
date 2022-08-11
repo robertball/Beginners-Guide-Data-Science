@@ -1,0 +1,72 @@
+Recipe number:
+275638.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-05T01:15:55.29
+helpfulCount:
+0
+userID:
+1539130
+Display Name:
+happywife05
+isPro:
+False
+followersCount:
+89
+followingCount:
+0
+madeRecipesCount:
+329
+favoritesCount:
+382
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/78562.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am the submitter of the recipe wanted to point out an error. The recipe is supposed to contain 5 TABLESPOONS of Parmesan, not teaspoons.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-10T14:30:13.03
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8917
+followingCount:
+0
+madeRecipesCount:
+1121
+favoritesCount:
+2303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Classic pesto, just like it's name. I have to admit, that we are not a huge fans of pesto pasta in our family, but we do like basil, and plant some every year with the seeds from the previous years plants. I like to make pesto and freeze it in ice cube trays, and them pop out the cubes and put them in a zip-lock bag to use with soups, stews, veggies, potatoes, etc. throughout the year. That's what I did with this batch that I just made. My basil plants are currently flowering and going to seed, so this made a great use of those last few leaves on the branches.

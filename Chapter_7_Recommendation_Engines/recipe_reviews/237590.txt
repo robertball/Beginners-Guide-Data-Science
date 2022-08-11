@@ -1,0 +1,37 @@
+Recipe number:
+237590.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-11-19T23:48:51.76
+helpfulCount:
+0
+userID:
+6412992
+Display Name:
+HurdBird
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+765
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/595315.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would give this three stars, but I think it may have been due to the bread I used versus the actual recipe.

@@ -1,0 +1,72 @@
+Recipe number:
+214525.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-09-21T16:36:31.963
+helpfulCount:
+18
+userID:
+4169033
+Display Name:
+dad2twins
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+519
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/351542.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I usually try not to review recipes if I have made changes but this was so good I had to pass it on.  I used 3 medium diced tomatoes with a splash water because I did not have the canned tomato.  I also used Italian season instead of cumin because I was out of it.  This is an easy recipe to follow and the pasta pie crust is awesome.  You could certainly spice this to your tastes and it could be different every time you make it.  Next time I think I may use homemade Taco Seasoning for a more Mexican flare.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-11T14:13:15.097
+helpfulCount:
+0
+userID:
+11665381
+Display Name:
+Jan Peters Beck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5009365.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I got this recipe originally in the Chicago Tribune about 25 years ago, and it's been a staple in my kitchen ever since!  Such a fun take on a boring spaghetti dinner.  The leftovers reheat beautifully!  I always add a bit more cumin and garlic to the ground beef, or it CAN seem under seasoned - try a little cayenne, too, if you like even a bit more "zippity doo dah"!!

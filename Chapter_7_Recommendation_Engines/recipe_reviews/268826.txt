@@ -1,0 +1,37 @@
+Recipe number:
+268826.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-16T20:00:22.663
+helpfulCount:
+1
+userID:
+24460449
+Display Name:
+Anette
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Combined: Dill, Taragon and Thyme by crushing with pestle and mixing resultant powder into softened butter. Then inserted

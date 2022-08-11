@@ -1,0 +1,37 @@
+Recipe number:
+93186.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-03-22T05:45:36.873
+helpfulCount:
+8
+userID:
+1772985
+Display Name:
+cookntaste
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+440
+favoritesCount:
+1614
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/257696.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked the flavor of this recipe, and I liked serving an appetizer with so many veggies.  My biggest concern was that the crescent roll crust got sorta hard after sitting out for an hour or so and the peanut sauce kinda congealed.  This is good if you can serve it immediately.

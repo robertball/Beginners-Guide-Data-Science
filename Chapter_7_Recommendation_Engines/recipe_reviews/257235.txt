@@ -1,0 +1,72 @@
+Recipe number:
+257235.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-17T16:47:27.223
+helpfulCount:
+0
+userID:
+22969600
+Display Name:
+Nicole Halajian
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4731913.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came out very good.  But had to bake almost 16 minutes.  Just seemed to bake forever
+Review:
+Rating:
+3
+dateLastModified:
+2017-03-20T16:20:09.54
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were a bit heavier than a traditional chocolate chip cookie, almost cake-like. They remained puffy instead of spreading out flat. The taste is ok. Thank you for the recipe.

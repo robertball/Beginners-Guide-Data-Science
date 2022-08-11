@@ -1,0 +1,37 @@
+Recipe number:
+255929.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-30T04:19:22.107
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! The only reason I am giving it a 4 stars instead of 5 is because the liquid from the beans need added and not drained. It needs some heat too but that is easy to add to suit your own tastes. The recipe calls for ground turkey but it just so happens I made this a few days after Thanksgiving so cubed turkey breast  is what I used in place of the ground turkey breast. I will add another can of beans when I make this again. Other than that, this is perfect!

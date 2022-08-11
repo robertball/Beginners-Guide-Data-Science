@@ -1,0 +1,72 @@
+Recipe number:
+272814.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-19T17:29:08.223
+helpfulCount:
+0
+userID:
+27042835
+Display Name:
+Kris Kline Nagoda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7741454.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The instructions tell you to prepare (2) 5 oz jars.  Actually this recipe yielded (4+) 8 oz jars.  The footnote about the leaving the white pith on the zest strips should be in the body of the printed directions (I would have left more on the strips).  Mine did thicken fine.  Turned out very good!  Will make another batch soon.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-08T21:15:48.503
+helpfulCount:
+0
+userID:
+11310229
+Display Name:
+Tom Butler
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2822475.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe pretty closely.  I wasn’t sure how much of the peel to add, but it turned out nicely.  I did use an immersion blender to mash it.  I’m happy with the results.  Did a second batch and added jalapeños and cranberries that I needed to use up.

@@ -1,0 +1,72 @@
+Recipe number:
+87995.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-12-07T12:05:33.627
+helpfulCount:
+6
+userID:
+2156274
+Display Name:
+Lisa Aravs
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2147793.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was interesting.  I used the recipe simply because I had pork chops, apples, and broccoli to use up.  I used a can of tomato sauce in lieu of the sundried tomatoes.  I'm not sure I'd go out of my way to make this again but given having the same ingredients on hand I'd probably make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2007-10-04T18:51:59.55
+helpfulCount:
+4
+userID:
+2521990
+Display Name:
+bcookie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I loved this recipe.  It was fun to make, the whole house smelled delicious, and it turned out fantastic.  I let everything simmer together for about 15 minutes and the pork had such a great flavor.  We'll definitely make this again.

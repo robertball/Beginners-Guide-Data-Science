@@ -1,0 +1,37 @@
+Recipe number:
+247265.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-12-14T19:44:59.063
+helpfulCount:
+0
+userID:
+7630694
+Display Name:
+SweetPea
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6110055.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exact, it's just liquid.

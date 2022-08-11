@@ -1,0 +1,107 @@
+Recipe number:
+275993.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-02T21:59:43.71
+helpfulCount:
+0
+userID:
+16033629
+Display Name:
+Rebecca Bellis
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3063785.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sounds wonderful! I don't have a  Airfryer, though. Could I just make this in my oven? I'm thinking maybe some nuts to add a touch of protein could make it more of a meal.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-07T04:58:11.54
+helpfulCount:
+0
+userID:
+751784
+Display Name:
+GolferGirl
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+221
+favoritesCount:
+1214
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/51757.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best. Carrots. Ever. Not too sweet, not too vinegary. And a nice, colorful presentation. Melt in your mouth goodness! I followed the recipe except for omitting the chives.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-30T01:59:16.96
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect as written and these carrots would pair nicely with any protein of choice. I will definitely make again and this is 5 stars all the way!

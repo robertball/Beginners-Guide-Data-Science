@@ -1,0 +1,37 @@
+Recipe number:
+259155.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-26T13:55:51.64
+helpfulCount:
+0
+userID:
+5339098
+Display Name:
+Kayleigh8714
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+323
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these to serve with garlic balsamic grilled chicken. We devoured them!!!

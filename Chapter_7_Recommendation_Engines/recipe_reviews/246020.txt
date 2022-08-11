@@ -1,0 +1,37 @@
+Recipe number:
+246020.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-29T00:34:25.62
+helpfulCount:
+1
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+370
+favoritesCount:
+1316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a very good recipe and we enjoyed it very much.  I added the cheese and parsley to the cooked pasta and mixed that before adding the sauce.   I also thought the sauce needed to be thickened, so used some corn starch in water to thicken it up a bit.  Thanks for sharing!

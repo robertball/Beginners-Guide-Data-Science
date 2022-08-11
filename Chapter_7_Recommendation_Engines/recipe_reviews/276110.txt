@@ -1,0 +1,37 @@
+Recipe number:
+276110.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-01T19:48:54.84
+helpfulCount:
+0
+userID:
+8837556
+Display Name:
+Sydney
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so easy and I loved it.  Unfortunately, I am not Keto, so I did not have Splenda; I used sugar.   I will need to try Splenda the next.  I used Frank Original Red Hot Sauce.

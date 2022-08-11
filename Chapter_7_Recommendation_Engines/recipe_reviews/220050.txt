@@ -1,0 +1,37 @@
+Recipe number:
+220050.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-03-24T16:04:47.41
+helpfulCount:
+4
+userID:
+2029750
+Display Name:
+marybcurlyq
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+81
+favoritesCount:
+279
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/39746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm giving it 4 stars because (1) it's really easy to make (2) it was different! The flavors weren't excellent, but definitely GOOD. I only used 1 lb of hamburger b/c that's what I had on hand (and make sure you season the hamburger even though that's not mentioned in the recipe). I had never tried the bean and bacon soup but it does have a nice smoky bacon flavor to it. I will make this recipe again, but next time I will use SHARP cheddar cheese and a bit more horseradish. It's  a good recipe!!!!

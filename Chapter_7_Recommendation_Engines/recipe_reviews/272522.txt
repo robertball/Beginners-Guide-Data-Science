@@ -1,0 +1,107 @@
+Recipe number:
+272522.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-25T11:01:17.623
+helpfulCount:
+2
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1120
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've never had chicken shawarma, so I really don't have anything to compare this to, but we liked it! You definitely need some kind of sauce to serve this with though, or it will be quite dry. I made a quick sauce with plain yogurt, tahini, garlic, a bit of lemon juice and some chopped herbs, salt & pepper. We served this, sandwich style, with pita bread, sliced cucumber, tomato, red onion and the sauce. Really similar to a gyros, but with chicken. Thanks for sharing the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-06T00:09:05.467
+helpfulCount:
+0
+userID:
+25832544
+Display Name:
+SpicyGinger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We enjoyed this chicken with fresh tzatziki sauce.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-26T07:35:04.243
+helpfulCount:
+0
+userID:
+25549111
+Display Name:
+Xhuliano Taka
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6628359.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious and easy

@@ -1,0 +1,37 @@
+Recipe number:
+246215.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-07T20:18:45.24
+helpfulCount:
+3
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1017
+favoritesCount:
+1344
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was thick, spicy and good. While cooking, I wasn't too sure about how it was going to turn out--with the refried beans, it seemed so thick, but it all came together well. The cheese and cilantro really added to the flavor. I added some sour cream too. One change I made was to use leftover turkey breast that I cut into bite-size pieces. This is a fairly quick and filling meal.

@@ -1,0 +1,37 @@
+Recipe number:
+242491.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-04T07:48:31.907
+helpfulCount:
+0
+userID:
+741843
+Display Name:
+Ms. Chef Esh
+isPro:
+False
+followersCount:
+420
+followingCount:
+0
+madeRecipesCount:
+594
+favoritesCount:
+2088
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7535256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe does take some time to make, I made this the night before, then finished baking in the oven for breakfast the next morning.  I loved the flavor of the UNCLE BEN'S® Brown Rice & Quinoa Roasted Red Pepper!

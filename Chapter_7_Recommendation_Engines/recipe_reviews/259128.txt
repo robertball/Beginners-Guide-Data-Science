@@ -1,0 +1,80 @@
+Recipe number:
+259128.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-26T04:24:35.117
+helpfulCount:
+0
+userID:
+26756130
+Display Name:
+Jenn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This pumpkin pie was a great hit with my family.  Made it gluten-free by using a store-bought Mi-Del gluten-free crumb crust.  
+
+I'd made this same pie previously and it was a bit too sweet.  This time I reduced the sugars by half, using evaporated milk in place of the sweetened condensed milk and eliminating the added sugar.  2/3 c. maple syrup was the only sweetener used.  This made everything more liquid, so I increased the ground chia to a total of 2/3 c. 
+
+Chia tends to dull the intensity of spices, so I doubled the amount of vanilla and cinnamon, and added 1 T. cardamon, 1 t. allspice and 1/4 t. mace. The clove and nutmeg amounts should also be increased for a more intense pumpkin pie flavor.  
+
+Baking this pie as instructed at 325 for 40 minutes gives the pudding a wonderful texture, with cracking around the edges.  No one could tell that this was an egg-less filling.
+
+The recipe as modified made more pudding than would fit in the pie crust. The pudding leftover could simply be refrigerated for an hour and eaten cold. But I poured the extra into a ramekin and baked it along with the pie. It came out great!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-23T06:00:31.85
+helpfulCount:
+0
+userID:
+9951596
+Display Name:
+Amanda Jaeger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1402043.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Does this have to be baked? Since there are no eggs, can I use this as a no bake recipe?

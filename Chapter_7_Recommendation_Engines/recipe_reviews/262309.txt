@@ -1,0 +1,37 @@
+Recipe number:
+262309.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-05T14:55:32.617
+helpfulCount:
+0
+userID:
+2335223
+Display Name:
+Irene
+isPro:
+False
+followersCount:
+171
+followingCount:
+0
+madeRecipesCount:
+530
+favoritesCount:
+726
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2394505.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with Andrea's recipe for steamed buns. I don't eat pork so I can only review based on my experience of cooking, and my kids' opinions. Cooking was relatively straightforward, though I probably could have sliced the pork more accurately. The sauce reduced nicely. I added cilantro and coarsely crushed peanuts as well to serve.

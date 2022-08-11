@@ -1,0 +1,107 @@
+Recipe number:
+264942.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-14T20:03:54.82
+helpfulCount:
+1
+userID:
+16655073
+Display Name:
+Carol Szczecinski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+79
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6711214.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the second time I am reviewing it b/c don't know if the other one took. However, this is an excellent recipe. Very tasty. Will make it often. Only change I made was to brown chops in frying pan then baked at 350 for about 20 minutes as my grill was out of commission.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-07T04:58:38.74
+helpfulCount:
+0
+userID:
+1616609
+Display Name:
+rocknroller
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+78
+favoritesCount:
+1588
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3698300.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Baking or grilling pork chops that have marinated several hours in Hidden Valley Ranch dressing was great--but the sweet/savory Peach Jalapeno Salsa greatly complimented the chops; had just a kiss of jalapeno heat, which I set to my liking. And that's the key: Blending those salsa ingredients just to your own tastes and liking.  This recipe gem is an excellent Summer pork chop dinner treat. My wife is my toughest food critic--and even she raved how good I made this!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-19T01:12:34.88
+helpfulCount:
+0
+userID:
+22702543
+Display Name:
+Rachel Garcia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it family loved it

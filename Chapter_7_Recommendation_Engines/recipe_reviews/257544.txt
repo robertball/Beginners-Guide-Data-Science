@@ -1,0 +1,37 @@
+Recipe number:
+257544.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-26T12:44:01.51
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9651
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were good. I did end up needing more breading than the recipe called for but it probably depends on how big your zucchini are. I made a similar recipe to this but it called for baking the sticks  instead of frying and I gotta say this recipe was far better.  Ranch works nice as a dipping sauce but pizza sauce is good too.

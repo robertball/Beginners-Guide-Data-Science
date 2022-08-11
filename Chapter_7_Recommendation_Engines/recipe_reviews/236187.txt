@@ -1,0 +1,47 @@
+Recipe number:
+236187.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/14/2015
+helpfulCount:
+4
+userID:
+206003
+Display Name:
+MMMICHELLE
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Thought it was great! I used a little less broth than was called for; 6 cups total. Also substituted plain Greek yogurt for the sour cream. Everybody loved it! Thanks.
+Review:
+Rating:
+4
+dateLastModified:
+08/15/2016
+helpfulCount:
+4
+userID:
+13659046
+Display Name:
+Cheryl
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The soup ended up with a very good flavor but was very runny. If I make it again I will make some changes; fry the bacon first so it is crispy and not rubbery; remove the bacon and fry the onions with the bacon grease and a little butter and make a roux for thickening
+Review:
+Rating:
+5
+dateLastModified:
+07/22/2014
+helpfulCount:
+1
+userID:
+2557334
+Display Name:
+jhpayne
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Super soup but could use alittle more creaminess

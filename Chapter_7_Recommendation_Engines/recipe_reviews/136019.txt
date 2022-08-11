@@ -1,0 +1,72 @@
+Recipe number:
+136019.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-06-10T15:40:40.913
+helpfulCount:
+7
+userID:
+2530951
+Display Name:
+Anne Boyle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6840268.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was AMAZING!!!  The only thing I would change is getting the bigger tub of Cool Whip (I seem to run out before I got to the top) and to use fresh raspberries on the top.  The frozen ones were all mashed and you couldn't tell that they were actually raspberries. Also, I didn't buy the frozen raspberries in syrup, but I had raspberry syrup that my husband and I use for our coffee, so I brushed that over the brownies and it was really good.  I will make this over and over.
+Review:
+Rating:
+5
+dateLastModified:
+2007-11-11T04:45:54.993
+helpfulCount:
+7
+userID:
+2207182
+Display Name:
+Dawn Kurtz
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6713625.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been making this for years, it is easy, and everyone's favorite!! Also good with a fresh banana on the side.  Just don't mix it in, of course, because they turn brown.

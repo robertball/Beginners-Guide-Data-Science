@@ -1,0 +1,37 @@
+Recipe number:
+269667.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-17T02:11:02.41
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+541
+favoritesCount:
+702
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the softness of the chicken. It really does fall off the bone, but I wish it had a stronger flavor. I would double or triple the adobo seasoning on my next time. I did use the Traci's Adobo Seasoning from allrecipes.com. I did cook it for the 2 1/2 hours and followed it exactly except marinating 8 hours.

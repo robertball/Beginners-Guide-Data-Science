@@ -1,0 +1,72 @@
+Recipe number:
+178961.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-28T08:24:37.923
+helpfulCount:
+11
+userID:
+2251088
+Display Name:
+Maria
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/209919.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very very good! I had some ricotta that needed to be used, and this was the perfect recipe... However, I don't use jarred sauce... EVER. So rather than cook some, I just mixed some tomato puree with salt, pepper, garlic powder, dried basil, and a bit of sugar and then poured it on. It was fantastic. Used warm Baguette to dip. My tummy thanks you.
+Review:
+Rating:
+5
+dateLastModified:
+2011-03-19T15:10:49.577
+helpfulCount:
+9
+userID:
+3681374
+Display Name:
+Kathy Kramer Geyer
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1161062.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe, although I did sprinkle the sauce with pizza seasonings.  It was great.  We served basil and sun dried tomato wheat thins with it.  I liked that it was like having something a little heartier than just plain dip.  I hadn't eaten dinner before the party we took this to, so I was glad I had brought this!  Everyone loved it and asked who brought it.

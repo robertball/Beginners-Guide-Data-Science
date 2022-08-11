@@ -1,0 +1,107 @@
+Recipe number:
+117345.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-07-18T05:12:49.59
+helpfulCount:
+10
+userID:
+20660
+Display Name:
+Doug Matthews
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+113
+favoritesCount:
+410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1017087.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This really was a fairly basic egg salad that just added fresh green beans from our garden. Not bad but nothing special. If there is a next time, I will add some curry to it give it a little wow factor.
+Review:
+Rating:
+4
+dateLastModified:
+2008-07-17T08:43:49.1
+helpfulCount:
+7
+userID:
+268713
+Display Name:
+LINDA MCLEAN
+isPro:
+False
+followersCount:
+643
+followingCount:
+0
+madeRecipesCount:
+2417
+favoritesCount:
+3410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/330227.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yea! I'm the first to rate your recipe Jane! I loved this, especially now since I'm growing beans in my garden this summer and I'm always looking for recipes to use them in. I liked the fact that the beans kind of took the place of celery which made it even healthier. Thank you!!
+Review:
+Rating:
+4
+dateLastModified:
+2010-09-05T19:24:09.64
+helpfulCount:
+5
+userID:
+4660051
+Display Name:
+k
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love it!  I would add additional 1-2 eggs next time :)

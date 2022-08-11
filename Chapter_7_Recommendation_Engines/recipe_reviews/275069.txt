@@ -1,0 +1,37 @@
+Recipe number:
+275069.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-10T14:20:28.753
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is pretty good. I used it to make a pie crust, a crumble, and croissants. It worked out quite well. I prefer to add a whole grain for taste and nutrition. But this is definitely a mix to have on hand. Thank you for the recipe.

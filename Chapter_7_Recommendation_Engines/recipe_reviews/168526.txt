@@ -1,0 +1,72 @@
+Recipe number:
+168526.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-07-16T06:16:58.17
+helpfulCount:
+8
+userID:
+1262639
+Display Name:
+DANAROBB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5800759.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great!  Different but really good.  I added more cilantro. Better the next day. Can be used as a dip or salad dressing and probably good with fish.
+Review:
+Rating:
+4
+dateLastModified:
+2011-02-26T09:56:52.667
+helpfulCount:
+3
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not add the sugar. After tasting it, I did add more chopped cilantro and green onion. It's tasty but could use garlic. This would be good as a low calorie topping for enchiladas or tacos but didn't really hit it home for me as a dip. It's good for using on hand ingredients when you're broke, which I appreciated. I recommend you use fresh lime juice and zest.

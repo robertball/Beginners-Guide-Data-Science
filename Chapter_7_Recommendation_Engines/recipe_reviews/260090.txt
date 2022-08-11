@@ -1,0 +1,72 @@
+Recipe number:
+260090.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-12T19:37:48.67
+helpfulCount:
+0
+userID:
+4687534
+Display Name:
+blkdog
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Holy smokes, these are so good!  The bacon keeps the chicken nice and moist.   We followed one of the optional instructions and baked them in the oven first at 400 degrees to crisp up the bacon and then at the 375. They did take a lot longer to get to cook, but it was worth it.  The longer cook time could be do to the size of our bombs. I used toothpicks in lieu of cooking twine. I also placed a cooling rack on top of a baking sheet to allow the grease to drip.  I made one with an actual stuffed jalapeno and two with jalapenos chopped into the cream cheese spread. We preferred the jalapenos chopped into the cheese spread.  I also added garlic and onion powder, salt and pepper into the cream cheese spread. We will make these again!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-08T16:30:08.49
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are excellent! No need to change a thing.

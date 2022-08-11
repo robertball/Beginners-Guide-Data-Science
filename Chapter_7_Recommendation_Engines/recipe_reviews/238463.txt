@@ -1,0 +1,107 @@
+Recipe number:
+238463.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-28T14:11:21.687
+helpfulCount:
+1
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1593
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I must admit, I fully intended to "add some flavor" to this after preparing according to the recipe.  However, I was pleasantly surprised as it is delightful just as is!  Our grocery store didn't have spinach/ricotta tortellini, so I used a four cheese tortellini instead.  We also don't care for olives, so I omitted them, but I can certainly see how they'd make this even better (if you like olives ;) ).  I didn't measure the EVOO, just a drizzled a bit (and I'm sure I used well less than 1/2 C).  Like the submitter says in the tagline, TRY IT as written first, then adjust if you feel it needs it (and I'm a tweaker from way back, but I'm glad I listened to the tagline plea for this one).  THANKS for the recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-06T21:25:17.403
+helpfulCount:
+0
+userID:
+4861393
+Display Name:
+Mary Horyd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+4970
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2599541.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I  used the Wishbone Robusto Salad dressing that someone else suggested and wasn't thrilled with the results.  I left out the olives and used slivers of Asiago cheese instead of the Parmesan. Overall I enjoyed the salad but will use a different dressing next time.  Maybe add some roasted peppers also.
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-29T14:15:37.343
+helpfulCount:
+0
+userID:
+2927425
+Display Name:
+Princess G
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+142
+favoritesCount:
+345
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/295099.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As stated, simple and delicious. No need to make any adjustments.

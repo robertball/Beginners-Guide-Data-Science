@@ -1,0 +1,37 @@
+Recipe number:
+277544.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-12-21T21:57:23.2
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+400
+followingCount:
+0
+madeRecipesCount:
+1107
+favoritesCount:
+3211
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am so disappointed in this recipe. Not to mention the money I spent on cheese, milk, chicken broth and the cauliflower. The rest of the ingredients are relatively inexpensive. I ended up with a very big pot of a tasteless 'soup'. I added more spices and seasonings and then it was somewhat edible but the texture was that of grainy grits. If I could give this recipe a negative rating, I would do so.

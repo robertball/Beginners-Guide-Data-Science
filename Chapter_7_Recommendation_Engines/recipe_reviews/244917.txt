@@ -1,0 +1,37 @@
+Recipe number:
+244917.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-20T23:05:17.993
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+1083
+favoritesCount:
+1244
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is good, but was way too sweet for me. I would cut the sugar at least in half next time. Some may really like it this sweet though. I didn't use instant coffee--I used strong brewed coffee in place of all the water. I made half a batch and put it in a pitcher. I then put a scoop of ice cream in each cup and poured in the coffee mixture.

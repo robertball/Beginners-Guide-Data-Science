@@ -1,0 +1,76 @@
+Recipe number:
+165140.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-09-18T16:17:24.997
+helpfulCount:
+8
+userID:
+3132390
+Display Name:
+akdgurl
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good recipe. I just finished making it and wow can I tell you it tastes amazing. I will def. make it again. I made it low fat by using applesauce instead of butter and I used skim milk instead of buttermilk. I also used lemon juice instead of lemon peel and about 1 cup of blueberry's instead of 1/2 cup. YUMMY!!!
+Review:
+Rating:
+5
+dateLastModified:
+2008-12-13T18:47:31.41
+helpfulCount:
+3
+userID:
+3291824
+Display Name:
+JIll Sherstobitoff
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+681
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1158563.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My Mother-in Law just loved it...
+
+.Top that one Guys and Dolls !!!
+
+I'm a hit!!!    Thanks to the donor!!

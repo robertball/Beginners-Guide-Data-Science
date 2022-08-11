@@ -1,0 +1,72 @@
+Recipe number:
+254745.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-23T01:25:53.057
+helpfulCount:
+1
+userID:
+14855249
+Display Name:
+CoachJen
+isPro:
+False
+followersCount:
+50
+followingCount:
+0
+madeRecipesCount:
+78
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2201577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a recipe with edamame when I found this one. I made this salad and served it with scoop chips like a chunky salsa idea. I skipped the starch and went all veggies with some pickled beets and I used an Asian ginger dressing. Everyone loved it. This is my first quinoa salad and it the recipe was a great outline with lots of possibilities. Thank you!
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-09T17:21:21.81
+helpfulCount:
+0
+userID:
+2450983
+Display Name:
+Don R
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+141
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6917515.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oops. Hit the done button by accident. As for the dressing, my husband can't digest the onion and garlic so I blended them into the dressing ingredients and then strained it. I also subbed in feta cheese for goat as that was what was on hand.

@@ -1,0 +1,47 @@
+Recipe number:
+214234.txt
+Review:
+Rating:
+5
+dateLastModified:
+07/06/2010
+helpfulCount:
+14
+userID:
+chicklet
+Display Name:
+Isabel Barbosa Velozo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8526571.jpg
+text:
+This was pretty good. I made it into a pie and used a graham cracker crust. It definately needs to be slightly frozen though. Not quite as good when it thaws out and becomes soft.
+Review:
+Rating:
+3
+dateLastModified:
+08/07/2011
+helpfulCount:
+4
+userID:
+20283269
+Display Name:
+Wendy Bell
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7177926.jpg
+text:
+This is gonna sound totally crazy... but this tastes like Capn'Crunch Berries! Kinda good... kinda weird.
+Review:
+Rating:
+4
+dateLastModified:
+09/14/2015
+helpfulCount:
+0
+userID:
+14969050
+Display Name:
+McDonough Mom
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7840755.jpg
+text:
+I also made this into a pie using a purchased chocolate graham pie crust. My family loved it. There were no leftovers. I froze for about 3 hours and then moved it to the refrigerator about 45 minutes before cutting into it. Got a lot of compliments on it and felt a little sheepish about that considering just how easy this is. I omitted the strawberry jam.

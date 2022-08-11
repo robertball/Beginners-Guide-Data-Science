@@ -1,0 +1,72 @@
+Recipe number:
+260822.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-28T00:58:57.373
+helpfulCount:
+1
+userID:
+23090646
+Display Name:
+ann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is exactly what I was looking for! Single
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-02T18:42:28.237
+helpfulCount:
+0
+userID:
+4562668
+Display Name:
+Chef V
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+459
+favoritesCount:
+642
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/911981.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as directed. It's similar to another one I made yesterday.  I like the addition of vanilla although I'm not certain I could taste it. I still thought this was on the sweet side. Made this with coconut milk..and next time I'll add half the amount of maple syrup.

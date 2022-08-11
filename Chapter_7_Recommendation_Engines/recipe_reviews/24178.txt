@@ -1,0 +1,107 @@
+Recipe number:
+24178.txt
+Review:
+Rating:
+3
+dateLastModified:
+2002-11-22T15:48:27.53
+helpfulCount:
+19
+userID:
+208657
+Display Name:
+Leah L
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+95
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6122241.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is different, but good. I used tortillas instead of lunchmeat. Would love to hear some other variations.
+Review:
+Rating:
+1
+dateLastModified:
+2011-01-14T18:45:29.793
+helpfulCount:
+6
+userID:
+6111219
+Display Name:
+NeedleNatural
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tried this recipe and couldn't even eat it.  The pickles overpowered everything.  Had to add another 8 oz of cream cheese and ham slices within the roll to cover taste. I think I will stick to my traditional recipe even though I love all these ingredients separately, I didn't like the combination.
+Review:
+Rating:
+3
+dateLastModified:
+2011-12-27T19:58:20.737
+helpfulCount:
+4
+userID:
+2624229
+Display Name:
+Beverly Stockton Wright
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+731
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2823406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OK with me, DH loved though!

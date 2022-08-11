@@ -1,0 +1,37 @@
+Recipe number:
+267927.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-01T14:19:56.74
+helpfulCount:
+0
+userID:
+5991797
+Display Name:
+Amy Wilson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+811
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3779339.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These wings turned out great!  My husband and I are doing the keto diet so we eat wings once a week. I made them as directed but had to bake them longer than directed; about 25 minutes and I flipped them 1/2 way through. I’m making them again for our Super Bowl party!

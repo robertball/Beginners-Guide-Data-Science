@@ -1,0 +1,107 @@
+Recipe number:
+167197.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-02T03:43:51.24
+helpfulCount:
+4
+userID:
+1660746
+Display Name:
+Lisa Berg
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+91
+favoritesCount:
+200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1888879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thanks for bringing that up theserenesparkle!  I should have mentioned that in the recipe.  Don’t refrigerate- they “sweat” and lose their coatings.  These are best prepared and served that day.  They don’t need to be refrigerated to set and they actually have more flavor at room temp.  I use a food processor to chop the peanuts but have also put them in a Ziploc bag and let my boys whack them with a rolling pin before when we needed the diversion.  Hope you enjoy them as much as we do!
+Review:
+Rating:
+3
+dateLastModified:
+2011-06-16T11:12:45.353
+helpfulCount:
+2
+userID:
+7199193
+Display Name:
+theserenesparkle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was yummy and quite easy to do, except for chopping up the nuts by hand.  The thing I didn't like though, was that the frosting seems to melt off the strawberrys, after an hour of doing them.  Even in the fridge, it's still melting off the strawberries and it doesn't look very appealing.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-18T02:26:03.453
+helpfulCount:
+0
+userID:
+1481766
+Display Name:
+Saint Anne
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+537
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/173625.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and delish! I did an ingredient search because I had homemade frosting and toasted pecans left over from a carrot cake recipe. We also tried some coated with graham cracker crumbs. We made these for a family night activity and my 7 year-old loved dipping and rolling his own berries. (The picture I submitted are his frosted strawberries.)

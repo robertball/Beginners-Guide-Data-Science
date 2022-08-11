@@ -1,0 +1,147 @@
+Recipe number:
+236546.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-28T10:48:49.233
+helpfulCount:
+1
+userID:
+4178803
+Display Name:
+Naomi Gutierrez
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+430
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/292000.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great breakfast treat for the family. 
+
+I used cottage cheese and dried cranberries. I had trouble dredging the cakes in flour before putting them in the skillet, eventually I got the hang of it. 
+
+This dish is served best with berries and powdered sugar. My husband and kids put syrup on theirs, but I thought that made it too sweet.
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-16T23:55:02.007
+helpfulCount:
+1
+userID:
+8080494
+Display Name:
+IGumanoid
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/736015.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are soooo good! Their texture is just perfect. Every time you buy them in the store it a hit or a miss. With these you never miss.
+Syrniki are the ones that used to traditionally be the weekend family breakfast...but this recipe beats even my mom's. Well done! Thank you, Kangaroo!
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-29T00:42:54.53
+helpfulCount:
+0
+userID:
+24010460
+Display Name:
+Jessica Dawn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5689390.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have enough quark made so had to base how much flour used on that. Your recipe is perfect. Instead of 2 eggs, I used 1 (because I have made Syrniki before and didn't have an egg and learned to substitute 1c of spplesauce for the egg)- and 1 c of applesauce. Best Syrniki I've made, glad I lost the original recipe for it!!! Thank you for sharing this!
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-12T23:33:29.54
+helpfulCount:
+0
+userID:
+20576693
+Display Name:
+Olga Barrett
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I altered the recipe for my diabetic needs (no sugar and used raspberries and blueberries instead of raisins only because I didn’t have raisins), but this was very good! Made it several times.

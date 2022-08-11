@@ -1,0 +1,74 @@
+Recipe number:
+257180.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-03-05T17:41:56.487
+helpfulCount:
+0
+userID:
+17437052
+Display Name:
+Jack Kinney
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thanks Cindy,
+
+We like salmon and really liked the tomato-addition of  Cindy's recipe. I only made one small change. I used Ro-Tel diced tomatoes and chilies for added spice. Jack
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-14T15:48:23.86
+helpfulCount:
+0
+userID:
+1167972
+Display Name:
+WANIETA
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+422
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a new way to cook salmon and this fit the bill. It is very simple to put together and quite tasty.  I'm sure to make it again.

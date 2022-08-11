@@ -1,0 +1,214 @@
+Recipe number:
+246052.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-20T23:30:40.357
+helpfulCount:
+2
+userID:
+24775529
+Display Name:
+Angela Spandorf
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6142860.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a work potluck and people liked it alot. I prepared everything the night before but didn't cook it until the next day.  Took it out of the fridge about an hour before I started cooking it so it wouldn't be quite so cold going into the oven.
+
+ I used Panko Italian Breadcrumbs because I like lots of crunch and used Dijon mustard instead of mustard powder. I cooked it at 385 deg instead of 375 deg and since I wanted it nice and toasty on top I let it cook for longer than the recommended 30 min. Maybe let it go for about 45 minutes or so, uncovered, checking it every 15 minutes to make sure it wasn't torched! Delicious, and not much leftover!
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-27T22:41:54.89
+helpfulCount:
+1
+userID:
+14927561
+Display Name:
+Lennie III
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe but I found that the amount of ingredients made more than what fit in the aluminum foil tray I used. Recipe made a tray and a half. Should really add what size baking tray this recipe is supposed to use. I only used on head of the two cauliflower that was called for. I also doubled the shredded cheddar. It made for a much creamier sauce. It was a hit at the Christmas dinner potluck. Good recipe with some minor portion revisions.
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-01T01:29:20.683
+helpfulCount:
+0
+userID:
+15330847
+Display Name:
+Kay Broyles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+153
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5009908.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as written but found the sauce was a little flat and added some salt. I also put some salt in the water when I cooked the vegetables. Was a hit at the pot luck dinner i took it to.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-15T20:20:22.577
+helpfulCount:
+0
+userID:
+1887366
+Display Name:
+Nisha Parikh Scullino
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+159
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2182678.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Skipped breadcrumbs and added cooked pasta instead to make it a complete vegetarian meal. Kids loved it!
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-06T15:30:42.007
+helpfulCount:
+0
+userID:
+9404082
+Display Name:
+Kate Bayer
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+49
+favoritesCount:
+280
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1195614.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious way to get your veggies.  I adapted by using less cauliflower and adjusted the other ingredients accordingly.  I also added a dash of Dijon mustard with gave it a nice zing.
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-08T16:14:05.557
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8917
+followingCount:
+0
+madeRecipesCount:
+1121
+favoritesCount:
+2303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I thought this was good, but my kids didn't like the breadcrumbs on top. Darn kids! It went well with our meatloaf and baked potatoes tonight.

@@ -1,0 +1,107 @@
+Recipe number:
+239156.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-06T14:14:45.687
+helpfulCount:
+1
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+519
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2068
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very nice but I thought it needed more seasoning for our taste. Thanks for sharing.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-25T19:47:35.023
+helpfulCount:
+0
+userID:
+22833906
+Display Name:
+Stephanie Springer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4632970.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added lemon, extra garlic, more cream cheese & salt because it was bland in flavor.
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-01T19:10:35.133
+helpfulCount:
+0
+userID:
+4566631
+Display Name:
+Carole Nichols
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Lacks flavor

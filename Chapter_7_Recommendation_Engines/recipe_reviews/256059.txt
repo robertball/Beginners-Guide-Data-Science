@@ -1,0 +1,72 @@
+Recipe number:
+256059.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-17T02:55:11.053
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3 words. Simple, straight-forward, and good!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-26T21:55:32.88
+helpfulCount:
+0
+userID:
+12990242
+Display Name:
+Wuurimala
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’m giving this five stars for how easy it was. It is a good but tart salad. I halved the amount of sunflower seeds and added almonds and dried cranberries. We didn’t have any bacon so I omitted it. This might be why it was so tart.

@@ -1,0 +1,37 @@
+Recipe number:
+83142.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-09T02:17:28.803
+helpfulCount:
+0
+userID:
+1493319
+Display Name:
+Martie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4496871.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thanks! This is similar to German Rouladen, using the pickling spice instead of a Dill Pickle on each

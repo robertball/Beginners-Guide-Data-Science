@@ -1,0 +1,37 @@
+Recipe number:
+259020.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-20T23:37:39.94
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2818
+favoritesCount:
+6007
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+4.20.18  Garlic really mellows out after it’s roasted, so be sure to you use a LARGE head of garlic, otherwise, you won’t get a lot of garlic  flavor.  I made this twice, the second time using a large bulb of garlic, and since I was serving with  spaghetti and meatballs, I added some basil.  Nice recipe.

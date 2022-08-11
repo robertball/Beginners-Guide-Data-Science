@@ -1,0 +1,37 @@
+Recipe number:
+275684.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-09-21T16:17:55.11
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+431
+favoritesCount:
+911
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really wanted to like these "brownies" but not a single person in my house liked them even after sprinkling with pumpkin spice- confectioners sugar. They were rather meh and bland. There was an aftertaste of cocoa powder but other than that, no real cocoa flavor. Same with the spices. They do get points for having a brownie-like texture. I made the recipe as written subbing Cup 4 Cup GF flour blend for all-purpose flour.

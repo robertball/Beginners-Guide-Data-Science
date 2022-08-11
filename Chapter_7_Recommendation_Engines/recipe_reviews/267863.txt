@@ -1,0 +1,107 @@
+Recipe number:
+267863.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-19T01:43:20.077
+helpfulCount:
+1
+userID:
+731723
+Display Name:
+SZYQ1
+isPro:
+False
+followersCount:
+61
+followingCount:
+0
+madeRecipesCount:
+639
+favoritesCount:
+3051
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4049308.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good recipe for primavera using spaghetti squash instead of pasta. Easy to make too,but do use your time well (i.e. cut the other veggies while the spaghetti squash is in the IP). I didn't have cherry tomatoes and chopped a couple of small plum tomatoes from my garden. My zucchini waived goodbye and I decided to add in some frozen broccoli/cauliflower before adding in the tomatoes (just put glass lid on top of IP for about 5 minutes and stirred intermittently). Otherwise, I followed the recipe instructions and ingredient amounts exactly and both of us loved the flavor of this dish a lot. It's very filling, delicious, healthy, and perfect for a meatless main dish. Thank you for the recipe, Bibi!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-27T02:54:21.747
+helpfulCount:
+1
+userID:
+15461744
+Display Name:
+VANESSA WATSON
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2120051.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'll be honest at first I didn't think it was going to be very good but my three-year-old my ten-year-old and my husband smashed this recipe. It was very light and fresh. It will definitely be a new favorite.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-16T12:48:17.367
+helpfulCount:
+0
+userID:
+4803988
+Display Name:
+Rita Thornell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/563205.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We were skeptical, but it turned out really good.  My husband started it before I came home from work, so after I fixed everything he screwed up it went smooth.  I recommend this dish.

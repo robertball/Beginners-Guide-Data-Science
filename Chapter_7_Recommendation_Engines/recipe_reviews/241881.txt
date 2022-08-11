@@ -1,0 +1,107 @@
+Recipe number:
+241881.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-10T00:37:59.98
+helpfulCount:
+1
+userID:
+24450250
+Display Name:
+Pat Layton Kelley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5928225.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the lemony taste of the sauce. Asparagus was just right. Easy as pie!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-08T01:33:12.047
+helpfulCount:
+1
+userID:
+20395511
+Display Name:
+gin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+183
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+added little less butter and it was great.  will probably use a little less the next time.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-19T00:28:58.153
+helpfulCount:
+1
+userID:
+6489640
+Display Name:
+Karla Marie White
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4321632.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this recipe. It was so quick and tasty without being overpowering. We baked the asparagus at 400 degrees for 12 minutes then drizzled butter mixture on top. Be warned, sesame seeds burn so quickly in butter. Keep your oven eye between low and medium 2-3, not on medium 5.

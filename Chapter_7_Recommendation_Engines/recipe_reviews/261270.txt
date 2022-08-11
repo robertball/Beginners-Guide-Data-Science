@@ -1,0 +1,72 @@
+Recipe number:
+261270.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-07T00:51:14.98
+helpfulCount:
+0
+userID:
+17163747
+Display Name:
+homestead mom of 7
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+49
+favoritesCount:
+124
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094864.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added 1-1/2 tsp. salt & used 12 whole eggs (not just egg whites). We have turkeys & chickens & I'm always looking for recipes that are simple & use both ingredients. I think I will make the recipe again but with 2 c. mozzarella cheese added to the middle layer
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-16T06:53:21.397
+helpfulCount:
+0
+userID:
+10702392
+Display Name:
+Dodee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+411
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Dish was very easy to make. Incredibly tasty. The mix of sweet and spicy from the sausage and crushed red pepper is spot on. Only change I made was I did not use 16 oz of breakfast sausage. I used two boxes which are about 12 oz and it was plenty.   I will make it again.

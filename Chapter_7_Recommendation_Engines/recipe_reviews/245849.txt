@@ -1,0 +1,72 @@
+Recipe number:
+245849.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-19T00:32:36.83
+helpfulCount:
+7
+userID:
+6665892
+Display Name:
+cbuck1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/598150.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made 72-hr sous vide ribs, but not with this exact recipe. They were spectacular. However, I felt a need to respond to the other reviewer who questioned the food safety. Sous vide safety guidelines are different from all other cooking methods due to the length of time food is kept at temperature. Find details here: http://www.douglasbaldwin.com/sous-vide.html#Safety
+Review:
+Rating:
+2
+dateLastModified:
+2018-07-16T17:57:16.15
+helpfulCount:
+2
+userID:
+23955133
+Display Name:
+Larry LJ Pitre
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5561383.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sous Vide cooking at that low temperature for so long is counterproductive.  It is better to Sous Vide cook the ribs at 165F for 5 - 8 hours, which is enough to render the fat, then quickly braise the meat for a few minutes under high heat (400F) to get the brown cooked surface.   Remember to dry the ribs before braiding them

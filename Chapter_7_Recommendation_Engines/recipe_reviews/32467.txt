@@ -1,0 +1,37 @@
+Recipe number:
+32467.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-03T21:24:55.68
+helpfulCount:
+0
+userID:
+13818378
+Display Name:
+lg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+245
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used coconut rum & midori, while in Hawaii. Yum!

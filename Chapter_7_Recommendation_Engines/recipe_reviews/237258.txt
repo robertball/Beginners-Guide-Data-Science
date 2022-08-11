@@ -1,0 +1,72 @@
+Recipe number:
+237258.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-05-31T11:29:28.897
+helpfulCount:
+0
+userID:
+9368504
+Display Name:
+Lowcarb Cook
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+1566
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3647780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+didn't really care for the flavor. and there is no protein
+Review:
+Rating:
+4
+dateLastModified:
+2014-04-09T07:52:56.277
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I often don't like smoothies without yogurt, but this one worked for me.  It definitely does have a good punch of ginger, so if you have any concerns about that, start conservatively and add more if you think it's needed.  I wanted to finish off a bag of frozen strawberries, so I did add more than the quantity indicated.  Enjoyed!

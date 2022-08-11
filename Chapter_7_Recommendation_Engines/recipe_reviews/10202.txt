@@ -1,0 +1,37 @@
+Recipe number:
+10202.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-11-13T16:57:11.08
+helpfulCount:
+13
+userID:
+57940
+Display Name:
+ELVISMOMMY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Although this recipe took A LOT of work and time I really enjoyed the final product. I made this for a New Year's party and although it was a hit it was a little messy for everyone to be eating with their hands. I would recommend serving this as a unique desert at a sit down dinner so that people can use their forks!

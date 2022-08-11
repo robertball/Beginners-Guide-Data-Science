@@ -1,0 +1,73 @@
+Recipe number:
+246481.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-09-02T00:54:39.05
+helpfulCount:
+0
+userID:
+24165378
+Display Name:
+pbuck17241@yahoo.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We tried it.  The pork belly didn't absorb any flavor.  I ended up draining the juice into a pan and reducing it.  Then I tossed the meat so there was at least a little flavor there. 
+We won't make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-13T23:44:03.94
+helpfulCount:
+0
+userID:
+17542713
+Display Name:
+Hilary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4585935.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious. Used half plum vinegar and added some spicy barbecue sauce, cayenne, paprika, and a while onion.

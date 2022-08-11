@@ -1,0 +1,37 @@
+Recipe number:
+64605.txt
+Review:
+Rating:
+3
+dateLastModified:
+2004-06-01T07:18:38.42
+helpfulCount:
+1
+userID:
+943966
+Display Name:
+FIGHTPILOTSWIFE
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+175
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't care for this recipe.  It was too runny, even after I attempted to thicken it up.  If I ever made it again (which I won't), I would make a roue (sp?) first with flour and butter and maybe that would help the texture/thickness issue.  The taste also wasn't to my liking.  My husband thought it was ok and ate the whole bowl, so that's why I'm compromising and giving it 3 stars.

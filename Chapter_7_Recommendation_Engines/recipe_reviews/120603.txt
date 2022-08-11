@@ -1,0 +1,410 @@
+Recipe number:
+120603.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-04-06T08:48:32.84
+helpfulCount:
+11
+userID:
+2061042
+Display Name:
+Sgt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/72.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I should first forewarn that I made a lot of variations, never even followed this recipe once, so I don't know what it tastes like origianally.  It sounded way to bland for my and my family's palate.  
+
+I made it for serving 8 (I have a family of 4 and we only had one serving left, which I took to work the next day).  
+
+Instead of water I used beef broth.
+Added 2 tsp of minced garlic
+1T of diced dehydrated onion (don't use fresh, my preferrance)
+Omitted salt
+Couple shakes of red pepper flakes
+Omitted black pepper
+Omitted nutmeg
+
+For the sauce to stir in at the end I...
+Used 2 cups milk rather than the 2-2/3 that it called for(remember I made the soup to serve 8) I wanted a thicker sauce to stir in, the soup looked thin
+
+I added the cheese to the sauce and extra at that, and it turned out just like a rich cheese sauce.
+
+Then I poured the cheese sauce into the soup and stirred.  
+
+My soup turned out FANTASTIC.  My whole family loved it, leaving only one serving for left overs.  I will make again, and again, and again.  We served with bread, it made for a nice warm filling meal.
+Review:
+Rating:
+3
+dateLastModified:
+2009-01-06T17:55:32.96
+helpfulCount:
+4
+userID:
+2373084
+Display Name:
+Em
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good base for broccoli chowder, but it needs more seasoning.  You will need to season to taste.
+Review:
+Rating:
+4
+dateLastModified:
+2009-02-03T06:28:31.773
+helpfulCount:
+3
+userID:
+1720516
+Display Name:
+xezer
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+57
+favoritesCount:
+278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good - I omitted the nutmeg and added garlic and herb seasoning, and through in some leftover ham.  Also pureed half the veggie mix, which turned the whole soup green.  Two kids ate the "grouch soup" with delight, the third was not so impressed, but we will definitely have this again!
+Review:
+Rating:
+5
+dateLastModified:
+2008-10-05T13:02:08.033
+helpfulCount:
+2
+userID:
+2364085
+Display Name:
+sonsfan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  The soup tasted exactly like I hoped it would.  Slightly thickened and flavorful.  The only variation I made was to use veggie stock in place of the water, because I do that whenever I have stock on hand.  The milk I used was 2%, in case that matters.  Would definitely make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2008-07-06T21:03:02.2
+helpfulCount:
+2
+userID:
+2496623
+Display Name:
+odessa5
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first time at making chowder. The soup was GREAT! Will be making this chowder again and again. 
+Thank You for sharing the recipe with us!
+Review:
+Rating:
+4
+dateLastModified:
+2008-02-05T15:12:55.743
+helpfulCount:
+2
+userID:
+1424300
+Display Name:
+KD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+pretty good. i stirred in about 1/3 cup romano cheese to thicken and add more flavor. i also added some garlic powder and herbs de provence. it was a good consistency and had yummy rich flavor.
+Review:
+Rating:
+1
+dateLastModified:
+2007-12-23T11:03:02.01
+helpfulCount:
+2
+userID:
+2699387
+Display Name:
+Jo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will never make again.  It was tasteless and soupy.  My husbend and I love broccoli and potatoes, and this was not what we expected.  I even added more cheese and it still did nothing.
+Review:
+Rating:
+4
+dateLastModified:
+2007-12-04T14:27:44.37
+helpfulCount:
+2
+userID:
+2656332
+Display Name:
+Heather W.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used the basic recipe leaving out the onions. I added 1/2 teaspoon of garlic powder, 1/2 pound of kelbasia, and 1/4 cup of both parm.cheese and chedder cheese to the soup. It came out thick, creamy and delicious! I will be making it again with my additions.
+Review:
+Rating:
+3
+dateLastModified:
+2007-09-10T11:17:16.983
+helpfulCount:
+2
+userID:
+2357170
+Display Name:
+bostoncook
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/932636.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added bacon to the recipe. Thought it was okay.  Came out sort of gummy, but it could have been my fault.  I would try it again, maybe cook the potatoes for less next time.
+Review:
+Rating:
+3
+dateLastModified:
+2007-02-26T16:33:51.643
+helpfulCount:
+2
+userID:
+1830761
+Display Name:
+Debbie Lopez
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+102
+favoritesCount:
+468
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1269738.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will I try aging? The potato taste over powered the broccoli and it was a  little on the thicker than I like.
+Review:
+Rating:
+4
+dateLastModified:
+2012-07-18T14:38:01.93
+helpfulCount:
+0
+userID:
+7819782
+Display Name:
+Ber_Marie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/796363.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this recipe. It turned out well but I did change a few things,
+1. I added two cubes of beef broth to my vegetable mixture for extra taste
+2. I added a slice of cheese to my sauce mix
+The only complaints I have are that I wish the size of the second pan had been said, using to big of one doesn't make it work very well, and also that it was a little thin. But the tasted was good and I will definetely make it again!

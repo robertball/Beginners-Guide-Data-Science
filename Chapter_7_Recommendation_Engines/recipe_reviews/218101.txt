@@ -1,0 +1,72 @@
+Recipe number:
+218101.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-09-13T07:34:17.507
+helpfulCount:
+4
+userID:
+4679651
+Display Name:
+Life Tastes Good
+isPro:
+False
+followersCount:
+278
+followingCount:
+0
+madeRecipesCount:
+223
+favoritesCount:
+476
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2789776.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful cheesecake! I would have given this 5 stars, but I don't think you need to pre-bake the crust - my crust turned out a bit overcooked. Also, when I got to the point of the recipe to add the heavy whipping cream - I wasn't sure if I was supposed to be using whipped cream or heavy whipping cream. I had purchased heavy whipping cream because of the ingredient list so that is what I used.  I was a little worried during the cooking process as well, as the cheesecake was browning very early on. I left it in for the entire time as directed and it came out really nice. It did crack around the edge but I didn't care as it tastes very nice with the hint of lemon. I appreciate it is not a very rich cheesecake - it is on the lighter side by cheesecake standards. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-05T20:34:57.373
+helpfulCount:
+2
+userID:
+3094405
+Display Name:
+coachtom
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+204
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/144412.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great cheesecake. I have made this 1 several times. Instead of putting my crust in the oven, I put mine in the freezer till it is needed. I also use a waterbath in the oven at 350degrees, to keep it from cracking in the cooling stage. The trick is to let it coast in at the end of the cooking time. Just turn the oven off and let it cool for a couple hours in the oven. Then put it in the fridge.  Always a favorite.

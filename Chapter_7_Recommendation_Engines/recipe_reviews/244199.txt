@@ -1,0 +1,72 @@
+Recipe number:
+244199.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-05T20:00:06.023
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the concept but as written I found this too salty. No, I didn't use onion salt or garlic salt but I made as written. I made 2 batches today. One as written and one with my own tweaks. As written 4 stars and with my tweaks 5. My own batch I did 1 pound of ground beef to 1/2 pound of ground pork, 2 tsp salt, 2 tsp paprika, and 1 tsp of smoked paprika and the rest the same. LOVED this as a way to use up those extra hotdog buns you get in the package. Thanks Chef John and I will  make this again!
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-18T23:39:56.41
+helpfulCount:
+0
+userID:
+10180607
+Display Name:
+BandN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these tonight and they are good but way too salty. Next time I will cut the salt by half and the pepper by half. Update to come

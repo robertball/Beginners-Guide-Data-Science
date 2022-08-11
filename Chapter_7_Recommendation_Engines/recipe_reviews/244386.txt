@@ -1,0 +1,37 @@
+Recipe number:
+244386.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-24T20:33:57.51
+helpfulCount:
+0
+userID:
+4562668
+Display Name:
+Chef V
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+459
+favoritesCount:
+642
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/911981.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made 1 serving of this as I was just making for myself. I used frozen berries and decided to omit the ice cubes because of this. It's winter here.. So didn't want anything freezing cold to start my day. I don't drink juices so used a couple dollops of plain Greek yogurt instead. Added some almonds to garnish as well. Will definitely make again.. This would make a make summer breakfast.

@@ -1,0 +1,107 @@
+Recipe number:
+245232.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-08T00:22:48.77
+helpfulCount:
+1
+userID:
+8415369
+Display Name:
+cook in progress
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great!  I brined roast first beforehand, and didn't use much salt in the recipe.  The flavors were awesome.  There was a lot of filling, but I made it work.  I would use either a sweeter apple next time or add in some other fruit like cranberry or cherry.  And I cooked the filling with the sauté pan lid off so it was relatively dry when I filled the roast, and didn't run out at all.
+Review:
+Rating:
+2
+dateLastModified:
+2016-02-12T14:12:42.283
+helpfulCount:
+1
+userID:
+9103694
+Display Name:
+Mike Eybel
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7378329.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+stuffing was too liquid most fell out of the roast.... however the flavor profile was very good
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-12T19:47:21.56
+helpfulCount:
+1
+userID:
+16996828
+Display Name:
+Jim
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Recipe is great, flavors perfect with the he pork.  However, I increased servings to 10 and followed the revised amounts.  but, the   amount of fennel, shallot, apple and gorganzola in the recipe would've filled two 6 lb loins.  I had ton of filling left over.  also, cooking time needs to be closer to an hour or at least 55 minutes.   I cooked for 45 minutes and still had a little too much pink for some eaters.  I was fine with it.  I'd probably make it again.

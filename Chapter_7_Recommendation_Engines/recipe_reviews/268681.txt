@@ -1,0 +1,37 @@
+Recipe number:
+268681.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-28T14:23:48.297
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+471
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe as written. They were good, even for someone who doesn’t like butterscotch. I do suggest chilling them for a full hour if you plan on making them into ice cream sandwiches. That way the cookies will be less likely to crumble. These cookies are the perfect addition to any Harry Potter themed party.

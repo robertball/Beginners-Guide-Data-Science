@@ -1,0 +1,37 @@
+Recipe number:
+244257.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-30T19:31:40.57
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+402
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made mini muffins instead of bars. They were good and easy to make. Great for a mid day snack.

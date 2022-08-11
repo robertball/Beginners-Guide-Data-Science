@@ -1,0 +1,72 @@
+Recipe number:
+221946.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-04T12:35:48.257
+helpfulCount:
+7
+userID:
+3632174
+Display Name:
+BigShotsMom
+isPro:
+False
+followersCount:
+186
+followingCount:
+0
+madeRecipesCount:
+637
+favoritesCount:
+1878
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just couldn't bring myself to use all that butter, so I compromised.  I cooked my bacon first, drained about half the drippings and then added 1/4 stick of butter.  I also used a whole sweet onion, which yielded more like a cup and a half.  The flavor and aroma are delightful!  Thank you Uli!
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-24T11:24:51.643
+helpfulCount:
+5
+userID:
+919289
+Display Name:
+Stacy Peterson
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+1036
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1981227.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Well. Who can argue with bacon deep fried in butter, and caramelized onions? Except maybe your cardiologist. Seriously, you wouldn't eat this every day, and it is one of those things that is just so darn good... so once in a while, why not. I'm thinking for instance when you make rouladen, spaetzle, and red cabbage. Ya gotta put somethin' on that spaetzle, right?

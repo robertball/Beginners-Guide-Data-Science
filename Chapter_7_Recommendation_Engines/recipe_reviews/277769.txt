@@ -1,0 +1,72 @@
+Recipe number:
+277769.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-31T22:44:09.367
+helpfulCount:
+0
+userID:
+26297180
+Display Name:
+Karen Murray
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+78
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used Rotel with diced green chili’s instead of plain diced tomatoes. Used turkey pepperoni for less fat. Added cheddar cheese along with the mozzarella.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-19T16:04:28.663
+helpfulCount:
+0
+userID:
+15255609
+Display Name:
+St Copper
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+509
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The kids thought this sounded weird, but once it came out they devoured it. Such an easy dish that will be made for those picky kid outings.

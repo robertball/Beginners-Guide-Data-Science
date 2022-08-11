@@ -1,0 +1,37 @@
+Recipe number:
+241617.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-27T06:04:36.23
+helpfulCount:
+1
+userID:
+21040001
+Display Name:
+Danny M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was entertaing 20+ for Christmas day dinner. Got a late start and I used this rub for smoking  (2) 12lb turkey's. Wow! Was it ever a hit. Guests described the flavor as Gourmet, Best they had, incredible. Simple to prepare and apply. A little messy but worth it! I highly recommend it.

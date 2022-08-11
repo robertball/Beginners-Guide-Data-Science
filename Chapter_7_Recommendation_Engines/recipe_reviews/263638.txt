@@ -1,0 +1,72 @@
+Recipe number:
+263638.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-16T15:47:28.717
+helpfulCount:
+0
+userID:
+23522850
+Display Name:
+Benjamin Tortorelli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5264619.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+cool like it bro
+Review:
+Rating:
+3
+dateLastModified:
+2018-04-26T20:19:04.907
+helpfulCount:
+0
+userID:
+23578746
+Display Name:
+Aliyah Murphy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5304432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i really don't like the substitution of tofu.

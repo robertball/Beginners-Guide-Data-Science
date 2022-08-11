@@ -1,0 +1,72 @@
+Recipe number:
+188237.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-26T20:38:14.3
+helpfulCount:
+0
+userID:
+11357276
+Display Name:
+Sherelle Shuck
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3254908.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a huge hit with my family. There's just the right amount of spices that aren't overpowering. Glad that I tried this out!
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-01T18:40:15.067
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+775
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3991
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is how fall tastes. A perfect hot drink for Thanksgiving.

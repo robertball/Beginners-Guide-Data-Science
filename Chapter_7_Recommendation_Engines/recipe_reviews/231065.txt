@@ -1,0 +1,73 @@
+Recipe number:
+231065.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-18T07:31:45.59
+helpfulCount:
+1
+userID:
+1518353
+Display Name:
+Rhonda Holtz Hill
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+397
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2023489.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hit of the picnic, no leftovers!
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-30T00:40:40.78
+helpfulCount:
+0
+userID:
+2713522
+Display Name:
+Frances Robbins
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+152
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2220918.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Need to put oven temp on recipe 
+And be a little more clean on how to mix ingredients

@@ -1,0 +1,72 @@
+Recipe number:
+247018.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-10T01:27:16.503
+helpfulCount:
+0
+userID:
+9858679
+Display Name:
+sonshaun
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My parents loved it. I used fresh tuna and only needed 1 steak to get the 5oz I needed. Also only used 1 leek and didn't  use all the oil. I substituted goat cheese for feta cheese.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-26T04:21:42.607
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really yummy.  A nice pizza... a great light summer meal for the warmer months. M y only addition was  some rainbow crushed pepper because I am a pepper freak

@@ -1,0 +1,111 @@
+Recipe number:
+235929.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-05T04:45:06.957
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good but I have two recommendations. Use a lean bacon so that you end up with meaty bacon instead of wobbly fatty pieces throughout your soup. My other recommendation is to use Better than Bouillon instead of the cubes for a less salty and more meaty flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-04T00:46:11.18
+helpfulCount:
+0
+userID:
+1533187
+Display Name:
+Jenifer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+491
+favoritesCount:
+1002
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good. Pleasantly surprised!
+add chipotles and adobo
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-11T12:44:34.25
+helpfulCount:
+0
+userID:
+21621075
+Display Name:
+Pebbles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hi Lisa:
+
+Thanks so much for this lovely recipe.  This was my very first time ever cooking beans AND in a crock pot. DELICIOUS!!!!!!
+I must say I did swap out peas for the navy beans. That's the only beans I had at the time.  Next time, I will try the black eye peas. I know I will get the same or better results.

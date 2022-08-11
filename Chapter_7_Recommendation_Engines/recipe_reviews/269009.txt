@@ -1,0 +1,72 @@
+Recipe number:
+269009.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-06T01:48:24.09
+helpfulCount:
+0
+userID:
+11422343
+Display Name:
+ewamic
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I served it with Greek, plain Greek yogurt and bread.  Delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-16T02:41:29.85
+helpfulCount:
+0
+userID:
+14791379
+Display Name:
+Liz H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+447
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Has a nice fall flavor.  I cooked it for 2-1/2 hours on high.  The vegetables held their shapes but were a little softer than what I like.  Next time, check it at two hours.

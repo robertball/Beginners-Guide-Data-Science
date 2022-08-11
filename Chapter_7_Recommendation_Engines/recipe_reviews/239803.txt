@@ -1,0 +1,148 @@
+Recipe number:
+239803.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-25T08:44:48.167
+helpfulCount:
+6
+userID:
+10283108
+Display Name:
+Darlene Rose
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5495546.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious but I had to change up a few things.  Instead of 2 TBSP coconut flour, it ended up being more like 1/4 cup coconut flour.  I changed it because the recipe said that the dough would ball up and that at some point I could split it.  My dough was more on the loose side and I could not ball it up.  So I kept adding a little more coconut flour until I was able to create a ball of dough, although it was still somewhat looser and sticky.   
+
+I also was not able to put it in a 12x8 baking dish. I used a round glass baking dish.   
+
+I used strawberry preserves instead of raspberry jam.
+
+It ended up being a hit at the get together I brought it to and was asked for the recipe.
+Review:
+Rating:
+1
+dateLastModified:
+2017-05-06T20:25:40.5
+helpfulCount:
+2
+userID:
+21798847
+Display Name:
+Christine Caputo
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Although somewhat tasty, the entire thing stiuck in the
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-21T21:40:02.057
+helpfulCount:
+0
+userID:
+11332972
+Display Name:
+Kevin Divins
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used strawberry jam instead of raspberry! It was very good! Everyone who tried it liked it and some wanted the recipes!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-12T10:46:07.17
+helpfulCount:
+0
+userID:
+17889217
+Display Name:
+Aaron Perry
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3485502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+made just as it is and loved it

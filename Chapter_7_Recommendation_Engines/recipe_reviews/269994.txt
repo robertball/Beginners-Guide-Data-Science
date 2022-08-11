@@ -1,0 +1,72 @@
+Recipe number:
+269994.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-12T13:26:19.35
+helpfulCount:
+0
+userID:
+16360248
+Display Name:
+Michelle Cavarretta
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Usually cauliflower rice is rather bland, so I made a couple of changes to the recipe.  Used steam in bag cauliflower rice. Used 1 tablespoon of butter instead of 2 and 1 tablespoon of extra virgin olive oil.  A whole onion instead of half and about 4 cloves of garlic. Instead of serving it in a bowl, I spooned the mixture into muffin tins and baked for 20 minutes. It was marvelous.
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-06T21:03:51.713
+helpfulCount:
+0
+userID:
+3795092
+Display Name:
+virgi
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found it a little bland. And dry. Kind of boring. With lots, lots more Parmesan, I managed to eat it all, but I won't make again. I followed the recipe to a T.

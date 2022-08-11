@@ -1,0 +1,72 @@
+Recipe number:
+22785.txt
+Review:
+Rating:
+2
+dateLastModified:
+2001-06-15T19:23:14.153
+helpfulCount:
+3
+userID:
+367848
+Display Name:
+CNOWYCKYJ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The main part of the pie had a great taste-gooey and sweet, though not at all like a custard pie . It tasted more like a canadian sugar pie.  Following the directions exactly, the pie remained soft, had to eat it with a spoon.  The meringue was pointless-didn't really go well with the rest of the pie.
+Review:
+Rating:
+4
+dateLastModified:
+2006-11-25T16:16:24.067
+helpfulCount:
+0
+userID:
+2141396
+Display Name:
+Irene C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+191
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Instead of brown sugar delight, try molasses delight! Substitute 2 cups mild molasses and 2 cups granulated sugar for the 2 cups of brown sugar.

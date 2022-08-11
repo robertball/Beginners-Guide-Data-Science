@@ -1,0 +1,37 @@
+Recipe number:
+171316.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-07-29T16:50:27.963
+helpfulCount:
+1
+userID:
+1532140
+Display Name:
+pomplemousse
+isPro:
+False
+followersCount:
+382
+followingCount:
+0
+madeRecipesCount:
+2015
+favoritesCount:
+2753
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/58080.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! Very simple yet elegant, and tastes wonderful.  I love grilled peaches, and this is a great way of serving them.  I didn't use raspberry sauce or vanilla ice cream; just used strawberry sauce and strawberry ice cream bc of what I had on hand, but raspberry sauce would be delicious I'm sure. My peaches did take longer on the grill, but I put them on the top rack bc I was cooking chicken underneath.  A lovely dessert.  Thank you for the recipe!

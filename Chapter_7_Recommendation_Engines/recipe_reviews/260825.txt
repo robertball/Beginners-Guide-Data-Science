@@ -1,0 +1,72 @@
+Recipe number:
+260825.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-17T20:34:25.953
+helpfulCount:
+0
+userID:
+24672654
+Display Name:
+Cathy Ricks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6129013.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this eggnog for a party and it was a HUGE hit!  My guests loved it and said it was the best eggnog they had ever had.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-18T18:41:14.527
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't care for Captain Morgan but it is my husbands drink of choice so I made this for him. He gave it 2 thumbs up and asked me to make it again so I'm going with a 5 star rating.

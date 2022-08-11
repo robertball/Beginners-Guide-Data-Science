@@ -1,0 +1,109 @@
+Recipe number:
+232834.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-12T22:32:09.297
+helpfulCount:
+3
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+540
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Never have I ever put a cupcake in an ice cream cone. What a cute fun idea! My son rated them awesome! We just used regular frosting from the store to top these very yummy cupcakes. Would be great for a party! They may not all turn out "perfect", but they taste wonderful. My cones made less than the 24 listed in the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2013-06-16T19:30:54.49
+helpfulCount:
+2
+userID:
+11547986
+Display Name:
+I Love Dylan Vetter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+mmmmmmmmm.....
+liked it.....
+but the frosting could be better
+Review:
+Rating:
+1
+dateLastModified:
+2017-11-24T23:09:08.18
+helpfulCount:
+0
+userID:
+12436119
+Display Name:
+Mary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly. The batter leaked through the cones of most of them and the other ones overflowed and didn’t cook through. In fact, some burned around the edges. Are some cones more superior than others? Was it the high altitude of the California mountains?

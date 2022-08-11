@@ -1,0 +1,37 @@
+Recipe number:
+234776.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-20T17:12:32.007
+helpfulCount:
+1
+userID:
+10301789
+Display Name:
+Angie Lemaire
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+623
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7365743.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great alternative to the bbq mini sausages. Kids and adults both ate this up. I made no alterations or substitutions. I served this as a main course but it definitely is more of a snack night item. Serving it as a main course weirded my family out. This is definitely not a sophisticated flavor but for the intention of this type of food, it was tasty.

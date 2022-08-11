@@ -1,0 +1,72 @@
+Recipe number:
+84424.txt
+Review:
+Rating:
+1
+dateLastModified:
+2006-11-03T06:29:31.587
+helpfulCount:
+16
+userID:
+1889639
+Display Name:
+LISA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+129
+favoritesCount:
+269
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/236228.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There was too much mayo and not enough of a vegetable taste.  It was hardly touched at dinner.  I will not be making it again.
+Review:
+Rating:
+1
+dateLastModified:
+2012-08-26T19:49:16.433
+helpfulCount:
+1
+userID:
+2360345
+Display Name:
+Melissa Goff
+isPro:
+False
+followersCount:
+1368
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+1339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2417840.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was pleased to make this recipe, simple enough....but hubby bought double the amounts of veggies I needed because he was looking forward to it. But let me say, hubby and I wouldn't let our kids have any of it when it was done, because it was way beyond edible. There was too much mayo, it curdled on the top of the dish in the baking process and never steeped through. Hubby and I couldn't get past the mayo mixture flavor.

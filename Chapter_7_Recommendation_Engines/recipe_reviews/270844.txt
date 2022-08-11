@@ -1,0 +1,143 @@
+Recipe number:
+270844.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-02-05T03:37:37.36
+helpfulCount:
+0
+userID:
+15544304
+Display Name:
+Heather Beach
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made the recipe exact but we just didn't like it that much. 
+Think next time we're going to try some more season!
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-08T20:33:54.15
+helpfulCount:
+0
+userID:
+12541024
+Display Name:
+Ms Jean
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+246
+favoritesCount:
+1656
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect as is! Sometimes the simplest and easiest preparations are the best! I had about 1/ 2 lb asparagus and reduced the olive oil to 1 tblsp but still used 1/4 cup water. Cooking time is spot-on. Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-29T15:46:24.393
+helpfulCount:
+0
+userID:
+20294500
+Display Name:
+Michael Baldwin
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3865041.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! easy and tasty!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-01T01:28:20.483
+helpfulCount:
+0
+userID:
+25230036
+Display Name:
+bkb1016
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this just like the recipe & my girls loved it!! They said they were Perfect!! So glad I found this & saving it  now!! Thank you so much!! It was delicious!! Y’all should try this, you’ll love it!! So easy to make!!!

@@ -1,0 +1,37 @@
+Recipe number:
+246187.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-14T12:12:07.93
+helpfulCount:
+0
+userID:
+4010997
+Display Name:
+heatherthehappyhomemaker
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe tastes just like what I order from the Chinese restaurant.   I did use less chicken and added more veggies (carrots, broccoli, water chestnuts.)  You can do whatever you want with that, but the sauce is great.  I do like things spicy, so next time I will add some crushed red pepper.  (I order the same thing made spicy at the restaurant.)

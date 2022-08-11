@@ -1,0 +1,32 @@
+Recipe number:
+236687.txt
+Review:
+Rating:
+5
+dateLastModified:
+07/03/2020
+helpfulCount:
+0
+userID:
+5430114
+Display Name:
+ahendren
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Microwaved 4 minutes at 60% power. Stirred in 2 t. Honey
+Review:
+Rating:
+4
+dateLastModified:
+01/29/2019
+helpfulCount:
+0
+userID:
+2736010
+Display Name:
+Brandy Chlebecek-Jensen
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1481051.jpg
+text:
+Pretty decent. I added a little honey to even out the sweet vs. heat. But that may just be my personal preference.

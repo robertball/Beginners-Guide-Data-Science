@@ -1,0 +1,37 @@
+Recipe number:
+267945.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-10T13:21:59.46
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5861
+followingCount:
+0
+madeRecipesCount:
+2946
+favoritesCount:
+6096
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10.10.18   This was pretty good, but our personal taste, next time I’ll cut back a little on the cream cheese and add more feta for just a bit more tang.  Certainly was easy to make, and we enjoyed it as a spread on mini naan bread.  Thanks for sharing your recipe.

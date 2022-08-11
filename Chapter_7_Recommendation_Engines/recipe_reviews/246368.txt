@@ -1,0 +1,37 @@
+Recipe number:
+246368.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-04T15:20:33.723
+helpfulCount:
+0
+userID:
+12691692
+Display Name:
+Cathy Maness-Reid
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3384276.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is awesome. Sweet, flavorful, and a great morning starter. Love the color too. Yum

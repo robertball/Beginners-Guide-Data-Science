@@ -1,0 +1,37 @@
+Recipe number:
+62305715.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-23T08:15:59.063
+helpfulCount:
+2
+userID:
+4921145
+Display Name:
+ludypie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The best macaroni salad ever

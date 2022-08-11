@@ -1,0 +1,72 @@
+Recipe number:
+239825.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-01-18T09:20:57.04
+helpfulCount:
+1
+userID:
+8869636
+Display Name:
+Lisa Jane
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+293
+favoritesCount:
+502
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/938930.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a recipe of good intent and poor effect. In addition, it was too much allspice for my taste. In hindsight, I should have made the meatballs prior to cooking and baked them on a broiler pan in order to reduce the amount of fat. Even so, I won't attempt to make this again.
+Review:
+Rating:
+1
+dateLastModified:
+2020-02-22T02:56:29.787
+helpfulCount:
+0
+userID:
+9827232
+Display Name:
+Sean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+203
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6905326.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Why the cabbage? Wrong spices used and turned out horrible. Will not make again. Family wouldn’t eat it.

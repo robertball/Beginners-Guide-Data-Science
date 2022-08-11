@@ -1,0 +1,77 @@
+Recipe number:
+244999.txt
+Review:
+Rating:
+5
+dateLastModified:
+11/27/2016
+helpfulCount:
+1
+userID:
+3676791
+Display Name:
+jdeppel
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/878215.jpg
+text:
+Everyone loved it! Due to a bountiful harvest this year I used Macintosh apples
+Review:
+Rating:
+5
+dateLastModified:
+03/20/2019
+helpfulCount:
+0
+userID:
+17809924
+Display Name:
+Stephanie
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The perfect cheesecake great recipe.
+Review:
+Rating:
+5
+dateLastModified:
+10/15/2018
+helpfulCount:
+0
+userID:
+3110251
+Display Name:
+corazon79
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/126331.jpg
+text:
+Turned out amazing everyone loved it! I had to make a second batch of the sauce but it was super easy. Thank you! I also added pecans inside and on top. Yummy.
+Review:
+Rating:
+4
+dateLastModified:
+05/25/2019
+helpfulCount:
+0
+userID:
+25584479
+Display Name:
+rebelcreek
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Different but good
+Review:
+Rating:
+5
+dateLastModified:
+12/24/2018
+helpfulCount:
+0
+userID:
+3617433
+Display Name:
+Sara
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Family loves caramel so this was a big hit. Used a 8" pan since that's what I had and it came out fine. Added toasted pecans on top for some texture.

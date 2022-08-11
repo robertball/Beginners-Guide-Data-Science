@@ -1,0 +1,47 @@
+Recipe number:
+240101.txt
+Review:
+Rating:
+4
+dateLastModified:
+05/23/2015
+helpfulCount:
+3
+userID:
+mauigirl1
+Display Name:
+mauigirl
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/312893.jpg
+text:
+These seemed to be missing a key ingredient.....an egg. I made a second  batch the next day reducing the milk by 1/4 cup and added an egg with much better results. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+11/25/2019
+helpfulCount:
+0
+userID:
+12100982
+Display Name:
+Melody May
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7343223.jpg
+text:
+Delicious and easy
+Review:
+Rating:
+1
+dateLastModified:
+12/05/2018
+helpfulCount:
+0
+userID:
+16848221
+Display Name:
+Joy Wunderlich
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2856978.jpg
+text:
+Didn t turn out right

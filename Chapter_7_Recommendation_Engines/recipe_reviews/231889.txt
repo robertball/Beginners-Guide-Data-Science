@@ -1,0 +1,72 @@
+Recipe number:
+231889.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-05-20T05:51:33.69
+helpfulCount:
+4
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought potatoes in crab cakes would be an interesting twist, but they didn't turn out to be a great choice.  The potatoes overpowered the crab and gave the cakes a mushy, mealy texture, but the spices had good flavor.  The lemon aioli was just not good.
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-04T02:04:26.12
+helpfulCount:
+0
+userID:
+21523101
+Display Name:
+Cafe Olé
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+195
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7648006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delicious! Being a FT working mom, I had to make it quickly and left out the aioli sauce. Light, flaky and just the right amount of everything. I wouldn't change a thing.

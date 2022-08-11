@@ -1,0 +1,37 @@
+Recipe number:
+233557.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-09T18:55:22.67
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+How can you go wrong with bacon wrapped hot dogs  topped with fried pickles? You'll never feel the same about plain old boring hot dogs again after trying this one. If you have a deep fryer, these work great in those too. Great recipe and one I will make again.

@@ -1,0 +1,37 @@
+Recipe number:
+239565.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-17T02:03:46.147
+helpfulCount:
+0
+userID:
+20038534
+Display Name:
+InTheCouve
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+346
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved these brownies.  The flavor was excellent.  I only used the almond slivers on the top and I didn't toast them.  Still came out great.  I omitted the cream cheese topping.  These brownies were the first items to sell out at the bake sale.

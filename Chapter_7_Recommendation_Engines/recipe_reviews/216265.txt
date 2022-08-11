@@ -1,0 +1,37 @@
+Recipe number:
+216265.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-08-25T08:37:04.49
+helpfulCount:
+10
+userID:
+2445968
+Display Name:
+Rachel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good. The soup was light but filling and delicious.  It's a Swansons recipe but I always make chicken broth with water and chicken bouillon. Other than that I followed the recipe exactly. I cooked the pancetta in a 2nd pan to cut down on the cooking time. I would make this again.

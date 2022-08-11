@@ -1,0 +1,77 @@
+Recipe number:
+276477.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/07/2020
+helpfulCount:
+0
+userID:
+21304078
+Display Name:
+Steve Dilla
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7711259.jpg
+text:
+Made no changes family loved it will make again just the right taste not to tart but not to sweet
+Review:
+Rating:
+5
+dateLastModified:
+12/14/2019
+helpfulCount:
+0
+userID:
+25024899
+Display Name:
+Melissa Grinter
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8436388.jpg
+text:
+I make something like this with sriracha
+Review:
+Rating:
+5
+dateLastModified:
+02/05/2020
+helpfulCount:
+0
+userID:
+15710189
+Display Name:
+Tom Grabowski
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I just made this sauce just for dipping,but I am going  to use it on everything. This recipe is the best I have found. Easy and tasty what more do you need!!!
+Review:
+Rating:
+5
+dateLastModified:
+12/26/2019
+helpfulCount:
+0
+userID:
+26397987
+Display Name:
+Willie
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I made this sauce that went wonderfully with our pork loin roast and breaded mushrooms for a side dish.
+Review:
+Rating:
+5
+dateLastModified:
+12/19/2019
+helpfulCount:
+0
+userID:
+6076490
+Display Name:
+Coolzone
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was very easy to make and was very tasty.

@@ -1,0 +1,37 @@
+Recipe number:
+266000.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-10-03T12:09:40.477
+helpfulCount:
+0
+userID:
+2414000
+Display Name:
+Gretal Kinney
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+45
+favoritesCount:
+346
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3505135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly and these just did not turn out. They were way too dense and dry/crumbly tasting while also oily. The PB flavor was not as pronounced as I was hoping, either. I make muffins every week for my kids to pack as school snacks. These were the first ones that I had to just throw out because nobody would eat them.

@@ -1,0 +1,37 @@
+Recipe number:
+269988.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-19T18:33:39.237
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.19.19  Used low-fat vanilla (would do that again) Greek yogurt, raspberry preserves, and 1 Tbsp of the optional chia seeds.  I wanted to top with some fresh fruit, and the raspberries in the fridge needed to be used up, so that’s why the raspberry preserves are used.   Never have been super crazy about overnight oatmeal, but this one turned out well.  It was a bit thick, so I stirred in just a drizzle of FF half-and-half to get the consistency I like (personal preference).  The preserves brought a delicate and sweet flavor, simply a good balance with the oats and yogurt.  Nice, simple recipe, thanks for sharing!

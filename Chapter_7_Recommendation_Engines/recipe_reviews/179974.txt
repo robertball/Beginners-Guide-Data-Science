@@ -1,0 +1,72 @@
+Recipe number:
+179974.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-09-04T17:11:48.71
+helpfulCount:
+4
+userID:
+5320099
+Display Name:
+James G. Carr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3929432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have seen a version like this except sith shredded potatoes. Very giid
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-12T18:39:06.357
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+1096
+followingCount:
+0
+madeRecipesCount:
+2888
+favoritesCount:
+1948
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8440171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Along with 5-stars, this recipe deserves an award. Any recipe with three super easy ingredients and is ready in 15 minutes deserves a Nobel Prize. Definitely a keeper. Thank you for the recipe.

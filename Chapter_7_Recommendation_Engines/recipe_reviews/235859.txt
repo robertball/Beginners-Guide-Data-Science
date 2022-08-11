@@ -1,0 +1,72 @@
+Recipe number:
+235859.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-26T13:34:51.4
+helpfulCount:
+0
+userID:
+12003383
+Display Name:
+Wendy Chupp Gossett
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2378026.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  I added an extra 1/3 cup gruyere cheese to the recipe.  I also made a second batch with shredded beef instead of prosciutto and cooked it for 8 min in a pressure cooker.  Again, it was wonderful!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-08T05:12:51.557
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Add a bit of balsamic vinegar on top at the end. Thank you for sharing the recipe.

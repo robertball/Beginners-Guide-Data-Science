@@ -1,0 +1,37 @@
+Recipe number:
+238102.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-27T17:12:27.417
+helpfulCount:
+2
+userID:
+2022938
+Display Name:
+Kristen B.
+isPro:
+False
+followersCount:
+30
+followingCount:
+0
+madeRecipesCount:
+263
+favoritesCount:
+7614
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/440074.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! Easy to make and very quick, which was nice on a Friday night after work. I highly recommend this recipe, and we will definitely have it again sometime. My husband, six year old, three year old, and I all loved it, so I am sure this will be made again soon. Thank you for the recipe, Food Tourist!

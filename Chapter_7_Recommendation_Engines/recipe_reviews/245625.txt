@@ -1,0 +1,37 @@
+Recipe number:
+245625.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-09T20:37:18.173
+helpfulCount:
+1
+userID:
+20616369
+Display Name:
+CupcakeQueen3379
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved it! The one thing that I would change would be that you should kneed the dough only a teenie bit. It will help get the final lumps out. But Nutella?! Can someone say yum?!

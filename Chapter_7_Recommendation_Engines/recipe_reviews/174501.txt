@@ -1,0 +1,72 @@
+Recipe number:
+174501.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-26T10:14:20.367
+helpfulCount:
+3
+userID:
+1129071
+Display Name:
+ADZELL
+isPro:
+False
+followersCount:
+70
+followingCount:
+0
+madeRecipesCount:
+255
+favoritesCount:
+1139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/793684.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5 stars for an easy, cheap, fairly healthy meal that the kids even liked!  I did make a few slight changes: 1) added in some thawed chopped spinach to the sauce to increase the veggie intake 2) used a whole can of pumpkin puree 3) used 25 ounces of ravioli 4) used a whole 20 oz package of hot turkey sausage.  Very easy to assemble & dinner was ready to go in an hour.  I like that it's a really good way to "sneak" in veggies by using the pumpkin and of course the marinara sauce.  THANKS FOR SHARING!  :)
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-12T18:03:51.293
+helpfulCount:
+1
+userID:
+2840371
+Display Name:
+Kelly O'Neill
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty.  I recommend using about twice the amount of ravioli - this makes a ton of sauce. :)  My husband loves this.

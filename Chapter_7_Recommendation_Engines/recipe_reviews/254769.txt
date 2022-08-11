@@ -1,0 +1,72 @@
+Recipe number:
+254769.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-15T14:01:23.2
+helpfulCount:
+3
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+423
+followingCount:
+0
+madeRecipesCount:
+1034
+favoritesCount:
+1853
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious!  I served with a drizzle of balsamic vinaigrette and it was just fabulous.  This does make a LOT of salad, though- next time I will cut recipe in half.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-03T17:06:18.407
+helpfulCount:
+0
+userID:
+3748603
+Display Name:
+Emma Crawford
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+87
+favoritesCount:
+706
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2183584.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I boiled the barley in broth to kind of help it along with flavor, used lemon and lime simply because I had some that needed to be used. Other than that I made it exactly as written. It's delicious, but makes a LOT! You might want to cut the recipe in half.

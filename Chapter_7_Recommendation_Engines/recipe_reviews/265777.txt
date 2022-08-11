@@ -1,0 +1,107 @@
+Recipe number:
+265777.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-14T02:04:53.397
+helpfulCount:
+0
+userID:
+3820039
+Display Name:
+MicheleMN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+109
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will try this again, with all of the ginger and tomatoes (I was a bit shorthanded).  It was a bit thinner than I expected.  Definitely use all of the salt recommended.  Family liked it when it was served with a couple of chutneys on the side.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-21T23:47:30.397
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+190
+followingCount:
+0
+madeRecipesCount:
+532
+favoritesCount:
+696
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this for a change. Next time I will personally season heavier, but that could be a personal taste. We loved having our own personal Indian night at home. I made this along with Serendipity Bread (also on this site) which is a grilled flat bread. Yummy!
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-20T23:18:22.107
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found chana dal in my produce store so I knew I had to make this.  Tasty and easy.  I added spinach and a dollop of  yogurt to a few servings of this.. delicious both  ways.  Will be good cold weather comfort food

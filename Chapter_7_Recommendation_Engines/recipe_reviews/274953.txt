@@ -1,0 +1,37 @@
+Recipe number:
+274953.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-29T14:50:32.417
+helpfulCount:
+0
+userID:
+17791354
+Display Name:
+Miguel Arguelles
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3425691.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great! I've never tried the original blooming onion dish, but this is like a healthier alternative to onion rings, or, like he mentions in the vid, French onion soup turned into a solid bite. The proportions of the ingredients seem a bit off, as  I had far from enough to spread over all the onions, but that's a trivial adjustment to do.

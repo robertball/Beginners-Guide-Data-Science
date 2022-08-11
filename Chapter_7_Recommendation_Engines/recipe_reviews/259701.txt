@@ -1,0 +1,107 @@
+Recipe number:
+259701.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-29T05:40:33.933
+helpfulCount:
+0
+userID:
+24454665
+Display Name:
+Scott R
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5910184.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was liberal on the pumpkin portion. It made for a good flavour. When putting the batter in the muffin trays, I made the first batch as directed. All the cheese cake filling stayed on top. Second batch I added a lot less cake batter then filling, with more cake batter over top. This gave a better look and more mixture throughout the cupcake.
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-08T13:38:41.89
+helpfulCount:
+0
+userID:
+15067447
+Display Name:
+Donna Nickell Hancock
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1901654.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We liked the recipe but the pumpkin flavor was not there. These just tasted like a large Black Bottom ...which we love.  I plan to make them again adding more pumpkin puree or maybe some pumpkin spice.
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-30T14:54:48.737
+helpfulCount:
+0
+userID:
+22516200
+Display Name:
+Iola Small
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes, some had peanut butter icing with candies.

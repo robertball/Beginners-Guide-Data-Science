@@ -1,0 +1,72 @@
+Recipe number:
+62429102.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-09T16:45:01.33
+helpfulCount:
+0
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+555
+favoritesCount:
+871
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as stated and it is amazing!!! Great recipe, Baking Nana
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-17T06:17:47.56
+helpfulCount:
+0
+userID:
+2413605
+Display Name:
+Heather C
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+385
+favoritesCount:
+814
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/799109.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy focaccia!   I followed the recipe exactly and had to add a few tablespoons of flour but it's humid here.  Next time I'll allow the poolish to sit longer than three hours.   Will definitely make it again.

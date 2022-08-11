@@ -1,0 +1,149 @@
+Recipe number:
+108445.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-16T14:32:02.293
+helpfulCount:
+7
+userID:
+3753340
+Display Name:
+Saffron22
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy no bake pie that tastes very similar to key lime pie.
+Review:
+Rating:
+4
+dateLastModified:
+2010-06-11T07:54:33.127
+helpfulCount:
+4
+userID:
+3188159
+Display Name:
+Ashley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+87
+favoritesCount:
+355
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/203240.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This definitely was a change in our household... since I usually make something with chocolate!  It was a bit tart, but I suppose that's the way Margaritas are.  I didn't add any of the alcohol and it still set up just fine.  :)
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-07T07:37:18.357
+helpfulCount:
+3
+userID:
+3721542
+Display Name:
+Jennifer Davidson Dombroski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7480887.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My aunt made this pie and it was delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-13T23:18:22.24
+helpfulCount:
+0
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My store did not have a shortbread crust so I made Graham Cracker Crust I.
+I used 1 tbsp each tequila, triple sec and lime juice and added the zest of one lime.
+I whipped 1 cup of heavy cream for the Cool Whip.
+After 8 hours it was still a bit soft, 4 oz of mix may be better than 6 oz..
+It was very tasty, similar to key lime pie and the great dessert to end our Mexican themed dinner with.
+#AllrecipesAllstarsCanada
+#LetsTacoAboutIt
+#FacelessNoMore

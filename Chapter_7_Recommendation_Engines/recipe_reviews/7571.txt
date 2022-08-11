@@ -1,0 +1,37 @@
+Recipe number:
+7571.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-15T12:33:02.99
+helpfulCount:
+1
+userID:
+10024865
+Display Name:
+Joan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it for my son's wedding. Tweaked it a bit. Marvelous texture and flavour.

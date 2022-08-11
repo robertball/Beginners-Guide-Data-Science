@@ -1,0 +1,78 @@
+Recipe number:
+16083.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-11-14T15:53:33.997
+helpfulCount:
+35
+userID:
+200298
+Display Name:
+MALCOLMB14
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A great salad ... but heavy on the fat !!!
+
+Subsitute the sour cream for non fat sour cream and the mayo with nonfat natural yoghurt and the milk with skim milk ..the taste is still great !!
+
+Nutrition with substitutes based on four servings
+
+105 cal , 7 g protein, 1g fat, 21 g carbs
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-03T16:17:52.723
+helpfulCount:
+5
+userID:
+2415364
+Display Name:
+gapch1026
+isPro:
+False
+followersCount:
+273
+followingCount:
+0
+madeRecipesCount:
+637
+favoritesCount:
+713
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/47567.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A tasty salad with a mild dressing that blends nicely with the flavor of mandarin orange.  However, I did not have fresh mushrooms so subbed purchased garlic & butter croutons and also added a few dried cranberries.

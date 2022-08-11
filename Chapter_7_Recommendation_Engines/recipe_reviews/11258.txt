@@ -1,0 +1,37 @@
+Recipe number:
+11258.txt
+Review:
+Rating:
+4
+dateLastModified:
+2001-02-06T15:58:48.513
+helpfulCount:
+18
+userID:
+257948
+Display Name:
+ELLEN.L
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these over the Christmas Holidays and they were very good. I tried the recipe with both lemon and orange peel, and they were equally good.*Add more peel if you want more lemon flavour - I did! For a variation, I rolled the cooled dough into balls and pressed them down with a glass dipped in sugar. I think it made them extra special, and added a nice sweet crunch.

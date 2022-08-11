@@ -1,0 +1,38 @@
+Recipe number:
+217216.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-17T22:17:02.44
+helpfulCount:
+0
+userID:
+2980799
+Display Name:
+Ymmas911 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6645305.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+hits all the flavors my husband loves, made it without the benedictine(not something we keep in the house), but will look for it.
+Made for a great Father's Day cocktail!

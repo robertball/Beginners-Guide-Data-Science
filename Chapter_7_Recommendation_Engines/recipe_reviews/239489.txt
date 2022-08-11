@@ -1,0 +1,72 @@
+Recipe number:
+239489.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-06T02:05:22.23
+helpfulCount:
+3
+userID:
+20071153
+Display Name:
+Robyn_Bird8401
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good!
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-24T19:01:10.53
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This wasn't my favorite. I didn't taste the chocolate or even the bbq sauce much at all. The beer overpowered everything for me. I added extra chili powder and some water to try and mellow the beer taste. If you like beer based chilis, you may like this more than I did.

@@ -1,0 +1,73 @@
+Recipe number:
+241053.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-12T19:52:40.673
+helpfulCount:
+2
+userID:
+17737686
+Display Name:
+Culinary momma
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I grated some lemon zest and added it in with the cake mixture and also the egg with condensed milk mixture.  On top of the filling, I put some fresh raspberries, then the crumble topping and baked it.  All these additions made the bar very flavorful.  Great to take to work and share. Would make these again.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-22T03:32:50.46
+helpfulCount:
+1
+userID:
+1951898
+Display Name:
+Phyllis Trinke Funk
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+118
+favoritesCount:
+361
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4503147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to use a Butter Pecan cake mix, because that is all that I had on hand, but it turned out perfectly.  the lemon flavor was good, and would likely be more intense with a blander cake mix like the yellow mix called for.  Otherwise I did everything according to the recipe and loved it.  I think I would intensify the lemon flavor a bit by adding some lemon extract or maybe a teaspoon or so of lemon zest
+The second time I made it with a white cake mix and added extra lemon zest and extract.  Made it an even better dessert. All the grandkids loved it, even the youngest ones.

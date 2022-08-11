@@ -1,0 +1,37 @@
+Recipe number:
+9694.txt
+Review:
+Rating:
+1
+dateLastModified:
+2009-11-30T23:08:22.313
+helpfulCount:
+5
+userID:
+2987700
+Display Name:
+sky
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was so excited to try these with some lovely almond paste my partner bought me. They were a total disaster. The "dough" was more like pancake batter consistency, so I doubled the flour but after 30 minutes it was still very runny. I poured it onto the parchment and baked for 25 minutes, but they weren't done, and even after 35 minutes they did not brown up. They ran and flattened out. The flavor was okay, but they stuck to the parchment (!?) and to our teeth. I will not try again.  Almond paste is too expensive. Perhaps the creator of the recipe left out some important step?

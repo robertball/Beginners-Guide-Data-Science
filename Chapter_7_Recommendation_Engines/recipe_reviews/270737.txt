@@ -1,0 +1,37 @@
+Recipe number:
+270737.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-20T17:31:53.83
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not the prettiest of sandwiches but the flavor is great. The pesto adds a lot of flavor. I don't care for bread so I always appreciate an open-faced sandwich.

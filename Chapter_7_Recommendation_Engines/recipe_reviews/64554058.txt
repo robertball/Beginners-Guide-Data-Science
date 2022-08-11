@@ -1,0 +1,37 @@
+Recipe number:
+64554058.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-23T17:29:25.317
+helpfulCount:
+0
+userID:
+2147635
+Display Name:
+momscaasi
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+149
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4460318.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Unfried egg roll. Amazing!

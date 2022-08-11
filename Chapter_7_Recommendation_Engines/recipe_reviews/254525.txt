@@ -1,0 +1,37 @@
+Recipe number:
+254525.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-21T23:27:52.58
+helpfulCount:
+0
+userID:
+2335223
+Display Name:
+Irene
+isPro:
+False
+followersCount:
+171
+followingCount:
+0
+madeRecipesCount:
+530
+favoritesCount:
+726
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2394505.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe notes say SPAM can be used (weird!), but as I don't eat meat I used veggie weiners (since it's an imitation of another processed meat). I liked the idea of this dish. I used a few cloves of garlic, minced, instead of garlic salt. I didn't chop the melon into very small pieces--just a preference--and I just boiled them until they felt just a little tender, and stir fried until they were softer yet with a little crunch.

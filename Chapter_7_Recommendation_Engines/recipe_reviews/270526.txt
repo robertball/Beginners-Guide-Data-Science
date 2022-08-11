@@ -1,0 +1,72 @@
+Recipe number:
+270526.txt
+Review:
+Rating:
+2
+dateLastModified:
+2020-02-23T07:31:19.81
+helpfulCount:
+0
+userID:
+23714241
+Display Name:
+classic lays
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7011871.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+too much egg.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-20T18:37:21.55
+helpfulCount:
+0
+userID:
+11622163
+Display Name:
+debbiehwest
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to make, I double the sugar to make it sweeter because my raspberries were extra tart .

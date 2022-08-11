@@ -1,0 +1,37 @@
+Recipe number:
+246468.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-09T19:02:57.537
+helpfulCount:
+1
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2221
+favoritesCount:
+2566
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you are a chocoholic, you will love this recipe.   I made it in a spring form pan lined with parchment which may have not been the best method.  As the cake cooled, the sides shrunk inward.  It is very light and rich, so a little goes a long way.

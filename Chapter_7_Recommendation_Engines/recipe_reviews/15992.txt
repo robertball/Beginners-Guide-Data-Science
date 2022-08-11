@@ -1,0 +1,107 @@
+Recipe number:
+15992.txt
+Review:
+Rating:
+5
+dateLastModified:
+2000-12-23T09:23:30.06
+helpfulCount:
+13
+userID:
+233334
+Display Name:
+ATARA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was quick and easy to make and delicious
+Review:
+Rating:
+4
+dateLastModified:
+2007-12-25T19:47:04.613
+helpfulCount:
+10
+userID:
+590890
+Display Name:
+Heather Pulley
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+862
+favoritesCount:
+896
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8396206.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I chose this rum cake because it had frosting instead of a glaze and it did not disappoint us!  It tasted better the 2nd day, although was still good on day one.  It was moist and had just a faint rum taste, which I liked.  I don't generally like cakes that taste like they were soaked in rum.  Excellent recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2002-12-28T10:04:07.903
+helpfulCount:
+6
+userID:
+724568
+Display Name:
+L YEAGER
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I served this cake for desert Christmas day and thought that it was good, but not exceptional. The chocolate frosting did not sound good to me so I just sprinkled the finished cake with powdered sugar.

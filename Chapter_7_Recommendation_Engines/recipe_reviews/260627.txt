@@ -1,0 +1,37 @@
+Recipe number:
+260627.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-11T00:30:00.263
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that in the ingredient list is calls for the mushroom stems and caps to be diced. Don't dice your caps or you won't have a vessel for your filling. These were pretty good and they turned out very pretty but I'm not sure I was loving the carrots in the mix. With that being said, if using carrots I recommend using red or green bell pepper instead so there is more color in the finished dish. Overall good recipe and one I will make again.

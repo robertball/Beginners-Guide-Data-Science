@@ -1,0 +1,72 @@
+Recipe number:
+255115.txt
+Review:
+Rating:
+1
+dateLastModified:
+2016-10-19T04:12:46.9
+helpfulCount:
+6
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe as written and did not like it.  After adding Lawry's Seasoned Salt, fresh cracked pepper and garlic powder, I found that it still needed something else to improve the taste. I then added a can of diced tomatoes, a sprinkle of sugar to reduce the acidity of the tomatoes and 1/2 cup of mozzarella cheese. The addition of all these other ingredients made it edible but not something I would make again.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-22T12:52:34.597
+helpfulCount:
+0
+userID:
+10329677
+Display Name:
+Marla Noseworthy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5126854.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this dish, only changes made....I used half mild sausage and half hot.  Definitely gives it that kick!   Instead of serving with salad, we always serve with collard greens.  YUM :)

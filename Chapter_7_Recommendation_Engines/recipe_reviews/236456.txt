@@ -1,0 +1,74 @@
+Recipe number:
+236456.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-20T23:12:39.093
+helpfulCount:
+0
+userID:
+12979624
+Display Name:
+Rose
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty!  Make sure you use gluten free corn flakes if you are on the FODMAP diet.  I made 1/3 of the recipe and made a few changes. I added 1/8 tsp. cinnamon and did not add the sugar.   The cinnamon spiced it up and it is sweet enough to eat without the sugar.  
+
+Thanks, All Recipes for having a FODMAP recipe in your collection.  I would love to see more.
+Review:
+Rating:
+3
+dateLastModified:
+2016-08-29T02:16:33.23
+helpfulCount:
+0
+userID:
+11977638
+Display Name:
+Irene Recuber
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+205
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2227284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as stated, but I thought it was too sweet.  EVen my husband who loves sweets thought so, also.

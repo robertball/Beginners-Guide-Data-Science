@@ -1,0 +1,181 @@
+Recipe number:
+254683.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-19T23:35:38.157
+helpfulCount:
+2
+userID:
+8627920
+Display Name:
+Gina Genovese
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3622730.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So I worked at Orange Julius when I was a teenager and I have to say this drink tastes pretty dang close to the original. I’m crazy about this recipe—don’t change a thing.
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-04T18:09:29.983
+helpfulCount:
+2
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm always looking for smoothies/shakes for my young daughter, and this one whipped up nicely. I like adding a pastured egg to our shakes--it makes them frothy and adds nutrition, so this recipe appealed to me. I made several changes. I used a frozen banana, orange juice in place of the milk and OJ concentrate, ice cream instead of regular cream and only a tablespoon of sugar. It was fantastic, and DD said, "mmm mmm." This only made 2 small servings for me.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-01T23:09:28.693
+helpfulCount:
+1
+userID:
+12332485
+Display Name:
+Ghost15026
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe with some adjustments for our preferences.  Seemed unnecessarily sweet to us.  
+
+-Doubled the ice (Icier consistency & reduces sweetness),
+ -Reduced sugar content to 1/4 cup of Splenda (to cut calories), -Omitted egg (food safety reasons),
+-Frozen instead of fresh banana (creamier, icier consistency)
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-23T15:56:38.78
+helpfulCount:
+0
+userID:
+2430357
+Display Name:
+Kristens
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+145
+favoritesCount:
+470
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/152842.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good start, but way too sweet. For the 2nd try, I used 4 oranges that were kinda bitter and we didn't want to eat them, 1 c whole milk, 2T sugar, 1 good banana, big splash of pasteurized egg whites. Served over crushed ice.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-26T19:56:12.7
+helpfulCount:
+0
+userID:
+16540468
+Display Name:
+michele attempts to cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+505
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7418409.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+super yummy !!

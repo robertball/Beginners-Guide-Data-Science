@@ -1,0 +1,37 @@
+Recipe number:
+246337.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-02T19:40:00.013
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were BOOZY! I love cooking with Sherry and the alcohol cooks off but the flavor is still dominant. If you are sensitive to the taste of alcohol in your food or do not like the taste of Sherry then I highly recommend you cut it in half in this recipe. I personally loved it but I can see how it might be overbearing for some.

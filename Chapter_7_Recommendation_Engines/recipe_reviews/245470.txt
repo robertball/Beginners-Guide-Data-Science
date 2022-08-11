@@ -1,0 +1,72 @@
+Recipe number:
+245470.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-22T00:25:36.26
+helpfulCount:
+0
+userID:
+22989602
+Display Name:
+simply me
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only change I made was I used a pack of bacon instead of 6 slices. Turned out great and my family loved it
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-24T19:36:58.243
+helpfulCount:
+0
+userID:
+5475794
+Display Name:
+Glorious Baker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is more labor intensive than most meals I cook, but the flavor was delicious. I don't have herbes de Provence, so I just used Italian seasoning. I served this with rice and put the sauce on top.

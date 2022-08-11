@@ -1,0 +1,37 @@
+Recipe number:
+255241.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-22T02:03:02.08
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+612
+favoritesCount:
+982
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe with the only change being I made it in my instant pot. I sautéed the sausage, added the onion, broth, seasonings and then added the sirloin. If you're adding soy sauce you don't need salt. I did add mushrooms as the submitter suggested could be done. I cooked it on high for 20 minutes. I would not call this the best at all. It was rather bland.

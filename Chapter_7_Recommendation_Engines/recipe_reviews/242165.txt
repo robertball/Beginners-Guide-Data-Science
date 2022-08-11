@@ -1,0 +1,72 @@
+Recipe number:
+242165.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-17T22:44:35.11
+helpfulCount:
+2
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was pretty good. It had a grown up taste to choc pb. It also didnt have that waxy after taste like the store bought stuff. I used dark choc chips and natural pb with honey. With the honey already in the pb, I cut it back to a 1/3 of the amount suggested. I used the change servings button to make 8 servings, or 1/4 of the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-04T14:10:43.983
+helpfulCount:
+1
+userID:
+10428493
+Display Name:
+Judy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Use 3 tablespoons of cocoa powder for a dark chocolate taste.

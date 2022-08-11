@@ -1,0 +1,147 @@
+Recipe number:
+165369.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-09-25T11:27:44.827
+helpfulCount:
+1
+userID:
+3017352
+Display Name:
+hatetocook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/49.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Added honey and any other fruits we might have on hand.
+Review:
+Rating:
+5
+dateLastModified:
+2008-07-23T16:16:59.457
+helpfulCount:
+1
+userID:
+3033636
+Display Name:
+KATHY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+121
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/107001.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+o so deicious on a hot summer day.  This is tops in my book!
+Review:
+Rating:
+5
+dateLastModified:
+2008-12-31T08:53:46.617
+helpfulCount:
+0
+userID:
+2743996
+Display Name:
+Elizabeth S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good way to seek fruit into a meat and potato eater's diet... just present it as a desert and they will ask for second.
+Review:
+Rating:
+5
+dateLastModified:
+2008-07-28T08:21:09.007
+helpfulCount:
+0
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1714
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This didn't remind me of a peach pie, but it was still very good.
+
+I used actual lowfat vanilla yogurt that I froze last night, as I wanted to use 
+what I had on hand without spending out more money. I didn't want to use vanilla wafers to cut back on calories.
+
+Very good. Tasty and filling. I will make this again often. Peaches and yogurt are cheap this time of year.

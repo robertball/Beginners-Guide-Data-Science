@@ -1,0 +1,37 @@
+Recipe number:
+12229.txt
+Review:
+Rating:
+1
+dateLastModified:
+2007-11-07T11:07:44.78
+helpfulCount:
+4
+userID:
+2406836
+Display Name:
+Rebecca
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This didn't turn out for me well for me at all.  I found the flavor to be too egg-y.  Even with the spices, the pie smelled like eggs.  Perhaps someone else will have better luck.

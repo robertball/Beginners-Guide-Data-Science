@@ -1,0 +1,74 @@
+Recipe number:
+241691.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-08T15:59:13.993
+helpfulCount:
+1
+userID:
+10420999
+Display Name:
+Tony DeNova
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3066907.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my wife's office Christmas party and they loved it. The one change I made was adding orange zest to ramp up the orange flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-26T17:32:30.987
+helpfulCount:
+1
+userID:
+21107799
+Display Name:
+Allan Wolfe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4375046.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you Mrs Fisher0729 for an exceptional recipe.  I made this recipe to take with us to a Christmas party.  One of the guests has traveled all over Europe.  She complimented me in that she said that she had never tasted a tiramisu as good as this in all of Europe!  Wow.
+
+This tiramisu is not too sweet.  The mascarpone does well to balance out the texture and sweetness.  I used a dark chocolate powder using a tea strainer to do a medium dusting of the chocolate on top of each layer.  I also waited until I was going to serve the dish before dusting the top with chocolate for a better presentation.

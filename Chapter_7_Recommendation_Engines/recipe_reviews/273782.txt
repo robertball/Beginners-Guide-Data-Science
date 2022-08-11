@@ -1,0 +1,107 @@
+Recipe number:
+273782.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-02T15:26:38.937
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and delicious! My husband does not like tomatoes so I used salsa instead. I do like tomatoes but have to admit that I think the salsa worked better and added more flavor. What a great way to use up leftover chicken!
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-29T15:08:30.32
+helpfulCount:
+0
+userID:
+15348738
+Display Name:
+Lynda S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+598
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-25T00:28:16.91
+helpfulCount:
+0
+userID:
+20629151
+Display Name:
+Lorrie Jones
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5780365.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes whatever, absolutely beautiful and easy to do. very tasty.

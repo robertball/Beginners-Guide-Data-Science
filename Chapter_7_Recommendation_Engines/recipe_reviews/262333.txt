@@ -1,0 +1,38 @@
+Recipe number:
+262333.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-26T20:05:57.95
+helpfulCount:
+0
+userID:
+3630913
+Display Name:
+K_Oberholtzer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow! What a vitamin and protein packed dish! The only change I made was in the spices, not a huge fan of spicy food and I didn’t add the corn. Served with rice it was a huge hit.
+Thank you for sharing.

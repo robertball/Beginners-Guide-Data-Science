@@ -1,0 +1,72 @@
+Recipe number:
+229013.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-13T10:38:09.983
+helpfulCount:
+9
+userID:
+891803
+Display Name:
+MAMALEIGH
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+184
+favoritesCount:
+476
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/658179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My picky teenage son and I are in the middle of a 21-day Daniel Fast, which limits our diet to fruits, vegetables and whole grains.  It's tough to find recipes that meet these criteria while satisfying my husband and two youngest children.  I'm so glad I found this recipe!  I started with crushed tomatoes, as good fresh tomatoes are hard to come by this time of year.  I omitted the red wine and corn starch, but otherwise followed the recipe.  I was concerned about making a tomato sauce without sugar; I've never done it any other way.  However, my fears were unfounded.  I have never before tasted such a flavorful pasta sauce!  I didn't have to puree the sauce due to the crushed tomatoes, and my finicky kids all gobbled it up all of the chunky vegetable goodness.  I served it over whole wheat spaghetti, with sauteed zucchini for me and meatballs for the non-fasters.  My son thought it tasted so good that he was worried that it wasn't allowed on the fast.  Thanks for sharing this great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-06T21:40:16.757
+helpfulCount:
+1
+userID:
+5281808
+Display Name:
+Rosalind Brazel
+isPro:
+False
+followersCount:
+63
+followingCount:
+0
+madeRecipesCount:
+82
+favoritesCount:
+531
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3973919.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this sauce for a dinner party attended by a vegetarian-- and served meat on the side. No complaints! Delicious and easy recipe.

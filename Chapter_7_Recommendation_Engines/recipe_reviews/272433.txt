@@ -1,0 +1,37 @@
+Recipe number:
+272433.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-06T13:09:55.987
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After reading the recipe over several times, I decided on one change. Instead of 13 cups of water, I used 8 cups of vegetable stock and only 5 cups of water and that was a good decision in my opinion. Maybe not but I feel it would have been on the bland side with only water.

@@ -1,0 +1,72 @@
+Recipe number:
+237108.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-04-16T18:00:50.273
+helpfulCount:
+3
+userID:
+13491784
+Display Name:
+z
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was easy to make, I added dried basil and oregano on the top, cooked it longer, and only used 1.5 jars of marinara, and extra mozzarella for the top. Delish!
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-16T02:57:35.52
+helpfulCount:
+3
+userID:
+13481269
+Display Name:
+Alison Mattey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2383259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe for second night of seder as an alternative to Salmon which I also served.  It was so easy to make.  I stir fried some mixed peppers and added to the layers.  I only used 2 jars of marinara sauce, which was enough.  Next time I may add spinach to the ricotta which I think would also be very nice.  My guests absolutely loved it, you would never have known it was made with matzo.

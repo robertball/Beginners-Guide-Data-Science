@@ -1,0 +1,37 @@
+Recipe number:
+255544.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-13T16:40:24.2
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I used fresh boiled chicken. This was pretty good. The ranch seemed to overpower to me so I ended up adding more taco sauce to tame the ranch. Not a pretty dip but it was easy and tasty.  It doesn't make a whole bunch so you might want to double the recipe if making for more than a couple of people. On that note, if making a single batch I will only use half of the ranch packet the next time I make this and only use the full packet if I am doubling the recipe.

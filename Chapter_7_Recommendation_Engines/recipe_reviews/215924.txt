@@ -1,0 +1,72 @@
+Recipe number:
+215924.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-10-13T09:16:00.73
+helpfulCount:
+9
+userID:
+3169061
+Display Name:
+guntheros
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+141
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good.  I didn't bake it though, just threw it all together in the skillet!
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-20T20:48:08.74
+helpfulCount:
+0
+userID:
+3312929
+Display Name:
+Kellie Barr
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6099814.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A staple at our house.

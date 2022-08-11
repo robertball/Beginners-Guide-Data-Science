@@ -1,0 +1,72 @@
+Recipe number:
+237155.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-17T13:40:01.4
+helpfulCount:
+1
+userID:
+13636636
+Display Name:
+Bickerstoff
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would half the ginger unless you really like ginger. I threw in a Banana to thicken it, but I think I'll try an avocado next time. Also, it is easy to swap out the agave for honey.
+Review:
+Rating:
+3
+dateLastModified:
+2015-04-12T13:54:12.71
+helpfulCount:
+0
+userID:
+2133578
+Display Name:
+Liz Pond
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+161
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3460033.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have all the exact ingredients on hand, so I substituted frozen mixed berries for the blueberries, Fuji apple for the green apple, red grapes for the green grapes, and everything else the same. It was more like a slushy. Next time I think I will peel the apple as I did not enjoy the chunky pieces of skin.

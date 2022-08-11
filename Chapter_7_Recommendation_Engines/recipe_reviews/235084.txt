@@ -1,0 +1,72 @@
+Recipe number:
+235084.txt
+Review:
+Rating:
+1
+dateLastModified:
+2015-11-21T11:18:41.967
+helpfulCount:
+0
+userID:
+1548884
+Display Name:
+northern exposure
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+118
+favoritesCount:
+459
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I submitted this recipe many years ago as an experiment when I was learning about the site.  It is awful.  Do not make it.  I tried to delete, but it keeps reappearing.  Sorry everyone.
+Review:
+Rating:
+2
+dateLastModified:
+2013-11-04T05:10:48.07
+helpfulCount:
+0
+userID:
+7853359
+Display Name:
+Joey Joan
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+561
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7645128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was so excited to make this and was expecting so much more. Non of my guest liked it and they all tried it. To bland, the texture was off.Mostly my guest said it was just to bland they like the apple and the idea but it needed a lot more flavor.

@@ -1,0 +1,72 @@
+Recipe number:
+222772.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-06T18:13:05.183
+helpfulCount:
+7
+userID:
+1722818
+Display Name:
+CoOkInGnUt
+isPro:
+False
+followersCount:
+6987
+followingCount:
+0
+madeRecipesCount:
+151
+favoritesCount:
+643
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4517136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Soooo Yummy! Can't wait to make this again, It was a huge hit at dinner tonight! Thanks for sharing :)
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-14T04:26:42.337
+helpfulCount:
+1
+userID:
+11001148
+Display Name:
+LeAnn's recipes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious cake.  It was definitely more like cake than a traditional shortcake.  Great flavor, easy to make.  I cut it in half which worked perfectly.

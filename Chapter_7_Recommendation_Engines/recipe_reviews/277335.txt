@@ -1,0 +1,107 @@
+Recipe number:
+277335.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-12T23:26:30.217
+helpfulCount:
+1
+userID:
+22449256
+Display Name:
+Carrie Hunter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+little bit dry. maybe add some sour cream or yoghurt?
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-09T05:17:41.317
+helpfulCount:
+0
+userID:
+18474952
+Display Name:
+Diana Vara
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5561526.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are not dry! Gotta make sure you use all the melted butter orange juice  mixture. I added a bit of  maple syrup in place of a A couple of tablespoon of sugar.  I sprinkled raw sugar on top of each one to give it texture and sweetness.  I baked them for 16 minutes and took them out since they looked golden brown on the edges.  They look great and are fluffy and soft.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-03T18:01:01.137
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8905
+followingCount:
+0
+madeRecipesCount:
+1113
+favoritesCount:
+2273
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these as directed, including the glaze. The batter seemed like it could use a tad bit more flour. I made homemade "tulip" cupcake liners that I made out of parchment paper. Had I not used these, I think the batter would have gone over the top of regular liners. These are tasty. They are not very sweet without the glaze, so if you like that type of muffin, you will probably enjoy these. Me, I have a sweet tooth, so I preferred them WITH the glaze.

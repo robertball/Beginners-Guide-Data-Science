@@ -1,0 +1,37 @@
+Recipe number:
+37843.txt
+Review:
+Rating:
+2
+dateLastModified:
+2005-11-10T15:27:56.45
+helpfulCount:
+9
+userID:
+1312322
+Display Name:
+Angela Sheppard
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+148
+favoritesCount:
+80
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1424626.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So bland.  I thought it would be basic but good but all it was was bland

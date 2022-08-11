@@ -1,0 +1,37 @@
+Recipe number:
+256178.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-07T00:07:06.52
+helpfulCount:
+0
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+74
+followingCount:
+0
+madeRecipesCount:
+370
+favoritesCount:
+1322
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy and tasty Gazpacho!  All you need is some dicing skills to get this meals quickly to the table and impress.  I thought the proportions of the ingredients held up well since I halved the serving size.  Thanks for this easy way to enjoy Gazpacho!

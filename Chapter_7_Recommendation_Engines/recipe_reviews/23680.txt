@@ -1,0 +1,40 @@
+Recipe number:
+23680.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-21T21:32:32.58
+helpfulCount:
+0
+userID:
+1451015
+Display Name:
+Allyson 
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+151
+favoritesCount:
+798
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2611974.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cheers, or as we say in Wales....Iechyd Da!
+I had to raid my fridge...I mean our liquor stash to find the ingredients for this recipe.  I didn't have sloe gin, just normal gin (not sure what the difference is?).  And obviously the only fruit I had to garnish with was a pear.  Extremely tasty.
+#allrecipesallstarscanada
+#facelessnomore

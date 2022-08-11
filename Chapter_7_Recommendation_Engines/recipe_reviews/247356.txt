@@ -1,0 +1,37 @@
+Recipe number:
+247356.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-26T16:39:34.12
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've never had a dark 'n stormy before. After trying this recipe, it won't be my last. Thank you for the recipe.

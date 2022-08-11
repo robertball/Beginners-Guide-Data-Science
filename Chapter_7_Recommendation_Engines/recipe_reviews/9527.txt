@@ -1,0 +1,107 @@
+Recipe number:
+9527.txt
+Review:
+Rating:
+4
+dateLastModified:
+2001-01-13T07:28:39.48
+helpfulCount:
+25
+userID:
+244666
+Display Name:
+RONNIE JONES
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this cake for my brother, who remembered our mother baking it for Christmas - many more then 40 years ago!  The cake is good but the prep time is more like hours than minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-17T19:39:05.597
+helpfulCount:
+4
+userID:
+14672722
+Display Name:
+Angelita
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to make a Japanese dish for my son's international feast for boys scouts. I made this in no time considering the very little time I had after I got off from work and be able to make it to the meeting. It turned out great, easy and best part everyone LOVED IT! Thanks!
+Review:
+Rating:
+3
+dateLastModified:
+2018-12-25T21:58:42.557
+helpfulCount:
+0
+userID:
+13795507
+Display Name:
+Carol Newborn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1177919.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cake gets a 5 star for presentation and taste.  But it is so dry I had to make a rum sauce and rum whip cream to go with it.  I don't know why it was so dry.  The recipe did not tell you how many cake pans to use or what size.  I used 2 -10"pans and it took forever for it to cook in the middle.  I even added a cup and a half of brandy over the cake before icing it.  Still a little too dry.  I will try again making thinner layers and more layers

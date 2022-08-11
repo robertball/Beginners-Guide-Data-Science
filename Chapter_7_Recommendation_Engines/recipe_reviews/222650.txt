@@ -1,0 +1,72 @@
+Recipe number:
+222650.txt
+Review:
+Rating:
+2
+dateLastModified:
+2012-07-01T14:51:42.62
+helpfulCount:
+1
+userID:
+5592069
+Display Name:
+ChamilliaTCuppe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/544903.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was disappointing. As a vegetarian, I love a good bean salad. Some of the best bean salads I know of happen to be very simple as well, so the lack of ingredients didn't surprise me. However, this bean salad is BLAND. I am not posting a photo because my "simple" salad turned out to be a tad more complex - I kept adding different ingredients and herbs in order to salvage the salad to no avail. Don't make this salad - there are so many better ones.
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-21T16:36:07.067
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this. I made as written but feel you need to cut back on the oil and add more vinegar. This was simple and straight forward and I will make it again for sure.

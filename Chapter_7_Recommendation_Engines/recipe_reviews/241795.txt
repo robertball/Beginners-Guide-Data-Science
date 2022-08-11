@@ -1,0 +1,72 @@
+Recipe number:
+241795.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-29T14:26:57.637
+helpfulCount:
+3
+userID:
+2956754
+Display Name:
+Peter Nichol
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2290006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No I did not change it I followed the recipe the first time. Got to say that  I'm not a veggie but I have to say it was very nice.    I will be making it again I even stuffed the veggie Saugsage mix into skins and I have say they turned out really well. I made them into six packs and sold them at a bring and buy sale at the local  school. I have been asked for the recipe by quite few people. I have even put fresh mint in them. I'm a sucker for fresh mint and I have to say it turned out really nice as well.  Dont be afraid to play around with different herbs.
+Review:
+Rating:
+1
+dateLastModified:
+2018-07-19T20:17:58.307
+helpfulCount:
+0
+userID:
+7661450
+Display Name:
+Ruby Jane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+165
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Dry and tasteless!

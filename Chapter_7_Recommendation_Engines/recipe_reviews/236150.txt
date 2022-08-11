@@ -1,0 +1,72 @@
+Recipe number:
+236150.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-16T19:14:14.59
+helpfulCount:
+4
+userID:
+4114123
+Display Name:
+Sherry Jean Stanford
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1246974.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Changed it up a little. Used Aidells chicken and apple sausages instead. I warmed and slightly seared the sliced sausage in a skillet.And I caramelized the walnuts with some butter and brown sugar in a frying pan. My husband, myself and our four kids loved it. Even the 3 yr. old and 4 yr. old ate every last bite.
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-18T14:18:49.957
+helpfulCount:
+0
+userID:
+8278746
+Display Name:
+Becky1234
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+116
+favoritesCount:
+247
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1026767.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!  I grilled the Chicken Apple Sausage (a brand I bought at Aldis)  and let it cool while I assembled the salad.  Otherwise I made everything as written, and it was great!  A very light, flavorful, healthy dinner on a Summer Evening.

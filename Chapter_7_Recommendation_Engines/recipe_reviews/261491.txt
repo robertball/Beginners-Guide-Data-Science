@@ -1,0 +1,72 @@
+Recipe number:
+261491.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-11T22:36:30.56
+helpfulCount:
+1
+userID:
+21489012
+Display Name:
+kate
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4663781.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! I made a few changes. First, I used a flank steak and made my own marinade with lime juice, oj, fresh jalapeños, cilantro, vinegar,  olive oil, fresh garlic, s&p. I also subbed plain brown rice for the Spanish  rice suggested in the recipe. Trust me, there are plenty of flavors that you won’t miss it. I wanted something a little cleaner/less sodium.  This dish would also be excellent with black beans, but the pintos were delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-21T16:29:38.28
+helpfulCount:
+0
+userID:
+2441345
+Display Name:
+Grandma Beckner 
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+346
+favoritesCount:
+581
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6827587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband absolutely loved it.  The combination of flavors hit all the right notes with him.  I used NY strip instead of beef tenderloin, and I also grilled red/green peppers, the onion, and the tomato.

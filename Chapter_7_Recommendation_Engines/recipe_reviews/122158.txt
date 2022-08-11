@@ -1,0 +1,72 @@
+Recipe number:
+122158.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-07-18T20:48:46.47
+helpfulCount:
+6
+userID:
+1564325
+Display Name:
+Daisy K
+isPro:
+False
+followersCount:
+24
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+1154
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/367761.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great recipe!  Very easy to do on the grill or in the oven... I tried both ways.  The jalapenos don't add much heat so those who may be wary due to the peppers can make it without worry!  Thanks for sharing the recipe!  Would be great with the addition of yellow squash as well.
+Review:
+Rating:
+5
+dateLastModified:
+2012-06-19T19:23:30.21
+helpfulCount:
+2
+userID:
+3489995
+Display Name:
+Clarissa Chapman Spehl
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+177
+favoritesCount:
+427
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/498109.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to leave out the peppers since I was serving two small children that would not tolerate them.  I made this for my family and my brother's children and they all gobbled it up.  Four kids that like a vegetable recipe?  Five stars for sure!  I also confess that I couldn't wait and sauteed them instead of grilling but the flavor was so amazing that I had to rate this.  I did NOT expect it to taste so very good.

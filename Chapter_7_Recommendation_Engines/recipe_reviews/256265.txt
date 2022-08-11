@@ -1,0 +1,107 @@
+Recipe number:
+256265.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-21T19:57:31.867
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cauliflower was $5 a head and there is only two of us so I left it out and just did the other veggies. This worked good for me as written but using club soda would have been even better. There is no flavor in the batter so you really either need to add some or make sure you have a dipping sauce.
+Review:
+Rating:
+2
+dateLastModified:
+2020-01-22T07:15:12.913
+helpfulCount:
+0
+userID:
+23782894
+Display Name:
+Hariet Brown
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6979763.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Our sons, if you can really call them that, well, our twin boys is more like it these days. They came home after their first semester of college and had some news. They turned vegan. Said “these big farms, they are destroying the earth.” That’s not how we raised these boys, but we try to keep an open mind. They picked this recipe out for us to cook together. It was great getting back into the kitchen again. Cody flicking warm oil on Brody, Brody howling like a coyote when the veggies hit the fryer. The boys really seemed to enjoy these when all was said and done, but I just couldn’t see why we couldn’t spoon a healthy helping of butter onto them!!
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-25T19:58:45.757
+helpfulCount:
+0
+userID:
+13293900
+Display Name:
+Victori4me
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4111808.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it twice. It was good both times with a couple of my own variations.

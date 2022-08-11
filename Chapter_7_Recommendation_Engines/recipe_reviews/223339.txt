@@ -1,0 +1,72 @@
+Recipe number:
+223339.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-20T19:31:25.447
+helpfulCount:
+1
+userID:
+10010190
+Display Name:
+norrisclan7
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/895548.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The dough was very dry and I had to smash the balls a little to make them flatten. But they are not dry in the end. They have great flavor and are very chewy in the middle with a crunchy outside. They are wonderful with tea.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-19T14:45:51.707
+helpfulCount:
+0
+userID:
+5492803
+Display Name:
+Peggy Hesse
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1688
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2330328.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was surprised that the recipe had no shortening, but it works!  Rather than only 36 cookies, I got 100!  The cookies definitely taste of anise, so if you are not an anise lover, they may be too strong. As the submitter said, they are crispy on the outside and chewy on the inside. I found the cookies baked a bit better if I slightly flattened the sugared balls.

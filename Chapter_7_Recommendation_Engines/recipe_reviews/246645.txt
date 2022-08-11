@@ -1,0 +1,37 @@
+Recipe number:
+246645.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-09T22:33:43.017
+helpfulCount:
+0
+userID:
+15924621
+Display Name:
+Aaron A
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+176
+favoritesCount:
+265
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6362904.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a pretty thick boneless short rib instead of korean style cut. Marinated for 4-5 hours. The marinade gives a good flavor and the ribs were tender indeed. My only complaint was that I wish the ribs had more of the marinade flavor! Maybe using the thinner cut will prove to be more flavorful. I will definitely be teying this again when I find some. Great share!

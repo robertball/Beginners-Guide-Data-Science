@@ -1,0 +1,72 @@
+Recipe number:
+268504.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-11T20:26:13.28
+helpfulCount:
+1
+userID:
+23972761
+Display Name:
+Jim Schropp
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5573272.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+"Cover the plate of mozzarella sticks with plastic wrap and freeze for 30 minutes. Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper. Set the timer for another thirty minutes."   Not clear.  Do you freeze them for 30 min. or a total of 1 hour?
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-23T21:17:34.777
+helpfulCount:
+0
+userID:
+6638327
+Display Name:
+Corinna Munroe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5086740.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn’t read everything and ended up using the brown rice flour we shall see. As well I’m thinking of just keeping them frozen till we want to eat them, not sure what they’ll be like reheated...

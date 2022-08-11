@@ -1,0 +1,37 @@
+Recipe number:
+261706.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-30T16:39:37.583
+helpfulCount:
+0
+userID:
+16183727
+Display Name:
+Debbie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are delish! I used vanilla almond yogurt as that's what I had on hand. I didn't have the vanilla sugar so I left it out. The batter was dry but these are so fluffy. Definitely making these again.

@@ -1,0 +1,41 @@
+Recipe number:
+162588.txt
+Review:
+Rating:
+2
+dateLastModified:
+2008-03-26T22:22:24.21
+helpfulCount:
+0
+userID:
+2368136
+Display Name:
+Samitestar
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+107
+favoritesCount:
+259
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/17.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Bland with a topping of gluey Caesar Dressing.
+
+I think with a different salad dressing and a nice garlic/balsamic/black pepper and sea salt rub for the steak, this would be tasty.
+
+But as is I wont make this again.

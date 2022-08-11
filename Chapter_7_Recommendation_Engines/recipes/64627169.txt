@@ -1,0 +1,46 @@
+URL:
+https://www.allrecipes.com/personal-recipe/64627169/acid-extraction-of-collagen-from-lamb-tendon/
+Title:
+Acid Extraction of Collagen from Lamb Tendon Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+10 grams Lamb tendon
+2.5 L 0.5M acetic acid solution
+10% w/v NaCL solution
+
+Directions:
+1.	The tendon is likely covered in a layer of other tissue. Remove the sheath and just use the tendon (white).
+2.	Cut or mince the tendon into small pieces.
+3.	For the Initial extraction:
+a.	Prepare 250 ml of 0.5M acetic acid solution per gram of tendon prepared in step 2.
+b.	Mix the acid solution with the minced tendon and stir for 48 hours.
+4.	Centrifuge the suspension at 10,000xg for 30 minutes.
+5.	Separate pellet and supernatant. If you are not doing the fibril extraction, you may discard the pellet.
+a.	For fibril extraction, please refer to the original document. We usually skip this step.
+b.	For molecular extraction, add an equal volume of 10% w/v NaCl to the supernatant and stir for 1 hour. Currently, we add a smaller volume of higher concentration salt solution, but the important part is that the final solution is 5% w/v NaCl.
+6.	In order to remove the salted out collagen from solution, centrifuge solution at 10,000xg for 30 minutes. Discard supernatant and save the pellets.
+Note: usually, the salted collagen should be easily collectable without centrifuging and you can simply scoop it out of the solution and skip this step.
+7.	Re-dissolve the pellet in 0.25M acetic acid for 24 hours. The volume of the solution should be approximately 1/2 of the volume of the solution in step 5.
+Note: to get the salted pellets to dissolve completely, you might need to add more 0.25 M acetic acid to the solution. It’s useful to measure the concentration in this step to avoid diluting the solution to less than ~3 mg/ml. You can increase the concentration of the acid if necessary, as long as the pH of the solution doesn’t go below 3.
+8.	Dialyze against 6-8 changes of 17.5mM acetic acid, with at least 1 hour between water changes.
+9.	Measure the concentration and label the solution. The product is an acidic collagen solution, which can be stored in 4C for many days.
+
+Submitter: 
+Wistopher Walken
+Description: 
+Type  1 collagen is extracted from lamb tendons through acid dissolution of the sample and subsequent purification.
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+12 h
+Ready in:
+60 h
+Number of servings: 
+1
+Nutritional Facts:
+NA

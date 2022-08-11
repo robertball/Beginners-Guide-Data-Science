@@ -1,0 +1,107 @@
+Recipe number:
+254842.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-10-03T12:16:32.41
+helpfulCount:
+0
+userID:
+18226084
+Display Name:
+Jonell Combs
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3692358.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not a fan.  I didn't like the greasiness of the pesto &/or the taste.  Just my preference.
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-01T23:00:08.043
+helpfulCount:
+0
+userID:
+9013446
+Display Name:
+Renny Sabina
+isPro:
+False
+followersCount:
+133
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2520757.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would make this again - tasty and cheap meal. I also took other folks' advice and added some sun dried tomatoes.
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-28T10:49:33.497
+helpfulCount:
+0
+userID:
+15286147
+Display Name:
+Shelle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Add sundried tomatoes

@@ -1,0 +1,72 @@
+Recipe number:
+238833.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-01T17:29:43.07
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty good! My kids couldn't even tell there were apples in them, but I think it added a nice moistness to the brownie. These are more cakey than fudgy, but still good.
+Review:
+Rating:
+3
+dateLastModified:
+2017-04-03T20:23:17.28
+helpfulCount:
+0
+userID:
+21693274
+Display Name:
+Kelly Rose
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it but it wasn't the best I've ever had. My family liked the Cocoa Apple Cake the best.

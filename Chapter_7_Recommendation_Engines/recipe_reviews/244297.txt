@@ -1,0 +1,72 @@
+Recipe number:
+244297.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-14T18:15:28.04
+helpfulCount:
+1
+userID:
+7604264
+Display Name:
+Mary Klug Fahnlander
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5031903.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and good.  I added 2 tsp of chicken bouillon to the water the quinoa was cooked in and used coleslaw dressing instead of ranch.  I also added some chopped dried cranberries for  color and another flavor layer.
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-07T11:13:56.927
+helpfulCount:
+1
+userID:
+9536096
+Display Name:
+Sugarplum
+isPro:
+False
+followersCount:
+322
+followingCount:
+0
+madeRecipesCount:
+226
+favoritesCount:
+727
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3927438.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good and healthy basic salad.  I didnt have any walnuts on hand so I substituted pecans but otherwise I followed the recipe.

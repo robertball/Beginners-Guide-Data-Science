@@ -1,0 +1,107 @@
+Recipe number:
+240321.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-11T21:51:08.89
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All in all this was a great recipe but I do however feel it needs more spices to bring out the flavor. Super simple though so play around with it and adjust it to your liking...
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-05T03:04:19.737
+helpfulCount:
+0
+userID:
+5824824
+Display Name:
+Loni Diedrick
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1594002.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe, I doubled the salsa part of it and added a few extra guajillo chiles, one pasilla, and threw in a Chile ancho. Also, I added a little achiote  to the blended ingredients, just for fun. I substituted 8 chicken thighs with skin instead of chicken breast because I prefer chicken on the bone. Just tastes better in my opinion. Once it cooked in salsa for an hour I pulled the chicken thighs out of the salsa and put them on a baking sheet to broil for a few minutes to give it a little more of a grilled flavor. Then I threw them back in the salsa to serve with Mexican rice. Excellent recipe and I will make it again!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-16T01:26:52.33
+helpfulCount:
+0
+userID:
+20915690
+Display Name:
+Chef Roy
+isPro:
+False
+followersCount:
+49
+followingCount:
+0
+madeRecipesCount:
+211
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4484693.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love love loved this recipe. Followed it to the T and I think it came out perfect!

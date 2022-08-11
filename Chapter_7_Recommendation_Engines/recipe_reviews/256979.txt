@@ -1,0 +1,110 @@
+Recipe number:
+256979.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-04-08T20:11:31.43
+helpfulCount:
+2
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I chose to make these open like a tart. I added two small hatch chilis to the corn mixture. The presentation was very nice and the taste of the corn mixture was very good. The empanada rounds browned nicely but unfortunately they were hard and dry.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-24T22:21:25.487
+helpfulCount:
+0
+userID:
+8495039
+Display Name:
+Denise Lavache
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make these the traditional way, folding them over and pinching the seams together.
+These freeze amazingly well!! I usually make a double batch and freeze it. 
+
+To Freeze -assemble, lay out on cookie sheet on wax paper without cutting slits or egg wash and put it in the freezer.  Once frozen toss in freezer bag.   When ready to bake take out desired amount, thaw, egg wash, cut slits and bake at 400° for about 14-15 minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-25T22:41:52.947
+helpfulCount:
+0
+userID:
+15243220
+Display Name:
+Beth M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I made the filling as written. I rolled out empanada rounds, cut them into fourths and put them into mini muffin tins. Perfect! I think it would also be delicious with phyllo cups.

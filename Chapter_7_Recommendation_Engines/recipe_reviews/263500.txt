@@ -1,0 +1,37 @@
+Recipe number:
+263500.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-23T21:39:10.967
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this exactly as written and it turned out extremely watery. I'd say to just leave out the broth but it really needs that for flavor. My suggestion is to steam the cauliflower in the microwave  a few minutes first to get rid of some of the excess moisture. I added more parm and stuck it under the broiler to try and revive it but it was still just way too watery. It has potential but as written did not work for me. Sorry.

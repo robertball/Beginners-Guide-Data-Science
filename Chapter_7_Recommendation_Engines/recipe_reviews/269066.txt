@@ -1,0 +1,37 @@
+Recipe number:
+269066.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-16T00:50:29.793
+helpfulCount:
+0
+userID:
+9016843
+Display Name:
+timake456
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used 3 eggs

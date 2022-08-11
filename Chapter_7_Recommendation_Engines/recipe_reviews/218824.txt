@@ -1,0 +1,74 @@
+Recipe number:
+218824.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-23T19:59:07.18
+helpfulCount:
+11
+userID:
+7399601
+Display Name:
+Bobbie Jo Hatch
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7186220.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We had Mexican Night with our neighbors and I had to bring an appetizer. Searched this wonderful site and found Sizzlin' Santa Fe Dip. And so glad I did. Everyone raved about this dish and wants the recipe. I did change a few things. Because I knew not all my neighbors like hot and spicey I used mild sausage and 1 jar of mild salsa. I did use 1 can of refried beans. I also put 1 cup of shredded cheese into the mix before I baked it and used another cup on top. I did not put the chopped tomatoes or the green onions on until I arrived at the party.
+
+This was quick, easy and delicious. I will certainly make this dish again and again but will use the hot and spicey ingredients for my family.
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-11T19:08:06.943
+helpfulCount:
+1
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6670
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2542
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent as written. Great for gatherings when you want something different from the normal appetizers.

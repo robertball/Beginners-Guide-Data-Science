@@ -1,0 +1,107 @@
+Recipe number:
+258042.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-16T15:35:45.653
+helpfulCount:
+3
+userID:
+24554028
+Display Name:
+keelan clough
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7433625.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Honestly it looks fun, but tasted pretty bad. ??
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-10T06:05:47.987
+helpfulCount:
+2
+userID:
+22034401
+Display Name:
+Sexy Uniorn Horn
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was delicious yumm
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-20T18:55:37.01
+helpfulCount:
+1
+userID:
+24770917
+Display Name:
+kiki
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Lol this is awesome.

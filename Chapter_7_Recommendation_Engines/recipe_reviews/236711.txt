@@ -1,0 +1,177 @@
+Recipe number:
+236711.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-06-07T05:44:40.7
+helpfulCount:
+2
+userID:
+9266708
+Display Name:
+Paula Todora (Paula T)
+isPro:
+False
+followersCount:
+136
+followingCount:
+0
+madeRecipesCount:
+142
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5594110.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used ground chicken instead of pieces of cut chicken and no mushrooms. It was good, but I don't like cheese on my soup, so I didn't add any. The salsa verde added a nice taste to the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2014-03-22T07:26:02.937
+helpfulCount:
+2
+userID:
+4679651
+Display Name:
+Life Tastes Good
+isPro:
+False
+followersCount:
+259
+followingCount:
+0
+madeRecipesCount:
+223
+favoritesCount:
+476
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2789776.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just okay for us. It could use some more seasonings.
+Review:
+Rating:
+4
+dateLastModified:
+2014-06-29T12:45:37
+helpfulCount:
+1
+userID:
+3044977
+Display Name:
+Jennifer C. Martin
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2403554.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good. Liked the addition of mushrooms. Added half and half instead of evaporated milk. Preferred more spices than was called for.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-24T22:10:11.547
+helpfulCount:
+0
+userID:
+13493440
+Display Name:
+Rachael Hansen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+497
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1445226.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fantastic and easy. Just add salt! Also, we didn't add cilantro because we didn't have any.
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-26T14:18:53.42
+helpfulCount:
+0
+userID:
+7655109
+Display Name:
+Jill Johnson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7392726.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Better second day and even after freezing.

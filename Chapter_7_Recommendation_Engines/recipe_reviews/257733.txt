@@ -1,0 +1,107 @@
+Recipe number:
+257733.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-29T07:17:48.2
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are so darn good and not overly sweet.  They have a fruity sweetness, definitely unique. This recipe is spot on, too. They whip up in no time, one bowl, no mess and were ready in exactly eight minutes. Using the ube flour instead of the yam gives them a pale purple color rather than bold. If you're looking for bright purple you might add some food coloring because these are very light colored. Thank you for this fantastic recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-28T17:09:38.583
+helpfulCount:
+0
+userID:
+8233754
+Display Name:
+vjvali21
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+192
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies were easy to make and delicious! I added 3 drops each of blue and red food coloring since another review mentioned that the color was a bit pale purple. Thank you for sharing this recipe. It’s definitely worthy of repeats in our home!
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-19T19:42:49.267
+helpfulCount:
+0
+userID:
+23970377
+Display Name:
+Trish Martin Mayro
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5571513.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe according to the directions and was very pleased. The taste and texture of these cookies are satisfying. The recipe is quick and easy to make.

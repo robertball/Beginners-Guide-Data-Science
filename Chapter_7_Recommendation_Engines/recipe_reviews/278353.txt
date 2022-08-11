@@ -1,0 +1,37 @@
+Recipe number:
+278353.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-06T00:19:21.173
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12440
+followingCount:
+0
+madeRecipesCount:
+432
+favoritesCount:
+913
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my boys for dinner and for the most part they liked it. Their biggest gripe was that it was too runny. I baked for 30 minutes as directed, checked it and it was too "watery" so since I had to pick up my son from practice I reduced the oven temp to 180 to prevent overcooking and served when we came home nearly an hour later. It was still runny. As for the rest of the recipe, I did use canned, diced, fire-roasted chiles instead of fresh and reduced the garlic powder to 1 teaspoon.

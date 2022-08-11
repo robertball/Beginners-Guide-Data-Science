@@ -1,0 +1,72 @@
+Recipe number:
+31803.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-02-23T17:11:05.107
+helpfulCount:
+32
+userID:
+1785711
+Display Name:
+CariCat
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2675129.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with a snowshoe hare... it  wasn't bad... it was certainly edible... but there was nothing SPECIAL about it. in fact, I think it was on a par with rabbit that's just slow-roasted with no spicing preparation. I found it rather bland. Don't think I'll make it again.
+Review:
+Rating:
+2
+dateLastModified:
+2012-04-02T03:11:47.33
+helpfulCount:
+1
+userID:
+8597026
+Display Name:
+Sandra G
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+93
+favoritesCount:
+1230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pleasant.  I like rabbit and have some very good recipes, but I didn't feel that this was worth a place.

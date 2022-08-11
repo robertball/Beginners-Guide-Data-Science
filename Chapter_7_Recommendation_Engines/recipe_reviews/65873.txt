@@ -1,0 +1,37 @@
+Recipe number:
+65873.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-04-11T10:50:42.89
+helpfulCount:
+8
+userID:
+1299684
+Display Name:
+SSAPORITO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good, but the cloves were a little too strong for me.

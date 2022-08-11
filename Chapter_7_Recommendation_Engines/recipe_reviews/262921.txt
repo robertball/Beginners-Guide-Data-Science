@@ -1,0 +1,39 @@
+Recipe number:
+262921.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-24T02:21:27.95
+helpfulCount:
+0
+userID:
+18148193
+Display Name:
+Mania
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+318
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4532260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my 2nd time making this recipe. It is a great meal for lunch or supper as it very light and refreshing. Turn up or down the to your tastes. We like “hot”.  
+
+Marianne

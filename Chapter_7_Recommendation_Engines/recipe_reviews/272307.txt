@@ -1,0 +1,37 @@
+Recipe number:
+272307.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-04T12:21:03.97
+helpfulCount:
+0
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6665
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Addictive ooey-gooey goodness, apples on steroids. This is so easy to make. Thank you for the recipe.

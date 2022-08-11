@@ -1,0 +1,37 @@
+Recipe number:
+240172.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-23T03:26:33.453
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great as written! It maybe could have used a little more cook time for the flavors to get acquainted but overall a great recipe. We ended up adding another shot of moonshine but we are boozy like that :)

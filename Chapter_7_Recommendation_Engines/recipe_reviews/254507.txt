@@ -1,0 +1,72 @@
+Recipe number:
+254507.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-18T17:49:58.65
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9651
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Scaled recipe back to 1 rack of ribs and I skipped the  sauce preparation due to personal preference. We prefer our sauce on the side. This method of smoking worked great for us and we've smoked a great deal of ribs. I wasn't sure about the vinegar/worcestershire combo but it kept the ribs nice and moist. This one is a keeper. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-11T14:12:10.433
+helpfulCount:
+0
+userID:
+12284918
+Display Name:
+kmiller748
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+awesome recipe, very flavorful and fall off the bone tender!!!

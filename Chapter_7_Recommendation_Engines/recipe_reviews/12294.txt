@@ -1,0 +1,37 @@
+Recipe number:
+12294.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-12-27T11:26:43.81
+helpfulCount:
+9
+userID:
+762896
+Display Name:
+RAMACDO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+delicous, this is gret, its so sweet, you could eat them all day

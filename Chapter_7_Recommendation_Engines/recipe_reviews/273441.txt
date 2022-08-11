@@ -1,0 +1,32 @@
+Recipe number:
+273441.txt
+Review:
+Rating:
+4
+dateLastModified:
+08/03/2019
+helpfulCount:
+0
+userID:
+10615903
+Display Name:
+Patrice
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6094567.jpg
+text:
+Wonderful
+Review:
+Rating:
+5
+dateLastModified:
+12/22/2019
+helpfulCount:
+0
+userID:
+7305415
+Display Name:
+Yancando
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7809656.jpg
+text:
+This was so well received by my diabetic husband! I used Splenda and a splash of vanilla extract. I put in half cup of water instead of a third so I had to add a bit of cornstarch to thicken it. He says better than syrup!

@@ -1,0 +1,72 @@
+Recipe number:
+230997.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-03-24T09:50:10.663
+helpfulCount:
+5
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12229
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As written this recipe uses an odd method.  I read the directions several times and decided to approach this another way. It seemed so odd to make a potato crust and then break it up to add to the eggs. I used a 10" cast iron skillet, heated with a little oil and browned the potatoes stove top until they were fully cooked and crispy.  2 eggs for 1/2 cup cream didn't seem like enough so I upped the eggs to 4 and scrambled them with the cream.  Poured the egg mixture over the potatoes, topped with the diced ham and the cheese and baked at 350 for about 15 minutes.  The end result was fine but certainly not a quiche.
+Review:
+Rating:
+3
+dateLastModified:
+2013-02-09T22:17:12.917
+helpfulCount:
+4
+userID:
+3554543
+Display Name:
+NJFoodies
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+249
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/182360.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Recipe error - step 1 says to cook the potatoes to make the quiche shell, but then step 4 says add the potatoes to the egg and cream?!  I only realized this during cooking.  Dur.  But I had only used about 3/4 of one 20-oz package of hash browns.  Usually I use 3 eggs and 1 cup of cream in my quiches, so this seemed like a very small amount and didn't really make up a quiche, more like a pie - and I still don't know what it would have been like had I added potatoes in step 4.  Also, needs more seasoning, like onions, salt and pepper.

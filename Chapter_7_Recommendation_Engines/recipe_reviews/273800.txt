@@ -1,0 +1,37 @@
+Recipe number:
+273800.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-24T01:22:28.287
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+244
+followingCount:
+0
+madeRecipesCount:
+1337
+favoritesCount:
+2842
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hi!  You won’t need a TBS of season salt.  Just put the skewers on the grill and shake away.    Make sure that marinade comes to a boil and enjoy!!! :) PS: I use an aluminum foil pan that you can throw away when you are done.

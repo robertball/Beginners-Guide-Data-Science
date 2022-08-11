@@ -1,0 +1,37 @@
+Recipe number:
+238985.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-04-11T06:08:41.057
+helpfulCount:
+0
+userID:
+26967985
+Display Name:
+waterbaby
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8495768.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hubby said this cookie would win in a TV cooking show!  I substituted King Arthur brand gluten free flour, added the optional chocolate chips, with a chocolate chip on top each cookie. Would definitely make this again.

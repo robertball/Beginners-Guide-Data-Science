@@ -1,0 +1,72 @@
+Recipe number:
+93749.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-10-03T18:04:43.12
+helpfulCount:
+21
+userID:
+3904822
+Display Name:
+Nancy Crocilla Johnson
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I got only 38 cookies from this recipe.  My cookie cutter must be twice the size. Over all the cookies came out good.
+Review:
+Rating:
+5
+dateLastModified:
+2009-04-22T05:29:00.937
+helpfulCount:
+18
+userID:
+1765805
+Display Name:
+ruthey
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+357
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/253665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies were simple and quick to put together. The taste was light and sweet, but did not feed 60.

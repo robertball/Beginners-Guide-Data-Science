@@ -1,0 +1,72 @@
+Recipe number:
+233239.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-08-21T19:04:03.98
+helpfulCount:
+3
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+273
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3415
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought these potatoes were good, but, honestly nothing special.  I like the idea of cooking them on the grill beside some grilled chicken because it prevented me from heating up the oven.  My husband did the grilling, but, if I was preparing it as a novice griller it would have helped if the recipe had instructed me whether to cook direct or indirect heat and what temperature range to grill.   My husband grilled on indirect heat on medium high and it was done in about 30 minutes.  He did have to move it to direct heat after 20 minutes because the potatoes were still very firm. I think these would be good if they had a little more seasoning and maybe some olive oil added.
+Review:
+Rating:
+3
+dateLastModified:
+2018-02-17T23:59:27.12
+helpfulCount:
+0
+userID:
+14401001
+Display Name:
+Crystal Catoe Butcher
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1518450.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+30 minutes is not enough time.  I liked the flavor.  I used olive oil instead of oil spray

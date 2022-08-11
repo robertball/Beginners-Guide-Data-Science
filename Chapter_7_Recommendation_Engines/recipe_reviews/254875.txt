@@ -1,0 +1,37 @@
+Recipe number:
+254875.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-27T13:04:22.693
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was cleaning out the fridge one day and this recipe was the perfect solution.  I didn't make the dijon mayo because I had an open jar of pesto I needed to use up.  So I mixed it with some mayo  and served it with the chicken and veggies on bagels.  Really great flavors from the grilled chicken and the creamy funky cheese paired so well with the bright roasted tomatoes, salad, and pesto mayo.

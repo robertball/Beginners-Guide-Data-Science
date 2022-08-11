@@ -1,0 +1,32 @@
+Recipe number:
+157003.txt
+Review:
+Rating:
+5
+dateLastModified:
+02/27/2008
+helpfulCount:
+3
+userID:
+2654476
+Display Name:
+gttaluvit
+photo:
+global/features/2414.gif
+text:
+YUMMY!
+Review:
+Rating:
+3
+dateLastModified:
+11/11/2008
+helpfulCount:
+3
+userID:
+mom2sofia
+Display Name:
+BugNBear
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1305906.jpg
+text:
+It was just okay.

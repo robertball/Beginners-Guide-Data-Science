@@ -1,0 +1,107 @@
+Recipe number:
+231700.txt
+Review:
+Rating:
+1
+dateLastModified:
+2014-08-19T20:42:28.563
+helpfulCount:
+11
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+519
+favoritesCount:
+2124
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I hate to give a low review, but I didn't have much luck with this recipe. First off, the directions aren't very clear. How many carrots should I be using? Bunches of carrots vary greatly in size.  I'm assuming we're to leave the carrots whole? I ended up cutting the carrots in thirds cross-wise, then I cut the thicker ends in quarters lengthwise so the carrots were in thinner pieces and would cook evenly. Even still, 20 mins isn't even close to being enough time for these to cook. I ended up cooking them for 40 mins and they were still slightly underdone. I was running out of time for dinner, so I ended up eating them anyway. A full teaspoon of the spices is way too much, especially the nutmeg. I thought this sounded like a lot from the get-go, so I erred on the side of caution and only used 1/2 tsp each of nutmeg, cinnamon and sugar and that was still a lot.  I wasn't a fan of the I Can't Believe it's Not Butter spray. I kept having to spray more throughout the cooking process.  These would be better made with butter or oil.  I made the recipe as written (except for half the spices) and they had a bitter taste. I don't know if this was caused by the butter spray or the nutmeg.  The carrots also didn't have much in the way of a "glaze" on them. They were more dry than anything. This also isn't enough for 4 servings.
+Review:
+Rating:
+1
+dateLastModified:
+2015-04-04T05:30:17.183
+helpfulCount:
+1
+userID:
+11243319
+Display Name:
+Sue Watson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for the cinnamon and nutmeg.
+Review:
+Rating:
+1
+dateLastModified:
+2018-07-09T01:23:24.763
+helpfulCount:
+0
+userID:
+12113136
+Display Name:
+United765
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is terrible. Do not waste your time or food on it. We couldn't even eat it because we really didn't want the taste in our mouths! Do yourself a favor and avoid it at all costs!

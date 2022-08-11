@@ -1,0 +1,72 @@
+Recipe number:
+241961.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-08T12:27:55.047
+helpfulCount:
+2
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I mixed the ingredients all together. The hot salsa makes this a winner.
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-17T04:31:48.787
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a great idea to add nutritional yeast to guacamole. I used seasoned nutritional yeast (the kind I mix up for bouillon substitute) and it added so much flavour it was out of this world. Thank you neonroserecipes for your idea!

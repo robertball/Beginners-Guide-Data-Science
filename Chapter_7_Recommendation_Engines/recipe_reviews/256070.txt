@@ -1,0 +1,37 @@
+Recipe number:
+256070.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-12T12:31:53.863
+helpfulCount:
+1
+userID:
+12081574
+Display Name:
+Lubna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used roasted peanuts. After roasting I removed the thin covering around the peanuts, and soaked them overnight. Then I blended them with a date for sweetness and a pitch of salt. I changed the water before blending, wonder if this changes anything about the flavour. I used a very fine sieve to strain the milk. I added the milk to my morning coffee. It was creamy, the colour is rich, and the texture was almost similar to dairy milk. I'm likely to make it again.

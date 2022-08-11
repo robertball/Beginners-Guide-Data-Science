@@ -1,0 +1,107 @@
+Recipe number:
+268991.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-05T16:21:01.473
+helpfulCount:
+1
+userID:
+16958298
+Display Name:
+Rose
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love one pan meals and this recipe does not disappoint.  I did not use the hot sauce as I can't eat nightshade veggies but I did not miss it.  Be sure to turn the chicken while broiling so the bacon browns on both sides.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-18T23:50:18.2
+helpfulCount:
+0
+userID:
+9251278
+Display Name:
+Jean Riesch
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6240618.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it as written and we loved it!!  My husband is on the keto diet and raved about it!!  Thanks for a great recipe!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-20T02:50:31.663
+helpfulCount:
+0
+userID:
+23874595
+Display Name:
+Marlo Menti
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5504625.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great dinner and the directions are easy to follow. I substituted with uncured bacon. Really enjoyed the hot sauce at the end. Tons of flavor on this meal.

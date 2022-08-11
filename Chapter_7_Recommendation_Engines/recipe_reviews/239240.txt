@@ -1,0 +1,37 @@
+Recipe number:
+239240.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-30T04:10:44.56
+helpfulCount:
+1
+userID:
+516054
+Display Name:
+KGora
+isPro:
+False
+followersCount:
+8026
+followingCount:
+0
+madeRecipesCount:
+376
+favoritesCount:
+1874
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2505934.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The ingredient list screams healthy, which it is, and the final result 'looks' refreshing but the taste was rather bland. This drink was probably created for those watching both sugar and grain intake. If you are not one of those, a natural sweetener would help tremendously. If you like to get your greens in but also like a drink with a touch of sweetness I recommend the addition of a fruit, dates or even some stevia. I don't keep safflower oil on hand so I substituted flax oil. I'm not sure why the description states that this tastes like a banana smoothie.  I tasted no resemblance. I give this 2 stars for taste and 4 stars for health.

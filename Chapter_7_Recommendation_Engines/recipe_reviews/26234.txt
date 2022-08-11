@@ -1,0 +1,37 @@
+Recipe number:
+26234.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-12-26T17:23:33.213
+helpfulCount:
+7
+userID:
+386866
+Display Name:
+Jennifer
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+217
+favoritesCount:
+1161
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1903944.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were good, but a little sweet & I think I might add more anise oil next time.  My neighbor makes these every Christmas & let me borrow her cookie stamps.  Her recipe is a little more cake-like & less sweet.  I'm not sure which way is traditional, but I think I'll experiment a bit more with this recipe.

@@ -1,0 +1,148 @@
+Recipe number:
+240000.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-10T08:24:55.393
+helpfulCount:
+4
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2820
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We love a summer meal of fresh corn on the cob and chilled sliced tomatoes, so I felt pretty certain that we'd like this any time of the year, and we did.  I used Birds Eye®  frozen baby gold and white corn and when combined with multi-colored grape tomatoes, this quick salad not only tasted good, but it looked good!  Simple ingredients for a simple salad with great results.
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-07T17:29:28.84
+helpfulCount:
+2
+userID:
+2572533
+Display Name:
+Jody Schoth
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1176504.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great!  It's definitely a keeper recipe.  I did make one major change, I used canned corn because I already had it.  
+
+One can is 1-1/2 cups, so if you make this change, you will either have a more acidic salad or you can add a second can if you want the corn to be center stage.  I went with the first, cause I absolutely love tomatoes.  I did not reduce anything else, but next time I will likely reduce or skip the apple cider vinegar since it's already so acidic.
+
+This is a great basic dish, and you can go through your fridge/freezer/pantry and add more to change it up, or use up other items you have on hand.  
+
+This would be great as a bread topping as well.
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-07T14:27:34.507
+helpfulCount:
+2
+userID:
+1060346
+Display Name:
+Thisni Caza
+isPro:
+False
+followersCount:
+30
+followingCount:
+0
+madeRecipesCount:
+412
+favoritesCount:
+892
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/843945.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this salad with frozen corn, purchased basil, and homegrown tomatoes. I enjoyed this salad, but next time will add finely sliced scallions or just a bit of finely diced red onion...and maybe use a milder vinegar. I ate this salad as my 'carb' with a bacon-wrapped turkey tenderloin...delicious complement!
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-20T05:15:14.787
+helpfulCount:
+0
+userID:
+5001412
+Display Name:
+ummbarhuma
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+142
+favoritesCount:
+389
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5737738.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice side salad, but a little plain tasting.  I ended up adding some green onion. Next time I might use canned corn instead of frozen.

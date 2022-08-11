@@ -1,0 +1,37 @@
+Recipe number:
+267807.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-13T19:07:54.267
+helpfulCount:
+1
+userID:
+5118896
+Display Name:
+fabeverydayblog
+isPro:
+False
+followersCount:
+153
+followingCount:
+0
+madeRecipesCount:
+474
+favoritesCount:
+309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and easy giblet gravy. We opted not to add the giblets back to the gravy (just used them for the broth), as my family is not a fan of chopped giblets.

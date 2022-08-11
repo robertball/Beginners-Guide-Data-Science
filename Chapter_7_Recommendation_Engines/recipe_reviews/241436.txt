@@ -1,0 +1,37 @@
+Recipe number:
+241436.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-24T21:12:49.523
+helpfulCount:
+0
+userID:
+1666981
+Display Name:
+venesueca
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Even the non-vegans loved it! My sister-in-law has always loved carrot cake, but when she went vegan and gluten-free this year she thought she’d have to give up on it. I was determined to find a good recipe to make it for her, and I’m so glad I stumbled on this one! The only adjustment I made was to substitute coconut milk yogurt for the soy yogurt (because my store didn’t have soy). Since I did that, I didn’t add the coconut flakes because I was concerned that it would be too much coconut. It turned out SO well! The cake was “springy” (not dense or dry) and delicious, and everyone absolutely loved it. I will definitely be making this again.

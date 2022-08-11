@@ -1,0 +1,72 @@
+Recipe number:
+260678.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-27T23:47:01.583
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! I didn't even bother draining the  grease or removing the sausage from the skillet. As soon as the sausage was done I dumped in the flour and started making the gravy. Instead of one large pre-baked pizza crust I decided to do individual pizza's and this worked really good.  This is a great recipe! Thanks for sharing!
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-04T07:33:56.01
+helpfulCount:
+0
+userID:
+26397877
+Display Name:
+Sandy Souza
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7238286.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used jimmy deans maple sausage  not big on spicy stuff

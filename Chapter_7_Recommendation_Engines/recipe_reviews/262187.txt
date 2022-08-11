@@ -1,0 +1,72 @@
+Recipe number:
+262187.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-17T00:40:49.34
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sometimes simple is best and recipes like this prove that. I served this as a side dish and it turned out really good. I do think it could use some heat so next time I will add a pinch of crushed red chili flakes.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-27T00:07:54.673
+helpfulCount:
+1
+userID:
+13946362
+Display Name:
+Gemma
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and delicious.  I followed the instructions exactly. We had it to accompany a stir-fry but it  I would make it anytime as an interesting and pretty way to serve spinach.

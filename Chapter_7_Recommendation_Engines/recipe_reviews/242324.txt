@@ -1,0 +1,72 @@
+Recipe number:
+242324.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-20T14:01:40.45
+helpfulCount:
+1
+userID:
+21431877
+Display Name:
+Mario Cormier
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4472103.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I pretty much followed the recipe except I had already cooked the squash so to make the soup I  blended and heated the ingredients.  Turned out pretty good but not as good as the one we had at the Rodds Hotel the evening of my wife's Christmas party.   But I'll probably do it again looking to add more flavor.
+Review:
+Rating:
+2
+dateLastModified:
+2015-10-28T08:24:52.287
+helpfulCount:
+0
+userID:
+1171191
+Display Name:
+Phoebe
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+390
+favoritesCount:
+2761
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/572879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Unfortunately this does not stand up to the other butternut squash soups I have tried.  However, keeping people have different tastes, hopefully this recipe will find a receptive audience.  VERY easy to make!

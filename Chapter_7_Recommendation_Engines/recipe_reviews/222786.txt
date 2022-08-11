@@ -1,0 +1,37 @@
+Recipe number:
+222786.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-13T16:50:47.43
+helpfulCount:
+3
+userID:
+3230308
+Display Name:
+WoundedEgo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/276354.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was seeking something like the Chutney I'm accustomed to and this is not it. This is indeed a "sweet" Chutney rather than the infinitely more delicious spicy Chutney I would gladly die for. Having said that, if you cook this with your eggs, along with a cut up mushroom, you are in business for breakfast.

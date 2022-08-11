@@ -1,0 +1,72 @@
+Recipe number:
+7698.txt
+Review:
+Rating:
+4
+dateLastModified:
+2003-09-18T17:58:52.84
+helpfulCount:
+9
+userID:
+892265
+Display Name:
+RHEA32
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have never made a torte before so I didn't know exactly what to expect but I liked the results.  I did expect it to be a little moister but that will probably get better as I practice this recipe more.  I also added shredded coconut and pecan halves to the bottom of each cake pan before pouring in the batter.  That and the icing really made this cake!  I took it in to work today and even though cakes aren't normally a big hit at my office, this one was completely gone at the end of the day.  All the guys were ready to propose to me! haha
+Review:
+Rating:
+2
+dateLastModified:
+2008-08-07T09:13:31.97
+helpfulCount:
+3
+userID:
+2797106
+Display Name:
+Alysse Christine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/69638.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe did not work so well for me.  I followed the recipe exactly, and it turned out super dry and kind of bland.  I would make some changes before I ever made this one again.

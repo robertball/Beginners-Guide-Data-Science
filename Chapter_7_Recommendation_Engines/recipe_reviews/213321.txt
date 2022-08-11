@@ -1,0 +1,72 @@
+Recipe number:
+213321.txt
+Review:
+Rating:
+2
+dateLastModified:
+2010-05-23T23:35:47.57
+helpfulCount:
+7
+userID:
+854241
+Display Name:
+Angie Smith Moore
+isPro:
+False
+followersCount:
+22
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1361140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This dip is ok.  Not great tasting.  Would be better with velveeta cheese instead of the cheddar soup.
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-03T16:20:47.383
+helpfulCount:
+0
+userID:
+1506002
+Display Name:
+LS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+95
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this (used corn & black bean salsa, so didn't add the extra beans), but used Campbell's Fiesta Nacho Cheese condensed soup and it was quite good!  My boyfriend thought it was as good as velveeta/rotel cheese dip.  I loved how easy & cheap it was.  I'll definitely make it again.

@@ -1,0 +1,72 @@
+Recipe number:
+239382.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-31T17:53:05.907
+helpfulCount:
+1
+userID:
+5402327
+Display Name:
+Derbakermom
+isPro:
+False
+followersCount:
+56
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+396
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2635460.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This actually was pretty good, easy and quick. I prefer to use ingredients that are not pre-packaged (taco mix) so skipped that and seasoned with my own taco seasoning I use (which is basically the same as packaged without the extras).  I did use canned soup which made this so rich and creamy. Also, I didn't have red enchilada sauce so I used green. I will be making this for our next get-together to share with friends.
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-21T18:32:26.99
+helpfulCount:
+1
+userID:
+2875171
+Display Name:
+Laura Morgan Doty
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2626433.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good flavor. It was a little rich for my taste, and we didn't even add as much cream of mushroom soup as stated (probably half of what was called for) and added a little sour cream at the end. Might add milk next time or something to cut down the richness more. My husband loved it though, and had several servings! We used it for dip for one meal, then made a small batch of enchilada casserole with the rest, which worked a lot better!

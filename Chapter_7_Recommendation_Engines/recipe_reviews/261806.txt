@@ -1,0 +1,72 @@
+Recipe number:
+261806.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-12-21T15:50:55.737
+helpfulCount:
+1
+userID:
+14329141
+Display Name:
+Amy Siemiawski
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+191
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3864535.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed this recipe EXACTLY, and the measurements are way off. There is not enough liquid in this recipe as written to even form a dough. I had to add a lot more molasses and some applesauce just to form a dough. The flavor is good, but be prepared to add more liquid into this recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-20T16:53:27.667
+helpfulCount:
+0
+userID:
+24976557
+Display Name:
+Mnferg1007
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe! I have used it the past 2 years to make gingerbread house cut outs for our holiday gingerbread house decorating tradition. I use tapioca flour instead of arrowroot, coconut sugar instead of brown sugar, and end up adding a touch of water to get the dough to come together better. I roll out the dough between parchment paper instead of flour. The flavor and texture are great. You can bake them on the short end for chewy cookies, or a bit longer for crunchy ones; both are delicious. The recipe doubles (triples, quadruples...) nicely. Glad I came across this one!!

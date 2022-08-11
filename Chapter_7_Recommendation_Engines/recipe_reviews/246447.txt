@@ -1,0 +1,107 @@
+Recipe number:
+246447.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-12T19:00:54.493
+helpfulCount:
+1
+userID:
+2665588
+Display Name:
+Ruth Leaming
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+260
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2130356.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so easy and very tasty. Perfect way to add some brightness to a roasted chicken dinner. I followed it exactly with the exception of the peas. I subbed chopped asparagus because fresh peas weren’t available at the roadside stands yet.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-27T03:27:17.993
+helpfulCount:
+0
+userID:
+17298483
+Display Name:
+Maureen
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+106
+favoritesCount:
+160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used frozen peas. This was really good and very easy to prepare.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-12T22:23:29.453
+helpfulCount:
+0
+userID:
+20501908
+Display Name:
+Wendy Huntsman
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3992662.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it a lot. :) Thanks for the recipe.

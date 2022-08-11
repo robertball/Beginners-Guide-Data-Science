@@ -1,0 +1,37 @@
+Recipe number:
+263258.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-09T01:37:25.333
+helpfulCount:
+0
+userID:
+23104477
+Display Name:
+Mary Zink
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+208
+favoritesCount:
+1395
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4939587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious soup. My entire family ate it and felt happy.  The salmon is extremely tender, and the leek and onion flavor shines through. Will make over and over and over.

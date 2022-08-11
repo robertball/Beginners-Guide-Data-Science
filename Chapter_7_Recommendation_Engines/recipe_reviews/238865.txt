@@ -1,0 +1,107 @@
+Recipe number:
+238865.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-01-21T19:00:30.71
+helpfulCount:
+1
+userID:
+23204197
+Display Name:
+Jimmy Hope
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was DISGUSTING!!!! The pasta was extremely soggy and the breading fell off the chicken. I followed the recipe exactly but the tastes were all wrong!! The flavors reminded me of the southwest or Mexican food. I will DEFINITELY not be making this again and I suggest you don’t either.
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-12T17:56:10.413
+helpfulCount:
+0
+userID:
+17261616
+Display Name:
+Fernande Da'silva
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was great. After frying the chicken in the egg batter and dry mix , I put it in the oven with the Marinara and parmesan on top. My family loved it !
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-05T17:39:21.907
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9070
+followingCount:
+0
+madeRecipesCount:
+617
+favoritesCount:
+994
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty tasty! The chicken breast coating stayed crisp and didn't get soggy! I made my own bucatini pasta and three cheese Alfredo sauce. Bravo!!

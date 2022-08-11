@@ -1,0 +1,72 @@
+Recipe number:
+262214.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-08T17:40:00.523
+helpfulCount:
+0
+userID:
+26103097
+Display Name:
+Marie Ordway
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7017505.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was easy to follow,and the family loved them!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-21T17:43:06.51
+helpfulCount:
+0
+userID:
+25729630
+Display Name:
+Bon Swolo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6753509.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best recipe I have used for vatrushka!

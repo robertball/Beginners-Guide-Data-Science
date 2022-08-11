@@ -1,0 +1,37 @@
+Recipe number:
+239798.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-13T13:25:33.7
+helpfulCount:
+0
+userID:
+3761863
+Display Name:
+Sharon Angel
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+525
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2723347.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was what I was looking for, a healthy apple crisp with lots of flavor. My changes were; just apples, cranberries no raisins & pecans. Thank you for posting~

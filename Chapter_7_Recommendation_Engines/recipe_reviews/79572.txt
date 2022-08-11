@@ -1,0 +1,72 @@
+Recipe number:
+79572.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-02-25T05:05:57.143
+helpfulCount:
+11
+userID:
+2340831
+Display Name:
+Jason S.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very strange texture - sort of slimey but like ice milk when scooped out of the container - and it took over night to freeze completely so I could not serve it with the "Crazy Crust Apple Pie" I got the recipe for from here.
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-22T21:53:46.947
+helpfulCount:
+3
+userID:
+2846754
+Display Name:
+nolanmb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made with all soy creamer.  Am using the basic idea to make other no nut no coconut vegan ice creams.  Even the non vegans like it.  Making again over TG holiday.  Maple based wet walnut topping is a fantastic addition.  Cranberry topping is the next experiment!

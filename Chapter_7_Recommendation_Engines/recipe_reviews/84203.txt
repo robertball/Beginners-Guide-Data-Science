@@ -1,0 +1,37 @@
+Recipe number:
+84203.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-09T05:25:24.693
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had leftover ham so I made this for lunch. I subbed white bread and didnt add wasabi. I thought this was tasty. Miso is very salty but I am a salt fiend so this was great for me. Next time I will add wasabi.. also going to try this grilled

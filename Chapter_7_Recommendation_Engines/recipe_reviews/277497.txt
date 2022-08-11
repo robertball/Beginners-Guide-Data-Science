@@ -1,0 +1,72 @@
+Recipe number:
+277497.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-14T20:03:26.3
+helpfulCount:
+0
+userID:
+21529925
+Display Name:
+Cynthia Jackson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added onion flakes, parsley flakes ,salt and pepper
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-22T17:50:46.183
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+544
+favoritesCount:
+704
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No need to go out for breakfast, because this recipe is awesome! I cooked my bacon in the oven, then just increased the temperature to bake the casserole! Very good and very addicting! 5 stars!

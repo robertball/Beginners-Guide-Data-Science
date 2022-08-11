@@ -1,0 +1,30 @@
+URL:
+https://www.allrecipes.com/personal-recipe/64549291/this-is-a-test-for-title/
+Title:
+This is a test for title Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+This is a test for ingredients
+
+Directions:
+This is a test for directions
+
+Submitter: 
+Nguyen Duc Cuong
+Description: 
+This is a test for description
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+this is a test for prep t
+Ready in:
+this is a test for ready
+Number of servings: 
+1
+Nutritional Facts:
+NA

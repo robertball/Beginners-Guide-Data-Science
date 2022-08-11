@@ -1,0 +1,37 @@
+Recipe number:
+264487.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-07-11T20:49:01.64
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1103
+favoritesCount:
+3205
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe makes a hugh serving, enough for 2 people. I poured it into a measuring cup and I ended up with almost 3 cups, 22 oz to be exact. With so many flavors going on, I am surprised that only the banana came through. The pineapple and coconut were lost. I thought it was just ok, not something I would make again. Thank you for the recipe.

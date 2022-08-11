@@ -1,0 +1,37 @@
+Recipe number:
+261829.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-02T08:08:02.947
+helpfulCount:
+0
+userID:
+24626380
+Display Name:
+Caglar Sipak
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6035108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great one!!!

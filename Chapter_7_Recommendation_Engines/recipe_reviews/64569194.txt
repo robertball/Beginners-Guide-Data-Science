@@ -1,0 +1,37 @@
+Recipe number:
+64569194.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-23T03:42:08.647
+helpfulCount:
+0
+userID:
+5979369
+Display Name:
+EmergGirl
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+292
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3317841.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+FYI keep stirring until it cools (I transfer it from the saucepan to another container to speed up the process). When cooled it will be much thicker. You'll be able to pour it and then spread it with a spatula. Cover and let it sit and it'll firm up to the consistency of regular frosting (faster if you allow it to sit in the fridge). Don't cover it if you like a "crust".

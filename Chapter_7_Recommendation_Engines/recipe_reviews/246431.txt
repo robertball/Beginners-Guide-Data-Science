@@ -1,0 +1,37 @@
+Recipe number:
+246431.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-04T10:12:31.997
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Darn good crackers. It took me a while to find rice bran, and found that using almond pulp (leftover from making almond milk) instead, works just as well. It seems that my flours have a different absorption rate, so I suggest that you mix your dry ingredients and maybe the oil, then add the water. I added the whole amount of water and had to nearly triple the flours to get a workable dough. The outcome was a crunchy, flavorful cracker that served quite nicely with hummus. I kept the remaining crackers in a Ziploc baggie and the next day they were as good as the day before. Thank you for the recipe.

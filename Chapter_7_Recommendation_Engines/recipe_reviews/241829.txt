@@ -1,0 +1,37 @@
+Recipe number:
+241829.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-04-11T12:04:24.113
+helpfulCount:
+3
+userID:
+5405421
+Display Name:
+Jody
+isPro:
+False
+followersCount:
+64
+followingCount:
+0
+madeRecipesCount:
+195
+favoritesCount:
+2428
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3301710.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was fine, and definitely healthy, just a bit bland for me. I might try it with 1/4 cup of Miracle Whip instead of the greek yogurt and mayo.The 'Boats' in the title inspired me to cut the cucumber into 1/2" slices after I filled with the tuna, and make little 'boat' appetizers. I cut a small slice off the bottom so they wouldn't wobble. I think they're fun, and kids would like the little bite-size pieces. Not a bad recipe, I just think it needs a little tweak.

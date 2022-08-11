@@ -1,0 +1,107 @@
+Recipe number:
+238206.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-14T20:45:00.297
+helpfulCount:
+3
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoyed this. was easy to make. For my taste there was not enough spice to balance the sweet in the chicken and slaw. I am going to add a few shakes of red pepper flakes to leftovers
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-13T06:44:47.18
+helpfulCount:
+1
+userID:
+1828332
+Display Name:
+Sheila LaLonde
+isPro:
+False
+followersCount:
+170
+followingCount:
+0
+madeRecipesCount:
+718
+favoritesCount:
+1146
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/874540.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The title of this recipe is misleading to me.  These are not burgers, in my opinion. I really enjoyed this recipe, however I only used half of the chicken called for, but used the full amount of the sauce.  I also took a cue from a previous reviewer and added a few shakes of red pepper flakes to add a bit more spiciness.  With these changes, I would definitely make this recipe again and I'm certainly glad I didn't overlook it based on the title!!  :)  Thanks for sharing your recipe, CINDYJAKE!
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-13T23:38:28.213
+helpfulCount:
+0
+userID:
+16670456
+Display Name:
+Kim Kay Jones
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made this and used 3 cans of Sam's  chunk chicken (drained)  in place of the fresh chicken and it was great! Looked the same and as great!

@@ -1,0 +1,72 @@
+Recipe number:
+240830.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-17T09:48:55.307
+helpfulCount:
+1
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12229
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2670
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For me this was just OK, hubby liked it more than me & would give it 4 stars.  A couple of recommendations - melt some of the butter in the baking dish and butter the sides or it will stick.  I used thick 'Texas Toast' style bread and that may not have been a good plan.  The egg mixture didn't sink into the bread well and the bottom layer didn't get enough egg mixture, while the sides were very eggy and stuck to the pan.  I would suggest pouring half the egg mixture onto the bottom layer of bread and the rest over the top.  The baking time was fine at 35 minutes.
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-01T17:36:40.413
+helpfulCount:
+0
+userID:
+4792100
+Display Name:
+BAM421
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+189
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/754554.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found the recipe to be a bit dry. Also, I didn't like how the bacon turned out. Next time I will prep it my way, by baking in the oven until crisp, then chop it up and add it to the casserole. I still think it is a great idea! It just needs some "tweaking".

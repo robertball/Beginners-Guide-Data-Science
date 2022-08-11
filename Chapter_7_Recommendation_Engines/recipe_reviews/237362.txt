@@ -1,0 +1,37 @@
+Recipe number:
+237362.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-06T01:05:31.397
+helpfulCount:
+1
+userID:
+6877302
+Display Name:
+Alex Bonilla
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2131087.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is easy to make and tasty. Needs a little something but not sure what. I'll try some things and update my review later...

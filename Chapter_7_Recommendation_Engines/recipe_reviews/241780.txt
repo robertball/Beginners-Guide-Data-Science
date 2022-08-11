@@ -1,0 +1,72 @@
+Recipe number:
+241780.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-21T06:44:40.047
+helpfulCount:
+1
+userID:
+3953734
+Display Name:
+pj
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+91
+favoritesCount:
+296
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/262163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy and delish!  I sided it with vegies.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-04T14:16:18.893
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was not only super simple but it was delicious as well. I think the key is making sure you buy a good quality roast beef. I actually had my deli slice it a little thick so that it wouldn't fall apart during the flip but I will go thinner next time. Great recipe!

@@ -1,0 +1,37 @@
+Recipe number:
+265427.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-22T00:40:55.08
+helpfulCount:
+1
+userID:
+5248790
+Display Name:
+sandylouise
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7185452.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this according to directions, except for adding some lemon juice and zest. It was good the whole family enjoyed. Just a tad on the dry side and I lay the fault for that on myself for leaving in the oven just a tad too long. Thanks for the recipe.

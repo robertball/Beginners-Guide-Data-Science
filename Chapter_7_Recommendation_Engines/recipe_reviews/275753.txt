@@ -1,0 +1,72 @@
+Recipe number:
+275753.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-15T11:50:51.5
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2818
+favoritesCount:
+6007
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10.9.19  Not sure that partially baking the bottom crust really serves any purpose.  I’ve made a lot of pot pies, have never had an issue with just putting the filling into the unbaked bottom crust, then placing the top crust on it, crimping, and then into the oven.  What happens after 5 minutes at 425ºF is that your crust edges are not pliable at all, so you can’t tuck your top crust under it (which makes sense, it’s baked.)  I had a slight overhang and just ended up pulling the excess crust off, placing the top on, and doing my best to seal.  But you don’t really get a good seal this way, and I did have some filling seep out the sides of the pie.  I  did add an egg wash to the crust, otherwise, followed this recipe to the letter.  The one flavor that was missing for me was thyme, and that would be something I’d add in the future.  This was a good chicken pot pie with perfect filling consistency, super easy to make (particularly if you buy pre-made pie crusts, as I did today), and I would make again with just a few modifications.  Thanks for sharing your recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-11T14:39:16.003
+helpfulCount:
+0
+userID:
+14979883
+Display Name:
+Natalie Harris
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5270552.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the rosemary flavor!

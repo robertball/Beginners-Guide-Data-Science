@@ -1,0 +1,72 @@
+Recipe number:
+220110.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-03-07T07:38:24.79
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made one change. I am very experienced in frying catfish and have made it coated many different ways and have come to the conclusion that I do not like it double dipped. I like a thin cornmeal/flour combo and so that is the one change I made due to personal preference. I am still giving this a 5 star rating because I am positive it would turn out great as written for the majority of people out there that like the thicker coated fish. If you are sensitive to spice then I recommend leaving the cayenne out of your flour mixture. This was a great way to use fish and one I will make again. Thanks JeffB227!
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-27T03:10:01.71
+helpfulCount:
+0
+userID:
+177428
+Display Name:
+BARNKITTY
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+1132
+favoritesCount:
+4466
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't have all the ingredients on hand for the creole sauce, so just breaded and fried the catfish as listed.  Very tasty. Fish came out very light, and breading was nice and crisp.

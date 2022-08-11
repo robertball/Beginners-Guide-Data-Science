@@ -1,0 +1,37 @@
+Recipe number:
+233514.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-16T04:10:24.347
+helpfulCount:
+6
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+6003
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe has way too much salt and pepper for the average family.  I'd recommend cutting the salt to 1/2 tsp and the pepper to 1 tsp (maybe less), taste, then add more if necessary.  It is quick to make, since all you have to do is mix it up, no cooking, and the taste is OK with these changes.

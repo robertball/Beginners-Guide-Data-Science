@@ -1,0 +1,107 @@
+Recipe number:
+44729.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-01-01T16:05:54.777
+helpfulCount:
+10
+userID:
+1590610
+Display Name:
+Heather Kay
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious! I think my candy thermometer may be broke because just when it read soft ball stage the bottom burned a little however the finished product turned out just like bit o honey our favorite candy. So we loved it!
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-10T10:08:38.353
+helpfulCount:
+3
+userID:
+9480513
+Display Name:
+sublimajik
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+131
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My mom used to make us Penuchi when I was a child and I never forgot how scrumptious it was. This recipe is very close to hers but she used walnuts and no marshmallow. Until I can find the version she used this one will work very well! It's delightfully yummy.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-07T20:47:05.403
+helpfulCount:
+2
+userID:
+22536559
+Display Name:
+Genevieve Knutson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am making this for a class and I was wondering can I refrigerate or leave on counter?  And can I add powdered sugar? Do I have to add marshmallow fluff?

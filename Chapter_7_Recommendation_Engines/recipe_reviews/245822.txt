@@ -1,0 +1,72 @@
+Recipe number:
+245822.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-25T19:48:00.99
+helpfulCount:
+2
+userID:
+22320197
+Display Name:
+Brian Hoellwarth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+109
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very close to the one my in-laws make. I enjoy it over day old Sliced French bread with dried or fresh mint sprinkled on top. Then the liquid is poured over the bread so it soaks up and gets a little soggy. The meat placed on top of the bread. The recipe creator is correct, it is very rare that you will have left overs, but if you do which happens on occasion it is even better heated up the next day. The only thing our family does that is a little different is I add a cup to 2 cups of white wine about an hour before the end of cooking. I also add a small can of tomato sauce or about 1/2 cup of ketchup to the liquid at the start. I like to rub and coat the meat with the dry spices. Also after pouring in enough water to cover I also like to created a spice ball using whole cloves, allspice berries, pickling spices, a cinnamon stick, whole cumin seeds which I wrap in cheese cloth and let float around in the bottle as it cooks.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-05T23:35:33.373
+helpfulCount:
+0
+userID:
+17285202
+Display Name:
+Paula A. Lewis
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3365939.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was great!! I added some sweet red wine and a little tomato sauce...AWESOME!! Used my Instant Pot I got for Christmas and done in 45 minutes.   :)

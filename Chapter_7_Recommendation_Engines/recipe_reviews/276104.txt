@@ -1,0 +1,107 @@
+Recipe number:
+276104.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-05T23:35:47.33
+helpfulCount:
+0
+userID:
+6878602
+Display Name:
+Sue K
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4016125.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Juicy & tender! Was absolutely delicious. Next time I would put it in the oven  to brown a bit more but otherwise it was fantastic
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-30T17:29:23.37
+helpfulCount:
+0
+userID:
+26923107
+Display Name:
+Liz Giardina
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came out so juicy
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-06T11:19:58.093
+helpfulCount:
+0
+userID:
+24949903
+Display Name:
+DavidC
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very easy recipe and tasty. Just not the crispy skin I like so if your the same put it in the broiler for a few minutes to finish browning. If you are like my wife and takes the skin off it's a five star.

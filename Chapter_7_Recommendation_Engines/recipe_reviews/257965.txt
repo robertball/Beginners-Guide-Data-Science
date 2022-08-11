@@ -1,0 +1,37 @@
+Recipe number:
+257965.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-09T17:37:48.657
+helpfulCount:
+0
+userID:
+13356091
+Display Name:
+abbyz2000
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+821
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I swapped green peppers for the chile peppers and then used thawed cubed potatoes instead of hash browns. Therefore I skipped the stove-top step.

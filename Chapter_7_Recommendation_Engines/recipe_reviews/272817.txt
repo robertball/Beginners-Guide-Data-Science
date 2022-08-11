@@ -1,0 +1,37 @@
+Recipe number:
+272817.txt
+Review:
+Rating:
+2
+dateLastModified:
+2020-02-07T19:53:18.203
+helpfulCount:
+0
+userID:
+12135290
+Display Name:
+Augie Sanchez
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3302855.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The hard part of this recipe was the ingredients.I was going tomake it for only two people.The was came when I adjust the recipe amount for two people.The recipe was asking for 1/2 of  the cream and eggs . The super market don't  want to sell me 1/2 of the cream and half of the egg..

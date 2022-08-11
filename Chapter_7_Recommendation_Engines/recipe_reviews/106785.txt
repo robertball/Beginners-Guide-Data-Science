@@ -1,0 +1,37 @@
+Recipe number:
+106785.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-03-09T18:07:12.29
+helpfulCount:
+0
+userID:
+2190521
+Display Name:
+daerda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really enjoyed this.  I used broccoli slaw and also topped with some peanuts.

@@ -1,0 +1,73 @@
+Recipe number:
+259272.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-21T02:08:58.837
+helpfulCount:
+1
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only thing I did differently was the cooking method and I left the sausage links whole and then I sliced them.
+ I cooked this in my instant pot. I used to sauté function to brown the Italian sausage,  then removed the Italian sausage and added some oil, the sliced green bell pepper, onions, and sliced mushrooms. I then added the tomatoes, and placed the sausages on a trivet and cooked on low heat for 10 minutes.  To preserve the intensity of the herbs and seasonings I added those after I released the pressure. Yum!!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-15T23:00:40.48
+helpfulCount:
+0
+userID:
+4243259
+Display Name:
+Lady Annette
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used marinara sauce instead of the canned tomatoes. Delicious!

@@ -1,0 +1,37 @@
+Recipe number:
+277378.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-09T17:47:53.39
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.9.20  Very similar to gazpacho, this is a very nice chilled soup. I thought it was ideally spiced with just a little kick from the jalapeños, but overall, very mellow.  And to say I like its nutritional breakdown is an understatement. The only change that I’ll make in the future is to increase the dill weed, one of my favorite spices that I just would like to taste more (personal preference here).  I live in Florida and seldom have to deal with cold temps, so this is a soup that will be made year round for us.  Solid recipe and will be made again.

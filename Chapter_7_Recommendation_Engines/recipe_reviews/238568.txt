@@ -1,0 +1,107 @@
+Recipe number:
+238568.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-11T21:17:58.59
+helpfulCount:
+3
+userID:
+12866124
+Display Name:
+Laurel Moorhead
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3527513.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+At my house, we didn't happen to have blue curaçao so we substituted triple sec & renamed the drink 'panty dropper.'
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-04T22:54:52.07
+helpfulCount:
+0
+userID:
+23907173
+Display Name:
+Klwalls05
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! I had come across a recipe on Pintrest but it was far too sour/bitter. This was the perfect balance of sweet/sour!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-09T13:52:27.623
+helpfulCount:
+0
+userID:
+21753195
+Display Name:
+Michael Davis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made these for Cinco De Mayo.  My guests, even those who aren't drinkers loved them!

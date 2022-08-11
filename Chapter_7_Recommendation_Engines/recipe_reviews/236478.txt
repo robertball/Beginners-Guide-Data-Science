@@ -1,0 +1,37 @@
+Recipe number:
+236478.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-28T11:54:13.587
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are very unique. The buckwheat was still very hard after 10 minutes so I drained it (reserving the water) and resoaked them for another ten minutes in boiling water. This helped, even though they are still crunchy after cooking them in the batter. I used buckwheat flour instead of  spelt in order to keep it gluten free. I did not add the honey, drizzling over the pancakes instead. I also added some blueberries to the batter. Thank you for the recipe.

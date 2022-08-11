@@ -1,0 +1,107 @@
+Recipe number:
+229409.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-11-19T19:47:44.607
+helpfulCount:
+8
+userID:
+8776233
+Display Name:
+Kristin Devine
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+253
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6057835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Baked these for my daughters kindergarten class and they were a huge hit, also very easy to bake! I used frosting instead of using the whipped topping mixture.... YUM!
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-06T11:58:18.59
+helpfulCount:
+3
+userID:
+10225127
+Display Name:
+Abbygael Defaria
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It tastes just like an OREO!:)
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-01T15:57:13.393
+helpfulCount:
+1
+userID:
+4255277
+Display Name:
+Jessica Bilski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5139586.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Brought these to a super bowl party-gone before the pizza and wings. I made 1/2 with berry Oreos and 1/2 with original.  I do not recommend using flavored Oreos, they don't peel out of the wrapper well and get very hard.

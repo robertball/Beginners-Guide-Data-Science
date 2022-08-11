@@ -1,0 +1,292 @@
+Recipe number:
+10733.txt
+Review:
+Rating:
+4
+dateLastModified:
+2003-01-16T12:22:35.653
+helpfulCount:
+15
+userID:
+651313
+Display Name:
+VERSE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Some pros and cons: 
+Many Pros:
+1. Is indeed "very quick and yummy" (per reefdiver1971);
+2. A lighter, delightfully-flavored version of heavier and more time-consuming oatmeal cookie recipes--and not as flat;
+3. Good and satisfying cookie for people avoiding eggs.
+4. A nice combo of chewy and cruchy if not over-baked.
+5. At last!  A cookie incorporating Lyle's Golden Syrup!
+6.  I got 42 cookies out of this recipe. Not bad.
+One Con:  THIS RECIPE NEEDS WATER!  Maybe it's because I live at altitude (5,280 ft.), but my dough was much too crumbly to manipulate into anything. So I checked another recipe (Vanessa's), saw that she had used 2T water.  I gradually added, a tablespoon at a time, 4T water (boiling).  Then I squished and rolled dough into balls--easy and quick because: (a) dough is not sticky and (b) you can roll practically all of them while first batch bakes (mine, 14 min.).
+One Sort-of Con:  Must be carefully but firmly flattened with your hand, on the cookie sheet, before baking, as cookie does not spread from ball shape on its own.  Cookie stays in this flatter shape--rather hocky-puckish--not very glamorous, but who cares, its GOOD.  Would look cute half-dipped in melted semi-sweet chocolate.
+Conclusion:  Will bake these again, play around with recipe, probably slowly add more water(more than the 4T) next time, but I don't really have to.
+Review:
+Rating:
+5
+dateLastModified:
+2010-06-16T11:53:06.583
+helpfulCount:
+7
+userID:
+4499349
+Display Name:
+Airumel
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7242530.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used maple syrup instead of golden syrup and this recipe became an instant hit with my extended family.
+Review:
+Rating:
+5
+dateLastModified:
+2002-01-13T14:15:30.937
+helpfulCount:
+6
+userID:
+564616
+Display Name:
+REEFDIVER1971
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very quick and YUMMY!!
+Review:
+Rating:
+5
+dateLastModified:
+2004-04-11T22:36:03.96
+helpfulCount:
+4
+userID:
+802849
+Display Name:
+Aussie Karob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I sacaled this recipe to 200 biscuits for a Christian experience in our local gaol.  It not only worked perfectly, but the biscuits were fantastic to sample and none were returned either.  Well done to the US expat who took this Aussie recipee home, only to have it return to Australia via the net. Thanks.
+Review:
+Rating:
+2
+dateLastModified:
+2005-10-26T10:53:28.827
+helpfulCount:
+3
+userID:
+1573078
+Display Name:
+travelbug
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The Anzac biscuits I have had in the past have all had coconut in them too. I added some coconut, but there was not enough liquid in the recipe to hold the batter together.  I added more, but added too much.  These were only OK; maybe I'll do better next time.
+Review:
+Rating:
+1
+dateLastModified:
+2005-09-19T14:17:05.857
+helpfulCount:
+3
+userID:
+1320999
+Display Name:
+NORTHERNBABE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not enough liquid, a crumbly mess.
+Review:
+Rating:
+3
+dateLastModified:
+2005-02-07T14:07:08.013
+helpfulCount:
+3
+userID:
+92139
+Display Name:
+Akubra17
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+123
+favoritesCount:
+287
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A nice, quick recipie. I found the cookies were a little dry, though. Will probably make this again. Thanks Kelly
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-23T12:51:39.707
+helpfulCount:
+2
+userID:
+7091478
+Display Name:
+Nicolee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this were really good! i will totally make this again!

@@ -1,0 +1,72 @@
+Recipe number:
+246046.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-01T17:46:50.67
+helpfulCount:
+2
+userID:
+6906144
+Display Name:
+Joanne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is good as a starting point, but I didn't love the ratio of veggies to liquid.  Use up to 2 lbs of cauliflower or 2 lbs of whatever veggie you use for this amt of cream sauce. But why make fractions for the measurements when not needed? Here's how to simplify it.   I found that the sauce didn't thicken enough in pot with the amt of butter/flour shown. I suggest using the "even steven" method...this one is the 3-3-3 method.  Use 3 Tbs of butter, 3 Tbs of flour, and 3 Cups of liquid (all milk, half n half, milk w/cream, whatever).  It is easy to keep in your head that way.  If you need a larger casserole for a crowd, increase to 4-4-4, or 5-5-5, it works.  Also, parm isn't strong enough to lend a salty bite, use Romano cheese or some of each.  Make sure you taste the sauce before pouring it over the veggies, if it is bland in the pot, it will be bland when you bake it.  Add enough SALT, important to bring out flavors! You can make this "French" by using gruyere cheese, or use cheddar--change up the cheese, and add some light bread crumbs with extra cheese sprinkled on top of casserole too.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-05T02:42:34.963
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out delicious and I had no problem with the cheese melting which is always a plus for me!

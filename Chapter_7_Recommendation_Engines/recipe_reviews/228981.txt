@@ -1,0 +1,72 @@
+Recipe number:
+228981.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-09-18T20:20:10.13
+helpfulCount:
+4
+userID:
+9746442
+Display Name:
+Debs Diner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+212
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very delicious recipe!!  We enjoyed every bite and it was sooooo good we both overindulged and ate more than we should have. I added another TBS olive oil and TBS lemon juice/garlic to the dressing because it just wasn't enough to cover the salad and drizzle over the tuna. Let me mention that I don't like a lot of dressing saturating my salad or food so it was just right. I made the dressing early in the day and let it marinate in the frig for several hours, it was quite tasty and I didn't find it to be too oily at all.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-28T00:14:29.033
+helpfulCount:
+0
+userID:
+3249031
+Display Name:
+bezzie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+433
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2621412.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent.   Used a small avacado and small mango.   Skipped the peanuts and the chow mein noodles.   Doubled the ingredients in the dressing recipe except the oil, leaving it at 2 T.  Salt and peppered and rubbed the tuna with sesame oil before grilling  2-1/2 minutes on each side.   The flavor of the mint and cilantro was surprisingly delicious and fresh.

@@ -1,0 +1,107 @@
+Recipe number:
+229827.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-01-02T12:25:25.11
+helpfulCount:
+5
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12228
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not our favorite.  There is nothing really wrong with this salad except that is so plain.  If you need a very basic potato salad recipe, this one is for you.
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-29T04:37:12.98
+helpfulCount:
+2
+userID:
+1109107
+Display Name:
+GHOS5425
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+1042
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe as written. Whole family liked it a lot. The only complaint was that it was a little sweet. I'll definitely make again but use less sugar.
+Review:
+Rating:
+4
+dateLastModified:
+2013-06-10T17:22:20.557
+helpfulCount:
+1
+userID:
+5680502
+Display Name:
+Davida Carr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The dressing is really creamy but not heavy. Yet given Baking Nana's warnings, I did add a bit of Goya Adobo to the salad's parts before adding the dressing. Good stuff!!

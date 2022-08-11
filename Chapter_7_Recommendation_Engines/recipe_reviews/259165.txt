@@ -1,0 +1,37 @@
+Recipe number:
+259165.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-03T00:38:49.987
+helpfulCount:
+0
+userID:
+15759229
+Display Name:
+Elegant Ink Entertainment
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+210
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5409296.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the sourdough!

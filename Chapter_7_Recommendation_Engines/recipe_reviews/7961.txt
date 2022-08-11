@@ -1,0 +1,107 @@
+Recipe number:
+7961.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-02-06T15:46:35.373
+helpfulCount:
+6
+userID:
+1344629
+Display Name:
+BEENISH101
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! It's really quick and easy to make and everyone loves it! Everyone's always asking me the recipe for this cake! I've even been told it tastes like Turtles!
+Review:
+Rating:
+3
+dateLastModified:
+2013-04-01T16:30:22.147
+helpfulCount:
+1
+userID:
+21907115
+Display Name:
+Allrecipes Community
+isPro:
+False
+followersCount:
+26
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very eggy and flat.  The flavor is good, but I would bake it in a smaller pan next time.
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-12T02:12:27.463
+helpfulCount:
+0
+userID:
+6218385
+Display Name:
+Regan Brewer-Johnson
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1200192.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were just ok.  I understand the other review that says that it was eggy.  I would describe it as spungy, but not bad.  I did bake in a smaller baking pan based on that other recommendation and I think that helped.  Otherwise, I imagine it would turn out super thin.I really don't understand the other person who said they are like turtles. Turtles have a caramel component that this is definitely missing.    This was just ok.  Would not make again.

@@ -1,0 +1,37 @@
+Recipe number:
+258483.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-30T15:00:51.913
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very impressive both in taste and presentation. I used blue cheese crumbles because that is all I could find. I don't care for blue cheese so I left it off of mine and it is delicious without too. The flavor combo sounds odd but it's really not. The sweetness of the grapes compliment the peppery taste of the watercress and the acidity ties it all in together. Excellent recipe!

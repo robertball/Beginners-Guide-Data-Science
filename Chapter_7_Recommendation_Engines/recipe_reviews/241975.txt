@@ -1,0 +1,72 @@
+Recipe number:
+241975.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-01T03:22:48.513
+helpfulCount:
+1
+userID:
+4101289
+Display Name:
+LindseyB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+155
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an easy recipe and you can't go wrong with spinach and mushrooms. However I made several modifications and it still could've used more flavor. I added ground turkey and chopped onions, along with garlic. I only added about 1.5 cups of water since my pan was overloaded. Also cooked it on low because the noodles cooked too quickly at medium. Next time I think I'll use chicken or beef stock in place of the water because despite my generous salt addition, it could've used more flavor. Overall, good easy weeknight dinner!
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-03T00:04:32.23
+helpfulCount:
+0
+userID:
+20311703
+Display Name:
+Ashley Jones
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3876637.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make, tasty to eat.

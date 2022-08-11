@@ -1,0 +1,254 @@
+Recipe number:
+12919.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-07-01T01:03:43.89
+helpfulCount:
+25
+userID:
+658555
+Display Name:
+CATAWAMPA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very good recipe. Good for that quick meal. My picky son liked it too. Its a keeper
+Review:
+Rating:
+5
+dateLastModified:
+2002-11-19T07:11:52.467
+helpfulCount:
+24
+userID:
+398655
+Display Name:
+CHILLERHUT
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My whole family loves this soup.
+It's great if your on a diet with the low fat and low calore content it's perfect.
+It tastes rich and smooth.
+Review:
+Rating:
+2
+dateLastModified:
+2003-02-23T09:40:50.873
+helpfulCount:
+22
+userID:
+743196
+Display Name:
+Marietta Higgins-Spillone
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2714879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made as directed and felt it had no flavor. I then added saute chopped onion, celery & mushrooms. It was better, but not great. I will keep serching for an Asparagus soup recipe, this is not the one.
+Review:
+Rating:
+5
+dateLastModified:
+2007-01-06T12:15:14.98
+helpfulCount:
+17
+userID:
+165536
+Display Name:
+Jen Camilleri
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3402338.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup is delicious and very easy to make! However, next time I would mash the potatoes by hand rather than puree them in the blender. That was the only difficulty I encountered. 
+This is wonderful with homemade crusty french bread!
+Review:
+Rating:
+5
+dateLastModified:
+2006-01-28T09:15:56.967
+helpfulCount:
+15
+userID:
+1718939
+Display Name:
+kmmcfall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved it!  My son said, "I expect to see this again"!
+Review:
+Rating:
+5
+dateLastModified:
+2005-10-02T23:33:01.78
+helpfulCount:
+13
+userID:
+1542132
+Display Name:
+James Y.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought it was pretty good but the asparagus I bought was out
+of season. I wanted fresh asparagus instead of canned.  To make it taste more like the sweeter more tender asparagus I added a few tablespoons of honey, & it seemed to do it for me.  I also tried leaving out the potatoes -- I like a more condensed asparagus flavor.  I also added a handful of fresh mint leaves (shredded) with the asparagus in the broth to
+be cooked & blended.  This gave it a very cool, lite flavor.
+This soup tastes great chilled --especially a day later when
+made like this.
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-15T05:07:05.75
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8908
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2280
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty soup! I adapted this slightly to use up some leftovers in my fridge. We had a dinner party for my daughter, and I had roasted some asparagus in the oven. Opened the oven the next day, and realized that we never served it! Ugh! I also had some seasoned mashed potatoes left from her party, so I used those up as well. I cut back the fennel seed to about 1 tsp, and skipped the fronds (because I didn't have any). Pureed with my immersion blender and garnished with a bit of sour cream and parsley. Yum!

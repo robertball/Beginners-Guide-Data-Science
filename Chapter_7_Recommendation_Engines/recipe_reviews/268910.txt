@@ -1,0 +1,72 @@
+Recipe number:
+268910.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-16T02:23:50.31
+helpfulCount:
+1
+userID:
+14801221
+Display Name:
+Marytime
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+337
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5951020.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I substituted so much for ingredients I didn’t have that I can’t give less than 5 stars for my mess, but since no one else had reviewed it I felt I should say something. I ran out of AP flour so I used 3/4 C AP and 1T coconut flour. With the coconut flour, I should have used an extra egg but I only brought 3 to room temp so I added 2T of milk. No Nutella, so I mixed shaved dark choc with peanut butter melted in Microwave. I also added 1/4 tsp salt to batter and a dash to swirl.  I found the 4 oz vanilla yogurt cup I used was not quite 1/2 c liquid measure, so I added 1T from another container. In the end my center/bottom of loaf was dense like it had fallen. I probably overmixed the batter after adding the flour and maybe a 4th egg vs milk would have worked better with the coconut flour. The corners of the loaf with no choc swirl had a good texture and a tangy good taste, so I think it would have been great if I had truly followed the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-20T19:53:44.687
+helpfulCount:
+0
+userID:
+23292790
+Display Name:
+Ben Sos
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7637562.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this pound cake as part of a breakfast menu.  It wasn't bad, but I felt it was a bit on the dry side, especially the Nutella.  I followed the recipe as described.

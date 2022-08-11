@@ -1,0 +1,72 @@
+Recipe number:
+236794.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-05T17:41:19.69
+helpfulCount:
+0
+userID:
+23797602
+Display Name:
+Abby Evans
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451626.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Healthy and delicious! I made a few changes.  Instead of frozen corn, I used canned sweet corn. I used about half the juice from the diced tomatoes and half from the corn. I don't typically like spicy foods, so I was worried three jalapenos would be too hot, but without the seeds, it was perfect.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-11T12:44:05.29
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2802
+favoritesCount:
+1835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I used a 10 oz can of Rotel tomatoes instead of the large can of regular tomatoes so I added a few chopped cherry tomatoes to compensate. As written you get a nice side dish. Add an avocado and a hard boiled egg and it turns into a perfect meal even on-the-go. Thank you for the recipe.

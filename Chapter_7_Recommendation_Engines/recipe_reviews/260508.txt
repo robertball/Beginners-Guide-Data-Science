@@ -1,0 +1,37 @@
+Recipe number:
+260508.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-26T01:37:13.99
+helpfulCount:
+3
+userID:
+1704318
+Display Name:
+INESPR
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+779
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/938757.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delish! Made them for our Christmas dinner (2018), and my daughter was so impressed. She told me that what she liked about them was their lightness , and of course, the shape of them. I did not have the potatoes that were recommended, and still they came out as a masterpiece. I brushed them again, before plating them with melted butter. Yes, I will make them again, and will recommend this recipe to all my friends when they asked me about my Christmas' dinner this year.

@@ -1,0 +1,37 @@
+Recipe number:
+90489.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-09-13T12:01:12.207
+helpfulCount:
+8
+userID:
+3349929
+Display Name:
+Elenchen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+49
+favoritesCount:
+257
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/147552.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe did not say at which temperature so I baked it at 356F. I baked it for 25 minutes because i did not have small forms, so I used one that is about 5 inches. The filling is very good but I recommend reducing the cayenne pepper because like this it is very spicy! maybe 1/2 teaspoon, 1/4 would be enough. The dough is very moist and hard to roll. Maybe it would be better to use a pie shell recipe. I give it 4 stars because it tastes very good and looks pretty, but it needs adjustments

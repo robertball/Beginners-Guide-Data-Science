@@ -1,0 +1,72 @@
+Recipe number:
+276008.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-06T01:50:29.903
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+541
+favoritesCount:
+702
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this recipe was really simple with good flavor. I stopped my slow cooker at 3 1/2 hours, but when making this again I think I would try 3 hours. Some of the smaller apples were very soft. Large apples are key to this recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2019-09-23T16:19:59.467
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This smelled delicious, but when I checked them at 2 1/2 hours, they were burning. Maybe my apples were a bit on the smaller side of large or maybe they weren't very juicy. Even so, I think 4 hours on high is too much time. I enjoyed the raisin and apple combo.

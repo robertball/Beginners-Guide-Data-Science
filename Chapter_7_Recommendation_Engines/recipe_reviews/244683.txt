@@ -1,0 +1,72 @@
+Recipe number:
+244683.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-10-13T20:33:14.19
+helpfulCount:
+0
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9161
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great combination with the chocolate buttery crust, smooth cheesecake, and lightly sweet jelly topping baked into an easy to make bar. Less time and ingredients than making a full cheesecake, however, I highly recommend making these in a smaller pan such as an 8x8 or 9x9 instead if an 9x13. Based on the previous reviewers comment, I made these in a loose bottom 8x8 pan and couldn't imagine how thin the bars would be in a larger pan. If you need to use a 9x13 make sure you double the recipe!
+Review:
+Rating:
+3
+dateLastModified:
+2015-10-05T18:04:42.017
+helpfulCount:
+0
+userID:
+933856
+Display Name:
+JARRIE
+isPro:
+False
+followersCount:
+147
+followingCount:
+0
+madeRecipesCount:
+1131
+favoritesCount:
+6151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/926498.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This wasn't a winner for us, it was just OK. The cream cheese layer is woefully thin and the bake time was too long (I'd start checking this next time before 30 minutes and probably eyeball it starting at 25). It looks pretty enough & I'll get a photo up soon but overall I don't think this was a make-again for us. Thanks anyway!

@@ -1,0 +1,73 @@
+Recipe number:
+11404.txt
+Review:
+Rating:
+1
+dateLastModified:
+2003-09-25T06:40:34.17
+helpfulCount:
+18
+userID:
+895534
+Display Name:
+MARLAINLIMBO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Can't even rate this one with a star.
+Sounded simple enough.  Too glutenous to form any useable dough.  Waste of money and time.
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-25T15:23:23.53
+helpfulCount:
+0
+userID:
+8806334
+Display Name:
+mikey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a classic. You can't expect to have a soft dough. These little nuggets want to be baked dry but not brittle. It's the eggy taste that counts. Ginger is the traditional spice, and this hits the right note. A fabulous way to serve, is to pour them out on the oiled baking sheet, and when cool enough to handle, form into a pyramid, and place on a cake stand. Let guests break off bits of these sweet, nutty-crunchy dough balls. I have taught this recipe to my high school students.

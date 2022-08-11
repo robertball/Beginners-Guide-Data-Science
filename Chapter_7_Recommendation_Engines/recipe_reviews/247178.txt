@@ -1,0 +1,72 @@
+Recipe number:
+247178.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-25T12:34:31.1
+helpfulCount:
+0
+userID:
+25369258
+Display Name:
+cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6672550.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love it
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-09T12:04:09.9
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+968
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This method is pretty darn cool. The hot dog gets that almost crunchy outer skin up and down the dog. Applying the method takes some time to get it right. I ended up with many hot dog pieces. I wasn't able ro replicate the number of spirals as shown in the original picture. Regardless, this really will be the only way I serve hot dogs from now on. I made my own sauces and toppings and served them in corn tortillas so they were gluten free.

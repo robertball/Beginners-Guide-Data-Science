@@ -1,0 +1,37 @@
+Recipe number:
+7628.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-26T20:30:01.43
+helpfulCount:
+1
+userID:
+2037059
+Display Name:
+bartdoard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+736
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make this cake every xmas:  one of my favs!  I found recipe many yrs ago in SL Heritage Cakes, the bible of southern cakes.   WM Great Cake, as it's called in SL,  is a somewhat of a 'white fruitcake,' but minus the traditional fruit cake flavor.  Very dense and not too sweet.   I'v found it generally takes an extra 1 hr 5 mins:  you'r lkg @ 3 hrs+ in oven.

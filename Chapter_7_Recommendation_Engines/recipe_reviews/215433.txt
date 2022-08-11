@@ -1,0 +1,72 @@
+Recipe number:
+215433.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-09-21T09:50:08.857
+helpfulCount:
+8
+userID:
+5396433
+Display Name:
+Jojo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great, but to me a true muffuletta needs olives, so I added 1/2c chopped green olives.
+Review:
+Rating:
+2
+dateLastModified:
+2011-07-19T17:38:32.903
+helpfulCount:
+6
+userID:
+773534
+Display Name:
+Carol Saylor
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+71
+favoritesCount:
+921
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2300505.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+RENAME THIS RECIPE   tasty , easy, but really not fair calling it muffaletta to those that have not experienced muffaletta. Muffaletta is about the olive salad mingling with the meats and cheeses. Play fair Pillsbury.

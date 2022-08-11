@@ -1,0 +1,37 @@
+Recipe number:
+274542.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-05T22:37:46.467
+helpfulCount:
+1
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1031
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy!  I realized too late that I only had 2 orange bell peppers so I added a medium summer squash sliced like the zucchini to round things out.  I used Italian seasoning rather than oregano and added some garlic too.  Delicious!  I used hot Italian sausage and sliced each link into thirds before browning it.

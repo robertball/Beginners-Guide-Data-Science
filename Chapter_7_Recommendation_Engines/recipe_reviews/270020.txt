@@ -1,0 +1,72 @@
+Recipe number:
+270020.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-13T02:47:44.84
+helpfulCount:
+0
+userID:
+23309002
+Display Name:
+Kerrye4
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have a question.  The picture of the soup clearly shows celery in it.  The recipe does not call for celery.  Why not?
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-26T17:41:24.963
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick and simple but I think this was a bit bland as written. I ended up adding some herbs and next time I would replace the water with chicken broth. I also recommend cutting the ginger in half. Overall good recipe that just needs a couple of tweaks.

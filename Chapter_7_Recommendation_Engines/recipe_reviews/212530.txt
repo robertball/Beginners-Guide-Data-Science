@@ -1,0 +1,107 @@
+Recipe number:
+212530.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-12-04T00:59:45.207
+helpfulCount:
+16
+userID:
+4249855
+Display Name:
+Maria Ilidia Perneta Gomes
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+989
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3744569.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was a little to bland for my taste buds, sorry.......I did a little changing by adding in a few extra ingredients to go with my taste. I added in garlic (thats a must for me) about 4 cloves very finely chopped, chives  and about 1/4cup chopped walnut mixed everything in and shapped it into a ball. Its even better the day after.
+Review:
+Rating:
+5
+dateLastModified:
+2009-12-24T08:53:57.763
+helpfulCount:
+9
+userID:
+4360205
+Display Name:
+Anna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it... not sure what you all are talking about, but my family said it was really good.  I made it and then let it sit overnight. I think that's why yours was "bland"- you need to let the flavors set for awhile.  Also, if you eat it when it's cold, it won't have as much flavor as if it's room temp.
+Review:
+Rating:
+1
+dateLastModified:
+2009-12-22T09:56:59.62
+helpfulCount:
+7
+userID:
+2946801
+Display Name:
+Annie Eaton Wheaton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2147992.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very bland

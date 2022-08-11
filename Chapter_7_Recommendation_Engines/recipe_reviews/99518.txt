@@ -1,0 +1,107 @@
+Recipe number:
+99518.txt
+Review:
+Rating:
+2
+dateLastModified:
+2006-10-04T23:25:45.357
+helpfulCount:
+7
+userID:
+2103640
+Display Name:
+clara alford,essex
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i thought you needed alot of ingredients,which i thought would really yum plain old rice up ,it was just ok not brilliant
+Review:
+Rating:
+5
+dateLastModified:
+2010-05-11T13:00:57.01
+helpfulCount:
+3
+userID:
+4866181
+Display Name:
+Amanda Nuchols
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3182797.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Probably not the kind of rice to make if you don't already have all of these unusual (to Westerners) spices in your cabinet, some of which are difficult to find if you don't have a local Indian Market.  If you do, and if you love "real" Indian food, this rice is delicious and very authentic.
+Review:
+Rating:
+3
+dateLastModified:
+2012-07-01T10:59:58.217
+helpfulCount:
+1
+userID:
+3280804
+Display Name:
+Seathrun
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/995631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Consider adding the onion after the spices and cooking over medium heat for about 12 minutes until the onion is golden brown, then adding the rice and peas.

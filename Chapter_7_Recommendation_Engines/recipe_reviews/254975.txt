@@ -1,0 +1,108 @@
+Recipe number:
+254975.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-22T11:59:15.073
+helpfulCount:
+2
+userID:
+24613263
+Display Name:
+Jo1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easier and better way:dredge florets in egg, then progresso Italian bread crumbs. Arrange on cookie sheet with sides(parchment paper on bottom is good) that has been generously covered in olive oil. Bake at 375 til browned (15-20 min), then turn over once to brown other side. My mom made it this way for years(and I’m old!), and everyone loves it.
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-09T08:19:51.85
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+968
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a pretty good recipe. I used an airfryer to cook them. Boiling the cauliflower in lemon water is a nice touch. I topped it with some lemon zest and served it with Utah fry sauce from McCormick's. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-18T14:30:00.833
+helpfulCount:
+0
+userID:
+15168668
+Display Name:
+Roy Munson
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6324125.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Choice! The only variant I used was seasoned bread crumbs. The recipe calls to blanch for fifteen to twenty minutes?? I blanched for FIVE minutes and they turned out perfect. My next batch I'll try a dash or two of powdered garlic.  Good the next morning heated in the toaster oven. I served them with shrimp cocktail  sauce. :- )
+Rev. 10/21/18

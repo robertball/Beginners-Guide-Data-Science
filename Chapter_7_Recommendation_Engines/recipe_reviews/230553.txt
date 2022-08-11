@@ -1,0 +1,72 @@
+Recipe number:
+230553.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-03T21:22:55.35
+helpfulCount:
+0
+userID:
+11089287
+Display Name:
+Annie
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2277
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a work tailgate party!  It was a huge success!  Now, I get asked to bring it all the time.  Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-19T17:10:02.783
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everything about this was great! It maybe could have used an herb but it was still great. I roasted my peppers over the open flame of my gas stove to save time but they can easily be roasted in the oven too. Roasting the peppers really brings out a smokiness which plays a big part in the end flavor so I do not recommend skipping this step. Roasting them also brings on more heat so you may want to use less if you are sensitive to heat.  Great recipe! Thanks for sharing!

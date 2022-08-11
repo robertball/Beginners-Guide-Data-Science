@@ -1,0 +1,107 @@
+Recipe number:
+247115.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-17T01:13:28.77
+helpfulCount:
+1
+userID:
+17921663
+Display Name:
+Amanda Vance
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+304
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4513044.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it exactly and added extra brown sugar to taste—best recipe I’ve tried yet!!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-14T17:30:12.17
+helpfulCount:
+0
+userID:
+16626809
+Display Name:
+Ronda B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7322240.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious.  Used regular vinegar.
+Review:
+Rating:
+3
+dateLastModified:
+2017-03-08T00:43:51.87
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+1083
+favoritesCount:
+1244
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I put this on meatballs, and it was fine. However, the amount of vinegar was too strong for us.

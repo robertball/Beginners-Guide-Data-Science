@@ -1,0 +1,37 @@
+Recipe number:
+14779.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-22T13:20:16.04
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Use the water you soak your mushrooms in for additional flavor. I didn't have anywhere near 5 pounds of pork leg so I added 1/2 pound of ground pork that needed used up. I also had some shaved carrots that needed used and I added them in the last 20 minutes of cooking. This turned out a lot better than I expected and is something I would make again. I had the leftover today and added a generous squirt of Sriracha and that added a nice touch as well.

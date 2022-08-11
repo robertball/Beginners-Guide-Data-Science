@@ -1,0 +1,40 @@
+Recipe number:
+260823.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-01T13:01:11.05
+helpfulCount:
+0
+userID:
+4562668
+Display Name:
+Chef V
+isPro:
+False
+followersCount:
+228
+followingCount:
+0
+madeRecipesCount:
+459
+favoritesCount:
+642
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/911981.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was super good!
+I used coconut milk instead and made as directed.
+Next time I'll up the cocoa to 2 teaspoon as well.
+Will try in microwave too mixing often.

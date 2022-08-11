@@ -1,0 +1,37 @@
+Recipe number:
+231124.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-04T19:20:34.427
+helpfulCount:
+0
+userID:
+1281438
+Display Name:
+RALWATTAR
+isPro:
+False
+followersCount:
+25
+followingCount:
+0
+madeRecipesCount:
+606
+favoritesCount:
+667
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/279889.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good salad.  I didn't have the grill on so I ended up sautéing the dates over medium-high heat instead.

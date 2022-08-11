@@ -1,0 +1,73 @@
+Recipe number:
+271022.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-16T00:32:05.39
+helpfulCount:
+2
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good boozy cake, a bit on the strong side but delicious regardless. Despite having to use 15.25 oz cake mix (they don't make the 18.5 any longer) and the pudding boxes were 3.5 oz instead of 3.9 oz (because I could not find that size) it all came together perfectly. I chose to make a bundt cake and baked it for 55 minutes. Next time I will cut the Irish Whiskey to 1/2 - 3/4 cups.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-20T01:28:19.653
+helpfulCount:
+0
+userID:
+15039304
+Display Name:
+cookie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and a great change from a run cake!
+Although I used honey whiskey in place of Irish whiskey.

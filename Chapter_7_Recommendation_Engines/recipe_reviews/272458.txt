@@ -1,0 +1,37 @@
+Recipe number:
+272458.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-28T15:45:35.72
+helpfulCount:
+0
+userID:
+10006369
+Display Name:
+plates4u
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+326
+favoritesCount:
+1220
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4569544.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a homemade roasted chicken that I desperately needed to use up. This recipe is the solution.  I replaced a couple of ingredients given some food restrictions in my household. I used red pepper for yellow pepper, did not use red pepper flakes. I used a pinch of cayenne only and used canned diced roasted tomatoes. This was very good. I think it can use a bit less of some of the ingredients but then again the outcome is very good and I love the fact that it came out in a happy medium texture: not too soupy nor too thick. Will make it again!

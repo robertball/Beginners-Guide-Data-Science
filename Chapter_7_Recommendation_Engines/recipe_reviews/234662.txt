@@ -1,0 +1,72 @@
+Recipe number:
+234662.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-03-27T04:47:59.137
+helpfulCount:
+7
+userID:
+1601887
+Display Name:
+Lupin Pooter
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+59
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/31771.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just made this tonight...Mr. P wolfed down 2 huge bowls, one straight after the other, and has already asked for it again. Made a couple of very small changes: used a hand blender to keep the base a little chunky as per Mr.P's fussy preference and added a shake of crushed pepper flakes (ditto!). Thank you very much for the recipe - most appreciated!
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-04T19:03:28.773
+helpfulCount:
+1
+userID:
+3394432
+Display Name:
+Alice M Roberts-Springett
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6540901.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Add some dill weed for nice flavour.

@@ -1,0 +1,37 @@
+Recipe number:
+255090.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-03T00:09:21.487
+helpfulCount:
+3
+userID:
+15038449
+Display Name:
+Donna Murphy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+2419
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3476924.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used jalapeño mozzarella, red & orange peppers in addition to the green, no salt and spinach on top. Ooh it’s so good.

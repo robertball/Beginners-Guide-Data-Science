@@ -1,0 +1,37 @@
+Recipe number:
+82545.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-03-30T12:27:09.59
+helpfulCount:
+2
+userID:
+1194774
+Display Name:
+madridmom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+132
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to make a few substitutions (I Used generic bread, Cream of chicken soup, left out the celery, used thyme instead of sage). I liked the taste OK, the dressing was moist but not soggy but the chicken was too dry, and the onions were still crunchy.  Next time I will saute the onions first and serve with some kind of gravy or another can of soup perhaps.

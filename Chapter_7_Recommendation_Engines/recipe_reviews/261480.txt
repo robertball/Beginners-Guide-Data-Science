@@ -1,0 +1,38 @@
+Recipe number:
+261480.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-21T22:35:29.9
+helpfulCount:
+2
+userID:
+10850001
+Display Name:
+Ann Freele
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1782973.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had never tried persimmons in any form before these cookies. 
+The recipe was well received, and the cookies disappeared fast...but a few things of note of the recipe as written... the glaze is not a glaze, it's icing. it is way way to thick to drizzle on anything, nor did it harden.  I didn't do any of the fancy decorating, just good cookies and tasty icing was fine with us

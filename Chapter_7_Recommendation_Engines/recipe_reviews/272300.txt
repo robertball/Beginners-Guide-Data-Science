@@ -1,0 +1,37 @@
+Recipe number:
+272300.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-08T14:54:10.787
+helpfulCount:
+0
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+297
+followingCount:
+0
+madeRecipesCount:
+251
+favoritesCount:
+1620
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7665074.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I had to add a bit more flour to get the consistency of the dough right, about 30 minutes into rice time, but it came out perfectly!

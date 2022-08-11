@@ -1,0 +1,37 @@
+Recipe number:
+268699.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-22T17:18:13.703
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hmmm. Made this exactly as written and while they tasted fine, they were not what I expected. For starters they never did get brown. I checked them at 10 minutes and they were not brown so I stuck them in for 5 more minutes. When I checked them at 10 minutes they were still balls. When I checked them at 15 minutes they were "cookies". They went from balls to flat discs somewhere in that 5 minute span. They still never browned.

@@ -1,0 +1,47 @@
+Recipe number:
+55687.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/03/2004
+helpfulCount:
+5
+userID:
+376366
+Display Name:
+Carrie
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was a wonderful recipe.  I was looking for  one using kale as I know how healthful it is, but was afraid to cook with it.  I used hot turkey sausage and really enjoyed it.  And...I felt good after eating it!
+Review:
+Rating:
+3
+dateLastModified:
+06/05/2004
+helpfulCount:
+1
+userID:
+592989
+Display Name:
+DELACMT1
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was an okay dish, not one I would make again.
+Review:
+Rating:
+4
+dateLastModified:
+01/03/2004
+helpfulCount:
+1
+userID:
+867207
+Display Name:
+CALIFORNIADREAMIN
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I used more linguica (Portuguese sausage)than called for (about a pound)and about 12 ounces linguine. Linguica is uncooked sausage (kielbasa is usually already cooked) and I think you need to cook it longer than 2-3 minutes. I also found that kale takes a little longer than 1-2 minutes to wilt.This was very good- my family rated it a keeper.

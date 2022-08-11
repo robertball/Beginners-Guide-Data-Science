@@ -1,0 +1,37 @@
+Recipe number:
+12669.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-08-31T19:14:45.717
+helpfulCount:
+39
+userID:
+1063466
+Display Name:
+JULIEFINN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This pie was WONDERFUL!  "Easy as pie" to make and very, very delicious!  It is my fool-proof elderberry pie recipe now!

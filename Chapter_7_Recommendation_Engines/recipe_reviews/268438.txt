@@ -1,0 +1,74 @@
+Recipe number:
+268438.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-27T00:21:35.737
+helpfulCount:
+1
+userID:
+22212817
+Display Name:
+Ann McGowan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Enjoyed these a lot. Used a 10x16 pan. Didn't have cranberries so used one cup of currants. Cooked for 33 minutes. Liked the pumpkin but will try it with buttercup squash next time as it is a little sweeter and is my favorite.  To bring to a function I would add a little more honey or drizzle some icing as this recipe is not on sweet .  
+
+I will definitely be making these again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-13T23:24:29.29
+helpfulCount:
+0
+userID:
+5118896
+Display Name:
+fabeverydayblog
+isPro:
+False
+followersCount:
+153
+followingCount:
+0
+madeRecipesCount:
+474
+favoritesCount:
+309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great flavor and texture, especially for being gluten-free!

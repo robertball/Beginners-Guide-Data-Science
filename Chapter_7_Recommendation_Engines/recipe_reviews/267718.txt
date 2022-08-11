@@ -1,0 +1,37 @@
+Recipe number:
+267718.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-07T01:58:11.18
+helpfulCount:
+1
+userID:
+15242201
+Display Name:
+amy w
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+855
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1994501.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a lovely recipe for mulled wine. I didn't have coriander, so didn't use it. I also included the flesh of one lemon, along with the orange.  Other than that, I followed the recipe pretty closely.

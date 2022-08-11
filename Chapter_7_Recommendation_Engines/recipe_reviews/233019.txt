@@ -1,0 +1,147 @@
+Recipe number:
+233019.txt
+Review:
+Rating:
+1
+dateLastModified:
+2013-07-02T17:17:21.51
+helpfulCount:
+19
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+828
+followingCount:
+0
+madeRecipesCount:
+1734
+favoritesCount:
+4045
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Using the Birds Eye Recipe Ready Chopped Green Peppers & Onions certainly makes cooking chili, or anything, quick and easy. I can recommend it. This recipe, however, is not for us. I prefer chili with more sauce and more flavor. I took the photo and then had to add ingredients to the chili for us to eat it.
+Review:
+Rating:
+4
+dateLastModified:
+2013-07-20T18:21:00.187
+helpfulCount:
+9
+userID:
+9536096
+Display Name:
+Sugarplum
+isPro:
+False
+followersCount:
+336
+followingCount:
+0
+madeRecipesCount:
+226
+favoritesCount:
+722
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3927438.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very easy and requires very little prep time...great for when you need to get dinner on the table in a hurry!
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-10T19:45:45.573
+helpfulCount:
+2
+userID:
+6510890
+Display Name:
+Gina B.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/931320.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Modifications: I doubled the recipe and used the last reviewer's suggestion to replace beef with ground turkey. I also: 
+-cooked the ground turkey in a deep pan and used fresh onions to cook turkey in. Then I added rest of ingredients in a large pot and transfered turkey to the large put. 
+-added fresh chopped green and red pepper after I cooked the ground turkey
+-replaced diced tomatoes with chilli flavoured diced tomatoes
+-didn't drain and rinse the beans
+-added a little cumin. I didn't use oregno. Hubby was skeptical while I was cooking but ended up loving it! :)
+Review:
+Rating:
+4
+dateLastModified:
+2013-11-18T13:46:27.71
+helpfulCount:
+1
+userID:
+4999409
+Display Name:
+denise
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+140
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you make it with ground turkey instead of beef, and up the spices a bit, your family will never know it's lower in fat.

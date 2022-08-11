@@ -1,0 +1,37 @@
+Recipe number:
+221154.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-17T13:44:59.007
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have mixed feeling on how to rate this recipe so let me explain. Taste wise this was great. What wasn't so great was the final appearance. Everything starts coming together nicely all pretty, fluffy, bright white, green, and then BAM the splash of black vinegar and the spicy mustard gets added. At that point  the salad turns a color that is not very appetizing. I can't know for sure but I honestly think it was the fault of the vinegar so I would suggest using a white balsamic vinegar instead of the dark one that I used. I think that will fix the appearance. Again, this tasted great and I really liked the addition of chili powder.

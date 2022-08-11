@@ -1,0 +1,107 @@
+Recipe number:
+217077.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-07-14T20:40:35.47
+helpfulCount:
+11
+userID:
+3326566
+Display Name:
+Avon- status quo PRO
+isPro:
+False
+followersCount:
+253
+followingCount:
+0
+madeRecipesCount:
+131
+favoritesCount:
+1847
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/393844.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this salad! It has great Greek flavors that my whole family loves. The few changes I made was to add some sliced cucumbers and halved grape tomatoes. It gave it the crunch and the freshness that I associate with salads. The feta and olives are perfect.  Unlike a lot of salads, this one actually got better after sitting for a day or two. If your pasta absorbs too much of the dressing, which really is a very minimal, add more. I also did give it a good shake of red wine vinegar to wake up the flavors. As written, it's a 3. With my tweaks it's a 5. Therefore, I'm settling on an overall rating of 4.
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-07T17:09:22.76
+helpfulCount:
+5
+userID:
+6116375
+Display Name:
+Seidler, Toni
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really easy and delicious.  I added more red pepper because we love to eat fire.  I served this cold.  My husband loved it.  I will make this for company.
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-11T10:56:30.883
+helpfulCount:
+1
+userID:
+9630502
+Display Name:
+Margaret Vanessa Yerkes
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+368
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3582288.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  I added green onions, feta, tomatoes, and calamata olives.  Was divine.

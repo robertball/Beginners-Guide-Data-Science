@@ -1,0 +1,72 @@
+Recipe number:
+258635.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-05T16:01:15.907
+helpfulCount:
+1
+userID:
+18032617
+Display Name:
+E. Abbey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As mentioned before, very good base casserole to modify to your liking. Will increase the spices next time and maybe throw in some heat and use shredded cheese. Used diced canned tomatoes as well, basmati rice and the cheese singles.  It could have cooked a little longer, but everyone liked it, including the 15 and 9 year old boys.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-08T18:35:48.233
+helpfulCount:
+1
+userID:
+166708
+Display Name:
+Jan Mowbray
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+428
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2530650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this today. It's certainly nothing fancy but it's easy to put together, and it makes a lot.  I used minced garlic instead of the powder, and a can of diced tomatoes - I wasn't about to stick my hand in a can of tomatoes to break them up.  And I used 2 cups of shredded cheddar - other than exceptions, I followed the recipe exactly.  It's pretty tasty, and while I don't know if I'll make it again, it was a good one to try. One extra comment - it needs more salt and pepper and/or other spices.  It freezes and reheats well.

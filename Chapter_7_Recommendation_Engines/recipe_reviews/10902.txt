@@ -1,0 +1,37 @@
+Recipe number:
+10902.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-07-24T09:44:12.373
+helpfulCount:
+6
+userID:
+136387
+Display Name:
+YIRA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You can use other extracts and or nuts to change the flavor without losing the right consistency of the batter. Disks are easy to freehand with the batter; it flows well. Works best if you bake on baking mat or buttered parchment paper.

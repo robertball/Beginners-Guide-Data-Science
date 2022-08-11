@@ -1,0 +1,107 @@
+Recipe number:
+95587.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-09-20T15:06:51.47
+helpfulCount:
+4
+userID:
+1863824
+Display Name:
+Darrah Shae Lowe
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3068193.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For a family on budget, this is actually a pretty good recipe.  It seemed a littel strange to me at first, but it turned out pretty darn good.  I did season the steaks with pepper and garlic salt before I browned them.  ALso, instead of adding water to teh steaks to cook, I used beef broth.  I do think that they could cook for about 45 extra minutes...about 1 1/2 hours total.
+Review:
+Rating:
+3
+dateLastModified:
+2012-04-13T08:02:03.983
+helpfulCount:
+2
+userID:
+9027242
+Display Name:
+Jessie D.
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+385
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6959611.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good recipe, but we found it to be a little bland. Don't get me wrong, It's a pretty hearty dish for a family on a buget. We just like alot of flavor. I spiced it up with thyme, basil, oregano, and garlic. Next time I make this I will sautee an onion and garlic with the steak. I also would replaced half of the rice water with beef or chicken broth for added flavor. All in all this is an easy dish to make.
+Review:
+Rating:
+5
+dateLastModified:
+2008-06-08T13:38:25.017
+helpfulCount:
+1
+userID:
+2433682
+Display Name:
+Rhonda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is probably my favorite dish of all time.  I love it !

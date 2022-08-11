@@ -1,0 +1,107 @@
+Recipe number:
+190756.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-03-26T20:21:34.247
+helpfulCount:
+6
+userID:
+3466951
+Display Name:
+Good EatNZ
+isPro:
+False
+followersCount:
+101
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/237788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good.  I seldom follow recipes for marinades, but this came out great.  The fresh basil added a great flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2009-03-02T08:06:22.93
+helpfulCount:
+4
+userID:
+3593236
+Display Name:
+K Dubya
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i made it exactly according to the recipe and it is a complex subtle blend of flavors (used it on pork tenderloin) . Excellent and i rate it as 4.5+.
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-22T08:04:45.67
+helpfulCount:
+2
+userID:
+3368022
+Display Name:
+Volleyballmom
+isPro:
+False
+followersCount:
+98
+followingCount:
+0
+madeRecipesCount:
+335
+favoritesCount:
+1107
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1046245.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We used this for thick boneless pork chops. My only change next time would be to use less wine. I've never used basil in a marinade before. Nice touch. This is definitely a red meat marinade. Thanks Basil Brad!

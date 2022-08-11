@@ -1,0 +1,37 @@
+Recipe number:
+236532.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-02-24T08:00:54.167
+helpfulCount:
+2
+userID:
+7853359
+Display Name:
+Joey Joan
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+561
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7645128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I omitted the pepper flakes because mom can't do even a little heat. Everyone that tasted it or looked at it while I was cooking it thought I was making red sauce. If you don't add the cream or use an immersion blender it does make an excellent sauce. Once you add the cream and blend it you have soup. I liked the soup it was very easy to make has good flavor and I will make it again.

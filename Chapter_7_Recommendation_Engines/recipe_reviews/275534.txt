@@ -1,0 +1,37 @@
+Recipe number:
+275534.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-09-10T22:45:47.397
+helpfulCount:
+0
+userID:
+25245456
+Display Name:
+Mark Campidonica
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6873875.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think we are supposed to add the ingredients in step 3 to the ingredients in step 2.

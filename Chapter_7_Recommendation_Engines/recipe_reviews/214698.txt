@@ -1,0 +1,72 @@
+Recipe number:
+214698.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-05-01T19:43:20.39
+helpfulCount:
+2
+userID:
+3712280
+Display Name:
+Bibi50
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/479120.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this drink over the weekend and it was delicious.  We didn't use cheap champagne though!
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-01T16:04:24.747
+helpfulCount:
+1
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The 'younger' crowd enjoyed it.  I don't like the taste of RedBull so I'm not a good judge....

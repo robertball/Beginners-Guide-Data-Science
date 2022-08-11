@@ -1,0 +1,37 @@
+Recipe number:
+258699.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-24T17:23:36.65
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this soup very much.. but I did use fresh carrots and fresh mushrooms. I cooked the carrots beforehand a bit before they went into the soup. One caveat... the recipe calls for 1T of garlic powder.   In most cases, 1/8t of garlic powder is equal to one clove so 1T is 24 cloves of garlic.   Way way way too much, so adjust that.    I think I used  1/4- 1/2t

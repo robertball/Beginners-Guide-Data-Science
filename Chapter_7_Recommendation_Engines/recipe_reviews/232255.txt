@@ -1,0 +1,107 @@
+Recipe number:
+232255.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-07T06:07:38.197
+helpfulCount:
+1
+userID:
+17223963
+Display Name:
+Evie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3089544.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was the first time I have ever made chili and it was delicious.  I will definitely be making it again.  Soon!!
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-24T19:19:09.877
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This chili is very interesting. The chocolate flavor is pretty strong. I felt like between it and the coffee, it made it a little bitter. I had to add some brown sugar to offset the bitterness. Once I did that, my 6 year-old liked it. I used tomato sauce instead of crushed tomatoes and mild sausage instead of the one listed. Also, I just used diced green peppers instead of roasting them. Also, the amount of chili powder was a bit much for what my kid can handle, so I cut that in half. As written, I'm not sure this chili is very kid friendly with the bitter chocolate, coffee and amount of chili powder. This recipe has definitely given me some ideas for future chilis though.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-06T00:31:33.083
+helpfulCount:
+0
+userID:
+15822662
+Display Name:
+Bethanyf Sales
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2547075.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I halved the recipe since I have a small family but I used the full tomatoes. I did not use the Salcippa (sp?) sausage as my grocery store didn't have it. Just used the beef - and not sirloin (too expensive). I only used a sprinkle of cumin and sprinkle of chili powder (1/4 of each really sounded like a lot?).  I did not broil the peppers, I just diced and cooked them with the onions and garlic. Kids loved it.  Will make it again.

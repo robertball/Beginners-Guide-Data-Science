@@ -1,0 +1,72 @@
+Recipe number:
+246658.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-23T15:59:25.13
+helpfulCount:
+0
+userID:
+10652137
+Display Name:
+JVernel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and delicious. Will make again.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-25T04:07:57.01
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+968
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious. The broth does make the bitter flavor a bit more mild yet, it still has that unique flavour of the broccoli rabe. This is a very versatile recipe that you can use with pasta or as a side dish, so definitely a 5-star keeper. Thank you for sharing the recipe with us.

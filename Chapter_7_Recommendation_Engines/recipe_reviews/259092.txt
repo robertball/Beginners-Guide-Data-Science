@@ -1,0 +1,72 @@
+Recipe number:
+259092.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-05T14:46:24.553
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a nice and light salad that is perfect for summer. I did feel that half of a red onion and 3 green onions was a bit much and that is coming from a huge onion fan. I say use one or the other and not both. Other than that I have no complaints. This was good and would be good with shrimp in it too.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-29T14:34:28.733
+helpfulCount:
+0
+userID:
+4361450
+Display Name:
+Kateri
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The vinaigrette was a hit with my guests. I used mixed greens as I think the variety adds flavour. I left the avocados out, I don't like them, and I agreed with another review and only used the red onion.  I thought it might be better with a bit of crunch, maybe celery or jicama.

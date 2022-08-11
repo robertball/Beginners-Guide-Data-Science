@@ -1,0 +1,37 @@
+Recipe number:
+22665.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-02-24T07:28:46.877
+helpfulCount:
+0
+userID:
+10989643
+Display Name:
+Yorkiegirl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thought it had to much of a flour taste, and not sweet enough. I have made something similar before using cornstarch instead of flour. Think that would work better then to not get flour taste. Had to add to it trying to get rid of flour taste. The texture was good though.

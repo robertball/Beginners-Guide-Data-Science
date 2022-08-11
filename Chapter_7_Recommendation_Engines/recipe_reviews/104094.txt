@@ -1,0 +1,37 @@
+Recipe number:
+104094.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-10-09T10:08:57.91
+helpfulCount:
+0
+userID:
+2510273
+Display Name:
+mmr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+330
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is decadant. However, I had a hard time getting the caramel to stick to the sliced apples. Will try the same recipe with whole apples next time. Doesn't matter, my family devoured it anyway.

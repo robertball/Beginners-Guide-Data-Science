@@ -1,0 +1,37 @@
+Recipe number:
+268283.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-08T03:38:48.21
+helpfulCount:
+0
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+272
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3415
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a difficult time finding Chanterelle mushrooms, so, I took the suggestions of the author and used a different kind.  I used a blend of button, oyster, & baby bellas.   I also parbaked the crust for about 7 minutes, so, the crust didn't get soggy.  The quiche had good flavor and I loved the earthy mushroom taste.  I would add a little salt and pepper if I made it again.

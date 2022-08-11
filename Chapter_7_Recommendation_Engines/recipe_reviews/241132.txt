@@ -1,0 +1,47 @@
+Recipe number:
+241132.txt
+Review:
+Rating:
+5
+dateLastModified:
+10/03/2015
+helpfulCount:
+0
+userID:
+12486035
+Display Name:
+victoria
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Love it! No need to add any additional seasoning!
+Review:
+Rating:
+4
+dateLastModified:
+11/05/2015
+helpfulCount:
+0
+userID:
+2498381
+Display Name:
+AnnMarie
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+love it quick and easy.  I used canned corn instead of spinach since I am the only one who likes spinach in my family.
+Review:
+Rating:
+5
+dateLastModified:
+12/15/2019
+helpfulCount:
+0
+userID:
+10207921
+Display Name:
+XAVE1123
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Wonderful quick and easy meal. I made it exactly as stated except I did add crushed red peppers. Thanks for the recipe.

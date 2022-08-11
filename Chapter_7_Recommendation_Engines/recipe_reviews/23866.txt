@@ -1,0 +1,108 @@
+Recipe number:
+23866.txt
+Review:
+Rating:
+1
+dateLastModified:
+2005-10-24T14:48:01.967
+helpfulCount:
+35
+userID:
+1570205
+Display Name:
+Jenna Paramour
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+first of all, real soups are not made in a microwave. second, it had no flavor. when i made this soup (in a pot on the stove) i had to add garlic, thyme, basil and oregano to give the soup a full flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2006-08-31T04:39:51.357
+helpfulCount:
+12
+userID:
+1190432
+Display Name:
+E STENSTROM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+379
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the quickness of this recipe which can be pulled together with leftovers as well as adding canned goods to it.
+Definitely season to taste, which I like to do to meet dietary needs.
+Review:
+Rating:
+4
+dateLastModified:
+2009-01-21T09:22:39.847
+helpfulCount:
+11
+userID:
+3188577
+Display Name:
+yloppa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/296971.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I decided to try this in the slow cooker, and it turned out great.  The only frozen okra I could find was breaded, but that even worked out to thicken the stew! I'll definitely do this one again.

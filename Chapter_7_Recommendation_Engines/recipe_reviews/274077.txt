@@ -1,0 +1,79 @@
+Recipe number:
+274077.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-16T19:45:28.017
+helpfulCount:
+0
+userID:
+1444281
+Display Name:
+Ronna
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+117
+favoritesCount:
+221
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4500879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I learned how to make this when I lived in Taiwan. So easy. I usually make it with chicken (either breasts, or boneless skinless thighs). I add chunks of carrots and green pepper. Sometimes I put potatoes, sometimes not.  Always delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-30T04:45:56.563
+helpfulCount:
+0
+userID:
+956768
+Display Name:
+MMSVA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/85837.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just want to add (since I can’t figure out how to edit the recipe)
+I add a bay leaf or two while the meat/onion/carrot mixture is simmering. 
+
+I use the mild of both S&B and Vermont curry roux. 
+
+I serve with pineapple, but others serve with pickled onions or that pink ginger. 
+
+Can be served over rice or Udon.

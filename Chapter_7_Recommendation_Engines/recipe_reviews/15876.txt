@@ -1,0 +1,107 @@
+Recipe number:
+15876.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-12-01T19:23:08.607
+helpfulCount:
+21
+userID:
+7028
+Display Name:
+Ron
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe for some friends, and they loved it.  The down side is the prep/cooking time.  Also, due to oven space, I divided the meringue into only 3 (larger) layers.
+Review:
+Rating:
+5
+dateLastModified:
+2006-01-13T16:24:38.903
+helpfulCount:
+16
+userID:
+1378391
+Display Name:
+Cathy Ewaschuk
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3696472.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a big hit. I used about two cups of cream to have thicker layers in between. The chocolate ribbons made for a nice presentation. My meringues weren't exactly the same size, so it wasn't perfect, but it still looked and tasted delicious. A really nice gluten free dessert.
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-19T07:36:11.28
+helpfulCount:
+6
+userID:
+3362481
+Display Name:
+love to cook
+isPro:
+False
+followersCount:
+32
+followingCount:
+0
+madeRecipesCount:
+167
+favoritesCount:
+1177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2381767.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as part of mis7up's fergotten treasure blog for my DH birthday. As he is celiac, all ingredients worked well. We loved this and the bit of cinnamon made it taste like "christmas" as my DS stated! Will be made again!

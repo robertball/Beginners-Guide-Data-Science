@@ -1,0 +1,72 @@
+Recipe number:
+247270.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-16T16:19:22.823
+helpfulCount:
+0
+userID:
+26244880
+Display Name:
+joette
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! I have to disagree with the other review saying too seasoned, and say that with just a dash of season salt, it was on the mild side for me (and I didn’t rinse the broth off!). I was just looking for a recipe that has a bunch of the ingredients I need to get rid of, but I’m going to save this as a template for other miscellaneous veggies. :)   The only improvement to the recipe I would make: please change the ingredients from saying “large chunks” to saying “shredded”. I had already chopped them by the time I got to the part that calls for a food processor, so I finely diced them best I could, when I could have used a grater. (Still good obviously and not a big deal. But mildly exasperated for a minute)
+Review:
+Rating:
+3
+dateLastModified:
+2016-06-10T07:51:24.78
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you like foods with lots of seasoning, then this recipe is for you. It was a bit too seasoned for us. Thank you for the recipe.

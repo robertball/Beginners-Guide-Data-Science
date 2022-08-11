@@ -1,0 +1,37 @@
+Recipe number:
+223035.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-08-29T14:11:46.83
+helpfulCount:
+0
+userID:
+11935767
+Display Name:
+3PeasPod
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Changes were slight- no miso paste over here (omitted - we need to be Gluten Free) and no seasoned salt (just used sea salt) but this was really wonderful. We also just used baby bella mushrooms. I wanted a recipe to let my CSA kohlrabi's taste shine and this did.  Great veggie recipe - very substantial and all three of my kids (though not terribly picky eaters) really enjoyed it.

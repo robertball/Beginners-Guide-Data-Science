@@ -1,0 +1,37 @@
+Recipe number:
+245194.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-11T18:54:12.623
+helpfulCount:
+0
+userID:
+3795092
+Display Name:
+virgi
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good!  Next time I will use a little more broccoli, scallions, mint, and salt. I steamed the cabbage and broccoli for 2 minutes, just so it would be less crunchy. Jaws hurt anyways, but it's well worth it! Will make again!

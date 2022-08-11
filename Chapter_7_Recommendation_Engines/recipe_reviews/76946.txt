@@ -1,0 +1,37 @@
+Recipe number:
+76946.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-02-22T22:57:28.03
+helpfulCount:
+20
+userID:
+1363328
+Display Name:
+Meryl
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/9328.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wouldn't recommend making fried wontons using store-bought wrappers; the taste isn't as "fresh" and the wontons come out flat (as opposed to the super puffy ones from Chinese restaurants).  Use the recipe for Wonton Wrappers featured in allrecipes and you'll have restaurant quality fried wontons!

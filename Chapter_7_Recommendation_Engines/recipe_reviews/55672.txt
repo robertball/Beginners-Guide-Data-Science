@@ -1,0 +1,37 @@
+Recipe number:
+55672.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-07-17T11:11:32.013
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very tasty. I marinated some chicken breast meat in lime and garlic over night. cooked this up on the stove top and shredded for this dish. My refried beans were black with jalepenos, and only used 1/4 c per tostada. I left off the diced chilies. I topped this with a little soy cheese and 8 minutes was just the right amount of time. I had this with some zucchini fries and really enjoyed it.

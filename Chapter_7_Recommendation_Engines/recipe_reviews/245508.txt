@@ -1,0 +1,72 @@
+Recipe number:
+245508.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-05T00:39:05.277
+helpfulCount:
+1
+userID:
+20909272
+Display Name:
+Jessica Stewart
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4249742.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it half whole spelt flour and half Non GMO all purpose white flour.... mainly due to I didn't have enough spelt. I also added 2 TBS sugar and a splash of vanilla... I also used Sea Salt in stead of the pink. I used my own eggs from my chickens and since we're not dairy free, I used raw milk instead. My family loved it. We also topped it with home canned peach pie filling the last 5 minutes of cooking.
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-26T14:32:06.707
+helpfulCount:
+0
+userID:
+3795092
+Display Name:
+virgi
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the taste but was not crazy about the texture. I would make again if I have to please somebody with lactose intolerance. Otherwise, I will stick to my lactose-loaded recipe, which has less calories and nicer texture.

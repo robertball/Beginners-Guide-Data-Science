@@ -1,0 +1,72 @@
+Recipe number:
+260332.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-14T04:38:48.59
+helpfulCount:
+1
+userID:
+24542500
+Display Name:
+AllieCat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A beautiful way to start the day.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-02T16:20:11.13
+helpfulCount:
+1
+userID:
+20065214
+Display Name:
+Michaela Mercer Rosenthal
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3791620.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Any combination of fruit and nuts can be used. Today I used dried cranberries in place of the raisins and toasted pecans instead of the sunflower seeds.

@@ -1,0 +1,72 @@
+Recipe number:
+215443.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-06T00:17:12.753
+helpfulCount:
+0
+userID:
+5449299
+Display Name:
+DotDot
+isPro:
+False
+followersCount:
+76
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+196
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5311859.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make and a great way to make use of leftover turkey from Thanksgiving. Yummy!
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-02T20:32:21.37
+helpfulCount:
+0
+userID:
+17435841
+Display Name:
+Soren Peterson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3213210.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic, thanks for the recipe.

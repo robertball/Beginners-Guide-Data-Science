@@ -1,0 +1,107 @@
+Recipe number:
+101839.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-08-04T15:46:51.56
+helpfulCount:
+8
+userID:
+1070707
+Display Name:
+KulinaryKeri
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+204
+favoritesCount:
+360
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4535746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't add sparkling water, lemon or the the pomegranate seeds. I did add a splash of lime juice to the drink. Pleasant on the taste buds! Thanks Joan!
+Review:
+Rating:
+5
+dateLastModified:
+2009-09-30T21:29:48.937
+helpfulCount:
+7
+userID:
+181365
+Display Name:
+Lynn Small
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+221
+favoritesCount:
+256
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as directed.  It's yummy.  Thanks Joan.
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-24T11:51:36.097
+helpfulCount:
+1
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1060
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very refreshing!

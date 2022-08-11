@@ -1,0 +1,75 @@
+Recipe number:
+259281.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-18T23:14:01.343
+helpfulCount:
+1
+userID:
+4618931
+Display Name:
+HopHead
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/389456.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made these muffins twice so far, both times using agave nectar instead of maple syrup and adding a 1/2 tsp of allspice. Highly recommend the allspice. 
+The second time I made the recipe, I added more spinach and they were tasty but a bit too wet, even though I extracted as much water as I did the first time. Next time, I'll probably only loosely pack a cup's worth of spinach. 
+I'll also cook these 25-30 mins. Finally, they remain pretty dense so you can get away with filling the cups more than 2/3 of the way.
+My 15 mo. old twins couldn't get enough of these and I liked them as well.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-24T00:25:21.173
+helpfulCount:
+0
+userID:
+17850713
+Display Name:
+Malkie Lopez
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3461593.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good! I used broccoli instead of spinach and added some semi sweet chocolate chips and the kids loved them! Next time though I’ll do it without the chips ;)

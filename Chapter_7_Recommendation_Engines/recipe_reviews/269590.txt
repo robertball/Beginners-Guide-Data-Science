@@ -1,0 +1,37 @@
+Recipe number:
+269590.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-15T18:38:49.297
+helpfulCount:
+1
+userID:
+24965819
+Display Name:
+kliptak
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6276429.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used extra-large eggs and soybean oil, and those were the only changes.  The cookies turned out LARGE and beautiful.  Lots of strawberry flavor.  They have a soft texture.  I would make them again; but, they will not be part of my regular rotation.  I think the 2 1/2 tablespoon size is too large.  I got a dozen big cookies, but could have gotten 2 dozen if I had made them smaller.  They were really sweet.  That could mean I should use a different brand of cake mix.

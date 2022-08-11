@@ -1,0 +1,107 @@
+Recipe number:
+241203.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-14T17:23:17.29
+helpfulCount:
+2
+userID:
+4831832
+Display Name:
+Brook Sederberg-Nowak
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1889
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1313004.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this and for a twist I added 1 1/2 tsp. of a good curry powder.  Really great!
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-05T02:29:47.52
+helpfulCount:
+0
+userID:
+22603878
+Display Name:
+Mark Reed
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+212
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a double batch using a Costco Rotisserie chicken and still had chicken left.  Very easy to make although the onion was a little strong.  Next time I'm going to reduce the onion and add a diced fresh jalepeno for a little kick.
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-21T13:17:49.963
+helpfulCount:
+0
+userID:
+12318800
+Display Name:
+Utonah Ruiz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+132
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1218309.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a rotesserie chicken from the grocery store & added a handful of chopped pecans.  This is easy & delicious.

@@ -1,0 +1,177 @@
+Recipe number:
+222855.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-06-07T10:06:24.313
+helpfulCount:
+27
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These little treats are a favorite of this family. When I make them, I use all beef hot dogs. This is also really good with Lil' Smokies. I like to serve them with a sauce made of chili sauce and grape jelly to dip.......as if they weren't already sweet enough. ;)
+Review:
+Rating:
+3
+dateLastModified:
+2012-08-05T13:12:34.08
+helpfulCount:
+14
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2215
+favoritesCount:
+2558
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a fun little appetizer for a casual cookout.  Let’s be realistic – this is heart attack food, but one or two pieces won’t kill you.  They take no time to put together, and I cooked them on the outdoor grill before I put on the hamburgers.  Very easy and fun.
+Review:
+Rating:
+5
+dateLastModified:
+2012-06-04T05:15:43.793
+helpfulCount:
+8
+userID:
+4831832
+Display Name:
+Brook Sederberg-Nowak
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1889
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1313004.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We had these at our neighbors new deck christening party last weekend..........Fabulous! Just make sur the bacon is crispy before serving. Great addition to the usual apps..........
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-10T09:02:55.467
+helpfulCount:
+3
+userID:
+1805728
+Display Name:
+Deb LM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this several times. I use cocktail weiners - sometimes smokies sometimes the ones with cheddar. If you want one don't turn your back on the plate at my house... they disappear quickly!!
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-01T18:06:27.37
+helpfulCount:
+0
+userID:
+2426437
+Display Name:
+Janey Schleppy
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2352179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hot dogs wrapped in bacon came out pretty well. Brown sugar & butter ended up being more like caramel than a sauce. Kind of disappointed.

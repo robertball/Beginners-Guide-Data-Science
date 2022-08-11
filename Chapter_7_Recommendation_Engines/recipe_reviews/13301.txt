@@ -1,0 +1,37 @@
+Recipe number:
+13301.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-05-04T11:19:32.623
+helpfulCount:
+4
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+243
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Campbell's condensed beef consomme which has a really hearty beefy flavor, and so I didn't need a bouillon cube. Overall, I liked this but it was lacking something. I think I just prefer 'Lance's French Onion Soup' - cheaper, easier, and the white wine adds a wonderful depth of flavor.

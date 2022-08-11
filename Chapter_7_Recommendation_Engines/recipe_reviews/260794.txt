@@ -1,0 +1,108 @@
+Recipe number:
+260794.txt
+Review:
+Rating:
+1
+dateLastModified:
+2020-02-24T23:24:56.48
+helpfulCount:
+0
+userID:
+22405764
+Display Name:
+Elyce Grossman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just wanted to point out that mutton is NOT goat but sheep! We don't eat goat in my house so I won't be making this. One star for calling goat mutton!
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-30T07:18:40.73
+helpfulCount:
+0
+userID:
+24782741
+Display Name:
+Michelle J
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+family loved it
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-25T22:31:13.4
+helpfulCount:
+0
+userID:
+25611494
+Display Name:
+Armin Ziegler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6674444.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicate, complex and appealing flavors. 
+I did not have access to the curry leaves but after some research decided on substituting it with a combination of fresh Basil leaves and the zest of a lime. Not knowing the original taste it still works fine for me.

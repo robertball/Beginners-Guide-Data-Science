@@ -1,0 +1,72 @@
+Recipe number:
+240478.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-08T10:37:23.113
+helpfulCount:
+2
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12266
+followingCount:
+0
+madeRecipesCount:
+1000
+favoritesCount:
+2673
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very nice recipe although not much different than Oatmeal Cookies with Chocolate Chips.  I was hoping the browned butter would have a more pronounced taste.  They hold their shape well.  Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2020-09-05T20:30:38.23
+helpfulCount:
+0
+userID:
+17316139
+Display Name:
+Mary Wilkins
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4839138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are really good, crispy and buttery. I bake half and freeze the rest for great cookies in a jiffy.

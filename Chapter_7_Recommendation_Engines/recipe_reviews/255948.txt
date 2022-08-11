@@ -1,0 +1,37 @@
+Recipe number:
+255948.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-29T01:39:08.527
+helpfulCount:
+0
+userID:
+24651624
+Display Name:
+Nicole Cooley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and rich! Worth all the work for sure!

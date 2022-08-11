@@ -1,0 +1,37 @@
+Recipe number:
+274458.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-06T14:26:51.69
+helpfulCount:
+0
+userID:
+24933766
+Display Name:
+Tom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It turned out great. I drizzled the chocolate instead of pouring it on. The group said it was just the right amount of chocolate. It was a hit! I will make it again.

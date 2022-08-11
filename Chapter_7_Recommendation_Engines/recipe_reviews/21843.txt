@@ -1,0 +1,149 @@
+Recipe number:
+21843.txt
+Review:
+Rating:
+3
+dateLastModified:
+2002-03-04T14:15:15.34
+helpfulCount:
+4
+userID:
+600775
+Display Name:
+ISIGUZO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this recipe and was pleased with the easiness in preparation...However, I felt it could use a few additions... I would add
+
+1 tsp of vanilla extract
+1 tsp of sugar
+1-2 tbsp of butter/margarine (melted)
+
+When I added these three ingredients. The result was a more flavorful pancake,  so play with it!
+The lingonberry idea was great! I'm never using syrup again
+Review:
+Rating:
+5
+dateLastModified:
+2002-11-09T10:57:45.09
+helpfulCount:
+1
+userID:
+56448
+Display Name:
+CCURCIO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a fantastic choice for a quick and easy breakfast!  I whipped these up this morning and rolled strawberries in them, added a bit of syrup and powdered sugar....wowee!  They were yummy...thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2002-01-06T12:17:25.123
+helpfulCount:
+1
+userID:
+506626
+Display Name:
+NIKKI_TYLIE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+76
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are super easy,excellent and turn out beautifully! I like to roll them up like crepes with yogurt inside and then sprinkled with powdered sugar. Try them!
+Review:
+Rating:
+5
+dateLastModified:
+2001-12-23T10:45:38.7
+helpfulCount:
+1
+userID:
+67672
+Display Name:
+HEATHERFEATHER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+295
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This are delicious.  If you have ever had the Swedish pancaes at IHOP, then these taste an awful lot like them.  I could not get lingonberries,  so I used some red currant jelly instead on the side.  These were so easy and I'd serve them to holiday guests - they'd never realize how quick and easy these are to prepare. Yum Yum Yum!

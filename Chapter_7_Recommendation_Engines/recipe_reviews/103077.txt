@@ -1,0 +1,37 @@
+Recipe number:
+103077.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-06-29T04:07:25.28
+helpfulCount:
+3
+userID:
+1927726
+Display Name:
+weekendchef
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/15897.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Terrific recipe, added corn to the salsa mix and Bay seasoning to the scallops.

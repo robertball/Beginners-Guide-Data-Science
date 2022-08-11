@@ -1,0 +1,37 @@
+Recipe number:
+216492.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-03-15T13:31:51.383
+helpfulCount:
+2
+userID:
+6735794
+Display Name:
+DPS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this open-faced sandwich.  Sometimes I use low-calorie bread instead, just rub a little bit of garlic on each slice and make a panini, it's soooo good!

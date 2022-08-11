@@ -1,0 +1,216 @@
+Recipe number:
+267862.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-24T23:16:12.97
+helpfulCount:
+2
+userID:
+3978019
+Display Name:
+Maggie McKenzie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/588912.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a bit more cheese, and the bacon was applewood smoked bacon. it is a good alternative to pasta.  I would make again:-)
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-30T21:43:42.837
+helpfulCount:
+1
+userID:
+16712868
+Display Name:
+Kathryn O'Reilly Harmon
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2765458.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+substituted butternut squash instead of spaghetti.  Came out great.  very high in grease.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-30T01:04:16.1
+helpfulCount:
+1
+userID:
+25397594
+Display Name:
+Ebony “Sunshine” Sunshine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6516777.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What in the world just happened in my mouth? Seriously, bacon, egg, and cheese on top of squash is a great idea. I loved the suggestion that it would make a great brunch. Can't wait to surprise my friends with something special.
+
+My tip: Just before serving, I added a diced tomato
+
+Learn from my mistake:  seed the squash before roasting (please don't judge).
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-31T01:52:30.09
+helpfulCount:
+1
+userID:
+21743221
+Display Name:
+Amanda T
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+95
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5619568.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was absolutely amazing!!!  If I was blindfolded, I wouldn't have known it wasn't real noodles.  The blend of spices and garlic really help take away the squashy flavor.  The consistency and amount of ingredients were perfect.  We split one squash among 4 people, so there were slightly less carbs per serving.  My kids devoured it!  We'll definitely be making this again (probably weekly!).
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-28T13:15:47.99
+helpfulCount:
+1
+userID:
+10548657
+Display Name:
+Craig Stark
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Totally Love the Recipe, but not so sure the 26g Carb makes it "Keto" friendly... I guess so compared to actual pasta.  Enjoy!
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-19T04:32:49.283
+helpfulCount:
+0
+userID:
+24195798
+Display Name:
+Toni Sue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy! Used more cheese. Husband who doesn’t enjoy spaghetti squash said he enjoyed and wants it again.

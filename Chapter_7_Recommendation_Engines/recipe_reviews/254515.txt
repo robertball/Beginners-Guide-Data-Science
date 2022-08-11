@@ -1,0 +1,72 @@
+Recipe number:
+254515.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-15T16:22:24.303
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe turned out great. I've always loved pickled peppers but as I've gotten older the seeds don't love me. Using this recipe I was able to discard the seeds from the pepper rings and put the majority of them  in the bottom of the jar for heat. So now I can eat to my hearts content without any ill after affect. Awesome!
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-18T04:04:47.923
+helpfulCount:
+2
+userID:
+22131009
+Display Name:
+Mark W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fairly easy recipe to make. I was amused how spicy the carrots and onions got compared to the relative mildness  of the Jalapenos.  I will adjust the number of the Jalapenos based on the sizes available as they vary.  The very ripe red Jalapenos worked as well as the more common green ones.

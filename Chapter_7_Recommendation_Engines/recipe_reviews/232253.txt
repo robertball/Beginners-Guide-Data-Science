@@ -1,0 +1,47 @@
+Recipe number:
+232253.txt
+Review:
+Rating:
+5
+dateLastModified:
+10/19/2014
+helpfulCount:
+1
+userID:
+14483832
+Display Name:
+Raschida Volter
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1567538.jpg
+text:
+It came out great and tasted wonderful!!!! Everyone enjoyed them.
+Review:
+Rating:
+5
+dateLastModified:
+03/07/2016
+helpfulCount:
+0
+userID:
+13111399
+Display Name:
+jazz
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8295991.jpg
+text:
+came out great....I like it with all the pecans..good flavor
+Review:
+Rating:
+4
+dateLastModified:
+04/13/2020
+helpfulCount:
+0
+userID:
+6933503
+Display Name:
+purple and gold
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Loved the flavor and the creamy texture, a lot of pecans

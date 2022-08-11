@@ -1,0 +1,72 @@
+Recipe number:
+235237.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-08-21T04:37:37.733
+helpfulCount:
+0
+userID:
+14427864
+Display Name:
+Cassie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty quick to make. However, they seem to have too much butter (the recipe called for 1 cup). They came out very greasy and they were not gooey at all! They have a very weird texture. They tasted okay, I think the consistency and texture affected the taste.
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-24T12:22:26.1
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+700
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am not sure I would consider this quick. Melting chocolate took longer than most recipes. The brownies were good. Omitted the walnuts. Everyone at them.

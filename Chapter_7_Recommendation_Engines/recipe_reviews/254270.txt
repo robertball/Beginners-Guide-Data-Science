@@ -1,0 +1,37 @@
+Recipe number:
+254270.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-25T10:17:39.6
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Gold medal meal! This is the perfect lunch when the thermometer hits 100°. I used thawed sorghum and some cold chicken (Sarah's Easy Shredded Chicken Taco Filling). Adding the sour cream, as mentioned, does take this over the top. I added jalapenos, black olives, and some manchego cheese. This recipe is simply too delicious to pass up. Soak your sorghum for about 30 minutes in water before cooking; it will reduce your cooking time in half. Thank you for your recipe.

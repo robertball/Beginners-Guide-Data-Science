@@ -1,0 +1,37 @@
+Recipe number:
+70942.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-01-11T19:45:41.78
+helpfulCount:
+2
+userID:
+1110788
+Display Name:
+jules
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was good and will make again however the sauce was quite thin. I will drain the water after the veggies are added. Then I will add the milk and seasonings as suggested.

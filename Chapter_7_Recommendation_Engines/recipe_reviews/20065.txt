@@ -1,0 +1,107 @@
+Recipe number:
+20065.txt
+Review:
+Rating:
+2
+dateLastModified:
+2004-02-08T11:07:30.607
+helpfulCount:
+4
+userID:
+1014239
+Display Name:
+JHOOBSTER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you like ketchup, you will love these.  I found that they had no other flavor than that.  I added a whole bottle of store bough BBQ sauce and then served these.  Sorry, but not a hit in our home.
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-06T18:35:26.797
+helpfulCount:
+3
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+873
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used butter and cut down on the onion. Otherwise, I followed the ingredients to a T, at first. I made the sauce completely before adding the meat. When I tasted the completed sauce, it just didn't work for me. It was overly tangy from the white vinegar. At this point, I added a little more sugar and worchestershire sauce, and finally some liquid smoke to give it more of a barbecue flavor. I thought the flour was a little strange. My son enjoyed this and had seconds, so this gets 4 stars.
+Review:
+Rating:
+2
+dateLastModified:
+2013-08-24T17:10:21.85
+helpfulCount:
+0
+userID:
+8888699
+Display Name:
+Calvin Gaspar
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2558213.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe had way too much sauce. If I make it again (which I don't plan to) I would half the sauce and double the amount of pork.

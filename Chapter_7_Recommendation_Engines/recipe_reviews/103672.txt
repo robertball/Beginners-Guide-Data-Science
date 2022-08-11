@@ -1,0 +1,37 @@
+Recipe number:
+103672.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-07-02T09:21:07.793
+helpfulCount:
+0
+userID:
+704419
+Display Name:
+Emily Jones Frandsen
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+191
+favoritesCount:
+809
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2081296.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't really into the dressing, but I liked the salad mixture a lot!

@@ -1,0 +1,107 @@
+Recipe number:
+229497.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-27T20:10:51.037
+helpfulCount:
+2
+userID:
+24076199
+Display Name:
+Rommel Santos
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5669625.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think the 15 minute cooking time for bok choy is a typo. I've never cooked bok choy that long, it should only be 5 minutes or less. Cook it until the roots are tender. I love shitake mushrooms and you should make BIG chunks (to taste)  because they shrink in the pan. Don't serve with all the juice, place in a dish and drizzle the sauce so the everything isn't swimming in it like a soup. In addition, I drizzled it with sesame seeds for prestation and it was awesome. The first review is right about salt but not fair. If you're conscious about salt the ingredients in this recipe should have clued you in and shouldn't  bother making it. If you see soy sauce (even low sodium) in the list, skip the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-03T18:06:57.36
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out good! I read the previous review and did not want to overcook the bok choy so I reduced the cook time to 5 minutes and that was perfect.  I wanted a little bit of heat and added some crushed chili flakes which was a nice addition but not necessary. Bok choy is bland in my opinion so I appreciated the extra flavor in this.
+Review:
+Rating:
+2
+dateLastModified:
+2014-01-17T06:38:09.41
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Soy, miso, and oyster sauce...salt, salt, and more salt plus 15 min cooking time turned the bok choy to mush.  Could have good potential but we found this almost ineatable.

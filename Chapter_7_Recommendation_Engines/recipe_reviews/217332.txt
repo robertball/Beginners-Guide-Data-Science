@@ -1,0 +1,107 @@
+Recipe number:
+217332.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-03-24T05:21:53.873
+helpfulCount:
+6
+userID:
+4861954
+Display Name:
+feisty_24
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+was looking for a recipe for some zucchini i had and found this recipe. instead of frying the skins of the zucchini i just stuffed them with the mixture and then baked for about 45min. my family really enjoyed this dish. we will def make again and eventually will try with eggplant, almost forgot added 1/4 cp of bread crumbs to zucchini mixture to help thicken it up before stuffing the skins
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-24T06:01:15.807
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a wonderful flavour. I baked these instead of frying but feel that the outcome was not compromised. I mixed up my own vindaloo curry spice. This will not be my last time to make these. I would suggest using an eggplant with a soft peel or expect to peel them once cooked. The skin was inedible. Without soaking them in salt water initially did affect the texture. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-27T14:43:05.897
+helpfulCount:
+0
+userID:
+24869691
+Display Name:
+Hailey Pister
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6210511.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was delicious! The flavor was amazing and it was somewhat simple to make. I used butter instead of ghee and decided to bake it instead of frying and felt that it was still wonderful. I plan on making this recipe again very soon!

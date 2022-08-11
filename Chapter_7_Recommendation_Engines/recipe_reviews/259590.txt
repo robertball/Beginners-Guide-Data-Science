@@ -1,0 +1,72 @@
+Recipe number:
+259590.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-09T17:59:12.427
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6889
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoy infused water like this, so I am definitely a fan~YUM! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-16T02:53:08.427
+helpfulCount:
+0
+userID:
+26884072
+Display Name:
+Tamar Merdkhanian
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7617582.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely exceptional. I'll never drink water the same again.

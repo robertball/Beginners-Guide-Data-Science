@@ -1,0 +1,142 @@
+Recipe number:
+255077.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-04T16:13:57.637
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9646
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good and got better as it sat. It was light, had great texture, and was the perfect side for my Asian themed meal. I left a little of the peel on the cucumber for color but other than that  made it as written. I would more than likely leave out the sugar next time but that is the only change I would make. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-14T22:27:30.59
+helpfulCount:
+2
+userID:
+6759733
+Display Name:
+Catherine McG
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+1542
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious and I wish I had doubled the recipe. I used regular cubes and sliced them thinly. I added fresh minced garlic to my sesame oil. Everyone loved it.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-10T23:08:21.663
+helpfulCount:
+1
+userID:
+15220772
+Display Name:
+Calvin Joanie Lew
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5742274.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good and easy with a nice Asian flavor. Lots of liquid in the bottom
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-06T19:49:09.873
+helpfulCount:
+0
+userID:
+13974747
+Display Name:
+Tracey Drebin Merrill
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+107
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1288176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good sesame flavor, not too strong of a vinegar taste.  I'll use this recipe a lot, it's wonderful!  Thank you!

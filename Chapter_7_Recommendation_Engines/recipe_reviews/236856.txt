@@ -1,0 +1,107 @@
+Recipe number:
+236856.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-22T17:56:15.7
+helpfulCount:
+1
+userID:
+2896737
+Display Name:
+ShellBell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6151470.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Holy man these were incredible! My 13 year old daughter made them for her class, she made the recipe as is and I wouldn't change a thing! The batter was thicker than I expected but we just flattened them down slightly before baking for 9 minutes and they were perfect!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-22T01:07:37.26
+helpfulCount:
+1
+userID:
+23707117
+Display Name:
+Mindy Martinez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5391766.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We have made these several times they are a favorite
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-26T22:06:01.31
+helpfulCount:
+1
+userID:
+14338026
+Display Name:
+Britany Marie Desilets
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1482901.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am a sucker for peppermint, this is an amazing recipe! Just the right amount of peppermint flavor, I have a feeling Santa is going to love this come Christmas. Thank you so much for sharing this awesome recipe.

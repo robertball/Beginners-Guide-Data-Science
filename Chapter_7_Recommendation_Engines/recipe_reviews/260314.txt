@@ -1,0 +1,74 @@
+Recipe number:
+260314.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-26T22:42:27.413
+helpfulCount:
+3
+userID:
+26301128
+Display Name:
+Laurie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used 2 big green apples.  Used dried cranberries for currents and vanilla brandy
+  Canned in the same way I do jams and jellies.
+  After 2 weeks, I made the whole batch into a  pie using a deep dish 10 inch pie plate.  Everyone that said they liked mincemeat pie in general loved it.  I got requests to make it again and again.
+Review:
+Rating:
+2
+dateLastModified:
+2018-12-26T03:24:03.133
+helpfulCount:
+0
+userID:
+12153008
+Display Name:
+Sandra Maguire
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5844512.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just not for us. I used the best ingredients, so it wasn't that. It's an acquired taste. I  was disappointed.

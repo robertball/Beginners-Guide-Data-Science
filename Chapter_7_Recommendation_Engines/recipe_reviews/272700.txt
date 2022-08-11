@@ -1,0 +1,37 @@
+Recipe number:
+272700.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-24T14:20:57.42
+helpfulCount:
+1
+userID:
+26178189
+Display Name:
+Michelle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great bread if you are looking for keto friendly. Only thing is, it's an expensive bread to make. That said, if you are making this for the first time, I would ease into the stevia..maybe use 1/2 tablespoon to start and see what you think. A tablespoon made this too sweet for a regular type bread if that's what you are looking for and left an aftertaste ( I am very sensitive to alternative sweetners). It also, doesnt rise as much as a regular bread but the consistency and texture are really good.

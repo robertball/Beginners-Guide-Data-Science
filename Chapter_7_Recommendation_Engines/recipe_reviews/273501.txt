@@ -1,0 +1,37 @@
+Recipe number:
+273501.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-09T20:47:01.417
+helpfulCount:
+0
+userID:
+26645534
+Display Name:
+Jackie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Beautiful and delicious ! Took like 5 minutes to make.

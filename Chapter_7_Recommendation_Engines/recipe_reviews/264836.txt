@@ -1,0 +1,37 @@
+Recipe number:
+264836.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-10T14:04:22.87
+helpfulCount:
+1
+userID:
+23931232
+Display Name:
+SnickD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This has made every hot summer night cool us down. The ginger beer gives it the right bite. I cannot wait for the blueberry truck to reach Wisconsin so I can load up for the rest of summer. Excellent!

@@ -1,0 +1,72 @@
+Recipe number:
+256942.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-20T00:37:40.213
+helpfulCount:
+0
+userID:
+3895544
+Display Name:
+Michael Rosencrants
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+253
+favoritesCount:
+233
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1629655.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will make again. My only complaint was that I didn't think it had enough kick. I did simmer it an hour or two longer due to having to make it ahead.  I will try again timing it better or adding more spice. Thanks for the ideas.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-13T16:37:20.32
+helpfulCount:
+0
+userID:
+13916461
+Display Name:
+Deirdre Grover
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4841730.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I substituted the tomato sauce with 3 vine tomatoes quartered, 2lbs chuck, 3/4 of a 6oz can tomato paste, 7 5-6 in Chinese eggplants and 1 1/2 tsp saffron.  I also used chef John's recipe for tzaziki sauce and omitted the dill.  It came out AWESOME.  My whole family loved it.

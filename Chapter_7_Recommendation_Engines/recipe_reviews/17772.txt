@@ -1,0 +1,72 @@
+Recipe number:
+17772.txt
+Review:
+Rating:
+2
+dateLastModified:
+2004-09-20T18:51:07.263
+helpfulCount:
+19
+userID:
+915138
+Display Name:
+Erimess
+isPro:
+False
+followersCount:
+77
+followingCount:
+0
+madeRecipesCount:
+426
+favoritesCount:
+403
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/414941.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry, I wasn't too thrilled with this.  It was OK, but I won't be making it again.  It seemed I didn't like the tomato juice with this combination.
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-29T02:10:35.22
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was terrific!  Easy to make, tasty.. leftovers keep well in fridge.  I added more pickles because I like them and next time think I will bump up all the "stuff" in the recipe. The raisins add a nice sweetness, but I will use dried cranberries next time I think

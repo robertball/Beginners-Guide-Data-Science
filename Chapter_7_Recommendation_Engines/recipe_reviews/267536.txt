@@ -1,0 +1,72 @@
+Recipe number:
+267536.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-28T21:01:29.98
+helpfulCount:
+2
+userID:
+25770057
+Display Name:
+Bill Holland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6781283.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had a 1.3 lb of Sabana El Res in the freezer.  Defrosted it and chopped it up in the food processor with salt, pepper, red onion, and 1 de-seeded/veined jalapeño. Substituted chili beans for black beans and 1 pack of Old El Paso taco seasoning.  Substituted 10 oz can of diced tomatoes with green chilies for the fire roasted diced tomatoes and 2 cups beef broth for the vegetable broth.  Cooked it up in my Mealthy MultiPot and it tastes awesome! Can’t wait to roll it up into burritos tomorrow!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-18T16:40:38.447
+helpfulCount:
+0
+userID:
+1186859
+Display Name:
+Eliza
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+314
+favoritesCount:
+254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4522332.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super tasty. Used up what I had on hand.

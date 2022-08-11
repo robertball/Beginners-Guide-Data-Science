@@ -1,0 +1,37 @@
+Recipe number:
+222068.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-23T03:54:41.973
+helpfulCount:
+6
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought the combination of raspberry liquer (I used Chambord) and beer sounded strange and outside the box, but I thought let’s give it a try.  Neither dominated in this cocktail, and the traditional lime margarita flavor definitely came through.  It does look a little “unmargarita-like” because of its pinkish color, and the guys first said they didn’t care for it,  BUT, I saw them go back for a second round.  This is a good margarita!

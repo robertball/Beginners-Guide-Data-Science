@@ -1,0 +1,37 @@
+Recipe number:
+237849.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-11T06:42:50.463
+helpfulCount:
+4
+userID:
+15132503
+Display Name:
+Debra Jeffrey
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1934550.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good - I'd only marinate for an hour or it will be mushy - I also added 2 tablespoons of orange juice - it brought out the flavors of the marinade.

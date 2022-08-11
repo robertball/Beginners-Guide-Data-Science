@@ -1,0 +1,72 @@
+Recipe number:
+240128.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-11T05:01:23.477
+helpfulCount:
+0
+userID:
+15759568
+Display Name:
+Cathy Weast
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+400
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6830805.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We liked it, but it was way too sweet. I will use half the sugar next time
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-13T17:33:02.53
+helpfulCount:
+0
+userID:
+15542042
+Display Name:
+caitykin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1451
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been making this for years and, although many don't care for it since its more of an acquired taste, those who do like it are crazy about it! This was totally my favorite dish at thanksgiving.

@@ -1,0 +1,37 @@
+Recipe number:
+62576213.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-30T00:58:35.743
+helpfulCount:
+0
+userID:
+2250665
+Display Name:
+GEM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+239
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/268189.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I so wanted to have pizzelles this year and so I tried this recipe.  It was wonderful! I made the vanilla version.  Even the family members who eat gluten liked it!  I made no changes to the recipe. It's hard to believe that no one else has tried and rated this recipe.  Try it you'll be glad you did.

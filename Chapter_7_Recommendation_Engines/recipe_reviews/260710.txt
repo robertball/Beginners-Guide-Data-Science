@@ -1,0 +1,37 @@
+Recipe number:
+260710.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-10T04:49:12.93
+helpfulCount:
+0
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+272
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3415
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like the flavors that were in these pinwheels, but, I think the temperature and cooking time were a little off.  I would cook the pinwheels at a little higher temperature.  I checked the pinwheels at 12 minutes and the puff pastry still wasn't cooked, so, I upped the temperature to 375 for 4-5 minutes and they were cooked perfectly.  I I do think I would prefer deli corned beef to pastrami next time.  They were best served hot or slightly warm. Be sure to cut with a serrated knife!

@@ -1,0 +1,37 @@
+Recipe number:
+275811.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-06T13:20:09.993
+helpfulCount:
+0
+userID:
+25672853
+Display Name:
+Tuscan_Italian
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+2091
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6796750.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was YUMMY!  I loved the fresh garlic!  GREAT recipe - thank you!

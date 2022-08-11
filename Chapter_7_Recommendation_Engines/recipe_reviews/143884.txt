@@ -1,0 +1,37 @@
+Recipe number:
+143884.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-02-01T18:16:56.813
+helpfulCount:
+2
+userID:
+2508544
+Display Name:
+walks_softly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/65982.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy and nice I made mine with out grapes.It is also nice in winter with the dates and nuts in it

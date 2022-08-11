@@ -1,0 +1,37 @@
+Recipe number:
+245455.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-06T18:07:37.157
+helpfulCount:
+2
+userID:
+166708
+Display Name:
+Jan Mowbray
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+428
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2530650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good but for my second batch I added brown sugar - much better.  Also, half inch cubes are pretty small and given sweet potato cooks so quickly, next time I'll cut the potato in 1" cubes. Definitely worth trying.

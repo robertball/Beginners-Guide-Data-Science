@@ -1,0 +1,146 @@
+Recipe number:
+130917.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-02-15T08:35:57.357
+helpfulCount:
+4
+userID:
+500319
+Display Name:
+Mrs. Evelyn Paradies
+isPro:
+False
+followersCount:
+31
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/300830.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic, I say - Thank You for a refreshing, delicious and different treat! Simply Lovely!
+Review:
+Rating:
+1
+dateLastModified:
+2008-01-22T14:43:03.677
+helpfulCount:
+2
+userID:
+998140
+Display Name:
+Lisa
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/21752.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was really looking forward to this recipe, but something about the flavor is just not right. I attempted to fix it, to no avail, and can't say it's worth the time to make this lemonade. The cinnamon is just too overpowering for a hot lemon drink, and it made the fresh lemon juice I used taste like some concentrate.
+Review:
+Rating:
+3
+dateLastModified:
+2019-08-12T14:12:04.07
+helpfulCount:
+0
+userID:
+2844831
+Display Name:
+Cooking Daddy
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+296
+favoritesCount:
+6202
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6980549.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this recipe as is.  It's a personal preference if you like it hot or cold.  I liked it cold.  My wife liked it hot.  The one thing I would do without is the lemon grass because it tends to float and you end up getting some in your mouth as you drink.  It's not good tasting with the drink.  It needs to go.  Other than that it was very flavorful and refreshing.  Another observation is that the ingredients tend to separate.
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-05T09:41:45.983
+helpfulCount:
+0
+userID:
+2504100
+Display Name:
+Kyle Overstreet Schenetzke
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+72
+favoritesCount:
+124
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1333229.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used so many substitutions, this might be considered a different recipe but it was very good.
+
+I had no honey, so I used pure maple syrup. I had no zest so I omitted it and put in extra lemongrass to compensate. Then I ran out of lemon juice halfway through and had to use lime juice instead.
+
+I still think it tastes mostly the way it was meant to - not like lemonade but some of the best home brewed tea with a very zesty lemony flavor. Hot or cold, it was perfect

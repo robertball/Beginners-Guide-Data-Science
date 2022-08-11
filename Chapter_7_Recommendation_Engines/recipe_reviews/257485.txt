@@ -1,0 +1,107 @@
+Recipe number:
+257485.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-07T23:12:37.063
+helpfulCount:
+0
+userID:
+23950347
+Display Name:
+Pattie Avilla
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5558024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the Recipe I'm making it once a month
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-03T02:47:34.933
+helpfulCount:
+0
+userID:
+5175640
+Display Name:
+Becky Weber
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2969675.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved this dish!  All three kids ate it.  That alone is a miracle within itself.  My husband said that it would be better  if it had crushed red pepper in the marinade, but as the rest of us don't like spicy, that will have to only go on his.  I did think it was good, but I feel like it was missing something.  I think next time I'll add some Asian Five Spice, or nutmeg, or something else to try to give it that little extra that it needs.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-24T05:06:10.207
+helpfulCount:
+0
+userID:
+1800959
+Display Name:
+Diana71
+isPro:
+False
+followersCount:
+302
+followingCount:
+0
+madeRecipesCount:
+251
+favoritesCount:
+1620
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7665074.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! I used boneless chicken breasts, which I sliced in half lengthwise so they were thinner w/o pounding. I didn't add the green onion nor the sesame seeds, and it was perfect. Mochiko chicken is a very popular japanese/hawaiian dish, and is often put into bentos (lunches). You could use a little less sugar if you want. Thanks for the recipe!

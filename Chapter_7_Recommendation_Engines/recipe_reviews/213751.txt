@@ -1,0 +1,107 @@
+Recipe number:
+213751.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-06T09:17:23.82
+helpfulCount:
+10
+userID:
+1714720
+Display Name:
+Susan Parran
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+112
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2449113.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really, REALLY good!
+Review:
+Rating:
+3
+dateLastModified:
+2010-06-06T05:07:00.193
+helpfulCount:
+6
+userID:
+3188434
+Display Name:
+RMSR
+isPro:
+False
+followersCount:
+33
+followingCount:
+0
+madeRecipesCount:
+663
+favoritesCount:
+114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4584574.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this yesterday and the only reason this is getting a 3/5 is because of the filling. The crust was dry and almost tasteless. I would use a graham cracker crust, as I find it pairs well with mousse-type pies. Though the filling was good, it definitely needed a little more lemon. Perhaps the use of the juice from my one large lemon wasn't enough... I also used Nutriwhip instead of heavy cream. I felt this was alot of work for something that had such a simple taste and look; not really worth it. There is a lemon cake I made from here that tasted much better. I may refer to this recipe again for the filling, not sure.
+Review:
+Rating:
+2
+dateLastModified:
+2013-07-05T01:54:50.66
+helpfulCount:
+0
+userID:
+2311871
+Display Name:
+Henrietta K
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A total disaster was averted only because I'm an experienced baker and know how to improvise.

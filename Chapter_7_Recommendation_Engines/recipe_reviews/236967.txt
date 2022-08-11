@@ -1,0 +1,72 @@
+Recipe number:
+236967.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-30T21:20:50.847
+helpfulCount:
+0
+userID:
+19707157
+Display Name:
+omg hey there
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6194556.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i thought this was really good for such a simple recipe for mole! i used whole dried peppers, three varieties though instead of the fresh bell peppers so your mmv
+Review:
+Rating:
+3
+dateLastModified:
+2015-03-25T15:30:02.463
+helpfulCount:
+0
+userID:
+3565605
+Display Name:
+Kristy Boyer Chen
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2177178.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The the raisin flavor ended up being surprisingly dominant, which I didn't care for. Next time, I'll either halve the amount of raisins, or leave them out, entirely. I was able to tone down the raisin flavor to a point where I enjoy the sauce by adding cumin at the end, just after the salt.

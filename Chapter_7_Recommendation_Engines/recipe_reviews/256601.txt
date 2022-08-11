@@ -1,0 +1,72 @@
+Recipe number:
+256601.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-05-23T20:15:37.09
+helpfulCount:
+0
+userID:
+10556707
+Display Name:
+Alba Egetter Aguilar
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5415789.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not like it.
+Review:
+Rating:
+2
+dateLastModified:
+2018-03-08T16:01:22.84
+helpfulCount:
+0
+userID:
+3795092
+Display Name:
+virgi
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These proteins bites were really different than what I expected. I found them tasteless (but overly sweet), and the texture was just not to my liking (the quinoa made them somehow gooey). I won't make again. I ended up slicing them, toasting them well and serving them with sharp cheddar, to counterbalance the sweetness.

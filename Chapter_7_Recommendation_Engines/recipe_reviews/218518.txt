@@ -1,0 +1,111 @@
+Recipe number:
+218518.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-12T12:05:08.24
+helpfulCount:
+4
+userID:
+2274656
+Display Name:
+dsgould
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the dish with the exact ingreients and took it to a work potluck.  I got two responses from my co-workers, "it's interesting and I loved it".  The person who loved it gave it 5 stars, so that is how I rated the recipe.  If I make it again I'm going to use spicier chili or add some cipoltle chilis to the mix and use a bit less peanut butter.  Thank you KateC* for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-26T18:31:20.363
+helpfulCount:
+2
+userID:
+4589017
+Display Name:
+Kate Cervantes
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1252344.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My whole family, even my children who don't like chili much, love this pie. I always make my own buttery crust, which really compliments the other elements of the dish. You don't have to use my recipe but I do recommend a butter vs Cisco crust. I also exclusively use creamy peanut butter. The texture is great when it's all gooey and melts right into your mouth. In my experience, crunchy doesn't work well as it tends to burn and take on an odd texture. I hope all who make it enjoy!
+Review:
+Rating:
+2
+dateLastModified:
+2013-06-29T10:02:38.797
+helpfulCount:
+1
+userID:
+2779139
+Display Name:
+herzeleid
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+66
+favoritesCount:
+352
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this pie because we had made two huge crock pots of chili in the space of a week.  I used premade pie crusts and crunchy peanut butter.
+
+I think the combination of peanut butter and chili sounds appealing and smells good, but neither of us really liked it.  The peanut butter makes a hard crust on the bottom of the chili.  I might have liked it more if I had mixed the peanut butter into the chili.
+
+Positives:  The chili sets up nicely and does make it easy to remove the pie slices.  It makes for good leftovers.

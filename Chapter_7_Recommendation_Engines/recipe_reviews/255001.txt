@@ -1,0 +1,37 @@
+Recipe number:
+255001.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-13T16:40:16.047
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9649
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've had this in my recipe box for quite some time but always end up going with something else when I see the mango in the title.  Not because I don't like mango's but I absolutely hate cutting them up. That flat seed gets the better of me every single time. Well, they are in season and on sale right now so I decided to pull the recipe up and check it out. What a nice surprise to see this calls for mango nectar instead of an actual mango. I ran to the store, grabbed me a can of nectar, and had me a pitcher of margaritas in less than 5 minutes. Excellent recipe!  I plan on trying this out with other flavors too.

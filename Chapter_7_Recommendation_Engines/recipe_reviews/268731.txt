@@ -1,0 +1,72 @@
+Recipe number:
+268731.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-27T14:00:02.22
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are excellent! I doubled the cilantro out of personal preference and I couldn't find the jalapeno cream cheese so I just used regular. There was plenty of jalapeno flavor still. These were a nice change from the every day mashed potatoes and this is one I'll make again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-13T18:48:37.583
+helpfulCount:
+0
+userID:
+2079610
+Display Name:
+Cathy Myers
+isPro:
+False
+followersCount:
+141
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+385
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/461230.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious twist on mashed potatoes, especially with our grilled T-Bone and grilled asparagus! For personal preference only, I seasoned with garlic salt to taste and added 1/4 teaspoon white pepper. My potatoes were a bit dry so I added an additional 4 heaping tablespoons of sour cream for creamier consistency. Thank you for the recipe!

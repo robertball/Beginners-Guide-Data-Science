@@ -1,0 +1,47 @@
+Recipe number:
+210425.txt
+Review:
+Rating:
+4
+dateLastModified:
+01/27/2010
+helpfulCount:
+4
+userID:
+givethemfood
+Display Name:
+cocojo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/446000.jpg
+text:
+very good   I used Grand Marnier
+Review:
+Rating:
+4
+dateLastModified:
+12/23/2010
+helpfulCount:
+3
+userID:
+doublewideskilletsinglewidebudget
+Display Name:
+Sarah Jo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/699445.jpg
+text:
+This was lovely. I used fat free evaporated milk and I doubled the amaretto for a bigger kick. I did not make the whipped cream for the top. Excellent grownup winter cocktail.
+Review:
+Rating:
+5
+dateLastModified:
+12/17/2010
+helpfulCount:
+2
+userID:
+thiswifecooks
+Display Name:
+Holly
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7070941.jpg
+text:
+I made this the lazy way, with instant hot chocolate.  Just added a TBSP or so of amaretto.  Yum-O!!!

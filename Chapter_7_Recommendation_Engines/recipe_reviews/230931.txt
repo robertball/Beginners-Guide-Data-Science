@@ -1,0 +1,107 @@
+Recipe number:
+230931.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-22T09:52:56.257
+helpfulCount:
+4
+userID:
+1522517
+Display Name:
+Kerry T
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+179
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like recipes you can modify to what ingredients you have on hand. I had no mushrooms so subbed onion instead. Also used a mozzarella/cheddar cheese combo. The omelet was fluffy! The directions are spot on. Will definitely make this again. It's an any meal dish, breakfast, lunch or dinner. Thanks for the recipe:)! (I've already had seconds)!!!:)
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-21T20:11:23.063
+helpfulCount:
+3
+userID:
+7991357
+Display Name:
+Bruzebra
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+66
+favoritesCount:
+641
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1069522.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good. Fluffy too! Had no ham so I used bacon, also used mozzarella and cheddar. Original recipe yielded three large servings, enough for three adults for a quick dinner. Will make again.
+Review:
+Rating:
+2
+dateLastModified:
+2014-06-09T08:33:46.007
+helpfulCount:
+1
+userID:
+7255624
+Display Name:
+Shelley Dima
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1290635.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Looked good but my family didn't love it.

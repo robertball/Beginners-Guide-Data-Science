@@ -1,0 +1,72 @@
+Recipe number:
+85029.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-02-08T11:09:36.873
+helpfulCount:
+5
+userID:
+1168103
+Display Name:
+librarylady
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic, made up the spice rub the night before and let the chicken breasts sit over night in the fridge.  A big hit!
+Review:
+Rating:
+5
+dateLastModified:
+2007-10-09T08:16:48.087
+helpfulCount:
+0
+userID:
+615195
+Display Name:
+Aspiring Chef Rita
+isPro:
+False
+followersCount:
+58
+followingCount:
+0
+madeRecipesCount:
+744
+favoritesCount:
+1699
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/146.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the previous reviewer's advice and put the rub on the day before and served it with the leftover "black beans and rice" (on this site and called exactly that) that I had made a few days ago. Nice quick Monday night meal. Thanks, submitter. Update: Last night I served Tortellini Salad I and added the leftover anch pepper chicken to it - it was great!

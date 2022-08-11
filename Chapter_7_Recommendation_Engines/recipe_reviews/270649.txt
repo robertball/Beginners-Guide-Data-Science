@@ -1,0 +1,37 @@
+Recipe number:
+270649.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-02T00:40:36.847
+helpfulCount:
+0
+userID:
+3859010
+Display Name:
+QuilterDeb
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+158
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3885006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is DELICIOUS. For just two of us, I use one whole chicken breast, sliced. The mixture is all things that I have on hand, the prep takes just a few minutes, and it's quick to cook. I make some rice and put it in the micro just before I start cooking the chicken, and everything is ready at the same time (with a salad or other veg). I use a mixture of butter (not margarine) with the olive oil to fry the pieces, as I prefer the flavor of butter. I also add some half and half or cream to the drippings in the pan, to make a light sauce (or add more liquid and thicken it a bit with flour). Excellent main dish, nice enough for company.

@@ -1,0 +1,37 @@
+Recipe number:
+150925.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-05T21:44:21.19
+helpfulCount:
+0
+userID:
+2233645
+Display Name:
+Beth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty!

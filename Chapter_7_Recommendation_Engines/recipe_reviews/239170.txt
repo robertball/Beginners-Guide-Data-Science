@@ -1,0 +1,72 @@
+Recipe number:
+239170.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-16T19:53:30.49
+helpfulCount:
+2
+userID:
+15179657
+Display Name:
+Diana McCormack Murphy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1960121.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes!! Delicious!! My e tire family had seconds!! With garlic naan!!!
+Review:
+Rating:
+3
+dateLastModified:
+2017-10-04T12:48:31.9
+helpfulCount:
+0
+userID:
+8185164
+Display Name:
+Belb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this to be very bland.

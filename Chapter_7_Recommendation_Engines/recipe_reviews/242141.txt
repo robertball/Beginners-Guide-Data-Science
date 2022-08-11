@@ -1,0 +1,37 @@
+Recipe number:
+242141.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-20T23:13:59.33
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9052
+followingCount:
+0
+madeRecipesCount:
+612
+favoritesCount:
+980
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It’s missing the ranch. I know it’s supposed to be a healthier version, but it needs the ranch to counterbalance the heat of the buffalo sauce. Even plain yogurt thinned with a small amount of milk and adding dry ranch seasoning wouldn’t hurt.

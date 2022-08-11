@@ -1,0 +1,72 @@
+Recipe number:
+142716.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-10-20T00:41:34.533
+helpfulCount:
+0
+userID:
+28211255
+Display Name:
+Casie Saxion
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8652356.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I didn't have plumb jam so I chopped and reduced fresh plumbs with 3/4 cup sugar over medium heat. I subbed a splash of a nice syrah for the white grape juice and a teaspoon of chili paste for the chili sauce.
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-13T21:26:53.857
+helpfulCount:
+0
+userID:
+14263435
+Display Name:
+Lisa Twedell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1441260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Family loved this.  We had just finished making jam out of our plums  and grape juice.  So this was a perfect finish to our bounty.   We didn't use any oil and bbq our meat.  With rice it was ideal.

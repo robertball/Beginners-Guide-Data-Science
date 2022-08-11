@@ -1,0 +1,72 @@
+Recipe number:
+267865.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T21:48:01.93
+helpfulCount:
+0
+userID:
+26367760
+Display Name:
+Cailey Cogburn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7215691.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Makes 8, came out golden brown in 11 minutes
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-31T18:17:37.413
+helpfulCount:
+0
+userID:
+5118896
+Display Name:
+fabeverydayblog
+isPro:
+False
+followersCount:
+152
+followingCount:
+0
+madeRecipesCount:
+469
+favoritesCount:
+306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy, and the kids love it!

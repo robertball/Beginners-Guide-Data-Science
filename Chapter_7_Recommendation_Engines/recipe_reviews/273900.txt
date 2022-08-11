@@ -1,0 +1,72 @@
+Recipe number:
+273900.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-19T23:28:50.41
+helpfulCount:
+0
+userID:
+3564949
+Display Name:
+Marie Knudsen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I read a lot of the reviews.....and several people expected this to be more' 'cake-like'.....and able to be cut....even though cobblers generally are not.  If you want to cut it....just mix everything.....and I mean everything including the melted butter.......together well.  This makes it able to be cut into squares.  I personally like the original way better ....but it is nice to know in case you want to be able to cut it and serce it with more fresh fruit/ilce cream/whipped cream....on top.  I would be interested to hear if anyone else has made it this way.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-04T23:49:40.32
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved it!!!!!  I used the exact amount of butter called for but still had a bit of dry spots at the end of the bake time.  I melted a bit more of butter, covered my dry spots and put the cake back in for another 5 minutes.  Delish!

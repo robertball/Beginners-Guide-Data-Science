@@ -1,0 +1,37 @@
+Recipe number:
+150440.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-10-22T12:18:48.273
+helpfulCount:
+3
+userID:
+1750509
+Display Name:
+fuzznut
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+AN OLD FAMILY FAVORITE THAT STANDS ALONE.  ORIGINAL TASTING -  GREAT WITH FRESH VEGGIES.

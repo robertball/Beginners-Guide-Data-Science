@@ -1,0 +1,34 @@
+URL:
+https://www.allrecipes.com/personal-recipe/63340908/test-personal-1/
+Title:
+test personal 1 Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+Ingredient 1
+Ingredient 2
+Ingredient 3
+Ingredient 4
+Ingredient 5
+
+Directions:
+Directions
+
+Submitter: 
+Phinneas Stone
+Description: 
+test
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+2
+Ready in:
+5
+Number of servings: 
+2
+Nutritional Facts:
+NA

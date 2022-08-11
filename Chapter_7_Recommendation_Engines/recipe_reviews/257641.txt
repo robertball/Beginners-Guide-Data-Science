@@ -1,0 +1,72 @@
+Recipe number:
+257641.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-16T21:09:03.36
+helpfulCount:
+1
+userID:
+3131233
+Display Name:
+Angelika
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+107
+favoritesCount:
+217
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/183427.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow, yum! I stumbled across this recipe while searching for a way to use radicchio from our produce box. Strayed from my usual grocery list to acquire Gorgonzola cheese & arborio rice, but it was worth it to create this risotto dish! (BTW, Thanks for the additional tip regarding the USA & Italy versions of Gorgonzola being very different products). We opted to throw the radicchio in early so it would have extra time to cook down, just in case we’d find the taste too bitter. But next time, I probably will try following the recipe exactly, to see if we like the radicchio taste standing out a bit more. The balsamic glaze really is a must. Thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-08T07:31:22.303
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was made with original Italian Gorgonzola cheese, which is very soft and creamy. If using the dry variety, often found in America, you may need less than written. Also, if you prefer the radicchio to be a bit more tender, sauté it with the vegetables at the beginning.

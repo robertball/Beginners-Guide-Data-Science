@@ -1,0 +1,107 @@
+Recipe number:
+247316.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-13T02:49:12.707
+helpfulCount:
+2
+userID:
+12706032
+Display Name:
+Una Morgan Shippey
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3211119.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I sautéed onions into the meat and used chicken taco seasoning. I can’t imagine tacos without onions. It was so good!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-12T02:10:31.807
+helpfulCount:
+0
+userID:
+17606567
+Display Name:
+
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+97
+favoritesCount:
+236
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used my own homemade taco seasoning. Otherwise great recipe. The flavor and texture is perfect! Added salsa and went heavy on the lime and cilantro.
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-19T00:21:46.627
+helpfulCount:
+0
+userID:
+20288313
+Display Name:
+Patty Guido
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5747703.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it a couple of months ago and it was sooooo delicious ! I will definately make this again.  Thank you allrecipes

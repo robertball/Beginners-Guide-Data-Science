@@ -1,0 +1,72 @@
+Recipe number:
+257170.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-26T21:59:13.623
+helpfulCount:
+9
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+219
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+907
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make a lot of bread and this was the easiest dough that I've ever worked with. We never have lard in the house so I went with olive oil. I couldn't get mine to brown without oil so I brushed a little of the flat top and they immediately puffed up and browned. This is a very easy recipe and I'm surprised that no one's made it before now. Thanks for sharing.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-01T16:06:39.91
+helpfulCount:
+1
+userID:
+7890016
+Display Name:
+Ruth Hextall
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1327171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is perfect. Just like the Italian restaurant I love.

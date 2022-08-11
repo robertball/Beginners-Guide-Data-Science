@@ -1,0 +1,72 @@
+Recipe number:
+222317.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-25T12:49:46.3
+helpfulCount:
+2
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So if your lucky enough to be able to find hibiscus flowers in your area, then this Sangria is a must try.  Not overly sweet, but the floral spiced factor is  unmistakable, decidedly different, and extremely refreshing on a hot afternoon
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-07T16:37:04.05
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very refreshing drink. A bit sweet, but still quite good. I added a splash of sparkling water and liked it even more. The cinnamon and cardamom were a beautiful touch. Thank you for the recipe.

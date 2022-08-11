@@ -1,0 +1,37 @@
+Recipe number:
+228108.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-23T03:24:32.737
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If I make this again,I’d definitely add the optional dill to the spread or maybe even a little lemon juice to keep if from tasting just like cream cheese out of the package (my personal taste preference kicking in here).  Don’t skip the fresh basil leaf because it really does give you a nice pop of flavor and differentiates it from other cucumber-cream cheese tea sandwiches I’ve had.

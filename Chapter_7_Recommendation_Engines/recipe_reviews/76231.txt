@@ -1,0 +1,37 @@
+Recipe number:
+76231.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-06-18T07:24:46.963
+helpfulCount:
+0
+userID:
+1534920
+Display Name:
+Sonshine Williams 
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6789017.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delicious, but it took me an extra hour to bake, so we ate crunchy broccoli, but the pork tasted wonderful

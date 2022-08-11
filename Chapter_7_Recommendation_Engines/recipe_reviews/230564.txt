@@ -1,0 +1,107 @@
+Recipe number:
+230564.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-07T13:18:38.95
+helpfulCount:
+5
+userID:
+2360345
+Display Name:
+Melissa Goff
+isPro:
+False
+followersCount:
+1368
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+1338
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2417840.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good recipe. Simple to do, but watch the scorching of the marshmallow crème mixture before removing it from the stove top...very very important. Keep that whisk going to insure proper whisking. I had to turn my heating element down some in the process. However I couldn't find whole cashews, so I just used what I could find at the store. I could have done with more cranberries though. Everyone that tried it liked it a lot. Will make again ;-) but decreasing the vanilla just a tad.
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-24T13:57:20.74
+helpfulCount:
+3
+userID:
+10749569
+Display Name:
+Jessica Bailey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2149640.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! Makes a lot of servings and is a delicious, easy recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-03T16:55:57.12
+helpfulCount:
+1
+userID:
+4487313
+Display Name:
+Lisa Cresswell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+132
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6399816.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I LOVE this fudge!! I've been making it for about 3 years. I've made it with and without nuts, with and without cranberries, and all variations are delicious. Follow the recipe to a T (boil 5 minutes) and it comes out perfect every single time. I recently read another fudge-maker's review that said not to stir the fudge during the boiling at all. I tried it and it did seem to make it silkier. Yum!

@@ -1,0 +1,107 @@
+Recipe number:
+261725.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-25T14:01:21.143
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are really good. They need some extras, though. I added vegetables like written in the notes. I also added soy crumbles, which didn’t affect flavor; just nutrition and texture.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-30T19:16:48.597
+helpfulCount:
+1
+userID:
+26211439
+Display Name:
+Yahanniah Hall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7100137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sometimes I use sugar then I just add the sauce of what every meat I choose. And it just gives of this savory taste. Been cooking since 5years old.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-21T16:18:36.147
+helpfulCount:
+0
+userID:
+24579257
+Display Name:
+Jan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I left out the onions because my daughter has onion sensitivity. I also added some soy sauce someone’s suggestion on here. I wish I left out the red pepper flakes and used Frank’s hot sauce instead for a more muted hot flavor. Other than that it was delicious. It was my first time using toasted buckwheat and I really liked it.

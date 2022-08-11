@@ -1,0 +1,72 @@
+Recipe number:
+258051.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-06-27T23:31:17.913
+helpfulCount:
+0
+userID:
+2881231
+Display Name:
+Lindsay
+isPro:
+False
+followersCount:
+125
+followingCount:
+0
+madeRecipesCount:
+329
+favoritesCount:
+2382
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2091911.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just ok for us. I did like the rice in it quite a bit. it was outside the box for me that there was rice in sloppy Joe's, but it works well. For me I think I might have preferred ground beef to ground chicken in this dish. Nothing is really wrong with recipe it's just a preference thing.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-19T17:36:06.053
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really tasty. I liked the addition of brown rice and that this used ground chicken. Next time I think I'll play around with some of the proportions of the sauce to get it perfect for me. I had this on a bun and it was fine, but I think I like it best when I had it in a whole wheat tortilla with a little cheese and sour cream

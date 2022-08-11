@@ -1,0 +1,72 @@
+Recipe number:
+246267.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-02-23T10:57:24.1
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It could definitely benefit from more flavor. I thought maybe it just needed to sit overnight. The second day I added more soy sauce before serving and that helped. It's definitely quick and easy though!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-02T10:11:01.99
+helpfulCount:
+0
+userID:
+17827142
+Display Name:
+Laura
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3447513.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would totally make this again!  Amazing flavor,  thanks Fionnuala!

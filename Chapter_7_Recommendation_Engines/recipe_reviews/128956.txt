@@ -1,0 +1,37 @@
+Recipe number:
+128956.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-05-27T13:54:14.86
+helpfulCount:
+6
+userID:
+273071
+Display Name:
+KEZ
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+541
+favoritesCount:
+216
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2549.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I marinated the lamb overnight and it was incredibly tender. The dipping sauce was great too. These made a very nice change from chicken or beef kabobs. Thankyou Nika for something a bit different.

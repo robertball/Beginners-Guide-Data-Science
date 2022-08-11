@@ -1,0 +1,37 @@
+Recipe number:
+273759.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-17T22:12:47.213
+helpfulCount:
+0
+userID:
+4951334
+Display Name:
+denisetb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+438
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty!  My son really liked it.  I will definitely make it again.

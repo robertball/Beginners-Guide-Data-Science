@@ -1,0 +1,72 @@
+Recipe number:
+254177.txt
+Review:
+Rating:
+1
+dateLastModified:
+2020-03-07T05:07:48.357
+helpfulCount:
+0
+userID:
+27003361
+Display Name:
+Dustin Hartlyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7710838.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My wife didn't even want any after tasting it.  I didn't even think it was hardly sweet so I added another 1/2 cup of sugar... and then a bunch of stevia, and it still did not seem very sweet.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-08T16:35:58.963
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was quite good. It is creamy but you have to take it out of the freezer at least 15 minutes before you can scoop it. I used brown rice syrup instead of corn syrup.

@@ -1,0 +1,37 @@
+Recipe number:
+272922.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-23T21:20:56.03
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5756
+followingCount:
+0
+madeRecipesCount:
+2835
+favoritesCount:
+6011
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+4.23.19  This is a nice salad with just enough kick to make it interesting, but not overpowering.  Thought it needed just a little more dressing (personal taste, perhaps), but that’s easily rectified.  Enjoyed today with grilled Alaskan cod and steamed green beams.  Thanks for sharing.

@@ -1,0 +1,37 @@
+Recipe number:
+241030.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-29T04:47:14.12
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made Asian/Mexican fusion tacos  with this tonight and this recipe turned out great. I purposely left out the ginger because it clashed with my plans but if making this to serve over rice I would most definitely include it. The only reason I am not giving it 5 stars is because it was too sweet. Regardless of what you are using this for, the additional of sugar was just too much in my opinion. You really need to let it marinade overnight instead of just 3 hours too. Don't forget to cut across the grain for tenderness. Great recipe!

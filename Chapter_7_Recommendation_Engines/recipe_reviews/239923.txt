@@ -1,0 +1,37 @@
+Recipe number:
+239923.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-30T19:53:23.51
+helpfulCount:
+1
+userID:
+20763006
+Display Name:
+Foodie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4424881.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I grew up in New England and this is something my mother made fairly often. I didn't have her recipe, but found this which seemed very close. It turned out just as I remembered.

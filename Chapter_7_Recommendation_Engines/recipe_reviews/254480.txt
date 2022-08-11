@@ -1,0 +1,72 @@
+Recipe number:
+254480.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-06T19:33:19.65
+helpfulCount:
+4
+userID:
+3866914
+Display Name:
+Kelly Kindle Cheney
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+166
+favoritesCount:
+370
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/458117.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Such a simple, basic recipe. No need for the added fat of heavy cream some recipes call for. Resist the urge to turn the heat up. And when you are done, don't throw the whey away. There are lots of uses for whey. Just google.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-02T07:58:53.19
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe renders a soft and supple fresh cheese- unlike the low moisture version found in American grocery stores. It is like the ricotta I used to buy directly from the local farmer in Sicily. It has a slight hint of lemon and soft yet grainy texture. This recipe works wonderfully with goat's milk or even sheep's milk. I was taught to only use a wooden spoon with ricotta or even better, a twig from a lemon tree. Thank you for the recipe.

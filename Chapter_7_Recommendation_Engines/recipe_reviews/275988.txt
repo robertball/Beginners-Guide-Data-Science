@@ -1,0 +1,107 @@
+Recipe number:
+275988.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-06T00:30:58.243
+helpfulCount:
+1
+userID:
+26621935
+Display Name:
+Allie Moses
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7410895.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+AMAZING! My husband says it's his new favorite meal. I made this recipe without the basil, used a whole onion and whole red bell pepper, 16 oz great value Italian sausage, and I ripped my spinach in half instead of chopped. I wouldn't mind having more spinach personally but it was enough. Also it was my first time using my instapot!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-15T02:17:02.26
+helpfulCount:
+0
+userID:
+16419180
+Display Name:
+Carol B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will definitely make it again.  The grocery store had no chicken sausage so I used turkey sausage and loved it!
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-30T01:51:37.823
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2460
+favoritesCount:
+2263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this was great except for it was too heavy on the herbs. Most recipes I make are the opposite and they need more but this was potent to the point it was overbearing. This was super simple and I will make again but I will decrease the Italian seasoning to a teaspoon or either just leave out the basil altogether. With that being said, this is a great recipe! Italian sausage is full of herbs and seasonings so let it do the work for you!

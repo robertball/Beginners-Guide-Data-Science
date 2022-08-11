@@ -1,0 +1,37 @@
+Recipe number:
+273456.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-06-21T00:36:47.72
+helpfulCount:
+0
+userID:
+25729544
+Display Name:
+silvergirll
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is confusing. It calls for 1 cup each brown sugar and white sugar. You're supposed to add 1/4 cup of each in step 3 and 1/2 cup of each in the next step. This is a total of 3/4 cup. When do you add the remaining 1/4 cup?

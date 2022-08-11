@@ -1,0 +1,72 @@
+Recipe number:
+246280.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-22T20:19:01.83
+helpfulCount:
+3
+userID:
+5341810
+Display Name:
+Carrie Stevens Scruggs
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1920294.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the 3rd lettuce wrap recipe I have tried on allrecipes and by far this turned out to be the BEST!  The sauce really really makes this so delicious that my husband couldn't stop talking about it!  I'm not a mushroom person so I did leave out the mushrooms but followed the recipe exactly with that small exception.  Honestly I can't wait to make this again!  Thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-24T00:45:20.117
+helpfulCount:
+0
+userID:
+7791729
+Display Name:
+Annie Ades
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3513095.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wish I would have taken a picture before we devoured everything. Make a double batch if you want left overs. We used butter lettuce for the wraps.

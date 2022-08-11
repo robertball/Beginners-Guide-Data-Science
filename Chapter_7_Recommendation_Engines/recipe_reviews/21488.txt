@@ -1,0 +1,109 @@
+Recipe number:
+21488.txt
+Review:
+Rating:
+2
+dateLastModified:
+2001-07-15T10:39:24.717
+helpfulCount:
+17
+userID:
+392640
+Display Name:
+MOM31.9
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was okay, but my kids didn't like them at all.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-02T08:31:30.437
+helpfulCount:
+6
+userID:
+16287265
+Display Name:
+banthasurprise
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2561088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is an explosion of flavor and zest. My mouth felt so good after trying this. My children can not get enough, they ate so much that they threw up!
+I would also like to point out that the pretzels contain sodium. This sodium is harmful to the human body. The eggs have inertia, a property of matter. They tend to stay at rest without an outside force. Sugar is a carbohydrate. Momentum of these eggs are quite low, so you must improvise. Also, x is equal to negative b, plus or minus square root of b squared minus four ac, all over 2a.
+Overall, the wing ding nut let's the chance increase. Thanks.
+Review:
+Rating:
+3
+dateLastModified:
+2016-05-29T01:02:01.093
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was interesting. I had Pretzel Crisps pieces leftover and thought I'd give it a try. I didn't add the pretzels until the eggs started to set a bit so that they wouldn't get too mushy since Pretzel Crisps are thin. I added cheese, which I was really glad I did. This tasted okay, definitely edible. But probably not something I'll try again.

@@ -1,0 +1,37 @@
+Recipe number:
+78229.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-06-29T17:25:55.2
+helpfulCount:
+0
+userID:
+992030
+Display Name:
+PhotograMom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+191
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+not bad -- the cheese seemed to really end up at the bottom of the mix, as did the spices.  It may need a little more oil?  The flavor is good if you can really get the spices mixed in though.

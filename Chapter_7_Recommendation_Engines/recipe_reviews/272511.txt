@@ -1,0 +1,37 @@
+Recipe number:
+272511.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-08T20:21:56.25
+helpfulCount:
+0
+userID:
+12591447
+Display Name:
+tcasa
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+776
+favoritesCount:
+1501
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2386212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Actually my husband made this recipe as it was a busy night. He used chicken instead of veal and followed the directions exactly as written. Saltimbocca mean “jumps in the mouth” and this recipe was ok. This was a basic recipe and was tasty. Different regions of Italy use different recipes and I usually dredge the chicken in flour after  wrapping it with the sage & procuitto then I finish the dish off with a squeeze of lemon juice. This just gives it an extra layer of flavor. Generally this is served over spinach or escarole with a nice piece of crusty bread to sop up the sauce. Overall a good dish.

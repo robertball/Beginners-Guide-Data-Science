@@ -1,0 +1,107 @@
+Recipe number:
+213753.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-19T15:07:42.963
+helpfulCount:
+1
+userID:
+5405757
+Display Name:
+Patti Kasal
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+62
+favoritesCount:
+580
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3720566.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this.  I had a wicked headcold and needed something  to feel better and nap.  This was perfect.  No real after taste at all!
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-23T11:05:13.313
+helpfulCount:
+1
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1060
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fabulous!  I'm the first one to admit I'm not a fan of either coffee liqueur, nor peppermint, but this combo hit just perfect for me!  YUM!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-18T19:08:05.923
+helpfulCount:
+0
+userID:
+11724293
+Display Name:
+Phil Custer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Rubbed the glass rim with mint leaves and added fresh mint to serve. Really good after dinner drink!

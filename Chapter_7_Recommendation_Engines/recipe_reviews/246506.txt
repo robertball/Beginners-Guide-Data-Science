@@ -1,0 +1,142 @@
+Recipe number:
+246506.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-15T22:40:41.03
+helpfulCount:
+1
+userID:
+21899651
+Display Name:
+cristina jewels
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tried it at a break and it was hit. I made no changes
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-17T19:26:55.81
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and perfect for an easy breakfast or any time of day treat. I was tempted to cook my eggs on the stove but went ahead and did them in the microwave and they turned out just fine.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-08T22:09:06.32
+helpfulCount:
+0
+userID:
+20696173
+Display Name:
+Sarah-Ann Wing
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4195269.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious and my son loved it too!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-08T23:16:01.17
+helpfulCount:
+0
+userID:
+20387139
+Display Name:
+Miriam Agostinho
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for lunch. I used white cheddar for the cheese. It was a good combination of flavors. I'll make again!

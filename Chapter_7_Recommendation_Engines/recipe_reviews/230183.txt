@@ -1,0 +1,37 @@
+Recipe number:
+230183.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-11T18:37:44.867
+helpfulCount:
+0
+userID:
+6493129
+Display Name:
+powerhungry1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+used homemade Alfredo sauce with garlic. Added Mozzarella cheese on top in place of bread crumbs. I think Bacon would be a good addition to the top as well.

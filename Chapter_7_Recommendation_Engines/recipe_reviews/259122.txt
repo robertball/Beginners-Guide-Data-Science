@@ -1,0 +1,72 @@
+Recipe number:
+259122.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-22T15:11:26.553
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and these turned out good. I'll admit that I did not love the creamy green onion sauce. It has a dominant sour cream taste to it and I do not care for sour cream. My husband on the other hand does like sour cream and enjoyed these. If you like sour cream on your potatoes then I really recommend giving this a try. I also recommend adding more green onion so that the flavor of them comes out more.
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-30T00:02:11.49
+helpfulCount:
+0
+userID:
+21905647
+Display Name:
+Kevin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+82
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! The flavors were definitely great, but I had to make quite a few adjustments to time since it was all over the place. 1 hr is not enough time to cook this as I needed 1 hr and 45 minutes. Furthermore, I would salt the potatoes when adding pepper as it was not salty enough. Broiling it for 3 minutes should be enough, otherwise it'd turn into a blackened mess. But with these adjustments, it should be reallllly good.

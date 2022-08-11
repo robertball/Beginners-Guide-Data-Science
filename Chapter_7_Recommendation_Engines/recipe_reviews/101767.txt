@@ -1,0 +1,72 @@
+Recipe number:
+101767.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-07-27T09:17:26.487
+helpfulCount:
+11
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used homemade greek vanilla frozen yogurt, I made no other changes. For us, this served TWO (split in half) and those were small shots. As is, it was a tasty ice cream "shot". Next time, I'd up the creme de cacao.
+Review:
+Rating:
+4
+dateLastModified:
+2014-09-23T15:22:29.107
+helpfulCount:
+2
+userID:
+2753412
+Display Name:
+Lucky Noodles
+isPro:
+False
+followersCount:
+296
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+2823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/60059.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used top shelf ice cream and light crème de cacao.  Very light and smooth. I may add more crème de cacao next time.  There will be a next time:)

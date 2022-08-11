@@ -1,0 +1,37 @@
+Recipe number:
+271158.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-03T03:21:57.71
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect as written. A little tough but the nature of the cut.

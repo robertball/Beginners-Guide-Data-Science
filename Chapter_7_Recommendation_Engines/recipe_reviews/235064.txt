@@ -1,0 +1,37 @@
+Recipe number:
+235064.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-18T17:14:05.657
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2820
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+2.18.18  Prepared with sugar-free white chocolate Jell-O pudding, skim milk, and topped with some fresh raspberries and mint.  So very simple to make, yet its presentation is certainly guest worthy.  Nobody ever will know how easy this dessert is to make!

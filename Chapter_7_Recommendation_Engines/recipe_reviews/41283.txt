@@ -1,0 +1,72 @@
+Recipe number:
+41283.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-01-29T18:25:55.39
+helpfulCount:
+3
+userID:
+261069
+Display Name:
+HEIDI CALHOUN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good pie. Unique and yummy, I love rhubarb so I would have added more and left out more blueberries, but we all enjoyed at my house!!
+Review:
+Rating:
+4
+dateLastModified:
+2005-07-22T10:15:26.343
+helpfulCount:
+0
+userID:
+584321
+Display Name:
+BABSKITCHEN
+isPro:
+False
+followersCount:
+31
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+512
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/44039.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We enjoyed this very much, had a nice sweet-tart flavor.  Strangely, I noticed the flavor of the raspberries and couldn't really taste the other fruits.  Next time, I would add a little more of all 3 fruits, it wasn't a very full pie.  I didn't bother to lattice the top, just put a solid crust, sealed it, and cut three little slits on top to let out steam.

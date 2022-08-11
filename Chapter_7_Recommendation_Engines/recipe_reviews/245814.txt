@@ -1,0 +1,37 @@
+Recipe number:
+245814.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-27T20:54:38.863
+helpfulCount:
+1
+userID:
+12538903
+Display Name:
+tuk Az
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3217345.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+no changes made. my family didn't like texture or taste

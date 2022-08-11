@@ -1,0 +1,37 @@
+Recipe number:
+233197.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-31T19:02:52.71
+helpfulCount:
+1
+userID:
+2037131
+Display Name:
+Rae
+isPro:
+False
+followersCount:
+299
+followingCount:
+0
+madeRecipesCount:
+776
+favoritesCount:
+2181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/168198.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tried this cake along with another cake for my sons birthday. I wasn't sure how it would go over and when I told people what kind of cake it was they looked at me funny :) But all the adults enjoyed it. They were surprised that it tasted so good :) It is a tasty cake, very moist. I did use the full amount of chipotle sauce and it had a slight kick to me, but I'm a wimp when it comes to the heat.

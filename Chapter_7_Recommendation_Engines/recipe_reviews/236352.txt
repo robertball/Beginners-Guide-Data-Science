@@ -1,0 +1,72 @@
+Recipe number:
+236352.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-01T09:46:15.683
+helpfulCount:
+3
+userID:
+11113456
+Display Name:
+nam1128
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I could eat 5 bowls of this - the meatballs are so easy to make and are delicious, I used the white fiber penne but I think another kind of pasta would work here too (spaghetti, for example). My kid cousins loved it too and they are the pickiest eaters I know.
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-02T17:11:23.817
+helpfulCount:
+2
+userID:
+13752598
+Display Name:
+Alethea Rivera
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1232945.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I absolutely love this dish. It is amazing. My son and me loved it!! I can't wait till my husband gets home from work, so that he could taste it. As for me, it tasted great! My favorite was the meatballs. I've never made them before and couldn't believe how easy it was to make. I loved it and am looking forward to preparing it again.

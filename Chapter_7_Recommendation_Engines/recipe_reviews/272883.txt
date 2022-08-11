@@ -1,0 +1,37 @@
+Recipe number:
+272883.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-05T03:08:57.137
+helpfulCount:
+0
+userID:
+2194460
+Display Name:
+Marje Burdine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+1720
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6274021.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great as a base recipe and so flexible depending on what you have on hand.  The sauce was delicious which is probably  most important .

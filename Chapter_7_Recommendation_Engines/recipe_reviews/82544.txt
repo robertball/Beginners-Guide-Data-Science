@@ -1,0 +1,72 @@
+Recipe number:
+82544.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-03-23T08:29:01.92
+helpfulCount:
+9
+userID:
+1293728
+Display Name:
+MBBABY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You would never know this was a light recipe, it was so good and very filling. It made a perfect St. Patrick's Day meal for the entire family. If anything, I would reduce the Thousand Island a bit. I could see how it could be overpowering. Instead of having to buy to separate loaves of bread I also used a dark/light rye swirl loaf. Delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2006-04-03T07:24:59.983
+helpfulCount:
+0
+userID:
+317442
+Display Name:
+Bernice Dray
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+682
+favoritesCount:
+1767
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7672787.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everyone enjoyed this the day after St. Pat's Day.

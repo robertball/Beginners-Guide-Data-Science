@@ -1,0 +1,107 @@
+Recipe number:
+275519.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-27T00:02:37.63
+helpfulCount:
+2
+userID:
+2236234
+Display Name:
+Laura S.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+219
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been making beer bread for many years. This is the first time I made a variation on the basic recipe. It was delicious! Family loved the flavor and was great served with potato soup.  Only change I would make is to maybe add more fresh rosemary.  Flavors may increase with time, but we ate it while it was still warm..
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-04T20:41:34.593
+helpfulCount:
+1
+userID:
+26217013
+Display Name:
+Sami Wyckoff
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7104310.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is hands down the most delicious bread I’ve made. It’s a well balanced flavor that combines the saltiness of cheddar, the sweetness of apple and the earthiness of rosemary. Not to mention the beer rounds all of the flavors out. Served this to my boyfriend and he destroyed his slice by the time I cut mine.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-15T16:24:39.17
+helpfulCount:
+0
+userID:
+26309409
+Display Name:
+Frank
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great tasting bread. Increased the cheese by 50%. Made it way cheesier!!

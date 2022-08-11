@@ -1,0 +1,72 @@
+Recipe number:
+76228.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-11-26T21:12:08.69
+helpfulCount:
+1
+userID:
+3110894
+Display Name:
+Sandis Take
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3935775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely the best. If you want to impress your guests make this fabulous recipe. Everyone loves these!!!
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-29T10:29:34.097
+helpfulCount:
+0
+userID:
+3514613
+Display Name:
+rc5wc3
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These truly are the best!  Your family and friends will love them.  Delish!

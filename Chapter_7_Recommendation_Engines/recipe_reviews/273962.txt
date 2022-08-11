@@ -1,0 +1,37 @@
+Recipe number:
+273962.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-10T21:35:20.69
+helpfulCount:
+0
+userID:
+22667485
+Display Name:
+Dawn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Big hit

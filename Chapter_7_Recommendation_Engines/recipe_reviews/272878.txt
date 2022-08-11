@@ -1,0 +1,74 @@
+Recipe number:
+272878.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-25T22:40:10.127
+helpfulCount:
+7
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good and that is coming from someone who doesn't love eggplant. I left the skin on them out of personal preference and to make things simple, I just let the eggplant slices sit in the "marinade" for 30 minutes instead of coating each slice. Doing it this way really added flavor. They do flare up quite a bit so I recommend grilling them on upper rack of your grill. Overall good recipe and one of the better eggplant ones I have had.
+Review:
+Rating:
+1
+dateLastModified:
+2019-05-19T20:57:30.627
+helpfulCount:
+0
+userID:
+23108274
+Display Name:
+sherwin tames
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4942335.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+waste of a good eggplant
+
+sorry

@@ -1,0 +1,72 @@
+Recipe number:
+275946.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-29T04:30:30.953
+helpfulCount:
+0
+userID:
+26867312
+Display Name:
+Learndh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came out fantastic. I added some extra spice (added garlic, Tapatio hot sauce, red pepper, and more onion). I cheated on the cheese. I was lazy and didn't want to grate some so instead, I substituted cheddar slices. They laid out across the pyrex evenly once in the middle and then across the top. I put in oven and crisped the cheese till golden. Cut up like a dream. Add a salad and fresh fruit... Family gobbled it up and asked for seconds. Wonderful for days you forget to pull and defrost or just sounds good at the last minutes. Looooooved!!! Yummy
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-24T00:25:17.927
+helpfulCount:
+0
+userID:
+10888034
+Display Name:
+Sami Frazee
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2697912.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wasnt much flavor

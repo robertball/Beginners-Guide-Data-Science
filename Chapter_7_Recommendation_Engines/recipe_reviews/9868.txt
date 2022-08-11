@@ -1,0 +1,116 @@
+Recipe number:
+9868.txt
+Review:
+Rating:
+2
+dateLastModified:
+2001-07-15T17:03:22.09
+helpfulCount:
+14
+userID:
+295153
+Display Name:
+PHALENE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought these cookies were rather dry and didn't have a lot of flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-23T21:34:55.073
+helpfulCount:
+2
+userID:
+4646041
+Display Name:
+Mister Hall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My wife loved the fact that these weren't heavy and said "Not perfect, but close"
+I'm giving it 5 props because I didn't have ALL of the "listed" ingredients, Substituting Allspice for the Clove, Mixing my 1/8 cup of molasses with 1/8 cup of honey.....
+
+Oh, did I mention that I cut the recipe in half??  
+
+Worked a CHARM!!!!!  Beautiful cookies....Not too sweet, wonderful amount of spice.
+
+Do NOT disrespect this recipe because of bad reviews.  It works.  
+
+Not flavorful??  Seriously??  Get some nasal spray.  Clear the pipes....This has TONS of flavor!!!
+Review:
+Rating:
+1
+dateLastModified:
+2012-02-13T08:30:52.38
+helpfulCount:
+1
+userID:
+2599612
+Display Name:
+craftman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+103
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/263704.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+for drop cookies batter was not like a normal drop cookie batter it comes out like a cake batter. I also thought these were dry and had little flavor.

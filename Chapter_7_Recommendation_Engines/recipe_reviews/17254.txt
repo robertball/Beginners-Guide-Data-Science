@@ -1,0 +1,147 @@
+Recipe number:
+17254.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-05-10T17:58:22.153
+helpfulCount:
+5
+userID:
+2338593
+Display Name:
+KtandEvan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a little too bland for my taste!
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-23T17:42:01.877
+helpfulCount:
+1
+userID:
+984149
+Display Name:
+Lew
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good. I used fresh spinach and mushroom and only used a pinch of salt.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-20T19:46:00.94
+helpfulCount:
+0
+userID:
+4202639
+Display Name:
+Christine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I really like this. Here's what I do differently:
+-I like to use dehydrated onion, because I don't like a lot of crunch (only do 3 Tbsp, I don't know why it's listed twice in the ingredient list).
+-This tastes good with either canned or leftover chicken.
+-I use raw spinach instead of cooked, and I don't really measure it, I just rip it up and add it in step 2. This also works really well with frozen spinach, because it's a lot faster to break up.
+-I use 2 eggs instead of 1, and I cut them up into small pieces and crumble the yolk into the mixture, instead of having it in slices like it shows in the picture.
+*Note: I found that this makes enough for 5 slices of bread.
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-03T16:32:48.34
+helpfulCount:
+0
+userID:
+15499787
+Display Name:
+Amber Whatif
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2141693.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this. So delicious. just be sure to cook chicken with salt and pepper and boil in the chicken broth. also I seasoned spinach. Taste so good together I will definitely make again.yummy.

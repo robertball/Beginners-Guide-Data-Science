@@ -1,0 +1,37 @@
+Recipe number:
+215611.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-08-02T17:37:27.713
+helpfulCount:
+9
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9053
+followingCount:
+0
+madeRecipesCount:
+612
+favoritesCount:
+980
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was amazing!  I didn't make any changes to this dish.  I was able to find the pumpkin seeds already toasted which cut down on my prep time.  Word of warning give yourself some wiggle room on the price of pumpkin seed oil, especially if you're on a budget!  It's something you will want to use - but it's NOT cheap!

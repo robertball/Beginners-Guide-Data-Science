@@ -1,0 +1,72 @@
+Recipe number:
+163764.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-06-21T02:32:43.19
+helpfulCount:
+9
+userID:
+3793865
+Display Name:
+Rida
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+just made this Curry, its really yummy. I added some capsicum for more colour and flavour. Other than that the recipe is great :D
+Review:
+Rating:
+1
+dateLastModified:
+2014-04-13T19:15:10.773
+helpfulCount:
+2
+userID:
+13313959
+Display Name:
+Mrs Asim
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+An ordinary dish, nothing special. I will never make it again

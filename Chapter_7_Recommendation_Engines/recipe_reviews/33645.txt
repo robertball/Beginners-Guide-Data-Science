@@ -1,0 +1,37 @@
+Recipe number:
+33645.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-03-14T07:13:03.06
+helpfulCount:
+4
+userID:
+1375052
+Display Name:
+HYYAWORSKY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was ok. it was quite gooey which was nice and had a crumbly effect going on, on the top.

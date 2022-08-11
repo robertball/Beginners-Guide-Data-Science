@@ -1,0 +1,75 @@
+Recipe number:
+257423.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-17T22:18:40.64
+helpfulCount:
+3
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've never had this before so I don't know what it should taste like. What I do know is that I do like it.  It reminded me of rice pudding. I think this recipe would be better if there was more vermicelli. There just wasn't enough of it. If I make it again I will double the vermicelli.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-03T01:03:59.387
+helpfulCount:
+1
+userID:
+5453445
+Display Name:
+Vegetathalas
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+82
+favoritesCount:
+715
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So my favorite Indian restaurant from my childhood had "different" rice pudding. It had these long strands of deliciousness. I couldn't figure out what they were. Now I know.
+
+
+I liked this recipe a lot. Simple and delicious. I thought the noodle proportions were good, but there does seem to be something missing in terms of complexity. Next time I'll add some pistachios and cardamom, and maybe tone down the cinnamon a little.

@@ -1,0 +1,73 @@
+Recipe number:
+245859.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-27T01:42:08.477
+helpfulCount:
+1
+userID:
+17057796
+Display Name:
+Zach O'Connor
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2989476.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious. Easy and quick. Will definitely add it to
+ my recipes book
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-27T04:46:17.053
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! I tweaked the roast a bit to fit with another recipe I was making. The apple cider in this one definitely set this one apart from the other. The one thing I did like in the other better was the addition of tomato paste. It needed that acidity. The mushrooms and thyme in this one was a better flavor combo. All in all, this one was the better recipe.

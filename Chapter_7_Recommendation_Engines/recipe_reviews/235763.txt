@@ -1,0 +1,74 @@
+Recipe number:
+235763.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-27T12:50:56.96
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was very disappointed in the flavor of these bar the day I made them, but when I served them the following day the flavor was much better as was the texture.  Good balance of sweet and salty.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-18T20:29:07.273
+helpfulCount:
+0
+userID:
+784817
+Display Name:
+Quoll
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+222
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great brownie. Texture was very fudge-like in the center. I used lightly salted cashews but next time I make these I would go for regular salted. This recipe would also be good with pecans or walnuts.
+
+Upscaled by half for a 9x13 pan. Reduced temp to 325 for a glass baking dish and baked for about 34 mins.

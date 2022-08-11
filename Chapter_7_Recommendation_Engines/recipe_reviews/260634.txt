@@ -1,0 +1,37 @@
+Recipe number:
+260634.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-10-16T23:44:47.553
+helpfulCount:
+0
+userID:
+514061
+Display Name:
+PSOCH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+712
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe didn't work for me. I followed the directions exactly. The veggies were burnt at the top and not done in the middle. I then tried in the oven at a more even temp than the air fryer and the mixture was just not good. I think something must be missing from the recipe.

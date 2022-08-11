@@ -1,0 +1,85 @@
+Recipe number:
+97170.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-06-18T08:05:42.853
+helpfulCount:
+12
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We're big on smoothies in this house.
+
+I scaled this down to make for myself,
+as I didn't want the kids drinking raw
+eggs. It scaled down well, I used two
+tablespoons of vanilla pudding mix, which
+thickened up the homemade eggnog up really well. I also added a couple ice
+cubes. Oh, and I used a tsp. of rum flavoring in place of the alcohol. Now
+that I've made the trial run, I'll be
+sure to make this again for my husband
+and I with alcohol. (Didn't want to waste
+alcohol in a drink that may or may not be a wash.)
+
+Tasty.
+Review:
+Rating:
+4
+dateLastModified:
+2011-12-11T17:11:00.34
+helpfulCount:
+7
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+yummy but very very thick.. I am going to thin it  just a tad with some milk

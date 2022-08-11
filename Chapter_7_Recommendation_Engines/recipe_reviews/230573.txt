@@ -1,0 +1,107 @@
+Recipe number:
+230573.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-01-26T09:16:08.213
+helpfulCount:
+1
+userID:
+10600832
+Display Name:
+pdxpaul
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this recipe very much. Very tasty. I would diffidently make this again.
+Review:
+Rating:
+1
+dateLastModified:
+2013-12-31T04:15:55.7
+helpfulCount:
+0
+userID:
+8672551
+Display Name:
+Cathy Tetreault
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2494527.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is my first one star.  I usually can see what is coming down the pike by looking over ingredients etc... but this one blind sided me. I would do a major revamp so much that you might as well call it a new recipe.  I guess couldn't eat it is a bit harsh.  But didn't enjoy eating it was accurate.
+Review:
+Rating:
+4
+dateLastModified:
+2013-01-05T14:55:01.317
+helpfulCount:
+0
+userID:
+6901274
+Display Name:
+Laura Miller
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good, I also baked it in the oven to be a little healthier.

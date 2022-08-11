@@ -1,0 +1,37 @@
+Recipe number:
+235324.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-07T15:48:49.617
+helpfulCount:
+0
+userID:
+5229402
+Display Name:
+edgewaterbliss
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We make this every single year for Christmas dessert - its just that good.  So rich and creamy,  a little "boozy" from the Grand Marnier and fantastic as an accompaniment to a slice of simple pound cake or almond Scandinavian cake.  Its also very, very pretty and elegant in a glass trifle dish.  We garnish with peeled, separated oranges.

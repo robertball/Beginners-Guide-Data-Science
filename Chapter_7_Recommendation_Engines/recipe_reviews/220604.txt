@@ -1,0 +1,72 @@
+Recipe number:
+220604.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-03-22T08:48:38.173
+helpfulCount:
+3
+userID:
+4799719
+Display Name:
+janice tofuri
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+1160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sounds like a good option for a hot night dinner but I think I would puree a garlic clove with the tomatoes.
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-18T17:42:26.717
+helpfulCount:
+2
+userID:
+8315936
+Display Name:
+ademerse
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was really surprised at how good this tasted. This was my first time making a raw tomato sauce. I blended the onion and garlic with everything else though. I added a couple leaves of basil too. I'm trying to think of a way to make it thicker but it's really good.

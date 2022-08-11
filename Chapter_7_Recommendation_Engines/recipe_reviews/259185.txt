@@ -1,0 +1,108 @@
+Recipe number:
+259185.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-06T15:43:49.93
+helpfulCount:
+9
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Say! I like green eggs and hash! I do! I like them. And I would eat them in a boat. And I would eat them with a goat...They are so good, so good, you see even though I used frozen spinach they worked perfectly! I made double and fed three! 
+I do so like green eggs and hash. Thank you! Thank you, Brian Weld!
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-16T22:35:25.41
+helpfulCount:
+1
+userID:
+4435448
+Display Name:
+Hilda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everyone loved them
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-06T04:40:44.46
+helpfulCount:
+1
+userID:
+21907807
+Display Name:
+Suzy MacFarland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a beautiful dish.  I don't care for canned hash but chorizo or Spam are great fillings.  This was a fun and creative idea and creates a lovely omelet.  Thank you for this great idea!

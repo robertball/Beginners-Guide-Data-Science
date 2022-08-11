@@ -1,0 +1,72 @@
+Recipe number:
+215020.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-09-16T11:23:26.613
+helpfulCount:
+6
+userID:
+7685502
+Display Name:
+Fash Michael
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think this is a classic and delicious recipe to complement the salmon.
+Review:
+Rating:
+2
+dateLastModified:
+2014-08-15T09:41:37.807
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this recipe to be so tart/sour/bitter that it completely overpowered the delicate and expensive salmon.

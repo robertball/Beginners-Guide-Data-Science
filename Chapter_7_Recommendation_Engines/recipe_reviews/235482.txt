@@ -1,0 +1,72 @@
+Recipe number:
+235482.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-02-28T18:43:00.037
+helpfulCount:
+8
+userID:
+12882272
+Display Name:
+Carole Morgan
+isPro:
+False
+followersCount:
+23
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+107
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2050338.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this recipe, but I did make a couple changes. There wasn't enough cinnamon for my taste, so I sprinkled each side of each breast with some cinnamon first. I then grilled the breasts on my George Foreman grill to get a nice sear on the outside to lock in all the natural juices in the meat. Then I put them in a covered casserole in the oven for 45 min instead of an hour. The grilling gave a rich brown caramelizing effect to the sauce as well. Very tasty. I added my picture to the recipe. I hope you enjoy my changes  :o)
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-22T18:04:01.047
+helpfulCount:
+2
+userID:
+15881145
+Display Name:
+Kitty Boo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+124
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am making it now but I wanted to say this before I forget. It would be helpful for beginner cooks to know if they spices are suppose to totally blend into the mixture or not. There were still granulated bits on the bottom after I was done whisking and I didn't know if that was ok or if I needed to keep mixing

@@ -1,0 +1,37 @@
+Recipe number:
+246953.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-11T17:25:41.36
+helpfulCount:
+0
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are very similar to crepes but with less flour and eggs. The pan needs to be buttered between each pancake to facilitate easy flipping, they are very delicate, I used 1/3 cup measure but it ripped easily would recommend 1/2 cup measure. Served with strawberry jam and cinnamon sugar, my sons enjoyed them. Yielded 10 pancakes with 1/3 cup measure.

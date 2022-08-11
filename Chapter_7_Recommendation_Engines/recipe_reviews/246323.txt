@@ -1,0 +1,72 @@
+Recipe number:
+246323.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-08T22:12:53.127
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+501
+followingCount:
+0
+madeRecipesCount:
+1554
+favoritesCount:
+3236
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really delicious. My only change was using dried herbs as I didn't have fresh at home. I made half of this thicker.. just rolling out like a pie crust and half thin, rolling out on the foil. They tasted great both ways. I baked the thicker ones 25 minutes
+Review:
+Rating:
+3
+dateLastModified:
+2016-05-01T19:08:31.927
+helpfulCount:
+0
+userID:
+4133407
+Display Name:
+LaDonna Langwell
+isPro:
+False
+followersCount:
+97
+followingCount:
+0
+madeRecipesCount:
+99
+favoritesCount:
+258
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/744209.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It just didn't work. I think there was too much butter and the cornmeal was over powering and it could not be rolled out and even under plastic wrap, it was like I was rolling out just butter.

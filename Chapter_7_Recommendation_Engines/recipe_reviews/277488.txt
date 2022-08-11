@@ -1,0 +1,37 @@
+Recipe number:
+277488.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-16T18:08:08.533
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+578
+favoritesCount:
+799
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The easiest rum ball recipe I have found!  The rum was light since it was just a quick soaking, but you can taste it. I didn't have luck getting the magic shell to harden. They are best kept in the fridge.

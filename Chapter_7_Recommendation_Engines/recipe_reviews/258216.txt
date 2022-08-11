@@ -1,0 +1,72 @@
+Recipe number:
+258216.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-10T22:09:11.54
+helpfulCount:
+0
+userID:
+23713512
+Display Name:
+Misty Russell
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5395995.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good!!!
+Review:
+Rating:
+2
+dateLastModified:
+2017-08-12T03:04:36.983
+helpfulCount:
+0
+userID:
+22226936
+Display Name:
+Thelittlelambs
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+163
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Needs cheddar cheese or American...the cheese has little flavor. The blend is ok but next time I would try all beef and different cheese inside...

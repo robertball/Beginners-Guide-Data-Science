@@ -1,0 +1,37 @@
+Recipe number:
+255817.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-30T15:54:24.463
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+11.30.16   You may be confused by the ingredient listing “...coconut oil, sliced.”  Coconut oil tends to be partially hard, so if you saw “...hard coconut oil” as an ingredient, it might make more sense (would to me).  I didn’t slice it, just used a teaspoon to get it out of the jar.  This is a very good lemon curd recipe, the coconut flavor definitely is recognizable, and the curd has a nice  balance of sweet and tart.

@@ -1,0 +1,37 @@
+Recipe number:
+10886.txt
+Review:
+Rating:
+1
+dateLastModified:
+2004-02-21T06:09:16.687
+helpfulCount:
+47
+userID:
+1032627
+Display Name:
+TASHAMARCUS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+78
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I took a chance and made these as-yet unrated cookies for my daughter's 1/2 birthday party at school.  They were edible, but not yummy.  I think there is too much milk in the recipe, so the cookies were very thin.  Also, the frosting needs improvement.  At a minimum, the white frosting needs some butter and vanilla to make it more than just powdered sugar and water.  My daughter did not like her cookie and several of the other kids did not eat theirs either.

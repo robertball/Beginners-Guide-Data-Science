@@ -1,0 +1,72 @@
+Recipe number:
+17090.txt
+Review:
+Rating:
+1
+dateLastModified:
+2008-02-17T08:25:40.2
+helpfulCount:
+3
+userID:
+2765126
+Display Name:
+Dunner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/126442.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+unfortunately i found this to be over powered by the taste of the pre-made bbq sauce base, i tried it again with a mix of ketchup and tomato paste and it was wonderful!
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-12T03:45:41.62
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The ingredient list calls for MSG however the instructions call for meat tenderizer so there appears to be a typo here. With that being said, I left that step out altogether. This was okay but I feel it would have benefited if cooked on the stove awhile. The red wine really needed some time to cook down in my opinion.

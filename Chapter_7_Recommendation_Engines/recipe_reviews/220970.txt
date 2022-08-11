@@ -1,0 +1,37 @@
+Recipe number:
+220970.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-06T22:55:09.537
+helpfulCount:
+1
+userID:
+2164682
+Display Name:
+Tosha Nielsen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was the perfect addition to our Christmas ham.  We had a currant glaze last year on a ham and we really wanted to have one on our own ham, so we were looking for one we could make that would be similar.  We omited the vinegar and put in the entire jar of currant jelly which was about 2 cups.  We also added an extra 1/2 cup of currants because we liked having a lot of currants.  The glaze was delicious and all 7 of my kids, ages 8-16, loved it!

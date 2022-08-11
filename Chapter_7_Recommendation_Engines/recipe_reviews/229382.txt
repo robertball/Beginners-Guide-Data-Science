@@ -1,0 +1,37 @@
+Recipe number:
+229382.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-14T03:47:50.387
+helpfulCount:
+2
+userID:
+113117
+Display Name:
+SEBC
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+75
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty.  I used less grated carrots and substituted diced apple for some of the celery since hubby isn't as crazy about celery as I am.  Nice cool dish  for this hot weather.  I would like to try mandarin oranges next time.  Used sugar free jello.  The reason I cut down the amount of carrot is that I thought it was getting too full for the amount of liquid.

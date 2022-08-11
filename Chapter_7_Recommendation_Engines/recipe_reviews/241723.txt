@@ -1,0 +1,72 @@
+Recipe number:
+241723.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-28T05:45:14.72
+helpfulCount:
+1
+userID:
+4462283
+Display Name:
+What's for dinner, mom?
+isPro:
+False
+followersCount:
+11593
+followingCount:
+0
+madeRecipesCount:
+555
+favoritesCount:
+1378
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3274570.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good basic pasta dough.  Much of the success in making this depends on the flour (it absorbs liquid differently on damp and dry days) as well as the size of your eggs.  Dough should be pliable, soft and not stick to your hands.  This worked very well in my Kitchen Aid pasta roller.  I used my Italian MIL's  chitarra (guitar) to make some of the spaghetti.   I also tried this in the Kitchen Aid Pasta Press and it flowed through beautifully! Nice recipe, would make again.
+Review:
+Rating:
+3
+dateLastModified:
+2017-02-21T22:35:57.727
+helpfulCount:
+0
+userID:
+20257415
+Display Name:
+keep.calm.and.bake
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pasta is very chewy and tough but great flavor.

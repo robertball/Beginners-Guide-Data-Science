@@ -1,0 +1,72 @@
+Recipe number:
+130869.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-07-26T16:06:25.36
+helpfulCount:
+18
+userID:
+2661227
+Display Name:
+Cindy Capps Lepp
+isPro:
+False
+followersCount:
+476
+followingCount:
+0
+madeRecipesCount:
+146
+favoritesCount:
+1031
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/572851.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! I used fresh tomatoes plus a can of tomatoes with chiles for a little zip! I served over a bed of aldente thin spaghetti this time but this would be great on homemade pizza crust or french bread as a Bruschetta! Just add some cheese! You must love anchovies for this one, scale down the anchovies if you have any doubt!
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-15T12:29:56.11
+helpfulCount:
+0
+userID:
+2877889
+Display Name:
+Annabel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+302
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried it last week when we were staying with my son, who asked for marinara sauce. I wouldn't have done it otherwise because my husband professes not to like pasta. This has converted him! I'll make it again this week, because I can't get the memory of it out of my mind! We couldn't taste the anchovies, it just had a deep flavour, and I used the rest of the anchovies on top.

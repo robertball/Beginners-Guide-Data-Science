@@ -1,0 +1,107 @@
+Recipe number:
+246660.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-12T00:33:51.007
+helpfulCount:
+0
+userID:
+2635641
+Display Name:
+Karen Bleakley
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5137389.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We don't have broccoli rabe very often at all.  I was looking for a recipe to accompany steamed white fish and this was sooooo good!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-06T00:00:00.987
+helpfulCount:
+0
+userID:
+5327027
+Display Name:
+jodibug
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+176
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/494564.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and delicious! A definite keeper!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-06T08:38:42.68
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2832
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is a magical trip for your taste buds. Everything you need is here: bitter, salty, sweet, a bit fruity...everyone's on board. What a wonderful array of flavours. I had to make my own ponzu sauce but otherwise kept to the recipe. Thank you for the recipe.

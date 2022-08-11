@@ -1,0 +1,37 @@
+Recipe number:
+119934.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-06-23T10:26:03.133
+helpfulCount:
+1
+userID:
+1391210
+Display Name:
+Ginny Maziarka
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+87
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2125737.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Average summer salad.  Pretty and easy to make.  Dressing is versatile.

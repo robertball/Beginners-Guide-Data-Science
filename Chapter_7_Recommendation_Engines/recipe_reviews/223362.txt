@@ -1,0 +1,252 @@
+Recipe number:
+223362.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-25T09:30:28.37
+helpfulCount:
+13
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good, for something that is not chocolate. The peachiness is really present.. no mistaking it. I'd like to try this with other fruits sometime
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-01T15:41:25.263
+helpfulCount:
+9
+userID:
+4681407
+Display Name:
+Martin C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes good but it should read  3 oz pectin,not 3 T. Otherwise candy too soft
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-21T13:42:35.86
+helpfulCount:
+7
+userID:
+20041464
+Display Name:
+Becky Chinnici Anderson
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3777073.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe itself was easy to follow BUT, there is a KEY step that NEEDS to be added to the directions: 
+
+Right after it says this: Cover and refrigerate at least 8 hours or overnight. 
+It then needs to say this: After you take it out of the frig, you NEED to let it sit until room temperature. 
+
+Otherwise no amount of work will not get that plastic wrap off that stuff! I can't believe the author neglected to add this KEY piece of info. Ugh! If it were not for a happy accident  I would not have figured this out and would have thrown this delectable, confection away!
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-19T17:20:11.983
+helpfulCount:
+3
+userID:
+6162728
+Display Name:
+Kelly Lynn Smith
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2199729.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It requires 3 oz. of pectin NOT 3 Tbsp.  As it is written here; the recipe makes peach jam.  For candy, the pectin MUST be increased to 3 oz.  When corrected; it makes a delicious candy. I wasted a lot of time attempting to set it before discovering the error.  I was able to put the "jam" back on the stove the following day and add the remainder of the pectin and make the candy.
+Review:
+Rating:
+2
+dateLastModified:
+2015-09-13T02:09:55.533
+helpfulCount:
+1
+userID:
+16346049
+Display Name:
+Judy Coffin
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2591997.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It id not set up.
+Review:
+Rating:
+3
+dateLastModified:
+2015-08-06T18:42:49.153
+helpfulCount:
+1
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Since Chef John's recipes are always fantastic, I'm assuming mine not gelling up was due to user error. It tasted great, but I did struggle with a few of the steps. First of all, I couldn't get the peaches to blend without some added water. I took Martin C's advice and used 3 oz of pectin instead of 3 T. My package was 3 oz. I started with 3 T, and it just didn't seem like enough, so I added the rest. I also didn't use a thermometer in Step 4 -- just kind of kept it at a bubbling simmer. As I said the end product was delicious -- but I made jam, not candy.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-22T19:29:23.443
+helpfulCount:
+0
+userID:
+3206049
+Display Name:
+SER
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+170
+favoritesCount:
+980
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/565501.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were great!  I made them as directed, but I used frozen peaches (just not in season right now).  I would love to know how to modify for other fruits, such as lemon & raspberries.  As there is different levels of pectin in these fruits, my guess is that the additional pectin would need to be adjusted.

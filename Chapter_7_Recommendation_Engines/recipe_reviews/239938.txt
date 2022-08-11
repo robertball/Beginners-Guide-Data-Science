@@ -1,0 +1,72 @@
+Recipe number:
+239938.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-15T01:54:15.907
+helpfulCount:
+1
+userID:
+1429130
+Display Name:
+COOK471
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+275
+favoritesCount:
+3183
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2414.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+My review is for the idea. I marinated the steak in a good marinade which tenderized the steak and then wrapped it in bacon. I fried it on a cast iron grill pan and turned until the bacon was done. The steak was so tender and the bacon flavor was throughout. I used this for an appetizer but definitely a main dish. I put another steak in the marinade and making another batch for company in the next couple days.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-27T12:07:17.233
+helpfulCount:
+0
+userID:
+26942258
+Display Name:
+Rosie Dawes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! Did in fact go great with a beer!

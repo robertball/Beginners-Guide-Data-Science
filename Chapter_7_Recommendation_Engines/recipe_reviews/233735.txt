@@ -1,0 +1,37 @@
+Recipe number:
+233735.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-28T00:06:27.303
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was okay but could use more flavor. The one and only change I made in the beginning was with the wrappers. My store had potsticker wrappers but no wonton wrappers. So, I made potstickers instead of wontons but with filling and more of it. The wrapper turn into one big noodle after they float to the top so you are basically eating a big bowl of noodles with a hint of shrimp flavor. I definitely recommend adding more to your dumpling suck as chopped veggies and more seasoning. I had a handful of frozen peas and carrots that I threw in just to give it some color but that didn't really help much for flavor. This recipe is okay but bland as written.

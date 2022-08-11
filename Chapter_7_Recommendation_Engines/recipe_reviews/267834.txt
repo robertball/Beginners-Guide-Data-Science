@@ -1,0 +1,37 @@
+Recipe number:
+267834.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-28T21:17:21.203
+helpfulCount:
+0
+userID:
+25910927
+Display Name:
+Jack Churchill
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6880175.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good

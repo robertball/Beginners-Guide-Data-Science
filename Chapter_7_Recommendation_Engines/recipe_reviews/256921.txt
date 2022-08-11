@@ -1,0 +1,107 @@
+Recipe number:
+256921.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-09T17:53:03.88
+helpfulCount:
+0
+userID:
+4982584
+Display Name:
+Judy Black
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2163901.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made twice, both times the cake didn't turn out right. My Bundt pan isn't big enough for this recipe, it measured at twelve cups.. I wish I had scooped some batter out the second time but I made another cake in order to use up the flan batter. Cooked two hours and cooled longer and the flan almost came out right.  Tasted good. My friend said to leave the cake in the water bath all afternoon,even all night.
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-01T01:26:19.663
+helpfulCount:
+0
+userID:
+16556178
+Display Name:
+Kat Bowden
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5901212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It turned out amazing. Will be making it often.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-04T00:45:31.263
+helpfulCount:
+0
+userID:
+21339189
+Display Name:
+Ana Kim
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simply amazing. My mistake: only making one. It was gone way too fast.

@@ -1,0 +1,72 @@
+Recipe number:
+76836.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-09-21T09:10:49.263
+helpfulCount:
+9
+userID:
+2989005
+Display Name:
+Katie Ryan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/89048.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used fruit that was in season and that was fresh. If the fruit isn't ripe, the salad-treat won't taste very good. SO use melons, strawberries, grapes, blueberries, kiwi or anything fresh. I used a pineapple sorbet that worked just fine. My only change would be to use Sugar Free Jam. The Strawberry Preserves was a little too sweet for my liking, especially with the already sweet ice cream. I think even a fig jam that is mild might be really good as well... Don't forget fresh mint, it adds that extra punch!!! Its very easy especially for a large crowd and I would make it again!!!
+Review:
+Rating:
+5
+dateLastModified:
+2013-04-17T11:04:17.013
+helpfulCount:
+1
+userID:
+4181603
+Display Name:
+suzhef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/292718.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Soooo easy and sooooo delish! I suggest using any melon and fruit in season!

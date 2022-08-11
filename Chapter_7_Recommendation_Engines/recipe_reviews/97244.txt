@@ -1,0 +1,72 @@
+Recipe number:
+97244.txt
+Review:
+Rating:
+2
+dateLastModified:
+2012-08-26T15:35:41.92
+helpfulCount:
+5
+userID:
+2360345
+Display Name:
+Melissa Goff
+isPro:
+False
+followersCount:
+1368
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+1339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2417840.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The best part of this recipe, was the graham cracker crumbles. There is something a miss in the recipe. I did just as the recipe stated, and I can't tell you the visual was rather gross and the taste was equally the same. 1 can of sweetened condensed milk & 1/2 cup of cranberry sauce does NOT thicken at all. And then add the whipped cream into the mix...it's not appetizing to look at and the taste is just of condensed milk. It was runny and flat. I even kept it in the frig 5 hours and didn't thicken up at all. So I made a 2nd batch the same thing. Sooo on the 3rd attempt and I added an entire can of cranberry sauce to the condensed milk, and 1 1/2 cups of whipped cream and it held better shape....tasted better...but as written...it was rather distasteful. The only thing that was flavorful was the graham cracker crumbles. I will NOT be making again. Sorry. No one in my house liked it. 5 stars for the crumble, zero stars for the cranberry mixture.
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-06T14:26:19.81
+helpfulCount:
+0
+userID:
+10889267
+Display Name:
+Dany
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i love parfaits!

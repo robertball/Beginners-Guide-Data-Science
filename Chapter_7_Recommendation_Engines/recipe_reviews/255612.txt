@@ -1,0 +1,37 @@
+Recipe number:
+255612.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-12T21:48:08.15
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were simple and delicious! I was too lazy to get out the piping bag and tip, so I just scooped the potato mixture on top of each one (it was just for the family, lol).  Very nice texture with the crispy potato bottom and creamy potato top. Great flavors and a definite keeper~YUM! Thanks for sharing. :)

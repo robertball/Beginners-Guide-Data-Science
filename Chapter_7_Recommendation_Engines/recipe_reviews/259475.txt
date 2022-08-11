@@ -1,0 +1,72 @@
+Recipe number:
+259475.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-22T00:41:16.26
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was simple and good but I felt it could have used a little more. The cabbage was on the bland side. If I were to make again I'd add some beer, chicken broth, cider, or something to help flavor the cabbage. Overall good recipe though and great for nights you are short on time.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-19T23:10:18.687
+helpfulCount:
+0
+userID:
+11350585
+Display Name:
+Pamela
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A really great comfort food on a cold dreary day!!1

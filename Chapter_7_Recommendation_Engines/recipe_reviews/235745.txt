@@ -1,0 +1,72 @@
+Recipe number:
+235745.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-09-13T05:20:43.05
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome! Made as written and loved it. The ginger is really nice in this. Thank you for the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2019-07-30T23:24:31.91
+helpfulCount:
+0
+userID:
+15974418
+Display Name:
+lois
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this. Turned out like a spiced chutney.

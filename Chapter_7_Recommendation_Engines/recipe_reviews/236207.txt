@@ -1,0 +1,214 @@
+Recipe number:
+236207.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-01-19T08:00:29.613
+helpfulCount:
+6
+userID:
+1153011
+Display Name:
+naples34102
+isPro:
+False
+followersCount:
+4543
+followingCount:
+0
+madeRecipesCount:
+3627
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7786532.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Another take on a simple breakfast favorite that allows for a great deal of latitude and versatility to accommodate individual tastes. (And to use up things in your fridge you don't want to go to waste when you're headed out of town)
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-07T16:51:56.867
+helpfulCount:
+2
+userID:
+20035097
+Display Name:
+Jason Thornton
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+178
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3773013.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used fresh tomatoes instead of salsa. Since my dad's stroke his taste is very different and trying to find things he'll eat is difficult and he wanted seconds of this!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-18T19:25:35.203
+helpfulCount:
+1
+userID:
+4291934
+Display Name:
+Sharon Young
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5757654.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used the bigger tortillas and made burritos. I also added sour cream. Will definitely make them again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-19T14:59:55.11
+helpfulCount:
+0
+userID:
+20969682
+Display Name:
+Tom Jamieson
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+68
+favoritesCount:
+316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4288587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Little one really  liked this
+Made on a weekend
+Served her 3 days during the morning rush to school
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-24T00:16:52.403
+helpfulCount:
+0
+userID:
+23184448
+Display Name:
+Thomas Woodyard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super great, but I would only have it when I'm in the mood.
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-20T01:40:25.67
+helpfulCount:
+0
+userID:
+22364774
+Display Name:
+Olwethu Zungu
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will definitely make it again. I had no salsa though, so I used taco sauce and I also added some leftover corn

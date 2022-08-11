@@ -1,0 +1,47 @@
+Recipe number:
+232485.txt
+Review:
+Rating:
+4
+dateLastModified:
+09/23/2013
+helpfulCount:
+3
+userID:
+lindat
+Display Name:
+Linda T
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2367052.jpg
+text:
+Tasty drink.. I used almond milk and I used a lot more ice to get a more slushy consistency
+Review:
+Rating:
+5
+dateLastModified:
+07/15/2018
+helpfulCount:
+0
+userID:
+23951804
+Display Name:
+Christopher Goldhammer
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5559011.jpg
+text:
+I just used ice honey 2.5 scoops of PB and 2 bananas. Perfect consistency my kids loved it as well.
+Review:
+Rating:
+5
+dateLastModified:
+06/06/2019
+helpfulCount:
+0
+userID:
+25669309
+Display Name:
+Shana Morcom
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6710209.jpg
+text:
+So thick and tasty! Perfect quick healthy breakfast!

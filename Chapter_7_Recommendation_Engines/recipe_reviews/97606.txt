@@ -1,0 +1,72 @@
+Recipe number:
+97606.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-06-18T21:15:40.16
+helpfulCount:
+6
+userID:
+2206997
+Display Name:
+Erin Noel
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/109.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+We substituted gorgonzola for the blue cheese since we really dislike blue.  Next time, I would only use 3 oz cheese - it kind of overpowered.  The grilled chicken was great on the salad.  I also added crumbled bacon and sliced cucumbers.  Unfortunately I forgot the avacado!  I even bought one just for the salad.  Oh well, next time!
+Review:
+Rating:
+4
+dateLastModified:
+2009-07-02T08:36:18.137
+helpfulCount:
+1
+userID:
+246395
+Display Name:
+DANIELLE BEATTY
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+222
+favoritesCount:
+301
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2593147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was the first time I've used blue cheese in a recipe and I found out that I don't like it.  Otherwise, the recipe was delicious and I would just substitute another kind of cheese if I make it again.

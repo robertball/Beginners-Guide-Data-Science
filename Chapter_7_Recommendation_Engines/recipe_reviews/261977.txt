@@ -1,0 +1,267 @@
+Recipe number:
+261977.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-19T16:08:09.903
+helpfulCount:
+2
+userID:
+22456266
+Display Name:
+Donna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They were good and I will make them again. Do you know that all sugar is not vegan.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-31T16:50:30.247
+helpfulCount:
+0
+userID:
+1090549
+Display Name:
+Valerie Bailey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4960779.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A great option for those that need to avoid dairy. I also used gluten-free flour to make them gluten-free. I multiplied the recipe by 8 to make it worth my while. So good!  
+
+
+Conversion for larger batch:
+
+
+1 1/2 cups flour
+
+1 1/2 cups chocolate chips
+
+1 cup sugar
+
+1 cup olive oil 
+
+1/2 cup cocoa powder 
+
+1/2 cup almond milk
+
+4 tsp. Vanilla extract 
+
+4 tsp. Baking powder
+Review:
+Rating:
+2
+dateLastModified:
+2018-12-15T18:20:21.813
+helpfulCount:
+0
+userID:
+24741254
+Display Name:
+Kate
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It tasted good, but it would be nice if you updated it so I could make more than just 4 small cookies
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-04T02:07:20.803
+helpfulCount:
+0
+userID:
+24276812
+Display Name:
+Emma Highberger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5789220.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Idk if it was so amazing bc i used the Califa brand almond milk mocha cold brew coffee instead of plain almond milk (i didnt have any) but this recipe is great! I also added a little salt  5/5
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-15T17:22:51.443
+helpfulCount:
+0
+userID:
+17126495
+Display Name:
+Kimberly Kelly
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved them!
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-18T14:45:25.64
+helpfulCount:
+0
+userID:
+13945198
+Display Name:
+Amy Roth Souder
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1271052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy to make and delicious!  I always triple the recipe because they go so fast!
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-25T19:48:20.497
+helpfulCount:
+0
+userID:
+16439976
+Display Name:
+Mia Patterson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+279
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6931560.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were delicious. My grandson and I made these very quickly !!!  Easy to follow recipe. We did add crushed pecans which was a great idea !!  These are the best we couldn't stop eating them!!!

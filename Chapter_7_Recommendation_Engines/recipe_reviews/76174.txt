@@ -1,0 +1,72 @@
+Recipe number:
+76174.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-12-29T00:20:58.07
+helpfulCount:
+3
+userID:
+2695071
+Display Name:
+snappy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Try adding some onion soup mix to this to spice it up. I have a simular recipe that uses crackers for the oatmeal, these are tasty. A little soy sauce and some added spices like garlic powder and onion powder and maybe some papprika helps with flavor too, without the onion soup, cheaper way to go. This is a penny saver recipe, thank you.
+Review:
+Rating:
+2
+dateLastModified:
+2006-03-13T21:18:29.39
+helpfulCount:
+1
+userID:
+1165737
+Display Name:
+lindsah of the sauga
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+found them to be very dry and in dire need of flavour. perhaps oven time is too much while seasoning level is too little. if altered, may become a very decent veggie option.

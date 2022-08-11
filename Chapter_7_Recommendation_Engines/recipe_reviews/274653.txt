@@ -1,0 +1,37 @@
+Recipe number:
+274653.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-06T07:50:36.93
+helpfulCount:
+0
+userID:
+22094521
+Display Name:
+Adam Felber
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Terrific recipe for classic Buffalo Wings. I actually like ‘em better baked, but you have to be willing to let ‘em get crispy on the outside- it may take longer than 40-45 minutes. The sauce is on point! Add a little more honey for a deeper glaze and to cut the heat.

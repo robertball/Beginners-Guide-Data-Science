@@ -1,0 +1,142 @@
+Recipe number:
+99076.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-05-08T22:01:02.53
+helpfulCount:
+2
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+243
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious, but I have to admit I prefer it without lettuce. The mayo and hot sauce dressing is a great combination. Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2006-04-30T08:56:07.543
+helpfulCount:
+2
+userID:
+939980
+Display Name:
+Butterfly Flutterby
+isPro:
+False
+followersCount:
+164
+followingCount:
+0
+madeRecipesCount:
+1112
+favoritesCount:
+889
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my teenage sons that love hot sauce. I used thin sourdough and swiss cheese; they absolutely loved this! Oh, one other time saver was that I used the pre-cooked bacon. I didn't try this but they gave it 5 stars! Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2006-06-25T09:45:41.31
+helpfulCount:
+0
+userID:
+802795
+Display Name:
+Chelsey Wolnowski
+isPro:
+False
+followersCount:
+39
+followingCount:
+0
+madeRecipesCount:
+803
+favoritesCount:
+768
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4367.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe. I also added a couple slices of havarty :)
+Review:
+Rating:
+5
+dateLastModified:
+2006-05-11T16:24:12.843
+helpfulCount:
+0
+userID:
+1793893
+Display Name:
+Cooking 101
+isPro:
+False
+followersCount:
+61
+followingCount:
+0
+madeRecipesCount:
+514
+favoritesCount:
+552
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+These were great, us co-workers have brought in a toaster and george foreman grill so we can make our own lunches instead of the same old cold sandwiches and microwave dinners.  We did use pre-cooked microwave bacon.  Loved it with the hot sauce.  Thanks for a great post.

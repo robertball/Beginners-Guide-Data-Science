@@ -1,0 +1,72 @@
+Recipe number:
+276525.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-24T02:08:21.733
+helpfulCount:
+0
+userID:
+24018550
+Display Name:
+David R
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and very tasty. This was my introduction to farro, and its going to be a keeper. My wife is a mushroom-hater, so I substituted zucchini, which worked fine. I did cut back 1/4 cup on the farro so that there was a bit of broth left in the skillet to moisten the chicken. The chicken was a bit overcooked, so I suggest delaying adding it to the farro for 15-20 minutes.
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-13T02:12:30.13
+helpfulCount:
+0
+userID:
+12591447
+Display Name:
+tcasa
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+778
+favoritesCount:
+1510
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2386212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe, especially if you are trying to incorporate different grains into your diet. Except for the mushrooms I followed the recipe exactly as written.  My husband hates mushrooms and refuses to eat anything with them (he’s my picky eater) so instead of mushrooms I added a can of diced tomatoes (oregano, basil & garlic flavor). It was delicious topped with the parmigiana cheese. I served the entire meal with a side salad and butter bread. Delicious, will definitely make this again.

@@ -1,0 +1,37 @@
+Recipe number:
+247418.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-11T20:53:54.263
+helpfulCount:
+0
+userID:
+459689
+Display Name:
+Elizabeth
+isPro:
+False
+followersCount:
+192
+followingCount:
+0
+madeRecipesCount:
+403
+favoritesCount:
+993
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7811270.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really quick little appetizer that is perfect for the hot dog lovers! If you like hot dogs on a pretzel bun, then you'll definitely like these little appetizers. The sauerkraut and grilled onions are the perfect toppings, and I used a whole ground Dijon mustard to give it a little extra kick! We loved these!!

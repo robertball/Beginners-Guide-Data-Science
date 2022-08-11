@@ -1,0 +1,37 @@
+Recipe number:
+247200.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-30T21:59:47.347
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12224
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I remember my MIL making these, or something similar, many years ago.  Her dough was perfectly round, I should have paid attention, because mine were a bit odd.  Nonetheless, hubby was happy and gave them 2 thumbs up.

@@ -1,0 +1,257 @@
+Recipe number:
+229253.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-02T17:56:51.3
+helpfulCount:
+20
+userID:
+10014839
+Display Name:
+fromscratchcook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is the recipe i've been looking for! i knew it as soon as i saw it. it says home made and it means it. nothing packaged or frozen goes into this one.
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-14T14:54:11.517
+helpfulCount:
+11
+userID:
+3700991
+Display Name:
+Melissa Marie Belanger
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+124
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2586849.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a very tasty meal! my hubby and all 3 kids loved it(: I didnt add the parsnips( not my fav) but everything else was delicious! keeper for sure!
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-25T14:12:25.423
+helpfulCount:
+6
+userID:
+7087450
+Display Name:
+mary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+148
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and quick but more to the point - delicious! Everyone had seconds, and believe me, that is huge in my family!  I didn't use the parsnip only because I forgot to buy some - soup was still plenty tasteful. There is no salt added to this recipe so if you are watching your sodium, this soup is plenty flavorful as is!
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-18T17:59:36.82
+helpfulCount:
+3
+userID:
+4854787
+Display Name:
+Maureen Fipke
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7751018.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried one similar to this one in a crock pot but the parsnips made the soup taste sour.  Never make this one in a crock pot.  My grandmother used to do a similar one using beef soup bones and we skimmed off the scum as it cooked.  She always made homemade noodles.
+Review:
+Rating:
+1
+dateLastModified:
+2013-01-08T18:05:36.54
+helpfulCount:
+2
+userID:
+1569930
+Display Name:
+jistanich
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+379
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4422037.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this recipe to be incredibly bland. I had to make so many alterations to the recipe that it was basically a new one.
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-17T21:03:08.493
+helpfulCount:
+1
+userID:
+18073271
+Display Name:
+Carol West
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3598362.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Similar recipe passed down in our Hungarian family with a few changes.  We never used parsnip but  root parsley or if unavailable, several sprigs of regular parsley.  Also we add 1 peeled kohlrabi or 1/4 cabbage.  Caution with the number of carrots or the soup will be too sweet.  We included 2  stalks of celery (whole), 1 whole tomato, 1 green pepper - seeded, 1 whole onion and 3 cloves of garlic. 
+
+ We also discovered that even the type of stockpot will make a difference.  Enamel works best. 
+
+ Cook the chicken for an hour and then add the vegies for the second hour.  Also, once it's brought to a boil, turn to simmer.  You don't want it to boil too long or this will result in a cloudy soup.  It should be as clear as possible.
+Agreed, do not cook noodles or even reheat with soup.  Do them separately.  Best with homemade noodles.
+
+Strain soup once it's done, and serve the chicken, carrots and celery as a second course.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-11T21:59:45.203
+helpfulCount:
+0
+userID:
+16876709
+Display Name:
+Pinky Kim
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2877975.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is A really Good soup. The only thing is did different was
+Sautee carrots, chicken celery in butter. 
+Threw in Chicken broth with 2 cubes of Bullion. 
+Add Milk in Towards the end. Perfect.

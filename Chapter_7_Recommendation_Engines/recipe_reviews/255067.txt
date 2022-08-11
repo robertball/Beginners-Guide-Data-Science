@@ -1,0 +1,37 @@
+Recipe number:
+255067.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-17T19:59:12.41
+helpfulCount:
+0
+userID:
+26809387
+Display Name:
+Gideon Vande Kieft
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7560448.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This smoothie tastes pretty good and is very nutritious but the texture is weird because of the seeds. Other than that good recipe.

@@ -1,0 +1,37 @@
+Recipe number:
+269575.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-09T12:53:36.07
+helpfulCount:
+0
+userID:
+10059494
+Display Name:
+rhrdrr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+146
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5072091.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So good it is like eating dessert!  I used fat free milk as I did not have almond milk on hand.  I also left out the mini chips to cut calories and used trivia for the sweetener.  It’s sinfully good!

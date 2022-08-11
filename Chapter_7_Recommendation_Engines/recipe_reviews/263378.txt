@@ -1,0 +1,37 @@
+Recipe number:
+263378.txt
+Review:
+Rating:
+1
+dateLastModified:
+2020-02-17T21:06:15.16
+helpfulCount:
+0
+userID:
+27036027
+Display Name:
+Jordan Bell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7736084.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We added 2tbsp of milk to bring the dough together and cooked at 325F instead of 275F to get a decent cookie.

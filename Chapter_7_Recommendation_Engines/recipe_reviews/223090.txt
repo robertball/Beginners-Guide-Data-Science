@@ -1,0 +1,37 @@
+Recipe number:
+223090.txt
+Review:
+Rating:
+1
+dateLastModified:
+2014-03-12T09:05:13.127
+helpfulCount:
+1
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1031
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for this recipe.

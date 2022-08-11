@@ -1,0 +1,72 @@
+Recipe number:
+240234.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-08T06:31:45.01
+helpfulCount:
+0
+userID:
+4462283
+Display Name:
+What's for dinner, mom?
+isPro:
+False
+followersCount:
+11593
+followingCount:
+0
+madeRecipesCount:
+555
+favoritesCount:
+1378
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3274570.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good.  Be careful not to over bake. Nice balance of flavors and textures.  Would make again.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-19T09:21:58.2
+helpfulCount:
+0
+userID:
+5206370
+Display Name:
+Helen Stamp Miko
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1165488.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't add nuts, and still is delicious.

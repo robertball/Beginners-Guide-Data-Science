@@ -1,0 +1,72 @@
+Recipe number:
+239220.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-19T02:10:35.787
+helpfulCount:
+3
+userID:
+14992263
+Display Name:
+carolyn Juran
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1863174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The lavendar came a day later and I added a touch. It's very good. I'll continue to experiment with it. It's much better than regular G&T 'S BUT NOT QUITE THE BITTER LEMON EXPERIENCE YET.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-06T09:38:38.49
+helpfulCount:
+1
+userID:
+22345622
+Display Name:
+Sarah Walker
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I ended up using mint instead of lavender, and it turned out tartly refreshing! I'll definitely make it again (or at least use the syrup as a base for some lemonade).

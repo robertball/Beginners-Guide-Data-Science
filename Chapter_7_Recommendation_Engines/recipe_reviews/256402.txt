@@ -1,0 +1,72 @@
+Recipe number:
+256402.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-28T01:28:00.867
+helpfulCount:
+1
+userID:
+23648118
+Display Name:
+pamelalang
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you so much for posting this recipe!  I used Sorghum flour vs rice just to take the healthy noodles up a notch.  I toasted the quinoa then ground it in my blender to make the flour, it turned out great!  I only boiled the pasta for about a minute, I was afraid it would fall apart.  Next time I'll cook it for longer to see how it works out.  The noodles were dry and broke more easily than regular pasta but...WHO CARES - a VAST improvement over Zucchini Noodles lol   I really loved this and will definitely be making it over and over again - thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-28T14:04:39.933
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Works perfectly! I used half for lasagna and the other half just lightly boiled and then tossed with tomato sauce. Excellent in both recipes. Thank you for the recipe.

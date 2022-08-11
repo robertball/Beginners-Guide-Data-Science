@@ -1,0 +1,37 @@
+Recipe number:
+231611.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-14T05:42:47.643
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+400
+followingCount:
+0
+madeRecipesCount:
+1108
+favoritesCount:
+3216
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Felt there was a little bit of something missing. Otherwise it was quick, easy and pretty good.

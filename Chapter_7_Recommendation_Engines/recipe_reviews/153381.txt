@@ -1,0 +1,75 @@
+Recipe number:
+153381.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-06-25T13:58:43.957
+helpfulCount:
+1
+userID:
+1538938
+Display Name:
+aidynne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+1161
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+easy , breezy 
+
+these are a huge hit for any season.
+even for birthdays !!!
+Review:
+Rating:
+3
+dateLastModified:
+2009-04-06T10:14:14.273
+helpfulCount:
+0
+userID:
+3668900
+Display Name:
+northcole
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+109
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7640261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great idea, but dough was too soft to work with.  I added more flour to get a better consistency.  Taste was ok, but nothing to rave about.

@@ -1,0 +1,37 @@
+Recipe number:
+258453.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-26T00:32:07.24
+helpfulCount:
+0
+userID:
+25270229
+Display Name:
+Kariah K. Barnett
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6437770.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Be careful how much lemon you add. Otherwise it was awesome!

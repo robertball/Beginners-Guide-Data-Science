@@ -1,0 +1,37 @@
+Recipe number:
+220350.txt
+Review:
+Rating:
+1
+dateLastModified:
+2012-03-12T21:32:36.793
+helpfulCount:
+5
+userID:
+5651370
+Display Name:
+Catwoman1011
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/515910.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry to say that I did not care for this. In retrospect, I would omit the soy sauce, use less fish sauce, more tamarind, no paprika, pepper flakes instead of the cayenne pepper, and balance the whole thing with some tomato paste - all of which makes it an entirely different dish though.  Will not be making this again.

@@ -1,0 +1,37 @@
+Recipe number:
+276641.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-26T18:07:05.49
+helpfulCount:
+1
+userID:
+11745069
+Display Name:
+racjac
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these and they are delicious.  A little time consuming, but followed the recipe exactly.  Mine were more puffy, not flat.

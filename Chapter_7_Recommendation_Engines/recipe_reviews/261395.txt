@@ -1,0 +1,37 @@
+Recipe number:
+261395.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-16T00:13:29.013
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is excellent and I do mean excellent! I wasn't sure I'd like all of  the mayo but turns out this is the best dressing I've made in a long time. Hubs asked if he could take the leftover for lunch the next day to use as a dip for chips and veggies. It's really that good!

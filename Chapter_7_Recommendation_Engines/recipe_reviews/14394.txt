@@ -1,0 +1,72 @@
+Recipe number:
+14394.txt
+Review:
+Rating:
+1
+dateLastModified:
+2005-04-04T22:43:14.937
+helpfulCount:
+11
+userID:
+1055463
+Display Name:
+BKcook
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+118
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too sour!  The peppers shrunk down and became mushy and the lemon juice dressing was almost too sour to eat.  Might be good with a different dressing, maybe italian or balsamic vinegarette.
+Review:
+Rating:
+3
+dateLastModified:
+2016-09-14T11:02:51.377
+helpfulCount:
+0
+userID:
+7804671
+Display Name:
+Nathalie Creamer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5647410.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+good combination of ingredients but the quantities are WAY off.  For starters, even with my double oven I could not broil that many peppers in a batch.  I heeded the previous comment and reduced the lemon but I erred too much on the side of caution... 1.5 TBSP is not enough lemon for 12 peppers... see that?  I was 2 peppers short!

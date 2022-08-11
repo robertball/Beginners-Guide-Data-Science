@@ -1,0 +1,72 @@
+Recipe number:
+215369.txt
+Review:
+Rating:
+2
+dateLastModified:
+2010-10-17T17:44:11.137
+helpfulCount:
+11
+userID:
+4941896
+Display Name:
+nmschalk
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+71
+favoritesCount:
+453
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/455535.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Taste like cream cheese. Needs more sugar and to be baked differently.
+Review:
+Rating:
+5
+dateLastModified:
+2010-10-07T13:32:44.19
+helpfulCount:
+10
+userID:
+5523236
+Display Name:
+high five 5
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+looks really great

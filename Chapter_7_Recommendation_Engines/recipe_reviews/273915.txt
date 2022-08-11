@@ -1,0 +1,72 @@
+Recipe number:
+273915.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-30T21:32:49.167
+helpfulCount:
+0
+userID:
+9563263
+Display Name:
+annie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+707
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these using melted semisweet chips for the filling. I forgot the pecans (oops!) but found they were very good even without them. Next time I will try to remember to add them. We loved them.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-02T21:44:32.99
+helpfulCount:
+0
+userID:
+4979763
+Display Name:
+Bev Palmer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+1520
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5545343.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I usd the chocolate chips and butter filling. Delicious.

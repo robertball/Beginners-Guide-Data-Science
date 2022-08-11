@@ -1,0 +1,37 @@
+Recipe number:
+236829.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-04-05T05:13:45.547
+helpfulCount:
+0
+userID:
+15924621
+Display Name:
+Aaron A
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+176
+favoritesCount:
+265
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6362904.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was not able to find the shredded cheese mentioned in this recipe so had to use a cheddar blend. Also I used with penne which I had on hand rather than elbows. I only give three stars due to my preference for creamier cheesier mac n cheese and this was not. My wife who likes the drier kind where the cheese sticks to the pasta gave this four stars. I did like the addition of diced tomatoes. If I make this again I will increase the amount of cheese sauce I make.

@@ -1,0 +1,107 @@
+Recipe number:
+258406.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-09T18:02:32.533
+helpfulCount:
+5
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Mmmmm . . . these are delicious! This was my first time making empanhadas, and I loved these! The package of empanada wrappers that I bought only had 10 wrappers, so I scaled this down to 10 servings, but used the entire can of hash and 3 eggs, and kept all of the remaining ingredients as scaled. I made these early in the day, and they re-heat well in the microwave (only taking about 15 seconds to re-heat from room temp). Serve them with a side of salsa for a delicious breakfast treat.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-27T01:11:11.083
+helpfulCount:
+3
+userID:
+5833917
+Display Name:
+Jacolyn 
+isPro:
+False
+followersCount:
+145
+followingCount:
+0
+madeRecipesCount:
+214
+favoritesCount:
+2884
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2374460.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious!  I ate way too many of these in one meal.  Don't forget to work quickly as the empanada dough can get a little sticky if it warms too much.  Also, next time I might try adding a small bit of diced jalapeno and some chopped green olives, for personal preference.  But really, these are good as is!
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-18T13:28:52.677
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are absolutely delicious. Perfect recipe. No need to change a thing. Thank you for the recipe.

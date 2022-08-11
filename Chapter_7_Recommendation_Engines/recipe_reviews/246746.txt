@@ -1,0 +1,150 @@
+Recipe number:
+246746.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-23T01:13:39.213
+helpfulCount:
+1
+userID:
+21568961
+Display Name:
+Adam Bowers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Rather involved, but delicious
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-09T04:08:42.13
+helpfulCount:
+0
+userID:
+12357084
+Display Name:
+libra559
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+148
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the curry exactly as written, and while it is a very close approximation to real Japanese curry it fell short in two areas. 
+
+First, the final product was substantially thicker than it should have been and ladled over the rice,  the result was something closer to risotto in consistency than curry over rice.
+
+Second, the flavor was familiar to the curry I was used to in Japan, but it was blander.
+
+The best part of this recipe is how easy it was to fix at the table. All it it took was a tablespoon of salt and a can of chicken broth the next day and the flavor and consistency were fixed. It was at least as good if not better than SB box curry.
+
+I am definitely making this again!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-24T22:41:55.94
+helpfulCount:
+0
+userID:
+14716631
+Display Name:
+Chris Provan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We just move back to the states from Japan and we missed our Japanese Curry, this recipe is pretty much spot on for Japanese Curry. I left out the Chicken and added mushrooms because Japanese Curry only uses vegetables, other than that I followed the recipe to the letter and it was fantastic.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-22T23:31:53.297
+helpfulCount:
+0
+userID:
+5198463
+Display Name:
+21Mute
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’m insanely lazy, so I cheated and used pre made curry powder with additional spices I had in my pantry to own it. I also used parsnips and turnips instead of potatoes and Granny Smith Apple instead of gala. It definitely is better than the roux blocks.

@@ -1,0 +1,72 @@
+Recipe number:
+233406.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-04T18:28:20.13
+helpfulCount:
+0
+userID:
+5182204
+Display Name:
+KristyH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+163
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/574240.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved it, but my husband & son were not big fans.
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-17T07:10:20
+helpfulCount:
+0
+userID:
+16755309
+Display Name:
+Sahiti Siri Kalapu
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe as it is, with brown sugar and nutty bitter instead. It turned out much better.

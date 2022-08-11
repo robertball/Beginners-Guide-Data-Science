@@ -1,0 +1,72 @@
+Recipe number:
+218784.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-09-25T06:43:39.733
+helpfulCount:
+49
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my recipe.. just wanted to point out a couple of things.. the cookie dough is very sticky so you will need to dust your cutting board with a lot of sugar and keep turning the dough over while you roll. The sugar will kind of embed in the dough. Second.. this makes more than 12 cookies or 24 circles. Cut out the circles as you go and then re-roll the scraps. Use any flavoring you like in the cream.. any liquor or extract would work well. Just use what you like best
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-22T13:22:17.72
+helpfulCount:
+7
+userID:
+8555124
+Display Name:
+wallawallagirl
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/766748.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+omg these sound so good! can't wait to make em:)

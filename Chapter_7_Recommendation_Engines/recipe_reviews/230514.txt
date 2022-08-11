@@ -1,0 +1,107 @@
+Recipe number:
+230514.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-24T19:48:18.64
+helpfulCount:
+5
+userID:
+2466163
+Display Name:
+habanerolover
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1966272.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really like this even though I'm not a Huge cabbage fan. I made it for christmas eve and fiance liked it too. It's almost a comfort food. Made everything exactly as described except I only used 3/4 of a cabbage- not the largest one at the market either.
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-16T07:45:53.527
+helpfulCount:
+1
+userID:
+15820741
+Display Name:
+Shezeree Cokonougher-Gallardo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+386
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3702523.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm a huge cabbage fan, so you really can't go wrong with cabbage, for me. To turn this into a one dish meal, I added a can of diced tomatoes, some smoked, ground turkey sausage, 1 c rice, 2 c chicken broth, onion, garlic & caraway seeds. It would have made a great side dish, as is & made a great one dish meal with just a few additions. My changes made it taste a little like a deconstructed cabbage roll casserole. We enjoyed it.
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-30T04:42:44.85
+helpfulCount:
+0
+userID:
+4141250
+Display Name:
+Ron Giles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+470
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1510744.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good .ill try next time with a little bit of bacon bits.

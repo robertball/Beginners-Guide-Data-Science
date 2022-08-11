@@ -1,0 +1,72 @@
+Recipe number:
+260224.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-26T18:04:27.267
+helpfulCount:
+6
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really loved this. I had a pound of lean beef and about 1/3 of a pound of higher fat beef so I made this with both of them.  Came out delicious and the veggies being cooked with the meat I think was my favorite part... I had to sub regular carrots that I coarse chopped.  Made the house smell wonderful too
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-20T20:23:26.307
+helpfulCount:
+4
+userID:
+8934364
+Display Name:
+David Charest
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+190
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5600312.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was delicious,I would make it again

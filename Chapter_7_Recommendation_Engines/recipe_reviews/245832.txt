@@ -1,0 +1,72 @@
+Recipe number:
+245832.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-24T23:34:02.67
+helpfulCount:
+3
+userID:
+7879509
+Display Name:
+Kevin Dunston
+isPro:
+False
+followersCount:
+21
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1537943.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great pear custard dessert. I covered the bottom of the dish in the batter and placed in the oven for 10 minutes. This added a firmer bottom to the calfloutis. I make may fruit variations
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-17T20:57:23.277
+helpfulCount:
+1
+userID:
+22432076
+Display Name:
+Laura
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will try this for Thanksgiving! I've been making a lot of clafoutis versions recently but haven't yet tried pear. It's been a crowd pleaser....I like my 'base' recipe(very similar) that I've been using but will add brandy per your suggestion.

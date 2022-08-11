@@ -1,0 +1,37 @@
+Recipe number:
+256831.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-04T21:12:34.443
+helpfulCount:
+0
+userID:
+12590855
+Display Name:
+Shlemar
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+365
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1102754.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my recipe, the step of dehydrating the syrup is actually optional. Just adding that last bit of maple syrup after the bacon, when you're about 2/3 of the way through the churning, works just as well and won't thin it out. It's a lot of work to make, but it's totally worth it.

@@ -1,0 +1,37 @@
+Recipe number:
+258021.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-14T10:12:33.353
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6900
+followingCount:
+0
+madeRecipesCount:
+2653
+favoritesCount:
+3308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good! I used it for a strawberry and blue cheese salad and the flavor combo combined with the dressing was nice. I don't think I would make this often, but it was nice to try for something different. Thanks for sharing. :)

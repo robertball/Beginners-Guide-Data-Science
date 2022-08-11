@@ -1,0 +1,72 @@
+Recipe number:
+213977.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-07-11T11:09:14.903
+helpfulCount:
+11
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This also works with a bag of chocolate chips. I makeshift a double boiler with a bowl that fits over a small saucepan and warm until all the chips melt. My kids have dipped these banana pops in almost everything they could find to crunch into small pieces, if you don't have rice krispies. My favorite is unsweetened coconut but my kids love the granola/nut combination. Totally the best summer treat ever.
+Review:
+Rating:
+5
+dateLastModified:
+2011-06-06T08:10:26.663
+helpfulCount:
+3
+userID:
+4536580
+Display Name:
+LED87
+isPro:
+False
+followersCount:
+22
+followingCount:
+0
+madeRecipesCount:
+163
+favoritesCount:
+219
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2997115.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Well I must say I changed one thing. Instead of almond bark, I used peanut butter. Then I rolled the banana with the rice krispies, coconut and chopped dried cranberries. Great snack.

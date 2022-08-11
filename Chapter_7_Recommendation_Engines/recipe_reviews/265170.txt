@@ -1,0 +1,107 @@
+Recipe number:
+265170.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-22T21:15:31.267
+helpfulCount:
+5
+userID:
+24366663
+Display Name:
+Briellephant
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5864871.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was delicious! My husband loved it so I spread it to EVERYONE I know. They all love me now. I am always asked to make it when I go to parties, potlucks, or any other special gathering. My husband requests it for his birthday every year, and any time else he can.
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-02T15:43:03.01
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cat gave this a paws up. I made both of the cakes just for him so I cannot vouch for the taste but he sure seemed to think they were good. I personally think they needed more cheese but again, he didn't seem to mind. Made as written they are on the dense side so you'll have to cut it up for them. No biggie but I thought I'd mention it. Santos says thanks for the recipe!
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-20T16:52:51.23
+helpfulCount:
+0
+userID:
+25470029
+Display Name:
+Karlee Peacock
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6569159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Recipe worked, my cats didn’t eat it. Oh well :/

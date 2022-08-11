@@ -1,0 +1,37 @@
+Recipe number:
+273927.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-08T14:28:36.377
+helpfulCount:
+0
+userID:
+21906806
+Display Name:
+Sdu0304@stlucieschools.org
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+could have used some more spices

@@ -1,0 +1,72 @@
+Recipe number:
+264226.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-28T23:48:26.857
+helpfulCount:
+1
+userID:
+23651541
+Display Name:
+Katyana Randall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5354164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just perfect!
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-06T02:27:01.46
+helpfulCount:
+0
+userID:
+21226412
+Display Name:
+Chris Bradlee
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4432032.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very close to New Mexican, but not quite there....missing something

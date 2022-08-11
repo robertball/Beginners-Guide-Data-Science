@@ -1,0 +1,37 @@
+Recipe number:
+211755.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-02-23T16:08:31.753
+helpfulCount:
+2
+userID:
+1958749
+Display Name:
+ChristineM
+isPro:
+False
+followersCount:
+198
+followingCount:
+0
+madeRecipesCount:
+796
+favoritesCount:
+3404
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2567820.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice, refreshing salad! I played with the salad dressing using a combination of this recipe and Trishie's Chinese-Style Salad Dressing from this site.  Very tasty as an side dish to sesame noodles

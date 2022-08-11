@@ -1,0 +1,72 @@
+Recipe number:
+239792.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-18T22:35:22.167
+helpfulCount:
+2
+userID:
+16231756
+Display Name:
+shaunalp
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so simple and easy to make.  The kids loved it and it was gone within a day!
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-04T20:00:48.437
+helpfulCount:
+2
+userID:
+12492477
+Display Name:
+Janet Valentin-Forte
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'll have to make twice as much next time! They were a hit at the party!

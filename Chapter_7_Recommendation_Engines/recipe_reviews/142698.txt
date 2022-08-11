@@ -1,0 +1,37 @@
+Recipe number:
+142698.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-08-28T00:05:45.943
+helpfulCount:
+19
+userID:
+2470918
+Display Name:
+leboshi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5871362.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Frankly, it didn't taste too different from plain old strawberries with ice cream.  I'd suggest using even more mint, and instead of chopping it, tear it finely so that all that wonderful mint oil doesn't go to waste on your cutting board!  Also, consider cooking the strawberries and mint in the syrup for a while, both to release their flavors and to give the syrup some character of its own.  All in all, though, it's a good recipe with potential to be much better.

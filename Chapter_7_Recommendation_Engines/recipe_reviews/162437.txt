@@ -1,0 +1,72 @@
+Recipe number:
+162437.txt
+Review:
+Rating:
+1
+dateLastModified:
+2009-08-21T06:01:51.153
+helpfulCount:
+11
+userID:
+2676074
+Display Name:
+Christa Held
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4053843.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was excited about this recipe because it allowed me to use a variety of seasonal fruits.  However, it never set well and after one day the liquid was dissolved and it was unusable.  I would make this type of pie again but would probably use whipped topping instead of the yogurt and freeze the pie to make it last more than one serving.
+Review:
+Rating:
+5
+dateLastModified:
+2011-06-04T09:43:24.697
+helpfulCount:
+3
+userID:
+853482
+Display Name:
+SweetBasil
+isPro:
+False
+followersCount:
+75
+followingCount:
+0
+madeRecipesCount:
+837
+favoritesCount:
+1386
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/240475.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was intrigued and needed a light summer dessert so thought I'd give this a try.  Delcious and easy! I did forgo the marshmallows- personal preference, but did garnish with extra berries.  We all enjoyed this a lot -Thanks luv2cook!!

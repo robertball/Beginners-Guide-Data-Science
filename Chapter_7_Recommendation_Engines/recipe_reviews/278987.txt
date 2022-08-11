@@ -1,0 +1,32 @@
+Recipe number:
+278987.txt
+Review:
+Rating:
+5
+dateLastModified:
+03/23/2020
+helpfulCount:
+1
+userID:
+souplovingnicole
+Display Name:
+Soup Loving Nicole
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/930778.jpg
+text:
+This is simple and excellent! As a matter of fact, this is better than my own Greek yogurt ranch dressing on this site. The cilantro and green onions set this apart from all others. It's also got a light green hue  making it prettier in color than your average ranch dressing. 5 stars all the way!
+Review:
+Rating:
+5
+dateLastModified:
+04/05/2020
+helpfulCount:
+0
+userID:
+27260021
+Display Name:
+Kay Mae
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7908048.jpg
+text:
+Yummy

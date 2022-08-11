@@ -1,0 +1,37 @@
+Recipe number:
+247148.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-02-01T02:13:13.55
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This could be made with water, formula or breast milk in place of the cream; however, just plain mashed banana is probably fine also, and there's no need for sugar. I thought there was too much cream, and I probably used 3 1/2 tablespoons. This was actually perfect after frozen for a couple hours, then it was a nice treat for my preschooler.

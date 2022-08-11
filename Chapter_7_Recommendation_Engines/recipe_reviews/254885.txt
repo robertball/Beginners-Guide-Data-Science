@@ -1,0 +1,72 @@
+Recipe number:
+254885.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-17T02:52:21.247
+helpfulCount:
+5
+userID:
+24237837
+Display Name:
+Ashai Hunter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5760601.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Let me tell you how to make this recipe amazing! The base recipe that's featured here is okay but it's missing a lot of key ingredients. First of all switch out all that water for chicken broth. I used about 32 oz, but that wasn't enough, so I added water at the end just to make sure it covered the top of the turkey wings. I switched the Idaho potatoes for white potatoes. I also didn't bother using fresh green beans, I used frozen ones but to each her own. I also added  sliced onions and minced garlic fresh . Throw all your ingredients in together and then wait for it to boil. While it's boiling add bay leaf, Sage, smoked paprika, Liquid Smoke (I used Hickory flavor), a sprinkle of garlic powder and another sprinkle of onion powder, sea salt, and black pepper. If you've got chicken or turkey rub seasoning, throw that in there too. But let that whole thing cook for about an hour or so on medium heat like the original recipe says. Add some celery salt, probably no more than 2 teapoons. Then take the wings out and strip them, shredding the meat and discarding the tough skin (or eating like I did). Don't forget to stir! And enjoy your delicious soup with parmesan rolls ;)
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-24T12:39:27.183
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good but  it is a little bland as written. Jazz it up with some herbs as I ended up doing and you've got yourself a tasty pot of soup. The smoked turkey flavor pairs nicely with the green beans and potatoes.

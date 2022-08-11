@@ -1,0 +1,37 @@
+Recipe number:
+278057.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-29T00:34:36.343
+helpfulCount:
+0
+userID:
+5118896
+Display Name:
+fabeverydayblog
+isPro:
+False
+followersCount:
+149
+followingCount:
+0
+madeRecipesCount:
+468
+favoritesCount:
+302
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delish! The meat was unbelievably tender. We used it for tacos, but it would be delicious on a sandwich, in enchiladas, or over rice.

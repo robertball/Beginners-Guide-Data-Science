@@ -1,0 +1,72 @@
+Recipe number:
+233208.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-13T16:18:45.45
+helpfulCount:
+3
+userID:
+3338908
+Display Name:
+Faith N
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+296
+favoritesCount:
+1850
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7721931.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an awesome recipe. Our family is so accustomed to BBQ ribs - we never try anything new! The brown sugar and pasilla sauce paired well together. It's a mild sauce so even the kids were able to eat and enjoy it. I used three fourths of a jar instead and we still had plenty of sauce to cover them all. We'll definitely fix this again in the future!
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-28T16:54:15.417
+helpfulCount:
+0
+userID:
+3061831
+Display Name:
+Blessed Baker
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+109
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3688236.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I couldn't find the bone-in beef ribs so I made this with boneless. My husband asked me to save the recipe; so this one is a keeper in our house. we plan to try it on other meats. Simple and tasty. Think I will try using less sauce, as the previous reviewer did, as mine did not turn out as thick and I would have liked it to.

@@ -1,0 +1,37 @@
+Recipe number:
+245661.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-12T08:47:30.417
+helpfulCount:
+2
+userID:
+769313
+Display Name:
+Amy Lawler
+isPro:
+False
+followersCount:
+84
+followingCount:
+0
+madeRecipesCount:
+131
+favoritesCount:
+264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5140853.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is usually the first dish gone during the holidays. Kids love it. It's sweet, so if too sweet with the graham crackers, you can use the saltines.

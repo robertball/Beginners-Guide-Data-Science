@@ -1,0 +1,72 @@
+Recipe number:
+216498.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-13T17:44:57.36
+helpfulCount:
+9
+userID:
+930513
+Display Name:
+Jenn Harmon Jones
+isPro:
+False
+followersCount:
+56
+followingCount:
+0
+madeRecipesCount:
+239
+favoritesCount:
+1180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5286078.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband LOVED this!  I used Taco Shells because that is what I had on hand (also made it easier to eat) and I used Jimmy Dean Sausage Patties, chopped up into pieces.  I also scrambled the eggs.  Next time I'll make homemade salsa to go with them.  Yummy!
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-21T11:34:09.727
+helpfulCount:
+1
+userID:
+6453585
+Display Name:
+LaChelle Dro
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+131
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1613799.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very delicious and easy to make. I followed the recipe and used pace picante salsa and ground pork sausage. Yum!

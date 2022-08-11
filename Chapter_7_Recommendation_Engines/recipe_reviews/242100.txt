@@ -1,0 +1,37 @@
+Recipe number:
+242100.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-06T10:24:45.997
+helpfulCount:
+0
+userID:
+17713968
+Display Name:
+Yop
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great combination!  I ate mine with some Greek seasoning sprinkled on it.  I'm going to try making the fries with a potato next time.

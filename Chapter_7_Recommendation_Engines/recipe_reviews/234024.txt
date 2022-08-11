@@ -1,0 +1,73 @@
+Recipe number:
+234024.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-03T15:00:27.077
+helpfulCount:
+5
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1595
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was a little wary when I realized our fresh garlic was spoiled and I'd need to use jarred minced in it's stead.  However, even with the necessary sub it was still great!  I left out the capers per personal preference.  It came together quickly and really satisfied my craving for a caesar salad.  It'd be nice w/some anchovies.  THANKS for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-03T22:15:11.693
+helpfulCount:
+0
+userID:
+7471433
+Display Name:
+Katie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+YUM! The only change I made was adding a whole egg, and  not adding bacon or capers which no doubt would have only made  the dressing even better! 
+Go Canada!

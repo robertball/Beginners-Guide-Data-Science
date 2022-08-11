@@ -1,0 +1,107 @@
+Recipe number:
+223288.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-07-23T18:01:24.16
+helpfulCount:
+10
+userID:
+9657075
+Display Name:
+Miss Mary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This pie was delicious! Everyone enjoyed it. I would suggest doubling the recipe for the crust as this only made enough for the bottom, and I had to make more for the top.
+Review:
+Rating:
+3
+dateLastModified:
+2017-06-27T01:59:56.01
+helpfulCount:
+0
+userID:
+13739494
+Display Name:
+Christy Farms
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1155331.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+potato crust was really difficult to manipulate.  Hard to get it thin, because a little potato flour goes a long way taste-wise.  I used butter instead and it browned nicely.  I also used our gooseberries and this was a first for me.   in the future, if that ever comes, I will cook them a bit and add more sugar.   My filling was quite tart.
+Review:
+Rating:
+1
+dateLastModified:
+2016-11-24T16:10:21.327
+helpfulCount:
+0
+userID:
+20834150
+Display Name:
+Hanna Geshelin
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4201620.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not happy with this recipe. The crust does not hold together, so I had to press half into the pie pan and crumble the other half on top, which looks bad. And without any sugar in the crust, it doesn't brown. Finally, I have been baking it at 375 degrees for 1.5 hours and it finally is starting to bubble.

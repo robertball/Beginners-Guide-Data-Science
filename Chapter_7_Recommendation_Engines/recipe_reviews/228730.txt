@@ -1,0 +1,107 @@
+Recipe number:
+228730.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-11T00:50:43.863
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+188
+followingCount:
+0
+madeRecipesCount:
+530
+favoritesCount:
+692
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is one yummy rich dessert! You'll impress some people even with how simple it is. Cut small slices and enjoy!
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-17T17:23:11.12
+helpfulCount:
+1
+userID:
+2122693
+Display Name:
+Linda Geiss
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+714
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1370060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5 stars for deliciousness but  for something so simple I had problems.  Inside dough did not cook well and there was too much caramel and nuts for stuffing.  Maybe because I used the "light" version of caramel?  I only added a little more of the listed ingredients to make 2 rather than one kringle.  Measure pecans before chopping.  It might not taste like the real thing but it is quite tasty.
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-26T21:36:30.957
+helpfulCount:
+0
+userID:
+9814279
+Display Name:
+Betty Thomas Stork Aifd
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+664
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy, everyone loved and wanted recipe at morning coffee

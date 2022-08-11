@@ -1,0 +1,72 @@
+Recipe number:
+273108.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-18T01:23:13.063
+helpfulCount:
+0
+userID:
+14570043
+Display Name:
+Lisa Engel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1621638.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good on any fish.  Made it for my husband's salmon and my sea bass.  Equally good on both.  I oversalted so put in some lemon which toned that down.
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-03T23:44:22.987
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor in this is excellent but as written is is way too oily . I used this right away so there was no need to wrap it in plastic for later use. I highly recommend cutting the oil in half to start with and then add more if needed. Super simple and great flavor but the amount of oil needs tweaking.

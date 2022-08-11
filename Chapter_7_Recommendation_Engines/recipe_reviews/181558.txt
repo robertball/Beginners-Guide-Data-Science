@@ -1,0 +1,37 @@
+Recipe number:
+181558.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-03-01T14:22:17.793
+helpfulCount:
+10
+userID:
+2872162
+Display Name:
+Nico's Mama
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+103
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/85155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Truth be told I did this a little bit differently - I did use cod but to be healthier I baked it (350 for about 25 minutes) and used Japanese Panko bread crumbs mixed with parmesan cheese and Old Bay seasoning (a Maryland specialty!).  Good, simple concept.

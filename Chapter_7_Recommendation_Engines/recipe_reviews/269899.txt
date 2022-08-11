@@ -1,0 +1,107 @@
+Recipe number:
+269899.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-20T21:52:33.913
+helpfulCount:
+2
+userID:
+3663497
+Display Name:
+Leslee Stey Casey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+80
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7227910.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent soup and everyone loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-15T00:49:08.19
+helpfulCount:
+0
+userID:
+3125050
+Display Name:
+SunriseGSP
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was easy and the soup is AMAZING!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-05T01:13:39.427
+helpfulCount:
+0
+userID:
+23487704
+Display Name:
+Adam Brisben
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5240688.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Substituted veggie broth & sausage & it came out great. The onion completely liquified. If I was going to make it again I would add less kale & chop it more finely. Great flavor. I added a little extra broth to make it more soupy.

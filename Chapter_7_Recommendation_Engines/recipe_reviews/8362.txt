@@ -1,0 +1,37 @@
+Recipe number:
+8362.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-03-19T15:48:36.48
+helpfulCount:
+4
+userID:
+1370869
+Display Name:
+MSelvidio
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/139180.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was okay. The directions don't say where to put the heavy whipping cream, so I just added it to the wet ingredients when I added the potatoes. I left out the almonds due to allergies. The batter tasted slightly bland, so I added 1tsp salt and that helped immensely. The recipe made exactly 24 cupcakes, which baked beautifully. The flavor was nice, though weak. They were not as light as a typical cake, but not as dense as a pound cake or quick bread. Moist enough the first day, they got dry fairly quickly after that. I might make again, though I would use more zest and substitute oil for the butter to increase moisture.

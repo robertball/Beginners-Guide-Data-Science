@@ -1,0 +1,72 @@
+Recipe number:
+240223.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-16T04:52:51.613
+helpfulCount:
+0
+userID:
+26376984
+Display Name:
+Erin C (Erilly)
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7222692.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy combo that sexies up the boxes stuff!
+Review:
+Rating:
+3
+dateLastModified:
+2016-02-26T14:53:46.283
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was ok. I really don't think that the mozzarella cheese added anything special as far as flavor to the dish. We did enjoy the croutons, tho...Thanks for sharing. :)

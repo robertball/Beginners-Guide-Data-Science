@@ -1,0 +1,37 @@
+Recipe number:
+236941.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-05T00:36:17.953
+helpfulCount:
+1
+userID:
+7316616
+Display Name:
+catfinney
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3152346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was yummy! Cashews were a good substitute for beans!

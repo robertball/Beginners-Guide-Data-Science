@@ -1,0 +1,72 @@
+Recipe number:
+214777.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-06-26T08:45:49.953
+helpfulCount:
+5
+userID:
+4043901
+Display Name:
+Aezpie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! I did without the cinnamon though.
+Review:
+Rating:
+3
+dateLastModified:
+2010-10-04T05:02:04.487
+helpfulCount:
+4
+userID:
+5469608
+Display Name:
+Punkie's Kitchen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good way to use ground lamb but not flavorful.  The cinnamon is a must it heightens the flavor of the lamb.  Used a small onion and onion powder, 1 1/2 teaspoon of oregano, small can of tomato paste,1 tsp of course grond pepper, 1 1/2 tsp of sea salt. sprinkle with parmesan cheese when plating. Yummy my brother who hates lamb loved it.

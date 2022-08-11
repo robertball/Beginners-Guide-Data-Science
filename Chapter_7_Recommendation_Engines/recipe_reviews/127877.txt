@@ -1,0 +1,144 @@
+Recipe number:
+127877.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-10-18T16:36:50.393
+helpfulCount:
+11
+userID:
+3715009
+Display Name:
+karasue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We have used this recipe for years.  There is no better anywhere!!  We are not fans of anything sweet when it comes to meat but this gentle sweetness is insane when combined with the red pepper flakes.  We don't use liquid smoke but throw it on the grill with a few chunks of wood for 30 minutes and it is perfect.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-02T23:49:40.14
+helpfulCount:
+0
+userID:
+6413262
+Display Name:
+J michel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make 3 lbs at a time. Perfect recipe. About to hunt again, can’t keep enough on hand. Thanks
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-21T04:12:09.787
+helpfulCount:
+0
+userID:
+13458297
+Display Name:
+George Spelvin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2252158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used this recipe to the letter for 5lbs of deer heart.  Recipe scaled up very well.  
+
+Be sure to use the recommended amount of Morton Tender Quick salt, and go sparingly on the liquid smoke.   Too much of either will make it inedible.
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-30T17:15:24.33
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2294
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had the smoker going all of Memorial Day Weekend and decided to empty the venison out of the freezer. I did use a smoker instead of the oven but this recipe is spot on for venison jerky.

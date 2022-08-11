@@ -1,0 +1,107 @@
+Recipe number:
+244120.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-13T07:45:45.297
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A self-proclaimed kale hater rates this with 4 stars. For the record, I was gifted some baby kale and needed a way to use it. I made a half portion and about 2/3 into it, my aversion to kale kicked in-but the first 2/3 were enjoyed. I imagine a kale lover will give this 5 stars. I used a blender, as written in the notes, but had to add a couple of ice cubes and a bit of almond milk to thin it out to a drinkable consistency. Thank you for the recipe. I'm glad I tried it.
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-21T20:25:27.517
+helpfulCount:
+1
+userID:
+17532946
+Display Name:
+Aurora Loers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5455886.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It kept me wake through the whole day and I wasn't craving any thing sweet.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-16T22:40:54.5
+helpfulCount:
+0
+userID:
+20426855
+Display Name:
+Kelli W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+119
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't know I liked raw Kale until I made this!  I used a little almond milk and a few ice cubes to make it easier to drink through a straw.  Also added some chia seeds to help fill me up.  You couldn't even tell they were in there.  This recipe makes for a very large glass. If you are unsure if you will like it, it would be easy to cut the recipe in half.  Great recipe for liquid or Daniel fasts.

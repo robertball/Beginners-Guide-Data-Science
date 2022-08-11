@@ -1,0 +1,77 @@
+Recipe number:
+22663.txt
+Review:
+Rating:
+5
+dateLastModified:
+08/08/2003
+helpfulCount:
+10
+userID:
+240
+Display Name:
+schmerna
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/34283.jpg
+text:
+I thought these were great!  You must let them chill for overnight to be firm enough to roll.
+Review:
+Rating:
+1
+dateLastModified:
+06/21/2003
+helpfulCount:
+3
+userID:
+400609
+Display Name:
+JGANDIN
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe calls for 1 package (10 oz) of Hershey's Reeses Chips.  This is ambiguous.  The package of chips offered in Canada is a 300 gram package.  I tried the receipe with 10 oz of chips and it did not turn out.  Clarity is needed here.
+Review:
+Rating:
+1
+dateLastModified:
+06/21/2003
+helpfulCount:
+2
+userID:
+771951
+Display Name:
+MAGSDEWS
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I used 10 ounces and 1 cup of heavy cream...chilled it for 2 hours..and it didn't turn out...I'll probably try to chill it longer...to see if it turns out...but the suggested time to chill it is not accurate...so if i wanted to make this in a hurry...then it sure was not successful..
+Review:
+Rating:
+4
+dateLastModified:
+12/22/2003
+helpfulCount:
+0
+userID:
+886006
+Display Name:
+GRANDKOIN
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These candies are good but they remain softer than other truffles I have made. I accidently left the mixture sit for two nights in my fridge and the mixture was just firm to soft firm feel. I did dip these in chocolate coating and they tasted very good. Not as sweet or rich as some other truffles but still a good candy.
+Review:
+Rating:
+5
+dateLastModified:
+11/22/2005
+helpfulCount:
+0
+userID:
+1387304
+Display Name:
+YVETTELEONARD
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very easy to make, nice rich peanut butter flavor and a HUGE hit with friends and family!!!

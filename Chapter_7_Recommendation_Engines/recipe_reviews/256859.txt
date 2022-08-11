@@ -1,0 +1,72 @@
+Recipe number:
+256859.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-24T03:44:09.22
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Couple of things here. I think there might be an editing error with the 2 7 ounce cans of chipotle peppers. 14 ounces of those bad boys would set this so much on fire you couldn't eat it. I like spicy but no. I think this was supposed to 2 peppers so start there and add more to suit your taste if desired. My other suggestion is lime over lemon. It just goes better. With that being said, this is excellent. The end result is soupy but the broth is outstanding.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-15T01:56:38.997
+helpfulCount:
+0
+userID:
+20915690
+Display Name:
+Chef Roy
+isPro:
+False
+followersCount:
+49
+followingCount:
+0
+madeRecipesCount:
+211
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4484693.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It’s that time of the year for soup, so I found this recipe and thought I would give it a try and thought it was great.

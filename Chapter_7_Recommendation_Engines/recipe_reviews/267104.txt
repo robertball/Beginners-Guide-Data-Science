@@ -1,0 +1,108 @@
+Recipe number:
+267104.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-28T23:40:03.317
+helpfulCount:
+0
+userID:
+13921624
+Display Name:
+Daniel Raidt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+556
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1257113.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good and EZZEEE PEEAASSYY to make.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-02T14:17:01.87
+helpfulCount:
+0
+userID:
+19618213
+Display Name:
+Donna Rowland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+With all the seasonings I add parmesan cheese to come up and they stuck cook them till they got brown eyes and temper and they were very 
+good homemade ranch dressing
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-31T02:05:46.29
+helpfulCount:
+0
+userID:
+9141338
+Display Name:
+bjwh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Would cut potatoes a little thicker the next time, but otherwise very tasty

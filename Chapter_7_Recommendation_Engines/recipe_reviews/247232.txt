@@ -1,0 +1,37 @@
+Recipe number:
+247232.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-25T03:56:33.97
+helpfulCount:
+0
+userID:
+13369340
+Display Name:
+Javier Ho
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+83
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe had a nice homemade style. Next time I make it, I will dial down the ginger in the chicken and broth pot, and increase it for the dipping sauce to balance better against the garlic.

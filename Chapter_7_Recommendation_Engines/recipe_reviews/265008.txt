@@ -1,0 +1,37 @@
+Recipe number:
+265008.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-14T16:51:15.76
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This cake is tastes like fluffy nutella. Yum. It puffs up a lot, even though there isn’t any baking powder. Light and delicious, it goes very well with tea or coffee.

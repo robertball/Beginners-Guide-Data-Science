@@ -1,0 +1,37 @@
+Recipe number:
+27109.txt
+Review:
+Rating:
+1
+dateLastModified:
+2005-10-30T15:39:51.623
+helpfulCount:
+0
+userID:
+544084
+Display Name:
+QCJOE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+holy moly!

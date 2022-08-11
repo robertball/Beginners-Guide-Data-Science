@@ -1,0 +1,37 @@
+Recipe number:
+255808.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-26T19:51:55.317
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5861
+followingCount:
+0
+madeRecipesCount:
+2946
+favoritesCount:
+6096
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10.26.16   Interesting combination of ingredients for cornbread.  I made half a recipe, and it was done in 20 minutes.  The savory herbal flavor is what you taste first with the pumpkin lingering in the background.  It was moist with good texture, and I could totally see adding some sausage, chopped apples, and broth (don’t think you’d need much else) for a delicious Holiday cornbread stuffing side dish.  The house smelled wonderful when this was baking; really made me start thinking about Thanksgiving coming up next month.,

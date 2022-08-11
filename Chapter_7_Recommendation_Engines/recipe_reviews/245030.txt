@@ -1,0 +1,177 @@
+Recipe number:
+245030.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-11T09:19:53.27
+helpfulCount:
+2
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1118
+favoritesCount:
+2285
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I scaled this down to 1 serving for my breakfast today, and it was good! I made my own sunflower seed butter by placing a heaping tablespoon of roasted sunflower seeds in my food processor and grinding them fine before adding a light drizzle of light olive oil. This worked great! I added the banana to the processor and gave it a few pulses to blend everything together, including the agave nectar. My only criticism is that there was too much banana mixture to oatmeal. Next time I think half the amount of banana would work just fine.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-15T20:23:28.347
+helpfulCount:
+0
+userID:
+24950437
+Display Name:
+paul O'connell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6265983.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was initially sceptic about trying this recipe for my daughter Annie, but in the end it turned out she really loved it and even her friends who came visiting had a taste and had nothing but yummy praises to my skilled cuisine :). Although the Banana has potassium and Fibre, which is super good for the growth, development and overall health of my kid, the oatmeal is a helpful remedy for my sugar level control. Overall ratings for this recipe and to top it all, it's very easy for a dad like me to prepare and fast also.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-14T04:12:52.137
+helpfulCount:
+0
+userID:
+24942083
+Display Name:
+Gentry Tose
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6260547.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow! My wife and I had great breakfast with this easy, very quick, delicious and nutritious Sunflower Banana Oatmeal recipe. Love this food so much and my grandmother loved it too!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-13T08:41:39.243
+helpfulCount:
+0
+userID:
+24935233
+Display Name:
+Ajanta Rezwana
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6255748.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a bunch of ripe bananas at home that no one wanted to eat, but I am very much against throwing away food. So I found this recipe that uses ripe bananas and tried it. I had all the necessary ingredients at hand, which is a big plus point, of course. I used a little less nectar, actually, because I can't much sweet at breakfast. But I loved it, as did my husband. Will definitely try this again the next time I end up with ripe bananas again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-13T07:33:09.98
+helpfulCount:
+0
+userID:
+24935124
+Display Name:
+Jane Huba
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6255685.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Such a great breakfast! The bananas gave me enough energy to last the morning during an early shift at work, and the pink salt made for a great added taste boost! Really love how it's how smooth and there's a gentle bite due to the oatmeal.

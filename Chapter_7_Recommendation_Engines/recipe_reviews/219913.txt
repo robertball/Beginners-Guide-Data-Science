@@ -1,0 +1,72 @@
+Recipe number:
+219913.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-02-06T11:27:35.51
+helpfulCount:
+6
+userID:
+2772889
+Display Name:
+Kendra Jean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+1094
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful, fun and, easy! Thank you for sharing, I know some children who will love this treat.
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-05T14:33:18.22
+helpfulCount:
+4
+userID:
+433338
+Display Name:
+Dawn Berry
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+416
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1247387.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yumm-O  Is all I can say....Did not roll and dip though,  just sprinkled the chocolate chips into the roll.  I also put some apple slices into one instead of banana.  I have to say I like them better than the banana.  Either way they are delicious.

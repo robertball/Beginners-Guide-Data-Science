@@ -1,0 +1,37 @@
+Recipe number:
+254268.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-08T12:33:46.72
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite simple to put together. I added some oregano to this recipe because we thought it needed something. I also added some Greek peperoncini (the pickled kind) and that made things tasty. As written in the notes, I used some cooked sorghum I had in the freezer to speed things up. If you soak the sorghum for almost an hour, it will cook in a pressure cooker in about 8 minutes. I used about one cup of cooked sorghum per serving.  Thank you for the recipe.

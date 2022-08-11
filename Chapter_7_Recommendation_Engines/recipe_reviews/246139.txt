@@ -1,0 +1,107 @@
+Recipe number:
+246139.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-30T19:51:37.377
+helpfulCount:
+1
+userID:
+4745280
+Display Name:
+BRG
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+841
+favoritesCount:
+1546
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good, but I would fry them next time. The baked egg rolls were not very attractive.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-29T18:05:32.763
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used green cabbage as the recipe submitter mentioned and to make it easy on myself I bought the shredded coleslaw mix. I had some leftover ground turkey from another recipe so I threw that in the mix too. My store was out of eggroll wrappers so I was forced to use wonton wrappers and they worked good in this too. They were small and cute and would make for perfect finger foods for a Superbowl party. The recipe does not specify what to do with the tofu once it is drained so I added it in step 3. These are quite a bit of work but worth it in the end!
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-03T11:41:24.727
+helpfulCount:
+0
+userID:
+5843519
+Display Name:
+Daniel Dunfey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+561
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6477496.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe, baked and fried, fried wasn't any better....so what am I suppose to do with the tofu now?

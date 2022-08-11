@@ -1,0 +1,72 @@
+Recipe number:
+247375.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-30T11:25:42.89
+helpfulCount:
+2
+userID:
+15727324
+Display Name:
+Loulala
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+2093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3944688.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cheddar is a cheese for taste but add some processed cheese for texture. I also add a bit of beer to thin it out. a great party dip/fondue. This should be considered a basic starter recioe. Add whatever to suit your taste for the moment.
+Review:
+Rating:
+3
+dateLastModified:
+2016-06-22T01:49:41.833
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As written this did not work for me. The cheese strings bad and I actually anticipated that so I had some milk on stand-by. After adding 1/4 cup of milk everything started coming together . but as written I cannot give it more than a 3. Sorry.

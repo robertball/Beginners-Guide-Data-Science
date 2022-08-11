@@ -1,0 +1,73 @@
+Recipe number:
+259203.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-13T23:51:17.95
+helpfulCount:
+1
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+219
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+907
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Other than adding an additional cup of sliced apples I made this as written. If I make this again I would bake it in a casserole dish that is taller and not as wide, I like mine a little thicker.  Thanks for sharing.
+This was made for the Allstar challenge: #Facelessnomore
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-25T17:12:38.423
+helpfulCount:
+0
+userID:
+24131718
+Display Name:
+Valerie Shive
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5683587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tossed apples in lemon juice and some Cinnamon, nutmeg. I used nutty peanut butter. I really liked it so did my friends. I want to experiment with more spices like ginger, nutmeg, cinnamon. So tasty and without all that butter and flour, just tasty and comforting, no guilt to indulge. Thanks!

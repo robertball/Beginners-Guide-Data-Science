@@ -1,0 +1,37 @@
+Recipe number:
+260516.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-07T15:25:27.51
+helpfulCount:
+0
+userID:
+3031597
+Display Name:
+barbara
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+602
+favoritesCount:
+261
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/254187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make these for every kid's birthday party - they are easy to make, kids can help, and they are so cute that most kids have some and hence got some veggies into their little bellies before gorging on all the cake

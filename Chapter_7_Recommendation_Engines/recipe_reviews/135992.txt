@@ -1,0 +1,107 @@
+Recipe number:
+135992.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-09T17:27:13.967
+helpfulCount:
+1
+userID:
+8958692
+Display Name:
+southern belle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and good.  I top mine with meringue and no one knows it's not "homemade".
+Review:
+Rating:
+5
+dateLastModified:
+2009-09-15T11:13:00.52
+helpfulCount:
+1
+userID:
+2452628
+Display Name:
+Sue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I recently found out that I have gestational diabetes, and this is a great low carb/low sugar recipe. I replaced all ingredients with no sugar and reduced fat products, and it still satisfies my sweet tooth. Thanks for the easy recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2009-04-07T15:58:37.317
+helpfulCount:
+1
+userID:
+3257752
+Display Name:
+Andrea McKenzie Vyse
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+150
+favoritesCount:
+882
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7970241.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Been making this for years - fabulous!  Even tastes great when I do a "healthier version" using skim milk, SF/FF pudding, reduced fat NILLA wafers and COOL WHIP FREE. Hubby LOVES this one!

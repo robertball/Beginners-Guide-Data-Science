@@ -1,0 +1,37 @@
+Recipe number:
+10244.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-12-23T17:04:07.683
+helpfulCount:
+42
+userID:
+2890182
+Display Name:
+Lillian
+isPro:
+False
+followersCount:
+260
+followingCount:
+0
+madeRecipesCount:
+228
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2947921.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is basically the same recipe thats been in our family for generations...except we add 2 tbls. shortening, 1 tsp. vanilla extract, 2 tsp. baking powder and 2 tsp. whiskey when making the dough. Instead of forming the dough into balls we roll out the dough and cut it into thin strips. You can fry this or even bake it. Both ways are just as good! We coat it with honey and sprinkle with non pareils. We always make these for Christmas!

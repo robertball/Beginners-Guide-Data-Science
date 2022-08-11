@@ -1,0 +1,75 @@
+Recipe number:
+258471.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-23T19:57:50.55
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+6009
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+4.23.18  My pear was pretty ripe, and I think that’s why the topping ended up just a little mushy.  Flavor was awesome, but the texture wasn’t the best, so I’d suggest you not use a pear that’s overly ripe like I did.  Also, you may want to cut back a bit on the time that you bake the crostini because it crisps up very quickly once it’s under the broiler, so you could end up with something that tastes like a cracker.  The ingredients are harmonious, and I wouldn’t hesitate to serve this to company.  KerriJ, thanks for sharing your recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-21T21:49:45.683
+helpfulCount:
+0
+userID:
+25672853
+Display Name:
+Tuscan_Italian
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+2187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6796750.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only change I made was that I actually caramelized my shallots.  The directions in the recipe do not equate to caramelized onions, as it states in the title of the dish.
+
+The taste is great.  I think next time I may make a balsamic reduction to drizzle on the final product.
+Thanks for sharing your recipe, it is really good!

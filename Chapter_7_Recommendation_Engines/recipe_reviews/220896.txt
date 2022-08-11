@@ -1,0 +1,72 @@
+Recipe number:
+220896.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-08T01:08:37.547
+helpfulCount:
+0
+userID:
+23715668
+Display Name:
+rubies481
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There are problems with this recipe. I had to add at least 3/4 cup more liquid to the corn meal. Calling the shrimp mixture a “sauce” is a stretch. I added a can of diced tomatoes with juice and it helped some (the tomatoes also brightened the flavor up a bit).  I could be five star with some changes...but it’s sitll a lot of work and used a ton of dishes.
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-23T18:09:02.77
+helpfulCount:
+0
+userID:
+10960867
+Display Name:
+Rosalind S. Lacy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+521
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4935223.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good kids wanted seconds and they don't eat shrimp!

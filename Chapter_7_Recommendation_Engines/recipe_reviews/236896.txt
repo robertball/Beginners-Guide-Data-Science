@@ -1,0 +1,72 @@
+Recipe number:
+236896.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-15T10:10:36.017
+helpfulCount:
+0
+userID:
+11303800
+Display Name:
+Agent P
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sandwich turned out quite well. I didn't have potato bread or paprika so I used sourdough and a dash of chili powder. The mustard and the avocado go together really well and the green onion adds the perfect crunch. I will make this again in a heartbeat.
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-06T10:37:41.95
+helpfulCount:
+0
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I decide to make this and got halfway through only to find out I had run out of potato bread so I toasted some sour dough. This has the texture of an egg salad sandwich but the creaminess and flavor of the avocado makes this a hit. The mustard paired well with the avocado. Makes for really good sandwiches.

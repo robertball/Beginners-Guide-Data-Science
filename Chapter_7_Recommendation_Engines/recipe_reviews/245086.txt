@@ -1,0 +1,37 @@
+Recipe number:
+245086.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-24T01:28:34.61
+helpfulCount:
+0
+userID:
+10325875
+Display Name:
+crgrooms
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+78
+favoritesCount:
+650
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and friends loved this soup and it was perfect for a crowd of diverse tastes. Without the hot sauce, blue cheese crumbles and croutons, it was pretty bland which was great for family members who prefer that!  Those who added the hot sauce, blue cheese and croutons were equally satisfied with their meals.  It was a win-win for all!

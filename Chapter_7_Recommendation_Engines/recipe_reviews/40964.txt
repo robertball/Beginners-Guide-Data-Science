@@ -1,0 +1,37 @@
+Recipe number:
+40964.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-08-03T12:23:26.413
+helpfulCount:
+0
+userID:
+1152458
+Display Name:
+HOTPINKMUFFINMAN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i would have NEVER thought of that! it was really good! i give you props on your creativity! :)

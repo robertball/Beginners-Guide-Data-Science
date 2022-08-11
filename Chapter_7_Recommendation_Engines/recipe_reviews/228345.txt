@@ -1,0 +1,37 @@
+Recipe number:
+228345.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-06T18:38:15.12
+helpfulCount:
+0
+userID:
+11250058
+Display Name:
+Kristina Jensen
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3595890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good.  :)  I just used regular maple syrup, didn't have any Michigan maple.  It's not my favorite dessert recipe but it was a good way to use up some chunky peanut butter that I was trying to use up since it recently reached the best by date.  Thanks for the recipe!  Most of my kids really liked it, except my 12 yr old who doesn't like peanut butter to begin with.

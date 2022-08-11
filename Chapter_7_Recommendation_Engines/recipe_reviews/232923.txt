@@ -1,0 +1,72 @@
+Recipe number:
+232923.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-01T06:48:02.673
+helpfulCount:
+10
+userID:
+3813323
+Display Name:
+toomuchsht@yahoo.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made pimento cheese since I was a child (I am 64) and from NC. This is my exact recipe (but I never measure) except I add ground black pepper to taste and I am VERY picky about mayo. I use only Duke's or Blue Plate (JFG if available). The Mayo is VERY important. If you MUST use a Yankee mayo, add a teaspoon of lemon juice to make up for the bland taste. Using processed American cheese seems wrong to lots of people, but the reason it is used is it melts nicely for toasted sandwiches and it keeps a LOT longer in the 'frige than "living" cheeses which mold quickly.
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-17T11:39:59.59
+helpfulCount:
+0
+userID:
+2821712
+Display Name:
+R. Medlin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+163
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great basic starter recipe.  I made so many modifications to it that I don't know exactly what it would taste like.  I added Serrano and Jalapeno peppers and roasted pimiento's.  Great!!

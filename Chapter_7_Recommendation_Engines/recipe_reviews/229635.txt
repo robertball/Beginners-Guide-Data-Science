@@ -1,0 +1,37 @@
+Recipe number:
+229635.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-28T12:37:56.463
+helpfulCount:
+6
+userID:
+2713558
+Display Name:
+Jillian
+isPro:
+False
+followersCount:
+554
+followingCount:
+0
+madeRecipesCount:
+2420
+favoritesCount:
+6771
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/209339.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! This is a colorful salad with a great combination of flavors and textures. Plus it's a great way to use up some leftover Thanksgiving turkey! For the dressing I added a little buttermilk to thin it out. I also opted to toasted walnuts vs. pecans as that's what I had on hand. I let the dressing set in the fridge for a few hours to let the flavors blend together. Perfect with warm rolls and a glass of wine!

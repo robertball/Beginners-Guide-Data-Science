@@ -1,0 +1,111 @@
+Recipe number:
+267556.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-30T17:06:49.497
+helpfulCount:
+3
+userID:
+24297548
+Display Name:
+Bill Oldfield
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First attempt review.  Only one puff pastry fit in my fryer at a time.  Instead of using a whole egg I whipped mine then added.  The time and temp is off for mine.  400F at 6 minutes was too long for the first cooking.  400F almost burned the top of the egg.  It wasn't even close to the picture and the middle was not fully cooked.  Will try again with different times, temps, and step variations
+
+Second attempt - Used 390F for about 5 minutes.  Flipped the pastry to make the indentation.  Added just the egg and cooked at 350 for about 5 minutes then added the cheese and ham for the last minute.  Still not quite like the original picture and the middle wasn't fully cooked.    I have one more square and will try one more time today                                        
+
+Third attempt worked out pretty well.  Cooked the pastry at 390 for about five minutes.  Dropped the temp down to 300 and cooked for about six minutes.  I mixed the egg every couple minutes and added the ham and cheese in the last minute
+Review:
+Rating:
+2
+dateLastModified:
+2020-01-14T00:11:18.57
+helpfulCount:
+0
+userID:
+2409823
+Display Name:
+Leslie Everett Ellis
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+257
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4381314.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family REALLY didn't like this. They thought It bland and the puff pastry and egg didn't play well together.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-25T16:50:20.637
+helpfulCount:
+0
+userID:
+2416768
+Display Name:
+Tresea
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this ....made just as recipe given, great suggestion to use small cup to pour egg in hole

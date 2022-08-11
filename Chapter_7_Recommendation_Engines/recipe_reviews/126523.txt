@@ -1,0 +1,107 @@
+Recipe number:
+126523.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-12-28T06:01:01.837
+helpfulCount:
+2
+userID:
+1970230
+Display Name:
+Patricia Park
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/54.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This disappears so quickly at family gatherings that I hardly even get to taste it.  I live in a small southern town, and couldn't fine fresh raspberries the first time I made this.  (Only around in season!)  I used fresh strawberries instead and it worked just as well!  We love this trifle!
+Review:
+Rating:
+5
+dateLastModified:
+2008-12-29T10:06:52.533
+helpfulCount:
+1
+userID:
+3424587
+Display Name:
+Amanda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cake and pudding mixture make this trifle decadent while the fruit adds a nice fresh touch. This was a yummy alternative for Christmas dessert and it fed many people.
+Review:
+Rating:
+5
+dateLastModified:
+2008-05-18T07:18:58.287
+helpfulCount:
+1
+userID:
+2946275
+Display Name:
+Janie Harvey Garner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6902708.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this in an Eagle Brand Recipe book a few years ago and now my family insists I bring the dessert to every gathering!  I use cool whip instead of the whipping cream usually....just because of the lazy factor.  Best ever!

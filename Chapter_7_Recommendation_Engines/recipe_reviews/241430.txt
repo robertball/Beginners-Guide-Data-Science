@@ -1,0 +1,37 @@
+Recipe number:
+241430.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-19T22:34:50.243
+helpfulCount:
+0
+userID:
+14596557
+Display Name:
+Sarah LoTurco
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1638141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We thought the spread was a bit sweet so I added some cumin.  We used baguette instead of an olive loaf.  Next time, I will cut back (or cut out) the brown sugar and add kalamata olives to balance the sweet.  If you stick with the olive loaf than you may be very satisfied with this as is.

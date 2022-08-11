@@ -1,0 +1,37 @@
+Recipe number:
+222237.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-04T10:48:12.87
+helpfulCount:
+1
+userID:
+2499050
+Display Name:
+gigithefoodie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+235
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you Chef John.  I was looking for something different to do with my black eye peas on New Years day and found this recipe.  I added 1/2 package of 15 bean soup and the rest of the black eye peas.  It was delicious.  It was a hit.. who knew!  Thanks again. Oh, I found the cotechino at a little gourmet spice in Oklahoma City.  It was wrapped the same way.

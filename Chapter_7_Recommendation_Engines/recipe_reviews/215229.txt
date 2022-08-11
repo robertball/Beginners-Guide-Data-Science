@@ -1,0 +1,37 @@
+Recipe number:
+215229.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-12-12T21:06:33.153
+helpfulCount:
+10
+userID:
+6038428
+Display Name:
+ericka312
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/534243.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't use olive oil, nor did I use the olives but overall this recipe surpassed my expectations and my husband loved it, will make again for friends to try.  Thank's allrecpies.

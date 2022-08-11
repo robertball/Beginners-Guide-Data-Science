@@ -1,0 +1,37 @@
+Recipe number:
+275812.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-16T02:20:56.083
+helpfulCount:
+0
+userID:
+24410644
+Display Name:
+Carolyn Holley
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+325
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6238009.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are the greatest and the easiest to make, just three simple ingredients for the juciest, tastiest wings ever!....Even the kids love them.

@@ -1,0 +1,107 @@
+Recipe number:
+245301.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-21T17:13:06.553
+helpfulCount:
+1
+userID:
+11119552
+Display Name:
+Karen Dunn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Green peas4
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-13T01:59:48.323
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy peasy, that's for sure. Mine only needed 2 minutes at 900W.  I made these using Parmigiano-Reggiano® instead of the blend mentioned. I also made a vegan batch using vegan "grated cheese" (nutritional yeast and almond flour) and loved both. Add some hot red peppers for a nice addition. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-05T03:27:12.02
+helpfulCount:
+0
+userID:
+7511458
+Display Name:
+hde294
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+179
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick, easy, and delicious!  I used vegan parm.  You should try it!  Easy fast snack or side.

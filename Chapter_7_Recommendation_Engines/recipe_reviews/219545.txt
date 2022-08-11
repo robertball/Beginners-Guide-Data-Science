@@ -1,0 +1,37 @@
+Recipe number:
+219545.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-12-22T12:06:35.257
+helpfulCount:
+25
+userID:
+8218969
+Display Name:
+purplandgold
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor was good, but the texture was anything but great. Dump the broth packets and use bouillon cubes instead. This will give you the flavor without making them mushy like they are as written. I also added Lowrys to these.

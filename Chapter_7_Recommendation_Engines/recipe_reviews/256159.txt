@@ -1,0 +1,107 @@
+Recipe number:
+256159.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-08T05:22:38.393
+helpfulCount:
+1
+userID:
+16775621
+Display Name:
+Traci Hicks
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4064063.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was impressed with how much this tastes like English muffins and so easy to make. I froze one for later use.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-16T21:41:43.79
+helpfulCount:
+1
+userID:
+4196646
+Display Name:
+Lela
+isPro:
+False
+followersCount:
+352
+followingCount:
+0
+madeRecipesCount:
+173
+favoritesCount:
+2651
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7559577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This English Muffin Bread is a great recipe for breakfast.  This is an easy recipe to make. You can not go wrong baking this bread. The bread only took 20 minutes to bake. I toasted the bread and ate it with butter and preserves.  I will definitely make this bread again.
+Review:
+Rating:
+2
+dateLastModified:
+2019-06-02T22:55:29.623
+helpfulCount:
+0
+userID:
+21795893
+Display Name:
+Cook girl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+wasn't as expected was crumbly like a yeasty biscuit

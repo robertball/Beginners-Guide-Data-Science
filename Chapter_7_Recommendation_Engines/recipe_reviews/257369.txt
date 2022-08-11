@@ -1,0 +1,72 @@
+Recipe number:
+257369.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-08T08:47:18.407
+helpfulCount:
+0
+userID:
+10662455
+Display Name:
+Jessica Anderson Knauss
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+193
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5667650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a hard time getting the bread crumb mixture to stick to the tofu, I had to basically pack it on. The sauce was good but I increased the maple syrup and decreased Dijon mustard for my taste preference.
+Review:
+Rating:
+2
+dateLastModified:
+2017-09-09T22:30:33.91
+helpfulCount:
+0
+userID:
+21130084
+Display Name:
+natiurrutia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was ok. not very flavorful and the tofu had weird consistency.

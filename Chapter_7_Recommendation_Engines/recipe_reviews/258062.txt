@@ -1,0 +1,37 @@
+Recipe number:
+258062.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-15T22:04:47.663
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this a lot. I haven't had congee aside from what I have made so  I dont know how authentic this is... it is very tasty.  The only thing that kept it from being 5 stars was the fish.  It was fine and I ate it, but when I made this again, I will use something else other than fish I just couldn't get  used to the idea of fish in this.. I will use cooked chicken I think instead.

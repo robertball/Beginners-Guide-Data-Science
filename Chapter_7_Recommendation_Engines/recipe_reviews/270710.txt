@@ -1,0 +1,72 @@
+Recipe number:
+270710.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-06T22:51:30.79
+helpfulCount:
+0
+userID:
+24946526
+Display Name:
+Susan Ysaguirre
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6339050.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it for a pot luck but didn’t add the ginger or sesame seeds and used a fine chop yellow onion,  everyone loved it
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-20T22:06:44.84
+helpfulCount:
+0
+userID:
+11244979
+Display Name:
+Tukaussey
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+57
+favoritesCount:
+667
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5324332.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were so-so. Must have been because I didn’t have an air fryer, and I had to use my egg steamer.   Other than that they were delicious , and added it to my list of , “101 ways to make deviled eggs.”

@@ -1,0 +1,38 @@
+Recipe number:
+269316.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-24T14:13:24.42
+helpfulCount:
+0
+userID:
+24731230
+Display Name:
+Debby
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have picky eater, so I used an emersion blender . I also had chopped ham, bacon, chives, cheese, and leeks as sides so each person could flavor to taste. 
+Oh, I needed gluten free, so I substituted 1/2 the amount of cornstarch for the flour.

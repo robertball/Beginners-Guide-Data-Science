@@ -1,0 +1,72 @@
+Recipe number:
+245790.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-03T18:08:32.083
+helpfulCount:
+1
+userID:
+22515017
+Display Name:
+Jeanine Corina Hughes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this! Use wheat beer (weisbeer) for a rasser! I asked a bartender to make me one of these when I got home from Germany years ago, and got a seriously dirty look. Now, their all the rage, just called shandy!
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-25T08:25:14.22
+helpfulCount:
+1
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1060
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so refreshing!  Really similar to a British Shandy.  I used fresh lemonade, as that is what I had.  There were no complaints, except when the glass was empty!

@@ -1,0 +1,37 @@
+Recipe number:
+25715.txt
+Review:
+Rating:
+4
+dateLastModified:
+2003-09-12T18:35:29.513
+helpfulCount:
+27
+userID:
+773238
+Display Name:
+VERONICA!
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice, refreshing soup.  Definately a pleasant surprise.  If you like almonds, this is quite tasty.

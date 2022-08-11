@@ -1,0 +1,72 @@
+Recipe number:
+265370.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-04T18:51:54.29
+helpfulCount:
+0
+userID:
+2887465
+Display Name:
+Cindy Moritz
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+178
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2155030.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a different pasta that I had on hand and I didn't have radishes, but it was still really tasty!  I used Kerrygold for the shredded aged Cheddar cheese.
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-09T17:39:13.137
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6002
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+11.9.18  I liked the combination of the whole grain mustard, Thousand Island dressing, and the salad dressing for a pasta salad.  Too often, it’s just salad dressing, but these three together provided good flavor.  Would recommend that you mix them together before adding to your pasta salad, and plan on making more of it because without it, I think you’ll have dry pasta (I did).  The one thing that I thought was lost in this salad was the cheddar cheese, and I used a good-quality one, so doubtful I’ll include that in the future.   We don’t eat a lot of pasta salads, but we enjoyed this one with its tangy dressing and sweet-dill flavor from the relish and pickles.

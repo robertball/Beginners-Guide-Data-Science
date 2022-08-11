@@ -1,0 +1,37 @@
+Recipe number:
+237733.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-06-14T10:04:26.277
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+870
+followingCount:
+0
+madeRecipesCount:
+610
+favoritesCount:
+2578
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't like this as much as I thought I would, but it was refreshing. I don't like overly sweet drinks, so the sweetness level was fine for me, however I think most would prefer it a bit sweeter. I like that it's low cal too. You don't really taste any coconut, so if I make this again I'll use coconut milk instead. I wouldn't call this a smoothie, really. It's more slushy and icy.

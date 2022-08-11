@@ -1,0 +1,72 @@
+Recipe number:
+220561.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-16T11:19:10.04
+helpfulCount:
+5
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2221
+favoritesCount:
+2566
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The serving size is incorrect in the recipe. It actually serves two.  We thought this was excellent.  I made this for three people, and everyone enjoyed it.  It packs a punch, but as the whipped cream incorporates into the drink, it tones it down.  I’ll be serving this again.
+Review:
+Rating:
+1
+dateLastModified:
+2012-03-23T07:28:07.453
+helpfulCount:
+5
+userID:
+845069
+Display Name:
+KATRONA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+191
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/187746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+NINE ounces of booze!!!  Good Grief Gertie!  This is my entire day's worth of calories!!  LOL  But sounds really yummy!

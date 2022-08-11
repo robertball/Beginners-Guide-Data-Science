@@ -1,0 +1,37 @@
+Recipe number:
+247208.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-19T22:05:24.68
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6889
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I used what I had on hand, which was golden potatoes. I did half with the relish and half without. While both were good, I Preferred the one without the relish (just my personal preference). We thought the addition of the pesto seasoning was a nice change from the usual. I will be making this one again! Thanks for sharing. :)

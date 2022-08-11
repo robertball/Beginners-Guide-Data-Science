@@ -1,0 +1,177 @@
+Recipe number:
+256312.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-05T14:11:49.96
+helpfulCount:
+2
+userID:
+21314472
+Display Name:
+Dawn Caruana
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this recipe!  A friend of mine shared raise we are both on weight watchers and recipe has zero pts (if you omit the oil). I had some left over corn on the cob, and made a few changes to suit our tastes... added sweet vadallia onions slivers, used fresh diced tomatoes and layer on top of a bed of lettuce. Not only delicious, it’s a beautiful meal too!  Thank you for sharing this wonderful recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-11T06:34:37.277
+helpfulCount:
+1
+userID:
+3604412
+Display Name:
+Heather Liddle-Kerns
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6011331.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is very good but I only had a lemon and by using lemon it made it sour but i fixed it with a pinch of sugar, don't use lemon use lime as it says,  I will have to make it again and then  possibly do a different ratting, the only thing I changed was I added some red onion along with the green onion and some orange pepper, it was very good !
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-26T03:49:33.547
+helpfulCount:
+1
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so easy to make and very tasty! I loved the combination of ingredients and everything tasted so fresh! Will make again and again.
+Review:
+Rating:
+3
+dateLastModified:
+2017-02-06T06:33:45.167
+helpfulCount:
+1
+userID:
+16534603
+Display Name:
+Srinivas G
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+200
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3774070.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it it is good recipe
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-24T21:12:22.53
+helpfulCount:
+0
+userID:
+23608145
+Display Name:
+Jeff Hanson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5530585.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+loved it. delicious

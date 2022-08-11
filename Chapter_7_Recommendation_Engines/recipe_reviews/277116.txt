@@ -1,0 +1,192 @@
+Recipe number:
+277116.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-03T02:52:12.55
+helpfulCount:
+1
+userID:
+24806048
+Display Name:
+Lynne Johnson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6407069.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I loved this entree and would highly recommend it! I substituted Bone-In Pork Shoulder Spare Rib meat and Yukon Gold Potatoes (what I had on hand) and found it to be delicious! The funny thing is...I'm not even a big pork fan by nature.
+L&M from MN
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-15T23:21:22.597
+helpfulCount:
+1
+userID:
+16795058
+Display Name:
+Steve D.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very satisfying and easy to make.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-14T20:14:41.12
+helpfulCount:
+1
+userID:
+2543524
+Display Name:
+Colleen Vaughn
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2593435.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OMG, this was soooo good.  Leftovers were good too.
+
+I made some changes only because I bought a 3.8 pound top pork loin on sale for $8 instead of the 1.9 pound pork tenderloin for $16.  So I had to go to my good old Betty Crocker cookbook and to the internet to get cooking times.
+
+Did all of the ingredients the same, except left off garlic and doubled all the ingredients and increased apple cider to 2 cups.
+
+I did the rub ahead of time because I was home anyway and let it sit under a blanket of plastic rap for 4 hours before cooking.
+
+Betty Crocker said to cook Top Pork Loin at 325 for 30-40 mins per pound to get internal temp of 170.  I cooked it for a total of about 2 hours at 350 with just the cider mix (no sweets or apples).
+
+Also had to look up Sweet Potatos = 350 degrees for about an hour.  So added them after Pork loin cooked for one hour.  And I looked up Apples = 350 for about 15 minutes (I did smaller slices - like 8/apple).  
+
+Even though I did over cook it a smidge,  when I made the first cut, liquid squirted out and I knew it would be juicy and tender, which it was.  
+
+For leftovers, we put potoatoes/apples/juice in sauce pan on low.  And my husband dabbed some of the juice on the pork slices and put brown sugar/ginger mix on each side.  He cooked them separately in the oven on stoneware plate at 350 for about 7 minutes then broiled at 500 until a little bubbly - a couple minutes.
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-18T17:52:40.54
+helpfulCount:
+0
+userID:
+15756158
+Display Name:
+Pam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the seasonings very much, but, while the sweet potatoes cooked to perfection, the apples were mushy. I would recommend making sure you use a firm apple like Granny Smith or Pippin.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-12T04:01:48.977
+helpfulCount:
+0
+userID:
+25390927
+Display Name:
+Donna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Strong cumin taste. I will probably omit the garam masala next time. Apples & sweet potatoes were perfect.

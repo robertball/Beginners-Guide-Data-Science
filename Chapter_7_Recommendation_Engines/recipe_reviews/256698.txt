@@ -1,0 +1,72 @@
+Recipe number:
+256698.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-04T14:13:17.38
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out pretty good. This is a recipe you could easily customize to suit your taste. Ground beef could be used instead of sausage and if using sausage I recommend using Italian sausage. I would have liked some sliced mushrooms and olives in the filling and will add them when I make this again. Overall good recipe and one that is quick and easy to prepare. Get creative and use cookie cutters to cut the pepperoni into your kiddos favorite shapes or do I like did and cut them into hearts to serve to your main squeeze.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-09T13:21:05.45
+helpfulCount:
+1
+userID:
+21602025
+Display Name:
+NareshN
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4482504.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good Recipe

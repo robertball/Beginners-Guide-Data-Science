@@ -1,0 +1,37 @@
+Recipe number:
+233308.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-08-05T15:14:24.82
+helpfulCount:
+3
+userID:
+1532140
+Display Name:
+pomplemousse
+isPro:
+False
+followersCount:
+382
+followingCount:
+0
+madeRecipesCount:
+2015
+favoritesCount:
+2753
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/58080.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good.  I tried this recipe with fresh chopped mint bc I had to cut back my mint.  It's good, but it needs more mint in my opinion--I'd double the amount next time. Hubs also said he didn't really like the strawberries in it, so I'd leave those out next time.  I also think it needs a bit of vanilla to perk it up, but it's a great starting point, and a perfect amount for a KA mixer, so no need to cut it down.  Thanks for the recipe!

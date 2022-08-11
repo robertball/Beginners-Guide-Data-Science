@@ -1,0 +1,37 @@
+Recipe number:
+264481.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-02T21:34:23.63
+helpfulCount:
+0
+userID:
+26078033
+Display Name:
+Beehesda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and unusual. Better as an appetizer.

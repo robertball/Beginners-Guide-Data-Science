@@ -1,0 +1,77 @@
+Recipe number:
+242347.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-09-10T18:25:50.803
+helpfulCount:
+1
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were just ok. No added garlic and lots of salt and pepper.  They were still bland.  1/2 cup of bread crumbs would not hold my ground beef together.  It took nearly a cup of bread crumbs to keep mine on a ball shape rather than a pancake shape.  Bake time is spot on though.
+Review:
+Rating:
+5
+dateLastModified:
+2015-09-16T16:35:13.517
+helpfulCount:
+0
+userID:
+16366558
+Display Name:
+Gwyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a dinner party I was hosting that night. It was super easy and had great results. Everyone at the party loved them! The few changes I made were:
+1. Instead of using nutmeg,  I used a combination of garlic powder and oregano. I added a lot more oregano than garlic powder, but that was the effect I was going for.
+2. Also, I did not measure out the amount of breadcrumbs, instead, I just used two pieces of bread-worth
+3. I didn't have any onions on hand, so I used one shallot instead. I also could not find my grater, so I used a blender. 
+
+All in all, this recipe was quite delicious and I look forward to making it again sometime soon.

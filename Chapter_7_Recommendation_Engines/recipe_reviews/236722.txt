@@ -1,0 +1,37 @@
+Recipe number:
+236722.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-06T17:39:34.72
+helpfulCount:
+0
+userID:
+9692811
+Display Name:
+Domine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for something to spice up the tins of sardines we had in the cupboard and this worked very well (good flavor). I did accidentally leave out the garbanzos (and I used the whole eggplant because I had a small one and didn't want to leave the rest in the fridge). The coconut oil I had was in solid form so I had to heat it to coat the veggies and I think it took more than 1 tbsp. to do it.

@@ -1,0 +1,72 @@
+Recipe number:
+241791.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-30T07:55:18.947
+helpfulCount:
+7
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was rather sceptical with the chili powder and garam masala in this dessert, but it makes for an interesting taste!  This is really good either hot or cold, and probably would be enjoyed more with either whipped cream or ice cream, but I liked it just plain!  Thanks for the recipe; I will be making this again!
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-14T10:04:46.07
+helpfulCount:
+0
+userID:
+15641959
+Display Name:
+David Fifield
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is fantastic

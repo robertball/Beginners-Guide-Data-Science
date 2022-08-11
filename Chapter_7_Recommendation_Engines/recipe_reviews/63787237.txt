@@ -1,0 +1,37 @@
+Recipe number:
+63787237.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-07T23:50:17.55
+helpfulCount:
+0
+userID:
+7868374
+Display Name:
+The Sporadic Cook
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/801507.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The chili does taste better the next day. Candy’s tortillas work best and don’t get mushy like other brands when baking. The chili freezes well if you have lots left over.

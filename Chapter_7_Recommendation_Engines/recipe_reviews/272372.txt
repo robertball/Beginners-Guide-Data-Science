@@ -1,0 +1,107 @@
+Recipe number:
+272372.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-10T17:29:45.66
+helpfulCount:
+1
+userID:
+26140612
+Display Name:
+Jack Bartx
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My first time making pretzels so I followed the recipe exactly, except at the end I only buttered half of them.  I think I prefer them without butter but they are delicious either way.  What a great way to do something productive with my sourdough starter discards!  Great recipe, thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-30T00:17:13.29
+helpfulCount:
+1
+userID:
+1408394
+Display Name:
+LWEEGE
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+153
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I substituted malt powder instead of the sugar and topped it with pretzel salt that I purchased on Amazon.
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-13T04:43:13.93
+helpfulCount:
+1
+userID:
+24605294
+Display Name:
+Becky Jordan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6017924.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They didn’t come out pretty, but are delicious. I used my own starter and evaporated milk.

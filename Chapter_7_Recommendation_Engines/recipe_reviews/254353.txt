@@ -1,0 +1,107 @@
+Recipe number:
+254353.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-17T23:55:43.113
+helpfulCount:
+0
+userID:
+21120659
+Display Name:
+Cassandra Alcántara
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+128
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5871698.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I appreciate the diversity of this recipe, but it might be missing a tiny bit of the Brazillian "coraçao" flavor-wise that a Brazillian would make it with. It should not be watery once it's served with rice (any extra liquid is absorbed by the rice) and the flavor was pretty good. This recipe is simple enough for a weeknight meal.
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-19T22:12:53.69
+helpfulCount:
+0
+userID:
+23006914
+Display Name:
+Liz Girard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4798017.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a bit watery, but the taste was
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-20T22:47:10.21
+helpfulCount:
+0
+userID:
+24255212
+Display Name:
+jules
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it without cream and didn’t have any vinegar and it was still awesome

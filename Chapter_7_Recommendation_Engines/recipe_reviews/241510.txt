@@ -1,0 +1,108 @@
+Recipe number:
+241510.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-22T11:00:27.76
+helpfulCount:
+13
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+1096
+followingCount:
+0
+madeRecipesCount:
+2888
+favoritesCount:
+1948
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8440171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is not your ball park mustard. It packs a punch! I ended up diluting it because it was too strong for me. In the end I doubled everything but the powdered mustard and was happy with that. It has a wonderful flavour but for us it was a bit much to use on our meal. It is simple to prepare. I used corn starch instead of the flour called for because I don't know what quick mixing flour is. Corn starch thickened the sauce quite well. This certainly does make you think twice about buying the pre-made stuff. I used smoked paprika and my own ground spices which gave it a nice touch. Thank you JillH for sharing your recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-21T16:55:56.733
+helpfulCount:
+2
+userID:
+11696101
+Display Name:
+Carol V.
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+246
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you so much for the recipe!  I did alter slightly.  1/8 tsp of garlic powder, homemade chili powder (Allrecipes.com), onion power, cornstarch and flour.  1/4 tsp turmeric, 1/2 tsp salt, 1/4 cup vinegar and water.  This makes a thick almost paste mustard (spreads smooth).  It looks and smells like French's.  I am now allergic to paprika and have to make mustard, mayo, catsup, etc.  This website is a life saver for people with allergies.
+Review:
+Rating:
+5
+dateLastModified:
+2020-08-16T00:06:13.087
+helpfulCount:
+0
+userID:
+26060208
+Display Name:
+Jason Minor
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6983531.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was making egg salad  and wanted to make my own mustard.  I remembered I had saved this recipe.  Turned out great!  I did not
+ it alter it.

@@ -1,0 +1,37 @@
+Recipe number:
+274731.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-14T23:18:44.8
+helpfulCount:
+0
+userID:
+26330182
+Display Name:
+Roxie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The absolute best chicken wings I've ever had in my life!!

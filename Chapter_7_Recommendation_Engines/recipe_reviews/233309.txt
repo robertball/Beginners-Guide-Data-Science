@@ -1,0 +1,72 @@
+Recipe number:
+233309.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-23T03:42:40.447
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Uniquely delicious!  I was weary, if not skeptical, of this dish.  Even the smell when it was done made me wonder what I'd done.  But it won me over with the first bite.  I left out the anchovy due to allergies but agree that they should go in there so if you can do add them.  I also had to use fresh hot peppers.  I ate this dish with and without parmiggiano reggiano and can say it is delicious both ways.  The olives, tomatoes and hazelnuts made for a very interesting texture in each bite, albeit it took a minute to get used to but the flavours were heaven together.  The marsala adds a good flavour to compliment the spice, nut and tang of the other ingredients.  If you look at this and go, "no way!", you are making a mistake.  It's one-of-a-kind flavour will creep up on you and will win you over by the first bite!  Thanks for sharing.
+Review:
+Rating:
+3
+dateLastModified:
+2014-08-13T09:35:37.56
+helpfulCount:
+0
+userID:
+21907115
+Display Name:
+Allrecipes Community
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The anchovy paste is necessary.  This was spicy, tangy, bursting with unique flavor and texture. I doubled the recipe to serve 5 people and had leftovers. My company did not eat much of it.  It was a little better the next day, but I still picked out the nuts and I will not make it again.

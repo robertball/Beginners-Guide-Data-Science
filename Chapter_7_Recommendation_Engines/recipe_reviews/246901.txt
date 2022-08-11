@@ -1,0 +1,72 @@
+Recipe number:
+246901.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-07T01:26:57.007
+helpfulCount:
+1
+userID:
+10048675
+Display Name:
+Mike Kosidowski
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/898538.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite good..only thing I would do different is to add more rhubarb..
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-02T00:31:59.633
+helpfulCount:
+0
+userID:
+13541917
+Display Name:
+Lindsay
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1471506.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My GF neighbour went nuts for this recipe. I doubled the amount of stalks (6), and even then I thought I could have used more; otherwise, no changes. Will definitely be making this again!

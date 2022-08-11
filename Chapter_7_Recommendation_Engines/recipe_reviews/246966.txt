@@ -1,0 +1,37 @@
+Recipe number:
+246966.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-05-05T02:36:59.51
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and the different seasonings seemed to overpower this dish some. It was okay but I'd definitely cut back on the cumin and turmeric if I were to make again.

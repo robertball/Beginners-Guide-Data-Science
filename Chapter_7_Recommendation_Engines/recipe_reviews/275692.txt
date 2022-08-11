@@ -1,0 +1,37 @@
+Recipe number:
+275692.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-03T14:14:15.417
+helpfulCount:
+0
+userID:
+12458473
+Display Name:
+fketaineck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+349
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A little too cakey for me but I liked the fact that it was not too sweet.

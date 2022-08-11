@@ -1,0 +1,37 @@
+Recipe number:
+262596.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-16T15:54:05.25
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is EXCELLENT! No changes needed. I bought an avocado for garnish but after tasting this once it sat in the fridge overnight I decided not to use it. It really doesn't need it and might actually take away from the deliciousness you've already got going on. Maybe not but I saved my avocado for another use. I can't say enough good things about this recipe. It is light, refreshing, flavorful, pretty, easy, and the lists goes on. It would be excellent served over a bed of lettuce too. Hearts of palms are expensive but I promise you won't be disappointed in this recipe. I highly recommend this.

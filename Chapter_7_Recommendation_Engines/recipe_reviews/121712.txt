@@ -1,0 +1,72 @@
+Recipe number:
+121712.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-06-20T15:33:05.973
+helpfulCount:
+4
+userID:
+6113322
+Display Name:
+metread
+isPro:
+False
+followersCount:
+33
+followingCount:
+0
+madeRecipesCount:
+49
+favoritesCount:
+322
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/599878.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were a nice meatball with a Greek flair. I have just recently started experimenting with Greek flavors and will make these again.
+Review:
+Rating:
+3
+dateLastModified:
+2007-02-04T07:02:34.51
+helpfulCount:
+4
+userID:
+69844
+Display Name:
+SUE WILLIAMS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Average results.  Also, the prep time is longer than suggested.  The amount of oil is too much and splatters when placing (however carefully) each meatball in the pan.  Will not make it again.

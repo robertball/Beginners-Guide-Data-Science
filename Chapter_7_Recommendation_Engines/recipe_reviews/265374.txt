@@ -1,0 +1,73 @@
+Recipe number:
+265374.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-27T19:32:41.84
+helpfulCount:
+0
+userID:
+23752759
+Display Name:
+C Johnson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5421611.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is good for crowds.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-17T23:02:00.907
+helpfulCount:
+0
+userID:
+4995856
+Display Name:
+carole
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+62
+favoritesCount:
+359
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3193238.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been searching for this recipe for decades!! Love it.
+Thank you Mark!

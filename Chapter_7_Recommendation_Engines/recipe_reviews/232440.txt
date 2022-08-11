@@ -1,0 +1,109 @@
+Recipe number:
+232440.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-05-14T19:31:46.363
+helpfulCount:
+6
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut this recipe back by half. I threw all the ingredients into large Ball Jar, slapped a lid on it and had my kid shake it until it was uniform in color. We all had a mug of this tonight--my kids thought it was good, my husband and I thought it was a little too milky, not enough chocolate. I am going to try to fiddle with it and see if adding more baking cocoa makes a difference. If I made this recipe again, I would cut back a bit on the nonfat milk powder.
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-12T14:31:02.283
+helpfulCount:
+0
+userID:
+17887048
+Display Name:
+idalarson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really good!  I made it 2 ways:  Method 1 Exactly as called-for in the recipe- creamy and delicious but not too sweet. it was just right.  Method 2.  I used the base recipe, but added a small pinch of cayenne to the mug and stirred well.  The added zip of flavor made it special.
+
+I deliberately chose a fairly plain recipe so that I could "dress it up" occasionally.  Yummy both ways!
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-13T00:42:23.537
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good. I would scale back on the milk for a richer flavour. I added some hot pepper powder on top to give it a kick. When putting this together the powders make a pretty presentation. Definitely a gift idea.

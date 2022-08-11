@@ -1,0 +1,37 @@
+Recipe number:
+272856.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-21T13:56:11.13
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I ran out of panko and had to use regular bread crumbs on some. The regular breadcrumbs actually stuck to the chicken better but they didn't crisp up near as well as the ones with panko. The Sriracha didn't come through as much as I had hoped for so I'd double that next time. Overall a good baked chicken recipe and one I would make again.

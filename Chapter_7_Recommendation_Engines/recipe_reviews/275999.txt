@@ -1,0 +1,182 @@
+Recipe number:
+275999.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-21T14:38:42.193
+helpfulCount:
+4
+userID:
+12622188
+Display Name:
+Lovie and Co
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6979357.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband surprised me with this beautiful dish. He made it with salmon, shrimp, scallops and muscles. He cooked all the fish by itself first and then added it to the base, I prefer a fish be pan seared or broiled rather than boiled. He makes his own fish stock and used a mixture of fresh and canned tomatoes. Heavily seasoned and fresh herb from our garden. Served with slightly chilled Pinot Noir, greens with homemade croutons, balsamic and Lovie & Co. spice blend  seasoning. Topped off with fresh garlic seasoned homemade crusty bread. Thank you for the date night in, Chef John. Gorgeous meal.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-27T03:07:52.833
+helpfulCount:
+0
+userID:
+3730161
+Display Name:
+Fred
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+159
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I couldn't find sea bass, but there was a sale on monk fish and it tasted excellent.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-27T13:12:42.247
+helpfulCount:
+0
+userID:
+18258256
+Display Name:
+Sherry Guthrie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+1233
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5601477.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this recipe was amazing. I used black sea bass. and instead of mussels I used oysters. I'm sorry but out of all seafood possible I hate mussels. that is the only seafood that is nasty. it's the after taste. thank you chef john.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-22T13:42:01.223
+helpfulCount:
+0
+userID:
+6478330
+Display Name:
+Blake Hernandez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7641206.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick and easy and taste GREAT.  
+I used frozen cod and shrimp only but it was still a hit.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-07T00:18:34.183
+helpfulCount:
+0
+userID:
+23426828
+Display Name:
+Diane Norman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5267532.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made with cod shrimp and calamari 
+No clams or mussels because I didn’t have them
+Also served over some cavatappi pasta to stretch for my family 
+
+It was fantastic and so simple

@@ -1,0 +1,37 @@
+Recipe number:
+24225.txt
+Review:
+Rating:
+3
+dateLastModified:
+2001-11-27T16:28:43.683
+helpfulCount:
+30
+userID:
+512988
+Display Name:
+TIGER24
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was OK. It was easy and quick but I wasn't crazy about the caraway taste.  I won't make this again.

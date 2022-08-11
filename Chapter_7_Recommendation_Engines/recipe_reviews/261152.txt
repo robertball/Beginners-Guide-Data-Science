@@ -1,0 +1,74 @@
+Recipe number:
+261152.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-05T21:42:24.83
+helpfulCount:
+0
+userID:
+23384340
+Display Name:
+timothy0515
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+825
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cream  cheese with garlic and herbs can be hard to find. I had success using light, plain cream cheese, adding garlic, bay leaf and basil from the start. It 's a good idea to skim-off the fat prior to adding the cream cheese.
+
+It would be great if someone would recommend a compliment of herbs/spices to use with plain cream cheese!
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-25T16:16:31.67
+helpfulCount:
+0
+userID:
+2260735
+Display Name:
+Lynne Mohl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my granddaughters FAVORITE meal, so I make it every time she comes down. The only thing I do differently is I add a few Tablespoons odds soy sauce. I live this recipe!!!!

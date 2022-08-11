@@ -1,0 +1,72 @@
+Recipe number:
+237980.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-07T19:11:28.053
+helpfulCount:
+1
+userID:
+731723
+Display Name:
+SZYQ1
+isPro:
+False
+followersCount:
+61
+followingCount:
+0
+madeRecipesCount:
+639
+favoritesCount:
+3050
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4049308.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Don’t be intimidated by the long list of ingredients! Love this recipe because of the comprehensive list of vegetables you could use to make a vegan stock and most of all it’s a slow cooker method. It’s the best vegetable stock I’ve made thus far and I didn’t have some of the ingredients on hand or had to omit a few because of current dietary restrictions. Flavor wise -- perfect balance overall and much better than store bought. As the author notes add any veggies you may have on hand. I didn’t use fennel, apple, garlic, shallot, GF beer, or Worcestershire. Actually, used green onions that were going to be wasted and the stock is absolutely delicious despite the omission of a few ingredients. Also tossed in a few thyme sprigs I had on hand. There’s a great amount of versatility in making this recipe! I started making the recipe late afternoon yesterday and let it cook on low overnight…about 12-13 hours total with no problems. Another option would be to roast all the veggies on a rimmed sheet tray for about 45 min, dump in slow cooker, add the peppercorns, lemon, ginger, tamari soy sauce, Worcestershire, garlic, bay leaf and other fresh herbs, and water. Thank you so much for sharing the recipe, Buckwheat Queen!
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-19T10:00:10.86
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2822
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm the submitter of this recipe. There is an error in the ingredients list. It should read 10 whole peppercorns not 10 Tablespoons. I've asked AR to change this. Thank you. UPDATE: The ingredients list has been adjusted and now reflects the proper amounts. Thanks!

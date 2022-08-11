@@ -1,0 +1,37 @@
+Recipe number:
+219569.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-28T14:21:07.767
+helpfulCount:
+9
+userID:
+3755726
+Display Name:
+Terri's Best Recipes
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+2590
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/222609.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great idea and it turned out fantastic! I made two sets of this recipe and used Reese's peanut butter cups in one and Mounds candy bars in the other. OMG! My family and I were in heaven. Loved these!

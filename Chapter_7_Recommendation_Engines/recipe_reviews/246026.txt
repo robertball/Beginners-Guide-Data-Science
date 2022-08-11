@@ -1,0 +1,37 @@
+Recipe number:
+246026.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-03-20T18:17:36.217
+helpfulCount:
+0
+userID:
+11489253
+Display Name:
+What you cooking Willis?
+isPro:
+False
+followersCount:
+58
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+204
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1022842.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok but definitely had some hiccups along the way. The cheese felt like the only thing with flavor. The pasta was so stuck together! I think in the future I might leave out the added water or add extra sour cream to see if that helps boost the flavor

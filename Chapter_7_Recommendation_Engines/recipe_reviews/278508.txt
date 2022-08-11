@@ -1,0 +1,47 @@
+Recipe number:
+278508.txt
+Review:
+Rating:
+5
+dateLastModified:
+03/04/2020
+helpfulCount:
+0
+userID:
+25704554
+Display Name:
+Alice Durell
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6735092.jpg
+text:
+Absolutely delicious . And will make it again. Didn't change a thing
+Review:
+Rating:
+5
+dateLastModified:
+03/04/2020
+helpfulCount:
+0
+userID:
+25206658
+Display Name:
+Debbie Key
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6394100.jpg
+text:
+Made this but put it on salad greens and a few tomato slices.  Delish!  I will make again but will add some chopped sweet onion.
+Review:
+Rating:
+5
+dateLastModified:
+03/20/2020
+helpfulCount:
+0
+userID:
+24292843
+Display Name:
+Sandy
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+absolutely fabulous!!

@@ -1,0 +1,107 @@
+Recipe number:
+254166.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-14T23:15:12.693
+helpfulCount:
+5
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this. I also used fresh turmeric, about 1/2" since I only made half the recipe. I did add 1 packet of Splenda and both my banana and mangoes were frozen.
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-13T15:14:07.57
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. I used fresh turmeric, using a one-inch piece. Thank you for the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2016-09-10T09:15:24.03
+helpfulCount:
+1
+userID:
+20337828
+Display Name:
+Steph Poynton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3893575.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice simple smoothie. I added a bit of cinnamon to it as well.

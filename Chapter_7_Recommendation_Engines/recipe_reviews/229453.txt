@@ -1,0 +1,293 @@
+Recipe number:
+229453.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-14T15:06:16.323
+helpfulCount:
+25
+userID:
+6336055
+Display Name:
+rereid
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+358
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/608579.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for my wife and she flipped. Requesting this recipe once a month now. Don't make the mistake I did -- found the chowder very bland while cooking, added chicken stock and punched up the seasoning. It didn't need it. Once the salmon is put together with the soup + chili paste... it all comes together. Go AS IS!
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-15T20:16:25.503
+helpfulCount:
+12
+userID:
+9660272
+Display Name:
+SouthwestHiAltCook
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/905041.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for my husband on Valentine's Day, and he loved it!  I used Dijon mustard between the layers of salmon as suggested in the video.  Otherwise I followed the recipe exactly as written. The video was very helpful.  Thanks for such a great dish!
+Review:
+Rating:
+3
+dateLastModified:
+2013-03-29T14:05:53.913
+helpfulCount:
+3
+userID:
+10680562
+Display Name:
+thebonster
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+11232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+sorry, but this recipe is to complicated and confusing for me. i didn't finish it. i also was missing the cream in the chowder
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-15T17:35:50.12
+helpfulCount:
+2
+userID:
+6191719
+Display Name:
+chall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My Valentine and I shared this cooking experience and it was lovely!!!!!!!! Directions and video were perfect and humorous....would try anything by Chef John.
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-03T16:56:20.433
+helpfulCount:
+1
+userID:
+10902803
+Display Name:
+arwen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love Chief John...I do not consider myself a cook, he builds myself confidence with humor. Ok now the recipe... On our monthly rotation now, even my 16 year old loved it...For the most part, I followed recipe, tweaked it on my family's preference.
+1. Dijon mustard and a tad of honey mixed in... 
+(never heard of what mustard he used, I'm sure it would be great, ...interest to hear about others reviewers about their other suggestions between the layers) 
+2. Potatoes... 2 cups... or 2 large (3 small). Potatoes 
+3. MORE bacon per our fam. members... Love of bacon., maple bacon large slice,one slice per fam. 
+(Remember, just make sure you drain out the majority of bacon fat.,before adding other ingredients)
+4. I skipped the pan warm up on stove top...cooked for 20 min at 375 degrees. 
+5. We salted and pepper the whole thing per our individual taste
+6. I served chili sauce, on the side, for husband preference
+(chili paste...in  supermarket found in the herb section... Gourmet "fresh" in a tube)
+7. Didn't find the video confusing, but helpful, viewed it once all the way, then stopped it and started it as I was working on cooking it, that also helps me build my confidence.
+Ps the time to make and finish is spot on
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-16T03:00:54.943
+helpfulCount:
+0
+userID:
+4959807
+Display Name:
+Tammie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+622
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was absolutely delicious will definitely have it again
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-17T23:14:54.313
+helpfulCount:
+0
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+370
+favoritesCount:
+1322
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Watching the video did help with this a lot.  Cutting the salmon was not difficult however the "Belly Piece I had was too thin to butterfly, so I had to make some adjustments.  I also went very light with the Lemon Tarragon mustard, next time I would use more.  All in all a fairly simple recipe that did deliver a nice dinner!
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-07T23:42:17.51
+helpfulCount:
+0
+userID:
+15590627
+Display Name:
+Enduvall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3549081.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made no changes to the recipe. This was outstanding. I will make it again as my wife now request it frequently. If you want to make a fairly easy recipe that look like a complicated work of art and taste amazing this the one for you.

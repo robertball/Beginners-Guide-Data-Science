@@ -1,0 +1,72 @@
+Recipe number:
+277365.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-25T03:06:46.43
+helpfulCount:
+1
+userID:
+5498818
+Display Name:
+Neeceem63 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4814194.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was great! Hubs and I left a pile of bones, lol. We don’t have a broiler, so I used my Ninja Foodie to air-crisp the finish.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-30T12:25:05.577
+helpfulCount:
+0
+userID:
+26907680
+Display Name:
+Karen Bourdeau
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7641759.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Couldn't find harrissa sauce so substitute it with Texas Pete's & bar-b-que sauce. Also air fry it. Came out excellent.

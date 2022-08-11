@@ -1,0 +1,107 @@
+Recipe number:
+233414.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-29T20:28:40.923
+helpfulCount:
+1
+userID:
+12489315
+Display Name:
+Lori Andrews Carpenter
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2099193.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+easy peasy, lemony, creamy, delish!
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-26T11:05:04.58
+helpfulCount:
+1
+userID:
+1783190
+Display Name:
+Carol Lee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+646
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the ease and the ability to substitute.  I left out the celery and added more cucumber. I also added  leftover guacamole  and pico de gallo. It was yummy.
+Review:
+Rating:
+4
+dateLastModified:
+2013-07-26T08:10:24.82
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was interesting.. I like the taste mostly, but for me I needed more tomato so I doubled that

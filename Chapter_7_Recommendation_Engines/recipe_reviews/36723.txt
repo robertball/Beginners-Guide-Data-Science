@@ -1,0 +1,77 @@
+Recipe number:
+36723.txt
+Review:
+Rating:
+4
+dateLastModified:
+01/29/2003
+helpfulCount:
+2
+userID:
+180720
+Display Name:
+VICMAR
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I made this recipe to add fiber to my families diet and my husband loved it. I recommend this recipe for everyone.
+Review:
+Rating:
+5
+dateLastModified:
+01/29/2003
+helpfulCount:
+2
+userID:
+426263
+Display Name:
+THENNING
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I tried this and it was just great!  Absolutely loved it.
+Review:
+Rating:
+5
+dateLastModified:
+04/18/2003
+helpfulCount:
+2
+userID:
+632348
+Display Name:
+JACKIE14477
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very yummy! I have made this several times and we just love the different texture and what a taste!
+Review:
+Rating:
+3
+dateLastModified:
+05/20/2006
+helpfulCount:
+1
+userID:
+1743573
+Display Name:
+PattyJoy
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I love the taste of cooked whole barley, so this recipe appealed to me.  But, good grief!, it was waaay too involved and time-consuming for what it was.  I just used the ingredients as a guideline, and prepared the whole thing in my rice cooker.  Delicious, and took only a few minutes of prep time and about 55 minutes in the steamer.  MUCH easier!
+Review:
+Rating:
+5
+dateLastModified:
+05/28/2006
+helpfulCount:
+0
+userID:
+1366451
+Display Name:
+HICMNDR
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I love this recipe.  I left out the cheese to make it healthier, and it was wonderful.

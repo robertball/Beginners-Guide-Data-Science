@@ -1,0 +1,75 @@
+Recipe number:
+246540.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-12T22:39:18.95
+helpfulCount:
+1
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really liked this! I made it because my husband was out of town and he can't eat asparagus. My son asked right away that I make it again!
+I had 3/4 lb asparagus so I halved the topping, I used basil for the thyme as I am not a fan.
+The cooking time is way too long though, mine was almost burnt at 25 minutes, 20 minutes would probably be spot on.
+I made this for the Allrecipes Allstar Canada April challenge #ARFaceless
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-17T02:09:11.373
+helpfulCount:
+0
+userID:
+16036419
+Display Name:
+Michelle Seace Traino
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+157
+favoritesCount:
+572
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2412995.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good side dish. will definately make again.

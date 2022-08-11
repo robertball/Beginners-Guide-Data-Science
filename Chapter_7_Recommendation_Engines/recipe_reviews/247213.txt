@@ -1,0 +1,37 @@
+Recipe number:
+247213.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-05T15:58:42.83
+helpfulCount:
+2
+userID:
+17949298
+Display Name:
+lori
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this last night for dinner. As usual, I changed the ingredient list a bit to include what I had on hand. I am sure the original is just as tasty. I used sesame oil and added broccoli and green beans. I didn't have zucchini on hand. I was pleased with the level of spiciness and it has a great flavor.

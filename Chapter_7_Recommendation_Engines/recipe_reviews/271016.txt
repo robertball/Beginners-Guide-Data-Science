@@ -1,0 +1,107 @@
+Recipe number:
+271016.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-31T01:57:36.55
+helpfulCount:
+2
+userID:
+6003093
+Display Name:
+Mkat4545
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+836
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As I am a cook and not a photo critic, I made this dish as directed.  It was delicious and I will defiantly make it again!  Thanks for this recipe
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-05T14:51:56.423
+helpfulCount:
+0
+userID:
+12775091
+Display Name:
+Valerie Beckham
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7320742.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definitely will make again. Used chicken tenderloins cut in 1 inch pieces. Easy recipe
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-01T01:17:51.23
+helpfulCount:
+0
+userID:
+3177008
+Display Name:
+Michael Aylott
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+2687
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2063674.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy reciept, one needs to adjust the spices to taste.  As written it was too bland for me.

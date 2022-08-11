@@ -1,0 +1,72 @@
+Recipe number:
+247207.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-27T00:23:07.123
+helpfulCount:
+1
+userID:
+1171191
+Display Name:
+Phoebe
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+390
+favoritesCount:
+2764
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/572879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+4.5  Pesto and Potato Salad Lovers rejoice!!!  My red potatoes were about the size of a golf ball or smaller so it made no sense to peel them;scrubbed well and sliced after cooking.  Added a small amount of Dijon Mustard and sliced some fresh basil to add with the red onion on the top for garnish and flavour.
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-04T14:54:46.49
+helpfulCount:
+0
+userID:
+1890714
+Display Name:
+Karen Ferrara
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+253
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6189423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious... great summer salad, our favs including fresh basil and potatoes. Did not know how many 10 potatoes would equate to - best to state as weight, therefore, I used 3 lbs of gourmet red potatoes (golf ball sized) and doubled everything else. Also, did not add additional salt since I used store-bought pesto (6 tablespoons = 3 oz) and it was pretty loaded with salt....Was perfect for our needs!

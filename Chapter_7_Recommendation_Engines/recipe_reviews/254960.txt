@@ -1,0 +1,73 @@
+Recipe number:
+254960.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-21T02:30:59.613
+helpfulCount:
+1
+userID:
+23855323
+Display Name:
+Linda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely divine!  If you love goat, this is a great recipe.  I did add some ground pepper at serving of the soup and this may not be the tradition in West Africa but it was fantastic.  Will definitely make this again.  Also used a few more basil leaves as I love basil but did not over power it.  Thought of Anthony Boudain as I enjoyed this soup.  I could see him in West Africa enjoying this one.  Thanks for the great recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-10T17:18:18.843
+helpfulCount:
+0
+userID:
+14321077
+Display Name:
+Alanna Mazekulua
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As a wife of a congolese man; I cook central African food.  This dish was good and would suit anyones spice palate as it is not overbearing. 
+A good introduction to a peanut based African dish.  I would also suggest eating it with fu-fu (similar to polenta).

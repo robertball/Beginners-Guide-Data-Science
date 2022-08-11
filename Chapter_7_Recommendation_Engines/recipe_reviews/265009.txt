@@ -1,0 +1,37 @@
+Recipe number:
+265009.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-06-30T17:13:35.65
+helpfulCount:
+0
+userID:
+13401744
+Display Name:
+DeanM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+469
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for this recipe. I even added 45 minutes to the cooking time and it mad no difference.

@@ -1,0 +1,37 @@
+Recipe number:
+238096.txt
+Review:
+Rating:
+2
+dateLastModified:
+2014-07-26T14:18:01.873
+helpfulCount:
+1
+userID:
+13939367
+Display Name:
+moonkid
+isPro:
+False
+followersCount:
+24
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1267613.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was really good, when the cookies got out of the oven I put wooden sticks in them. When melting the caramel and dipping the cookie in the caramel the cookies slid of the stick, I had really bad difficulty getting the caramel on the cookies, rolling them in the pecans didn't work out so well. I managed to get them all done but it was not the easiest thing in the world, It definitely takes some patience.

@@ -1,0 +1,107 @@
+Recipe number:
+178982.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-12-14T20:12:57.987
+helpfulCount:
+21
+userID:
+2362035
+Display Name:
+jenjenkins
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good and simple recipe.  I had a leftover young chicken, so I used that instead of canned chicken.  The flavor was wonderful, I just might think about using less chicken next time, the broth boiled mostly away before the time was up.
+Review:
+Rating:
+3
+dateLastModified:
+2013-09-01T18:27:05.783
+helpfulCount:
+1
+userID:
+4368963
+Display Name:
+Mark Farmer
+isPro:
+False
+followersCount:
+44
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+134
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2291895.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love chicken soup this was just ok.
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-10T12:37:37.873
+helpfulCount:
+1
+userID:
+8377394
+Display Name:
+Hot Scotch
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/757204.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very simple, yet delicious soup!  I didn't have any celery so I used 2 Tbs. of celery flakes.  I also ended up using 4 cups of chicken broth instead of just under 2.  Over all, this is definitely a soup that I would make again!  Plain and simple!  Love It!

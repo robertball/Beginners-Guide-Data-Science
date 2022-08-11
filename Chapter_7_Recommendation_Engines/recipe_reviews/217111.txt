@@ -1,0 +1,37 @@
+Recipe number:
+217111.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-03-06T00:49:01.287
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+765
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good recipe when you want something easy with minimal ingredients. It's also healthy, so that's a plus. I served mine over zoodles and used Jennie-O Italian turkey sausages with the casing removed (4 = 1lb). I omitted the cornstarch/water because 1) I didn't find it's necessary after simmering the sauce for 30 mins and 2) I don't care for the gelatinous consistency cornstarch often gives food.  To kick up the flavor, add some garlic powder, and use the canned diced tomatoes that come with added seasonings.

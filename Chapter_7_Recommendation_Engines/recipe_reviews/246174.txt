@@ -1,0 +1,107 @@
+Recipe number:
+246174.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-22T12:39:34.253
+helpfulCount:
+3
+userID:
+8498400
+Display Name:
+phil
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is pretty good.  When I make it again, I will use chicken broth in place of the water.  The only real alteration I made was in the amount of chicken used.  I only used 1/2 pound and that was plenty of meat.  A full pound of meat would've been too much in my opinion.  Also, I would leave out the egg yolk.  I don't see how that adds anything to it.  It does need either a flavor packet added or some salt.  I have also made it using beef stew meat, instead of the chicken.  I substituted mushrooms for the peas and carrots and it was great.
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-23T17:11:56.61
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this a lot. The only change I made is that I used fresh carrots instead of frozen. The one suggestion I have is to replace the 4 cups of water with chicken broth. If you you choose to use only water then I recommend adding one of the flavor packets from the ramen. It needs an extra boost of salt/flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-21T18:25:58.023
+helpfulCount:
+1
+userID:
+9550403
+Display Name:
+Jennifer Aleman
+isPro:
+False
+followersCount:
+7278
+followingCount:
+0
+madeRecipesCount:
+207
+favoritesCount:
+831
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6012647.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty soup. I used chicken broth, to enhance the flavor,instead of water. I had never tried Kimchi before and it's delicious, it adds so much flavor to the soup.

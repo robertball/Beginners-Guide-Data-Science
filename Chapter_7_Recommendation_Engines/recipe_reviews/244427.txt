@@ -1,0 +1,72 @@
+Recipe number:
+244427.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-05T18:38:10.403
+helpfulCount:
+3
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious. I would never have thought to use potato chips but I liked it.. kind of like very crunchy hash browns
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-21T14:33:10.413
+helpfulCount:
+1
+userID:
+4984010
+Display Name:
+RonGoings
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+312
+favoritesCount:
+627
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used pork sausage instead of beef

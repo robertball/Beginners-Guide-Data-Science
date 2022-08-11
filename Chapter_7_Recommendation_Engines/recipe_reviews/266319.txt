@@ -1,0 +1,37 @@
+Recipe number:
+266319.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-01T01:30:23.5
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoyed making the dough and filling! I used honeycrisp apples since I couldn't find yellow. It did take mine 30 minutes to brown. This worked great for my lactose intolerant son. Next time I will put this in a baking dish and add extra sugar. I wouldn't mind it a rich sweeter.. Maybe even a few tablespoons of extra brown sugar.

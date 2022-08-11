@@ -1,0 +1,38 @@
+Recipe number:
+233305.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-17T07:51:08.02
+helpfulCount:
+0
+userID:
+4258621
+Display Name:
+c
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was easy to make, and a real crowd pleaser! Also - very pretty. I made it twice, serving to different friends, and it was a solid hit. Letting it sit out before serving for - maybe 10 minutes - makes slicing pieces and serving much easier. 
+I'm ready to branch out with different flavors of ice cream, perhaps Moose Tracks. Or - Mint Chip? My imagination is running wild, and I'm starting to drool in anticipation! LOL

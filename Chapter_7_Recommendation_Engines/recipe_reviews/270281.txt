@@ -1,0 +1,37 @@
+Recipe number:
+270281.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-27T21:39:43.307
+helpfulCount:
+0
+userID:
+3795092
+Display Name:
+virgi
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it and will make again. I will use a little less vinegar next time, though. There is no mention about when to add the bacon to the salad; I would recommend adding it just before serving, so that it remains crispy. Personal preference...

@@ -1,0 +1,72 @@
+Recipe number:
+221924.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-09-30T15:52:49.24
+helpfulCount:
+11
+userID:
+4781281
+Display Name:
+food4thought
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thanks for sharing the tips! love that it's with brown rice.
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-25T14:40:40.547
+helpfulCount:
+2
+userID:
+5762769
+Display Name:
+Diane Schiller
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2533499.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this today for lunch. It was so much better than any vegan roll I've had in a restaurant. I added bamboo shoots, cucumber, sesame seeds and lemon. Next time in going to add jalapeño and cabbage. I didn't have a bamboo roller so I used plastic wrap. It worked great. I think I'm going to have this for dinner too, it was that good. I will add edamame to my dinner though.

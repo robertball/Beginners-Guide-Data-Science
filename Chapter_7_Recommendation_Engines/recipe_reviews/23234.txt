@@ -1,0 +1,122 @@
+Recipe number:
+23234.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/25/2004
+helpfulCount:
+7
+userID:
+1223
+Display Name:
+MattGrac
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These are delicious. I served them as an appetizer at a Christmas party and everyone loved them. A few of these along with a salad would make a great light lunch.
+Review:
+Rating:
+4
+dateLastModified:
+01/25/2004
+helpfulCount:
+6
+userID:
+234773
+Display Name:
+BENO
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+It was great, I premade it and asembled at party heated up and before long they were gone...
+Review:
+Rating:
+5
+dateLastModified:
+01/25/2004
+helpfulCount:
+6
+userID:
+219758
+Display Name:
+KARENKEMP
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe was so easy yet was the best tasting bruchette I have ever tasted...a real winner
+Review:
+Rating:
+5
+dateLastModified:
+01/25/2004
+helpfulCount:
+3
+userID:
+285449
+Display Name:
+Christy Weber Stout
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3321194.jpg
+text:
+These were great - and easy.  Instead of putting the spices in the olive oil, I put about 1 or 2 tablespoons of pesto in the olive oil and brushed that on the bread.
+Review:
+Rating:
+5
+dateLastModified:
+08/24/2009
+helpfulCount:
+2
+userID:
+2322324
+Display Name:
+eileen
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/888038.jpg
+text:
+Mmmm soo good!  Grilled cheese and tomato is my favorite sandwich, and this is like the sexier, grown-up version :) My only stray from the recipe was using grated cheddar cheese.  Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+03/20/2006
+helpfulCount:
+1
+userID:
+827351
+Display Name:
+Caroline C
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1944060.jpg
+text:
+Mmmmmm, these are so delicious! And talk about easy?! Apart from using Viennese bread, I followed the recipe exactly, and they were absolutely perfect. I think I'll be having these for lunch on a regular basis (and I'm going to experiment with different cheeses). Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+12/27/2008
+helpfulCount:
+1
+userID:
+537855
+Display Name:
+cheryl wisniewski
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6143965.jpg
+text:
+My Mom used to always cook this. I attempted to make it on my own several times but failed. Finally, I can make tomato bread like Mom's!!
+Review:
+Rating:
+5
+dateLastModified:
+12/24/2007
+helpfulCount:
+0
+userID:
+2635853
+Display Name:
+Jen L.
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Served this at our family Christmas gathering.  They were gone in a flash.  Will definitely make this again.

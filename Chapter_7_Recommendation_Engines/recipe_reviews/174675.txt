@@ -1,0 +1,107 @@
+Recipe number:
+174675.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-06-24T17:44:26.197
+helpfulCount:
+5
+userID:
+3701759
+Display Name:
+brittanyib
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good.  My husband and I both loved it, and I didn't change a thing other than not using red pepper.  I do think it would be better to add the Italian seasoning to the meat while cooking next time, but otherwise I will keep things the same :)
+Review:
+Rating:
+4
+dateLastModified:
+2009-04-29T16:56:44.42
+helpfulCount:
+5
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+243
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out ok but it was kind of a waste of ground lamb (you couldn't taste that it was lamb at all. Next time, I'll stick with ground beef). The only changes I made were to stir the Italian seasoning and red pepper flakes into the meat mixture, and I also added a little ricotta cheese that needed using up. This was a quick and hearty meal on a chilly evening. Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2013-08-24T07:38:40.877
+helpfulCount:
+1
+userID:
+541834
+Display Name:
+Lisa Altmiller
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+167
+favoritesCount:
+762
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6840434.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good ziti recipe.  We had some ground lamb given to us by a friend and I couldn't figure out what to do with it.  Since this ziti recipe was similar to my own, I figured I'd give it a shot.  My husband and kids enjoyed this.

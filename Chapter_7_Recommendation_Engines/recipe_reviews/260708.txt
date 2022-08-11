@@ -1,0 +1,37 @@
+Recipe number:
+260708.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-11T22:18:27.17
+helpfulCount:
+0
+userID:
+4337314
+Display Name:
+Wes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+1959
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Funny, I could not find this with a search on the allrecipes website, but found it with a google search. Very easy, and makes so much of a difference when using walnuts in a salad. Check nuts after 6 minutes in oven, then recheck every minute. Do not let them burn!

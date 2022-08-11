@@ -1,0 +1,72 @@
+Recipe number:
+212623.txt
+Review:
+Rating:
+1
+dateLastModified:
+2010-01-03T17:27:05.073
+helpfulCount:
+6
+userID:
+4387761
+Display Name:
+lisabentley76
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Chicken would have been better shredded rather than cubed. Cheese was just ok.
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-09T18:27:49
+helpfulCount:
+0
+userID:
+11060571
+Display Name:
+chef boyarmama
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good! the whole family loved it! I did mix my chicken with McCormick fajita seasoning first,then added soup and Monteray jack cheese on top of filling. Hit the spot!

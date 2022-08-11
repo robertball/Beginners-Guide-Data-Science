@@ -1,0 +1,37 @@
+Recipe number:
+247343.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-21T00:51:29.49
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor of this is good, but the texture is just too mushy for me. I baked it for almost 40 minutes, and it was still mushy. I don't mind wet, and slightly mushy regular bread pudding, but with waffles, it just wasn't very appealing to me. I used chocolate chip waffles, which was fine.

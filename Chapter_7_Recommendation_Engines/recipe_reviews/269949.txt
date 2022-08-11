@@ -1,0 +1,73 @@
+Recipe number:
+269949.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-08T20:45:43.253
+helpfulCount:
+0
+userID:
+26253138
+Display Name:
+Edith Salcedo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7130470.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed up until before the cornstarch part and did not have red pepper flakes. It turned out so good anyway! The Asian flavor was subtle and the remaining sauce was really good also on rice. Definitely recommend! I will try with red pepper flakes next time!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-01T02:13:13.967
+helpfulCount:
+0
+userID:
+18020345
+Display Name:
+Maria
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for Sunday family dinner and everyone loved it.
+Shared the recipe and will make it many times again.

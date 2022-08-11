@@ -1,0 +1,62 @@
+Recipe number:
+234696.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/07/2015
+helpfulCount:
+1
+userID:
+1497717
+Display Name:
+DITA
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The recipe is a great base but for more flavour I added red wine and Italian seasoning.....turned out great! Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+07/29/2019
+helpfulCount:
+1
+userID:
+13460724
+Display Name:
+Janet Ferrante
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6472693.jpg
+text:
+Wonderful light summertime spaghetti! A little fresh squeezed lemon juice and parmesan cheese upon serving was exquisite! Will make again!
+Review:
+Rating:
+3
+dateLastModified:
+11/17/2015
+helpfulCount:
+0
+userID:
+paula1
+Display Name:
+Paula
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6485780.jpg
+text:
+I made this exactly by the recipe. In my opinion the spices need to be different. Something in addition to the basil. Perhaps oregano and Italian seasoning maybe? It also needs more than one clove of garlic.
+Review:
+Rating:
+4
+dateLastModified:
+07/28/2016
+helpfulCount:
+0
+userID:
+18043833
+Display Name:
+AMJcooks
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3935013.jpg
+text:
+Basic spaghetti - nothing too spicy. Good way to use some ground chicken. Modifications I made were as follows: used 1t each of basil and Italian seasoning and added a splash of red wine (cab). Also added fresh white mushrooms.

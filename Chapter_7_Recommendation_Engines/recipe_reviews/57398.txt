@@ -1,0 +1,37 @@
+Recipe number:
+57398.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-05-10T12:23:46.417
+helpfulCount:
+7
+userID:
+8712818
+Display Name:
+sweetserenade
+isPro:
+False
+followersCount:
+298
+followingCount:
+0
+madeRecipesCount:
+103
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/787468.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh Yay ... I found a recipe that no one has tried.  These are delicious.  I chopped my cashews into smaller pieces and cooked them just below 250 degrees and they taste like caramel-y pralines only with cashews.  They are wonderful ... I would recommend this recipe to anyone who likes a little sweet & salty taste now and again!

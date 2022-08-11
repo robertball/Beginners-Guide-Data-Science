@@ -1,0 +1,37 @@
+Recipe number:
+242492.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-12T11:58:40.92
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic! I made these with my three year old nephew and he loved "building" them. We added some avocado and topped with kid-friendly salsa. Thank you Paula for your recipe.

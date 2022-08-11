@@ -1,0 +1,37 @@
+Recipe number:
+276658.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-12T00:10:22.56
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and I really liked this but it is definitely not a chili. As written, it is a very soupy soup. The  cauliflower breaks down so if you stir it quite a bit after it is finished, it does help "thicken" but if you want a chili like consistency I recommend reducing the broth to 2 cups. I had never used Quorn prior to this recipe and while not a vegetarian, I really enjoyed the product. This soup was simple to make and had great flavor. I prefer soup consistency over chili but even I will cut down on the broth next time.

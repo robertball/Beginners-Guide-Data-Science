@@ -1,0 +1,37 @@
+Recipe number:
+258211.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-05T15:03:58.43
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fast, delicious, and easy jam that requires no cooking. Too good to be true? Nope. This is very good and doesn't dirty the whole kitchen like normal canning does. Mine thickened like it says it would, to a spreadable consistency. The flavor is just right: a perfect balance between sweet and fruity. I added more pectin on day two-as suggested for a thicker consistency- which I regretted. The result was not much thicker than before but too sweet. Next time, I'll stick to the recipe. It's perfect as is.

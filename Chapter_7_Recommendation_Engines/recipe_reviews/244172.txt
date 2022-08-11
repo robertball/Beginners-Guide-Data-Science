@@ -1,0 +1,37 @@
+Recipe number:
+244172.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-01T01:38:40.17
+helpfulCount:
+3
+userID:
+9954935
+Display Name:
+Jmcdonald1999
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it in a ceramic baking dish without adapting the recipe and we loved it. The bacon added a nice flavor without being overpowering.

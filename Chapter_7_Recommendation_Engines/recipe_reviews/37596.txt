@@ -1,0 +1,37 @@
+Recipe number:
+37596.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-03-12T09:53:13.123
+helpfulCount:
+7
+userID:
+272878
+Display Name:
+karatemonkey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made two of these for a group of teenagers and they loved them! Very easy with a nice presentation, "in the round"

@@ -1,0 +1,37 @@
+Recipe number:
+267350.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-12-04T15:36:47.88
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+6009
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+12.4.18  I followed this recipe to the letter, so I don’t think I did anything wrong, but I ended up with pizza crust that was simply tough, hard, dry, and chewy after cooking for 12 minutes at 425ºF.  This rarely happens, I didn’t even take a photo of it.  Wish I could have given a better review as the first reviewer, but honestly, this was a total disappointment.

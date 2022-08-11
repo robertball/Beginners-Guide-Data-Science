@@ -1,0 +1,37 @@
+Recipe number:
+276280.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-15T16:17:04.473
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Flavor was great but what didn't work for me was the 9x12 baking dish. There was not near enough mixture to cover the bottom, let alone top with another layer. A small loaf pan would work better for this. What I really liked about this recipe is  the small amount of breadcrumb it called for. It had a really nice consistency.

@@ -1,0 +1,73 @@
+Recipe number:
+212403.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-01-27T09:34:50.227
+helpfulCount:
+47
+userID:
+4506373
+Display Name:
+carolyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is good if you are looking for something to satisfy your chocolate craving without all the sugar and calories.  I do not have Stevia Cup for Cup. I used 8 packets of stevia (each equal to 2 tsp. of sugar in sweetness) and 1/6 cup applesauce to make up for the bulk missing by using the packets. I also used plain yogurt instead of buttermilk, light butter instead of unsalted and milk chocolate chips instead of semi sweet (they were the same in calories and only 1 gram of fat more then semi sweet). I like these and will make them regularly.
+Review:
+Rating:
+4
+dateLastModified:
+2011-03-22T19:23:54.77
+helpfulCount:
+3
+userID:
+1782064
+Display Name:
+Bluebell
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+6648
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My brownies were baked in a glass pan so I had to cook then for 8 more minutes than listed for a uniform doneness. I liked that the ingredients seemed pretty healthy - whole wheat, cocoa powder and I added crushed walnuts too. 
+These are cakey brownies, perhaps it's the milk in the recipe, however, my family prefers a gooey brownie with a bit of crust on the outer edges and crusty top. So not my favorite type but decent enough chocolatey flavored brownies.

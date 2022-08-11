@@ -1,0 +1,37 @@
+Recipe number:
+194342.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-05-21T04:27:32.783
+helpfulCount:
+41
+userID:
+1918634
+Display Name:
+Karen
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+65
+favoritesCount:
+460
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were...interesting. The cookies helped to keep your hands clean while eating them, but didn't add much to the dessert itself. The chocolate pudding part was not very flavorful--it was a little understated next to the chocolate and peanuts. If I tried these again, I might add more cream cheese-maybe even double it. For all the effort (I have two little ones-anything over one step is effort!) I'm not sure I'd do them again. They were good, not great. **Update: Originally rated 3 stars, I had to up this to 4 stars b/c I got so many compliments on them. So better than I thought, but still a lot of work.

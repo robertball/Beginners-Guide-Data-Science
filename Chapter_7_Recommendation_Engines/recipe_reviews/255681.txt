@@ -1,0 +1,37 @@
+Recipe number:
+255681.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-05T03:59:11.143
+helpfulCount:
+0
+userID:
+18247339
+Display Name:
+LirylCrovyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a pretty good burger. I made it exactly as written and it came out decent, though next time I think I'll use a little less green onion and add some salt and pepper. I'll definitely be making more of these. Thank you so much for this recipe!

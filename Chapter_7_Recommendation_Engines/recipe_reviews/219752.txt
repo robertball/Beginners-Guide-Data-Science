@@ -1,0 +1,72 @@
+Recipe number:
+219752.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-03-14T12:38:50.45
+helpfulCount:
+2
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I threw in a good measure of homemade taco seasoning and used black beans instead of pinto beans. I actually threw everything into the crockpot and cooked it on low for most of the day. The little kids liked it but my husband and I didn't really care for it. It reminds me of taco dip, which is okay if you are eating taco dip but not so much if you want soup.
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-29T16:43:06.22
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. I did throw in a packet of taco seasoning in my beef because I felt it needed it to give it a true taco flavor. Honestly, I thought this tasted AND looked better before adding the cheese. If I were to make this again, I'd leave out the Velveeta and just garnish with shredded cheddar. Oh and I added some sliced black olives and that was a nice touch.

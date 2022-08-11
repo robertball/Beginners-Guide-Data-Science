@@ -1,0 +1,109 @@
+Recipe number:
+254444.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-12T03:54:38.747
+helpfulCount:
+0
+userID:
+22732507
+Display Name:
+Judy Macdonald
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4721105.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a slushy version of this drink at a restaurant and loved it. Was very happy to find this recipe. I used a full pineapple and adjusted ingredients accordingly. As I prefer less sweet I omitted the sugar, triple sec and almond syrup. 
+I put the grilled pineapple, rum, ice cubes and squeezed lime juice into a blender. Had this as a slushy and also tried it as a tall drink by adding lime sparkling water and quartered limes to the slushy mix. 
+Loved the flavor and will make this again.  As the rum is already mixed in, any leftovers can be put in the freezer and it will remain in slushy form.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-12T12:26:10.13
+helpfulCount:
+0
+userID:
+11932396
+Display Name:
+Fmaddogs Lady
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5097429.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so good I had this in Hawaii
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-01T20:47:39.43
+helpfulCount:
+0
+userID:
+1594188
+Display Name:
+foodelicious
+isPro:
+False
+followersCount:
+787
+followingCount:
+0
+madeRecipesCount:
+137
+favoritesCount:
+742
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6934504.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm normally not a big fan of mai tai cocktails, but this was just so interesting with the grilled fruit that I had to try it. It was so good, I'd definitely make it again for a party.

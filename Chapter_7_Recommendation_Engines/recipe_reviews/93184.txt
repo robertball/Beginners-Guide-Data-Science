@@ -1,0 +1,49 @@
+Recipe number:
+93184.txt
+Review:
+Rating:
+1
+dateLastModified:
+12/08/2009
+helpfulCount:
+2
+userID:
+3423163
+Display Name:
+Cheryl
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Mushy & tasteless!
+Review:
+Rating:
+3
+dateLastModified:
+11/16/2008
+helpfulCount:
+2
+userID:
+h1p1n3
+Display Name:
+Nik Louvros
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I was not really pleased with this recipe. It not taste bad, however it was not good. It did have a nice presentation however. I would imagine if you made this for a group of people you would have no complaints, but no leftovers, because once they get cold they do not taste good at all.
+
+*note: I did not alter this recipe at all in any way.
+Review:
+Rating:
+4
+dateLastModified:
+01/16/2006
+helpfulCount:
+2
+userID:
+josmith
+Display Name:
+JoSmith
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3704172.jpg
+text:
+These were great! They make great snacks for game night and poker night and are super easy to fix.

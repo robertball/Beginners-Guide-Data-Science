@@ -1,0 +1,325 @@
+Recipe number:
+244224.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-15T16:35:53.96
+helpfulCount:
+1
+userID:
+1798487
+Display Name:
+Kimberley Forsythe
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6536726.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only change I made was with the milk. I didn't have enough fresh milk, so I mixed in powdered milk, a bit of cold water, and ice cubes, to thicken it up a bit more. That's the only reason I gave it 4 stars. I like my smoothies thick and frosty. So good and no added sugar, which is definitely a plus for me! My kids loved it, too, even my daughter who has a sweet tooth didn't ask to sweeten it any more.
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-16T15:33:19.033
+helpfulCount:
+1
+userID:
+4145740
+Display Name:
+Lake Erie Cooker
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used hot milk and it was a delicious evening snack drink on a cold winter night. Thanks
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-11T09:01:09.873
+helpfulCount:
+1
+userID:
+9625532
+Display Name:
+Megan Riley
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+707
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't change anything and loved it as is!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-26T15:19:54.857
+helpfulCount:
+0
+userID:
+24182144
+Display Name:
+Ashlie Tharrington
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5719075.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious!!!! I’ll be making this daily!!!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-13T17:07:00.143
+helpfulCount:
+0
+userID:
+12269449
+Display Name:
+Me!-
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy. I used almond butter
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-10T18:11:07.617
+helpfulCount:
+0
+userID:
+21256620
+Display Name:
+Taylor Miller
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4449615.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+One of my favorites. I changed it a bit though: 
+1 cup unsweetened almond milk
+1 banana (not frozen)
+2 tablespoons almond butter
+2 tablespoons rolled oats
+2 teaspoons unsweetened cocoa powder
+1000mg  cinnamon 
+1 tablespoon coffee flavored or chocolate protein powder
+5 to 6 ice cubs
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-14T13:59:07.267
+helpfulCount:
+0
+userID:
+7786305
+Display Name:
+Francis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+423
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used all organic ingredients in this turned out amazingly delicious
+Review:
+Rating:
+1
+dateLastModified:
+2016-02-08T06:25:59.923
+helpfulCount:
+0
+userID:
+17465183
+Display Name:
+ilovebaking
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For me, unsweetened cocoa powder made this smoothie taste like medicine.
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-08T10:07:06.24
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect for post-workout or a quick on-the-go breakfast. I used almond milk as suggested in the Cook's Notes and subbed stevia for the honey. Delicious!

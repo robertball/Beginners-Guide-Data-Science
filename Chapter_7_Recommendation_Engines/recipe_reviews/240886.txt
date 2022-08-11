@@ -1,0 +1,37 @@
+Recipe number:
+240886.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-07T13:36:00.17
+helpfulCount:
+3
+userID:
+14372254
+Display Name:
+rick lee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used a pound of baby octopus instead on one small one. Added cherry tomatoes, 11 olives. Then added a little olive oil and vinegar salad dressing to give it a little mor oomf at the very end right before the feta. Trying a reviewless recipe that had no pictures, I was a little hesitant. This turned out great though!

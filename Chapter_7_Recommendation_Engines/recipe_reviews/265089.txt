@@ -1,0 +1,37 @@
+Recipe number:
+265089.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-23T17:10:00.297
+helpfulCount:
+0
+userID:
+1310460
+Display Name:
+Veronica M. Robinette
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+348
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2561610.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an extremely easy recipe and very tasty.  I made it basically how it’s stated except I added some garlic and Italians herbs to the sauce.   I also just baked it for about 20 minutes at 350 instead of broiling it. Will definitely again!

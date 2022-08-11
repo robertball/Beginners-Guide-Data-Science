@@ -1,0 +1,72 @@
+Recipe number:
+260247.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-08T03:55:48.09
+helpfulCount:
+0
+userID:
+13458286
+Display Name:
+Real Deal Cookie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+173
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It’s a tad sweet for me but it was tasty.  Next time out I might add some heat to the mix
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-08T03:14:29.987
+helpfulCount:
+0
+userID:
+23124177
+Display Name:
+Lee Zheng Han
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4953575.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very Easy to make. good for amateurs like me

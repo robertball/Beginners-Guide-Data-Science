@@ -1,0 +1,37 @@
+Recipe number:
+245202.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-24T11:55:53.207
+helpfulCount:
+0
+userID:
+16794589
+Display Name:
+Kitty Kat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+AWESOME AWESOME it tasted so so GOOD

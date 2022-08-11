@@ -1,0 +1,76 @@
+Recipe number:
+83503.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-07-19T11:18:42.917
+helpfulCount:
+12
+userID:
+2266305
+Display Name:
+Joann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love to take recopies and either alter them to suit my tastes or to what I already have in the kitchen.   For this recipe I used everything the same but excluded the lime leaves and lemon glass because I did not have any on hand.  I also served this over noodles and used left over whole roasted chicken cut up into pieces.  
+
+It was great!  The only concern: salt.  I used Knorr Tamarind Soup Base (which I get at my local Vietnamese store) which has great flavor but is salty.  The broth was a bit salty at first, but once I added the tomatoes and chicken the salt was absorbed for the most part.  You could taste it and throw in a half a potato for a few minutes to absorb more of the salt – just be careful not to cook the potato to mush. 
+
+This is much better than what they serve in many restaurants, it does not have that thick syrupy texture, plus you know it is fresh!
+Review:
+Rating:
+4
+dateLastModified:
+2010-08-28T17:56:13.87
+helpfulCount:
+8
+userID:
+3140003
+Display Name:
+Scott
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great soup. It was tough to find the Tamarind soup base, but it's a must for this recipe. Also, instead of adding the rice at the beginning, I cooked vermicelli noodles separate. Once the soup was ready, I put the noodles in bowls and added the soup to each bowl, and served.

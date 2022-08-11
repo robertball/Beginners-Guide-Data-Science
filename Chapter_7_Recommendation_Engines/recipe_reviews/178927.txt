@@ -1,0 +1,37 @@
+Recipe number:
+178927.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-07-15T05:19:58.47
+helpfulCount:
+4
+userID:
+666786
+Display Name:
+BELLALUNA*
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+152
+favoritesCount:
+213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6439757.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been looking for main dish recipies that contain fruit, as it is a nice change from meat-and-veg recipies.  This is absolutely delicious, and the kids especially love the fruit.  As always, I was looking for recipies at 5 pm, so instead of marinating the chicken, I just baked it drizzled in olive oil and s&p, then added the relish & almonds right before serving.  I also toasted the almonds while the chicken was baking.

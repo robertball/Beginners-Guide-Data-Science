@@ -1,0 +1,107 @@
+Recipe number:
+240988.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-18T15:44:32.053
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9644
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2252
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except for the jack portion of the cheese I used half monterey jack and half pepper jack to give it some extra kick. This was excellent! The one problem I did have was that this gets thick and quick. I ended up using a lot more half and half to thin it down. When I make this again I'll use only half and half instead of the whipping cream/half and half combo. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-26T17:38:55.66
+helpfulCount:
+0
+userID:
+11014035
+Display Name:
+Mindy Coleman
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1521268.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it as is, mild flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-11T15:13:33.17
+helpfulCount:
+0
+userID:
+10104142
+Display Name:
+Sandra Dawn Davis
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3840367.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A crowd pleaser!

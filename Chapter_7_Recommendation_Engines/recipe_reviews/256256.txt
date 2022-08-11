@@ -1,0 +1,37 @@
+Recipe number:
+256256.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-30T16:13:57.61
+helpfulCount:
+0
+userID:
+23324212
+Display Name:
+ koki yang baik
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+amazing recipe

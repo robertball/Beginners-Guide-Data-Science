@@ -1,0 +1,39 @@
+Recipe number:
+237863.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-16T06:21:49.003
+helpfulCount:
+0
+userID:
+16405283
+Display Name:
+MacNutz2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7024393.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like this. I have cut out much of the butter and fat in the diet so was pleased to find this. I suspect I will make minor alterations but I am pleased with the first result. Now comes the wife test.
+
+The molasses was a little strong for my tastes but I expect that doubling the spices will take care of that.

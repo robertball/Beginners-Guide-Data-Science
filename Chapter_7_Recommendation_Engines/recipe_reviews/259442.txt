@@ -1,0 +1,37 @@
+Recipe number:
+259442.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-21T23:24:36.293
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While waiting on the peppers, I decided to grill my corn so that it would have a nice char on it but that was the only change I made. If you have time, I recommend doing this. It adds a whole other dimension of flavor. I really liked the creme fraiche this one called for instead of the typical mayo like you see in others. This is good and is one I would make again.

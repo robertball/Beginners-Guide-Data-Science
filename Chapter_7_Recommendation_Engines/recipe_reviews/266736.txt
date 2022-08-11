@@ -1,0 +1,37 @@
+Recipe number:
+266736.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-05T22:33:57.417
+helpfulCount:
+0
+userID:
+11075124
+Display Name:
+fmp
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+477
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added more almonds than the recipe calls for because 2 T didn't seem like enough.  Also added a little garlic.  This is a quick and easy summer time side dish.

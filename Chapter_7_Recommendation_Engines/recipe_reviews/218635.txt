@@ -1,0 +1,37 @@
+Recipe number:
+218635.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-23T18:11:53.307
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+774
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3991
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow! I love the flavor the apple gives to this grilled cheese! All three flavors of cheese, bacon, and apple complement each other so well. I didn't have a panini press, so I used a grill pan and just flipped the sandwich. Next time, I will probably just slice the cheese rather than grate it since it's easier and less messy.

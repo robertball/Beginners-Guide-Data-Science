@@ -1,0 +1,37 @@
+Recipe number:
+273703.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-18T00:11:12.217
+helpfulCount:
+0
+userID:
+25414935
+Display Name:
+Sandra DeSantis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6529331.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty but strawberries were runny. Needed thickening. I added minute tapioca and reheated, then cooled.

@@ -1,0 +1,47 @@
+Recipe number:
+272401.txt
+Review:
+Rating:
+5
+dateLastModified:
+04/23/2019
+helpfulCount:
+1
+userID:
+13111245
+Display Name:
+subrower
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Simple and delicious recipe. I made it according to the instructions except I only had Dijon mustard in the house. My chicken thighs were skinless and boneless. The oven time was spot on and I let the chicken rest about ten minutes before serving with saffron rice and chopped green onions for garnish. Will definitely make again. Thanks Chef Mo.
+Review:
+Rating:
+5
+dateLastModified:
+05/31/2019
+helpfulCount:
+0
+userID:
+20701820
+Display Name:
+solveg
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I tasted the sauce before I cooked off the alcohol and was nervous because it was bright and sharp but the bourbon/mustard/marmalade combo once cooked down was super interesting and complex. I will make again because it was basically a measure-dump-cook meal that was delicious. Some nights you just don t feel like food prep.
+Review:
+Rating:
+2
+dateLastModified:
+06/08/2020
+helpfulCount:
+0
+userID:
+22976320
+Display Name:
+susan koch
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Too sweet!

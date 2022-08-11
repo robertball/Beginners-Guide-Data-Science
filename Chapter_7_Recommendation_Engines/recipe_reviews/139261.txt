@@ -1,0 +1,37 @@
+Recipe number:
+139261.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-08-21T10:35:38.467
+helpfulCount:
+19
+userID:
+2397666
+Display Name:
+K.Miller
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added peach vodka and triple sec to taste - soaked this mixture with cubed fresh peaches and apples overnight - then combined with the remaining ingredients right before serving.  Was also easy and fun to take camping!

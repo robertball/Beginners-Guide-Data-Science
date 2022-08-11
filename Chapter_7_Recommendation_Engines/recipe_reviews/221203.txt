@@ -1,0 +1,37 @@
+Recipe number:
+221203.txt
+Review:
+Rating:
+2
+dateLastModified:
+2012-04-21T19:07:57.123
+helpfulCount:
+7
+userID:
+9181678
+Display Name:
+Bakingmaster
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe wasn't what I expected at all! It didn't taste bad but it certainly wasn't an ice cream cake. It was basically a regular cake with ice cream substituted for milk. It tasted like pancakes rather than a cake! I will most likely not make it again.

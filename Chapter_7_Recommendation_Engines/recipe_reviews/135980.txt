@@ -1,0 +1,37 @@
+Recipe number:
+135980.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-09-28T14:57:04.253
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+AWESOME! I used the TACO BELL EXTREME Taco dinner w/ the red taco shells, which the little guy got the biggest kick out of, lol, and just bought flour tortillas. The whole family devoured these! A winner, winner taco dinner! Served with the mexican-style rice recipe that was on the back of the box (1 cup rice, 1/2 cup salsa (I used med.) and 1/2 cup shredded cheddar), which we also enjoyed. Definately be miking these again! Thanks for sharing. :)

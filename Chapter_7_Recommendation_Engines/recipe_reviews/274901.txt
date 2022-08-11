@@ -1,0 +1,37 @@
+Recipe number:
+274901.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-10T01:29:37.397
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are good but I do have one recommendation. Pre-cook your bacon on a foil lined sheet for 10 minutes in your oven at 400 degrees F. This way your bacon gets good and crisp on the grill without overcooking your mushrooms, there is still plenty of grease left to be rendered to soften and flavor the mushrooms, and yet enough grease has already rendered out that it won't set the grill a blaze. With that said, these are simple and have plenty of flavor.

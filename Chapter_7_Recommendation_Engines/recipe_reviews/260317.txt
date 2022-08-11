@@ -1,0 +1,37 @@
+Recipe number:
+260317.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-29T14:31:18.047
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! I've never had any luck in folding corn tortilla's without them tearing in half so I used mini tortilla's and piled it all on top instead. These came out really good and the tortilla's crisped up real nice. Doing them the way I did them I was afraid they would be soft and just fall apart when we went to pick them up  but they held together like a pro. Thanks for sharing this healthier version!

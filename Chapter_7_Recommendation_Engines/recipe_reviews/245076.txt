@@ -1,0 +1,72 @@
+Recipe number:
+245076.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-18T23:02:37.467
+helpfulCount:
+0
+userID:
+22876330
+Display Name:
+Tom
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4605137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for dinner tonight and served it with a sour cream and feta cheese dipping sauce.  I did add some onion powder to the pepper sauce, cut the chicken amount in half but kept the amount of the sauce the same. I served it along with a salad with Asaian cucumber vinaigrette and bleu cheese.  I was surprised it  wasn't as spicy as I expected.
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-12T11:15:12.977
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe. I served some as written and some with the sauce on the side for dipping. The sauce is really good over rice and veggies too. :-) Thank you for the recipe.

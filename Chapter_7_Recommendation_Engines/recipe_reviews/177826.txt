@@ -1,0 +1,37 @@
+Recipe number:
+177826.txt
+Review:
+Rating:
+2
+dateLastModified:
+2008-11-06T06:09:07.083
+helpfulCount:
+5
+userID:
+1358019
+Display Name:
+Nick Nicotero
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2928966.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was edible (which is why I gave it 2 stars), but I did not care for it.  The flavor of the soup does not match the salsa at all.

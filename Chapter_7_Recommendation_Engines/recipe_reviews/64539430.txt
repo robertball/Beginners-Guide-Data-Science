@@ -1,0 +1,37 @@
+Recipe number:
+64539430.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-18T17:47:25.63
+helpfulCount:
+0
+userID:
+5096377
+Display Name:
+Cindy
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+354
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/538580.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loves this recipe. It's not too spicy, but just the right amount of kick. The extra fresh garlic on top is amazing.

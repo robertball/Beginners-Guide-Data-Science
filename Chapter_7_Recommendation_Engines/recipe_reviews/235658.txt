@@ -1,0 +1,37 @@
+Recipe number:
+235658.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-24T19:23:07.07
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just had this for lunch over some rice noodles.. delicious. I used jarred red pepper because I forgot to buy fresh. I marinated this for a couple of days in the fridge... it mellows out a lot so don't be alarmed when you taste it right away

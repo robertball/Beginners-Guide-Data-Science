@@ -1,0 +1,180 @@
+Recipe number:
+270809.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-28T17:40:08.84
+helpfulCount:
+0
+userID:
+26580422
+Display Name:
+Jennifer Lucky
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7378799.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+first bread recipe I've made at altitude that has actually turned out well!
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-16T18:07:01.13
+helpfulCount:
+0
+userID:
+17166169
+Display Name:
+Barbara Young Paden
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3056310.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We live at 6000 feet. Made the recipe as-is and it was ok. The dough was a bit hard to work with. The second time we added a tsp of the sugar to the yeast-water mixture. Much more satiny dough. After rising, we shaped the loaf on an oiled surface, not floured. It worked out better for us. A more fluffy bread. We started with brand new yeast both times. Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-15T19:22:00.997
+helpfulCount:
+0
+userID:
+12385782
+Display Name:
+Mollie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1359109.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! Super easy and so fun. I substituted canola oil as that was the only oil I had on hand. I will definitely make this again and grab some coconut oil for next time!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-10T15:59:46.537
+helpfulCount:
+0
+userID:
+25682730
+Display Name:
+Stephen Grund
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7100925.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe. I live at 8500 ft. and this turned out wonderful.
+I did decrease the yeast by 1/2 tsp. and increased flour and liquid by 2 tbs.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-19T02:48:02.28
+helpfulCount:
+0
+userID:
+8238727
+Display Name:
+Dennis Sweeney
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3227787.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Did as written , came out great . 
+
+Thank you

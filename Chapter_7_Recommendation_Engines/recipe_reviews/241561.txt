@@ -1,0 +1,37 @@
+Recipe number:
+241561.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-09T11:54:52.237
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2832
+favoritesCount:
+1847
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a luscious sauce that deserves to be paraded alongside a good meat or fish. It certainly deserved more than my measly hot dog, but it primped it like nobody's business. So, for taste it is a 5-star treat. However, I have a different definition of easy. I had to toss out the my first attempt because I got scrambled eggs. I tried using a double boiler and that helpd keep the eggs from cooking. Reminder: Low and Slow. I used a hand ground mustard which is a bit less potent than the typical Coleman's.

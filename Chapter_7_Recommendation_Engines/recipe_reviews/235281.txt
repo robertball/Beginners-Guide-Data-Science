@@ -1,0 +1,107 @@
+Recipe number:
+235281.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-10T05:45:23.85
+helpfulCount:
+3
+userID:
+2753412
+Display Name:
+Lucky Noodles
+isPro:
+False
+followersCount:
+296
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+2823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/60059.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Interesting drink!  I used Jamacian rum so I cut the rum in half.  Great on a cold day! #AllrecipesFaceless #MyAllrecipes
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-10T00:12:14.44
+helpfulCount:
+2
+userID:
+3429428
+Display Name:
+Thomas Bromley
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2132569.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy... very good. I used Cpt. Morgan's Spiced Rum and 2% milk.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-16T02:07:27.873
+helpfulCount:
+2
+userID:
+13555086
+Display Name:
+Emily DeCamillo
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to customize but lacks a bit of fullness. I might try whole milk or adding some creamer.

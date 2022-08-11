@@ -1,0 +1,37 @@
+Recipe number:
+255116.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-05T16:16:07.137
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6898
+followingCount:
+0
+madeRecipesCount:
+2653
+favoritesCount:
+3308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+AWESOME! This is such a great idea. Fun and super easy to make! The kids (and hubby, lol) went crazy for these. Great balance. I will def be making these again and again~YUM!!!! Thanks for sharing. :)

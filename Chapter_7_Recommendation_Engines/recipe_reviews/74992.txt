@@ -1,0 +1,107 @@
+Recipe number:
+74992.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-07-10T23:47:55.42
+helpfulCount:
+23
+userID:
+734850
+Display Name:
+LOISINOR
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My whole family liked this salad.  We grew swiss chard in our garden this Summer and I was looking for ways to get my kids to enjoy eating it.  This salad really fit the bill.  The bright colors are a real bonus.
+Review:
+Rating:
+4
+dateLastModified:
+2007-07-20T14:07:56.767
+helpfulCount:
+15
+userID:
+2425718
+Display Name:
+Stephen M.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Such a simple recipe!  But I didn't have red peppers...so I tried chopped up carrot.  Not as colourful as red peppers, but nice and crunchy.  My wife liked it and took all the leftovers to work in the morning.  If you want to try the carrots, the sweetness of the carrots goes nicely with a balsamic vinaigrette (with a touch of honey).
+Review:
+Rating:
+2
+dateLastModified:
+2010-07-20T16:41:11.907
+helpfulCount:
+14
+userID:
+2352148
+Display Name:
+Lyn Galiote
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+96
+favoritesCount:
+498
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7633372.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't know if I didn't slice the chard thinly enough, but this salad was really work to eat.  The chard was so tough that neither my husband or I finished our serving.  I wouldn't make this one again.

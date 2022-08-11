@@ -1,0 +1,37 @@
+Recipe number:
+256080.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-30T06:55:14.81
+helpfulCount:
+0
+userID:
+22474726
+Display Name:
+Ashley Mullin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All in all a pretty good recipe. I used it as a dessert, it’s almost a healthy alternative to most apple desserts. Very quick and easy to prepare as well, though cooking time is a fair amount.

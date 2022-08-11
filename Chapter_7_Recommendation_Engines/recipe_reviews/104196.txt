@@ -1,0 +1,72 @@
+Recipe number:
+104196.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-08-10T19:39:57.403
+helpfulCount:
+0
+userID:
+2010920
+Display Name:
+AkCate
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/10.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious. Make sure to leave set for AT LEAST an hour. Use lots of seasonings, whatever you have on hand. I used a bit of lemon pepper and others. Great flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2006-06-01T15:58:07.403
+helpfulCount:
+0
+userID:
+1794519
+Display Name:
+Thelma Diekfuss
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+150
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/514194.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was real good. I let it marinate all afternoon.The family said it was real good.

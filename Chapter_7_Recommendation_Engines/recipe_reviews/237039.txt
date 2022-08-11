@@ -1,0 +1,145 @@
+Recipe number:
+237039.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-09T19:06:50.273
+helpfulCount:
+1
+userID:
+2779139
+Display Name:
+herzeleid
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+66
+favoritesCount:
+352
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is surprisingly delicious.  We made this with Australian Barramundi fish which Costco labels as "a sustainable sea bass".  The recipe says to brown the fish before adding the sauce, we tried this and the fish would not brown.  So, we took the fish out of the pan, heated up some olive oil, and then browned the fish in the oil.  I have never had ouzo, but we used Ricard--a French anise flavored liqueur.  We believe that more could have been used in the sauce.
+
+This will definitely be made again and undoubtedly put into a regular rotation in our home.
+Review:
+Rating:
+2
+dateLastModified:
+2019-07-12T14:52:08.157
+helpfulCount:
+0
+userID:
+4903335
+Display Name:
+UbbenZoo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is probably really good if you like licorice, but alas, my family does not. sorry... i wasn't familiar with ozou or anise or i would've gone with a different recipe.
+Review:
+Rating:
+2
+dateLastModified:
+2016-11-29T00:27:59.317
+helpfulCount:
+0
+userID:
+13145981
+Display Name:
+Gene W
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We didn't care for this recipe.  I made it as written except I used cod.  I bought the Asian fish sauce and the ouzo (which I shouldn't  have as I already have anisette and sambuca.)
+This was very salty due to the Asian fish sauce, and I didn't care for the smell.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-19T15:21:06.26
+helpfulCount:
+0
+userID:
+6210369
+Display Name:
+Jim Borstock
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6620250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made a minor change,  added raw garlic, about 1 teaspoon and used 'Wild Flower Pure Raw Honey".  Awesome!  Will definitely make this again.

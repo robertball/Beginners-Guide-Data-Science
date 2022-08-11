@@ -1,0 +1,72 @@
+Recipe number:
+22257.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-03-31T16:39:47.56
+helpfulCount:
+1
+userID:
+288131
+Display Name:
+MuggsieO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If one has a food processor, this recipe is one of the quickest and tastiest! It also tastes great warmed up. I use canned chicken breast and garlic seasoned chicken broth to make it even quicker to make. This is one of my favorites.
+Review:
+Rating:
+5
+dateLastModified:
+2001-12-14T15:54:54.217
+helpfulCount:
+0
+userID:
+366747
+Display Name:
+Anne L.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup was SO good and easy to make. I am NOT a "soup maker" but this recipe proved that I am!!

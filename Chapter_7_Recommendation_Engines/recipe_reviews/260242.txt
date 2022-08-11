@@ -1,0 +1,107 @@
+Recipe number:
+260242.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-09T00:55:22.337
+helpfulCount:
+0
+userID:
+23652420
+Display Name:
+Sandi Fentiman
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+127
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5414645.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! I didn't have the raspberries, so I used a package of frozen blueberries. But it tasted great anyways. I'm definitely making this with the right fruit again.
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-28T03:14:38.823
+helpfulCount:
+0
+userID:
+11502120
+Display Name:
+TeaLover767
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4496875.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the green smoothie first - it was tasty, but I will omit the kiwi next time - the seeds were ground up finely, but made it kind of grainy. I left out the pear, but will replace the kiwi with that. Lightly sweet (I added 1 Tbsp honey rather than 3).
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-27T23:58:25.377
+helpfulCount:
+0
+userID:
+15983402
+Display Name:
+Donna Jackson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+226
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3355243.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made the red smoothie just like the recipe. Delicious! Yes, I will make it again.

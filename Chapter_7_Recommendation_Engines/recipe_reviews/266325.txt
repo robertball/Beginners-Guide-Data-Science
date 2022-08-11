@@ -1,0 +1,72 @@
+Recipe number:
+266325.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-21T02:55:32.56
+helpfulCount:
+0
+userID:
+15199003
+Display Name:
+Gregory Ortiz
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Kristi, was looking for a twist to my stir fried rice recipe. Thanks to you I pegged it. You Rock. Thank you so much
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-04T06:24:42.567
+helpfulCount:
+0
+userID:
+24875257
+Display Name:
+Gilbert Perez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added some steak (Angus Beef Steak) and I came out so good if you follow the recipe exact it comes out perfect, and that's because I like to add extra and I didn't it was so good.

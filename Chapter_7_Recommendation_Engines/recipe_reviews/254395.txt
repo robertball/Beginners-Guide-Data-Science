@@ -1,0 +1,74 @@
+Recipe number:
+254395.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-21T05:45:53.803
+helpfulCount:
+0
+userID:
+20501908
+Display Name:
+Wendy Huntsman
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3992662.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I couldn't find any Recaito or cilantro seasoning bases. I just added some mild green salsa and a bit of cilantro. It turned out pretty good but I wonder what it would taste like with the Recaito. Wish it was easier to find! 
+
+But thanks for the plant-based protein recipe. :) I love that about this dish!
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-03T01:29:35.9
+helpfulCount:
+0
+userID:
+4745280
+Display Name:
+BRG
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+841
+favoritesCount:
+1544
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe had good flavor and made a nice side dish to a spicy sandwich. I added 1 cup of water to cook the quinoa, as the OJ would not have been enough liquid by itself.

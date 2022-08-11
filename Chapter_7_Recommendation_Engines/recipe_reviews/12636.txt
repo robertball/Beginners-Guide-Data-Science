@@ -1,0 +1,37 @@
+Recipe number:
+12636.txt
+Review:
+Rating:
+1
+dateLastModified:
+2008-06-08T02:44:18.883
+helpfulCount:
+21
+userID:
+1436326
+Display Name:
+MARRIEDTOAGREEK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+421
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/18.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This tastes way too much like cornstarch, in fact it tastes like wet sweet cornstarch.  I am not big on poor reviews, but this is a big waste of egg yolks and time.  I had to start over with another pastry cream recipe and add white chocolate.  Sorry, it could not even be salvaged.

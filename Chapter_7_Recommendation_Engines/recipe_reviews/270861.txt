@@ -1,0 +1,37 @@
+Recipe number:
+270861.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-14T21:42:03.28
+helpfulCount:
+1
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The Instant Pot®certainly speeds up the process of these tasty enchiladas. I used a blend of Monterey Jack and cheddar cheese. I didn't have red sauce on hand so I used only green nontheless these are keepers.

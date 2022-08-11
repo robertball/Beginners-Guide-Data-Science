@@ -1,0 +1,37 @@
+Recipe number:
+266536.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-02T21:41:20.76
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used these tasty little meatballs and the dipping sauce to make mini meatball sliders.  Aside from increasing the greek seasoning to 2 tsp I made as written and will do so many more times in the future.  If you enjoy things a little bit out of the box then this is a must try!  The few leftovers I had got crumbled into a salad along with the extra kalamatas and feta some cucumbers and tomato and a hummus ranch dressing.  So perfect for a light dinner.

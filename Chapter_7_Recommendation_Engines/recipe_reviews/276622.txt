@@ -1,0 +1,107 @@
+Recipe number:
+276622.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-27T21:24:09.453
+helpfulCount:
+0
+userID:
+24049057
+Display Name:
+Eric S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty recipe but it took 45 minutes to cook in the oven. I used a glass casserole dish so perhaps that's why.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-21T23:28:45.223
+helpfulCount:
+0
+userID:
+26410487
+Display Name:
+Nancy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy!  Made it twice already.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-11T04:32:40.943
+helpfulCount:
+0
+userID:
+18154057
+Display Name:
+Apctaz Smith
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+392
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3648268.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe extremely tasty and filling.   My family loved it ate it all in one sitting.

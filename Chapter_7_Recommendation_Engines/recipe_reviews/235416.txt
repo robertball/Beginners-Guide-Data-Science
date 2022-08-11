@@ -1,0 +1,109 @@
+Recipe number:
+235416.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-08T17:56:15.453
+helpfulCount:
+2
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This bread came out very well. I made the dough in my bread maker and then let rise for a half hour and then baked for 30 minutes at 350. I had to add about another 1/3 cup of water to the dough when mixing, but that happens when making bread sometimes. I upped the yeast to 2 tsp as the amount called for seemed like a small amount for whole wheat bread. I loved that this bread was not crumbly, even several days later. Thanks to the submitter for a nice whole wheat bread recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-03T00:27:06.603
+helpfulCount:
+0
+userID:
+1740116
+Display Name:
+sansu
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+150
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thanks for this awesome recipe. In our home we enjoy it every day.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-24T01:04:35.11
+helpfulCount:
+0
+userID:
+10374865
+Display Name:
+Ruth Anastacia Adamcik
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1135043.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a simple whole-wheat bread that has a mild sweet and sour taste which I really liked.  The texture is hearty but not dense. I'll definitely make it again!
+
+Most of this loaf is going to be made into vegan stuffing for a Thanksgiving potluck. I substituted vegan spread (Earth Balance "Original") for the butter in the recipe. It had no effect on the delicious flavor of this bread.

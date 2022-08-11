@@ -1,0 +1,72 @@
+Recipe number:
+245788.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-25T08:22:18.323
+helpfulCount:
+2
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1060
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've always made mine with 12 oz of lemon lime soda added as well as beer, but this was extremely enjoyable!  They weren't as sweet due to the lack of sprite, and that isn't a bad thing.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-26T19:30:17.18
+helpfulCount:
+0
+userID:
+1767998
+Display Name:
+Tamara
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+188
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2424056.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very refreshing! Not too sweet nor too sour. I only added 3 beer and squeezed fresh lime and added rounds of lime for appeal :)

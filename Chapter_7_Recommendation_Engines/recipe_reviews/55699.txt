@@ -1,0 +1,72 @@
+Recipe number:
+55699.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-04-24T07:40:28.91
+helpfulCount:
+3
+userID:
+824778
+Display Name:
+Anna Cepeda
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4447311.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added chopped fresh cilantro to the dumplings and used my own seasonings and water instead of beef broth.  Family loved it!
+Review:
+Rating:
+4
+dateLastModified:
+2004-09-20T06:36:16.013
+helpfulCount:
+0
+userID:
+827046
+Display Name:
+NSJOLIN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+144
+favoritesCount:
+207
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was very good.  The meat was delicious.  My only complaint was that the cornbread was a little bland, even with the onions.  I think next time I will add some garlic or onion salt to the bread mix for a little more seasoning.

@@ -1,0 +1,72 @@
+Recipe number:
+238467.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-22T17:01:23.003
+helpfulCount:
+2
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1118
+favoritesCount:
+2291
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were a nice change from our "standard" mussels recipe! I did make a few minor changes, as it was raining cats and dogs and I didn't feel like going to the store. The bag of mussels that I picked up at Costco was about 4 lbs (WAY more than the 4 cups that the recipe calls for, but it was the right amount of mussels to broth, in my opinion). I used 1/2 of a red bell pepper in place of the red chili pepper, and didn't have any anise flavored liqueur, but I DID have some star anise, so I just added one to the broth while it was simmering (and this worked great). I used "heavy" cream, so I skipped the cornstarch all-together.  We all enjoyed these, and I would make them again, but I'd cut the beef broth back (maybe to 1 cup), as it ended up slightly on the salty side.
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-03T23:08:15.57
+helpfulCount:
+0
+userID:
+14654784
+Display Name:
+phish_phry
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+747
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Of course I have to personalize every recipe… I never follow a specific recipe. This was amazing. I did make some changes. I'm not very big on dairy so gave that the axe.  I used a vegetable broth instead of beef broth.  Squeezed a little fresh lime over the top. And a light sprinkle of spearmint and parsley from the garden. Wonderful recipe.

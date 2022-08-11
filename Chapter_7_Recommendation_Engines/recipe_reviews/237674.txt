@@ -1,0 +1,72 @@
+Recipe number:
+237674.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-16T13:54:28.66
+helpfulCount:
+0
+userID:
+12067689
+Display Name:
+big daddy carb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1053115.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+the family loved it, I did use red Thai curry paste and small sized shrimp had couscous on the side
+Review:
+Rating:
+3
+dateLastModified:
+2014-07-30T17:19:31.66
+helpfulCount:
+0
+userID:
+13063127
+Display Name:
+Jason Filipiak
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4842846.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Healthy but lacks flavor.  Curry is a little overpowering.

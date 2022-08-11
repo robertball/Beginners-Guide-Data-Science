@@ -1,0 +1,72 @@
+Recipe number:
+270708.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-09T23:40:10.72
+helpfulCount:
+0
+userID:
+24867407
+Display Name:
+Crisa Datuin Torre
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6209046.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good! The kids liked it! And yes it was crispy-I didn’t have avocado oil and mine was still crispy.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-21T21:13:09.547
+helpfulCount:
+0
+userID:
+23944353
+Display Name:
+Steffany Rivera
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5553876.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+delicious, definitely going to make this again. Best of all, it's easy to follow.

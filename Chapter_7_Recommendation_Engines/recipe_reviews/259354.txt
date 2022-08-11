@@ -1,0 +1,37 @@
+Recipe number:
+259354.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-12T02:55:29.51
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm a little torn on how to rate this. As written, this is not what I would call a dip but a soup. The flavor is good but I think serving it in a bowl with cornbread would suit it better than trying to serve it as a dip with chips. The recipe also calls to cook it for 16 hours or until the peas are tender. They are coming from a can and already tender so 16 hours is overkill. The sausage gets cooked beforehand so really the only thing that needs cooked until tender is the onion and celery. After that it is just heating it all together long enough for the flavors to combine. Overall good flavor but execution needs tweaked.

@@ -1,0 +1,72 @@
+Recipe number:
+272667.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-27T17:46:47.643
+helpfulCount:
+0
+userID:
+18069165
+Display Name:
+cbrob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+196
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really did enjoy this chicken breast last night. I used 2 humongous chicken breast. I probably should have cut the 2 to make 4. And I butterflied the chicken.I just used the white sliced mushrooms I had on hand. The meal was delicious!. Next time I will coarsely chop the mushrooms and may try fat free or reduced fat cream cheese. It was so good I felt guilty eating it! Delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-10T21:30:03.74
+helpfulCount:
+0
+userID:
+14632589
+Display Name:
+Karyl Carlson
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3196139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I didn’t make any significant changes and we really enjoyed this dish.

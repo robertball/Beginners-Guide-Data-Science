@@ -1,0 +1,37 @@
+Recipe number:
+277373.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-30T16:41:47.28
+helpfulCount:
+0
+userID:
+10244326
+Display Name:
+Kristin King
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7672860.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was very good soup. mine didn't thicken as well as I like so I added instant potatoes  to thicken the way my family likes it but that was the only thing  I  did differently. YYUMMY

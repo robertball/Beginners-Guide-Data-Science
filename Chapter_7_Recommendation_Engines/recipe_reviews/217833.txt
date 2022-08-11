@@ -1,0 +1,32 @@
+Recipe number:
+217833.txt
+Review:
+Rating:
+1
+dateLastModified:
+05/16/2011
+helpfulCount:
+5
+userID:
+5679728
+Display Name:
+jjbee100
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+mmm. not so goo
+Review:
+Rating:
+4
+dateLastModified:
+06/23/2017
+helpfulCount:
+0
+userID:
+16243035
+Display Name:
+Tara Glaff Mager
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3329433.jpg
+text:
+Yummy

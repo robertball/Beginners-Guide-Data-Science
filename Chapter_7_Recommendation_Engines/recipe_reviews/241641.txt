@@ -1,0 +1,73 @@
+Recipe number:
+241641.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-03-26T02:12:51.76
+helpfulCount:
+2
+userID:
+3771229
+Display Name:
+Rob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't like this drink.  I followed the recipe exactly, but maybe I used the wrong kind of jelly beans?  No brand was specified, so I used Brach's.  
+It was easy to make and looked pretty, but it tasted a lot like Robitussin cherry flavored cough syrup.
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-04T16:20:24.36
+helpfulCount:
+1
+userID:
+5667009
+Display Name:
+Patty
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+256
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/570286.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Deelish!  Made a second round using orange and green jelly beans!

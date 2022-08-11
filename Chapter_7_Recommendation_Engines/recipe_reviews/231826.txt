@@ -1,0 +1,37 @@
+Recipe number:
+231826.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-18T15:02:39.97
+helpfulCount:
+3
+userID:
+2225200
+Display Name:
+Linda(LMT)
+isPro:
+False
+followersCount:
+188
+followingCount:
+0
+madeRecipesCount:
+338
+favoritesCount:
+1555
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6489538.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is one of my favorite boardwalk foods! and my favorite way to eat icecream!! Something about warm waffles and the sweet coolness of icecream sandwiched together. I often forgo the chocolate syrup but either way is a classic and a wonderful memory of my childhood.

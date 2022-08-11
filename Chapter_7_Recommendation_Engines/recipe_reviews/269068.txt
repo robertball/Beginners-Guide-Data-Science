@@ -1,0 +1,37 @@
+Recipe number:
+269068.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-27T01:07:18.37
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+400
+followingCount:
+0
+madeRecipesCount:
+1107
+favoritesCount:
+3213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Winner, winner, chicken dinner! I do believe this is it. Did not change a thing except for using 4 bone-in chicken thighs as opposed to 6. Served it over rice with green beans on the side. We loved it and will be making it again.

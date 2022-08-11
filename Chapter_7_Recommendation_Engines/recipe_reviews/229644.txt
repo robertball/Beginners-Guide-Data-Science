@@ -1,0 +1,72 @@
+Recipe number:
+229644.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-01T14:58:14.097
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9651
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe has potential but there are a couple of issues with it. The marinade needs doubled if you want to be able to taste it. If you put your scallops in the marinade for 8 hours, the acid in the citrus will "cook" them resulting in overcooked scallops once they come out of the oven. My other gripe is the American cheese. Sea scallops are expensive and the finished dish has a fancy look to it until you lay eyes on the "fake" cheese. I'm not meaning to sound rude and I am still giving this 4 stars but I need to leave an honest opinion. This is company quality with a few minor changes. I recommend using a real shredded cheese or leaving it off altogether. It does take awhile for the flavor to penetrate the veggies so they do need to sit in the marinade 8 hours to overnight. The scallops absorb it quick and as already mentioned, the acid in the citrus "cooks" them. I recommend letting them marinate no more than 1 hour. This recipe really does have potential and it is one I will definitely make again with the changes noted. I used whole button mushrooms instead of the portobello but that was the only substitution I made. Button work good too.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-13T16:24:43.757
+helpfulCount:
+1
+userID:
+15559425
+Display Name:
+Ryno's mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Only let sit for less than an hour, and it was delicious.

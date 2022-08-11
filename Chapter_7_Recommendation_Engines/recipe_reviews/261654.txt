@@ -1,0 +1,72 @@
+Recipe number:
+261654.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-26T14:20:16.88
+helpfulCount:
+4
+userID:
+21800271
+Display Name:
+Julie Conner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good and filling. If you think there is such a thing as too much chocolate (especially at breakfast) consider cutting the chocolate chips by thirty to 50%.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-25T02:29:27.963
+helpfulCount:
+3
+userID:
+1704165
+Display Name:
+Mary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great recipe. I have been looking for a great baked oatmeal for so long. I did make one change, though. I did not use as many chocolate chips. After mixing all of the other ingredients together, I just added as many mini chocolate chips as I wanted (about a half cup), stirred them together and dumped the mix into my baking dish. It turned out great. Next time I make it, and I will make it again, I am going to add blueberries. I shall let you know the results!

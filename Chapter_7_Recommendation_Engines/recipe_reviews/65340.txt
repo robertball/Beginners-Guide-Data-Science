@@ -1,0 +1,122 @@
+Recipe number:
+65340.txt
+Review:
+Rating:
+4
+dateLastModified:
+01/25/2004
+helpfulCount:
+9
+userID:
+960826
+Display Name:
+ALKLA
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Great Grandsons loved it with strawberry jam also
+Review:
+Rating:
+5
+dateLastModified:
+12/30/2009
+helpfulCount:
+6
+userID:
+4260958
+Display Name:
+gkimp
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I used cocktail wieners instead of frankfurters then took the dish to a church fellowship.  Several people told me that they really ejoyed the unique flavor of this dish. There were no leftovers!
+Review:
+Rating:
+5
+dateLastModified:
+12/20/2011
+helpfulCount:
+4
+userID:
+8408447
+Display Name:
+Kathy S
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I've done this with cocktail franks and even sliced turkey kielbasa - it's awesome.  I also mix in a little brown sugar - to taste, add a little bit at a time.
+Review:
+Rating:
+4
+dateLastModified:
+01/03/2012
+helpfulCount:
+2
+userID:
+2951565
+Display Name:
+Sherry
+photo:
+global/features/2549.gif
+text:
+This was so-so...no one raved about it that's for sure.  Had lots of leftovers.
+Review:
+Rating:
+4
+dateLastModified:
+12/21/2011
+helpfulCount:
+2
+userID:
+8417460
+Display Name:
+RuthAT
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+red raspberry jam is soooo great. also used the cocktail franks looks more like an appetizer.
+Review:
+Rating:
+5
+dateLastModified:
+10/19/2009
+helpfulCount:
+2
+userID:
+3549452
+Display Name:
+Tracy Brannen Williams
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I found this recipe for a last-minute football appetizer, and it was easy and delicious.  The best part is I already had the ingredients!
+Review:
+Rating:
+5
+dateLastModified:
+12/20/2011
+helpfulCount:
+1
+userID:
+3046531
+Display Name:
+Glen and Linda Craven
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6031846.jpg
+text:
+Love this recipe it is so easy and delish.  I use a mini crockpot and just dump it all together, but I substitute frankfurters for cocktail wienies.
+Review:
+Rating:
+4
+dateLastModified:
+05/14/2012
+helpfulCount:
+1
+userID:
+bertskitchen2011
+Display Name:
+Robin Fix
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7373876.jpg
+text:
+Super easy tasty recipe!  Perfect for a quick snack for a party!

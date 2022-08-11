@@ -1,0 +1,72 @@
+Recipe number:
+263994.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-11T14:15:56.84
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+On their own, these turned out good. If you make the Croatian White Onion Sauce recipe on this site to go with them, they are great. As suggested in the cook's note, I replaced the veal with ground pork. I have never see or even heard of Vegeta so I Googled and did my best at making my own (minus the MSG). These held together better than I had anticipated so next time I might shape them around skewers for grilling to get a more traditional look. Regardless, this is a good recipe and one I will make again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-03T00:38:31.61
+helpfulCount:
+0
+userID:
+26079095
+Display Name:
+Maria
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Served these to both a Slovenian and a Croatian. Excellent and authentic recipe.

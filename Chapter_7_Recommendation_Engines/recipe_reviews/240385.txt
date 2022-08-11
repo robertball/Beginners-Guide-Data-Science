@@ -1,0 +1,72 @@
+Recipe number:
+240385.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-01-28T06:54:28.417
+helpfulCount:
+2
+userID:
+844886
+Display Name:
+It's A New Day
+isPro:
+False
+followersCount:
+288
+followingCount:
+0
+madeRecipesCount:
+450
+favoritesCount:
+522
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/615239.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't care for the combination of apple and egg and couldn't taste the Boursin cheese at all.
+Review:
+Rating:
+4
+dateLastModified:
+2015-10-21T16:55:50.017
+helpfulCount:
+1
+userID:
+11518628
+Display Name:
+barkley
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+239
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great dish and easy to make.  Added shallots since I had one that needed to get used and it really brought out the cheese flavor.  Also I cook everything in my iron skillet so if you have one, no need to dirty a pie plate.

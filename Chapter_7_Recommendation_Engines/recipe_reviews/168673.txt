@@ -1,0 +1,37 @@
+Recipe number:
+168673.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-04-26T20:21:20.067
+helpfulCount:
+0
+userID:
+6947122
+Display Name:
+Jennifer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have the same recipe and I really enjoy this drink.  It's something a little different

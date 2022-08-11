@@ -1,0 +1,72 @@
+Recipe number:
+263599.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-07-12T00:44:10.82
+helpfulCount:
+3
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It needed a lot more flavor than just a pinch of the spices. I used 1/2 t cinnamon and 1/4 t of the other spices, and it still could have used more.
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-04T00:16:10.38
+helpfulCount:
+2
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an easy, hands-off way to make oatmeal.  The pinch of ginger, cloves, and nutmeg is too imperceptible to even notice, so I would add 2-3 pinches next time. Also for my taste, I need a little more brown sugar. These things are easy to personalize for each individual's taste. The liquid to oats ratio and the cook time are perfect. I added cream and toasted walnuts right before serving.

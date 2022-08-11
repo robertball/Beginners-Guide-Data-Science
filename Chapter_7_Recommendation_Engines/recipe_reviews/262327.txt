@@ -1,0 +1,37 @@
+Recipe number:
+262327.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-12-29T02:07:28.18
+helpfulCount:
+0
+userID:
+24687691
+Display Name:
+D. McLean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6088702.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added more celery, and no zucchini.... it was delicious!! Add some dill too... it's wonderful!

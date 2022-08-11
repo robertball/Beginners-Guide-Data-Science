@@ -1,0 +1,107 @@
+Recipe number:
+270379.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-21T02:03:58.3
+helpfulCount:
+0
+userID:
+5197162
+Display Name:
+Amber Wittel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5480491.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added sautéed onions and mushrooms.  I also added shredded cheddar to the swiss cheese mixture.
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-18T14:35:27.68
+helpfulCount:
+0
+userID:
+25449278
+Display Name:
+Vivian Schurig
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6618025.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great dish to make on a cold and stormy evening. I excluded some ingredients from the recipe to preparing it. I would gladly make it again with the same changes
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-10T18:36:24.213
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+130
+favoritesCount:
+456
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe as is and we loved it! I had some trouble with the pie crust not getting too done, but I think this would be great crustless as well.

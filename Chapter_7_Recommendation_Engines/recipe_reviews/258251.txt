@@ -1,0 +1,72 @@
+Recipe number:
+258251.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-06T15:40:56.38
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut this recipe in half and used a combo of red and green bell pepper. I don't think the addition of the chopped green chilies is necessary. There is plenty in the "Rotel".  The recipe calls for the black beans to be undrained but I simple can't do that. The liquid from black beans is so dark and thick that it turns things a horrible color not to mention all of the sodium. This was super simple and one I would make again with a few minor changes.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-03T23:12:58.673
+helpfulCount:
+0
+userID:
+26616730
+Display Name:
+Linda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7689382.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good, satisfying soup. The flavor is rich...posole like. Will make again for sure.

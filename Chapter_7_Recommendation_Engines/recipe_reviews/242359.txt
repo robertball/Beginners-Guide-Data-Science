@@ -1,0 +1,37 @@
+Recipe number:
+242359.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-28T18:09:09.143
+helpfulCount:
+0
+userID:
+3892896
+Display Name:
+knowan
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good, but slightly too much peanut butter.  Next time I'll decrease the peanut butter and increase the honey.  For those that don't know you can replace the Amaranth with Quinoa.

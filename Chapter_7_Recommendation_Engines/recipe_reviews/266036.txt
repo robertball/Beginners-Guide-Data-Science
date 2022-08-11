@@ -1,0 +1,37 @@
+Recipe number:
+266036.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-21T19:50:34.743
+helpfulCount:
+0
+userID:
+24966523
+Display Name:
+RCB05
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would totally make this again!  I did leave out the candied bacon because my family is super picky....

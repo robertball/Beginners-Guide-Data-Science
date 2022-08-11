@@ -1,0 +1,142 @@
+Recipe number:
+258285.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-21T15:17:29.33
+helpfulCount:
+0
+userID:
+22351709
+Display Name:
+Laura Davies
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4916152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+SO good!! I’ve been stuck in a rut with dinners and we had all the ingredients and I’m so glad! We didn’t have cilantro and I threw in spinach, avocado, and cheese when I toasted the filling in the tortillas on the skillet. My toddler ate it too, but only as a topping for tortilla chips. It looked too good to wait to take a picture, but I remembered to snap one after bites had been taken, ha. Will definitely make again!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-22T13:45:48.38
+helpfulCount:
+0
+userID:
+2596033
+Display Name:
+Stacy Brandt
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+485
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So good that I’m making a double batch today!
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-05T21:29:34.337
+helpfulCount:
+0
+userID:
+23950778
+Display Name:
+Elaine Helwig Van Gorp
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5586473.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The carnivores at the table enjoyed this as much as the vegetarians. Delicious and quite easy to make .
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-14T03:17:21.28
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and reheats well. I like this better without the corn tortilla.. just in a bowl with toppings was perfect for me

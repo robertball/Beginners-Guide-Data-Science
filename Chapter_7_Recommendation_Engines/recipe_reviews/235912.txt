@@ -1,0 +1,37 @@
+Recipe number:
+235912.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-24T20:48:23.28
+helpfulCount:
+0
+userID:
+3625036
+Display Name:
+Anna Aytes Clark
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+257
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2383185.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just the right balance of tart and sweet. It was a big hit at Thanksgiving.

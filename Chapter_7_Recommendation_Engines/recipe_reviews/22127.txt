@@ -1,0 +1,37 @@
+Recipe number:
+22127.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-04-28T21:37:19.797
+helpfulCount:
+4
+userID:
+302573
+Display Name:
+Bob McDonald
+isPro:
+False
+followersCount:
+30
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4014639.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! Sart this as you walk in the door and it will be ready when you are ready to sit down for dinner. Trick is fresh basil and the best cheese available. Receipe begs to be fooled with--I added a saute of mushrooms, rosemary and shrimp, and will try other variations to what is a new staple of the house.

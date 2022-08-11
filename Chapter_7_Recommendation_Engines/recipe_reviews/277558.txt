@@ -1,0 +1,37 @@
+Recipe number:
+277558.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-27T17:01:34.52
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! I've made guacamole more times than I can count and I'm not sure what was different  about this one but it definitely stood out as one of the best I've made. I thought I would end up adding diced jalapeno to it but it didn't need it. The flavor combo was spot on as written.

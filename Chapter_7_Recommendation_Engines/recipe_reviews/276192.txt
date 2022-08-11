@@ -1,0 +1,72 @@
+Recipe number:
+276192.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-10T20:28:06.843
+helpfulCount:
+0
+userID:
+26651282
+Display Name:
+Paulette Roche
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7432674.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. It was a big hit at the family fall reunion. Even the people who drink very little enjoyed this. The recipe was copied many times.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-12T20:07:05.52
+helpfulCount:
+0
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1033
+favoritesCount:
+1847
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fabulous- this is Fall in a glass!!  I didn’t have vanilla vodka so I used regular vodka with a little vanilla Torani syrup.  This legitimately tastes EXACTLY like apple pie!!!  This one is a keeper!

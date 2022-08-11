@@ -1,0 +1,37 @@
+Recipe number:
+160492.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-21T11:02:24.35
+helpfulCount:
+2
+userID:
+13897259
+Display Name:
+Anna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing! I had never tried a sweet potato pie, and it had such a bold flavor and tasted so good. Would totally recommend this!

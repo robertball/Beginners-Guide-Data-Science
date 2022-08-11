@@ -1,0 +1,107 @@
+Recipe number:
+212420.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-03-06T02:51:19.06
+helpfulCount:
+11
+userID:
+2761942
+Display Name:
+DiamondGirl amanecer
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+350
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/593907.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this dish and served it with rice and it was very delicious. Just wonderful. I used dry curry leaves and omited asafoetida powder. So good, thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-30T17:19:15.887
+helpfulCount:
+6
+userID:
+3357970
+Display Name:
+Katelyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/148583.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was amazing! It was the perfect blend of spices and flavors. I put it over basmati rice. I was not a fan of the texture of the fresh cilantro with the rice and koora, but the next day I heated up the cilantro with the leftovers altogether and it softened to a more pleasant texture. Next time I will probably add the cilantro with the water. Thank you for this simple, yummy recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-29T10:09:36.76
+helpfulCount:
+0
+userID:
+7483451
+Display Name:
+Hans Meyer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2371471.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good.  I couldn't find the dried red chili peppers so I doubled up on the red chili powder, with okay results.  Will definitely make again.

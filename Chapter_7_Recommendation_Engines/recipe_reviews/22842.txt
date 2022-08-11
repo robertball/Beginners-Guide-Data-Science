@@ -1,0 +1,72 @@
+Recipe number:
+22842.txt
+Review:
+Rating:
+2
+dateLastModified:
+2007-05-01T07:47:39.273
+helpfulCount:
+7
+userID:
+1415737
+Display Name:
+Dianemwj
+isPro:
+False
+followersCount:
+61
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+2349
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/798072.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not like this pie.  I followed the recipe exactly and I took out the pie after 60 minutes of baking as per the recipe.  It was terribly overdone.  The pecans were so hard I could barely chew them and the raisins did not blend with the other flavors.  I checked my usual pecan pie recipe and the recommended baking time is only 50 minutes.  I can't imagine how awful this pie would have come out if it were to be baked for 90 minutes.  The only reason I gave this two stars instead of one is because my husband said that it was "all right".  But then he doesn't mind burnt stuff.  Will definately never make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2007-06-04T18:02:46.917
+helpfulCount:
+2
+userID:
+1829079
+Display Name:
+P.J. Coldren
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/433981.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I took this pie to a graduation party.  There was none left about halfway through the night.  The only changes I made were these:  I soaked my raisins in bourbon (because they were kind of old) and drained them before adding them to the pie.  I used mostly light corn syrup and a little molasses, because that's what I had on hand.  And I only cooked this for 50 minutes -- that's all it needed.

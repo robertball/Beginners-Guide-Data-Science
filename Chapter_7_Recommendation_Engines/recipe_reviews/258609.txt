@@ -1,0 +1,37 @@
+Recipe number:
+258609.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-01T21:58:57.54
+helpfulCount:
+1
+userID:
+8141524
+Display Name:
+tksorrows
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent as is. Family ate All of it and asked to keep it on the frequent recipe list!!

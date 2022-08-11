@@ -1,0 +1,47 @@
+Recipe number:
+280079.txt
+Review:
+Rating:
+5
+dateLastModified:
+07/17/2020
+helpfulCount:
+0
+userID:
+germancook
+Display Name:
+Petra
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very good sandwich.  The only change I made is to pan frying it instead of broiling to finish.  Used a bacon press on top.
+Review:
+Rating:
+5
+dateLastModified:
+05/28/2020
+helpfulCount:
+0
+userID:
+27391832
+Display Name:
+Babs
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Easy peasy! Tweaked the recipe by adding cheese I had in fridge. My husband loved this burger!!!
+Review:
+Rating:
+4
+dateLastModified:
+05/28/2020
+helpfulCount:
+0
+userID:
+26663425
+Display Name:
+Stacy I Poper
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Didn’t make any changes. I might have used less butter due to it being so rich.

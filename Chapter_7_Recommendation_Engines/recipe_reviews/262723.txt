@@ -1,0 +1,72 @@
+Recipe number:
+262723.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-21T16:52:31.88
+helpfulCount:
+2
+userID:
+23899547
+Display Name:
+Brian Dodd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5524066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy Yummy Yummy I got love in my tummy!
+Review:
+Rating:
+1
+dateLastModified:
+2018-11-18T03:50:24.153
+helpfulCount:
+1
+userID:
+2920050
+Display Name:
+Rob Lee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5748883.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made chocolate eclairs numerous times and could not find my recipe so tried this one.  I found there's not enough flour.  It was thick as gravy,   not thick enough to pipe.

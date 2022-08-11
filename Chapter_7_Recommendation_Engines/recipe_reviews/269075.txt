@@ -1,0 +1,72 @@
+Recipe number:
+269075.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-23T21:51:22.16
+helpfulCount:
+4
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5748
+followingCount:
+0
+madeRecipesCount:
+2801
+favoritesCount:
+5996
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+11.23.18  This was just so darn easy to make today using the KA stand mixer.  As with most homemade bread, all you need is time.  I used the beater blade and then when it came time to knead, put the dough hook in and let it go for about 10 minutes.  Initially, I thought this bread was going to be dense, but the texture turned out just about right.  You get a nice bite  of chocolate from the chips (wouldn’t recommend using the mini chips).   I think in the future, I’ll add more cherries, since the chocolate overpowered the cherries just a bit.  Made no changes in ingredients or amounts, and ended up with two loaves measuring about 7” diameter.  Nothing not to like here, good stuff!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-28T23:50:36.33
+helpfulCount:
+3
+userID:
+24152023
+Display Name:
+Mary Ann Hulock
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5945771.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this today and it was sooo good!  Will definitely keep this on a regular rotation.  Only change was I added a handful of chopped walnuts.  Highly recommend!

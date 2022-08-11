@@ -1,0 +1,37 @@
+Recipe number:
+241699.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-04-01T05:13:45.58
+helpfulCount:
+1
+userID:
+10850001
+Display Name:
+Ann Freele
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1782973.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought the addition of oats was interesting, which lead me to make this for my morning smoothie.  The taste combination is good, but did not really POP!  And as for me, oats are just not my thing. I tried them whole which did not work , as I could not get by the lumpiness. The second time I tried this , I took the suggestion to blend the oats. Much better, but I still found the texture chalky.

@@ -1,0 +1,72 @@
+Recipe number:
+233864.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-09-08T17:25:51.953
+helpfulCount:
+3
+userID:
+20660
+Display Name:
+Doug Matthews
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+113
+favoritesCount:
+410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1017087.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The family loved the BBQ Bison Brisket Phyllo Bites. Great flavor. A definite addition to this year's Super Bowl menu.
+Review:
+Rating:
+5
+dateLastModified:
+2013-09-10T15:50:53.84
+helpfulCount:
+0
+userID:
+2890182
+Display Name:
+Lillian
+isPro:
+False
+followersCount:
+260
+followingCount:
+0
+madeRecipesCount:
+228
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2947921.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good! It was my first time cooking with bison and I loved the hearty meat flavor! I was afraid that bison would taste gamey but was happy that it wasn't! It is just a stronger meat flavor than cow beef! I made the recipe as written except I didn't cook it for 12 hours. The meat was perfectly tender after 9 hours. And I added about 1/2 tsp of salt. I used about 3 cups of the leftover meat to make bison tacos by adding salsa, cumin, oregano and topping it with sour cream and cheddar cheese. The tacos were also very good! I still have another 2 cups of bison leftover, so I'll freeze it and use it next week to make bison pot pies! I can't wait!

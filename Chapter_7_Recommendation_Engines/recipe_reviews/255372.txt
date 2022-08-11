@@ -1,0 +1,107 @@
+Recipe number:
+255372.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-11T23:58:44.837
+helpfulCount:
+0
+userID:
+5892152
+Display Name:
+Katie2727
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This seems like a really great base recipe. I'm making it now and know it will be good. I'm just shocked they don't note seasoning with salt and pepper as you go...
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-31T19:52:55.557
+helpfulCount:
+0
+userID:
+24541372
+Display Name:
+Seth Keefer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5971002.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added 1 1/2 cup Gouda on top of the 2 cups cheddar in the recipe
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-23T05:15:05.493
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really tasty  I subbed Greek yogurt for the heavy cream. worked great. Just tempered it first to avoid curdling.  The leftovers got very very thick so I think I may cut back on the flour a bit next time.  I didnt have the full amount of cheese and it was plenty cheesy ..

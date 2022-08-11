@@ -1,0 +1,72 @@
+Recipe number:
+258885.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-04T13:20:37.44
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9651
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! The 1/2 of a small red chile pepper is vague. I didn't know what kind of red chile but it turns out all I could find fresh that was red was a jalapeno. Because jalapeno's are typically mild in the heat department for us, I used the entire pepper and also left the seeds in. So while I'm not sure I made this as intended, it still came out excellent!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-05T19:47:02.96
+helpfulCount:
+0
+userID:
+26978714
+Display Name:
+Madison Mills
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7691665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was good

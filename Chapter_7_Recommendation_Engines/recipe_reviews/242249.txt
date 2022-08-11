@@ -1,0 +1,37 @@
+Recipe number:
+242249.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-27T05:25:47.917
+helpfulCount:
+1
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this according to directions except for cutting back the servings, using coconut oil rather than vegetable oil (a perfect sub!), and using currants rather than dates which I was out of.  I love the toasted nuttiness and the sweetness of the fruits, and the flavor of the cardamom was just right for us.  I used the granola specifically for some lovely dense pancakes on this site, and this added just exactly the right amount of sweetness to those.  I would make this again.  Thanks for the recipe, Hope!

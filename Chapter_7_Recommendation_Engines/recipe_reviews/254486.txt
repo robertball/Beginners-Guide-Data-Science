@@ -1,0 +1,110 @@
+Recipe number:
+254486.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-09-05T18:31:05.183
+helpfulCount:
+2
+userID:
+2703068
+Display Name:
+shelteredrose
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+163
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/57525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with fresh peas from the a local farmers market.  Followed the recipe as directed.  I let them sit overnight and even in that short time, these were waaaaay to vinegary.  Additionally the Lemon flavor was so strong that they had a shoe-polish taste.  I also don't think tarragon was the "right" herb for this taste combo. No one in the house could eat these and I ended up throwing our both jars.  Quite disappointed in the outcome of this recipe.  Really was excited about the idea and may try again using much less vinegar and maybe a tiny shred of lemon.  Dill perhaps instead of tarragon.  As least this was a concept I will explore another time.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-12T14:00:06.867
+helpfulCount:
+0
+userID:
+20969682
+Display Name:
+Tom Jamieson
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+68
+favoritesCount:
+316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4288587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made for the family reunion
+1 jar with , 1 jar without hot pepper flakes
+Both were enjoyed
+Will make again
+Review:
+Rating:
+3
+dateLastModified:
+2017-04-26T21:21:49.363
+helpfulCount:
+0
+userID:
+15980101
+Display Name:
+James Ira Cook
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+298
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just made this with only half a pound of snap peas.  The liquid only covers about a third of the pea pods.  I'm wondering if the beans are supposed to be completely covered?  I'm thinking I should mix up some more liquid.  Marilyn

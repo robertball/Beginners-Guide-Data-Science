@@ -1,0 +1,72 @@
+Recipe number:
+239999.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-11-03T19:38:13.287
+helpfulCount:
+0
+userID:
+4235914
+Display Name:
+Sally Macnamara
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+289
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1511291.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+the cookies were so thin that they crumbled. put 1/2 the dough in a baking dish to try to  bake it into bars. perhaps I overbeat the shortening & butter?  too bad because they had a nice flavor. perhaps I can eat it as granola...
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-10T01:35:13.92
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were wonderful.  As you can see by my picture I made these into bars. I was working and didnt have time to make multiple sheets of cookies... and baking and working sometimes isnt a good fit and I burn things so one time in the oven was all I could handle  :D My only  change was the nutmeg.. 1/2t is a lot.. most recipes call for a pinch or maybe 1/8t   .. I used 1/4t and it was plenty. I topped the bars with a light sprinkle of cinnamon sugar

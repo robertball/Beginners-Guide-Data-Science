@@ -1,0 +1,37 @@
+Recipe number:
+40891.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-12-22T14:33:22.28
+helpfulCount:
+2
+userID:
+333639
+Display Name:
+GERMAN SHEPHERD MOM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I took this to work and it was gone quickly with many requests for the recipe.  It is a nice change from the typical snack mix.  You can omit or spice it up even more, but as written it's somewhere in the middle.  It is not hot enough if you like it really hot, so add what you want.

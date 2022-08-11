@@ -1,0 +1,73 @@
+Recipe number:
+239819.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-07T17:20:02.55
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was quite tasty and fun to boot. I would have loved artichokes but hubby is not a fan so I used black olives instead which worked fine too. This is a perfect summertime lunch that won't leave you feeling weighted down with all of the bread in your typical egg salad sandwich. Plus, who doesn't love food on a stick? This is a keeper! Thanks for sharing Buckwheat Queen!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-07T18:34:34.86
+helpfulCount:
+0
+userID:
+25672853
+Display Name:
+Tuscan_Italian
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+2187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6796750.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a wonderful idea!  I made these for a party and people went nuts over them.
+Thank you Melanie for such an amazing recipe!

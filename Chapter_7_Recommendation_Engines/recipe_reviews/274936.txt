@@ -1,0 +1,37 @@
+Recipe number:
+274936.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-26T00:56:41.29
+helpfulCount:
+0
+userID:
+14970213
+Display Name:
+LCartajoey12
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+957
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1849272.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this but I saw corn in the photo but not in the ingredients. So I added a can.

@@ -1,0 +1,72 @@
+Recipe number:
+255512.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-02-07T02:43:08.93
+helpfulCount:
+1
+userID:
+21435757
+Display Name:
+live to cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+when mine came out of the oven it was a pancake glob
+Review:
+Rating:
+2
+dateLastModified:
+2017-01-02T13:25:40.04
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+541
+favoritesCount:
+702
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This fell flat for me.. Literally. It came out of the oven all fluffy and warm. Later I looked back and it was half the size. It is very moist, dense, and has a nice banana flavor. If someone could figure out how to make it more like bread vs. cake it could be a rather nice recipe.

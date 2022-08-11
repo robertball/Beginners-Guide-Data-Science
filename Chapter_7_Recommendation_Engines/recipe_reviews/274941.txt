@@ -1,0 +1,37 @@
+Recipe number:
+274941.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-13T20:55:42.483
+helpfulCount:
+0
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+222
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+867
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the flavour but there was just too much butter for our tastes. I used an organic naval orange which I highly recommend. I did include the white chocolate but found that it didn't add anything to the recipe, probably just personal preference.

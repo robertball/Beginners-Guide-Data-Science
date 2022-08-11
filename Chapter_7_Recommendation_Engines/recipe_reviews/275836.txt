@@ -1,0 +1,37 @@
+Recipe number:
+275836.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-25T15:16:30.237
+helpfulCount:
+3
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The soft French toast casserole topped with the sweet crunch of pecan topping makes a delicious morning breakfast.  There is little effort to put together the topping and spreading it on the bread in the morning, but if you're lazy in morning like me, you may prefer something completely constructed in the evening and then just pop in the oven in the morning.

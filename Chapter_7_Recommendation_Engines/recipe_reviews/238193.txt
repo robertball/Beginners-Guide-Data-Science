@@ -1,0 +1,37 @@
+Recipe number:
+238193.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-03-23T10:32:51.987
+helpfulCount:
+2
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I can understand why this recipe would catch the fancy of eaters because who doesn't love all those ingredients?  For some reason it just didn't "do" it for us.  I'm not sure if it was merely our taste buds on that day or what, but we said that it was OK.  I don't want to turn anyone away from making this because what is good for one may not be for another.  So give this a try!

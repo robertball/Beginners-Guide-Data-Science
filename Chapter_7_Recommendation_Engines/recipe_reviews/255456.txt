@@ -1,0 +1,107 @@
+Recipe number:
+255456.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-20T22:45:56.313
+helpfulCount:
+3
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1103
+favoritesCount:
+3205
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have any spinach so I cut the almond milk down to 1 cup.  Both my mango and banana were frozen so I omitted the ice cubes.  I used about 1/2" fresh turmeric which I did not bother to grate, I just peeled it  and threw it in with the other ingredients into my Vitamix.  Very tasty.  I can't wait to try this with spinach.
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-19T14:49:08.433
+helpfulCount:
+0
+userID:
+22073203
+Display Name:
+Esther Jeune
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have any turmeric, so I used a bit of cinnamon instead and it tastes great!
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-11T18:03:12.193
+helpfulCount:
+0
+userID:
+5469653
+Display Name:
+Robin Crafts
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2693975.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it and it's delicious!!

@@ -1,0 +1,73 @@
+Recipe number:
+14053.txt
+Review:
+Rating:
+1
+dateLastModified:
+2002-05-14T11:08:21.2
+helpfulCount:
+5
+userID:
+639185
+Display Name:
+COOKIN_COWGIRL
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Although they were very quick and easy to make my kids and i didnt really care for them! I will not try this recipe again!
+Review:
+Rating:
+4
+dateLastModified:
+2001-02-21T15:22:00.2
+helpfulCount:
+2
+userID:
+166383
+Display Name:
+TAMMY ADAMS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was alot easier to make than I had thought.  Everyone seemed to like it.
+Thanks!

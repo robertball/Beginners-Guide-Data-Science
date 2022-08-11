@@ -1,0 +1,72 @@
+Recipe number:
+256341.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-09T22:19:50.76
+helpfulCount:
+2
+userID:
+12152770
+Display Name:
+Becca Mahoney
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1988502.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is  good recipe. I  have been canning  sweet  breads for about 20  years.  Apple,  banana, cherry and   orange cranberry to  name  few.  They've been mailed to Iraq, South America and a few other hot placed the hubby had been deployed. I store ours  in  a  cool  room with no exposure to light.  We find it is good for about 6   months.  Even then it is the oils becoming rancid that ruins the bread, not molds.
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-11T01:08:57.527
+helpfulCount:
+0
+userID:
+22251415
+Display Name:
+Jan Riddle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5866431.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+used it with a couple different recipes and they all turned out great. Also done some 1/4 pint jars for a recipe exchange bridal shower

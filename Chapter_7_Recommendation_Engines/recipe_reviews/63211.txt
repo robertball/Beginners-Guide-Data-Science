@@ -1,0 +1,92 @@
+Recipe number:
+63211.txt
+Review:
+Rating:
+5
+dateLastModified:
+06/28/2005
+helpfulCount:
+3
+userID:
+1442555
+Display Name:
+Janice
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was a really tasty, simple recipe.   Both my husband and I really enjoyed it.  I left out the tomatoes, as neither of us are tomato fans, but it was still excellent.
+Review:
+Rating:
+4
+dateLastModified:
+05/13/2009
+helpfulCount:
+3
+userID:
+turtleinthekitchen
+Display Name:
+A Turtle in the Kitchen
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/211159.jpg
+text:
+A good, quick recipe for using up leftovers. I'm not sure where the "zesty" comes into this recipe; I felt it was a tad bland. I left out the tomato and used red peppers to add some more color. I also added thyme and garlic.
+Review:
+Rating:
+4
+dateLastModified:
+06/07/2005
+helpfulCount:
+1
+userID:
+1431628
+Display Name:
+KRISTIANEKAT
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+very good and easy!
+Review:
+Rating:
+4
+dateLastModified:
+12/30/2009
+helpfulCount:
+1
+userID:
+1105385
+Display Name:
+LB
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/77887.jpg
+text:
+Very tasty. I baked in the oven, and sliced the potatoes with a mandolin.
+Review:
+Rating:
+3
+dateLastModified:
+04/26/2010
+helpfulCount:
+0
+userID:
+1527154
+Display Name:
+finny388
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+No oil? I'm about to try this but I am adding some olive oil to the vege's at the beginning.
+Review:
+Rating:
+3
+dateLastModified:
+04/27/2010
+helpfulCount:
+0
+userID:
+2438466
+Display Name:
+Linda Grein
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Thank you for the recipe.

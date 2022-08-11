@@ -1,0 +1,107 @@
+Recipe number:
+16752.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-02-04T18:46:24.417
+helpfulCount:
+4
+userID:
+6808086
+Display Name:
+alaskamimi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Takes more than 15 minutes to prepare but it is yummy! You can use the leftover dip for salad dressing.
+Review:
+Rating:
+5
+dateLastModified:
+2012-06-30T19:50:09.577
+helpfulCount:
+3
+userID:
+2870287
+Display Name:
+Maria Joy Schrock
+isPro:
+False
+followersCount:
+83
+followingCount:
+0
+madeRecipesCount:
+175
+favoritesCount:
+691
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1107496.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe would be enough to serve 20 people or more!! I made 1/4 of this amount and it was plenty for 4 people. It is delicious. I used precooked bacon and just guessed on the amount and you want to make sure the bacon is finely chopped in a food processor. I used a few shakes of onion powder instead of fresh onion. I will make this again!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-11T05:56:26.8
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2291
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for a salad dressing only and it was excellent! I used red onion for the onion and I just can't say enough about this. Excellent! It looks too thick but it is not. Thanks for sharing!

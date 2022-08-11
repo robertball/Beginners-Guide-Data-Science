@@ -1,0 +1,144 @@
+Recipe number:
+235975.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-24T07:30:06.387
+helpfulCount:
+2
+userID:
+2136084
+Display Name:
+Mrs. Jeanotte
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I adjusted servings down to 5 and ate it all myself in two sittings! Subbed spinach for mustard greens and omitted curry and ginger (since I didn't have any). I also sauteed the onion in coconut oil before adding stock and veggies. Thought it had a really good flavor and was hearty. The trick is simmering it till the broccoli and cauliflower start to crumble. This gives the illusion of a thicker soup. For me, that was about 20 minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-12T04:22:14.983
+helpfulCount:
+2
+userID:
+3388585
+Display Name:
+Becky
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+780
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to change the servings to 10 and omit the cayenne pepper (personal taste).  The stew turned out great!  The flavors of the veggies all complimented each other well with the spices, no salt needed, a very healthy soup.  Definitely will make again.  A BIG THANK YOU chefcs!
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-08T21:41:11.427
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice winter veggie dish. I ended up pureeing some of it to give the stew more of a stew like creaminess
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-11T18:29:20.23
+helpfulCount:
+0
+userID:
+1634147
+Display Name:
+Cindy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+91
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this today and served over rice.  Wow!  
+I did sauté the onion, celery, and bell pepper in the pan before adding the spices and all the rest of the veggies.
+Smelled amazing as it was cooking, and tasted just fantastic!  So glad we have leftovers for another meal, too!

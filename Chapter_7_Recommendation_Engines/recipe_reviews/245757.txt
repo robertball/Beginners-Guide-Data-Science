@@ -1,0 +1,72 @@
+Recipe number:
+245757.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-26T17:36:03.91
+helpfulCount:
+0
+userID:
+4745280
+Display Name:
+BRG
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+841
+favoritesCount:
+1544
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome - especially for being such a quick and simple recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-15T13:32:47.113
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tempeh was not available in my local grocery story so I used extra firm tofu instead. It fried up nice and golden brown in the skillet and tasted good. I do not care for blue cheese and did not eat that part of the recipe but my husband said it was delicious. Due to me not eating the mix in my pita, hubs asked if he could have the leftover and he ate it by itself. Great recipe and I can't wait to try it again once I am able to find tempeh.

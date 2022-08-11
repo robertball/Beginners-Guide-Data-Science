@@ -1,0 +1,32 @@
+Recipe number:
+222774.txt
+Review:
+Rating:
+5
+dateLastModified:
+08/07/2012
+helpfulCount:
+2
+userID:
+2702518
+Display Name:
+Deb C
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7578631.jpg
+text:
+This panzanella salad made with fresh ingredients from the garden is delicious and satisfying. The simple dressing added good flavor and we enjoyed the slight twist with the use of wheat bread.
+Review:
+Rating:
+5
+dateLastModified:
+08/31/2013
+helpfulCount:
+0
+userID:
+1141432
+Display Name:
+Carol Pauly
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3585162.jpg
+text:
+Wonderfully flavorful fresh and filling. A winner!

@@ -1,0 +1,107 @@
+Recipe number:
+237675.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-11T20:29:49.557
+helpfulCount:
+0
+userID:
+1688626
+Display Name:
+Connie Shipley
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+212
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1783418.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have the tomatillo's so I used tomatoes, and I don't like cilantro so emitted that but the rest the same. It was awesome, made 2 large bowls and none went to waste.
+Review:
+Rating:
+3
+dateLastModified:
+2016-04-15T14:50:31.58
+helpfulCount:
+0
+userID:
+17906924
+Display Name:
+Jessica Roberts
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3496537.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't care for this as much as I thought I would. While I appreciate the addition of the mango and tomatillos, the mint ruined it for me. Prefer more traditional guacamole.  It was ok, but I probably won't make again.
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-04T10:02:10.683
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6891
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+YUM! Great combo of flavors and textures. The store was out of fresh mint, so I used a bit of dried and that was fine. Served w/ salty tortilla chips, this was a hit~YUM! Thanks for sharing. :)

@@ -1,0 +1,73 @@
+Recipe number:
+272188.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-19T19:30:48.45
+helpfulCount:
+0
+userID:
+4562927
+Display Name:
+Kitty
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+66
+favoritesCount:
+616
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6746968.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I changed this a bit by adding a whole lb of bacon (yum) and 1/2 large onion to 1/2 head of chopped cabbage. Also added a capsule of Turmeric  Curcumin (1000 mg) instead of paprica.
+Can sprinkle paprica on top when serving.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-02T04:47:54.687
+helpfulCount:
+0
+userID:
+6929688
+Display Name:
+Katy
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+605
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it as is,  and I will make it again.  It was great with our black-eyed peas and cornbread for New Year's Day.

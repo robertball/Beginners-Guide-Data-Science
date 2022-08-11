@@ -1,0 +1,37 @@
+Recipe number:
+259109.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-11T18:58:25.713
+helpfulCount:
+1
+userID:
+23814769
+Display Name:
+Alyce Rosenthal
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5463712.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy recipe, beets came out good.

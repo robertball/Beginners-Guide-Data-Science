@@ -1,0 +1,37 @@
+Recipe number:
+235031.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-04-21T19:45:07.337
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+480
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was very curious to try this as it sounded like an unusual way to eat cereal.  First thing.. the mashed banana took longer than the recipe states to get any color o plan accordingly . It was also pretty difficult to brown as it was mashed up.. I didnt pulverize it, but it get very loose when heated in the oil.  I liked the idea of caramelizing the bananas, but I think slicing them and using less  oil might be better.. at least for me. The banana did form little delicious clumps with the cereal when mashed though...

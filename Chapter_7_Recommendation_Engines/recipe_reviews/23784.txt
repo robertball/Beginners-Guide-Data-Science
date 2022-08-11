@@ -1,0 +1,37 @@
+Recipe number:
+23784.txt
+Review:
+Rating:
+1
+dateLastModified:
+2005-12-29T17:20:27.403
+helpfulCount:
+22
+userID:
+1703278
+Display Name:
+Karen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If I could give this no stars, I would.

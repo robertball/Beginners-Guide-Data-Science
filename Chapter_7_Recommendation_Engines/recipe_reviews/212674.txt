@@ -1,0 +1,37 @@
+Recipe number:
+212674.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-11-17T17:26:04.537
+helpfulCount:
+4
+userID:
+2986909
+Display Name:
+Aevida
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy! I'm not a fan of sweet desserts (this has 1 cup of sugar), but this was pretty good. The first flavor to hit is the sugar, followed by the almond as you start to chew, and ending with a slightly menthal-y aftertaste from the cardamom. Using a mortar and pestle was a pain, as always, but I'll probably make this again the next time I have the ingredients on hand. Thank you, SUSMITA, for yet another delicious recipe!

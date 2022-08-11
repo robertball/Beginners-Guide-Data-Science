@@ -1,0 +1,37 @@
+Recipe number:
+247284.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-14T00:35:27.74
+helpfulCount:
+1
+userID:
+8506528
+Display Name:
+mventurini
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+99
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5900648.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Bless you for sharing this!

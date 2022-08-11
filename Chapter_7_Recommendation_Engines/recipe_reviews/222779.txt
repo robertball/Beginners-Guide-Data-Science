@@ -1,0 +1,107 @@
+Recipe number:
+222779.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-08T17:54:49.823
+helpfulCount:
+1
+userID:
+14850104
+Display Name:
+allison 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added cumin and soy sauce and didn't put in the Worcester sauce. It's so juicy and very easy to make!
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-27T14:49:09.81
+helpfulCount:
+0
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I subbed carrot for mushrooms. I didn't have horseradish mustard, so I used 1 T horseradish + 1 tsp yellow mustard. These tasted fantastic, but they were a tad bit salty and didn't hold together too well. Next time I make these, I'll use two whole eggs instead of 4 yolks and reduce the salt to 2 tsp.
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-27T15:09:36.027
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice burger.. kind of like meatloaf on a bun

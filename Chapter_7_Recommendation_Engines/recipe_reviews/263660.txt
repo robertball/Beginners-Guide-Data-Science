@@ -1,0 +1,37 @@
+Recipe number:
+263660.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-25T21:16:06.477
+helpfulCount:
+0
+userID:
+12124600
+Display Name:
+Darline Wright-Beyda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5584865.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I Added chicken (costco roasted) shredded, used cacique cheese, salsa instead of crushed tomatoes, and use red enchilada sauce instead of green.  Added shredded cheese to the top and guacamole to the last ten minutes of the bake. Excellent and easy to serve if you spray with pam before filling casserole tray.

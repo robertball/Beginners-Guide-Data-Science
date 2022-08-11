@@ -1,0 +1,144 @@
+Recipe number:
+257598.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-11T23:07:25.31
+helpfulCount:
+3
+userID:
+5676734
+Display Name:
+Nelle Renrut
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a recipe which used cilantro.  This was delicious.  I did it set tomato sauce as I didn't have any chopped tomatoes.  I will make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-28T20:45:21.343
+helpfulCount:
+3
+userID:
+16176845
+Display Name:
+Leslie Kelly
+isPro:
+False
+followersCount:
+181
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+2284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2615109.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So incredibly satisfying! It might sound like a lot of cumin, but  the other ingredients mellow that assertive spice out. 
+
+A quick and easy winner, winner chicken dinner!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-19T22:52:15.633
+helpfulCount:
+2
+userID:
+24456596
+Display Name:
+Bobbie Garcia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5911417.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing!! Few changes I made...I used 3 chicken breasts (sliced) and added chicken stock when cooking.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-06T07:35:10.713
+helpfulCount:
+0
+userID:
+26092299
+Display Name:
+Rohit Bhatia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7009073.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awsome delicious

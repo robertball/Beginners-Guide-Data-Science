@@ -1,0 +1,37 @@
+Recipe number:
+247330.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-01T03:02:16.097
+helpfulCount:
+0
+userID:
+15196861
+Display Name:
+claudiacarrera
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+209
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delicious. My family and friends loved it.

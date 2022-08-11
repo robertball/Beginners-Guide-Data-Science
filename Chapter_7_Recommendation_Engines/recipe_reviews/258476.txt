@@ -1,0 +1,72 @@
+Recipe number:
+258476.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-12T23:27:17.467
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9658
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out tasty. Next time I would add a little bit more lemon juice or even lime but that is the only change I would make. This would be a good base for making daiquiri's too.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-19T03:40:53.913
+helpfulCount:
+0
+userID:
+26533846
+Display Name:
+Wanda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good!  My family loved it!!

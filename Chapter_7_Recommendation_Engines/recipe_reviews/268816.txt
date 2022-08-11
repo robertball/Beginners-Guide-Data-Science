@@ -1,0 +1,72 @@
+Recipe number:
+268816.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-01T23:28:08.917
+helpfulCount:
+2
+userID:
+2956754
+Display Name:
+Peter Nichol
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2290006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only change I made was I  cooked the crumpets in a waffle maker . And they came out great.  Peter in NZ
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-04T14:53:10.827
+helpfulCount:
+0
+userID:
+17057713
+Display Name:
+Garda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+72
+favoritesCount:
+430
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe, loved it in the waffle maker. Today, now I have egg rings, am making it the "proper" way :).  I froze the last batch and then popped them in the toaster when ready to eat.

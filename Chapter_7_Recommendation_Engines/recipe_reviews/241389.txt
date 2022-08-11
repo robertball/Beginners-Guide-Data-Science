@@ -1,0 +1,37 @@
+Recipe number:
+241389.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-04T15:58:21.15
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12229
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love asparagus, I love grilled asparagus, I love sesame oil!  Winner! Excellent flavor.  My only comment would be you don't need 1/4 cup of sesame oil.  A Tablespoon will do, also there is both regular sesame oil which although flavorful is not as potent as Toasted Sesame Oil.  Either way, this is good.  Make it!

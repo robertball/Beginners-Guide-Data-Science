@@ -1,0 +1,37 @@
+Recipe number:
+275527.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-14T22:20:48.68
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9070
+followingCount:
+0
+madeRecipesCount:
+617
+favoritesCount:
+994
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’m giving this 4 stars due to mixed reviews. My mum loved it and thought the tomatoes were just what was needed, but I thought the entire dinner was lacking. It tasted alright but for me needed more.

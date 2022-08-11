@@ -1,0 +1,107 @@
+Recipe number:
+276512.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-17T22:48:41.4
+helpfulCount:
+2
+userID:
+8730245
+Display Name:
+Diana Anderson
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2757258.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A definite keeper!  Followed recipe with only one change - no fresh herbs so used dried.  I roasted potatoes but will use mashed next time to soak up even more of the delicious sauce
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-25T14:14:30.64
+helpfulCount:
+0
+userID:
+7614153
+Display Name:
+BeAlishuz1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7612295.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe with boneless breasts and I didn't have fresh sage so I used a ground ingredient. I also added two drops of hot sauce and a tablespoon or two of brown sugar. It gave it a small kick with sweetness to the sauce. It went well with the mashed potatoes but all in all it was great . This will be one of many types of chicken I make .
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-24T23:13:47.903
+helpfulCount:
+0
+userID:
+6725587
+Display Name:
+Susie Meza
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+905
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7511501.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was delish, my fam enjoyed it! Thanks for sharing the recipe.

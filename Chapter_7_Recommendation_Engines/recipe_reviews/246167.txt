@@ -1,0 +1,107 @@
+Recipe number:
+246167.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-18T19:36:53.453
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made one change and that is that instead of using the Lite Spam and adding taco seasoning (sodium) to it, I just bought Chorizo flavored Spam, eliminated the taco seasoning, and called it good. I didn't really know how I was going to shred the Spam so I just cubed it and that worked just fine. Lastly I used a tortilla bowl mold and prepared my tortilla's that way to make individual taco salads. Fun fun fun! Thanks for the recipe and the idea!
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-15T03:43:58.573
+helpfulCount:
+1
+userID:
+20334904
+Display Name:
+Jennifer Bales
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4568740.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good , next time i will also use the low sodium spam though. I used lite
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-29T15:09:22.823
+helpfulCount:
+1
+userID:
+11210811
+Display Name:
+Jan Barcelo
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved it . It's a change from the same old thing. Great recipe.

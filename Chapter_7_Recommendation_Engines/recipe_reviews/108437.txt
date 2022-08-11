@@ -1,0 +1,107 @@
+Recipe number:
+108437.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-08-08T10:46:56.95
+helpfulCount:
+10
+userID:
+930513
+Display Name:
+Jenn Harmon Jones
+isPro:
+False
+followersCount:
+56
+followingCount:
+0
+madeRecipesCount:
+239
+favoritesCount:
+1180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5286078.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was pretty tasty.  I added 1/2 of a large can of mandarin oranges (as suggested) with the juice, and just blended it (don't have a juicer).  It was thick and chunky (with fruit), but delicious.  My husband and I loved it.  Will make again.
+Review:
+Rating:
+4
+dateLastModified:
+2006-07-28T05:25:37.89
+helpfulCount:
+8
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+243
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to add a splash of milk as it was rather thick, and I personally would have liked it a little sweeter. Apart from that, this wasn't bad at all. Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2006-07-17T04:39:41.56
+helpfulCount:
+6
+userID:
+1748782
+Display Name:
+cbrown
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+66
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My friend's husband said, "This has potential."  And then he asked if there was any more!  He thought some mandarin oranges would make this drink even better.

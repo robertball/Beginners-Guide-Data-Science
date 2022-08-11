@@ -1,0 +1,108 @@
+Recipe number:
+230061.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-01T23:06:38.777
+helpfulCount:
+1
+userID:
+21579351
+Display Name:
+Linda Gross
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+751
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added Trader Joe's Smoked Paprika and that made it Perfect.
+I think next time I will cut down the amount of apples.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-18T03:14:35.843
+helpfulCount:
+0
+userID:
+12668262
+Display Name:
+Diane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+454
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the flavor of this soup.  The ginger and lime are perfect flavors with sweet potatoes.  I used raw sweet potatoes instead of canned and so added them with the apples.  This turned out a little thin but that was probably because of the change I made.  I also decreased the red pepper and cayenne according to my taste.  I will definitely make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-16T14:00:59.65
+helpfulCount:
+0
+userID:
+9887792
+Display Name:
+Julie Julie
+isPro:
+False
+followersCount:
+84
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+198
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2466715.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Adding a garnish swirl of cream or coconut milk at the end makes this recipe look and taste fancy.

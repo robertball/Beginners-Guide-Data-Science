@@ -1,0 +1,107 @@
+Recipe number:
+236216.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-06T16:57:10.41
+helpfulCount:
+0
+userID:
+17462577
+Display Name:
+jenwarn72
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Added some green chilies.
+Review:
+Rating:
+5
+dateLastModified:
+2014-03-04T19:27:39.29
+helpfulCount:
+0
+userID:
+10039990
+Display Name:
+Camille Stephens
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2985507.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great with townhouse crackers
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-02T18:45:28.87
+helpfulCount:
+0
+userID:
+6054394
+Display Name:
+connie murphy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was quite tasty. Most of my guests said it tasted like a burrito when eaten with nacho Doritos. I pla. To make this again for my next party. I too doubled the recipe.

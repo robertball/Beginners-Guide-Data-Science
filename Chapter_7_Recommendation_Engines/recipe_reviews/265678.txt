@@ -1,0 +1,108 @@
+Recipe number:
+265678.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-24T00:21:09.563
+helpfulCount:
+6
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A nice change of pace, and it comes together quickly too!  The flavor is nice, however I wouldn't call this a COCONUT curry soup...where's the coconut? (a tiny bit of coconut oil certainly isn't enough to flavor the soup)  Instead of adding water, I would add coconut milk next time. I used the juice of only 1/2 a lime, because I found that to be tart enough. I also used 1 tbsp lemongrass paste instead of a stalk, since I had some on hand. Consider adding the snow peas, zucchini and scallions in the final minute as to not overcook the veggies (and discolor the snow peas).  I didn't have any leftover chicken to toss in, but next time I will add some, or even some shrimp! Thanks for the tasty recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-16T12:47:14.97
+helpfulCount:
+0
+userID:
+12235744
+Display Name:
+bitzee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+80
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So good!  I shared the recipe with all my friends! No changes were necessary. I topped my bowl with some scirracha for kick. You could definitely add any kind of meat. I’m thinking shrimp next time.
+My husband put a little Soy sauce in his bowl. I didn’t use coconut oil, just olive oil but I wonder if sesame oil would add more Asian flare.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-12T22:54:56.62
+helpfulCount:
+0
+userID:
+17383485
+Display Name:
+Rene' Swanson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I put shrimp in it,and it was delicious!

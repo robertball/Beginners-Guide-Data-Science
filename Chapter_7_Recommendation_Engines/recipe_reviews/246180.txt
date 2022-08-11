@@ -1,0 +1,142 @@
+Recipe number:
+246180.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-06-22T00:37:25.333
+helpfulCount:
+0
+userID:
+13638579
+Display Name:
+King of the Coals
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5497359.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and added greek yogurt to it to thicken it up. I would like to make it again but cook the onions a bit to tame the sharp flavour. Oh and adding a bit of dill to the top was a great added flavour.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-18T12:35:31.637
+helpfulCount:
+0
+userID:
+22327851
+Display Name:
+Margaret Guild Lambert
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+197
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wanted something just a little different and this was it! I did add extra heat to it and it was just the right touch. Amazing  with chicken wings!! Poured over rice and with spring rolls. Will definitely make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-21T23:48:17.433
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this an another very similar recipe on the same night. I preferred this one better but I did like the flavor the chili powder added to the other recipe so I added some here too. I'm not sure what this is supposed to taste like traditionally but I'll say that it sure was good.
+Review:
+Rating:
+1
+dateLastModified:
+2016-11-27T23:52:21.403
+helpfulCount:
+0
+userID:
+4276642
+Display Name:
+Phil Westcott
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4138888.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this per recipe and it was not good. It tastes like spicy onion. It also lacks any classic Indian flavor. I thought I could improve it somehow but the onion base is just overpowering and cannot be improved. I do not recommend this.

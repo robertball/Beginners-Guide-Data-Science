@@ -1,0 +1,37 @@
+Recipe number:
+262008.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-17T00:46:50.823
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and I have no complaints. It's not the best Bulgogi I have ever had but it is still really good and for how simple it was I'm giving it a 5 star. I started out dipping the beef in the sauce but that was awkward with the rice and ended up dumping it over the entire dish and that worked better. I did cook my beef longer because I like a dark brown on Bulgogi. The longer it goes the more tender it gets and the sugar puts a deep rich brown on it. Definitely a keeper and one I would make again.

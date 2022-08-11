@@ -1,0 +1,72 @@
+Recipe number:
+231596.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-31T17:19:18.91
+helpfulCount:
+2
+userID:
+10301789
+Display Name:
+Angie Lemaire
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+640
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7365743.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy! Such a wonderful flavor with minimal effort. And inexpensive! There is some kick to it with the pepper, so this isn't one of those recipes where you don't notice it. Just a warning to those who don't do spicy at all. If you eat spicy food a lot, this won't phase you. I'm very impressed with the results of this recipe considering the simplicity of it.  I made as written. No subs, and no tweaking. Perfect as is. Why mess with a good thing.
+Review:
+Rating:
+5
+dateLastModified:
+2020-05-27T20:53:23.387
+helpfulCount:
+0
+userID:
+27571565
+Display Name:
+alexpk321
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was easy to prepare, did not take much time, and was just awesome.  Nice spicy jalapeno taste mates well with the pork and tomatoes, was gobbled up in record speed.  This will be a favorite way to prepare pork chops!

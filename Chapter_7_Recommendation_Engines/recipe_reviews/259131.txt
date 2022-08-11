@@ -1,0 +1,74 @@
+Recipe number:
+259131.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-03T01:35:18.083
+helpfulCount:
+0
+userID:
+14320432
+Display Name:
+Rachel G
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1472618.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used firm tofu with a bit of flax seed milk in place of silken (blended), uses flax seed milk instead of soy, used cinnamon, nutmeg, allspice, and a bit of ginger and cardamom (not traditional pumpkin pie spice but I love cardamom). I also subbed agave for maple syrup for about 1/2 cup because I ran out of maple syrup.
+
+This made 2 pies for me.
+Review:
+Rating:
+1
+dateLastModified:
+2018-11-12T04:17:03.977
+helpfulCount:
+0
+userID:
+11978942
+Display Name:
+frances
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not sweet enough. Needed other spices for more traditional flavor. This was super bland. A waste of good crust

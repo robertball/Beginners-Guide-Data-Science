@@ -1,0 +1,37 @@
+Recipe number:
+255604.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-06T15:25:53.757
+helpfulCount:
+0
+userID:
+14131579
+Display Name:
+SandyS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+395
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2733245.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup is so tasty and almost has a pickle flavour.  I'm always anxious for the sorrel to be ready in the spring so I can make this soup.

@@ -1,0 +1,37 @@
+Recipe number:
+274575.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-26T18:37:50.04
+helpfulCount:
+0
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+422
+followingCount:
+0
+madeRecipesCount:
+1034
+favoritesCount:
+1852
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Family loved it!  Followed directions except brought water and sugar to a boil dissolving sugar before adding in cornstarch as a slurry.  Chiffonaded basil.  Used crescent roll rounds and used the strips to make a lattice topping.  I thought that the amount of melted butter was a little excessive but I glad I ignored my intuition and used it all anyway!  Allowed to cool long enough to mostly set before serving warm.  Would be great with vanilla ice cream!  This recipe just says "3 strawberries," which is obviously incorrect.  I used 2 1-lb containers.

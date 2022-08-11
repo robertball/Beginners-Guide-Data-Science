@@ -1,0 +1,73 @@
+Recipe number:
+269710.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-23T19:26:57.253
+helpfulCount:
+12
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made exactly as written and plan on only getting 12 eggrolls instead of 24. These turned out good but the would have been better if I would have used the entire slice of cheese. You expect a cheesesteak to be oozing with melty cheese and these were not. I'm still giving this 4 stars but I do recommend the one change. Lay half of the cheese down first and then the meat mixture as the recipe instructs but then take the other half of the cheese slice and lay it on top of the meat mixture before rolling.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-12T23:19:29.69
+helpfulCount:
+3
+userID:
+6487466
+Display Name:
+BillandBecki Etling
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6254146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loves these!  I used a whole slice of American cheese and used half a pack of egg roll wraps( probably because I made them larger).
+Will try them in air fryer next time!

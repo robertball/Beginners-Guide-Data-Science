@@ -1,0 +1,73 @@
+Recipe number:
+234721.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-10T04:41:09.737
+helpfulCount:
+3
+userID:
+16712641
+Display Name:
+love to bake
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this a couple of days ago for our church women's coffee gathering and everyone loved it. I left a small loaf at home and my husband ate it and asked "who made this?"  I did!  "This is good!" He said.
+I used 1/2 cup less sugar and it was still a too sweet.  I didn't even put in chocolate chips.  Will use 1 cup sugar (cranberry is sweet too) when I make this next time.  I used only 3/4 c sugar for 2 c flour to make banana bread.
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-12T04:05:45.613
+helpfulCount:
+1
+userID:
+15816673
+Display Name:
+Crosbyangel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a little dense but delicious !  The recipe says to use TWO loaf pans but I thought there was not enough batter for two pans because they were small loaves. Next time I'll put it all in one loaf pan and see what happens. The sugar can be cut down by a half cup and still be good.

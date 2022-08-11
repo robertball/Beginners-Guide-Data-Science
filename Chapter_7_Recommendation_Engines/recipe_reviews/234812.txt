@@ -1,0 +1,145 @@
+Recipe number:
+234812.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-06T11:30:43.35
+helpfulCount:
+9
+userID:
+3213041
+Display Name:
+Karen Koppy
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+1050
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4885793.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sandwiches turned out great.  I'll be making this again - followed the recipe as written.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-22T11:46:07.513
+helpfulCount:
+8
+userID:
+6548862
+Display Name:
+Andreas Müller
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+89
+favoritesCount:
+114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5080646.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love pulled pork and I use varying recipes. This is one of the easier ones and it relies on using your favorite BBQ sauce on the meat in the end, it will not make its own. 
+Having said that, it produces a great flavor in the meat itself and I would strongly advise to keep quite a bit of the juices after cooking, so you can mix them in with your favorite BBQ sauce, thus keeping some of the original distinctive flavor in the dish. 
+We usually have pulled pork not on buns but with mashed potato and therefore enjoy a good amount of sauce. I ended up using almost half the juices and didn't regret it, the coffee adds a very special something. 
+I used some bacon-flavored BBQ sauce as well as some chipotle seasoning to round it off and give it a kick. Will certainly make this again!
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-26T10:56:34.46
+helpfulCount:
+3
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good... next time I will not save only 1/2c of the juices.. it needed more juice and sauce
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-30T22:09:29.143
+helpfulCount:
+0
+userID:
+13321751
+Display Name:
+Tall Timbers Kook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+312
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it.  Like the flavor from the coffee. Need to adjust my bbq sauce.  I kept all the liquid to mix with the sauce and I am glad I did.

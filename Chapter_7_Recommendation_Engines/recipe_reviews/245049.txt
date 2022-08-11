@@ -1,0 +1,177 @@
+Recipe number:
+245049.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-02T02:06:12.163
+helpfulCount:
+1
+userID:
+24862071
+Display Name:
+Dave Bruce
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6286606.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Take the bacon off and brown turkey at the end for 45 minutes
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-23T00:44:45.983
+helpfulCount:
+1
+userID:
+16929438
+Display Name:
+Spring Waldron
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2912165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious.  I chopped sage and parsley into soften butter and refrigerated it. I put small pats of the herb butter under the skin. The bacon added more flavor, there was none of the bacon left and barely any turkey.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-08T00:14:55.81
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used an 8 pound bone in turkey breast and that worked just fine too. I didn't really taste the bacon in the turkey meat but it sure kept it moist. I had to cover it with foil in the last hour to prevent the bacon from getting too done but other than that I made as written.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-24T03:37:43.77
+helpfulCount:
+0
+userID:
+24499298
+Display Name:
+Cheryl Bost Feazell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5941517.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Looks as good as it tastes. No basting. EASY for novice
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-22T21:59:38.967
+helpfulCount:
+0
+userID:
+4722582
+Display Name:
+Tamara Boulton Powers
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7328808.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was easy to make and my husband LOVED it!

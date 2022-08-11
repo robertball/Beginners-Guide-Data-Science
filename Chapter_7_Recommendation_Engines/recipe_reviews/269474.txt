@@ -1,0 +1,72 @@
+Recipe number:
+269474.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-29T04:40:44.407
+helpfulCount:
+1
+userID:
+18064141
+Display Name:
+Elizabeth Currier
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+93
+favoritesCount:
+197
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8360057.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think it would have tasted better had I made it correctly. I followed the recipe religiously, so it wasn't that I missed out, added or changed an amount of any ingredient. It could be that the recipe is flawed, but I think it more likely my novice baking skills are to blame. The lemon flavor didn't shine through and the cake turned out very dense. It sounded so good!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-05T23:27:00.14
+helpfulCount:
+0
+userID:
+6695730
+Display Name:
+Jodie Main
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+585
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Never baked a mochi cake before and even with a blended flour (we had Bob's Red Mill Gluten Free 1:1 Baking Flour) this was delicious and very reminiscent of mochi to us. Had to sub lemon juice for extract as I don't typically stock extract; seemed to work overall, just milder lemon flavor.  Will make again like this, just with  extra lemon juice & fresh zest next time.

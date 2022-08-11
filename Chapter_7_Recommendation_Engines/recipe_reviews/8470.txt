@@ -1,0 +1,72 @@
+Recipe number:
+8470.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-08-16T10:05:14.243
+helpfulCount:
+5
+userID:
+2371226
+Display Name:
+AEENJOY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/20.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I am not a huge fruitcake fan myself, but a close friend is and I gave this recipe to her. She insisted that I try some of the cake, and she raved abotu the exceptional taste and flavor. To me, the cake tasted the same as all the other fruitcakes I had encountered. I think that if you are really a fruitcake lover and are looking for a wonderful recipe, you've met your match. However, if you really don't like fruitcake, don't expect this recipe to work miracles. This cake is nothing special unless you especially love fruitcake.
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-05T21:34:33.46
+helpfulCount:
+0
+userID:
+8055240
+Display Name:
+Sarah Bowdidge
+isPro:
+False
+followersCount:
+22
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2001833.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good recipe and instructions.  I would make this again.  My only suggestion is to put the booze in the cake, rather than just soaking a cheese cloth and wrappu g the cake.

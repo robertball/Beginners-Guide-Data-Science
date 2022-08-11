@@ -1,0 +1,72 @@
+Recipe number:
+247450.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-24T01:46:54.61
+helpfulCount:
+0
+userID:
+11057074
+Display Name:
+Kathryn Fyffe Harrison
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5651758.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This salad is lovely, delish and easy to make. My family enjoyed it. I will make this again before summer peach season ends. I added a touch of cardamom just for a nice surprise.
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-26T01:05:37.91
+helpfulCount:
+0
+userID:
+5317714
+Display Name:
+Donna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+455
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing!  The flavors blend well. It was a great compliment to our grilled ground sirloin steak. Mad dinner taste gourmet! You will not be disappointed. I made the bread by pressing the clove of garlic and putting it in the olive oil and adding a little punch of basil and oregano and brushing it on the bread before grilling.

@@ -1,0 +1,37 @@
+Recipe number:
+261861.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-18T22:09:43.33
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor on these was fine... just the crust got a bit soggy from the fresh apple.  I also think plain graham cracker would have been a better fit with the caramel..

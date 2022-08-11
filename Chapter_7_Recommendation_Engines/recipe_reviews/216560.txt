@@ -1,0 +1,109 @@
+Recipe number:
+216560.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-01T14:08:29.533
+helpfulCount:
+27
+userID:
+8266564
+Display Name:
+aphroditi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were amazing! I made them for my holiday cookie tray and they were a big hit! I used white chocolate instead if candy dip, and refrigerated them to solidify it and it was amazing. I definitely recommend adding the orange extract, as the flavor combined with the white chocolate and coconut was fabulous. 
+
+One caution though is that the cookies are very fragile when still warm after cooking. I lost a couple to the dipping process when they crumbled into the white chocolate. I then had to use a spoon to get the crumbs out. Once they were dipped and chilled, they held together quite well, and survived a 2 hour drive over a curvy road perfectly.
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-12T13:48:31.177
+helpfulCount:
+7
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were better than expected. I made the recipe for the Allstars Allrecipe's group for recipes without photos. I made 1/2 recipe and got exactly 18 cookies, using a cookie scoop. I did add the optional extracts. Be careful, as a little goes a long way! I also tried white jimmies and coconut. The coconut gave it a slight tropical taste and the white chocolate made it taste, just as expected, like a white chocolate and orange cookie. I used real white chocolate and melted 1 cup for 1/2 the recipe. I only ended up using about half of it though, and it was plenty. I had to bake mine for 18 minutes.
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-15T21:31:37.48
+helpfulCount:
+2
+userID:
+162660
+Display Name:
+Diane Blanchard Angell
+isPro:
+False
+followersCount:
+42
+followingCount:
+0
+madeRecipesCount:
+233
+favoritesCount:
+699
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1264919.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+By using the 1-1/2 tablespoons of dough per cookie, I got 25.  Nice little treat without being overly sweet.  :)

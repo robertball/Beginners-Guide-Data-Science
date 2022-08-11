@@ -1,0 +1,62 @@
+Recipe number:
+254555.txt
+Review:
+Rating:
+5
+dateLastModified:
+09/03/2016
+helpfulCount:
+1
+userID:
+20360345
+Display Name:
+Artistada
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Delicious and pairs well with pork BBQ and baked beans!
+Review:
+Rating:
+3
+dateLastModified:
+12/26/2016
+helpfulCount:
+0
+userID:
+3819995
+Display Name:
+jcallahan
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+It turned out on the dry side but pretty tasty. I will use twice the sauce next time
+Review:
+Rating:
+4
+dateLastModified:
+07/29/2016
+helpfulCount:
+0
+userID:
+souplovingnicole
+Display Name:
+Soup Loving Nicole
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/930778.jpg
+text:
+Made my own Alfredo sauce and I really liked this. The one thing I did not like was the bread crumb topping. Leave it out and you have 5 stars all the way!
+Review:
+Rating:
+5
+dateLastModified:
+08/16/2016
+helpfulCount:
+0
+userID:
+houseofaqua
+Display Name:
+House of Aqua
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4502428.jpg
+text:
+My favorite macaroni and cheese recipe involves cream cheese milk cream and a lot of extra steps and clean up. I was surprised how much this easier version tastes like my "go to" recipe! I left out the Rotel since my daughter doesn't like that but definitely add the bread topping. My favorite is Trader Joes Garlic Croutons!

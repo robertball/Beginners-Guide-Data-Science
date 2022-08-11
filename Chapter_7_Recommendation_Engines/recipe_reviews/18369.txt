@@ -1,0 +1,37 @@
+Recipe number:
+18369.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-01-17T16:37:59.16
+helpfulCount:
+2
+userID:
+742336
+Display Name:
+amydoll
+isPro:
+False
+followersCount:
+47
+followingCount:
+0
+madeRecipesCount:
+795
+favoritesCount:
+271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/76165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really easy to make, and it tastes great! Honestly though, I don't think it even needs the sugar in the filling. You could leave out the pumpkin pie spice too. This would be really good with some crushed Butterfingers or Heath bars on top.

@@ -1,0 +1,73 @@
+Recipe number:
+229500.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-29T09:28:55.99
+helpfulCount:
+2
+userID:
+6269717
+Display Name:
+kblang
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+578
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a low fat pumpkin muffin recipe with a spicy kick, and this was perfect.  The muffins are moist and nicely spiced and my family loved them.  I didn't have any pumpkin seeds, but they are delicious without them.
+Review:
+Rating:
+4
+dateLastModified:
+2012-10-28T09:07:23.253
+helpfulCount:
+1
+userID:
+9930319
+Display Name:
+Lilifirr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/920343.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this recipe is really good! 
+i would just make it a bit simpler! :)

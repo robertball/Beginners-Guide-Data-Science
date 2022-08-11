@@ -1,0 +1,37 @@
+Recipe number:
+275629.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-15T18:23:54.39
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+471
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+To be honest, I completely missed the part about processing the pay mixture because adding the wet ingredients. However, it did turn into a happy accident. The texture was absolutely fine and the flavor was perfect! My kids have been sneaking away and gobbling them up all day.

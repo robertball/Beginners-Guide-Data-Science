@@ -1,0 +1,72 @@
+Recipe number:
+268961.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-27T19:38:27.52
+helpfulCount:
+0
+userID:
+4975137
+Display Name:
+CJB
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+1663
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great flavor from the marinade! I was running short on time, so I wound up simmering the beef chunks in a little bit of the marinade to get more of the flavor in - next time I'll try to plan ahead so I can let it sit for the 2-3 hours. Topped with some fresh cilantro and pico de gallo - muy bueno!!!
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-09T01:15:08.233
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out really good. I did make one change. Asada translates to grilled and so I grilled the meat.

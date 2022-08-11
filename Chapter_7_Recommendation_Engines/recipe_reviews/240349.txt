@@ -1,0 +1,41 @@
+Recipe number:
+240349.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-12T11:35:28.44
+helpfulCount:
+0
+userID:
+10025579
+Display Name:
+Brenna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this recipe for Sunday brunch, and it turned out really delicious! Very easy recipe to follow as well, especially since this was my first attempt at making scones. Helps to do all the prep work ahead of time, or even make the night before.
+
+Only change I made to the original recipe was that I used half the butter suggested because it was all I had on hand(I only 1/4 cup.  I thought these still turned out super delicious!
+
+Served with Greek yogurt and homemade jam

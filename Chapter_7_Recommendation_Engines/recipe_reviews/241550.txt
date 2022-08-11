@@ -1,0 +1,72 @@
+Recipe number:
+241550.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-18T01:13:43.803
+helpfulCount:
+0
+userID:
+21540277
+Display Name:
+CindyR
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+56
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4477751.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick and easy recipe that the whole family enjoyed.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-09T01:05:58.367
+helpfulCount:
+0
+userID:
+26106070
+Display Name:
+Eddy & Abby Hood
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7020047.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came together quick. I pan fried the chicken and combined quick frozen thighs and breasts and seasoned them. (I like more seasoning for the chicken) I added garlic powder to the soups/mayo mix.  400 degrees was too high for my oven - did 400 for 25 min, then deceased to 350 for 10 min - came out steaming and tasty!

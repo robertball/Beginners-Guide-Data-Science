@@ -1,0 +1,110 @@
+Recipe number:
+254708.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-10T12:33:17.033
+helpfulCount:
+5
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This may vey well be the World's best vegan cheese. It is delicious and took minutes to make.  I added a bit extra nutritional yeast because my chickpea flour gave it a slight bitter taste. The extra yeast toned that down. I served it with tortillas for a vegan version of chips and queso. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-20T17:24:24.49
+helpfulCount:
+4
+userID:
+4069558
+Display Name:
+gakumike
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+103
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like this recipe and my son likes it on broccoli.
+I needed much more water than the recipe calls for.  I used two cups initially and two more during the simmering.
+I doubled the amount of nutritional yeast and added a teaspoon each of turmeric and smoked paprika to give it a stronger cheese flavor and color.
+Keep stirring to prevent lumps!
+Review:
+Rating:
+2
+dateLastModified:
+2017-02-25T18:32:56.44
+helpfulCount:
+1
+userID:
+21482660
+Display Name:
+Emma Epps
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When I made it, I didnt have chickpea flour so I ended up using 1/4 cup more of the rice flour and a 1/4 cup of all purpose flour. It ended up just looking and tasting like gravy. I made a bunch of changes to it, and ended up making it edible. Added almond milk, lemon juice, some cayenne powder,  garlic powder, extra nutritional yeast, and then even melted store bought vegan cheese into it.  Tastes somewhat like cheese now but also tastes like an almond dip.

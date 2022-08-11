@@ -1,0 +1,37 @@
+Recipe number:
+73529.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-08-13T06:43:40.733
+helpfulCount:
+1
+userID:
+1021107
+Display Name:
+bulldogmom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are really very good.  Very easy to follow the recipe.  I did make one change because I didn't have canned tomato on hand. I used Hunt's tomato sauce and chopped onion..Thanks I will make this again.

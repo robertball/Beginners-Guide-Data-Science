@@ -1,0 +1,432 @@
+Recipe number:
+256425.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-18T18:35:20.79
+helpfulCount:
+5
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't like flavored or sweet coffee but made this for my husband and he said that it was really good but that it could have used a little bit more vanilla. I plan on experimenting with other flavors for him. Thanks for sharing!
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-16T23:13:01.89
+helpfulCount:
+4
+userID:
+12473335
+Display Name:
+Rhonda T
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this creamer using the Carmel sweetened condensed milk. I thought it was good and economical. My husband thought it was lacking enough flavor but good overall.
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-27T22:23:42.527
+helpfulCount:
+3
+userID:
+4775879
+Display Name:
+Mom3Boys
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4843873.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good recipe if you are trying to save $ since coffee creamer is expensive.  My husband is one that has a little coffee with his creamer so we are always having to buy more.  I followed the directions (super easy).  I look forward to trying different flavors, maybe different types of milk like almond or coconut.
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-16T16:01:15.527
+helpfulCount:
+2
+userID:
+22292182
+Display Name:
+Chris Frey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There are a lot of variations, play with this recipe!
+You can use hemp, coconut or almond milk in place of milk, and I use more like 2 1/4c because sweetened condensed milk is crazy sweet. 
+When I use hemp milk (which is thicker), I add something thinner for the extra 1/2c so that it's not so thick.
+Also, in place of vanilla extract you can use almond extract!
+So simple and versatile!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-07T03:42:23.657
+helpfulCount:
+1
+userID:
+9658203
+Display Name:
+Katelyn Shadden
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+183
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7011887.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added extra vanilla and it was amazing! So good in iced coffee
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-16T01:17:12.627
+helpfulCount:
+1
+userID:
+13349224
+Display Name:
+karen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it as the recipe states and also made it with caramel sweetened condensed milk. I like them both.  Very easy!
+Review:
+Rating:
+3
+dateLastModified:
+2017-05-22T13:35:58.84
+helpfulCount:
+1
+userID:
+18170822
+Display Name:
+Christina Peterson
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3658585.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I ended up adding a teaspoon more vanilla and a small amount of sugar to it. it just wasn't sweet enough.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-12T17:39:32.557
+helpfulCount:
+0
+userID:
+4165839
+Display Name:
+Sharon Gneiser Douglas Hunter
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1564
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1658314.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+my man really likes it
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-25T20:35:45.427
+helpfulCount:
+0
+userID:
+20505815
+Display Name:
+Gem Murray
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3994990.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Forgot to by creamer at the store, so I figured I would give this a try. 
+I made my own sweetened condensed milk with
+1 (12 oz) can evap milk
+1 ³/4 cup sugar
+1 tsp vanilla
+
+Then I added everything to the recipe above. I like it. I will definitely make it again. I think I'm going to play with flavors next time.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-19T01:02:18.713
+helpfulCount:
+0
+userID:
+18068100
+Display Name:
+Shannon Troger Comstock
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3595072.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This works and it tastes better than what you buy!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-27T02:36:36.313
+helpfulCount:
+0
+userID:
+11367939
+Display Name:
+Patrick Swick
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+780
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7419266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+scrumptious!!
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-18T17:51:35.107
+helpfulCount:
+0
+userID:
+24927324
+Display Name:
+Army Wife 13B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6250410.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simply easy to make but I did have to add more  Vanilla extract, heavy whipping cream and sugar to make it  More like a creamer you would buy in the store which were use to.   I think this recipe is a great start to tweak the way you want it.

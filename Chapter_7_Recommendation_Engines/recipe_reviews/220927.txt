@@ -1,0 +1,108 @@
+Recipe number:
+220927.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-07T04:16:46.997
+helpfulCount:
+2
+userID:
+21350325
+Display Name:
+Rebecca Persephone Borden
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4463544.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make these and send them to my vegan son for birthdays and Christmas. He loves them. I use cashew butter and brown sugar as substitutes for the cashews and turbinado sugar.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-15T00:10:20.123
+helpfulCount:
+2
+userID:
+11918449
+Display Name:
+Deanna Kinsella Grabelle
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3470429.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+these were very easy to make and delicious!
+Review:
+Rating:
+2
+dateLastModified:
+2016-12-05T01:33:29.243
+helpfulCount:
+1
+userID:
+15531084
+Display Name:
+Annamae
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very Very bland, with a lot of texture. Why do vegan recipes always call for random ingredients? I would suggest either using sweetened coconut OR use 1/2 cup of white sugar. The sugar in this recipe is harder to find and raw, so it's not sweet at all. 
+I will try them again substituting the sugar and also adding 1/2 tsp of vanilla extract and review at that time as well.

@@ -1,0 +1,72 @@
+Recipe number:
+260589.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-05T11:32:05.847
+helpfulCount:
+3
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+431
+favoritesCount:
+911
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a surprising winner in my house. I used half mild and half hot Hatch green chile and omitted the garlic salt and used fresh garlic instead. I would say to salt to your taste. I actually didn't add any salt but, I also used homemade broth and it was a little saltier than usual. Zucchini was omitted simply because something ate the ones in my garden. They weren't missed and after simmering for an hour they would have been mush anyways.  This was perfect for comfort food with a bit of spice.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-06T16:15:03.403
+helpfulCount:
+0
+userID:
+9598780
+Display Name:
+Ingrid
+isPro:
+False
+followersCount:
+74
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+648
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2383890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Healthy, hearty green chile stew with loads of flavor. Freezes beautifully! I like to add beans and corn and use hatch NM chile.

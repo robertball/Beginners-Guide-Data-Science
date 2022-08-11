@@ -1,0 +1,72 @@
+Recipe number:
+244689.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-10T18:41:59.63
+helpfulCount:
+0
+userID:
+811040
+Display Name:
+THEBACCHUS
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+270
+favoritesCount:
+639
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5745989.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This has very good flavor, although I didn’t think there was enough sauce for my sauce-loving husband, so I added a can of chicken broth. It was a little soupy, so I thickened with flour, but it made it perfect over pasta (I didn’t have egg noodles). Of course the key is getting a good browning on your chicken which gives the sauce it’s flavor. I also added a bit of sugar, as I used a dry Traminette which made the sauce somewhat acidic (the author didn’t specify, but most Riesling’s in the US are sweet). This was delicious and a definite make again!
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-26T17:42:34.503
+helpfulCount:
+0
+userID:
+13906889
+Display Name:
+Andy Harbin
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5167629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+De-boned a whole chicken and used that for the meat which worked really well. Everyone who tried it thought it was fantastic.  I served it with home made spätzli noodles to make it more authentic to the Alsace region.  Will make it again!

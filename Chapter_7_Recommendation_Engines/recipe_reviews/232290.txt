@@ -1,0 +1,107 @@
+Recipe number:
+232290.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-04-13T04:41:59.28
+helpfulCount:
+3
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1661
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Instead of hot dogs, I used half of a package kielbasa. The recipe didn't specify which kind of hashbrown potatoes to use, I made my own from scratch. Both the kids had ketchup on theirs, the grownups used hot sauce instead. This was inhaled--NO leftovers.
+Review:
+Rating:
+4
+dateLastModified:
+2013-04-27T20:36:33.92
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty.. would recommend less potatoes and add plenty of seasonings
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-27T04:39:59.783
+helpfulCount:
+0
+userID:
+6554314
+Display Name:
+muddog15
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had problems with the amount of potatos. I used 3 or 4 cups & for 2 people,  it was still to munch,  next time I'll use less. I'll also cook everything seperate becaus the potatoes never browned in the pan after I mixed them with the eggs. Almost any knid of mest would be good with this meal,  I added shredded cheddar cheese to one serving, overall this is a recipe I want to try again.

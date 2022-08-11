@@ -1,0 +1,37 @@
+Recipe number:
+245573.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-04-30T18:57:32.967
+helpfulCount:
+0
+userID:
+3509222
+Display Name:
+Chelsey Carr
+isPro:
+False
+followersCount:
+70
+followingCount:
+0
+madeRecipesCount:
+140
+favoritesCount:
+5366
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3266587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't sure what to think about this recipe, with all of the ingredients listed, but I cut the ingredients in half & made it anyway. This recipe was not for me :( I didn't like the texture, the strawberries couldn't be quite puréed so there were chunks of them throughout; which was fine with me, but I just didn't like all of the flavours together. I don't think this will be eaten, I will not make it again.

@@ -1,0 +1,37 @@
+Recipe number:
+36340.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-07-22T11:29:17.873
+helpfulCount:
+26
+userID:
+3533
+Display Name:
+Michelle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good!  The relish was tasty too.  I bought the Montreal Chicken seasoning while I was at it and did chicken skewers too, (which the kids preferred over the beef.)  I would recommend this dish for a barbeque.

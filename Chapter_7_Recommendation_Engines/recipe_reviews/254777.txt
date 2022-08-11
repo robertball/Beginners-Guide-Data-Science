@@ -1,0 +1,37 @@
+Recipe number:
+254777.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-24T01:57:53.06
+helpfulCount:
+1
+userID:
+11511705
+Display Name:
+Louise
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this cake! I made  just a few small changes in the recipe to make it healthier. Instead of 1 1/2 cups of oil, I used 3/4 cups coconut oil and 3/4 cups applesauce. I added about 1/2 cup of pecans  as well.  I baked this in a 9 x 13 pan and halved the icing recipe. I felt the icing was a bit too sweet and would increase the cream cheese and add less sugar next time. This was a real hit tonight with a group of friends and I'll definitely make it again.

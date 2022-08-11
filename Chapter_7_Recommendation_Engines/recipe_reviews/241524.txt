@@ -1,0 +1,72 @@
+Recipe number:
+241524.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-25T00:23:18.933
+helpfulCount:
+6
+userID:
+11948397
+Display Name:
+elizabeth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe calls for too much butter, I'd go for 1 1/4 sticks or even just 1 stick next time. I used 1 tsp vanilla and 1 tsp almond extract to give it more of a marzipan like taste/smell. And I used more almond flour instead of the coconut flakes as I wanted it to be an almond treat. It was delicious, just richer than necessary to be so delicious. The baked crust was amazingly delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-13T03:09:55.307
+helpfulCount:
+2
+userID:
+21387381
+Display Name:
+Britney Millman
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So moist it's almost more like a custard than a cake. Absolutely delicious. Will definitely make again

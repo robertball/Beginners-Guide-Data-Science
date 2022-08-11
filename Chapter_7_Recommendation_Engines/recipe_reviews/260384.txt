@@ -1,0 +1,37 @@
+Recipe number:
+260384.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-08T13:23:30.927
+helpfulCount:
+3
+userID:
+8633474
+Display Name:
+Paula Glidden
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+103
+favoritesCount:
+736
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4038897.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Only a couple changes: had no oat fiber (whatever that is) so I used flax meal)  and used coconut cream instead of heavy cream (dairy intolerant). They turned out great, just like Auntrocky said. I will definitely make this again.  And another thing, using a 1/4 cup measure, I only got 8 pancakes.

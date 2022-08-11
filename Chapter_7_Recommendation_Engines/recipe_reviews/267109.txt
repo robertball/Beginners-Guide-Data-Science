@@ -1,0 +1,107 @@
+Recipe number:
+267109.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-14T03:08:41.637
+helpfulCount:
+4
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great flavor with a hint of heat that is sure to become a fave snack. I don't have the ability to set my fryer to 350F, so I did 360F for 8 mins, stirred, 5 mins, stirred, then I lowered it to the next lowest temp of 330F and did an additional 5 mins. Nice and crunchy! It's hard not to eat the whole batch by myself!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-02T17:15:15.437
+helpfulCount:
+1
+userID:
+2237913
+Display Name:
+Edie Gardiner Snyder
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+162
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4897779.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love Love crispy chickpeas.  I used Frank's Hot Sauce and oh so yummy from my air fryer.  Cannot beat the calories and the feel of added nutrition.  Want to try other options as well like seasalt and pepper,  Lemon herb....oh the ideas that come to mind!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-19T21:54:47.923
+helpfulCount:
+1
+userID:
+14321938
+Display Name:
+Cathy Mayle
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1473359.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were great! I did cook at 360 degrees for about 18 minutes total, shaking a couple times in between.  I like them crispy. This is a keeper! It is not really spicy either, which I don't mind.

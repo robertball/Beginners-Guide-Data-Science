@@ -1,0 +1,37 @@
+Recipe number:
+270466.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-13T03:18:27.073
+helpfulCount:
+1
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sounded good, but I found it lacking. I think it may need more seasoning, and perhaps onions, green chiles, etc.,

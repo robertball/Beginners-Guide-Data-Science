@@ -1,0 +1,107 @@
+Recipe number:
+23633.txt
+Review:
+Rating:
+5
+dateLastModified:
+11/16/2005
+helpfulCount:
+1
+userID:
+1167740
+Display Name:
+ALISE333
+photo:
+global/features/17.gif
+text:
+Very tastey & easy to make! will def make again
+Review:
+Rating:
+4
+dateLastModified:
+10/01/2005
+helpfulCount:
+0
+userID:
+1434110
+Display Name:
+MISSILLZ
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/643339.jpg
+text:
+My family loved thie recipe!!! Very easy to make and very tasty!
+Review:
+Rating:
+5
+dateLastModified:
+11/08/2005
+helpfulCount:
+0
+userID:
+1580251
+Display Name:
+kristen
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+this was very quick and easy to make. it was also just as satisfying for my one year old as it was for my husband.
+Review:
+Rating:
+5
+dateLastModified:
+03/10/2008
+helpfulCount:
+0
+userID:
+2738181
+Display Name:
+Kristy
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4283629.jpg
+text:
+I loved this. It was so easy. The only changes I made was to cut the chicken into cubes so we had bite size pieces. I went a little healther and used butter flavored spray instead of butter and fat free sour cream. Was great for 2 days of leftovers for a family of 2.
+Review:
+Rating:
+5
+dateLastModified:
+02/23/2005
+helpfulCount:
+0
+userID:
+1357646
+Display Name:
+SARAHHAMMOND
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My fiance and I loved this recipe! There is a great variety of flavors, something that everyone in the family can enjoy!
+Review:
+Rating:
+5
+dateLastModified:
+04/26/2006
+helpfulCount:
+0
+userID:
+1408106
+Display Name:
+Rhackett05
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is an excellent recipe. I used Bird's Eye Frozen grean beands with almonds and it worked well.
+Review:
+Rating:
+3
+dateLastModified:
+04/27/2005
+helpfulCount:
+0
+userID:
+922740
+Display Name:
+HELYNNSPAFF
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Just ok. No raves at my house.

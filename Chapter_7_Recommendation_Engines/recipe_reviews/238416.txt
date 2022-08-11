@@ -1,0 +1,72 @@
+Recipe number:
+238416.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-08T15:33:09.89
+helpfulCount:
+1
+userID:
+21948200
+Display Name:
+Marissa Weil
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very yummy! Definitely go with the salt and honey (although I used organic maple syrup instead), and I would recommend adding just a dash of vanilla extract. The first time I made it, I poured too much vanilla, so be cautious of that.
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-13T11:00:22.59
+helpfulCount:
+0
+userID:
+2917766
+Display Name:
+LadyRed
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes I will make it again. It's great and better then store bought.

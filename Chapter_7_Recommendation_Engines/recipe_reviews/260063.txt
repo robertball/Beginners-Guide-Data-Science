@@ -1,0 +1,107 @@
+Recipe number:
+260063.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-04T22:07:13.487
+helpfulCount:
+2
+userID:
+12355300
+Display Name:
+Lisa S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3259734.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I modified this because it would have been  a bit bland. I cheat and use the Vietnamese beef flavor  pho paste or beef broth mix.  I cut up pickeled garlic as well,since this gives it a little bit of a punch , a few sprigs of the cilantro stalk with the leaf, and 2 full onions  into the pot while it cooks.  I most certainly added oyster sauce after it cooked and lots of fresh Thai chilies  as well as sriracha.  The meat i used was beef ribs and shank and it was so tender I could not believe the time it took was short compared to the hours  i spent in the past making broth.  Overall it was pretty good but you always have to modify to your taste and liking.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-18T18:18:45.763
+helpfulCount:
+0
+userID:
+12374874
+Display Name:
+mgarrigues
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cheated with some pre-packaged items mostly because I’m lazy.  I used a pho spice packet of cardamom, cinnamon, star anise, coriander seeds, cloves ($1.99 at the Asian market).  I omitted the beef bones step entirely and used a couple of beef pho broth cubes ($0.99 for a pack of four).  The rest of the recipe I kept the same.  This recipe was so fast and easy to make.  The pho turned out to be very flavorful and my family loved it!  I’m going to try it with beef shank or short ribs next time.
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-10T06:52:11.93
+helpfulCount:
+0
+userID:
+23136790
+Display Name:
+Genevieve Vergara
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5532559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used beef shank and beef marrow bones for the soup bones. the broth was good but nothing to write home about. Enjoyed the beef shank  meat quite a lot. Probably needs some sriacha and oyster sauce.

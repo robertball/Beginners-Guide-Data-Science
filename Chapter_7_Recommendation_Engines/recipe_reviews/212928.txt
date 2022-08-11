@@ -1,0 +1,47 @@
+Recipe number:
+212928.txt
+Review:
+Rating:
+5
+dateLastModified:
+04/12/2012
+helpfulCount:
+2
+userID:
+3435840
+Display Name:
+briang
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Perfect recipe. I followed the directions and the meal came out exactly as expected. I wouldn't change a thing. I was looking for a WOK meal that was easy and tasty and this is the one. Thank you!!!!!
+Review:
+Rating:
+5
+dateLastModified:
+06/28/2016
+helpfulCount:
+1
+userID:
+16318560
+Display Name:
+WyattB
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I made this for my girlfriend who is Filipino and she said it was nostalgic. I followed this recipe precisely as I have predominantly cooked European dishes and it has turned out great.
+Review:
+Rating:
+4
+dateLastModified:
+05/27/2016
+helpfulCount:
+0
+userID:
+8493278
+Display Name:
+peawormsworth
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+It's good. But 1 tablespoon does not mix into 1 teaspoon of water. I used 2 teaspoons.

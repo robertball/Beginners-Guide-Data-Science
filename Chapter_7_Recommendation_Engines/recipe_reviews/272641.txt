@@ -1,0 +1,72 @@
+Recipe number:
+272641.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-11T13:18:07.3
+helpfulCount:
+0
+userID:
+3646552
+Display Name:
+Arlene Marin
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1397364.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was dubious about a recipe with only 1 review, but I tried it anyway. Doubled the recipe. Put sliced yukon potatoes on the bottom of a roasting pan together with a package of mini carrots.  Chicken on top and then sauce.  Used boneless thighs and drumsticks (15 pieces). Baked 45 minutes at 400 F.  The meat broke apart with a fork. My son said I should post a review.  My only complaint was that the wasn't enough sauce, I will increase that next time.
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-26T16:12:43.52
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is nice. I recommend trying it. However, I think the balsamic vinegar masks the dill pickle flavor. Next time, I will use the dill pickle brine in place of the vinegar. The amount of sauce is fantastic. I will add potatoes to it next time, too.

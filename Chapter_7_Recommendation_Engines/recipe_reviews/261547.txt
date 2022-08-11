@@ -1,0 +1,177 @@
+Recipe number:
+261547.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-18T17:41:20.95
+helpfulCount:
+4
+userID:
+2728582
+Display Name:
+B. Fields
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+417
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and very simple to make!  I nuked the potatoes for 4.5 minutes in the microwave to speed everything up, and the meal was on the table in less than 1/2 an hour.  I used soy chorizo, as it's the only type my grocer had, and added a bit more olive oil for cooking because of that - and it worked perfectly.  Husband said he's having the leftovers for lunch!  I will definitely make this one again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-04T21:50:52.457
+helpfulCount:
+1
+userID:
+5232089
+Display Name:
+Elizabeth Baxter Hardin Duckwo
+isPro:
+False
+followersCount:
+19
+followingCount:
+0
+madeRecipesCount:
+200
+favoritesCount:
+911
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2713084.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was a little leery of the amount of chorizo and unsure of the potato but I always make the recipe as presented first before making my own adjustments the second time.  But, I loved this recipe just as it is!  However, I may have to adjust the amount of chorizo to half chorizo and half regular pork sausage to cut the heat down for my husband.  I especially like the potato.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-01T18:03:25.283
+helpfulCount:
+1
+userID:
+13953121
+Display Name:
+Nohemi Flores
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5005302.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+EAsy and delicious, my  hubby thoroughly enjoyed it. I made tacos and breakfast burritos. Only thing I added was avocado slices and tapatio sauce.  Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-20T22:33:21.133
+helpfulCount:
+0
+userID:
+24946571
+Display Name:
+Tatiana Velasco
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6263530.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple recipe that I wanted to make something new for the  breakfast tacos in my weekend, and I wanted to try it out tomorrow!
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-24T11:58:16.363
+helpfulCount:
+0
+userID:
+23668064
+Display Name:
+Auna Tayloe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7467133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Make sure you put plenty of seasoning in the potatoes and salsa is definitely needed to bring it all together. With that in mind, it was very good and I would certainly make it again.

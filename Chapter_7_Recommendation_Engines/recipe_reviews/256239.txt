@@ -1,0 +1,37 @@
+Recipe number:
+256239.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-07T00:33:40.703
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I only used 2 jalapenos and this still packed some heat so you might want to scale back on the jalapeno's and the chili garlic sauce if you are sensitive to heat. Fresh bean sprouts were not available and I had to resort to can which is a shame because fresh would have added a nice crunch. These were different and a nice change of pace. The one recommendation I have is to heat your tortilla's on the stove so you get that toasted tasted instead of heating them up in the microwave.

@@ -1,0 +1,107 @@
+Recipe number:
+51071.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-07-17T21:05:40.747
+helpfulCount:
+9
+userID:
+653810
+Display Name:
+MOMTO3SWEETIES
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful fast and easy recipe!  My whole family including young children loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2002-10-25T16:57:25.857
+helpfulCount:
+4
+userID:
+610376
+Display Name:
+I'm nuts too...
+isPro:
+False
+followersCount:
+93
+followingCount:
+0
+madeRecipesCount:
+703
+favoritesCount:
+2046
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/46.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Can't beat the ease of these!  I used garlic ranch dressing instead of mayo.  Nice change up from the old stand by, thanks again Betty Crocker!
+Review:
+Rating:
+5
+dateLastModified:
+2004-05-01T12:59:37.03
+helpfulCount:
+1
+userID:
+82483
+Display Name:
+Christina Farnquist
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/18.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good, it was something different to cook.  My family liked it too

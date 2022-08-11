@@ -1,0 +1,37 @@
+Recipe number:
+247274.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-08T22:12:19.303
+helpfulCount:
+2
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall this was good. I plan to make it again, but I will cut  back on the milk. I thought it really only needed a couple tablespoons. With the yogurt included, it was too milky for me. I didn't make the veggie cubes, but I really like that idea and plan to try it. Instead, I just used a little bit of fresh spinach and avocado. It made quite a big serving that I drank for lunch. Thanks! PS: I just realized I forgot to add the blueberries. It made such a large serving, I didn't really need them, but blueberries would have probably made the color a little prettier.

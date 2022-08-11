@@ -1,0 +1,107 @@
+Recipe number:
+178347.txt
+Review:
+Rating:
+1
+dateLastModified:
+2009-09-26T05:09:28.46
+helpfulCount:
+3
+userID:
+1941980
+Display Name:
+Marty Courtney
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2495213.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't like this at all
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-15T22:28:33.04
+helpfulCount:
+1
+userID:
+3708807
+Display Name:
+ladybuggs5224
+isPro:
+False
+followersCount:
+155
+followingCount:
+0
+madeRecipesCount:
+649
+favoritesCount:
+1461
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/468604.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only change I made to this was adding just a bit of chopped garlic. I let it boil just a few mins to reduce a bit and it was seriously tasty with another pork recipe I tried. Not too sweet not too salty.
+Review:
+Rating:
+5
+dateLastModified:
+2009-09-26T19:44:38.633
+helpfulCount:
+1
+userID:
+4032580
+Display Name:
+Ingrid K.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have to disagree i found it to be delicious

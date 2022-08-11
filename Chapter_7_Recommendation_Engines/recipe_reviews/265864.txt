@@ -1,0 +1,107 @@
+Recipe number:
+265864.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-07T19:46:00.307
+helpfulCount:
+0
+userID:
+2210009
+Display Name:
+Dunroamin on the McKenzie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used 1/4 tsp cloves, 1 tsp allspice, 3/4 tsp cinnamon, and 1/2 tsp ginger  for the "mixed spice." I was worried that 4 tsp total of spices would be too much, but it just right. Reduce the oil to 1/2 c and increased the pumpkin to 1 c. I have a family member is can't eat dairy, so this was perfect. The whole family really enjoyed it. Topped each piece with either coconut whipped cream or dairy whipped cream. The coffee added a wonderful undertone to the flavors.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-07T19:09:12.933
+helpfulCount:
+0
+userID:
+3031597
+Display Name:
+barbara
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+600
+favoritesCount:
+261
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/254187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for a kids birthday party and everyone loved it - I used decaf coffee and sunflower oil
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-21T22:04:21.39
+helpfulCount:
+0
+userID:
+2289323
+Display Name:
+Diana Moutsopoulos
+isPro:
+False
+followersCount:
+284
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+357
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/166994.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not vegan but I love this cake! It is so delicious and moist and stays that way for days. Perfect with coffee for breakfast. I followed to a T except I did reduce the sugar to 1 cup and it was still plenty sweet. I also used olive oil for the vegetable oil. Give this recipe a try, you won't be disappointed!

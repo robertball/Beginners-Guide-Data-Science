@@ -1,0 +1,72 @@
+Recipe number:
+239262.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-17T11:07:21.543
+helpfulCount:
+2
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+521
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2072
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After living in the islands, I am always on the look out for good recipes that utilize some of my favorite tropical fruits. This turned out good but I would like a more pronounced mango flavor. I did NOT frost this cuz I wanted to serve this for a brunch quick bread and not a dessert. Guests ate it up without complaint. Thanks for sharing.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-18T16:10:32.997
+helpfulCount:
+0
+userID:
+23035047
+Display Name:
+Edyth Thomson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5316994.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I change the type of sugar I used and the amount . Also used all fresh ingredients and 1/2  oatmeal . Was a great hit for Work.

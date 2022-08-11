@@ -1,0 +1,37 @@
+Recipe number:
+220143.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-19T01:38:25.09
+helpfulCount:
+0
+userID:
+23925468
+Display Name:
+Nikki Alexander
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+118
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5951466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good recipe to start off on as it is easy to do, and VERY forgiving. I feel like you could add whatever you wanted to this and it would still be just as good my husband and his grandfather liked it! I also liked it. I used sharp cheddar and it’s honestly the best stir fry I’ve had in a minute.

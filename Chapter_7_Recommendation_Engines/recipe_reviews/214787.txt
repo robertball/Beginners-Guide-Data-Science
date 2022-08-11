@@ -1,0 +1,111 @@
+Recipe number:
+214787.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-06-23T14:57:08.443
+helpfulCount:
+9
+userID:
+1283288
+Display Name:
+ellenmoriah
+isPro:
+False
+followersCount:
+53
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+214
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/754048.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First, a disclaimer: I'm gaga for rosemary. So much so, that I misread the recipe and added rosemary both to the butter as well as the steak. But not to worry: it's one tasty dish.
+
+I used T-Bone, rather than Porterhouse, because that's what they had at the market. I overcooked it a bit but even at that, this is a lovely way to BBQ steak. The papaya adds a subtle, but definitely wonderful, flavor to the mix. This is one of those home-run recipes that you might expect to get at a restaurant. In other words, exquisite.
+
+A comment about grilling the papaya: I simply cut half a papaya into four long slices (about 1" thick/slice). Even after coating the grill with oil, the papaya wound up sticking a bit. So keep your eye on it. But don't leave it out! It's the real hero of this recipe... although my beloved rosemary surely carries its weight.
+Review:
+Rating:
+3
+dateLastModified:
+2012-01-11T10:15:35.3
+helpfulCount:
+3
+userID:
+1570315
+Display Name:
+Jennifer Wilgus
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2898614.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The steaks were awesome, but I wasn't crazy about the papaya butter, especially in combination with the meat. This recipe also made WAY too much butter, easily enough for twice as many steaks, probably more.
+Review:
+Rating:
+2
+dateLastModified:
+2016-01-14T18:25:16.15
+helpfulCount:
+1
+userID:
+7718642
+Display Name:
+DrefromLA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/777640.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My wife liked it but my son did not. He discovered he doesn't like papaya.

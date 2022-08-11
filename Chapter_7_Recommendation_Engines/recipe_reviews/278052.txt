@@ -1,0 +1,37 @@
+Recipe number:
+278052.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-25T15:06:14.023
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am a big fan of truffle fries and have made them many times but this one didn't work for me. I think the problem was in the red potatoes. They started to burn and never would crisp up once the truffle oil was added. I actually made this recipe twice. The first time I wrote it as written and when that didn't work, I tried soaking the potatoes in cold water and rinsing instead of the microwave step but that didn't work either. The one thing I did like was the cilantro instead of the usual parsley.

@@ -1,0 +1,72 @@
+Recipe number:
+258064.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-08T05:15:17.103
+helpfulCount:
+0
+userID:
+16943709
+Display Name:
+Tyler Cruz
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5322348.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this without the annatto powder. Okay, so I found this recipe to take a while to make and use a lot of dishes. I also found that it needed LOTS more salt, so I added a few pinches of salt and about triple the fish sauce. Also, my rice burned on me so next time I will reduce to a very low heat after it boils. Lastly, this recipe needs WAY more than 5 cups of water... I must have used 15 and next time will probably use about 20-23 - it boils down quickly so it requires a lot of water. Overall, the taste was fine and it's a nice recipe for a different type of cuisine.
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-13T21:25:29.48
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was wonderful... tasty and garlicky.  I used sliced fried garlic on top and sliced the eggs on top for presentation

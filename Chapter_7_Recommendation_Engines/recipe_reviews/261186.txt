@@ -1,0 +1,37 @@
+Recipe number:
+261186.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-02T03:14:48.723
+helpfulCount:
+0
+userID:
+26218833
+Display Name:
+MichaelMum
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7105721.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Stevia as a sweetener, just counted proportionally to teaspoons of sugar in a half of cup of sugar. It is a bit bitter like dark chocolate is bitter, but OK. It is very creamy and smooth

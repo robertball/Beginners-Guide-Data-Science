@@ -1,0 +1,37 @@
+Recipe number:
+278049.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-26T16:22:31.243
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor in this was really good. I ended up only needing 4 cups of chicken broth and even then it was still on the runny side. The recipe only calls for the asparagus to be trimmed but if I were to make this again I'd chop it into more manageable pieces. Overall this is a really good recipe with a great flavor combo.

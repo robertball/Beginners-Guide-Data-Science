@@ -1,0 +1,72 @@
+Recipe number:
+21596.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-12-04T14:30:52.433
+helpfulCount:
+5
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is SO SO good. Not over sweet, just the right amount of tart.
+Review:
+Rating:
+4
+dateLastModified:
+2012-04-14T16:21:07.267
+helpfulCount:
+3
+userID:
+3502873
+Display Name:
+kellieann
+isPro:
+False
+followersCount:
+206
+followingCount:
+0
+madeRecipesCount:
+1092
+favoritesCount:
+1761
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/843887.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good. Surprisingly the cointreau is the dominant flavor, with a sour after taste from the lemon juice. Next time I will try shaking it in a cocktail shaker and straining it into a chilled martini glass, like a lemon drop.

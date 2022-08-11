@@ -1,0 +1,37 @@
+Recipe number:
+222174.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-08T16:25:29.07
+helpfulCount:
+1
+userID:
+3363962
+Display Name:
+Deborah Schmidt
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3609857.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, but proportions are off. Needs more whipped cream on top. Had leftover graham cracker crust. Needs more sweetened condensed milk in the filling too, about 1/2 cup total.

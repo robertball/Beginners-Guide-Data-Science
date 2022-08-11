@@ -1,0 +1,107 @@
+Recipe number:
+237605.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-26T21:54:28.373
+helpfulCount:
+1
+userID:
+3524517
+Display Name:
+Patty Cakes
+isPro:
+False
+followersCount:
+341
+followingCount:
+0
+madeRecipesCount:
+546
+favoritesCount:
+3026
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4561464.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It just so happened to be National Dog Day, SO I added hotdogs to this, I found chopped collard greens n corn in the freezer, some baby tomatoes n jalapeños all went in the pool. Topped the whole thing off with leftover tots and blanketed in shredded cheese. The kids n I liked it well enough.
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-24T00:50:14.94
+helpfulCount:
+0
+userID:
+15930560
+Display Name:
+Sarah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+good meal and easy to make!
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-10T13:19:58.443
+helpfulCount:
+0
+userID:
+13627301
+Display Name:
+Stacey Rayburn
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used red potatoes instead of tater tots. I sautéed onions and garlic and potatoes in a skillet first to help cook the potatoes faster. I also sprinkled the potatoes with pepper and seasoned salt. Then I added it into the casserole dish with broccoli florets cheese, cream of celery can and a can of Rotel tomatoes and chilis. Mixed it all together with shredded cheese, covered and baked. FYI it still took an hour to bake. I topped it with Sour cream upon serving and oh my! It's pretty inexpensive to make too. Enjoy!

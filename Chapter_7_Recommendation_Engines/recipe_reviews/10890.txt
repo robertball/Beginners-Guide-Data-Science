@@ -1,0 +1,47 @@
+Recipe number:
+10890.txt
+Review:
+Rating:
+5
+dateLastModified:
+02/20/2006
+helpfulCount:
+16
+userID:
+1742340
+Display Name:
+AJSMOM3
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I didn't realize until it was too late that this makes sooo many cookies. I had to hunt in my kitchen to find a bowl big enough to mix it all. I was hoping that I had realized it ahead of time so that I could cut the batch in half. Then I tasted a warm cookie...oh my goodness! These are delicious. I wouldn't change a thing...not even the amount.
+Review:
+Rating:
+4
+dateLastModified:
+02/18/2009
+helpfulCount:
+11
+userID:
+1249176
+Display Name:
+MPEBLE
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is a simple recipe with basic ingredients and a taste that everyone will enjoy. I used craisins instead of raisins which I believe made it look a little nicer. These cookies are cake-like and spread out a bit on the pan. A halved recipe was plenty for my purposes.
+Review:
+Rating:
+5
+dateLastModified:
+05/11/2015
+helpfulCount:
+0
+userID:
+6049400
+Display Name:
+Vicky
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+A bit too sweet but very delicious! Easy to make. I made about 80 cookies with this recipe. I used half shortening half butter. Result: very soft cookies.

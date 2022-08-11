@@ -1,0 +1,109 @@
+Recipe number:
+257682.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-05T14:41:25.947
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great sauce that could be used for many different things. After tasting it as written I did feel it needed tweaked a bit. I started by adding more lime juice and salt and then ended up adding more cilantro too. This is  a great recipe and one that is easily adaptable to suit your own individual tastes.
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-13T21:52:02.45
+helpfulCount:
+0
+userID:
+1030812
+Display Name:
+TXMUSTANG302
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+895
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Makes a lot and tasted great..  I'll add a few more peppers to spice it up some next time.
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-19T23:34:00.317
+helpfulCount:
+0
+userID:
+6251766
+Display Name:
+T Graveley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+162
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7233075.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was soooo good!  It was my first time to make something with tomatillos, so easy and tasty!
+I didn't have any sour cream so I substituted with plain yogurt.  It was delicious and now I have a  
+ go-to,  low-cal dip recipe.  I think that it will be great on fried eggs & greens/onions.  I was even thinking of adding it to a chicken alfredo casserole for a different twist.  The heat was just right too.

@@ -1,0 +1,37 @@
+Recipe number:
+7529.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-10-05T06:40:55.09
+helpfulCount:
+18
+userID:
+2343155
+Display Name:
+Ramoo
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/45541.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing cake. It did take several hours of work but I did attempt this with a 15 month old toddler at my feet! My husband who loves orange and poppy seed cakes also loved it. Very very tasy and worth the effort. The glaze was thicker than I expected but could've been thinned out with extra boiling water if I'd wanted to. It "glazed" the cake no troubles though.

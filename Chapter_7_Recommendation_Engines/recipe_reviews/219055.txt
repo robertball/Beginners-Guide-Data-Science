@@ -1,0 +1,39 @@
+Recipe number:
+219055.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-10-12T19:15:00.013
+helpfulCount:
+1
+userID:
+6431381
+Display Name:
+pindy4176
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+141
+favoritesCount:
+665
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3796917.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was skeptical about marinating the pork chops in straight vinegar, without any water or oil. I thought they would turn out sour, and they did. The sauce was more like cherries in syrup, not chutney. It was delicious, however, and the juice neutralized the vinegar taste of the meat. 
+
+I really enjoyed the cherries and pork together, but will definitely make some changes to both the marinade and the sauce next time -- oil and much less vinegar in the marinade, and maybe all-fruit cherry preserves instead of water for the chutney. Thanks for sharing, and sparking my imagination!

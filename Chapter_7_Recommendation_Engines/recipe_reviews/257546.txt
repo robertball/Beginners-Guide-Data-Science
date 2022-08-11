@@ -1,0 +1,72 @@
+Recipe number:
+257546.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-09T01:48:59.983
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+244
+followingCount:
+0
+madeRecipesCount:
+1341
+favoritesCount:
+2859
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good.  In bwrwwn the ham layer I added 2 tbs of whole grain mustard.
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-16T02:22:24.893
+helpfulCount:
+0
+userID:
+3259473
+Display Name:
+RedwoodMom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4487972.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a few small changes - first, I made my own quick pizza dough recipe to use in place of crescent rolls.  I replaced the deli sliced ham with cubed ham steak, and the sliced cheese with shredded cheddar.  I baked it in a 13x9 pan and it turned out beautifully!

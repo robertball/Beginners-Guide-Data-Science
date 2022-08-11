@@ -1,0 +1,38 @@
+Recipe number:
+261274.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-08-19T15:22:56.06
+helpfulCount:
+0
+userID:
+24105053
+Display Name:
+Cornz.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Biggest issue was that my sponge was dry. 
+Other than that its great. Just need  to work out how to moisten the sponge.

@@ -1,0 +1,37 @@
+Recipe number:
+260108.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-24T00:39:27.773
+helpfulCount:
+0
+userID:
+4196646
+Display Name:
+Lela
+isPro:
+False
+followersCount:
+351
+followingCount:
+0
+madeRecipesCount:
+173
+favoritesCount:
+2651
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7559577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A cookie you can make for Christmas or for a baby shower. My family loves this cookie. Enjoy!

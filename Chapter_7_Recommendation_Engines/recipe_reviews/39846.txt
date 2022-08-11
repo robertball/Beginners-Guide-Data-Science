@@ -1,0 +1,38 @@
+Recipe number:
+39846.txt
+Review:
+Rating:
+4
+dateLastModified:
+2004-06-06T00:18:08.56
+helpfulCount:
+26
+userID:
+637231
+Display Name:
+MCALPENA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+247
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/13668.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe is great. However, I suspect that oil is two tablespoons, not two cups. 
+I tried using two tablespoons and it was oily enough. Try and go for Garrigues or Siurana oil from Spain.

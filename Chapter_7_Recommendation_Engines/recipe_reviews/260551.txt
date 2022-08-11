@@ -1,0 +1,37 @@
+Recipe number:
+260551.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-13T22:05:51.867
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the Cook's Notes and made three pancakes for one person with the exception of the cardamom.  This recipe is very similar to the ones I've made for my family for over 50 years.  These are a little bigger than the 6 inches called for, but that's just a small thing compared to the wonderful taste of these!  Thanks so much for posting your recipe!

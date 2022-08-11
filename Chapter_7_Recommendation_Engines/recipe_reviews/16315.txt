@@ -1,0 +1,37 @@
+Recipe number:
+16315.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-10-05T17:18:10.403
+helpfulCount:
+13
+userID:
+689760
+Display Name:
+JF
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5588
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i ate this every new year's eve growing up in Canada! Thanks for the great memories i will always keep this recipe

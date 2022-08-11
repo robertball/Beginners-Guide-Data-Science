@@ -1,0 +1,72 @@
+Recipe number:
+268594.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-23T03:02:14.67
+helpfulCount:
+0
+userID:
+24701332
+Display Name:
+Cholena Humphrey
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe adds so much flavor and dresses up the kale that you will smell as if you are cooking a five star meal at a fancy restaurant when you are in the proximity of your own home.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-27T21:20:17.19
+helpfulCount:
+0
+userID:
+26464248
+Display Name:
+CJIdaho
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as  listed except I used brown lentils as that's what I had on hand.  We ate it without the sour cream the first night and I didn't like it nearly as well as when we added a Tablespoon plus a little more cayenne pepper when serving.  Also, it just gets more delicious the next day anyway.  I can see that this is a very versatile recipe.

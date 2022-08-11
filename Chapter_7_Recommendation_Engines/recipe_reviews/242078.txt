@@ -1,0 +1,38 @@
+Recipe number:
+242078.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-16T11:53:59.083
+helpfulCount:
+0
+userID:
+642875
+Display Name:
+C1GINN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've  made these several times and come out great.   
+Sometimes I brush melted butter and then sprinkle cinnamon sugar before baking.  Awesome.

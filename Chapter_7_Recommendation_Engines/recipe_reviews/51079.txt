@@ -1,0 +1,37 @@
+Recipe number:
+51079.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-01-19T12:22:18.827
+helpfulCount:
+1
+userID:
+3637
+Display Name:
+judybad
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+1353
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  I used dried cranberries.  This cake was frozen for about 1 month and was still very moist.  I sprinkled powdered sugar on instead of using the sauce.  Baked this in the kugelhopf pan - very pretty.  Will definitely make again.

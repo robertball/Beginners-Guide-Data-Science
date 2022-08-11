@@ -1,0 +1,39 @@
+Recipe number:
+276269.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-10T13:27:27.867
+helpfulCount:
+0
+userID:
+26432138
+Display Name:
+Kelley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. Need to make coffee stronger perhaps.
+
+I made 1/2 dozen with this recipe.

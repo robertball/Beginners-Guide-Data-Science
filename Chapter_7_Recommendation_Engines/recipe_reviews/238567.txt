@@ -1,0 +1,72 @@
+Recipe number:
+238567.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-08T09:55:57.637
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a tasty dog.. I am a heat wimp so only used part of a jalapeno at first... turned out I needed the whole one..peppers can really vary in heat! Will make this again next time I have kimchi
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-02T23:33:56.23
+helpfulCount:
+0
+userID:
+21429019
+Display Name:
+Michelle Minkler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7644931.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was very unsure about this recipe, but I was pleasantly surprised. We wanted to try something interesting with brats and this was very good. I followed the recipe.

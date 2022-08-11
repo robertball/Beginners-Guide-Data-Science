@@ -1,0 +1,37 @@
+Recipe number:
+257065.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-26T15:33:16.963
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Darned delicious stuff.  I made two loaves and took them to a church potluck... not one piece left.  The rolling out the dough is a real pain so I ended up smooshing it into a rectangle instead,  I wasn't able to find mortadella in my regular store so I just used some cooked Italian sausage.  I also cooked the tomatoes and mushrooms to  extract some of the water so I wouldnt have a mushy roll.  I baked this the night before and then the next morning, sliced it up and then heated in the oven, Worked great

@@ -1,0 +1,72 @@
+Recipe number:
+238177.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-07T12:28:05.66
+helpfulCount:
+9
+userID:
+1354065
+Display Name:
+Mona Mcdaniel
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+91
+favoritesCount:
+849
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1232307.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Found a wonderful deal on bulk vanilla beans and had to make my own extract. It's been 3 months and the extract has been used in everything from baked goods to vanilla milkshakes. Deep rich flavor and a delicious aroma even after baking. Will never go back to the store-bought stuff if I can help it.
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-06T19:55:17.56
+helpfulCount:
+1
+userID:
+9266708
+Display Name:
+Paula Todora (Paula T)
+isPro:
+False
+followersCount:
+135
+followingCount:
+0
+madeRecipesCount:
+142
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5594110.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to try it-still waiting to use it because it hasn't been 2 months yet. It's starting to turn dark-that's a good sign, and it smells wonderful-can't wait to use it!

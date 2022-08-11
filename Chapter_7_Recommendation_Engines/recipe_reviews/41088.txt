@@ -1,0 +1,37 @@
+Recipe number:
+41088.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-04-27T06:09:07.7
+helpfulCount:
+2
+userID:
+595916
+Display Name:
+JDVMD
+isPro:
+False
+followersCount:
+162
+followingCount:
+0
+madeRecipesCount:
+1625
+favoritesCount:
+1530
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/408423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent flavor and even better as an appetizer with red wine. I used French bread and made these as crostinis instead of using the refrigerated pizza dough. I had a little mishap with my baking stone and subsequently burned the pizza dough beyond recognition. Think it would taste better on the bread anyway because refrigerated pizza dough never seems to lose that taste that it has. Anyway, we loved this. Might make it next time with the addition of a slice of pear.

@@ -1,0 +1,72 @@
+Recipe number:
+217275.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-09T04:21:54.683
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1831
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a nice way to welcome Spring vegetables into your meal. I was able to find fresh peas and asparagus. The only issue in the recipe is the thick sauce and how much it calls for. I think it would be more enjoyable with a lighter sauce and less of it. I ended up thinning it out with some white wine and using only half of it in the final preparation. I found that this was sufficient to lightly coat everything adding some creaminess but not tasting like pasta and gravy. I blanched the peas and asparagus having cooked them briefly in a large pot of water, then using the same water to cook the pasta. The fresh flavours of the veggies mixed so well with the salty prosciutto crudo I was tempted to eat them all on their own. Thank you champ for your recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2011-08-28T16:04:33.15
+helpfulCount:
+3
+userID:
+3782801
+Display Name:
+Gibby4686
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+280
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3193412.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Its easy to make and doesn't take a lot of time to make. Very thick sauce.

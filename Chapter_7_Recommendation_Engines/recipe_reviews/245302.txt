@@ -1,0 +1,39 @@
+Recipe number:
+245302.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-03T13:20:32.853
+helpfulCount:
+0
+userID:
+3921516
+Display Name:
+ehreng
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/252549.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's not bad.  Definitely has a banana flavor though, and unfortunately I don't care for bananas.  If I were to do it again, I'd probably only use half or a third of one. However, most people don't test something they don't like the ingredients in, so I won't knock it for that!
+I did change some proportions - only 1.5 c coconut water because that's the size of my bottle.  About 8 strawberries. No dates, as I have none, I sweetened with a little sugar.
+Last, your smoothie will not be green, as I anticipated by the name. The strawberries (and probably dates) will change that.

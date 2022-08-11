@@ -1,0 +1,73 @@
+Recipe number:
+236203.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-25T10:34:45.233
+helpfulCount:
+1
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy and quite tasty! They were a little bit ketchupy though. I am going to add a little grape jelly next time. Cooking changes I made-I seared the meatballs in a skillet first and did not cook for as long as indicated. They were done in a crock pot in 2 hours on high.
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-26T03:50:53.953
+helpfulCount:
+0
+userID:
+26758079
+Display Name:
+Jen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My grandmother passed down a similar recipe but hers are just meatballs made with hamburger and salt and pepper. It's very simple, you just brown them and then add them to the ketchup and beer but she also adds Worcestershire Sauce to it. 
+They are 10,000 times better then these!!!

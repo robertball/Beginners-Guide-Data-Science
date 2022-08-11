@@ -1,0 +1,37 @@
+Recipe number:
+238323.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-20T06:19:36.753
+helpfulCount:
+1
+userID:
+12126478
+Display Name:
+Michael H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite good. I don't normally have much luck with low sugar recipes, and had my doubts about this one also, but it had all the ingredients I was looking for so I tried it and was pleasantly surprised.  The results were light and tasty, with just the right amount of sweetness.  Note: If you haven't baked with blueberries before, be warned that the blue juice will mix with the brown ingredients to turn the dough an unappetizing gray color.  They look better after they brown in the oven however.  Good job!

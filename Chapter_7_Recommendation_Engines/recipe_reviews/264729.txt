@@ -1,0 +1,221 @@
+Recipe number:
+264729.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-06T16:27:35.343
+helpfulCount:
+1
+userID:
+2666072
+Display Name:
+Robin K Wisniewski
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2456177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this although I had to tweak it a bit for health reasons. (Chol & Carbs) Here is my version: 
+
+2 cups frozen tropical fruit. (140 Cal), (0 g fat), (0 g sat fat), (0 mg chol), (32 g carbs), (12 g sugar, on the high side but doable)
+1 cup sugar free silk almond coconut milk. (35 Cal), (0 g fat), (0 g sat fat), (0 mg chol), (1 g carbs,), (0 g sugar)
+1/2 cup Trop50. (50 Cal), (0 g fat), (0 g sat fat), (13 g carbs), (10 g sugar)
+Two squirts liquid stevia. 
+
+Put all ingredients in mixer. ( I have a little bullet so I had to let the fruit thaw a little and I had to do two batches, well worth it!!) Will definitely make it again, and again.
+
+Enjoy!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-23T14:48:34.6
+helpfulCount:
+1
+userID:
+25284277
+Display Name:
+Milli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it using the ingredients in the recipe with no additions. YES, I will definitely make it again.....every day for this upcoming week as a matter of fact!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-30T17:46:06.5
+helpfulCount:
+0
+userID:
+24987868
+Display Name:
+Bamnurse53
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a mixture of chia hemp and flax seed and it turned out perfectly
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-30T12:06:30.177
+helpfulCount:
+0
+userID:
+13871526
+Display Name:
+Gloria Crawford
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+118
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5027152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used two bananas instead of two.
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-28T22:00:08.51
+helpfulCount:
+0
+userID:
+17383137
+Display Name:
+Jim Wymer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4959076.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Doubled the strawberries and pineapple
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-26T19:25:46.877
+helpfulCount:
+0
+userID:
+24130823
+Display Name:
+Ricardo H Gonzalez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6204527.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added baby spinach, and made 3 servings

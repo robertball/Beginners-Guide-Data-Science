@@ -1,0 +1,179 @@
+Recipe number:
+237206.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-14T19:19:13.863
+helpfulCount:
+1
+userID:
+2151188
+Display Name:
+Jessica Godfrey
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+472
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5171007.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have never had or cooked caribou before, this was my very first time. I was a bit nervous after hearing so many mixed opinions about caribou meat -gamey/tough/dry etc. 
+A friend gave us a nice caribou shoulder so..here we are..eating this Caribou stew for dinner!!
+   I made this EXACTLY as written. I have to say....I would have thought it was beef stew if I didn't know better. This made a great big crockpot full of stew...my in laws came over to have dinner with us and they too enjoyed it and thought it was beef. Anyways ...thumbs up all around here:) Thank you for a great recipe :)
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-03T23:36:59.743
+helpfulCount:
+0
+userID:
+20903643
+Display Name:
+Linda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. I made it exactly like the recipe with moose meat.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-11T01:31:03.52
+helpfulCount:
+0
+userID:
+24716739
+Display Name:
+James Poremba
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6100407.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+used 1.1kg of frozen caribou meat - it was delicious and lasted me and my partner several days. Excellent fresh and heated up.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-23T23:00:28.917
+helpfulCount:
+0
+userID:
+20591957
+Display Name:
+Derek Hamilton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7321380.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved by everyone. Will make this again soon and I wouldn't change a thing.
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-15T23:33:34.94
+helpfulCount:
+0
+userID:
+6392152
+Display Name:
+Vicki Mac
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+240
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The caribou was super tender and not gamey at all! I would definitely recommend this recipe.

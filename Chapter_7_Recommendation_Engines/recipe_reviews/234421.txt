@@ -1,0 +1,107 @@
+Recipe number:
+234421.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-31T12:19:49.71
+helpfulCount:
+2
+userID:
+2360345
+Display Name:
+Melissa Goff
+isPro:
+False
+followersCount:
+1368
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+1339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2417840.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a fun recipe. I totally didn't read that the marshmallows needed to be cut into half. I used a whole one for each s'more. Making it slightly messy coming out of the pan when cooled...now I know after re-reading it in my review. However, will make again because it was that much fun. The graham crust was really nicely one and had a wonderful crunch factor that we liked. Thanks for posting the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2013-10-30T16:15:02.557
+helpfulCount:
+1
+userID:
+1541418
+Display Name:
+Sharon M.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+115
+favoritesCount:
+473
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/46.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Fun, easy and delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-11T07:09:31.4
+helpfulCount:
+0
+userID:
+1828332
+Display Name:
+Sheila LaLonde
+isPro:
+False
+followersCount:
+170
+followingCount:
+0
+madeRecipesCount:
+716
+favoritesCount:
+1144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/874540.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My granddaughter and I had a blast making these.  The added bonus was that they tasted great, too!  Even after sitting and cooling they were still delicious and addictive.  The crust gave these a really good flavor.  Thanks for sharing this fun recipe, arenee83!

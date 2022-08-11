@@ -1,0 +1,107 @@
+Recipe number:
+11106.txt
+Review:
+Rating:
+4
+dateLastModified:
+2003-12-12T22:33:19.723
+helpfulCount:
+6
+userID:
+185301
+Display Name:
+CHEVY47
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was soooooooo easy and the cookies were great. I kept half the dough in the freezer for later use.
+Review:
+Rating:
+2
+dateLastModified:
+2009-10-23T08:07:50.327
+helpfulCount:
+2
+userID:
+3658894
+Display Name:
+Niagara J
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We were disappointed with these.  They were a little too bland for us, and the shortening taste was strong.
+Review:
+Rating:
+2
+dateLastModified:
+2018-04-10T00:52:05.417
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+578
+favoritesCount:
+799
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these with butter, because that's what I had on hand. I let them sit in the fridge for 2 hours before cutting them to bake. I cut them about 1/4" thick and they got very puffy. Didn't turn out like a cookie to me and not very sweet at all.

@@ -1,0 +1,72 @@
+Recipe number:
+257274.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-21T01:37:42.013
+helpfulCount:
+0
+userID:
+6844999
+Display Name:
+Robin Dinsmore
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+379
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6470258.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make hard to create a sandwich with the LAVISH BREAD.  Do not recommend it at all. Next time using good old fashion PITA.  All tasted great. Just ended up having to eat it like a combo salad.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-13T13:50:30.527
+helpfulCount:
+0
+userID:
+1109832
+Display Name:
+CupcakeSparkles11
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+75
+favoritesCount:
+526
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2117482.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I typically use Pita in place of Lavish, but whatever your preference.

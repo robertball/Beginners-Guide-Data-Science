@@ -1,0 +1,72 @@
+Recipe number:
+263129.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-02T18:19:29.223
+helpfulCount:
+2
+userID:
+12065850
+Display Name:
+paula antonacci
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a gluten-free friend, having spent the weekend before making several batches of regular pita bread for a falafel feast. While it does not fully puff up while baking (so you will not be able to reliably have a "pocket" to stuff fillings in), the flavor and texture are excellent. It will easily fold in half around whatever fillings you choose. It is super easy to mix up and roll out, making 6 generous pitas.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-17T00:04:53.993
+helpfulCount:
+1
+userID:
+8025912
+Display Name:
+Sweet Vin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7707305.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great recipe, we where wanting to make Gyros and I didn’t know what I would use for mine.  This hit the spot, also going to modify it a bit with some spices and use for a pizza crust.  This is probably the best dough recipe I have found to date.  Thank You

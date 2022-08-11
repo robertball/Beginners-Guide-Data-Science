@@ -1,0 +1,73 @@
+Recipe number:
+217896.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-01-24T08:29:57.45
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The taste of these muffins is ok. There are no starches really, just heavy flours. The notes say to use any gf flour in place of the ones listed.  I used 3/4 c of sorghum flour plus 1/4 cup of brown rice flour in place of the soy flour. They were heavy like bricks. I also believe that 1.5 Tbsp of baking powder is way too much. I used one tbsp and there was an acidic aftertaste. I used coconut oil for the vegetable oil. For such a thick batter, the oven temperature burnt the tops and left the bottoms raw. If I were to make these again I would use a lighter flour mix, reduce the baking powder, and reduce the oven temperature (increasing cooking time).
+Review:
+Rating:
+3
+dateLastModified:
+2017-10-22T01:00:52.843
+helpfulCount:
+0
+userID:
+17344079
+Display Name:
+Lisa Spain Guertin
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158832.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Bobs Red Mill 1 for 1 for flour and used potato flakes because I didn’t have rice cereal.  They are ok but kind of heavy.  Seems like they need some liquid so last 6 muffins I added almond milk.  Also I added some spices, since there were none in The recipe, cinnamon, nutmeg cloves and allspice...still they are kind of tasteless 
+Future batches will include 1/2 c almond milk, and at least 1t cinnamon.

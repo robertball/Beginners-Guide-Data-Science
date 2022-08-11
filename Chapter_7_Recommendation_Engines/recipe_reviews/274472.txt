@@ -1,0 +1,37 @@
+Recipe number:
+274472.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-12-13T00:00:54.083
+helpfulCount:
+0
+userID:
+5877501
+Display Name:
+spetro
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this recipe because I could not find my original. This recipe is incorrect. It should be 1 Tablespoon milk, not 3/4 cup. I only made it once before  so I did not catch it...needless to say a total waste of time and money. I really wish people would make sure of their recipes before posting.

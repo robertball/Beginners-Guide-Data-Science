@@ -1,0 +1,108 @@
+Recipe number:
+203781.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-08-10T09:51:12.593
+helpfulCount:
+29
+userID:
+3555823
+Display Name:
+Global Gourmet
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/182586.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After living in Spain for several years, I investigated developing a Mojo Picon sauce for my own gourmet company - this is a very authentic, basic recipe that you can add to according to your own tastes!   According to some of my research, Mojo Picon just also might be the oldest BBQ sauce in the world!
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-21T10:26:58.31
+helpfulCount:
+1
+userID:
+12308981
+Display Name:
+Chris Maler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2263022.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe seems quite a bit different than most others that use much less oil, I don't know which is more traditional, or if there is a standard version of mojo picon...
+Anyway, I used this as a base for my own version, increasing the fresh chiles to make it more spicy, adding some dried cumin and red wine vinegar and it came out very delicious.
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-03T04:22:08.677
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice and fresh sauce to put, pretty much, on anything. Definitely add the lime, it gives it a tart boost that you won't regret. I used smoked paprika, because I didn't have anything else. :-)

@@ -1,0 +1,72 @@
+Recipe number:
+246414.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-03-15T13:34:06.087
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6002
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.15.16  Followed this recipe with one substitution, using sugar-free pistachio pudding mix.  Also, my avocado was very small, so I used all of it.  The cookie dough was on the soft side after processing, so I did give it about 15 minutes in the fridge to firm up a bit, as well as refrigerating it  between batches.  Not quite as much flavor as I had hoped, but I can’t put my finger on what’s missing.  Recipe author suggests using pistachio flavor in place of vanilla, but I know that would be yet another thing that I buy that just sits on the shelf.  If I make this recipe again, I definitely will try almond extract.  If you can plan ahead, I'd recommend shelling your pistachios in advance because it was time consuming to get 2/3 cup of pistachio nuts out of those shells.  Used a Tbsp cookie scoop, and ended up with 45 cookies which were about the same size baked, as they were before going into the oven (not much rise).  We liked these cookies, but I wouldn't put them at the top of my list.  Kate’s Kitchen, thanks for sharing your recipe with us.
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-08T20:49:52.317
+helpfulCount:
+0
+userID:
+1442314
+Display Name:
+Maria Kossakowski
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+462
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4911055.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These have a good flavor but they are too doughy, even after leaving them in the oven for 15 minutes.  The inside is too wet.  I have no idea how to fix that.

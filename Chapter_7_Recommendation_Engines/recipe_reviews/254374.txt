@@ -1,0 +1,37 @@
+Recipe number:
+254374.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-09T12:00:44.093
+helpfulCount:
+0
+userID:
+22257273
+Display Name:
+Stephanie Collier
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used soy flour, applesauce instead of oil, and unground walnut pieces in the mix. It was alright - I like it somewhat, but my 4-year-old doesn't.  It is definitely not sweet. If I make it again, I might add some honey to the mix.

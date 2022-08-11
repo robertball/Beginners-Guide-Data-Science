@@ -1,0 +1,37 @@
+Recipe number:
+245652.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-23T18:27:08.17
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't think this tasted anything like eggnog but it sure was delicious! I used Silk Unsweetened Almond Coconut Milk Beverage. Loved the nutty flavor the pecans gave it. Will make again. Thank you for the recipe.

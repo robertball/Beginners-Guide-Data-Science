@@ -1,0 +1,39 @@
+Recipe number:
+273815.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-23T23:42:12.497
+helpfulCount:
+0
+userID:
+22047102
+Display Name:
+Dennis Tobin
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+107
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4526986.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A fun treat for brunch
+Worked out well
+Will make again

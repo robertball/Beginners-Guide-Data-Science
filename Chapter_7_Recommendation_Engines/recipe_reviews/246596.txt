@@ -1,0 +1,37 @@
+Recipe number:
+246596.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-29T00:11:59.75
+helpfulCount:
+0
+userID:
+7225938
+Display Name:
+DebCO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+47
+favoritesCount:
+808
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5754911.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good!

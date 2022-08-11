@@ -1,0 +1,37 @@
+Recipe number:
+255828.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-18T18:56:34.473
+helpfulCount:
+0
+userID:
+5939393
+Display Name:
+NurseCarol1974
+isPro:
+False
+followersCount:
+29
+followingCount:
+0
+madeRecipesCount:
+204
+favoritesCount:
+1535
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1295282.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used cubed chicken breast instead of ground turkey. This came out really good. Thanks for the recipe:)

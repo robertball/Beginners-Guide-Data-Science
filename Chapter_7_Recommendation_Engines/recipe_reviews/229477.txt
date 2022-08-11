@@ -1,0 +1,37 @@
+Recipe number:
+229477.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-04-10T10:48:25.133
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+6009
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First, the one thing that I didn't like about this is the dryness.  It took longer to cook than 40 minutes, and I added some water to the casserole dish three times.  I suppose adding real sugar would have resulted in the sugar melting into a syrup which the Truvia doesn't do.  However, the thing I did like is the taste; true apple flavor with no sugar substitute aftertaste.  Not my favorite apple crisp, but it was pretty good.

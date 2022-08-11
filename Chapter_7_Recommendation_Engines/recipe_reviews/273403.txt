@@ -1,0 +1,72 @@
+Recipe number:
+273403.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-09-23T23:39:22.893
+helpfulCount:
+0
+userID:
+22818121
+Display Name:
+Rhonda Simpson-Coit
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5209171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The chicken was dry and not as flavorful as I thought it would be.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-16T21:23:08.68
+helpfulCount:
+0
+userID:
+766332
+Display Name:
+CURTISLEE
+isPro:
+False
+followersCount:
+81
+followingCount:
+0
+madeRecipesCount:
+598
+favoritesCount:
+623
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/169789.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe for healthy eating. I paired it with Three Bean Salad, also on the allrecipes website and it was a fine meal indeed. The recipe does take some time and patience to prepare, but if you are not in a rush, your family will love this one. In terms of the sauce, I've had many that were better, but it is certainly a fun and interesting flavor--quite tangy--and knowing that the ingredients are on the healthy side somehow makes it taste better.

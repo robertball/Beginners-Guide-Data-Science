@@ -1,0 +1,72 @@
+Recipe number:
+264521.txt
+Review:
+Rating:
+2
+dateLastModified:
+2020-03-05T01:38:39.89
+helpfulCount:
+0
+userID:
+9981687
+Display Name:
+SaraPerea
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6679926.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not our favorite. Way too much kale in my opinion. You could half the kale and it would be more proportionate to the dish. Also on the labor intensive side for a weeknight soup. If it takes that long to make I want my family to love it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-25T06:45:12.087
+helpfulCount:
+0
+userID:
+14570043
+Display Name:
+Lisa Engel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1621638.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a recipe which used turnips and came across this.  We love caldo verde and had chorizo on hand so I tried it.  Delicious!  I admit that I didn't have quite enough turnips so I did put in a russet potato.  Other than that as described.  This will be a go to in our house.

@@ -1,0 +1,37 @@
+Recipe number:
+237333.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-10T15:58:48.31
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out good and the addition of bacon/bacon grease made these stand out over others I've tried. I do think you'll need to double the amount of everything except the ham hock if you want to get 6 servings. I guess it all depends on what you are using the beans for but 1 cup of beans doesn't make a whole lot. Might as well fill that slow cooker up since it will already be running for 8 hours.  Overall good flavor and super simple. Don't skip the bacon!

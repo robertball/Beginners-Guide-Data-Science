@@ -1,0 +1,74 @@
+Recipe number:
+20101.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-08-28T16:30:58.85
+helpfulCount:
+9
+userID:
+1043246
+Display Name:
+NLBYRD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great summer sidedish. I think next time i will use less horseradish. it was a little over powering. Not a good dish for kids, but great for the adults.
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-01T07:05:50.457
+helpfulCount:
+0
+userID:
+8763947
+Display Name:
+tlfakes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+109
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/926517.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was GREAT!  A really good flavor that tasted good even as leftovers.
+
+Warning:  I used cream style horseradish instead of what the recipe called for.  It really increased the heat!

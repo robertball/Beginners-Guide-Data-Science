@@ -1,0 +1,47 @@
+Recipe number:
+215859.txt
+Review:
+Rating:
+4
+dateLastModified:
+11/04/2010
+helpfulCount:
+9
+userID:
+2719771
+Display Name:
+SaVanna Walker
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is the same way I make my spaghetti bake, just using different noodles.  I made it today and it turned out great!  Very easy!
+Review:
+Rating:
+1
+dateLastModified:
+10/24/2011
+helpfulCount:
+4
+userID:
+7932189
+Display Name:
+cookeasy02
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The name for this recipe is misleading because it really isn't chili at all - not even any chili flavor.
+Review:
+Rating:
+2
+dateLastModified:
+10/29/2011
+helpfulCount:
+3
+userID:
+6487390
+Display Name:
+CollegeCooker12
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Kind of dry and definitely not chili. Should be titled as a pasta bake. Need to double the amount of sauce.

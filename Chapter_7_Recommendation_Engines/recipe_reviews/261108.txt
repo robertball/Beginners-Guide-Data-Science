@@ -1,0 +1,37 @@
+Recipe number:
+261108.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-17T16:12:24.323
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't have a pressure cooker so I cooked my beans on the stove the day before I planned to make this recipe . This was simple and turned out really good. I went ahead and added the entire packet of sazon which was a must in my opinion. It could probably use two actually. I'm thinking you could probably even use canned beans to save time as long as you drained and rinsed them real good. This is a great side that would work well with many different main dishes.

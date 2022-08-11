@@ -1,0 +1,37 @@
+Recipe number:
+263441.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-27T23:22:34.097
+helpfulCount:
+0
+userID:
+12519278
+Display Name:
+Virginia Lee Kanzler
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1164296.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was delicious.  I didn't have poppy seeds but did have ground flax and chia seeds so used that for the crust instead.  Otherwise, I followed the recipe as far as ingredients.  I did not boil the spinach.  Seemed like a waste of time.  I chopped the fresh spinach and put it in with the onions and mushrooms at the end to saute it to wilt.  Much quicker.  The only time in this recipe is the baking.  Well worth it!

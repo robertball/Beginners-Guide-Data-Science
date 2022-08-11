@@ -1,0 +1,72 @@
+Recipe number:
+268922.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-05T13:01:16.087
+helpfulCount:
+1
+userID:
+557341
+Display Name:
+Mindee Greivel Myers
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+68
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1488675.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've never made fudge before as I don't like the chocolate kind, but my dad requested maple fudge so I thought I'd give it a try.  After a bit of research, this recipe's ingredients looked the most promising.  The mixture of sugar and real maple syrup and the straightforward directions seemed promising.  The only change I made was to reduce the brown sugar just a bit and add a tablespoon of light corn syrup which is supposed to help the fudge come together.  I also toasted my walnuts.  The result is scrumptious!!  I followed cooking instructions exactly.  It seemed like the mixture was taking forever to get to 240 so I partially covered the pan at the end and that got it there.  It takes a LONG time to cool so the time estimated given are way off.  Plan several hours for this.  I used a hand mixer to beat it and it took around 10 minutes to "lose it's gloss" and I added the walnuts at that point.  The result was worth the time - really, really good.
+Review:
+Rating:
+3
+dateLastModified:
+2019-09-15T19:58:33.61
+helpfulCount:
+0
+userID:
+7593060
+Display Name:
+Judy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+420
+favoritesCount:
+2085
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes great but did not cut well.  Crumbled when cut.  Mix well or you may be left with some "toffee" like parts.

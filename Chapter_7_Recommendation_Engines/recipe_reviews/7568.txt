@@ -1,0 +1,37 @@
+Recipe number:
+7568.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-07-14T12:13:48.107
+helpfulCount:
+8
+userID:
+2814168
+Display Name:
+michelle wangler- szameitat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+229
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/79026.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What an awesome idea! It went over great for kids sleep over  i will definately be saving this and  doing it again....maybe for a movie night

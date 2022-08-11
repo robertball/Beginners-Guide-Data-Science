@@ -1,0 +1,37 @@
+Recipe number:
+257267.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-18T15:40:27.757
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out better than I had anticipated. I did add more fresh parsley than the recipe called for but the chicken was full of flavor. My biscuits did not hold their shape too good but I am dough challenged and it could have been user error. I did not use the option chives simply because I forgot about them. They would have been great in this. The only change I would recommend is to use slices of mozz instead of the shredded so that it stays on better. Great recipe!

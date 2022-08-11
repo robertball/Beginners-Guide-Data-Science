@@ -1,0 +1,37 @@
+Recipe number:
+244211.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-02T06:53:41.96
+helpfulCount:
+0
+userID:
+10385666
+Display Name:
+Clynch93
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2628
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3151782.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are so YUMMY!! I was skeptical at first but thought why not give it a try! My son is diabetic so I used a sugar-free cake mix and diet 7-up. So moist and everyone gobbled them up! Thanks for this awesome recipe!

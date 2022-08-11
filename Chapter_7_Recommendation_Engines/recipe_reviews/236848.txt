@@ -1,0 +1,37 @@
+Recipe number:
+236848.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-17T16:56:57.33
+helpfulCount:
+2
+userID:
+3816489
+Display Name:
+Deeli
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/975005.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Soooo very good!! I used Smoked Gouda; prepared and served in a Little Dipper Crock-Pot :-)

@@ -1,0 +1,72 @@
+Recipe number:
+275063.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-03T05:08:36.07
+helpfulCount:
+0
+userID:
+26971583
+Display Name:
+Roy Aguilera
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7685814.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy and delicious
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-01T01:30:43.987
+helpfulCount:
+0
+userID:
+15369765
+Display Name:
+Mousielove
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1178
+favoritesCount:
+4240
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and THIS is the way to go in the future for making tri-tip at home. In the past, I had marinated it overnight. It went on a rack in a roasting pan in a hotter oven. This made MUCH less mess and it's easier. (I still used the rack, though.) Served with Chef John's Creamy Corn Pudding - another winner. Thanks again, Chef John!

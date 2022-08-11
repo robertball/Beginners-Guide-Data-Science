@@ -1,0 +1,72 @@
+Recipe number:
+244318.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-10T13:43:52.523
+helpfulCount:
+0
+userID:
+14320901
+Display Name:
+Abby B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+146
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6535575.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really nice and refreshing! I’d definitely like to make it again. Thanks for the idea of putting these two drinks together.
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-20T07:58:06.757
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very different drink indeed. The tart lime and spicy tea combination really blend well together. I made ice cubes out of some of the tea and lime juice so this helped keep the tea tasty as well as cool while it sat. I used rock cane sugar crystals instead of white sugar and made up my own chai blend. Definitely an extraordinary drink for a summer day. Thank you MitchJGray for your recipe.

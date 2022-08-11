@@ -1,0 +1,72 @@
+Recipe number:
+11181.txt
+Review:
+Rating:
+3
+dateLastModified:
+2001-02-25T16:33:38.403
+helpfulCount:
+3
+userID:
+239219
+Display Name:
+MITCH1046
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is a good cookie. Not as tasty as I thought but a good cookie
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-22T13:35:01.02
+helpfulCount:
+0
+userID:
+1670793
+Display Name:
+D's Mommy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6202764.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made a variation of this cookie every year for the holiday. I use apricot and raspberry pastry filling and I still use the glaze or just use preferred sugar to coat, they are a hit

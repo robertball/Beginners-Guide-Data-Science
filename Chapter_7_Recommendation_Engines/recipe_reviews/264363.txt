@@ -1,0 +1,72 @@
+Recipe number:
+264363.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-14T19:19:33.76
+helpfulCount:
+4
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5.14.18  Needed some roasted garlic for Chunky Garlic Bread, another recipe on this site.  My Instant Pot® already was out on the countertop from hard boiling some eggs today, so I thought WTH, let’s give this recipe a try.  This is the real deal, folks, cooked up perfectly, popped right out of the skin, and no hot oven to heat up my kitchen.  This is an awesome way to roast garlic!
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-12T22:46:32.33
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+More like steamed garlic, not roasted garlic.  Followed directions exactly but it didn't turn out.  Thanks tho!

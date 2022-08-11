@@ -1,0 +1,37 @@
+Recipe number:
+235198.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-06T12:58:28.547
+helpfulCount:
+0
+userID:
+17813164
+Display Name:
+Manny S.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3439090.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great snack/desert to give friends for pot-lucks

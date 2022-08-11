@@ -1,0 +1,72 @@
+Recipe number:
+239709.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-03T14:05:22.9
+helpfulCount:
+5
+userID:
+3372044
+Display Name:
+Micah's Mom
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+237
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2854871.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe. I substituted 2 cups Pamela's Gluten Free Baking Mix for the brown rice flour, tapioca starch, and potato starch (it includes those same ingredients). I left the rest as is and ended up with 30 standard-size muffins. They came out moist, which is not usually the case with gluten-free baking. They're not very sweet, which worked well for me, but they're still flavorful.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-05T22:33:49.767
+helpfulCount:
+1
+userID:
+8486718
+Display Name:
+micheljanie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great muffins, even if your not gluten -free.  My family loves them.  They're not really sweet-just perfect.  They go great as an accompaniment to soup on a cold day.  I've made them 3 times and I can't recommend any changes.  The only down side is the number of ingredients.

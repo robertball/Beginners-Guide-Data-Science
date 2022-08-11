@@ -1,0 +1,107 @@
+Recipe number:
+228890.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-27T19:27:40.617
+helpfulCount:
+6
+userID:
+7526607
+Display Name:
+ItalianSpice
+isPro:
+False
+followersCount:
+96
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+323
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1130046.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love a good salad-on-pizza combination. This one was very good! My favorite part was adding the carrots before baking. I never would have done that before this recipe. I will definitely be making again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-04T23:16:05.823
+helpfulCount:
+0
+userID:
+17075250
+Display Name:
+Rose Ladd
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+566
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4541977.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Funnest recipe I  have ever made! Fun and delicious. I liked the Romaine lettuce and I used heirloom grape tomatoes, one variation I did was used nutritional yeast in place of the parmesan cheese. The crust was perfect and it tasted like real pizza!.
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-23T01:14:30.377
+helpfulCount:
+0
+userID:
+15559425
+Display Name:
+Ryno's mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The  dough was too runny.  Had to add more flour.

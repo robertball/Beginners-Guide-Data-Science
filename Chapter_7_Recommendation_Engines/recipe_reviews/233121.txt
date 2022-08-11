@@ -1,0 +1,107 @@
+Recipe number:
+233121.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-17T14:40:35.563
+helpfulCount:
+4
+userID:
+9118301
+Display Name:
+coffeecupp
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i have made this for years, but i do use a full size cake mix and a one stick of butter. often add 2 cups of blueberries or strawberries.
+Review:
+Rating:
+5
+dateLastModified:
+2015-09-07T05:22:19.11
+helpfulCount:
+1
+userID:
+2753412
+Display Name:
+Lucky Noodles
+isPro:
+False
+followersCount:
+296
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+2823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/60059.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written, using frozen rhubarb.  Awesome and easy!!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-04T06:00:28.233
+helpfulCount:
+0
+userID:
+1616836
+Display Name:
+Larissa Lynn Sneider
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+277
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2688913.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a sugar substitute and sugar free jello as I am diabetic.  It was really good.  I topped it with whipping cream, is cream and half and half.  They were all good.

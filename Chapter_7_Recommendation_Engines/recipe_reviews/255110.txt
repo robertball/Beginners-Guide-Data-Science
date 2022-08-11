@@ -1,0 +1,72 @@
+Recipe number:
+255110.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-07T14:43:19.44
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were delicious. I had some issues with finding the right temperature because they stuck to my machine. This has never happened before. Regardless, these were loved by everyone, even non-celiac. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-17T13:41:01.173
+helpfulCount:
+0
+userID:
+22571991
+Display Name:
+Susan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5130034.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were crispy and delicious! The only change I made was to add blueberries at my husband’s request. Next time I will back off a little on the cashew milk to account for the additional moisture from the fruit. Wonderful recipe-adding this one to our weekend rotation!

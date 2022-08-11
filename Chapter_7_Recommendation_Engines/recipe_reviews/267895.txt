@@ -1,0 +1,107 @@
+Recipe number:
+267895.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-20T17:07:03.72
+helpfulCount:
+3
+userID:
+53092
+Display Name:
+KDSIM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+454
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I only had white sweet potatoes and I used molasses instead of maple syrup because that is what I had on hand.  It was very good.  Some of my potatoes got "mashed" while others were chunky but that's my fault for not making them the same size.   I did saute for about 5 minutes when done to thicken it a bit but, otherwise it was very good and fast!  I will definitely be doing this again. Thanks for sharing the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-16T21:46:10.983
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+190
+followingCount:
+0
+madeRecipesCount:
+535
+favoritesCount:
+696
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super simple and very quick to make. Great treat for a sweet side dish.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-26T23:01:47.067
+helpfulCount:
+0
+userID:
+17113003
+Display Name:
+Sharrell Jones-Young
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3885031.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved it! The only thing I didn't have was maple syrup so I used pancake syrup.

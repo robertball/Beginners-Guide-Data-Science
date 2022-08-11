@@ -1,0 +1,37 @@
+Recipe number:
+106815.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-03-16T23:18:18.617
+helpfulCount:
+0
+userID:
+3166556
+Display Name:
+FranLuvs2Cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/109.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Very Good ~!!

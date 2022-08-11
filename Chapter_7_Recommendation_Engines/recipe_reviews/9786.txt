@@ -1,0 +1,72 @@
+Recipe number:
+9786.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-08-08T07:33:28.327
+helpfulCount:
+7
+userID:
+1982546
+Display Name:
+Tanaquil
+isPro:
+False
+followersCount:
+72
+followingCount:
+0
+madeRecipesCount:
+452
+favoritesCount:
+298
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/38698.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Thanks for the recipe! Perfect with a cup of tea. Dough was really sticky, so I put it in the freezer and then worked really fast to make the '8' shapes. Also made round circle cookies from the 'holes'. I haven't baked in awhile, and my boys gobbled them up. I still have some dough leftover that I am going to freeze (makes alot of dough). (: (: (:
+Review:
+Rating:
+4
+dateLastModified:
+2010-01-02T06:38:33.333
+helpfulCount:
+1
+userID:
+2105382
+Display Name:
+Wendy Dixon
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+116
+favoritesCount:
+256
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/94663.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this cookie is pretty good.  It does enhance tea or coffee.  It is a nice little treat.

@@ -1,0 +1,72 @@
+Recipe number:
+218539.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-02-16T11:31:58.92
+helpfulCount:
+4
+userID:
+2486197
+Display Name:
+AK Dave
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+314
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1107927.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies are delicious with their moist and chewy texture. Next time I'm going to try dried papaya.
+Review:
+Rating:
+5
+dateLastModified:
+2011-08-14T18:00:38.747
+helpfulCount:
+3
+userID:
+7247175
+Display Name:
+teresa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+love these cookies, ouite a nice change from the ordinary  macaroons.very moist and chewy.

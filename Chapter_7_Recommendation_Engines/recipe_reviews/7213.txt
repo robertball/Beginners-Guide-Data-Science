@@ -1,0 +1,37 @@
+Recipe number:
+7213.txt
+Review:
+Rating:
+4
+dateLastModified:
+2002-01-18T06:48:21.17
+helpfulCount:
+5
+userID:
+568828
+Display Name:
+KITTEKAT
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tripled the amount of coffee in this recipe. I put more almonds in it than recommended. It was very good!

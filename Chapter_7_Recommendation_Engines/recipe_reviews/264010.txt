@@ -1,0 +1,37 @@
+Recipe number:
+264010.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-27T15:21:06.217
+helpfulCount:
+1
+userID:
+4221108
+Display Name:
+Melissa Evans Wilder
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I changed the Chardonnay to Evan Williams peach bourbon.  They were yummy!  I also reduced the marinade by half,  added a pat of butter, and drizzled it on the top .

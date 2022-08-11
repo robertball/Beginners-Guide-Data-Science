@@ -1,0 +1,72 @@
+Recipe number:
+116868.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-09-21T20:13:44.277
+helpfulCount:
+7
+userID:
+4198101
+Display Name:
+mosherd1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6195070.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not bad, but way too much garlic....Next time will try only 1/4 tsp. garlic powder, even used more corn than it called for.
+Review:
+Rating:
+3
+dateLastModified:
+2012-03-15T17:15:52.517
+helpfulCount:
+1
+userID:
+3556839
+Display Name:
+Stephanie Haiko
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+248
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/225779.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I couldn't really tell a flavor difference.  I will try this once more with creamed corn.

@@ -1,0 +1,74 @@
+Recipe number:
+221818.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-10-10T14:00:28.603
+helpfulCount:
+5
+userID:
+4773945
+Display Name:
+Kristen Bailey
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2526038.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe has potential, but also has some problems. First, the 10 cups of liquid for 1 lb of rice turned my rice into gelatinous sludge, and way too much of it. Next time I would use a 1/2 lb of rice and cook it to package directions, with the addition of toasting the grains first for about 2 minutes in a Tbsp of oil on med high heat. This will reduce the starchiness. Be sure to use a combination of light and dark meat chicken (or all dark meat) for the best flavor. I added in some whole cardamom pods, whole black peppercorns, 1 Tbsp ground cumin, and an extra tsp of ground coriander to the chicken while it cooked, giving the sauce a more complex flavor. I would also recommend tripling the amount of fresh herbs. Also, I sprung for some saffron which imparts a great flavor. But for those of you for whom saffron is unavailable or cost prohibitive, you can steep a few whole cardamom pods and a pinch of paprika in the butter/milk mixture for a few minutes to get a similar effect.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-10T06:32:21.813
+helpfulCount:
+0
+userID:
+25502519
+Display Name:
+BethK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe calls for far too much rice. 2 cups is called for in other recipes for chicken biryani online, which was still a bit too much. Typo?
+
+I added coriander, cinnamon and cloves, improving it greatly.

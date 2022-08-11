@@ -1,0 +1,37 @@
+Recipe number:
+265801.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-03T16:44:50.29
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9658
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! A little time consuming but worth it. The recipe submitter noted that she only used the red bell because she had it but thought it would be just as tasty without. Yes, yes it was. Next time I will use a little more vinegar but that is the only change I would make.

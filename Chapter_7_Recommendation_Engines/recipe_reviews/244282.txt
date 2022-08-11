@@ -1,0 +1,37 @@
+Recipe number:
+244282.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-17T01:49:15.56
+helpfulCount:
+0
+userID:
+22289167
+Display Name:
+Brookew
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make and tastes great. I skipped the vodka, and only had one grapefruit which was a little short of two cups of juice so I added some lemon and lime juice. When boiling the sugar water, I added some grated rind from the grapefruit and some honey (which probably wasn’t a great idea, the honey flavor was a little overpowering). But overall, it was delicious and I’m sure the recipe is great with no changes. Also, I don’t have an ice cream maker so I blended it in a blender, froze it until solid, blended it again, and froze it again, and it turned out fine, so it can even be made easily without an ice cream maker

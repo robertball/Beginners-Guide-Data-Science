@@ -1,0 +1,37 @@
+Recipe number:
+273027.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-12T15:16:01.213
+helpfulCount:
+1
+userID:
+7305415
+Display Name:
+Yancando
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+546
+favoritesCount:
+406
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5672365.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I usually make cauliflower cheese crust for low carb pizza, but this is a fabulous alternative! I followed the recipe exactly and the pizza was delicious! I will reuse this crust with lots of different toppings.

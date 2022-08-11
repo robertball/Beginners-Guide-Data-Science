@@ -1,0 +1,37 @@
+Recipe number:
+269516.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-17T20:51:48.32
+helpfulCount:
+3
+userID:
+24180080
+Display Name:
+LilDude
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is D.E.L.I.C.O.U.S. We ate it it all within 4 hours of letting it sit in the refrigerator overnite. This was a trial cake for our Christmas table and I will double the recipe and make a larger version. We L.O.V.E.D. it!

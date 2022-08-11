@@ -1,0 +1,37 @@
+Recipe number:
+268904.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-11T00:00:10.42
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+471
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good soup and a good recipe. I didn’t have sherry or sherry vinegar, but I had Chardonnay and a sweet red wine. So I mixed them together and I was able to achieve a good flavor. I used a red wine vinegar since that’s what I had. The base of the soup was very good. Being a non-vegan, the vegan cheese was unpleasant. I’m sure that if you are used to eating vegan cheese that this wouldn’t be a problem. I would make this again and use the cheese normally used in French onion soup...but I will also suggest this as a good soup to my Vegan friends.

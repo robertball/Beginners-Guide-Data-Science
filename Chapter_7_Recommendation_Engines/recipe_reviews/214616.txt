@@ -1,0 +1,37 @@
+Recipe number:
+214616.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-05-20T12:34:52.287
+helpfulCount:
+2
+userID:
+5573809
+Display Name:
+ThePittyRanch
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+1792
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1013570.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had just been given some fava beans and was searching for a recipe to use them when this one popped up.  It sounded very interesting and I had everything on hand except for the fresh thyme. I halved the recipe, made it as is and it has a lot of interesting flavors going on and is a very filling soup. My personal preferences: I found the beef broth too heavy for all the spring veggies.  When I make it again, I will try it with chicken or veggie stock and switch out the veal for ground chicken.  Definitely worth trying!

@@ -1,0 +1,72 @@
+Recipe number:
+255921.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-12T21:48:07.547
+helpfulCount:
+2
+userID:
+22133610
+Display Name:
+Sharon Sabillon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’m Honduran and I do this meal very often. It’s delicious however a little trick for keeping the corn tortillas from ripping is to microwave them for a few seconds so they’re easier to work with.
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-13T16:34:51.793
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9646
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor of these are good however I had a bit of trouble with the recipe. I prefer corn tortillas over flour but corn tortillas break so easily that it was impossible to put more than a pinch of filling in them to get them to roll without breaking. With that being said, the ratio is off. You get a whole lot of fried tortilla with one tiny bite of filling.  Even just sticking a toothpick through them made the corn tortilla tear. Even though it will alter the taste a great deal, I recommend using flour tortillas if you want a decent amount of filling in your tacos.

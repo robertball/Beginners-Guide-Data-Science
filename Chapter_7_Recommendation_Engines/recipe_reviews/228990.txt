@@ -1,0 +1,144 @@
+Recipe number:
+228990.txt
+Review:
+Rating:
+1
+dateLastModified:
+2012-10-03T17:31:51.623
+helpfulCount:
+7
+userID:
+1897802
+Display Name:
+GOLDENS
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+170
+favoritesCount:
+242
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry, but I must have missed something in this recipe. I found the 1 T cinnamon extremely overpowering. I also could not fit it into a 1-1/2 qt casserole. Did not care for this recipe. Couldn't even taste the peaches or hardly find them in the pudding.
+Review:
+Rating:
+5
+dateLastModified:
+2012-09-13T23:33:18.107
+helpfulCount:
+4
+userID:
+5157845
+Display Name:
+Rina Perry.
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/453402.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Looks real good for winter time. I'll try it.
+As a lactose tolerate I'll use soy milk and soy cream.
+I am sure it will work.
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-18T16:47:43.313
+helpfulCount:
+2
+userID:
+4676104
+Display Name:
+Cookin Up A Storm
+isPro:
+False
+followersCount:
+99
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+1164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/368784.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved this.  I used spiced rum and our own home canned peaches and it was a big hit with all my eaters.  Who doesn't love peaches? And cream?
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-22T23:33:10.937
+helpfulCount:
+0
+userID:
+15818690
+Display Name:
+Brenda Frawley
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2303031.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Omg yummy.  Will definitely put this in my favourites.

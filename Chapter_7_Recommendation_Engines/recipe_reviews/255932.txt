@@ -1,0 +1,72 @@
+Recipe number:
+255932.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-05T01:02:23.323
+helpfulCount:
+2
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+400
+followingCount:
+0
+madeRecipesCount:
+1107
+favoritesCount:
+3211
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a winner! I used homemade Velveeta and 4 Hatch Chiles. I served it with a green salad and chips on the side. Very easy to make and we enjoyed it very much. Will make again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-15T00:12:26.54
+helpfulCount:
+0
+userID:
+21486249
+Display Name:
+Caroline Keller
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup turned out exactly like the picture.

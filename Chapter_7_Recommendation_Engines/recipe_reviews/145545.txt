@@ -1,0 +1,72 @@
+Recipe number:
+145545.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-05-07T20:16:53.12
+helpfulCount:
+11
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+873
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an interesting combination of flavors. The tarragon and citrus flavors work well together. The celery and green onions add a nice crunch. I served this salad on a bed of baby greens for a light lunch.
+Review:
+Rating:
+4
+dateLastModified:
+2012-02-27T09:29:25.117
+helpfulCount:
+4
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a little white onion instead of green and mostly orange zest with only a little lemon zest (what I had on hand was a single lemon, several oranges and white onion). I also accidentally doubled the tarragon. It came out good. A nice change of pace from the traditional chicken salad.

@@ -1,0 +1,72 @@
+Recipe number:
+231453.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-17T18:29:54.117
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+MMMmm delicious.   I used soy sauce instead of tamari, had panko crumbs so used those , dried oregano and the peppers were no where to be found at my TJs so I used banana peppers and a tad of tabasco. Loved this... a keeper
+Review:
+Rating:
+2
+dateLastModified:
+2018-01-23T13:44:06.44
+helpfulCount:
+0
+userID:
+2321013
+Display Name:
+B Bradfield
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+213
+favoritesCount:
+221
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/68723.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+nope sorry really didn't like this one, too much kale for my tastes

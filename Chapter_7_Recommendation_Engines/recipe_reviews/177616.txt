@@ -1,0 +1,37 @@
+Recipe number:
+177616.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-10-13T15:31:55.59
+helpfulCount:
+4
+userID:
+860165
+Display Name:
+Carol Hammond
+isPro:
+False
+followersCount:
+27
+followingCount:
+0
+madeRecipesCount:
+209
+favoritesCount:
+573
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/340346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these with the following changes:  I added one half red onion, peeled, quartered and separated.  I didn't care for the addition of the cornstarch.  It made them "pasty."  The flavor was good, though I think next time I will add just a pinch of salt and maybe some minced garlic and onion powder.

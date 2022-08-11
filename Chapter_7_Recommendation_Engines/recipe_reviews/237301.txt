@@ -1,0 +1,37 @@
+Recipe number:
+237301.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-09T13:11:53.28
+helpfulCount:
+1
+userID:
+15617383
+Display Name:
+Suzan Ringlen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+67
+favoritesCount:
+685
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+the fish was delicious! preparing it I misunderstood step 5 and poured the marinade over the fish before putting it in the oven instead of half way through. also cooking the fish on high heat to brown caused grease to fly everywhere and my pan will never be the same maybe medium high would have been better.

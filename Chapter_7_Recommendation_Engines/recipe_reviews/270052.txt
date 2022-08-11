@@ -1,0 +1,37 @@
+Recipe number:
+270052.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-27T01:17:06.593
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+578
+favoritesCount:
+799
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was a little unsure of the cheese and sour cream, but actually it fit the recipe just perfect! I made exactly as written. I did add the Italian seasoning with the tomatoes. At the end I removed the sauce pan and placed the cheese on the chops and put the lid on until melted. Mine were cooked before 30 minutes, so just keep an eye on them. Great recipe!

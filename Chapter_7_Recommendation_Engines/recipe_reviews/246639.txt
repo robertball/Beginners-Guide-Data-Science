@@ -1,0 +1,83 @@
+Recipe number:
+246639.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-26T19:13:14.72
+helpfulCount:
+5
+userID:
+21970921
+Display Name:
+Mark Kim
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've tried for years to recreate my grandma's dakjjim recipe as it was my favorite dish as a child. 
+After trying several  different recipes, I got to say that this recipe comes pretty close to my grandma's.  But I believe the "3 quarts of water" is clearly a typo, it should be "3 cups of water."  I actually use less water like 2 to 2 1/2 cups to give it a stronger teriyaki flavor (the marinade is in essence homemade teriyaki.)
+
+Some changes I made were to add grated ginger (same amount as minced garlic), 2 tablespoons of sake, and 3 tablespoons of oyster sauce to the marinade.  I went with 1 onion instead of 2 onions when cooking the chicken.  Also, 2 jalapenos is really spicy, so I just used 1 jalapeno.  You can also use dried red chili peppers (the kind used in Szechuan cooking) also - I used 7 dried red chili peppers and 1 jalapeno.
+ 
+One thing that is missing from this recipe is potatoes.  I use 3 potatos, skinned and cut into big chunks.  I add it with the onions when you begin cooking the chicken.
+
+Also, it shouldn't take more than an hour to cook the entire dish on low heat if you use chicken drumsticks (which is what my grandma used).
+
+You can adjust the amount of garlic, ginger, pepper, sesame oil, and sugar to taste.  1/2 cup of sugar can be on the sweet side, I use about 1/3 cup of brown sugar and a 2 tablespoons of honey instead. I also added a little more pepper and sesame oil than this recipe requires.
+
+Overall, I'm really happy that I found this recipe.  With
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-04T00:09:53.82
+helpfulCount:
+0
+userID:
+26611208
+Display Name:
+Queen_808
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes

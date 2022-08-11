@@ -1,0 +1,37 @@
+Recipe number:
+217791.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-06-25T21:32:32.34
+helpfulCount:
+4
+userID:
+459689
+Display Name:
+Elizabeth
+isPro:
+False
+followersCount:
+192
+followingCount:
+0
+madeRecipesCount:
+395
+favoritesCount:
+981
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2070985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were good.  I wouldn't make it with zucchini again, but the pork and tomatoes were good.

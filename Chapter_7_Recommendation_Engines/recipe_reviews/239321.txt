@@ -1,0 +1,72 @@
+Recipe number:
+239321.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-06T15:33:38.323
+helpfulCount:
+2
+userID:
+13985419
+Display Name:
+Gary Brumagin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1294361.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My wife and I really enjoyed this, although I'll admit I added extensively to the veggies in this. My two early twenties adult children turned their overly fussy noses up at this all veggie offering, but I'll make it again. I added 1 1/2 cups of onion, peas, and corn to this recipe; with just the zucchini, carrots, and butternut it seemed like it might be a bit sparse. That's a cup and a half of each one of the veggies. I'm sure you could work with whatever veggies you'd like, I suppose. With all those additional veggies, I nearly doubled the bake time. We just kept checking to make sure the veggies were tender, and when they were, we let it rest a bit, and then dug in. Coupled with my first every scratch crust, I considered it to be an overall success.
+Review:
+Rating:
+3
+dateLastModified:
+2014-11-20T14:06:14.343
+helpfulCount:
+1
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a few moderate changes, so take this with a grain of salt. I used yellow squash instead of zucchini, added a cup of yellow onion, omitted pepper, and used seasoning salt instead of plain salt to make up for flavor lost from the pepper. My biggest complaint is that the veggies cooked unevenly. Some pieces were perfectly cooked, others really hard. Taste wise, I didn't like the seasoning salt much, so I would use some other seasoning if I make it again, but I did think the onion was an important add and would do that again.

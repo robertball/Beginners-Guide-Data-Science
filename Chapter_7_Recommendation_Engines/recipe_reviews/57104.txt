@@ -1,0 +1,107 @@
+Recipe number:
+57104.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-03-10T06:18:03.357
+helpfulCount:
+9
+userID:
+4667307
+Display Name:
+Howdy Doodat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe both with and without the potatoes. Using potatoes stretches the meat a substantial amount without affecting taste - as I don't really care about fat content. Mostly I use the sausage as a breakfast sausage in place of traditional "Jimmy Dean" style sage-dominated sausage. Also with a slice of cheese - like a hamburger. I find the inclusion of veal makes the product authentic. Potatoes have been used in locally produced brats for years, in and around Sheboygan.
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-14T03:35:48.053
+helpfulCount:
+4
+userID:
+8611067
+Display Name:
+oya ertem
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+thanks
+Review:
+Rating:
+4
+dateLastModified:
+2012-04-01T13:23:13.907
+helpfulCount:
+2
+userID:
+9074877
+Display Name:
+Zachary Kriz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great basis for creating your own brats/patties seeing as though no one seems to want to give up their seasoning however sell it. I added fresh green onion and minced garlic after the dry seasoning had set with the meat (deviding the pepper between black and white pepper is also a nice kick). I like the veal idea however ask your butcher for the ribeye end of a porkloin which will give you more tender meat plus the fat content that you are looking for. I rolled the meat out on wax paper and use a cup to press out even patties...yet to have a complaint! great spring/summer recipe!!

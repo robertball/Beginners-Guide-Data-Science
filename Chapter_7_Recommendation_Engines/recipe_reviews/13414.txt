@@ -1,0 +1,147 @@
+Recipe number:
+13414.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-10-02T07:41:14.42
+helpfulCount:
+17
+userID:
+1128921
+Display Name:
+VORCHA
+isPro:
+False
+followersCount:
+34
+followingCount:
+0
+madeRecipesCount:
+269
+favoritesCount:
+221
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/44.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+As previous reviewers have stated, this is extremely rich flavored; a little goes a long way.  I made exactly as stated the first time, but would make the following changes next time: Cut the cabbage and saurekraut by 1/2 (I ended up with two stockpots to hold everything!), to reduce the richness use 1/2 lb of smoked butt, degrease everything really well, and add 2 lbs of cubed red potatoes to soak up the juices.  The soup improves if you prepare it the night before and degrease the broth the next day, the flavors meld together and mellow slightly, making it much more enjoyable.
+Review:
+Rating:
+4
+dateLastModified:
+2000-08-30T14:31:09.46
+helpfulCount:
+16
+userID:
+157677
+Display Name:
+CASCADE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We really enjoyed the soup and will make
+again.  It makes enough to feed the
+Lithuanian Army, however, freezes well.
+I couldn't use 4#'s of cabbage as my soup pot isn't large enough.  I used
+less smoked pork butt as 1# would be
+too strong.  Wonderful winter soup.
+Review:
+Rating:
+2
+dateLastModified:
+2000-04-10T16:01:17.003
+helpfulCount:
+11
+userID:
+5941
+Display Name:
+emmaxwell
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is rich, and there is plenty of it, but the our slovaic family found this soup to be too flavorful for our liking.  Consisering the cost of all the ingredients, I don't think we'll try it again.
+Review:
+Rating:
+5
+dateLastModified:
+2007-03-08T09:30:44.28
+helpfulCount:
+7
+userID:
+2309391
+Display Name:
+Bill
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for a small dinner party.  Everyone really liked it! Even those who aren't sauerkraut eaters.

@@ -1,0 +1,72 @@
+Recipe number:
+10421.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-01-27T18:58:06.687
+helpfulCount:
+3
+userID:
+1335392
+Display Name:
+JEWELS9
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I keep eating them, but I'm not too impressed.  I don't suspect I'll be making these again.
+Review:
+Rating:
+3
+dateLastModified:
+2011-04-12T07:48:32.177
+helpfulCount:
+2
+userID:
+4045856
+Display Name:
+Kristy Guillotte
+isPro:
+False
+followersCount:
+28
+followingCount:
+0
+madeRecipesCount:
+185
+favoritesCount:
+2106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3329649.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cookies were ok, kind of bland. the dough was easy to roll and cut.

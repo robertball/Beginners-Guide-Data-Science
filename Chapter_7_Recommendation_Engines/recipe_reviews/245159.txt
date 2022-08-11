@@ -1,0 +1,37 @@
+Recipe number:
+245159.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-03-31T13:26:51.13
+helpfulCount:
+0
+userID:
+17755152
+Display Name:
+Carina Collet
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this, tasted the batter, and realized that there is no sweetener.  I added some sugar, but even that didn't help with the taste.

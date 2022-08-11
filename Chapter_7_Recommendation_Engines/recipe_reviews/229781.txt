@@ -1,0 +1,107 @@
+Recipe number:
+229781.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-02T11:36:27.587
+helpfulCount:
+9
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1661
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used homemade unsweetened applesauce (made from Jonathan apples) in this recipe. Once I was able to get the pumpkin grated, this was quite simple and this turned out wonderfully. I will make this again but try it with pumpkin spice next time.
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-17T16:41:57.07
+helpfulCount:
+2
+userID:
+4406233
+Display Name:
+Debbie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+78
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's delicious.  I made it with homemade unsweetened applesauce and omitted the sugar.  I don't miss the sugar a bit and it is much more healthy.
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-23T08:25:55.18
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great base that can be used in other recipes as well as eaten on its own.  I doubled the recipe freezing half of it. I used homemade unsweetened applesauce and red kuri pumpkin.  I also cut down on the sugar by half in one batch.  I then used it to replace oil in AR's Pumpkin Pie Muffins and it turned out moist and pumpkin rich! Thanks sueb for sharing.

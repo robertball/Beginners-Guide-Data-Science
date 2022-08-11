@@ -1,0 +1,37 @@
+Recipe number:
+229281.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-08T14:52:07.15
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this to use as a salad dressing and it turned out great! I didn't have soy milk on hand so I used the 2% milk that I did have. Two tablespoons didn't seem to be enough to get mine to blend so I added two more which ended up being too much resulting in a thinner dressing but that was my own fault. My husband and I both loved this and the best part was that he had no idea it had tofu in it. This would be great on fish tacos! It would be good on a lot of things actually. Thanks for sharing!

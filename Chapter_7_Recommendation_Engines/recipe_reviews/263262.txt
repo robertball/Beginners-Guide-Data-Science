@@ -1,0 +1,37 @@
+Recipe number:
+263262.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-02T15:34:38.047
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't know about the best but this did turn out pretty good. I used lime instead of lemon due to personal preference and because I wanted a good crisp on the skin, I took it out of the foil and placed it directly on the grate for the last 15 minutes. For my serving I decided to glaze it with Sriracha and that was an excellent choice. The other 3 servings without the Sriracha turned out good too though. Super simple recipe and one worth firing up the grill for.

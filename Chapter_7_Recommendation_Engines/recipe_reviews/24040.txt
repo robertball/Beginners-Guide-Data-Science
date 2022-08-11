@@ -1,0 +1,37 @@
+Recipe number:
+24040.txt
+Review:
+Rating:
+1
+dateLastModified:
+2012-07-02T14:15:03.863
+helpfulCount:
+6
+userID:
+1598858
+Display Name:
+MariaTheSoaper
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1556291.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+the "drink mix" ingredient needs to be worded way differently. Instead of drink mix, it should say "1/2 cup premade sugar-free lemon flavored drink mix" or something to clearly say you should be using 1/2 cup of the drink mix already made. I had to make this recipe twice, because the first time, I used 1/2c drink mix in the powder form.. which ironically tasted better than the 2nd attempt when I used the made drink mix (which made it taste bland.)

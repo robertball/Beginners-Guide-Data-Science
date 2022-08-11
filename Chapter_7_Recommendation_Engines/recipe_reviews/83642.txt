@@ -1,0 +1,144 @@
+Recipe number:
+83642.txt
+Review:
+Rating:
+2
+dateLastModified:
+2010-05-16T20:39:45.363
+helpfulCount:
+1
+userID:
+3829939
+Display Name:
+Jayne Cagle Combs
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5462024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not sure what I did wrong but followed the directions to a tee.   When I put in the walnuts and sugar it instantly hardened. Thinking maybe baking would help, nope.  Hard as a rock and you couldn't cut through the pie.  But, we just put the pie in the middle and ate from that.  Had it worked it would have tasted good.  My boyfriend called it cement pie. lol
+Review:
+Rating:
+5
+dateLastModified:
+2009-04-11T15:35:33.003
+helpfulCount:
+1
+userID:
+3681616
+Display Name:
+chevy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+quick, easy, good. how can you go wrong
+Review:
+Rating:
+2
+dateLastModified:
+2019-10-10T17:08:39.583
+helpfulCount:
+0
+userID:
+26262031
+Display Name:
+Nannie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Did not turn out like I thought.  The corn syrup and sugar did not turn golden and we cooked it for a little less than 20 minutes but it was so thick when we added the walnuts and cinnamon that it was almost like taffy
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-13T03:00:53.487
+helpfulCount:
+0
+userID:
+2247123
+Display Name:
+Kathy B
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2301312.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Updating my review since my first review was not complete. I love this recipe. Carmel, Nutty, "Applie" goodness. I think the previous reviewer may have over cooked the corn syrup creating the "Cement".
+ Since I didn't have enough corn syrup I created the syrup component by mixing what white corn syrup with some dark corn syrup, some molasses and a bit of maple syrup and it still came out delicious.  
+My next attempt I will make "home made" crust, the store brand is a little too thin for my liking. Thanks for sharing this simple yummy recipe.

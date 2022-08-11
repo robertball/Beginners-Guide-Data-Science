@@ -1,0 +1,110 @@
+Recipe number:
+272268.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-12T17:53:50.033
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are tasty little morsels that are very easy and are less clean up than the regular fried eggplant.  I love these tossed on a  salad.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-12T21:20:34.823
+helpfulCount:
+0
+userID:
+5888809
+Display Name:
+elainejoyce
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We just had these for a midday snack. So good and easy to make. These will be repeated for sure.
+Next time I'll make a pasta sauce to go with it.
+
+Thank you
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-05T18:40:52.317
+helpfulCount:
+0
+userID:
+3206807
+Display Name:
+Edie Bellocchio
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6303153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Extra fresh garlic!!! Plus I used zucchini another time!!! (Squeeze a little lemon juice over them I've been making these for years now!!! YUMMMMMMMMMMMM??)

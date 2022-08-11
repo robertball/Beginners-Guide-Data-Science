@@ -1,0 +1,73 @@
+Recipe number:
+276419.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-29T15:58:16.793
+helpfulCount:
+1
+userID:
+8058283
+Display Name:
+BBrown13
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+93
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+To Jenny Lynn, there is no vinegar in this recipe! Apple cider is what gives this dish its sweetness (NOT apple cider vinegar). 
+Very tasty!
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-24T00:20:21.317
+helpfulCount:
+0
+userID:
+26127188
+Display Name:
+Jenny Lynn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just a question. It says a perfect balance of sweet and tart, but there is no sugar in the recipe. Is that right? The chicken was tender, but the only flavor coming through was vinegar.

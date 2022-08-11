@@ -1,0 +1,37 @@
+Recipe number:
+261888.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-22T01:31:42.48
+helpfulCount:
+0
+userID:
+12146589
+Display Name:
+Tara
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an awesome recipe that I can use for any occasion. Christmas was a good one, I used regular Oreos for the crust and made a picture of a Christmas Tree, leaving a majority of the cake white. Next I plan to use a birthday cake Oreo to make it for my husband's birthday! LOVE IT! Thank you so much for sharing.

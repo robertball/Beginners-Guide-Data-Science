@@ -1,0 +1,107 @@
+Recipe number:
+19212.txt
+Review:
+Rating:
+3
+dateLastModified:
+2008-06-26T17:03:05.967
+helpfulCount:
+6
+userID:
+474514
+Display Name:
+HRH
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+4980
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes delicious. They weren't chewy at all. Maybe I didn't cook them enough. But when I attempted to break it into pieces it kind of fell apart and crumbled quite a bit.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-08T02:48:56.577
+helpfulCount:
+0
+userID:
+24566359
+Display Name:
+Hilary Riegel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6086460.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+these were simple to make and a hit!!! Ill be making them again tomorrow for a Christmas party...
+Review:
+Rating:
+1
+dateLastModified:
+2018-01-17T01:02:58.117
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+194
+followingCount:
+0
+madeRecipesCount:
+547
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I want my money back. I made this and it was a complete fail for me. It never hardened and I couldn't bring myself to chow down on so much butter. I get it's a dessert, but when the bottom looks like butter it's hard to think it's going to be great. Tastes good but I rather have a cookie texture.

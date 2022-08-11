@@ -1,0 +1,107 @@
+Recipe number:
+245915.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-06T13:54:32.633
+helpfulCount:
+2
+userID:
+5673542
+Display Name:
+Kirsten Gonzales Grady
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+214
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1181921.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were really good...I did add a tablespoon of honey to them because I wanted them a tad sweeter, but I would definitely make them again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-09T10:44:43.687
+helpfulCount:
+0
+userID:
+2414866
+Display Name:
+ManassasMa
+isPro:
+False
+followersCount:
+27
+followingCount:
+0
+madeRecipesCount:
+127
+favoritesCount:
+148
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm new to dedicated healthy eating (we -- my family and I -- have only been eating gluten-free/lactose-free for a couple of weeks now) and I've never been the best at baking, so making these bars was  an quite adventure for me.  I halved the recipe --  specifically because I wasn't sure  whether anyone would like them -- but other than that, I followed it to the letter. My  "analysis"?  I was actually surprised (and very pleased) at how good they actually were! DH and Daughter  liked them very much and gave me the "go ahead" to make them again (and often) but both my son and I thought that they were a bit dry. Next time I make them, I think I'll add a little more applesauce. AND I think I'll make a double batch, lol. (Note: In addition to the applesauce and bananas, I used Blueberries. They worked very well in this recipe.)
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-29T02:27:32.56
+helpfulCount:
+0
+userID:
+17243276
+Display Name:
+Kamloops Matt
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+210
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6942936.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The taste and sweetness was spot on for myself and my family. I did find them a little... I'm not sure the word gummy I guess but that was likely because I used a thicker oat flake and won't hold that against the recipe.

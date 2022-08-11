@@ -1,0 +1,142 @@
+Recipe number:
+244428.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-04T03:16:46.47
+helpfulCount:
+0
+userID:
+24030102
+Display Name:
+Lily Claes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6057687.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was amazing! The lemon juice added the perfect amount of zest, but maybe try replacing the sugar with Stevia or another healthy alternative. All-in-all, it was delicious and I definetly recommend this recipe for someone who has a sweet tooth. Works better using frozen strawberries if you're in a time crunch!
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-17T20:29:40.937
+helpfulCount:
+0
+userID:
+22065678
+Display Name:
+Annabelle Leigh Lindstrom
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Why not 5 stars?  Because this recipe makes such a small amount. My ice cream maker only turns out a pint at  time. The volume on recipe amounted to a third less than a pint. Also putting mixture through a fine sieve is essential to smoothness. Not much trouble to do that,  with the reward more than worth it.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-15T16:28:16.3
+helpfulCount:
+0
+userID:
+6476162
+Display Name:
+Kristin Moreno Antonio
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2837188.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Still delicious even when I tossed all the ingredients in a blender then chilled in the fridge for an hour. I used plain lowfat yogurt and added a 1/2 teaspoon of  vanilla extract on account of not having any plain greek yogurt. Easy and very fresh-tasting.
+Review:
+Rating:
+5
+dateLastModified:
+2015-07-25T15:15:38.063
+helpfulCount:
+0
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe! Four ingredients and a little of your time you can have delicious homemade froyo! This is the perfect balance of sweetness and cream packed with the taste of strawberries.

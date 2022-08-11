@@ -1,0 +1,107 @@
+Recipe number:
+239007.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-26T02:58:20.91
+helpfulCount:
+1
+userID:
+17723777
+Display Name:
+Fiona Scott
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3384655.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was surprised by how tasty this was! I didn't have flax seeds so used chia seeds instead. Really delicious and delicately sweet and gentle tasting. Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-04T23:50:08.63
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the flavor of this smoothie, especially after adding some cinnamon. However, the texture wasn't that great, and the smoothie was not very cold. I would add some ice next time. Also, I think it would help to freeze the zucchini. The serving was big.
+Review:
+Rating:
+3
+dateLastModified:
+2016-06-19T18:43:27.27
+helpfulCount:
+0
+userID:
+18106604
+Display Name:
+Dianne Zimmerman Heinz
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used vanilla protein powder and 1 cup almond milk (because I'm allergic to dairy). It was a little too sweet for my taste. When I make it again, I'll use hemp protein or regular whey protein.

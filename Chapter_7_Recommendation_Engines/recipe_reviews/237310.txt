@@ -1,0 +1,72 @@
+Recipe number:
+237310.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-02T23:11:40.81
+helpfulCount:
+1
+userID:
+12100565
+Display Name:
+Jen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+78
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for New Years and it honestly was the best black eyed peas I have ever eaten. The sauce was perfect to dip the cornbread in. Great recipe!  Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-03T11:43:19.193
+helpfulCount:
+1
+userID:
+16931994
+Display Name:
+Betty Jones
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2913619.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I omitted the sugar

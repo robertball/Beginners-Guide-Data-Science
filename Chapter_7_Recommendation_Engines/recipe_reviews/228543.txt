@@ -1,0 +1,37 @@
+Recipe number:
+228543.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-30T17:04:13.25
+helpfulCount:
+0
+userID:
+13316717
+Display Name:
+Penny
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a creative, customize-able recipe!!  Even though I adapted it somewhat to suit our tastes (and use what I had on hand), using tortillas and spaghetti squash to make egg rolls is pure GENIUS amid the plethora of spaghetti squash recipes simulating Italian pasta with red sauce. Nothing wrong with those (I love them, too) but this recipe is a stand-out for creativity.  Sincere thanks, NutellaBznss!  (c:

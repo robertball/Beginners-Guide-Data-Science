@@ -1,0 +1,107 @@
+Recipe number:
+247289.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-04T16:09:26.533
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2467
+favoritesCount:
+2279
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I used Swiss in place of the Monterey Jack  because that is what I had on hand. These turned out really good. I did have to add more Panko than the recipe called for and even then the patties were a little loose so I just stuck them on a cookie sheet and tossed them in the freezer for 20 minutes to help firm them up before sticking them on the grill. I really enjoyed the ranch/wing sauce and it is one I will use on other things. French fries would be great dipped in it for starters.  I will be recommending this one to my friends. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-03T18:10:01.65
+helpfulCount:
+0
+userID:
+25393759
+Display Name:
+Melanie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My new favorite recipe!!!
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-24T00:40:12.613
+helpfulCount:
+0
+userID:
+18118269
+Display Name:
+James Rosell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3625991.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome burger wouldn’t change a thing

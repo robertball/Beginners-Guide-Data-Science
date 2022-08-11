@@ -1,0 +1,107 @@
+Recipe number:
+269697.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-17T09:56:41.95
+helpfulCount:
+2
+userID:
+4461996
+Display Name:
+Jewli Sharpe
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+162
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/996132.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty tasty! The sour cream and onion combo adds  an interesting spin on your standard corncake. I was a little unsure about the dill and hot sauce, but it was a nice addition of flavor. The timing was a little off, tho ~ It may be my oven, but I had to bake it a lot longer (like 10-15 minutes longer).. maybe next time I'll try an 9x13 pan instead.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-02T05:45:55.363
+helpfulCount:
+0
+userID:
+26383253
+Display Name:
+Lori Duchak
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7227347.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been making this exact recipe since the early 90’s, it was in Woman’s World, and was called “Maryanne’s Onion Shortcake”. The lady that submitted it said it was a German dish.  I’ve always brought this to potlucks, and it’s a huge hit every time.  I usually double the recipe and make 2, and freeze the second one uncooked.  It freezes really well, just thaw before baking.  The original recipe called for 1/4 cup fresh dill by the way.
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-17T18:43:34.27
+helpfulCount:
+0
+userID:
+16979689
+Display Name:
+SoCalCindy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good, husband loved it! The consistency was a little different than I expected, more like a pudding than a cake or bread.  It would make a great side dish with ham, chicken or pork.

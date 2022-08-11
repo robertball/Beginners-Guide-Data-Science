@@ -1,0 +1,107 @@
+Recipe number:
+159618.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-01-24T20:56:52.92
+helpfulCount:
+9
+userID:
+3134296
+Display Name:
+Damon Williams
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2771713.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just used rainbow chard and red peppers, and stir-fried it with the Quick Cantonese Sauce on this site.  It was really good!
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-11T16:16:22.56
+helpfulCount:
+2
+userID:
+1803891
+Display Name:
+Clover
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+141
+favoritesCount:
+339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1073554.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been making green juice, so when I found this recipe, I decided to modify it for juicing. First, I reduced the recipe to half to produce one glass of juice.  Omit the oil, salt and sauce.  Here goes: kale, rainbow chard, bell pepper, leek.  I added 1/2 cucumber, 1/2 red apple, and one jalapeno.  The apple & jalapeno produce the sweet & spicy effect.
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-27T10:55:51.7
+helpfulCount:
+0
+userID:
+9654605
+Display Name:
+GF mama
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/18.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it just the way it says. It is super delicious and was a hit with everyone.

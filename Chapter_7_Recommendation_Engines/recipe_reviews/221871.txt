@@ -1,0 +1,72 @@
+Recipe number:
+221871.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-12-21T03:14:48.403
+helpfulCount:
+0
+userID:
+23586126
+Display Name:
+Judy P
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was going to make these, thinking they were different, but they were basically my gingersnap cookie recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-05T19:57:49.967
+helpfulCount:
+0
+userID:
+15560459
+Display Name:
+carolyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these and they tasted very good but they were sooo hard they had to be dunked to be eaten.  I will have to try them again.

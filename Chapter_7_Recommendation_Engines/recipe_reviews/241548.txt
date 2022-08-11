@@ -1,0 +1,78 @@
+Recipe number:
+241548.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-09T02:30:20.487
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe rocks! There is no reason to buy salsa, make it and you'll see it is really, the best. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-15T07:28:30.467
+helpfulCount:
+1
+userID:
+3228570
+Display Name:
+TENNESSEE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+68
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/166962.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an excellent recipe.  Close to one I use but mine didn't call for bell
+pepper.  I found the bell pepper really added to the taste.  Too, I use a can
+of diced tomato/chile pepper (Rotel) rather than tomato sauce.  Next time I
+make this I'll go back to that simply because I like the heat. This is a very
+adaptable recipe where one can add or reduce the ingredient portions depending
+on their taste. If you don't have a go to salsa recipe this is a very good
+place to start.  Many thanks for a fine recipe, Big Nanc.

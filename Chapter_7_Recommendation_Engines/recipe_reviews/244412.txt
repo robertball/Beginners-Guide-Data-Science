@@ -1,0 +1,72 @@
+Recipe number:
+244412.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-25T14:15:22.733
+helpfulCount:
+0
+userID:
+16396869
+Display Name:
+Carmen Swain
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3374304.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good! Kind of an odd cake but there are some people out there who would love it.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-10T22:49:47.947
+helpfulCount:
+0
+userID:
+7413176
+Display Name:
+Laurie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+208
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had to try this- definitely unusual.  Very tasty although frosting was a little sweet

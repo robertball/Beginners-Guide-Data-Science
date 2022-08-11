@@ -1,0 +1,72 @@
+Recipe number:
+246601.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-29T19:08:26.78
+helpfulCount:
+0
+userID:
+10703220
+Display Name:
+Diana Mc
+isPro:
+False
+followersCount:
+54
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7679117.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought these were really good.  I felt the mascarpone cheese was ok.  It needed something to amp it up.  Or maybe if the herbs and cheese melded together then the flavor would be there.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-23T16:15:49.29
+helpfulCount:
+0
+userID:
+12731946
+Display Name:
+jessaca
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+282
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3292460.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So yummy!    I will definitely make this again.    I added a bit of garlic salt to it for a little more flavor.   Other than that, I made it as directed.

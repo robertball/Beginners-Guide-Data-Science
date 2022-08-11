@@ -1,0 +1,107 @@
+Recipe number:
+237578.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-24T22:02:57.75
+helpfulCount:
+6
+userID:
+4380994
+Display Name:
+Cooking Queen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+163
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very similar to my great- great grandmothers recipe. We boil red potatoes with the skin on. Let cool and peel. Then we shred them. Also, Instead of rolling the mixture into logs, we roll them into 2" balls.   When then potato dumplings come out of the boiling water, we cover them with sautéed onions and a little melted butter. This is a must at our holidays meals!
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-06T00:45:50.76
+helpfulCount:
+0
+userID:
+534717
+Display Name:
+LADY_KATHLEEN_B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made potato dumplings before but never with farina in them.  I did cut the recipe down since there is just 2 of us.  What I noticed was that the dough was super sticky and not being familiar with this type of dumpling I wasn't sure it was supposed to be that way so I added more flour... a lot more flour.  Now, I don't know if it made a difference that I only had the quick cook farina.  The dumplings were good... but a little soft and they needed more salt.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-23T03:34:01.99
+helpfulCount:
+0
+userID:
+22817073
+Display Name:
+jody gerszewski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are the bomb!!!! Just like my Czech Grandmother made! Thank you, thank you!!!

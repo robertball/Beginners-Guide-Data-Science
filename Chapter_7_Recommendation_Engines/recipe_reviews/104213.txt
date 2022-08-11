@@ -1,0 +1,37 @@
+Recipe number:
+104213.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-07-18T17:18:02.983
+helpfulCount:
+0
+userID:
+595916
+Display Name:
+JDVMD
+isPro:
+False
+followersCount:
+162
+followingCount:
+0
+madeRecipesCount:
+1625
+favoritesCount:
+1530
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/408423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was O.K. but nothing that I really want to make again. I felt that it was missing salt (I added seasoning salt as well as fresh ground black pepper). Used gorgonzola instead of blue cheese. Maybe the flavor is really dependent upon what type of beer, steak sauce and cheese you select.

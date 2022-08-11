@@ -1,0 +1,72 @@
+Recipe number:
+223071.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-17T05:59:37.773
+helpfulCount:
+8
+userID:
+8632557
+Display Name:
+bctabby
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+143
+favoritesCount:
+2244
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was really good!  I had never had celery root before but my husband requested it so I found this recipe, one of the few on here for celery root.  I forgot to put the pecans in at first but added them after we ate half of it.  It tasted almost the same with or without them. I liked it a little better without though.  My husband couldn't really tell either way. I followed the recipe exactly other than that and it was nice and refreshing.  I will definitely be making it again!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-07T18:01:22
+helpfulCount:
+0
+userID:
+10977351
+Display Name:
+Sly Nic
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+79
+favoritesCount:
+233
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4542322.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This salad is truly a refreshing change to the idea of "salad". I do not use the salt as I don't usually add salt but it can be added after if it is required.

@@ -1,0 +1,72 @@
+Recipe number:
+214266.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-06-16T17:44:20.887
+helpfulCount:
+4
+userID:
+177742
+Display Name:
+Connie Schweiss
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+178
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2138739.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I skipped pineapple, for gelatin I used unsweetened strawberry jello and for the cup of ice cubes I only used the juice from the strawberries, Delicious! will make with other fruits too.
+Review:
+Rating:
+5
+dateLastModified:
+2011-03-07T11:29:33.26
+helpfulCount:
+2
+userID:
+6688716
+Display Name:
+Kayrocker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  People tore through this pie and were disappointed that there wasn't more!  Excellent!  They said the best thing about it was that it wasn't overly sweet.  I mashed an extra cup of strawberries to add texture so the glaze wouldn't look so "Jello-y."  I also added 11 more crushed wafers (25% more) and 1 tbsp. butter to make the crust thicker.  A big hit!  Thanks!

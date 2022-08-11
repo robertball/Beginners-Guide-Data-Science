@@ -1,0 +1,37 @@
+Recipe number:
+9845.txt
+Review:
+Rating:
+4
+dateLastModified:
+2004-06-07T23:53:10.593
+helpfulCount:
+1
+userID:
+562273
+Display Name:
+ARIEL1O1
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I haven't cooled this yet to try it (I just finished making it) but it tastes good so far. It's really sweet though and next time I make it I'll try to substitute something for all the sugar. I also used cheerios and it worked out well - I was trying to use up my cereal and peanut butter so this recipe was perfect. Let's see how my husband likes it!

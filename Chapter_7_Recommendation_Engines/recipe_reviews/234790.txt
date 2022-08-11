@@ -1,0 +1,146 @@
+Recipe number:
+234790.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-25T15:17:19.27
+helpfulCount:
+6
+userID:
+1285950
+Display Name:
+Lindsey B.
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first attempt at a green bean casserole. I have to say, this recipe was incredibly easy and pretty much fool-proof. No one had seen a green bean casserole topped with mashed potatoes before, but my whole family thought it was a nice touch.
+
+The only thing I added to the recipe was just a little bit of garlic powder in the soup (added in with the pepper), and a little bit more just mixed into the potatoes. I was pleasantly surprised at the quality of the instant potatoes. Also, the potatoes soaked up a bit of the soup in the casserole, which added to their flavor.
+
+I was skeptical about making a green bean casserole for Christmas, but I'm glad I chose this one. It was a hit! Overall, I give this recipe 4 stars for being quick, easy, and tasty, but it could have used maybe a few more seasonings just to make the flavors pop a bit more. I think the garlic was a nice addition.
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-04T07:41:05.27
+helpfulCount:
+3
+userID:
+2016123
+Display Name:
+spice of life
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+253
+favoritesCount:
+2316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5746750.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good.  It is a step up from your "standard" green bean casserole.
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-09T18:55:49.583
+helpfulCount:
+1
+userID:
+13891262
+Display Name:
+Sheila Doreen
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1239425.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first green bean casserole but I changed it a lot as I don't have canned beans or instant potatoes. I cooked up some homemade mashed potatoes and chopped my green beans first. I steamed my green beans and I definitely cooked more than the recipe called for so I grabbed a 2 qt baking dish. I combined the soup, a bit more milk than what's asked, added some extra garlic powder, mixed in some shredded cheese and some pre-cooked chopped onion (fried in butter- 1 small white onion). I used French's Ranch fried onions but only mixed in about a 1/4 cup. Mixed everything up, poured in dish, and followed the rest of the recipe as suggested (but I also topped with some cheddar cheese). It was great!
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-29T16:11:59.953
+helpfulCount:
+1
+userID:
+3139587
+Display Name:
+Caroline H. Boober Irwin
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2224392.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was easy and family loved it. Although I don't use instant potatoes for recipes, boiling up my own and adding garlic and fresh pepper, just made it better!

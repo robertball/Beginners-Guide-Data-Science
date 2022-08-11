@@ -1,0 +1,107 @@
+Recipe number:
+229806.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-10-25T11:54:36.567
+helpfulCount:
+7
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5134
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked how simple this was to make. I had Kraft Tuscan Italian dressing so I used that. I just made up about 2 servings and quartered some brown button mushrooms and used roma tomatoes sliced. Give it time to sit, as the mushrooms need time to soften. I tried it with the parsley and liked it better without. I thought it was allright, as is, but so much better once I added some Greek pitted black kalamata olives. It made it taste like an antipasto side dish. I am giving it a 4 with the olives or adding other antipasto add-ins.
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-25T03:58:15.943
+helpfulCount:
+5
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1664
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like to use Baby Bella mushrooms in this recipe. Kraft makes a  bottled balsamic italian dressing that I like to use in this recipe. I usually don't use the whole 8 ounces of dressing only because I don't want them swimming in it, I start with a quarter cup and keep adding until it's where I want it.
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-10T10:37:12.897
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12232
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2670
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to toss together.  Thanks.

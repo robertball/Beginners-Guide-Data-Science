@@ -1,0 +1,37 @@
+Recipe number:
+74427.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-08-09T06:05:27.733
+helpfulCount:
+3
+userID:
+595916
+Display Name:
+JDVMD
+isPro:
+False
+followersCount:
+162
+followingCount:
+0
+madeRecipesCount:
+1625
+favoritesCount:
+1530
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/408423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This went great served cold alongside prime rib. I bundled the broccolini in bigger bundles and used the whole piece of proscuitto. Added more honey mustard to the sour cream. Arranged on a platter with dollops of the sauce on each bundle. Nice presentation too.

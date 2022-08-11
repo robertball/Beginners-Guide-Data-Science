@@ -1,0 +1,37 @@
+Recipe number:
+229335.txt
+Review:
+Rating:
+1
+dateLastModified:
+2012-10-09T14:53:13.1
+helpfulCount:
+8
+userID:
+2746123
+Display Name:
+Bill Bale
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+523
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3860108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is not a liqueur in any sense of the word, simply ginger and brandy flavored sweetener. I don't blend the ginger after slicing it, but put it in a jar with the brandy, orange juice, and vanilla. I steep it for a 3-4 weeks , then strain the solids out. Place back in the rinsed out jar. I then make a syrup with the water and sugar, cool it completely, and add to the jar. Stir, and age at least a month.

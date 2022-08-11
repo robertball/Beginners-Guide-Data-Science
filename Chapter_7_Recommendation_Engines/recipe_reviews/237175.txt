@@ -1,0 +1,72 @@
+Recipe number:
+237175.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-01-16T08:20:00.893
+helpfulCount:
+0
+userID:
+15820741
+Display Name:
+Shezeree Cokonougher-Gallardo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+386
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3702523.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We doubled the recipe & added 1 can black beans (drained & rinsed), 1 can of diced tomatoes, some diced onion, diced garlic, cilantro & about 1/2 c frozen corn. I mixed it all up, baked it until hot and bubbly & served it with 6-inch tortillas, fresh sliced avocado, sour cream, shredded cheese, salsa verde & fresh lime wedges. It kept it inexpensive, still & turned it into a complete vegetarian meal. Some taco seasoning (or enchilada sauce, fajita seasoning, or something of the like & some shredded chicken would be good additions too. Thanks for the simple, inexpensive starter recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-02T14:27:57.01
+helpfulCount:
+0
+userID:
+2665015
+Display Name:
+Alice
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+623
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My review was 5 stars not one. Alice L

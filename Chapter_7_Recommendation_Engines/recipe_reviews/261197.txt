@@ -1,0 +1,107 @@
+Recipe number:
+261197.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-17T02:28:55.777
+helpfulCount:
+0
+userID:
+18212415
+Display Name:
+Joyce
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3683809.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice alternative.  I wouldn’t call it “risotto” but I’d call it very fine. None of the guilt either, which makes this choice even better.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-02T18:18:13.317
+helpfulCount:
+0
+userID:
+11587778
+Display Name:
+Carole D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good. I substituted regular butter instead of ghee, and half and half for the heavy whipping cream and it turned out great. All my guests loved it. Next time I will cook the bacon separately to get it a little browner and crisper, but otherwise, it was great.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-06T23:27:09.91
+helpfulCount:
+0
+userID:
+5409459
+Display Name:
+Staci Noble Cook
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+109
+favoritesCount:
+984
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6931705.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought it was very easy to make.  No more prep work than usual.  I used half and half and Greek yogurt instead of heavy cream to save on calories but I added some cooked diced chicken for more protein.  I will make it again and am looking forward to having the leftovers for lunch.

@@ -1,0 +1,37 @@
+Recipe number:
+272663.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-17T23:37:58.613
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+765
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Surprisingly tasty! I do think salt is necessary here, regardless of feta. I add a pinch to the onion/zucchini mixture while sauteeing which really helped bring out the flavors of the vegetables. Very easy to make and a healthy, filling breakfast - or in my case, dinner! I sprinkled a bit of extra feta over top before serving. I did need to adjust the salt a bit at the end with a couple twists of my sea salt grinder. The dill really makes the dish, and I imagine using fresh dill would be even tastier.

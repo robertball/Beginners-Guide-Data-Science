@@ -1,0 +1,37 @@
+Recipe number:
+264728.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-22T14:36:50.7
+helpfulCount:
+0
+userID:
+20811599
+Display Name:
+lncast
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love it so much I’ve been making it every day for the past two weeks. I sometimes add spinach to it!

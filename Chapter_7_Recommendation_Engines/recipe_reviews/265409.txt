@@ -1,0 +1,72 @@
+Recipe number:
+265409.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-18T19:35:24.02
+helpfulCount:
+0
+userID:
+26699011
+Display Name:
+Aya Droubi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this soup yesterday and it was delicious! My husband doesn't like the all cheesy broccoli soup, so this was just what I was looking for and he loved it! the kids did too but was a bit spicy for them. I think next time I will just skip adding the cayenne pepper although I liked the kick it added!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-16T00:53:05.833
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! I typically do not like blended soup but this one was so rich and full of flavor that I gobbled it right on up. Made as written and no changes needed whatsoever!

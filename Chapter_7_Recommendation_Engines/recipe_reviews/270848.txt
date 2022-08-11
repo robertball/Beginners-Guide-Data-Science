@@ -1,0 +1,37 @@
+Recipe number:
+270848.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-14T01:40:40.16
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+194
+followingCount:
+0
+madeRecipesCount:
+549
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved making this recipe and it looks so fancy for even a potluck. I would personally like more heat next time. I would add extra seasoning or the cayenne which I left out. I might have added a little sugar for sweetness in the cornbread, but that's just how my Grandma made it. I used vinegar added to milk instead of the buttermilk. I would make this again. So simple for a crowd too!

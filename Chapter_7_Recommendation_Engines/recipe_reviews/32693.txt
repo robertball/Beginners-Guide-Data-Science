@@ -1,0 +1,37 @@
+Recipe number:
+32693.txt
+Review:
+Rating:
+1
+dateLastModified:
+2007-01-01T09:10:41.49
+helpfulCount:
+15
+userID:
+754750
+Display Name:
+Jules
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+75
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All of these ingredients sounded so good individually to me, but when you put them all together ... GROSS!  Orange-flavored blue curacao mixed with coconut...then throw in some vodka for extra punch, and then the fruity flavor of champagne on top of all that.  I thought the color would be nice, but with the red grenadine added to the blue liquor, I ended up with a grayish concoction instead of a pretty blue or purple drink.  I made 2 glasses of this, each a little different, and ended up dumping them both down the drain.

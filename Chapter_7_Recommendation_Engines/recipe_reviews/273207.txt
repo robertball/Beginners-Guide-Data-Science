@@ -1,0 +1,37 @@
+Recipe number:
+273207.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-09T01:03:19.533
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used 3 chicken thighs and 3 drumsticks.I decreased the sugar to 2 tbs, used 1 1/2 cups baby carrots and added 3 tbs of Gochujang Sauce (Korean Red Pepper Paste). I served it with white rice and we really enjoyed it. Thank you for the recipe.

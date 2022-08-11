@@ -1,0 +1,72 @@
+Recipe number:
+260082.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-01T00:49:05.743
+helpfulCount:
+0
+userID:
+5608340
+Display Name:
+vinkim70
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time using our new pressure cooker. Followed recipe without making changes and it was great!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-13T20:39:19.647
+helpfulCount:
+0
+userID:
+20507716
+Display Name:
+Chantelle KayLee James
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3996235.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy!

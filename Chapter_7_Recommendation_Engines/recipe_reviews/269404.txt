@@ -1,0 +1,107 @@
+Recipe number:
+269404.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-14T23:56:36.16
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wanted to keep the almonds really visible in the cookie, so I didn't stir them in, but rather  pressed the dough balls into the almonds so they embedded in the dough.   These were delicious .. next time I would add more orange zest.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-19T20:00:04.78
+helpfulCount:
+0
+userID:
+12290909
+Display Name:
+breerly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added just a touch more amaretto, and then dipped one side in chocolate for an added zing.  Great recipe
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-24T17:29:26.83
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2214
+favoritesCount:
+2558
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a delicious little shortbread cookie to add to this year's  holiday cookie platter.  I followed Linda T's lead and added the almonds on the top to add interest, and it lets anyone with nut allergies know that nuts are involved.

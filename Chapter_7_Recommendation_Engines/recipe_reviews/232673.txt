@@ -1,0 +1,37 @@
+Recipe number:
+232673.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-20T12:21:32.133
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+1343
+favoritesCount:
+2870
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hi. I make this cocktail  with lemon-lime seltzer water. It is very refreshing but not sweet. The ingredients were changed during publication, however I bet the lemon-lime soda would be a sweet treat.

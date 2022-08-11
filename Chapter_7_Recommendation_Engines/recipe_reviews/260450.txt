@@ -1,0 +1,37 @@
+Recipe number:
+260450.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-21T23:35:30.83
+helpfulCount:
+0
+userID:
+21954742
+Display Name:
+Sandra Langlois Solger
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+219
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4518675.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out delicious.  Had a hard time not just stacking them in the cupcake pan but the crunchiness they had at the end made what they looked like not matter.

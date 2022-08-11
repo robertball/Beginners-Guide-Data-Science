@@ -1,0 +1,72 @@
+Recipe number:
+25819.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-09-03T11:33:48.917
+helpfulCount:
+7
+userID:
+3938659
+Display Name:
+Melissa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have cholesterol issues so I made this with egg whites and margarine...and since I was in an impulsive mood I didn't chill the dough for very long.  However these turned out simply delicious.  Right out of the oven they almost reminded me of scones.  Which isn't a bad thing - I'd eat one of these for breakfast with tea any time.  I'll try it true to recipe next time.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-29T19:15:24.757
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2217
+favoritesCount:
+2563
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe makes a tasty and pretty cookie.  It would look wonderful on any cookie platter.  My husband loved them because they were not too sweet and would be perfect with a cup of coffee in the morning.

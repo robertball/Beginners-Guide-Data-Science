@@ -1,0 +1,108 @@
+Recipe number:
+222250.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-21T21:19:36.027
+helpfulCount:
+3
+userID:
+7353999
+Display Name:
+Steven Elsesser
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+196
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought these were wonderful! The plantain adds a bit of sweet to it which I really enjoyed. I have to admit that I had to make some changes: I didn't have any mushrooms so I used black beans as a substitute. I also added some cumin because, I love it! Great recipe, thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2012-06-19T08:57:33.067
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice change from usual veggie burgers. They are a bit sweet so I topped these with some buffalo sauce. I think next time I might add a few black beans and some cayenne or chipotle to the mix
+Review:
+Rating:
+2
+dateLastModified:
+2014-01-07T11:29:07.41
+helpfulCount:
+1
+userID:
+1991573
+Display Name:
+Andrew Millott
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7236075.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't meet my family's or my expectations.  I know it's a veggie burger, but it was a little too different in both taste and texture.  To help the texture I recommend finely chopping the mushrooms and olives separately, and then mixing them into the other items that have been blended/processed.  Adding an egg should help everything stick together.
+Then for the taste when working with plantains ripeness is a concern, as their taste changes a lot the riper they get.  In my personal experience the greener plantains will add something similar to a pickle taste, which could work for a burger if you like pickles.  I don't know how to give it a meatier taste.

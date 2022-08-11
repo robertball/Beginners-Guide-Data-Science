@@ -1,0 +1,37 @@
+Recipe number:
+270742.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-11T01:20:35.023
+helpfulCount:
+0
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+273
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3415
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cupcakes were very moist and has good flavor, but, they tasted more like a muffin to me than a cupcake.  I also thought they were very sweet. I left some as is and some I frosted with cream cheese icing. I preferred the ones without the frosting.

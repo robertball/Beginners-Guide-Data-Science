@@ -1,0 +1,107 @@
+Recipe number:
+230521.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-26T19:10:17.127
+helpfulCount:
+0
+userID:
+14066509
+Display Name:
+Karen E. Duffy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4586339.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make homemade almond butter and always end up with more than I know what to do with. This recipe is the answer  - yum!  Will make them with toasted almonds on top next time instead of chocolate Kisses.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-22T23:21:43.12
+helpfulCount:
+0
+userID:
+9940835
+Display Name:
+Andrea Combs
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2255704.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A new favorite!  I was looking for something like the classic blossoms recipe that my daughter could eat.... she has a peanut allergy. These are perfect!  Love them and making them again tomorrow!!
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-03T06:41:58.15
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8917
+followingCount:
+0
+madeRecipesCount:
+1121
+favoritesCount:
+2303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty and full of almond flavor. I did use only all-purpose flour, as I didn't have any whole wheat flour on hand. Other than that, I followed the recipe. They turned out a little too flat (I prefer the puff of the traditional peanut butter version), and could have been baked a few minutes more (for 12 minutes total), in my opinion.

@@ -1,0 +1,37 @@
+Recipe number:
+104075.txt
+Review:
+Rating:
+1
+dateLastModified:
+2006-10-01T07:37:32.077
+helpfulCount:
+1
+userID:
+2076170
+Display Name:
+Grace
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Torte had an odd flavor and texture.  The recipe said to pour batter into pan.  I definitely had to spread it; there's not enough liquid in the recipe to make it pour-able.

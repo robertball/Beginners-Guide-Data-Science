@@ -1,0 +1,37 @@
+Recipe number:
+261587.txt
+Review:
+Rating:
+1
+dateLastModified:
+2020-02-11T22:16:35.147
+helpfulCount:
+0
+userID:
+8498251
+Display Name:
+Joyful
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If anything cries for a video, this recipe does.

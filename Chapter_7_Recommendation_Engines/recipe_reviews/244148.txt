@@ -1,0 +1,37 @@
+Recipe number:
+244148.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-18T03:57:53.1
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thought this was an unusual combination when I read it and decided to try. LOVED IT!  Everything worked together and it had this subtle sweetness to it that was fabulous. Will make again and again.

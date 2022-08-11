@@ -1,0 +1,107 @@
+Recipe number:
+261415.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-21T18:13:57.66
+helpfulCount:
+1
+userID:
+22676924
+Display Name:
+Letitia Burns
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made these for church on Sunday, one batch with peppermint and one with almond. I didn't even get to sample one they were gone that quick.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-26T22:31:43.277
+helpfulCount:
+0
+userID:
+15227570
+Display Name:
+carolynzarsky
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1986494.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used tsp fresh lemon juice as I didn't have cream of tarter, twice the color first batch and 5 drops more second batch (I was making them to appeal to a 4 year old),  3/4 cup each of sugars, and 1 cup each of Bailey's Irish cream morsels semi bitter sweet chocolate . Cooked 13' for slightly mounded tablespoon. It didn't  say when to add color but I would add with extracts the next time. I would make again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-01T22:19:23.687
+helpfulCount:
+0
+userID:
+24665207
+Display Name:
+Karra G
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6062857.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10 minutes was definitely not long enough for mine.  I baked for around 15 minutes until the edges were slightly brown.  When I tried taking them out at 10 minutes they were very under done.  Baking time aside, these were delicious. I used mini chocolate chips.  I will definitely make these again.

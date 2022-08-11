@@ -1,0 +1,72 @@
+Recipe number:
+276508.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-06T01:35:59.417
+helpfulCount:
+0
+userID:
+4254447
+Display Name:
+KentStater
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a combo of ground beef and hot sausage for the meatballs and tossed them in air fryer at 350 for 10 min. Delicious- my family loved them! The sauce was very bland as written. I tossed in fettuccine noodles into the sauce as opposed to serving with mashed potatoes. Definitely cut the flour to 1/4 cup or double the sauce recipe if you prefer the dish to be more saucy. I will make again but would need to add different seasonings to the sauce.
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-31T05:15:17.117
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are good. The sauce thickens, a lot. Next time, I’ll cut in half the amount of flour.

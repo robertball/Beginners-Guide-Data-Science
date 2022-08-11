@@ -1,0 +1,72 @@
+Recipe number:
+241938.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-29T16:49:58.273
+helpfulCount:
+0
+userID:
+16074938
+Display Name:
+Sury Mittelman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2433439.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried it, and it was delicious! only instead of just baking it covered, I baked it for 20 minutes and then broiled it on high uncovered for an additional 10 minutes. I also sprinkled some chili powder and paprika spice on top of the vegetables.The fish came out juicy and the vegetables crunchy.
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-13T21:31:10.803
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was good. Next time I would like all the veggies cut in smaller pieces. Also, I would prefer more seasoning and adding some garlic. A good healthy recipe though!

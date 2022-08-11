@@ -1,0 +1,72 @@
+Recipe number:
+261786.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-08T17:31:41.283
+helpfulCount:
+2
+userID:
+26252007
+Display Name:
+Gordon Ramsay
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it, made it 20 times over may put it in my restaurants
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-29T18:51:02.113
+helpfulCount:
+0
+userID:
+26726700
+Display Name:
+Ariel Anne Giannone
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7492337.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+LOVE this! Will be making many more times. My husband also loved it. The sauce u get at the end is absolutely perfect to pour over the turkey.

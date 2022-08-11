@@ -1,0 +1,72 @@
+Recipe number:
+245357.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-22T08:57:27.153
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty tasty and fairly easy to make. I might try toasting the coconut used for coating the outsides. Watch your temperature for step 2, it'll sneak up on you. Use wet hands to form the balls. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-06T22:41:05.293
+helpfulCount:
+1
+userID:
+20491684
+Display Name:
+Sarah Godbehere
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! I mixed the Almond flour in with the coconut and coconut milk and then added the entire mixture to the sauce pan with the melted sugar.  make sure you add the coconut mixture to the pot with the sugar, do not try to add the sugar to the bowl with the coconut, it does not end well.  Next time I might try coating them in chocolate before rolling it in coconut, or som3how incorporating chocolate

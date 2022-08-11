@@ -1,0 +1,37 @@
+Recipe number:
+236292.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-17T21:42:13.54
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was unable to find strawberry guava flavored juice concentrate so I used strawberry concentrate. I like the fizz of the club soda and next time I will add more since I found it a bit on the sweet side. Thanks for sharing.

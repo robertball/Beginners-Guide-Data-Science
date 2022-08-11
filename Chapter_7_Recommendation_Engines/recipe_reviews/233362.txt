@@ -1,0 +1,72 @@
+Recipe number:
+233362.txt
+Review:
+Rating:
+1
+dateLastModified:
+2016-02-24T21:19:58.32
+helpfulCount:
+5
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I hate to do this and it is the first time I've done this but as written this is inedible. The batter is so loose that the Snicker exploded within 2 seconds of hitting the oil. I made this 3 times in attempt to get it right. First time= inedible. The second time I did my best at thickening up the batter and it was better but still not okay. The third time was a charm or my best attempt you could say but I will never attempt this again. What I did: Freeze your Snickers as in frozen solid. 1 cup of flour, 1/2 cup of the sugar, NO egg, vanilla, and  1/2 cup of the club soda. This eventually worked ok but I was totally over it after wasting so many ingredients trying to make it work. It might be an editing error but as written this does NOT work. At all.
+Review:
+Rating:
+1
+dateLastModified:
+2017-10-26T23:06:02.93
+helpfulCount:
+2
+userID:
+1965339
+Display Name:
+George
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+57
+favoritesCount:
+1612
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/146955.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm giving this 1 star because they left out a crucial part of the recipe...you need to FREEZE THE SNICKERS BAR otherwise you end up with a mess. And just make a simple batter the club soda and flour and sugar. You can add the vanilla if  you want but lose the egg.

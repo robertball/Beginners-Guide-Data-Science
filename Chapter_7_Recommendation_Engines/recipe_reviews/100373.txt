@@ -1,0 +1,107 @@
+Recipe number:
+100373.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-11-17T15:07:47.163
+helpfulCount:
+10
+userID:
+2165399
+Display Name:
+E.E.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very good cake!!  Nice and moist.
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-06T11:19:45.54
+helpfulCount:
+9
+userID:
+964783
+Display Name:
+Christine Wickson
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4213124.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made muffins with this recipe. It made 23 large muffins that were light and full of poppy seed (great recipe if you love poppy seeds). We didn't have buttermilk on hand so I substituted fat free evaporated milk. Will make these again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-04T14:48:39.363
+helpfulCount:
+0
+userID:
+26047329
+Display Name:
+Ann Swift
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7238810.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very moist and delicious.

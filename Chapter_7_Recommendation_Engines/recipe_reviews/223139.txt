@@ -1,0 +1,72 @@
+Recipe number:
+223139.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-24T22:55:38.923
+helpfulCount:
+0
+userID:
+13554608
+Display Name:
+purnellv
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added onions and mustard in the mixture for added flavor and crunch.
+Review:
+Rating:
+3
+dateLastModified:
+2012-08-29T12:15:59.86
+helpfulCount:
+0
+userID:
+5707343
+Display Name:
+Courtney Servantes
+isPro:
+False
+followersCount:
+114
+followingCount:
+0
+madeRecipesCount:
+108
+favoritesCount:
+543
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368143.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an unusual combinaton. I had to add in a lot of salsa for my taste. The tuna threw me off. It did taste better the next day. My 7 year old liked it though.

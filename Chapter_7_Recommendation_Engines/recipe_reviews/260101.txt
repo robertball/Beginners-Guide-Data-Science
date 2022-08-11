@@ -1,0 +1,37 @@
+Recipe number:
+260101.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-20T16:56:21.81
+helpfulCount:
+0
+userID:
+10534337
+Display Name:
+Patricia
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Can these be made a day or two ahead without becoming soggy? I’d like to make them for a dinner party on Dec 26 but probably would have to make them on Christmas Eve day. They sound delightful!

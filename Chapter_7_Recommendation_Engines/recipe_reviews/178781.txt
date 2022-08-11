@@ -1,0 +1,32 @@
+Recipe number:
+178781.txt
+Review:
+Rating:
+5
+dateLastModified:
+11/17/2008
+helpfulCount:
+8
+userID:
+2118452
+Display Name:
+MountainMouse
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe came out pretty well. It's not anything like traditional shepherd's pie, but it's pretty delicious in its own right. Next time, I'll probably add more mushrooms and maybe more vegetables, but that's just my own preference.
+Review:
+Rating:
+3
+dateLastModified:
+01/26/2009
+helpfulCount:
+2
+userID:
+2296213
+Display Name:
+Nonnie
+photo:
+global/features/1731.gif
+text:
+NOT Shepherd's Pie at all, more of an Italian Stew with rolls on top.  Not bad but sort of strange.

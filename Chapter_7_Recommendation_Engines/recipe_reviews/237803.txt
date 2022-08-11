@@ -1,0 +1,107 @@
+Recipe number:
+237803.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-08T16:35:51.537
+helpfulCount:
+0
+userID:
+22269944
+Display Name:
+Sariah Griffin
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+244
+favoritesCount:
+990
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7765894.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fantastic.  We took the advice of others and froze the milk in the ice tray.  we froze 1 cup and then added all to the blender.  Super tasty.  Our son wanted a bit more maple taste so we drizzled the top of his with a bit more.
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-12T19:06:07.78
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This shake tasted nice--very peanut buttery! It was tasty and not as heavy as an ice cream shake. The night before I made this, I put the milk into ice cube trays. Then I just added a splash of milk to get it mixing in the blender. It had a nice frozen consistency.
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-21T15:44:19.003
+helpfulCount:
+0
+userID:
+16386998
+Display Name:
+Ramen Noodles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a very good recipe. I suggest adding a little more maple syrup and I also added some ice to make it a little bit thicker.

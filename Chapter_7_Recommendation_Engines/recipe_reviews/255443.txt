@@ -1,0 +1,74 @@
+Recipe number:
+255443.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-12T23:21:02.693
+helpfulCount:
+0
+userID:
+6578537
+Display Name:
+L Cooper
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+644
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6203734.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’ve been searching for a great leftover-rice recipe all my life!
+Lol
+And this is it.
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-17T06:29:22.367
+helpfulCount:
+0
+userID:
+15722068
+Display Name:
+Lauren
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4032731.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thanks Lowe! This made for a nice, simple snack. I sprinkled a little cinnamon over mine.

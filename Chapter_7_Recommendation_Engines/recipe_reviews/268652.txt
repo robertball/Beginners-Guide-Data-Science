@@ -1,0 +1,145 @@
+Recipe number:
+268652.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-10-13T17:02:06.19
+helpfulCount:
+0
+userID:
+12459908
+Display Name:
+Kelli Meland-Lewis
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1751780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a mandolin for perfect even thickness, however they were burned on the edges and soggy in the middle. I think it could be my air fryer? Next time I will lower heat and increase time
+Review:
+Rating:
+2
+dateLastModified:
+2019-07-31T12:37:24.5
+helpfulCount:
+0
+userID:
+5714417
+Display Name:
+phoward2007
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6888532.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First recipe I tried in my new air fryer. Burnt almost every single chip!
+Used a mandolin to keep slices as uniform as possible.  Through trial & a lot of errors, had to adjust the temp down to 360°, and the time to 4 minutes.  The edges STILL burned.  Could only put in a single layer each time = 9 chips per batch.   :(
+Took a very long time to cook two sweet potatoes.
+I don't think I'll try this one again.  And we were so hopeful.
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-19T12:43:05.293
+helpfulCount:
+0
+userID:
+12591447
+Display Name:
+tcasa
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+776
+favoritesCount:
+1504
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2386212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved these! My family thought they were ok. I would recommend using a mandolin to slece the potatoes as thin as possible. I did not use one today and some of the chips were not crispy in the middle but burnt on the ends. I ate the most anyway but the kids would not eat the dark ones. I also used canola oil. I served this with a maple yogurt dipping sauce from AR (equal amount of yogurt and maple,  pinch of salt, mix). Thank you for the recipe will be making this again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-26T01:38:49.07
+helpfulCount:
+0
+userID:
+24379548
+Display Name:
+Sally Jo Holm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5982018.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think I would try cutting them thinner. And I could only cook about 1/3 of the chips at a time. Tasted good though.

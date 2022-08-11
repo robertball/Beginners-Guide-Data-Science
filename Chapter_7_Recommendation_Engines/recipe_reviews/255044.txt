@@ -1,0 +1,107 @@
+Recipe number:
+255044.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-15T18:52:19.217
+helpfulCount:
+2
+userID:
+24649619
+Display Name:
+Judy Shomper
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used only 1/3 cup of cane sugar. It was plenty.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-06T21:07:13.163
+helpfulCount:
+2
+userID:
+20663364
+Display Name:
+Sarah Arthur
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4092859.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies are deliciously satisfying! They are soft and cake-like, not too sweet, but definitely dessert :).
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-30T01:11:33.243
+helpfulCount:
+0
+userID:
+13683904
+Display Name:
+Debblogo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+143
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5123219.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and easy! Soft and chewy!

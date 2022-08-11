@@ -1,0 +1,107 @@
+Recipe number:
+49709.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-01-04T12:22:55.707
+helpfulCount:
+8
+userID:
+2008352
+Display Name:
+Cindi M Bauer
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+1302
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7622683.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wanted to edit my recipe, but since I am not able to do so under my previous name, I found I am able to under my new name. When making this dish, I highly suggest using the following gingersnaps... Rippin Good, Stauffer's, or Lil' Dutch Maid. (Lil' Dutch Maid are the least expensive, and I purchased them at the Dollar Tree.) And as for the amount of cookies I use,  I now add 33 cookies. I also find it's best to use a good quality brand of all-beef wieners (rather than hot dogs or fanks). I now prepare this dish in my chicken fryer, and cook this over high heat, until it comes to a boil and the gravy has thickened up (in about 10 minutes) and after that, I lower the heat to a simmer, and cook/simmer the dish just a bit longer, for another 10-15 minutes. One more thing I wanted to add... for recipe use a small to a medium size onion. This recipe actually yields: 12-14 servings.
+Review:
+Rating:
+1
+dateLastModified:
+2005-10-08T11:31:27.937
+helpfulCount:
+4
+userID:
+11333
+Display Name:
+Michelle Bovenkamp
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+175
+favoritesCount:
+458
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6847824.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We did not like this.  Sorry.
+Review:
+Rating:
+5
+dateLastModified:
+2006-10-25T13:35:42.827
+helpfulCount:
+2
+userID:
+2132502
+Display Name:
+Chef Kenneth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is great!  I've also used the gravy on fresh pasta!  It gets rave reviews from my gourmet friends!  *****

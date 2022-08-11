@@ -1,0 +1,72 @@
+Recipe number:
+258369.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-01T14:00:51.067
+helpfulCount:
+1
+userID:
+1049036
+Display Name:
+PUNKGIRL
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+212
+favoritesCount:
+940
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/69367.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did make a few changes based on what I had, and this turned out delicious.  It is best as a dip, but I doubled the recipe to use some as a pasta sauce, and we all liked it that way, too.  I felt it could use some more herbs, so I added some, to taste.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-08T18:01:15.273
+helpfulCount:
+0
+userID:
+26637719
+Display Name:
+james bont
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7422480.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+is really good and cheap to make a small jar of this is like 5$.I did not find cherry peppers but I used red jalapeño came out delicious  thanks Chef John see you on YouTube  ;-)

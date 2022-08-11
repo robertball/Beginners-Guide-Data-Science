@@ -1,0 +1,37 @@
+Recipe number:
+273697.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-04T17:33:42.523
+helpfulCount:
+3
+userID:
+7781892
+Display Name:
+Doug Wilbourne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great recipe essentially as is.  The vegetable oil keeps the cake nice and moist.  If you want a stronger lemon flavor, I can suggest adding a bit more lemon zest to the cake and then finishing the cake with a lemon juice / confectioners sugar glaze.

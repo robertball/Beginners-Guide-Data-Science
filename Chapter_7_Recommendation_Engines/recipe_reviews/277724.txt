@@ -1,0 +1,72 @@
+Recipe number:
+277724.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-29T23:31:38.2
+helpfulCount:
+0
+userID:
+25854859
+Display Name:
+marcw
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe if you want a 2nd meal. Tasted as good the next day for lunch.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-22T03:55:42.653
+helpfulCount:
+0
+userID:
+26917102
+Display Name:
+RALPH FOSTER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7643388.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am missing the "Thai" flavor. This dish was basic, I added much less fish sauce. ( my previous experience with Fish Sauce is be careful) Not a low salt recipe for our house, add salt if you like. Was more flavorful after resting a while( second serving) I did add some fresh chopped cilantro when serving and that flavored it up a bit. I may try this again.

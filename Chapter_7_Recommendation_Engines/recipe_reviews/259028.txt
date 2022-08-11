@@ -1,0 +1,108 @@
+Recipe number:
+259028.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-23T19:19:14.55
+helpfulCount:
+3
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5755
+followingCount:
+0
+madeRecipesCount:
+2830
+favoritesCount:
+6011
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+7.23.17  Thought 1/4 cup oil for two servings was a bit too much for us, so I did cut that back a little, otherwise, followed the recipe.  This has a nice combo of ingredients with many layers of flavor:  the sweetness of the melon, the saltiness of the olives and the feta, the tartness of the lime, the crunch of the red onions, and the zing of that fresh mint.  Thanks for sharing.
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-06T22:55:57.277
+helpfulCount:
+1
+userID:
+23270738
+Display Name:
+ELWIN BACHILLER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5286449.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice and light.. changed cz to blue cz. and olives to green. 
+Dilesh it worked. Thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-22T16:31:50.727
+helpfulCount:
+0
+userID:
+22858759
+Display Name:
+Deb Knisley
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+508
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4591985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a wonderfully fresh explosion of flavors! Took it to a picnic & it was a huge hit. I omitted the black olives & will do less oil next time but can’t wait to make again.

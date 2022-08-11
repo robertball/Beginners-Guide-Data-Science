@@ -1,0 +1,37 @@
+Recipe number:
+258082.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-05T15:11:51.323
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Che buoni! I had to use gluten free penne. Regardless of the pasta shape, this pesto is simple and delicious. I added some extra zucchini wheels at the end, for extra nutrition and fun. Thank you for the recipe.

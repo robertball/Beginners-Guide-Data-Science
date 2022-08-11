@@ -1,0 +1,145 @@
+Recipe number:
+213188.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-02-28T16:31:51.83
+helpfulCount:
+29
+userID:
+2196040
+Display Name:
+cooks 4 3
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/402461.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these with regular sugar and different nuts.  I didn't have a 9 x 11 pan so I used 9 x 9 and it took forever to bake and the edges were over done. I would go bigger  (9 X 13 ) next time for sure.  Despite my crispy edges they were very good, rich and moist without being too sweet, a little different than the usual brownies I make but very well received and all gone in 15 minutes! I would make these again.
+
+I've made these again a few times and found the following... Use a chocolate with 75% cacoa for the best colour, they come out a rich, dark brown.   (55% cacoa chocolate tatsted good too but was not as appealing on the plate as the dark ones)  A 9x13 pan works well but I still added 5 minutes to the baking time.  The brownies also taste best when they have totally cooled.  I can't wait to find another reason to bake these. Is Wednesday a good enough reason?
+Review:
+Rating:
+2
+dateLastModified:
+2011-02-13T17:02:58.423
+helpfulCount:
+9
+userID:
+504296
+Display Name:
+Barbara
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried these because I had leftover sour cream to use up.  They didn't seem special to me -- I have other, richer recipes.
+Review:
+Rating:
+5
+dateLastModified:
+2011-02-16T13:26:28.67
+helpfulCount:
+7
+userID:
+2237206
+Display Name:
+Pam Purssell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2737751.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly, except for using a 9x13 pan, and I cooked it for 35 mins.
+It turned out great, I would make these again!
+Review:
+Rating:
+3
+dateLastModified:
+2011-04-10T18:36:26.79
+helpfulCount:
+3
+userID:
+6351260
+Display Name:
+dead doughnut
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not mind blowing but a good brownie recipe.

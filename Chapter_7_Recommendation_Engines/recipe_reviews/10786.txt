@@ -1,0 +1,72 @@
+Recipe number:
+10786.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-06-03T13:26:59.89
+helpfulCount:
+0
+userID:
+22003397
+Display Name:
+Kathy A Hancock
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4525200.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think these cookies need a tsp. of salt.
+Review:
+Rating:
+3
+dateLastModified:
+2016-12-20T18:56:26.36
+helpfulCount:
+0
+userID:
+21038068
+Display Name:
+Sally
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It made a LOT of cookies that are pretty ho-hum.  I was looking for recipe like my mother made. This was not it.  Doesn't have any flavor.  Wouldn't make it again.

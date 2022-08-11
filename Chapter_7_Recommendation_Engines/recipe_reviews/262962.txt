@@ -1,0 +1,109 @@
+Recipe number:
+262962.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-19T17:59:40.383
+helpfulCount:
+1
+userID:
+24366805
+Display Name:
+Nosilayam
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We prefer not to eat white potatoes, so I made this with all sweet potatoes. It was fantastic!  This gnocchi was better than any we have had in any restaurant. I think it's that the sweet potatoes add such a  distinct, and slightly sweet flavor. The sage  butter sauce is perfect also. 
+I made enough that I put half in the freezer for later.  I served that second act with a butter, sun dried tomato, garlic  sauce  - also added some frozen peas. It was  super!  
+Today I'm making some more of this gnocchi again. Thank you for this delicious recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-18T18:50:11.4
+helpfulCount:
+0
+userID:
+21136313
+Display Name:
+Deb Villarese
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Gluten Free flour and I had the sauce made early and the sage soaking in it so there was more flavor to the sage butter sauce
+Review:
+Rating:
+3
+dateLastModified:
+2018-05-27T15:11:26.667
+helpfulCount:
+0
+userID:
+7442421
+Display Name:
+Susan Schwartz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+182
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was the first time making gnocchi for me.  I think I used too much flour and the result was that the gnocchi turned out too firm--almost rubbery.  Also, next time I will probably use two sweet potatoes instead of using the russet potato.

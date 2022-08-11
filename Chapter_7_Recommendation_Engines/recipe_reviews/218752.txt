@@ -1,0 +1,32 @@
+Recipe number:
+218752.txt
+Review:
+Rating:
+4
+dateLastModified:
+10/16/2012
+helpfulCount:
+4
+userID:
+2702518
+Display Name:
+Deb C
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7578631.jpg
+text:
+I cheated a little and substituted ham for the bacon.  It made for an easy, tasty and attractive lunch.
+Review:
+Rating:
+4
+dateLastModified:
+10/14/2012
+helpfulCount:
+1
+userID:
+occasionalcooker
+Display Name:
+Occasional Cooker
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/594351.jpg
+text:
+This is a very quick and easy and small turkey club sandwich on a crescent roll.  It was good.

@@ -1,0 +1,72 @@
+Recipe number:
+221122.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-04-14T11:53:24.01
+helpfulCount:
+7
+userID:
+7780953
+Display Name:
+twindarlene
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is good
+Review:
+Rating:
+3
+dateLastModified:
+2012-08-29T19:14:54.713
+helpfulCount:
+1
+userID:
+9848592
+Display Name:
+Tall Cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am wondering if the amount of flour is accurate. My cake was extremely small. The batter was lemony and sweet but only filled 1/3 of a standard cake pan.

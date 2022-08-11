@@ -1,0 +1,37 @@
+Recipe number:
+244549.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-11T02:12:25.433
+helpfulCount:
+0
+userID:
+11856698
+Display Name:
+Ming Huey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I substituted the butter with yogurt, and dried cherries with raisins. It turned rising better than my second batch which I used butter.

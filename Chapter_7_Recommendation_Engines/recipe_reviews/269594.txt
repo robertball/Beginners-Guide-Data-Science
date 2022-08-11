@@ -1,0 +1,37 @@
+Recipe number:
+269594.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-18T18:28:41.903
+helpfulCount:
+0
+userID:
+24872408
+Display Name:
+MoldytheNoob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6212124.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was OK

@@ -1,0 +1,37 @@
+Recipe number:
+260177.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-12T00:07:54.507
+helpfulCount:
+1
+userID:
+20473300
+Display Name:
+Kathy Jane
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3974061.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm made these cookies and they turned out lovely. I've also used the filling to fill chocolate cupcake or the center of a cake it also makes a great frosting yummy.

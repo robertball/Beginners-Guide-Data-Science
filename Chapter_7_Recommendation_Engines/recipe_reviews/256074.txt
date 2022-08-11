@@ -1,0 +1,74 @@
+Recipe number:
+256074.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-22T16:41:21.913
+helpfulCount:
+2
+userID:
+10502344
+Display Name:
+Wendelika
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+142
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4525751.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I sent these with my husband for his Thanksgiving potluck at work and now everyone wants the recipe. That makes for a pretty good recommendation.  
+
+The ingredients list includes baking soda for the crust, but the directions never mention it, so I left it out and the bars were great.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-02T16:15:56.417
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+541
+favoritesCount:
+702
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were rich, these were good. I made them as written and I would make them again and again! People couldn't stop eating them. 5 stars if not more!

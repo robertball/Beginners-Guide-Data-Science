@@ -1,0 +1,72 @@
+Recipe number:
+240679.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-11T12:57:22.3
+helpfulCount:
+1
+userID:
+10174205
+Display Name:
+Leian
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/911551.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing and very refreshing!!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-05T04:33:36.063
+helpfulCount:
+0
+userID:
+16418013
+Display Name:
+Keep calm & Cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4527609.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is an amazing recipe. Wait a go person who made this recipe. Ymmmm!!!Delicious!!!!!

@@ -1,0 +1,72 @@
+Recipe number:
+235673.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-10-24T16:27:18.257
+helpfulCount:
+0
+userID:
+4449144
+Display Name:
+JnM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was verging on just okay for us.  I think it had too much sour cream and just not enough flavor. This definitely needs some seasoning - salt and pepper at the least.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-26T07:52:53.187
+helpfulCount:
+0
+userID:
+803616
+Display Name:
+Kay Johnson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5781445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A family favorite!  Delicious - my husband loves it!!!

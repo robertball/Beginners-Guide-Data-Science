@@ -1,0 +1,75 @@
+Recipe number:
+234286.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-08T04:43:30.173
+helpfulCount:
+0
+userID:
+6520921
+Display Name:
+lovemygirl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+59
+favoritesCount:
+180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!! I give these an easy 5 star! 
+Very tasty. I don't think they will last long in my freezer.  Lol.  
+I think I cooked the base ingredients a bit too long as it turned out quite chewy.  I like them that way anyhow but they are a bit harder to cut into nice squares .
+Thank you for sharing.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-18T01:30:06.817
+helpfulCount:
+0
+userID:
+7970369
+Display Name:
+Diana Young
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+142
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2879768.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+super easy and tasty. I reduced the amount of margarine in the custard layer and added water a bit at a time.

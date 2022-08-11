@@ -1,0 +1,72 @@
+Recipe number:
+241547.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-03-01T20:09:22.127
+helpfulCount:
+0
+userID:
+886179
+Display Name:
+BOOKIE 
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+554
+favoritesCount:
+6797
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/190.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+3 1 18 ... No noodles, subbed with barley.  Quite bland, added carrots.  A good warmer-upper soup though.  Oh, sorry, I forgot to mention, all chicken broth & meatless.
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-10T19:42:57.703
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice soup. I was serving this as a side dish so I left out the cubed beef.   The zucchini was cooked tender in 25 minutes.. cooking the zucchini per the instructions for 45- 50 minutes total would have turned it to mush.

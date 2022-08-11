@@ -1,0 +1,37 @@
+Recipe number:
+121163.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-07-21T13:15:09.27
+helpfulCount:
+7
+userID:
+2850961
+Display Name:
+Bonnie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple, tasty bars that are very fruitcake like. I substituted half brandy, half orange juice for the apple juice and added 1/2 teaspoon of nutmeg. They baked up glossy, so didn't need any glaze. I think 48 servings is optimistic. They are thin (which is fine) so I cut 24 to suit our appetites, 32 would have been possible.

@@ -1,0 +1,76 @@
+Recipe number:
+79283.txt
+Review:
+Rating:
+1
+dateLastModified:
+2004-12-21T17:02:07.577
+helpfulCount:
+10
+userID:
+290751
+Display Name:
+KELLIBO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+221
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The crumb topping is excellent.
+
+The cake is too oily.  Another crumb cake recipe I've used has a ratio of 3 cups dry cake mixture: 1/4 cup oil; this one is 3 cups dry cake mixture: 1 and 1/4 cups oil.  Way too much oil for our tastes.  (The ratio for dry ingredients to milk and to eggs is the same between the 2 recipes.) 
+
+The cake was unpleasant: heavy and greasy tasting (not at all like any of the European-style cakes I've eaten; they usually have a fine crumb and almost dry texture).
+Review:
+Rating:
+2
+dateLastModified:
+2006-08-30T12:40:47.467
+helpfulCount:
+4
+userID:
+2050065
+Display Name:
+vocaro
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree with the first reviewer that this recipe calls for too much oil. I reduced the oil to 3/4 cup and that seemed about right. However, I think the cake is still too sweet. If I were to make it again, I would reduce the sugar from 3 cups to 2.

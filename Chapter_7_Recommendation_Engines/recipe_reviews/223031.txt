@@ -1,0 +1,37 @@
+Recipe number:
+223031.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-26T00:20:05.367
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This really was the bomb and lives up to its expectations. 300 is the perfect temp for the smoker. The only one disappointing thing was that the cheese didn't melt. I'd use a better melting cheese next time. Don't forget to pinch your sausage roll shut on both ends once you get it rolled in the bacon lattice. You wouldn't want that goodness leaking out and getting wasted.

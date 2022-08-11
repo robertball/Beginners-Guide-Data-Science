@@ -1,0 +1,107 @@
+Recipe number:
+223531.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-23T08:04:17.56
+helpfulCount:
+7
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+521
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2074
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a a lovely savory crepe and the buckwheat crepes were a nice foundation for the simple filling. There are three issues to pay attention to. The prep/cook time is far from 15 minutes. Especially if you consider the 8 hours or more chill time for the batter. The other thing you need to be aware of is the batter separates while chilling so give it another whirl in the blender before you try to cook the crepes. The filling seemed underseasoned so I would add some fresh minced garlic to the pan when sauteeing the vegis. I think tarragon would be another nice addition to up the flavor. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-21T14:37:01.953
+helpfulCount:
+2
+userID:
+13336646
+Display Name:
+Cat Flynn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic!! Everyone I've made these for has really enjoyed them. Sometimes I take some liberties with how long to refrigerate the batter, and it keeps surprisingly well, you may just have to re-blend it at times.
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-07T09:51:01.853
+helpfulCount:
+0
+userID:
+13797997
+Display Name:
+Chris Ransom
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1179439.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't have buckwheat flour, just used wheat flour and it turned out great.

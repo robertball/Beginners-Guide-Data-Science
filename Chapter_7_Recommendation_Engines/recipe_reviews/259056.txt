@@ -1,0 +1,73 @@
+Recipe number:
+259056.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-09T16:46:00.17
+helpfulCount:
+0
+userID:
+24356857
+Display Name:
+Addisu Wolski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5840927.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was very tasty
+it tasted like soeka
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-12T21:57:42.987
+helpfulCount:
+0
+userID:
+22409008
+Display Name:
+Wade Behrends
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hmj

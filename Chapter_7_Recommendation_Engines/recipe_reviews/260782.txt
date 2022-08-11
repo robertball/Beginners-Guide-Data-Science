@@ -1,0 +1,38 @@
+Recipe number:
+260782.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-30T15:33:24.837
+helpfulCount:
+0
+userID:
+24658056
+Display Name:
+Irene Mason
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6057920.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was so excited to make these that I didn't even have all ingredients. 
+I made without coconut and chocolate chips. I live the flavor and the chili spice surprise.  Can't wait to make with chips and coconut !

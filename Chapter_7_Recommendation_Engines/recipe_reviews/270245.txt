@@ -1,0 +1,37 @@
+Recipe number:
+270245.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-14T15:41:03.457
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was creamy, cheesy, deliciousness! At 20 minutes mine already had the brown spots and I didn't have to broil. The one thing I will say though is go easy on the salt. The recipe states to salt in two separate steps but I recommend stopping after the first. Other than that, this was perfect and one that would wow your guests.

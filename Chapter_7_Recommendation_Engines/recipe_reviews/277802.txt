@@ -1,0 +1,37 @@
+Recipe number:
+277802.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-17T02:15:14.76
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1103
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just by reading the recipe I knew that there would be way too much panko and not enough seasonings. And I was right. I had almost half of the panko leftover. The chicken tenders were in desperate need of more seasonings as they were very bland. The cooking time is also way off. After baking the specified time they were undercooked and very pale. I wound up placing them in my air fryer and cooking them at 400 degrees F for 2 minutes on each side. They were crispy and golden but still very bland.

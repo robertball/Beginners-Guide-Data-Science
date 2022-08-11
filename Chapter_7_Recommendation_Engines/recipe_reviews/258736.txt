@@ -1,0 +1,37 @@
+Recipe number:
+258736.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-27T18:56:12.653
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy treat! I really liked the ice cubes in this, and I didn't think I would. I think I prefer this to the regular banana nice cream that I usually make, which only uses bananas and a little milk then whatever mix-in you like. The ice mellowed out the banana flavor so I could taste the chocolate. I think it could have used double the cacao powder, but that's personal preference. I used almond milk. It came out of my blender very soft serve, but was fine to eat right away without needing to freeze. Thanks for the recipe!

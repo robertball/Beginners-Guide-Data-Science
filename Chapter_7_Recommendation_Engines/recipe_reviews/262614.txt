@@ -1,0 +1,37 @@
+Recipe number:
+262614.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-03T16:37:43.86
+helpfulCount:
+0
+userID:
+26342530
+Display Name:
+Wally
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used less cheese and curry, but it was still very good.

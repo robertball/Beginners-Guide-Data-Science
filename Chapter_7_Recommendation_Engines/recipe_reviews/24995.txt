@@ -1,0 +1,75 @@
+Recipe number:
+24995.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-06T19:55:48.253
+helpfulCount:
+9
+userID:
+9104844
+Display Name:
+Chris Giulianotti
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1170120.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just made this Simnel Cake and it came together beautifully.  I did use ready made almond paste and used 3 X 7oz tubes as we all love it.  I added some almond essence to the batter as well as a little cinnamon, allspice, ginger and nutmeg.  I  brushed the warm cake with about 2 tablespoons of Disaronno liquer before using the apricot jam.
+Make sure you keep the cake a good way down from the heat while browning the the top as it can burn very quickly.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-14T00:27:37.263
+helpfulCount:
+1
+userID:
+16415079
+Display Name:
+Nona Laughton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3456087.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The 5 rating is for the Ingredients and description.
+
+Unfortucnately the photo is not of the cake described, do you have one please as that would be most helpful to everyone. Thanks.

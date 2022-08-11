@@ -1,0 +1,37 @@
+Recipe number:
+233942.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-09-28T17:44:18.457
+helpfulCount:
+0
+userID:
+12105796
+Display Name:
+polly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was delicious. i made it for a gathering and it was gone before i had a chance for seconds. definitely a keeper.

@@ -1,0 +1,37 @@
+Recipe number:
+64470512.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-07T16:47:32.32
+helpfulCount:
+0
+userID:
+16130858
+Display Name:
+Dinomom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this recipe is great! reminds me of my Triassic days

@@ -1,0 +1,148 @@
+Recipe number:
+223104.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-02T14:29:14.89
+helpfulCount:
+1
+userID:
+18252563
+Display Name:
+Samantha Wendt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3710383.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used less wht flour added brown rice flour and more oatmeal. I also used a full banana instead. Little extra milk needed not much.used a little less brown sugar too.
+
+Toddlers I have LOVE it and asked for it again
+
+We used 2% for milk and works.
+
+Second round we add a few chocolate chips and it was like cookies
+Review:
+Rating:
+2
+dateLastModified:
+2014-05-16T07:53:55.727
+helpfulCount:
+1
+userID:
+2847282
+Display Name:
+Cookin' Kat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+373
+favoritesCount:
+254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not quite right ... a little too hearty for us.
+Review:
+Rating:
+1
+dateLastModified:
+2015-06-18T09:16:53.913
+helpfulCount:
+0
+userID:
+7593060
+Display Name:
+Judy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+420
+favoritesCount:
+2085
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+texture -- horrible (doughy - no matter how long you cook it for),  taste - ok
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-09T15:08:47.393
+helpfulCount:
+0
+userID:
+3676735
+Display Name:
+Alison M
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/494504.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My kids loved these rich and fruity pancakes, too!

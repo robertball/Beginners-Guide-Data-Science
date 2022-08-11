@@ -1,0 +1,72 @@
+Recipe number:
+259265.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-08-23T03:29:48.857
+helpfulCount:
+0
+userID:
+26029723
+Display Name:
+Greg Pronger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6961055.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way to minty. No clue on what to substitute, but did not work for me.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-25T04:36:37.413
+helpfulCount:
+0
+userID:
+22011245
+Display Name:
+ChefGbreasy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4523466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would HIGHLY advise to not add salt and assume that sangreas V sea water is fresh, also make sure to use  white tequila!

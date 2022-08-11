@@ -1,0 +1,37 @@
+Recipe number:
+262600.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-10T18:20:46.023
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this and another similar ceviche last night and while both were good, I definitely preferred this one. The orange and the hot sauce gave it a lot more flavor. The one thing I did not like better was the amount of ketchup in this one. It was just a little too sweet. Next time I'd cut the ketchup in half and replace it  with more hot sauce. Overall good recipe and one that would be perfect on a hot summer day.

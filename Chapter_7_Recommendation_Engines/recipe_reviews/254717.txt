@@ -1,0 +1,72 @@
+Recipe number:
+254717.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-06T14:26:09.287
+helpfulCount:
+1
+userID:
+23800707
+Display Name:
+Anna D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5453664.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I subbed quinoa for amaranth (higher protein), dates for cranberries, and skipped the honey to lower the sugar and make it vegan.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-19T20:18:25.487
+helpfulCount:
+0
+userID:
+15224974
+Display Name:
+Jane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6475351.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been making my own granola for 20+ years, but adding the quinoa and chia seeds was a new twist for me.   I left out the chocolate and coconut, but the other ingredients are part of my own recipe.  I like the crunch of the quinoa and chia seeds and I regularly have my granola with kefir milk that I make myself with a little unsulfured molasses as a sweetener.

@@ -1,0 +1,62 @@
+Recipe number:
+235541.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/09/2017
+helpfulCount:
+2
+userID:
+souplovingnicole
+Display Name:
+Soup Loving Nicole
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/930778.jpg
+text:
+Made as written except my apple of choice was a granny smith. I like the tartness of them. This soup was good but I do feel it could use some herbs. I added seasoned salt as well after tasting. Unless the entire pot will be consumed immediately you will need to plan on more chicken broth. The orzo really absorbs it once it sits for a few minutes and you end up with no juice. Good soup and the apple adds a nice uniqueness to it.
+Review:
+Rating:
+3
+dateLastModified:
+11/01/2017
+helpfulCount:
+0
+userID:
+barbsbasic
+Display Name:
+Barbsbasic
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8447597.jpg
+text:
+haven't made this yet but I'm going to try but recommendation: always separate your pasta from the soup as it absorbs most of the liquid....do not combine
+Review:
+Rating:
+5
+dateLastModified:
+10/22/2018
+helpfulCount:
+0
+userID:
+24423149
+Display Name:
+Kraig Dexter
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5888130.jpg
+text:
+Loved it! I will absolutely make it again!
+Review:
+Rating:
+4
+dateLastModified:
+04/04/2020
+helpfulCount:
+0
+userID:
+24822050
+Display Name:
+Annette Melnychuk
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6177720.jpg
+text:
+I love it the only change I did was add garlic because it was bland. garlic brought out the taste

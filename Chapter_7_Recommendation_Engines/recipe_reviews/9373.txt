@@ -1,0 +1,107 @@
+Recipe number:
+9373.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-10-05T13:38:35.17
+helpfulCount:
+10
+userID:
+2083518
+Display Name:
+hard to please
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this salad for 30 years. The trick is not scorching the sauce. Times change so I have added pepper cheese to this, gives it a really good flavor balance.
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-07T12:16:56.37
+helpfulCount:
+6
+userID:
+3877040
+Display Name:
+Joan Gerland Crabtree
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+75
+favoritesCount:
+656
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3626241.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent, to me it was nostalgic and comforting.  Reminded me of a salad that would have been served at a wedding or baby shower 40 years ago.  It is sweet upon first bite, however, the cheese balances it with a bit of tanginess.  I will make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-13T15:17:15.117
+helpfulCount:
+2
+userID:
+12554764
+Display Name:
+LynnSS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a simple salad to make.  I ate it once at a small restaurant in town and they called it "Pineapple Cheese Salad".  It was served along with a croissant and chips.  Perfect!

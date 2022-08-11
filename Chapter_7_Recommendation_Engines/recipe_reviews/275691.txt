@@ -1,0 +1,72 @@
+Recipe number:
+275691.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-26T02:04:55.723
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is SO good. I love how creamy it is. It is just like pumpkin pie with no crust. I added the vanilla with all the ingredients and didn't stir it when it was done. The one big issue is that it was done at 2 hours on low, and it started to burn. There is no way this could cook 6-7 hours. Check this at 2 hours and continue if needed.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-14T10:14:01.74
+helpfulCount:
+0
+userID:
+1880710
+Display Name:
+KW
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+160
+favoritesCount:
+595
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/234654.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a GLUTEN FREEE version on this tonight. I only substituted the "baking mix" for gluten free baking mix and it came out beautifully!  It really did need the whole six hours to cook the whole way through.  This will be a new fall tradition in our home!

@@ -1,0 +1,37 @@
+Recipe number:
+7573.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-06-04T19:13:59.403
+helpfulCount:
+7
+userID:
+1434070
+Display Name:
+PAMKATIE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made chocolate mousse (doubled  the recipe) and I had 10 egg whites left over so this recipe was a perfect way to use them.  The cake tasted super.  I didn't have almond extract on hand, so I used only vanilla.  I didn't make the frosting.  I'm thinking about using whipped cream and fresh strawberries to finish off the cake.  I doubled the cake recipe.  Thanks for the recipe!

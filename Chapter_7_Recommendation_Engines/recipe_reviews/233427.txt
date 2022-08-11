@@ -1,0 +1,37 @@
+Recipe number:
+233427.txt
+Review:
+Rating:
+1
+dateLastModified:
+2013-09-06T20:09:10.7
+helpfulCount:
+0
+userID:
+2360345
+Display Name:
+Melissa Goff
+isPro:
+False
+followersCount:
+1368
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+1338
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2417840.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There was a lot going on in this chutney, that made this recipe rather weird with an acidic flavor, overly tart and had way to much black pepper in it, that no one liked it at all and it was unpalatable. The smells were delicious to say the least, but the taste was not. There is a fine line about heat when it comes to peppers. There was some light back heat but overly peppery from the black pepper. SO sorry, won't be making again.

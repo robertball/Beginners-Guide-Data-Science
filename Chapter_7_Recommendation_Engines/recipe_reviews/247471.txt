@@ -1,0 +1,72 @@
+Recipe number:
+247471.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-11T14:57:27.523
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an excellent gift for people who say they have everything. How easy is this? ...and so simple to put together. And it's vegan. :-) Thank you for the recipe!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-22T22:37:20.873
+helpfulCount:
+1
+userID:
+15968852
+Display Name:
+Olivia
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+81
+favoritesCount:
+1129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4590700.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! Especially for fun summer drinks. I used it for pina coladas and pineapple mojitos. I will definitely make it again!

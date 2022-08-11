@@ -1,0 +1,37 @@
+Recipe number:
+40879.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-12-25T13:50:49.28
+helpfulCount:
+7
+userID:
+155056
+Display Name:
+CESANDERS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick and easy to make, not much mess in the kitchen, the kids really loved it...it doesn't get any better than that!!

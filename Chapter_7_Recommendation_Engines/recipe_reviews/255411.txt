@@ -1,0 +1,37 @@
+Recipe number:
+255411.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-15T20:53:51.53
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.15.17  Honestly, I’m not a huge fan of “green” smoothies (and my husband just says “no thanks”), typically prefering all fruit smoothies.  I was a little bit intrigued by the cashew butter in this one, so I bought a jar.  Oh man, is this stuff good!  Not always crazy about the tang that yogurt brings to smoothies, and this one has none.  I thought the flavor of the “green” ingredients were in the background, but that cashew butter and mango were right upfront where they belong.  Maybe there's hope for "green smoothies" because this is a good one.

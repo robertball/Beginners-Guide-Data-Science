@@ -1,0 +1,143 @@
+Recipe number:
+222700.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-05-22T23:54:32.023
+helpfulCount:
+13
+userID:
+2635980
+Display Name:
+Mushell Shere
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/528583.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes I am a dork for reviewing my own recipe, just wanted people to know that they could also make this in the slow cooker by decreasing the water and extending the cooking time.  I love it so easy to make and so good!
+Review:
+Rating:
+5
+dateLastModified:
+2012-10-15T13:45:53.427
+helpfulCount:
+12
+userID:
+10094452
+Display Name:
+zahra
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Kaala Chana is my husband's favorite dish and I have been trying to make it the way he likes it for years with no results. This is the only recipe which he really loves, thank you for sharing it. I followed the recipe exactly and the chana's were cooked perfectly and the shorwa had a lot of flavour. This recipe is a keeper.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-15T00:07:08.723
+helpfulCount:
+1
+userID:
+23952317
+Display Name:
+James Hilson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5559356.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I often use canned beans to make it faster but the flavor is amazing!
+I make this dish often and highly recommend trying it!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-02T02:50:06.76
+helpfulCount:
+0
+userID:
+23975052
+Display Name:
+James Hilson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5574815.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make this regularly now. It's amazing! A new favorite dish for my family, kids included. unfortunately I haven't found or used the dried black garbanzo beans and usually use two drained cans of regular garbanzo beans simmered for about two hours, but it's always wowed family and guests alike. This recipe is a must try!

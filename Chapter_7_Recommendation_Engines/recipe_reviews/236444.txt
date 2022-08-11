@@ -1,0 +1,37 @@
+Recipe number:
+236444.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-28T02:54:34.68
+helpfulCount:
+0
+userID:
+11673387
+Display Name:
+gshawcross
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree with the previous reviewer. The flavors are on the subtle side. I doubled the garlic, cumin and canned tomatoes. I also added 2-3 teaspoons of Tapatio hot sauce. Like the previous reviewer, I’m no Peruvian chef. While I feel my changes gave a better flavor profile—U worry that I might be steering away from Peruvian cuisine. My next thought is to add interest with the rice. I’m going to look for a cilantro-rice recipe.

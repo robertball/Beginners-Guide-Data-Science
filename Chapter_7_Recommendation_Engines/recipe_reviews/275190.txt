@@ -1,0 +1,37 @@
+Recipe number:
+275190.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-02T13:59:06.957
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5755
+followingCount:
+0
+madeRecipesCount:
+2830
+favoritesCount:
+6011
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10.2.19  I checked the internal temperature at 10 minutes and it was 125ºF, so I added another 5 minutes.  Unfortunately, after sitting for 10 more minutes, it ended up overcooked, not dried out but no pink in center.  Super easy to throw together and cook, and my only suggestion would be to start checking the temperature sooner than 25 minutes. We all know how our ovens cook, and I think mine runs a bit hot.  It was tasty, and I’ll make this one again.

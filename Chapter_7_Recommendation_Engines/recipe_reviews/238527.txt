@@ -1,0 +1,37 @@
+Recipe number:
+238527.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-08-09T21:01:29.34
+helpfulCount:
+3
+userID:
+1013798
+Display Name:
+ONIOND
+isPro:
+False
+followersCount:
+129
+followingCount:
+0
+madeRecipesCount:
+490
+favoritesCount:
+690
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5925271.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't particularly like vodka. Why, you ask, am I making myself a 'Great White Cocktail?' Because I'm a huge fan of shark week and it is just sooo cute! The blood drops should not be optional! All that being said, this is one of the tastier Cosmo recipes I have tried. Couldn't find white cranberry juice in the entire grocery store, so it's Ocean Spray Wave Apple White Cranberry Cocktail. w00t

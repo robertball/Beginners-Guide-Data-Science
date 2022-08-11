@@ -1,0 +1,37 @@
+Recipe number:
+254829.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-13T14:58:15.123
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2275
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Instead of rolling the chicken and then putting the marinade on, I marinaded the chicken first and then rolled it so that all sides of the chicken would absorb the flavor. This was really good. I think it was a tad bit heavy on the parsley so I would definitely cut back on that next time but that is the only change I would make.

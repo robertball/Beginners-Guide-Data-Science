@@ -1,0 +1,72 @@
+Recipe number:
+267143.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-28T01:38:46.56
+helpfulCount:
+2
+userID:
+9772212
+Display Name:
+whoshungry
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/875864.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love love loved these! I make a breakfast skillet for my family with sweet potatoes and chorizo, so I knew we'd love this. I was sneaking the sweet potatoes after I took them out of the oven and had to stop myself from eating them all. My kids requested I make "those new burritos" again this week. I brought one to work and people were asking what I was eating because it smelled so good. :) I once had something very similar at a local breakfast restaurant and still remember it to this day!
+Review:
+Rating:
+2
+dateLastModified:
+2018-08-27T22:40:16.007
+helpfulCount:
+0
+userID:
+24094206
+Display Name:
+Sarah Mahan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5681054.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as a change up for my husband from his usual breakfast taco to go. I'm not a big breakfast eater so I haven't tried it myself. but he likes chorizo and sweet potatoes, but he said that the two of them together was too strange of a taste for him.

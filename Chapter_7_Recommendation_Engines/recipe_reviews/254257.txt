@@ -1,0 +1,37 @@
+Recipe number:
+254257.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-06T23:13:56.977
+helpfulCount:
+1
+userID:
+9102280
+Display Name:
+Marcia Chesterman Osborne
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+693
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2600944.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this yesterday for my daughter & I to enjoy at our Labor Day barbecue.  One thing I can say, from experience, is that you need a powerful blender, (I burned up my 2 yr. old Blendtec),  as this is thicker than a milkshake, as written, so I added about another 1/2 cup of schnapps.  You also have to pour the champagne in stages and stir in between, (because of the carbonation).  I will definitely make this again, just have to break it up into 2 or 3 batches.

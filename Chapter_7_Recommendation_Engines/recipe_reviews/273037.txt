@@ -1,0 +1,37 @@
+Recipe number:
+273037.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-06T21:40:58.48
+helpfulCount:
+0
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+2016
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good cookies! They are chewy, and quite chocolatey! They did spread a bit more than I would of preferred, so next time I think I would try refrigerating the dough before baking. I made a half batch (got 18 cookies out of it), used Bailey's in place of Kahlua (personal preference), and used dark chocolate chips instead of semi-sweet. They baked perfectly in 12 minutes, and benefited from staying on the cookie sheet for about 5 minutes after baking to set up a bit. Thank you for the recipe!

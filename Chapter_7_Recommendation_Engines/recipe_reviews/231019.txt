@@ -1,0 +1,72 @@
+Recipe number:
+231019.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-02-24T04:25:29.527
+helpfulCount:
+8
+userID:
+1155608
+Display Name:
+Grumpy's Honeybunch
+isPro:
+False
+followersCount:
+187
+followingCount:
+0
+madeRecipesCount:
+302
+favoritesCount:
+2116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/767596.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There is no way I can give this recipe a good thumbs up.  For me, it calls for way too much garlic, and this statement is coming from a huger garlic lover!  Either its a misprint or someone really loves garlic powder...but 2 tablespoons is outrageous.  I would say 1/2 teaspoon is good enough.  I only halved the recipe because I was skeptical of the amount of garlic and soy sauce.  I didn't use anywhere near the amount of soy sauce called for.  I used less than a tablespoon to brush over the tops of the wontons.  While I think its a good idea, the amount of garlic and soy sauce needs to be adjusted.  I also think the egg yolk is not needed.  I would make this again but with major adjustments to the garlic.
+Review:
+Rating:
+1
+dateLastModified:
+2014-05-01T05:06:01.32
+helpfulCount:
+6
+userID:
+13143171
+Display Name:
+superdumbnerd
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too much soy sauce

@@ -1,0 +1,107 @@
+Recipe number:
+246479.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-23T15:56:24.523
+helpfulCount:
+3
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+771
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Stevia measurements differ from brand to brand, so I made mine according to how sweet I like my drinks. This hot chocolate was ok, but it was a little weak. Next time, I will add another teaspoon of the cacao powder to make it "chocolatier." This is a good base recipe for people to adjust according to their diet, perhaps using almond or soy milk. I did like the flavor the cinnamon gave to it.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-10T19:42:32.55
+helpfulCount:
+1
+userID:
+10952209
+Display Name:
+Tami Layman-Miller
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+401
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4710996.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice healthy cocoa , we add a tablespoons of coconut oil, use almond milk or coconut milk.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-09T02:03:01.227
+helpfulCount:
+0
+userID:
+17807138
+Display Name:
+Denise Batchelor
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3435498.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A healthy chocolate drink ! Very yummy!

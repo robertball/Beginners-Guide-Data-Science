@@ -1,0 +1,37 @@
+Recipe number:
+257056.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-02T11:55:38.65
+helpfulCount:
+0
+userID:
+166708
+Display Name:
+Jan Mowbray
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+428
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2530650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree with the recipe poster, this is delicious and it's easy to put together.  I followed the directions exactly except instead of putting the batter all in one pan, I made 4 small loaves. Probably took about 40 minutes to bake.  For my 2 c dried fruit, I used a combination of currants, raisins and dried cranberries.  Best served thickly slathered with butter and a cup of tea.  Mmm Mm good.  Suggestion: really grease well the bottom of the pan.  Barmbrack is an old Irish recipe, usually made with yeast as the rising agent, but I like this version because it's so quick to put together.

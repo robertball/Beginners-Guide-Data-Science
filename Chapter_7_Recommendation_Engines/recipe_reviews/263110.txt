@@ -1,0 +1,37 @@
+Recipe number:
+263110.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-24T23:15:25.067
+helpfulCount:
+0
+userID:
+25892718
+Display Name:
+AmmeJ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this last night as a quick “what do I make for dinner” solution.  I used Old Bay Seasonings instead of seasoning salt because that was what I had and followed everything else for the recipe. It was really good and got zero complaints from the family.  I’m saving this one for sure!

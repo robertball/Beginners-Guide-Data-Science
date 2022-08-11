@@ -1,0 +1,37 @@
+Recipe number:
+275838.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-12T05:55:53.257
+helpfulCount:
+0
+userID:
+7382245
+Display Name:
+Leslieo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6311126.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was amazing! I made it for Thanksgiving and Christmas morning!

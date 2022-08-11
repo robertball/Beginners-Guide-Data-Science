@@ -1,0 +1,72 @@
+Recipe number:
+258134.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-03T23:41:01.88
+helpfulCount:
+0
+userID:
+20656358
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made this twice for dinner and my entire family loves it! It's great with noodles or rice and a vegetable. Thank you for a simple incredible go to meal!
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-10T00:45:37.537
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! I did use tablespoons instead of teaspoons for the vinegar to offset the sweet to suit our personal preference. This was still pretty thin at 15 minutes so I left it on for another 10 minutes to get the sauce the thickness I wanted. This was easy, unique, flavorful, and one I will most definitely make again. I think it would be even better over skillet fried potatoes instead of rice. Don't forget the Sriracha!

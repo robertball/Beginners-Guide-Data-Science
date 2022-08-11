@@ -1,0 +1,72 @@
+Recipe number:
+265520.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-20T16:24:41.63
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out good but plan on more breadcrumb. 2 tablespoons isn't nearly enough. I used Panko because they are my favorite. This was easy and one I will make again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-04T21:42:37.4
+helpfulCount:
+0
+userID:
+6311066
+Display Name:
+jerrydean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+197
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make it again but next time I will spice it up more. It was a little bland for me.

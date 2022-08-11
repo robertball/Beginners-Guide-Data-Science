@@ -1,0 +1,37 @@
+Recipe number:
+258374.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-28T02:35:07.967
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+194
+followingCount:
+0
+madeRecipesCount:
+547
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I normally don't go for a red sangria. This was awesome! 5 stars no doubt. Followed the recipe to a t and would change nothing. I would serve this again no question. Thanks for the recipe!

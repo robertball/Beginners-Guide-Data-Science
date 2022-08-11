@@ -1,0 +1,37 @@
+Recipe number:
+274177.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-18T01:27:15.553
+helpfulCount:
+0
+userID:
+17280760
+Display Name:
+T Donahue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6264540.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fantastic. The whole family loved this recipe and asked that I add it to the rotation. The only modification I made to reduce the Cajun seasoning in the filling from a tablespoon to a half tablespoon because the wife doesn’t like to much spice. It still had a little bite.

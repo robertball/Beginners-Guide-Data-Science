@@ -1,0 +1,109 @@
+Recipe number:
+255282.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-05T01:57:20.61
+helpfulCount:
+1
+userID:
+6095903
+Display Name:
+Andy Bryan
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+841
+favoritesCount:
+617
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3907191.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really liked the addition of the oats.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-24T14:50:23.55
+helpfulCount:
+1
+userID:
+7853359
+Display Name:
+Joey Joan
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+561
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7645128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am not a baker as much as a cook, I learn something new every time I bake. This time I learned don't use steel oats for baking. My mistake didn't matter the brownies where moist and rich with flavor. I drizzled some butterscotch over the top and was very happy with the results. 5 stars for the flavor, 5 stars for the ease of the recipe and a big 5 stars because for once I made a brownie I was proud of.
+Review:
+Rating:
+3
+dateLastModified:
+2019-07-17T17:44:26.887
+helpfulCount:
+0
+userID:
+22835374
+Display Name:
+James Milne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+71
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Splenda
+3 bannanas
+walnuts

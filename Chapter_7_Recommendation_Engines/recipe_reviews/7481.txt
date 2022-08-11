@@ -1,0 +1,186 @@
+Recipe number:
+7481.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-01-05T10:53:18.893
+helpfulCount:
+11
+userID:
+1587439
+Display Name:
+magpercy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great cake!!!!!
+I make it without the coconut as most of my family does not like it - I love coconut and would probably eat the whole cake if I made it with coconut.
+I use 1 pint of cream, whipped, to frost the cake - its a favorite here!
+Review:
+Rating:
+3
+dateLastModified:
+2000-02-15T15:07:03.573
+helpfulCount:
+7
+userID:
+6907
+Display Name:
+jems
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good cake.  The whipped cream
+(1 cup)was not enough for the whole cake,
+just middle and top.
+Also, I baked it for only 25 minutes
+at the specified temperature and it was
+done.  The coconut on top of the cakes 
+would have burnt if I left them in 
+longer.
+Review:
+Rating:
+5
+dateLastModified:
+2009-06-25T11:05:45.323
+helpfulCount:
+5
+userID:
+3563316
+Display Name:
+Kell1581
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cake is really good. I made it into cupcakes!!
+Review:
+Rating:
+5
+dateLastModified:
+2005-05-28T17:21:26.39
+helpfulCount:
+4
+userID:
+1190515
+Display Name:
+marciahugs
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great cake.
+Review:
+Rating:
+3
+dateLastModified:
+2007-07-11T08:21:18.11
+helpfulCount:
+3
+userID:
+564379
+Display Name:
+Lorac
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+148
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nothing spectacular - just a cake.  Won't make again.

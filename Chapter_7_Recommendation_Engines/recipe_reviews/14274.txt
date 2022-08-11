@@ -1,0 +1,72 @@
+Recipe number:
+14274.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-07-27T16:51:22.55
+helpfulCount:
+4
+userID:
+3847878
+Display Name:
+Live, Laugh, Love, Cook
+isPro:
+False
+followersCount:
+79
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+4177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/666963.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was very good! The only changes tat I made were that I didn't add the peas, and I added lots of carrots! Thanks for the fantastic recipe! :D
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-04T15:33:28.63
+helpfulCount:
+0
+userID:
+23659200
+Display Name:
+Denise Magee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5359117.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No

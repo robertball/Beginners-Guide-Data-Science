@@ -1,0 +1,37 @@
+Recipe number:
+230020.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-20T12:11:43.347
+helpfulCount:
+11
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+519
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2068
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe worked out well except the jar was not filled fully by a couple of Tablespoons. Next time I will add more cranberries to fill it out better. Baked cookies were dark colored (see my pic) but they YUMMY! Thanks for sharing!

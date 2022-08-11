@@ -1,0 +1,72 @@
+Recipe number:
+265375.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-22T19:32:21.763
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5748
+followingCount:
+0
+madeRecipesCount:
+2801
+favoritesCount:
+5996
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10.22.18  Admittedly, I was a skeptic about this recipe, but no longer.  It doesn’t take much time to get this dish into the oven, and really, all you need is time for some surprisingly, absolutely delicious baked beans.  The recipe didn’t say whether or not to drain the beans, but I didn’t,  just dumped in the whole can.  I did add a little salt and pepper and used red and yellow bell peppers instead of green, otherwise followed the recipe.  If you have a day where you’re going to be hangin’ around the house, give these beans a try.  Alice Shockley, you made a believer out of me!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-17T23:44:57.167
+helpfulCount:
+0
+userID:
+2485569
+Display Name:
+Karen Ford
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+3415
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1137526.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an old family recipe.  We make this with the following changes 1) use 2 or 3 different types of canned baked beans -- B&M, Bush's, Van Camps, and/or kidney beans; 2) add 1/2 teaspoon Coleman's Dry Mustard, sometimes we add cooked and drained ground beef.

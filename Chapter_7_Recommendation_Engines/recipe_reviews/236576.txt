@@ -1,0 +1,37 @@
+Recipe number:
+236576.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-19T09:35:31.31
+helpfulCount:
+0
+userID:
+4312856
+Display Name:
+CJ
+isPro:
+False
+followersCount:
+23
+followingCount:
+0
+madeRecipesCount:
+177
+favoritesCount:
+910
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2559690.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If making this recipe more than a day in advance wait until just before serving to add the pomegranate seeds. The vinegar will dissolve the seeds.

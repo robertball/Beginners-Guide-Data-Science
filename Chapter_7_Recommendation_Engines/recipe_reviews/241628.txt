@@ -1,0 +1,72 @@
+Recipe number:
+241628.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-09T23:12:09.48
+helpfulCount:
+1
+userID:
+24710135
+Display Name:
+Jimmy Man
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6095475.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+made it exactly like the recipe, used my famous Garlic Mashed Potatoes. I let it sit for about 30 mins. Its a Keeper for sure!
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-12T04:17:22.067
+helpfulCount:
+0
+userID:
+20001876
+Display Name:
+Amanda R. Flory
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3751016.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like to use ground sausage instead of ground beef, and I don't put cheese in mine.

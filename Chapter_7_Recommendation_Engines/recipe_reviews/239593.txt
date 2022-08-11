@@ -1,0 +1,72 @@
+Recipe number:
+239593.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-19T20:13:11.167
+helpfulCount:
+0
+userID:
+4602688
+Display Name:
+Cathy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added 6 oz if chocolate and  made the raspberry glaze. It was delicious.  I wrapped the pan in foil and put it in a baking pan with hot water around it. It did not crack at the top. Everyone loved it.
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-25T03:00:29.37
+helpfulCount:
+0
+userID:
+16886056
+Display Name:
+Lyndsay Rae
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2884743.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe does not have chocolate, despite the name. I added 1/4 cup of chocolate chips (melted in the microwave) and added the melted chocolate to the cream cheese and sugar mixture, prior to beating in the eggs. It added a nice extra flavor. I also found the cooling in the refrigerator only took 3 hours instead of 4. I put the raspberry sauce around the edges and down the sides right before serving instead of directly on top, and I lined the top edge with whole fresh raspberries. Overall, very tasty!

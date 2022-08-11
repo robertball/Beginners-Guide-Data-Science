@@ -1,0 +1,72 @@
+Recipe number:
+275149.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-15T23:05:18.91
+helpfulCount:
+0
+userID:
+6163819
+Display Name:
+jmathis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall it was very good. Just add some rice and you feel like you are eating good Chinese take-out!
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-09T07:22:51.163
+helpfulCount:
+0
+userID:
+17645134
+Display Name:
+Patrick Vannereux
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+331
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3337752.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! A keeper

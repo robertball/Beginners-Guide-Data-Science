@@ -1,0 +1,37 @@
+Recipe number:
+273003.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-28T14:22:40.8
+helpfulCount:
+0
+userID:
+3336100
+Display Name:
+dls
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+169
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used chocolate malt and it was so good. It was easy and creamy. I took it to work and helped a coworker celebrate his birthday. I would definitely make again.

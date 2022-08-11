@@ -1,0 +1,72 @@
+Recipe number:
+9775.txt
+Review:
+Rating:
+1
+dateLastModified:
+2008-02-26T21:58:32.143
+helpfulCount:
+8
+userID:
+2369972
+Display Name:
+Mary N.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+1389
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+BEWARE: Do not make this recipe as it stands - there is a line missing that will break your heart. The only liquid named is to soak the yeast in - there should be another amount (a cup or so) of milk or water too!  You get bricks if you bake it as written.
+Review:
+Rating:
+1
+dateLastModified:
+2008-02-27T20:03:42.787
+helpfulCount:
+1
+userID:
+2785736
+Display Name:
+Cheesecakemama
+isPro:
+False
+followersCount:
+120
+followingCount:
+0
+madeRecipesCount:
+147
+favoritesCount:
+330
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5052725.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I got a hard ball of nothing.  Then I realized I should let set out, the dough was workable.  I tried to bake some, very bland and tasteless.  I am sure there is something missing here.  sorry.

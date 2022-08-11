@@ -1,0 +1,74 @@
+Recipe number:
+240445.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-08-29T15:14:01.58
+helpfulCount:
+0
+userID:
+20303753
+Display Name:
+Beth Kagel
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think this was a good idea but there was too much chia seeds. I followed the instructions and the french toast mix had been absorbed by the chia seeds. Half of the bread slices didn't have enough batter to coat.
+
+I liked the coconut. It added a nice flavor. If I were to adjust this recipe and make it again, I would suggest using almond milk, coconut milk, or soymilk. I would use half of a cup instead of a quarter cup. I would use 2-3 eggs or 2-4 egg whites, and maybe 3tbs of chia sprinkled on the toast sticks after they are in the pan.
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-02T17:47:01.69
+helpfulCount:
+0
+userID:
+14476118
+Display Name:
+Glory Francke
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1562906.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Huge hit at breakfast this morning.

@@ -1,0 +1,37 @@
+Recipe number:
+276636.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-31T13:50:20.343
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+194
+followingCount:
+0
+madeRecipesCount:
+545
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This took some extra elbow work, but the flavor of this cake shows it. I followed the directions to a T and make sure you allow 30 minutes or more to get this cake in the oven after zesting and sifting.  The glaze gave a nice crunch to the outside! 5 stars! You can't go wrong

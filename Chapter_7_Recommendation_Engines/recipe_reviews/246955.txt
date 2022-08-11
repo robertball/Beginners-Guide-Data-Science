@@ -1,0 +1,37 @@
+Recipe number:
+246955.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-26T19:07:59.45
+helpfulCount:
+0
+userID:
+16304344
+Display Name:
+Lynnem
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+128
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for Christmas eve for friends who can't eat red meat.  It was a hit!  I used canned pumpkin and added 1 can of kidney beans.  The longer this cooks and sets, the thicker it gets which is how I like my chili.  Could add more chili powder or 1/4 t. of cayenne for a hotter tasting chili.

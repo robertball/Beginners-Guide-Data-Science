@@ -1,0 +1,32 @@
+Recipe number:
+12276.txt
+Review:
+Rating:
+1
+dateLastModified:
+10/08/2003
+helpfulCount:
+10
+userID:
+331502
+Display Name:
+Gayle
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe is so salty that I couldn't even eat it!
+Review:
+Rating:
+4
+dateLastModified:
+10/08/2003
+helpfulCount:
+6
+userID:
+180905
+Display Name:
+LOLY
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+It tasted a lot like pumpkin pie. My 17 year old really wouldn't try it since it had carrots in it but I think it tasted great. It would have been better if topped with whipped cream

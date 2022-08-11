@@ -1,0 +1,37 @@
+Recipe number:
+15248.txt
+Review:
+Rating:
+2
+dateLastModified:
+2005-01-03T07:17:10.013
+helpfulCount:
+8
+userID:
+1269000
+Display Name:
+REBECCAGRRRRR
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these this year for Christmas. They are quite good---not too sweet--perfect with tea and coffee. I was under the assumption they would turn out looking like Cathedral windows, but they didn't at all. They are just a small round yellowish cookie with bits of fruit and don't look like stained glass or anything. Too bad---that is the main reason I made them. And although they taste good, they were not gobbled up by the family like most Christmas baking. It is January 3rd, and I still have lots of them left.

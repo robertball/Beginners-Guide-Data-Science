@@ -1,0 +1,72 @@
+Recipe number:
+267404.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-21T21:37:00.753
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+544
+favoritesCount:
+705
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Whoa! This is good! My reason for the 4 stars it is too spicy! I used a 3lb squash and made the recipe in an 8x8 dish. The directions are a little choppy, but everything turned out good. I would personally go with 1/4 tsp. red pepper flakes next time. My husband doesn't like squash, but he couldn't stop eating this! Very comfort food!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-03T00:22:07.613
+helpfulCount:
+0
+userID:
+15615581
+Display Name:
+Courtney
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+155
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious! I love the creaminess and the other veggies added to this. I made it as directed the first time and with Italian sausage the second time as an option with meat. Bother we’re great.

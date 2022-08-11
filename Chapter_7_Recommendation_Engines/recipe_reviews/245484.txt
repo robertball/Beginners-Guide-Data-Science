@@ -1,0 +1,107 @@
+Recipe number:
+245484.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-15T23:37:56.807
+helpfulCount:
+0
+userID:
+17384521
+Display Name:
+Pietrina Torregrossa Pensabene
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7211801.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have shallots, so I used garlic and onion. Also used prosecco. It was yummy! I will definitely make it again. It was a big hit!!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-09T23:33:10.983
+helpfulCount:
+0
+userID:
+10892094
+Display Name:
+Danielle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+248
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We followed the recipe, except for using 3 cups of chicken stock instead of 2 with 1 cup of water. Loved it! Will make again. Thanks for sharing.
+Review:
+Rating:
+2
+dateLastModified:
+2017-06-03T23:13:20.133
+helpfulCount:
+0
+userID:
+21956315
+Display Name:
+jane's thyme to cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6308649.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe instructions call for water, but the amount isn't shown in the ingredient list. I guessed and used 2/3 cup, but the risotto was too chewy.

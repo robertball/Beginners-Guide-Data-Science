@@ -1,0 +1,107 @@
+Recipe number:
+258832.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-08T20:16:48.103
+helpfulCount:
+1
+userID:
+3785910
+Display Name:
+Beth Baker
+isPro:
+False
+followersCount:
+64
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4084055.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so good! I added a green onion and used jalapeno stuffed green olives. Swapped out the green pepper for a yellow one (preference). The recipe didn't state what type of vinegar so I used white. Let it sit in the fridge overnight. This would be great to take to a summer potluck picnic!
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-27T13:37:31.057
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2460
+favoritesCount:
+2263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cannot say enough good things about this recipe. I thought I made as written but looking back over it now I realize that I accidentally left out the sugar. I didn't even notice. This was delicious. The cauliflower absorbed the perfect amount of the dressing taking that bitter bite out of it . Everything just worked together perfectly. It gets better as it sits overnight in the refrigerator. If you are needing to bring a side dish to a summer picnic then this is the one you want to take.  This is 5 stars all the way and one of the best recipes I've tried all year.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-03T23:02:49.647
+helpfulCount:
+0
+userID:
+2288963
+Display Name:
+Jean J.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wanted a cauliflower salad recipe which did not use mayo. I made a few changes using what I had on hand. I used canned black olives which I always have, bottled green olives stuffed with garlic and sun dried tomato, a yellow bell pepper and a spring onion. I didn't have celery, green bell pepper nor pimento peppers. My substitutions worked fine. I will make this salad again.

@@ -1,0 +1,108 @@
+Recipe number:
+244320.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-23T18:24:06.447
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this! I thought the dressing was gonna be too sweet, but after combining it with the rest of the ingredients, it was fine (though, next time, I may cut the sugar back a bit). I used Miracle Whip Light(R) and 2% milk. Both worked great! I will def be making this simple, tasty salad again~YUM! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-06T18:40:04.99
+helpfulCount:
+0
+userID:
+2127487
+Display Name:
+Pat Becvar
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+771
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3241654.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+wonderful-- used splenda in the dressing instead of sugar-- romaine-- added some devined chunked up edible pea pods.  put in white meat turkey from a turkey breast that we cooked in the electric pressure cooker.  will be making weekly.
+mixed up another batch of the dressing and am going to use it on cole slaw this weekend.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-16T02:47:20.05
+helpfulCount:
+0
+userID:
+3509222
+Display Name:
+Chelsey Carr
+isPro:
+False
+followersCount:
+70
+followingCount:
+0
+madeRecipesCount:
+140
+favoritesCount:
+5366
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3266587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am the original poster & my Aunt passed this versatile recipe on to me. You can use any kind of berries, or mixed berries. You can add sliced almonds, drained mandarin slices, cucumbers, peppers... let your imagination run wild! And it's not just for lunch or dinner... I've had it for breakfast, too! So tasty!!

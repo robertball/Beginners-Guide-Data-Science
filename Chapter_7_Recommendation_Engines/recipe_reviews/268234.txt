@@ -1,0 +1,37 @@
+Recipe number:
+268234.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-03T00:07:46.54
+helpfulCount:
+2
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+765
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a pretty easy way to make borscht in the Instant Pot. It definitely needs quite a bit of salt to make the flavors pop. I think maybe using vegetable broth instead of water would have  helped. Maybe a bit of tomato paste, or vinegar/lemon juice for depth of flavor. This definitely makes a lot, so I'll be freezing half for later. I left out the green bell pepper because I forgot to buy one. TIP: use a food processor to quickly shred the beet and carrot.

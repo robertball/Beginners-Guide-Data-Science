@@ -1,0 +1,37 @@
+Recipe number:
+228428.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-24T19:44:07.413
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty good and I really enjoyed the three separate meats that went into them. The one thing I didn't care for was that the egg and breadcrumb made these more like meatloaf instead of hamburgers. I did grill them because that is how we like our burgers and I made them into sliders as mentioned in the cook's notes. If you like meatloaf then you will love these. For me, I may try to attempt them without the egg and breadcrumb next time but that is just a personal preference.

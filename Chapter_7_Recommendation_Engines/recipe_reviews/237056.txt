@@ -1,0 +1,107 @@
+Recipe number:
+237056.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-01T09:21:09.017
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9649
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I cut back to 1 teaspoon of cinnamon because a little goes a long way in this house and I grilled instead of baked. Not really sure how to rate this because I did not care for it but my husband loved it. The espresso beans did give it a deep rich flavor but just overpowered it for me. Again, he thought they were excellent. If you are a coffee lover then you should give this a try and see what you think.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-20T14:43:52.72
+helpfulCount:
+0
+userID:
+12041990
+Display Name:
+Allycen Brady
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+189
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2379224.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delish...made it with a roast. The coffee and chilly flavour was perfect.
+Review:
+Rating:
+2
+dateLastModified:
+2017-10-22T23:48:51.293
+helpfulCount:
+0
+userID:
+22568538
+Display Name:
+Jenna Mackenzie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5052085.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It wasn't too great. Tasted like cinnamon coffee and nothing else. Also, my steaks we're undercooked and not crusty, and I cooked them for an extra few minutes, including some time under the broiler. Didn't live up to expectation.

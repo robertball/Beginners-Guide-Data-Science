@@ -1,0 +1,37 @@
+Recipe number:
+255993.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-24T17:05:00.013
+helpfulCount:
+0
+userID:
+11091663
+Display Name:
+Cnaught
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used what I had: lime juice, flat leaf parsley, red pepper flakes. Marinated overnight. Will try again, might tweak seasonings (or measure more carefully) as it was good but not spectacular.

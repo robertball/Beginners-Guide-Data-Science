@@ -1,0 +1,72 @@
+Recipe number:
+241949.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-21T19:46:02.507
+helpfulCount:
+0
+userID:
+1073865
+Display Name:
+Janice Bowlby Moore
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2990586.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've never used soy sausage to make this, just traditional sausage, and it always turns out perfect. This is one of our favourite breakfast dishes, especially when we have company! Everyone raves about it!
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-08T18:07:32.097
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious.  I used spicy soy crumbles with black beans and cut back on the cheese a little bit.  I liked how this is layered so instead of the cheese being mixed in with the eggs, you get little pockets of cheesy goodness.  It reheats well . Lots of combos can be used here.. diff cheese, meats. etc

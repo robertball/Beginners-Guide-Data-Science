@@ -1,0 +1,37 @@
+Recipe number:
+101923.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-09-08T14:04:07.433
+helpfulCount:
+18
+userID:
+3127627
+Display Name:
+onejdn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good, easy recipe. this beer has a little bit higher alcohol content due to the higher amount of malt extract.  I will be brewing this again and will probably dry hop it in the secondary fermenter to balance out the maltiness and higher alcohol. a very nice beer on its own.

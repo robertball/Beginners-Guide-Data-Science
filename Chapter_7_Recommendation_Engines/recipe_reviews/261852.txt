@@ -1,0 +1,37 @@
+Recipe number:
+261852.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-07T00:26:31.783
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1018
+favoritesCount:
+1342
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good gluten-free cookie bar. It is very rich. I used peanut butter chips in place of some of the chocolate chips. Yum.

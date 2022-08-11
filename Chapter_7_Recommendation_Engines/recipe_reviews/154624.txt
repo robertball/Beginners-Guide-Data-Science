@@ -1,0 +1,72 @@
+Recipe number:
+154624.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-26T16:46:17
+helpfulCount:
+10
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is AWESOME! OMG! So good. Sweet, but potent. I love it. You rock, Wendy! NOTE: I used my old school Snoopy snow cone maker to make the ice for this drink. It was a pain but totally worth it.
+Review:
+Rating:
+5
+dateLastModified:
+2011-06-17T19:35:44.223
+helpfulCount:
+2
+userID:
+7205752
+Display Name:
+Jasmine B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tryed this with my boyfriend and he loves it.

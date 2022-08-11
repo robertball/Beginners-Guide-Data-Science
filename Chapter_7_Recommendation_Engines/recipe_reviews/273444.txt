@@ -1,0 +1,47 @@
+Recipe number:
+273444.txt
+Review:
+Rating:
+5
+dateLastModified:
+07/02/2019
+helpfulCount:
+1
+userID:
+25251882
+Display Name:
+John Fuss
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8512546.jpg
+text:
+Seond time to make this recipe; will make i again
+Review:
+Rating:
+4
+dateLastModified:
+02/23/2020
+helpfulCount:
+1
+userID:
+27056390
+Display Name:
+Kim Putnam Harkness
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7751864.jpg
+text:
+I left out the butter and used pure protein drink and water combo to equal the amount of fluid.  It is amazing!
+Review:
+Rating:
+4
+dateLastModified:
+02/24/2020
+helpfulCount:
+0
+userID:
+18468893
+Display Name:
+sentra10@gmail.com
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I made no changes to the recipe so it came out as expected.  My only problem was that I actually think this recipe is for 6 servings. So next time I'll make a little less.

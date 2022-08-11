@@ -1,0 +1,73 @@
+Recipe number:
+275707.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-04T04:04:34.323
+helpfulCount:
+1
+userID:
+25232634
+Display Name:
+Bonnie Loubier
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6412255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Chicken came out a little dry but flavorful. Im not sure if 3 minutes on each side was too long. After cutting the breast horizontally. It made the chicken thinner. 
+But i will play around with the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-14T03:23:23.62
+helpfulCount:
+0
+userID:
+26140038
+Display Name:
+johnb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy and perfect for salads. Mild herb taste.

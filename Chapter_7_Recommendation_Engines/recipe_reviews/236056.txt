@@ -1,0 +1,37 @@
+Recipe number:
+236056.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-23T15:47:17.777
+helpfulCount:
+2
+userID:
+205964
+Display Name:
+Jennifer Rubinfeld-Ferrari
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1203365.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the first pizza I have put together by hand and it was delicious!  My 20 year old son and I eat made one for our family. Easy enough to do and will definitely do it again. I followed instructions exactly buy omitted the cilantro because I did not have any on hand. I did purchase a different pre cooked chicken with seasoning and used a hickory smoked BBQ for one and honey sweet BBQ for the other. Cook time actually needed to be extended to about 25-30 mins for a crispier crust but let me tell ya...it was great!!

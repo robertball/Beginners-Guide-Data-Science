@@ -1,0 +1,37 @@
+Recipe number:
+170919.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-26T02:15:57.79
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were very good--the only thing I did was add about double the strawberries. They are very moist, rose nicely and are just sweet enough. I only made half a batch, which is probably a good thing, because they really do taste best the first day. They get a little gooey the next day and more so the third. I used all regular whole wheat flour, because that's all I had. I will probably try these again.

@@ -1,0 +1,37 @@
+Recipe number:
+276738.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-05T00:04:16.01
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Other than cutting the recipe in half, I made them exactly as directed. Baking time was perfect at 9 minutes for my oven. These are exactly as the submitter describes "crispy on the outside and chewy on the inside." One word of caution is that they do spread quite a bit. They will puff up while baking, and then flatten out, pretty thin, so make sure you space them apart accordingly. I used a small cookie scoop, and my first pan I placed them too close together, and they all ran into each other. If using a half sheet pan, only go 3 across the width, and no more than 4 lengthwise. They are very tasty, and go perfect with a cup of tea.

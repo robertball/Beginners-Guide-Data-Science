@@ -1,0 +1,76 @@
+Recipe number:
+220407.txt
+Review:
+Rating:
+1
+dateLastModified:
+2015-07-27T01:50:32.973
+helpfulCount:
+0
+userID:
+9535866
+Display Name:
+psokolik631
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+345
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way too much fish sauce and no thickener, minimal veggies.
+Review:
+Rating:
+4
+dateLastModified:
+2014-04-18T17:17:21.57
+helpfulCount:
+0
+userID:
+2642528
+Display Name:
+Kate Nash
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3073010.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good.  I had everything on hand (including tamarind paste!) so the numerous ingredients didn't throw me off. However, there are a couple things that were different than other pad Thai recipes, and I would change them. For one, putting the peanuts on top of the servings (with dried red pepper, and green onion if desired) adds color. 
+
+It's easy to get the noodles too soft, between the soaking and the time in the sauce.  Ten minutes is probably too long. 
+
+But the truth is, we ate it all, and enjoyed it.

@@ -1,0 +1,72 @@
+Recipe number:
+19475.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-08-26T06:24:09.48
+helpfulCount:
+7
+userID:
+3330443
+Display Name:
+rsogburn
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+125
+favoritesCount:
+301
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good but needs something to make it more interesting.  Maybe some hot peppers?
+Review:
+Rating:
+3
+dateLastModified:
+2018-08-16T16:35:09.957
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was definitely okay, but rather bland. I used elbow instead of seashell pasta. I used one medium zucchini and one yellow squash, which was plenty enough. I left the zucchini raw and just steamed the yellow squash in the microwave for a few minutes. Boiling them for the 15 minutes called for would be way too soft for me. I added one medium yellow onion for more flavor. I also added extra dressing, garlic salt, pepper, parmesan cheese and some Italian seasoning.

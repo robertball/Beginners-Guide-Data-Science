@@ -1,0 +1,37 @@
+Recipe number:
+267859.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-19T00:29:16.877
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2282
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved these! I've made quite a few biscotti recipes from this site, but I never came across one that didn't include some kind of fat (butter, oil) in it, and I was a little concerned about that. I made these exactly as directed, and they turned out great. They are hard and crunchy, just as they should be. Perfect for dunking in your morning coffee, which is exactly what I did with the little end pieces as soon as they were out of the oven. My kids didn't care for the anise flavor in these (although I did), so I might leave that out when I make these again.

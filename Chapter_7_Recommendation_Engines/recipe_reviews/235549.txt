@@ -1,0 +1,107 @@
+Recipe number:
+235549.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-18T02:08:53.643
+helpfulCount:
+0
+userID:
+8422706
+Display Name:
+Kris Wade
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6125545.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I only used 2 apples and half an onion, but added fresh mushrooms and an additional cup of celery.  My family loved it!  I’m definitely making it again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-23T14:32:54.6
+helpfulCount:
+0
+userID:
+11127697
+Display Name:
+Claudia Martin
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4588885.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and moist! I added one extra stick of butter when sautéing the onions, celery, and apples. Left it over night under Saran Wrap in the fridge and baking this morning with extra broth and butter.
+Review:
+Rating:
+3
+dateLastModified:
+2015-11-16T16:11:02.553
+helpfulCount:
+0
+userID:
+318976
+Display Name:
+Qhhunters
+isPro:
+False
+followersCount:
+67
+followingCount:
+0
+madeRecipesCount:
+137
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2740383.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Well I wouldn't call this "No Hassle", but it is easy.  For me it was still a bit crumbly.  It is a good basic start.  I halved the recipe.  After following the recipe, I actually stirred in 2 beaten eggs and re-baked and felt the texture was much better which then I would give 4 stars.

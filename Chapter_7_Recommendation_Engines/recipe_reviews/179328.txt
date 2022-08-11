@@ -1,0 +1,72 @@
+Recipe number:
+179328.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-08-10T09:57:05.633
+helpfulCount:
+2
+userID:
+2150775
+Display Name:
+DanielleLyn
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+270
+favoritesCount:
+1192
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/45218.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe as written lacks flavor.  All I could taste was frozen lime flavor.  I almost felt like it was a pina colada without the coconut flavor.  Which if you added in some creme of coconut this would be a perfect pina colada recipe.  I didnt have any coconut, so I ended up adding in some amaretto, grenadine, and a splash of orange juice and it was very good that way.  But as written it was very bland.
+Review:
+Rating:
+5
+dateLastModified:
+2008-11-25T14:01:55.03
+helpfulCount:
+2
+userID:
+3102927
+Display Name:
+Tava Gibson
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3057.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+really smooth and easy going great for beach parties and luaus! Its even good on the rocks!! Thanks for the super savory idea!

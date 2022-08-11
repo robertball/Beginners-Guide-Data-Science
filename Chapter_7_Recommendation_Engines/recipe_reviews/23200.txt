@@ -1,0 +1,37 @@
+Recipe number:
+23200.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-05-28T19:22:14.5
+helpfulCount:
+2
+userID:
+196182
+Display Name:
+SUSAN1574
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe and took it in to work and by the time I left (after 4 hours) it was practically gone.  I also had everyone ask for the recipe.  On my own I added chopped macadamia nuts to the top.  I will definitely make this recipe again.  Very good!!! Sue Voorhees

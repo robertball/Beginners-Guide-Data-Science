@@ -1,0 +1,107 @@
+Recipe number:
+219011.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-10-04T14:48:44.103
+helpfulCount:
+20
+userID:
+2017766
+Display Name:
+Rimma
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+394
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very sweet. This recipe for big company. I added some reisins. Very good day it is done. When staying day or two in frige Prunes getting soggy.
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-14T13:28:50.91
+helpfulCount:
+2
+userID:
+13626199
+Display Name:
+Victoria Howard
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+479
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6978517.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this!!! Was a huge success at Hanukkah dinner!!
+Review:
+Rating:
+4
+dateLastModified:
+2012-09-17T07:44:35.057
+helpfulCount:
+2
+userID:
+2730640
+Display Name:
+Diane Campbell
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+201
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1384422.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for friends for the high holidays, and they loved it.  I lightly sprinkled brown sugar on top right before baking and grated nutmeg on top.  Will definitely make this again!

@@ -1,0 +1,108 @@
+Recipe number:
+237722.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-04-28T00:02:21.383
+helpfulCount:
+1
+userID:
+12012812
+Display Name:
+usig
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved everything about this sauce! I made it on grilled chicken. It wasn't as thick as I was expecting it, but it was definitely tasty with a nice spicy kick to it. For the bourbon I used Bulleit 90-proof. The bourbon wasn't overpowering, but if you know bourbon, you can actually still taste it. I look forward to trying it in on pork butt!
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-30T04:54:43.35
+helpfulCount:
+1
+userID:
+24263483
+Display Name:
+Perry Leslie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5779082.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+made it tonight to go on ribs. The only part of the recipe I didn't follow was to add a smoke flavor, as I made it on the smoker. Good flavor, a little thin though.
+I'll probably tinker with it, and update later
+Review:
+Rating:
+5
+dateLastModified:
+2020-09-23T20:18:32.063
+helpfulCount:
+0
+userID:
+15110310
+Display Name:
+Edward Skrzynski
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3355907.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this !!! Made it minus the smoke flavor, turned out great! Refrigerator

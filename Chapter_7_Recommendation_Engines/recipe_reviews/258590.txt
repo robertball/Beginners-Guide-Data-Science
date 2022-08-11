@@ -1,0 +1,37 @@
+Recipe number:
+258590.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-05T01:06:18.777
+helpfulCount:
+0
+userID:
+10631033
+Display Name:
+Connie Kidd
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+206
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6322674.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn’t make any changes and really loved the flavors. Eye rolling delicious. The only change I would make is to double the honey and reduce the balsamic further for a thicker drizzle.

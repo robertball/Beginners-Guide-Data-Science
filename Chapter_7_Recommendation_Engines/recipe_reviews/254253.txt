@@ -1,0 +1,73 @@
+Recipe number:
+254253.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-02T02:37:29.007
+helpfulCount:
+1
+userID:
+16011257
+Display Name:
+kathy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with sangria.  It was soo good!
+I had some left over and we ate it the next week and it was just as good!  So next time I will make a day ahead.  You just scrape it off the top.  It never totally freezes because of the alcohol.
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-16T12:26:44.15
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!

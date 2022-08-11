@@ -1,0 +1,72 @@
+Recipe number:
+238417.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-07-23T12:24:59.647
+helpfulCount:
+3
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+837
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This tasted fine. It was definitely not a clone of Nutella. I made 1/2 recipe in my Vitamix blender. The color is much darker than the picture and it does still have almond bits. Without vegetable shortening or similar products I do not think it will get beautifully smooth like the picture. It reminds me much more of a vegan chocolate fudge, in taste and texture, and it is definitely a healthy tasting spread.
+Review:
+Rating:
+3
+dateLastModified:
+2018-10-13T22:37:50.14
+helpfulCount:
+1
+userID:
+9792271
+Display Name:
+Peachlander 16
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5705870.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's quite tasty. Darker that Nutella. I found it was thicker and courser. Wouldn't say spreadable. I used fresh Hazelnuts from Gellatly Nut Farm / Park.  I used hard honey rather than liquid honey.  I will try grinding the toasted hazlenuts first next time before adding rest of ingredients. Might try unsalted melted butter next time instead of oil. Worth making again. Flavourful

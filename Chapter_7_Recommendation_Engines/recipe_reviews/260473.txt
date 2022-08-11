@@ -1,0 +1,37 @@
+Recipe number:
+260473.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-24T12:53:57.793
+helpfulCount:
+1
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1593
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice way to add some veg to breakfast. I used Swiss chard and kale as my greens. I chose to sauté the garlic first, until fragrant, and then add the greens. I also always salt/pepper at every step, as opposed to simply at the end. I halved the recipe for just me, and the egg to greens ratio was a bit off for me, but that is an easy fix. This was make a really nice egg component to a breakfast sandwich. Thanks for the recipe!

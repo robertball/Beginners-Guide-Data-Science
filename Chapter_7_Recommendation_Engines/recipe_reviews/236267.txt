@@ -1,0 +1,37 @@
+Recipe number:
+236267.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-05T17:58:00.733
+helpfulCount:
+0
+userID:
+10278057
+Display Name:
+DreamChaser
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy and fun to make - I just threw them on top of some roasted spaghetti squash and the flavours interacted really well together.

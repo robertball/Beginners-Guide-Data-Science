@@ -1,0 +1,37 @@
+Recipe number:
+262554.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-03T22:46:45.113
+helpfulCount:
+0
+userID:
+23461559
+Display Name:
+Lena
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+234
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5221891.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good naan

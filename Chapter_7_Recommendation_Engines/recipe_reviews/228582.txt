@@ -1,0 +1,37 @@
+Recipe number:
+228582.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-23T15:36:09.543
+helpfulCount:
+5
+userID:
+2960392
+Display Name:
+MichelleM
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/89768.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was EXACTLY what I was looking for and I am glad I tried it. Simple to make, excellent texture, easy to drink. I did add a tsp of sugar because I have a sweet tooth. Will make it again and again!

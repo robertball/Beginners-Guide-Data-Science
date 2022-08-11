@@ -1,0 +1,37 @@
+Recipe number:
+222887.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-25T17:13:26.437
+helpfulCount:
+1
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1593
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+In our neck of the woods, this is referred to as a "Black & Tan".  I'm not so great w/the pour, even using the back o' the spoon trick, so I rarely get the layered look, but it always tastes great!  I used a DFH Chickory Stout and Yuengling's Lord Chesterfield Ale for mine this evening.  Cheers!

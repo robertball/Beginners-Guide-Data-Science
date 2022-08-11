@@ -1,0 +1,64 @@
+Recipe number:
+216494.txt
+Review:
+Rating:
+5
+dateLastModified:
+02/10/2011
+helpfulCount:
+6
+userID:
+6387249
+Display Name:
+Jenna Ray
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6888714.jpg
+text:
+This was a delicious sandwich! Flavor-profile-wise, the guacamole and honey mustard don't blend well, but in a single bite there is usually one flavor that overwhelms the other. This way the flavors don't exactly compete with each other. You only end up tasting the honey mustard or the guacamole. 
+
+I might suggest using one or the other in two different ham sandwiches. I am actually going to do that next, a nice cream cheese and honey mustard ham sandwhich. Yum. The guacamole I used was homemade, so it seemed to dominate all the different flavors. Though, keep in mind, this was by no means a bad characteristic. It was delicious.
+Review:
+Rating:
+5
+dateLastModified:
+01/21/2011
+helpfulCount:
+3
+userID:
+3876352
+Display Name:
+kelseyc
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Loved that this sandwich was healthy and tasty!
+Review:
+Rating:
+2
+dateLastModified:
+03/07/2011
+helpfulCount:
+1
+userID:
+6178359
+Display Name:
+whitneyco11
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The guacamole overpowers the cream cheese mixture.
+Review:
+Rating:
+5
+dateLastModified:
+05/04/2011
+helpfulCount:
+0
+userID:
+4746265
+Display Name:
+ali.girl
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Super easy to make and delicious!!

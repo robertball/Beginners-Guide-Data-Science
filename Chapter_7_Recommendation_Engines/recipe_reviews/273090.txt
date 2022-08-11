@@ -1,0 +1,72 @@
+Recipe number:
+273090.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-27T21:36:15.03
+helpfulCount:
+0
+userID:
+22697787
+Display Name:
+Devin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6730768.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy. Added bell peppers and a sweet onion.  Crowd pleaser for sure.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-07T18:27:11.18
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+133
+favoritesCount:
+471
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was very easy to make and tasted great! I did however run into an issue with missing the Barbecue Sauce in the ingredient list. No worries, I not only found it by reading the top, but I also used the same Sauce! Thank you again!

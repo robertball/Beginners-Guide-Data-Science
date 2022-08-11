@@ -1,0 +1,47 @@
+Recipe number:
+153985.txt
+Review:
+Rating:
+5
+dateLastModified:
+12/14/2007
+helpfulCount:
+1
+userID:
+2592778
+Display Name:
+Erin
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+this recipe is absolutely delicious. So easy.  I will make again and again.  I could not find the italian tomatoes, so I added a tsp each of oregano, basil, garlic to the crushed tomatoes.  I also added half a jar of garlic and herb spaghetti sauce to the top.  Turned out perfect,  just enough sauce.
+Review:
+Rating:
+5
+dateLastModified:
+11/28/2007
+helpfulCount:
+1
+userID:
+2643513
+Display Name:
+CR
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I used both ground chuck and sausage. Also added 1 pkg of frozen spinach. Everyone loved it.
+Review:
+Rating:
+1
+dateLastModified:
+11/30/2007
+helpfulCount:
+0
+userID:
+2418235
+Display Name:
+Sean
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+not so much. way to salty

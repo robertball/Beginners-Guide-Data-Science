@@ -1,0 +1,37 @@
+Recipe number:
+255380.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-21T00:33:25.09
+helpfulCount:
+4
+userID:
+4060453
+Display Name:
+Abigail Brownell
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5242514.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it.  I also made it my own way.  I used raw apple cider vinegar, 3 cloves garlic and serrano peppers and it tasted delicious both ways.  I used pretty firm avocados- I actually had to peel off some of the skin with a knife but it worked beautifully.

@@ -1,0 +1,112 @@
+Recipe number:
+259323.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-10T10:30:20.347
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I can't believe I made bread. This recipe is simple to follow. I used a silicone mold intended to be used for both leavening and baking. I left some of the seeds whole and also topped the bread with more seeds. Cook time was right on. The texture is nice not too gummy nor starchy. The flavor is excellent. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-31T16:58:21.8
+helpfulCount:
+0
+userID:
+25028156
+Display Name:
+ken
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made with a few substitutions, came out flavorful and yummy.
+
+Didn’t have Agave Nectar; substitute Karo white syrup
+Didn’t have Flax seed.  Substitute about 8 Cardamom seeds, well ground.  Cardamom is highly pungent when you take it out of the processor, don’t worry, it dissipates in the dough and mellows considerably.  This adds a slight nutty, warm autumn flavor.
+
+I also retained the two egg yolks, added 4Tbsp Heavy Cream and 1 pat of Room temp. Butter.  Mix it well with a small whip or fork until smooth. When the loafs went in the oven I gently brushed the egg-butter-cream mixture over the whole top discarding the rest.  Made a really nice flavorful glazed top crust.
+Review:
+Rating:
+2
+dateLastModified:
+2018-09-02T22:15:32.777
+helpfulCount:
+0
+userID:
+23482713
+Display Name:
+Michele Center Halvorson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7331076.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the instructions exactly.  Maybe I made a mistake - the dough rose over the top of the pan in a gloppy mess before the 1.5 hrs was up.  The bake is ok, but I don't especially care for the taste and neither does my son.

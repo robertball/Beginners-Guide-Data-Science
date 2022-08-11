@@ -1,0 +1,37 @@
+Recipe number:
+261378.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-29T04:08:34.85
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm giving this 4 stars for the method. With additional seasoning and spice this would have been 5 stars. The one change I originally made was subbing the bell pepper for jalapeno and that was a smart move in my opinion.  Although the ketchup might be great for kids, it was too sweet for us. I'd use tomato sauce next time, double the chili powder, and add additional heat. While I'm not sure it is authentic, we loved the flavor the bacon added. This recipe needs some tweaking in my opinion but I am still giving it the thumbs up for the ease of doing it all in the microwave.

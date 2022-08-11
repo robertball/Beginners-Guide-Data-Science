@@ -1,0 +1,107 @@
+Recipe number:
+267145.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-03T20:26:22.387
+helpfulCount:
+0
+userID:
+2147660
+Display Name:
+wannabe chefette
+isPro:
+False
+followersCount:
+196
+followingCount:
+0
+madeRecipesCount:
+356
+favoritesCount:
+1271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/49225.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm surprised how easy this was to make.  I didn't have buttermilk so I added 1T of vinegar to a cup of milk and let it sit for about 10 minutes.  And, I used the whole 16 oz of fresh blueberries; glad I did cause I'm getting blueberries in every bite.  Everything went well into a 9 inch pie dish.  Again, this was easy to make in hardly any time and I thoroughly enjoyed eating it.  Thanks for posting.  Will make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-03T14:12:35.973
+helpfulCount:
+0
+userID:
+9232874
+Display Name:
+Liz Jackson
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5028709.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Doubled the recipe, cause I’m feeding three growing children and a husband, and used the mixed berries I use for my smoothies. HUGE hit! The kids love it! The husband actually ate breakfast and it was super satisfying!  Definitely a new weekend treat in our house!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-03T09:53:02.997
+helpfulCount:
+0
+userID:
+23907613
+Display Name:
+Craig C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5529782.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Gee you must be smart to invent things like this... well done you!!

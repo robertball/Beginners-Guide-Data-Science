@@ -1,0 +1,37 @@
+Recipe number:
+219215.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-06-06T15:10:54.55
+helpfulCount:
+2
+userID:
+13729360
+Display Name:
+merrymoppet1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It looks like a big pancake.  I followed the directions to a tee - but when I tried to cut the 10 wedges it fell into a dozen pieces..... I haven't tasted it yet, but it sure doesn't look like the picture - in which the base looks like one solid piece, not the "crumb mixture called for!!!!  I am sorely disappointed - planned to serve it to my church group in the morning, but don't think so now.

@@ -1,0 +1,72 @@
+Recipe number:
+254190.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-15T18:43:23.187
+helpfulCount:
+2
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like dark chocolate, but this is really dark, dark chocolate.  It could have used a little more sugar to me.  I mixed the ingredients over the stove to be sure the sugar was thoroughly dissolved.  It came out smooth and creamy and very rich.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-23T19:33:26.65
+helpfulCount:
+0
+userID:
+21445385
+Display Name:
+Hope Wallace
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+109
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6295372.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+REALLY rich and sweet!

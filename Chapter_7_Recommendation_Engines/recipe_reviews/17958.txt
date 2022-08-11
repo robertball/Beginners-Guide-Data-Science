@@ -1,0 +1,147 @@
+Recipe number:
+17958.txt
+Review:
+Rating:
+2
+dateLastModified:
+2006-01-22T19:29:04.64
+helpfulCount:
+11
+userID:
+1738840
+Display Name:
+Megan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The Pie was excellent, but I gave it a 2 because of the instructions. Here is how I did it.... 
+
+1. I didn't put foil over it because as with any water bath I have ever done YOU DON'T want to create steam . 
+2.  while I know this isn't in the recipe the pan you use for the "small baking dish" should be a 8X8 pan.
+3.the water level needs to be as close to the top of the "Large Baking dish" as possiable with out going into the  small baking dish.
+4. The temp. of the oven wouldn't hurt to be at 350 and last but not least a good test is wait until the sweeted milk is light brown and when stirred starts to clump together wisk one last time and pour over the bananas. Thanks for the recipe and goodluck!
+Review:
+Rating:
+2
+dateLastModified:
+2001-04-02T23:38:07.31
+helpfulCount:
+4
+userID:
+272085
+Display Name:
+ROLLINS4000
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My condensed milk did not carmelize at all.  If it had it would have been good and really sweet.
+Review:
+Rating:
+3
+dateLastModified:
+2012-01-13T06:39:17.687
+helpfulCount:
+2
+userID:
+1926170
+Display Name:
+Mark Whitnell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this pie for years and everyone loves it.  Your method is complicated and to much work.  Heres how to reduce the work to 10 min construction time.  Place the condensed milk in a pressure cooker and cook at 10 -15psi for 35 mins if you like caramel, and 40-45 min if you like it browner.  I use cool whip.  I am an avid user of pressure cookers; it is gaining popularity on cooking shows.  You can completely cook a large pot roast so the meat falls off in 45min not 2-1/2 hrs or more.
+Review:
+Rating:
+2
+dateLastModified:
+2007-06-05T16:50:03.41
+helpfulCount:
+0
+userID:
+2290147
+Display Name:
+Hannah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3055.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Sorry, but the instructions were not easy to follow .

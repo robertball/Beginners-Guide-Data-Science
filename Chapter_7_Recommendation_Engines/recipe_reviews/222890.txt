@@ -1,0 +1,72 @@
+Recipe number:
+222890.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-04T12:05:48.85
+helpfulCount:
+8
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A nice, subtle change from the coffee cocktail I usually make.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-26T14:50:35.38
+helpfulCount:
+1
+userID:
+24300981
+Display Name:
+Carole Morris Cole
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7448899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My favorite drink. Warms you to your toes.

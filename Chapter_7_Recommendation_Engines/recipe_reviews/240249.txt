@@ -1,0 +1,38 @@
+Recipe number:
+240249.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-03T01:33:59.49
+helpfulCount:
+0
+userID:
+9735794
+Display Name:
+Jaana Smith Bauman
+isPro:
+False
+followersCount:
+97
+followingCount:
+0
+madeRecipesCount:
+92
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1215746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to make, super tasty, super cute! Fun project for the holidays with the kids! Any kind of stick will work... popsicle, lollypop, or just a wooden skewer. (Remove tips for children) 
+Save your kids Halloween candy for lots of options on how to decorate the little guys! I made no changes! Great recipe and idea! Thank you!

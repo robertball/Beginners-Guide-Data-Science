@@ -1,0 +1,37 @@
+Recipe number:
+240604.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-08T17:19:34.427
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+766
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The submitter told us we could use colored M&M's to switch out the holiday, so I used the pink, white, and red ones for a Valentine's Day treat. This makes a good bit and goes together really quickly. Next time, I will break the pretzel sticks in half. My grands loved this.

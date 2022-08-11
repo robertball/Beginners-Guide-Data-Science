@@ -1,0 +1,37 @@
+Recipe number:
+236464.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-21T17:42:54.75
+helpfulCount:
+1
+userID:
+11489253
+Display Name:
+What you cooking Willis?
+isPro:
+False
+followersCount:
+58
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+204
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1022842.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this simple yet healthy recipe.   I loved the kick of ginger. I scaled this recipe down and cooked on the stove for something faster for dinner.  Next time I might add carrots  and sub tomato paste if I am low on tomatoes.

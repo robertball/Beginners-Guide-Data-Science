@@ -1,0 +1,37 @@
+Recipe number:
+258297.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-05-07T15:13:19.77
+helpfulCount:
+0
+userID:
+23720595
+Display Name:
+jjbazoka
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7918435.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+sounds really good I am going to make it today

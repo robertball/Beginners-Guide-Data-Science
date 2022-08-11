@@ -1,0 +1,110 @@
+Recipe number:
+238219.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-04T12:30:06.487
+helpfulCount:
+3
+userID:
+11063442
+Display Name:
+suzi
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+259
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been making this salsa for 5 years...it is DELICIOUS!  
+Use 15 CUPS Chopped Tomatoes (skins removed, of course).
+Add 3/4 cup - 1 Cup of FRESH chopped cilantro AND 2 Tablespoons ground cumin IN THE LAST 15 MINUTES OF COOKING. 
+THIS IS PERFECT!  i always get between 16 & 18 jars.....plus all the taste testing! :)
+Review:
+Rating:
+4
+dateLastModified:
+2014-06-30T11:59:12.93
+helpfulCount:
+1
+userID:
+8842104
+Display Name:
+llcummings66
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+17 Pint jars
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-20T13:08:03.457
+helpfulCount:
+0
+userID:
+20293724
+Display Name:
+ECACE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cooked it down so it was nice and thick.  Added a bit more sugar and cilantro.  First batch of tomatoes from the garden this year done!

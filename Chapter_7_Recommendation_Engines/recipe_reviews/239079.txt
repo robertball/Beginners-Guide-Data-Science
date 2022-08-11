@@ -1,0 +1,72 @@
+Recipe number:
+239079.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-06-22T12:30:51.227
+helpfulCount:
+0
+userID:
+18209250
+Display Name:
+Jennifer Allen
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3681797.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The butter tastes ok, but was not anything like spaghetti warehouse butter. In addition, directions should be added on how to roast the garlic.  10 minutes is not an accurate representation of how long it will take to make.
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-11T13:45:56.047
+helpfulCount:
+0
+userID:
+252414
+Display Name:
+April Harrell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+64
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5718811.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just what I was looking for! I think I gained 5 pounds the week I made the first batch. Served easily with Pillsbury french bread.

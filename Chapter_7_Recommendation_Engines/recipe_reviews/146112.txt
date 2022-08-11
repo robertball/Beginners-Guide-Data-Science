@@ -1,0 +1,37 @@
+Recipe number:
+146112.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-09-29T11:16:27.297
+helpfulCount:
+1
+userID:
+806543
+Display Name:
+SLTHIES
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+107
+favoritesCount:
+768
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these with the refried beans without the refry recipe from this site.  It was spectacular.

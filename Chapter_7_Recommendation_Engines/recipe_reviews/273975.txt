@@ -1,0 +1,72 @@
+Recipe number:
+273975.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-30T02:36:25.233
+helpfulCount:
+0
+userID:
+13035295
+Display Name:
+Nifer Hoffman
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3201136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You can definitely taste the bourbon.  Batter looked very thin when it was mixed up and popped into the oven.  I cut into it when it was warm, so it kind of crumbled apart when I served it from the pan.  Hopeful that some more cooling will get these to set a bit better - if not, will add a bit more flour next time .. and there will totally be a next time!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-18T03:31:44.087
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9070
+followingCount:
+0
+madeRecipesCount:
+617
+favoritesCount:
+994
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You can’t beat a basic brownie, and adding bourbon only enhances the taste. I did choose to add some melted chocolate chips on top - just a personal preference. This is a great recipe for dessert. To splurge for guests,  top with ice cream, hot fudge, caramel sauce and buttered toasted pecans. Yum!

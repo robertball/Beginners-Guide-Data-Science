@@ -1,0 +1,72 @@
+Recipe number:
+74808.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-09-24T16:40:24.577
+helpfulCount:
+9
+userID:
+1149064
+Display Name:
+James Corthell
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+636
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1651851.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great drink if you're in a drinking mood; definately one that makes it so that you can't taste the alcohol...
+Review:
+Rating:
+5
+dateLastModified:
+2006-01-22T15:24:26.17
+helpfulCount:
+2
+userID:
+1358777
+Display Name:
+WORKINMOM2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+344
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and a real winner at our gathering.

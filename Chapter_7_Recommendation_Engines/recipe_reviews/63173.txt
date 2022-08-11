@@ -1,0 +1,72 @@
+Recipe number:
+63173.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-01-25T19:58:49.827
+helpfulCount:
+6
+userID:
+1678625
+Display Name:
+Lissy Kathiria
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1760.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really great way to cook liver, thank you so much...
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-21T14:53:20.633
+helpfulCount:
+0
+userID:
+4075228
+Display Name:
+Elizabeth Leonard
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1844557.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've served this to my family 3 times now, and I love it. My husband likes it and my son will eat it under duress, which is better than I can say for any other form of liver I've tried. Instead of pouring the tarragon sauce over the top, I serve it on the side as a dip for the french fry-like fried liver strips. The sauce is so delicious I could eat it straight.

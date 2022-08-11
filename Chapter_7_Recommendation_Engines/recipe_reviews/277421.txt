@@ -1,0 +1,72 @@
+Recipe number:
+277421.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-02T02:20:11.593
+helpfulCount:
+0
+userID:
+11571775
+Display Name:
+pmerbs
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. Kids were very happy.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-12T00:17:30.8
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall this is a good recipe but it was a little hard to follow. I recommend having all of your ingredients out and measured beforehand to help simplify. It needed more sesame oil flavor in my opinion so I would tweak that next time. I would also wait until the very end to put in the rice. I much preferred  the look of it when it was first put in and barely tossed with some of it still being white. Overall a good recipe and one I would make again with a few minor tweaks.

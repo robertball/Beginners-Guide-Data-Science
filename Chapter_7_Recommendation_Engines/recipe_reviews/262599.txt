@@ -1,0 +1,37 @@
+Recipe number:
+262599.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-15T12:48:27.64
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out pretty good. I made another similar recipe to this one on the same night except the other called for steaming the cauliflower. I actually preferred the one with the steamed cauliflower better but hubs preferred this one so there you have it. We both agreed we would have liked a little bit of heat so next time I'll add a diced jalapeno.

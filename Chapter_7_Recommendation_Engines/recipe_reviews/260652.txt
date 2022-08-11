@@ -1,0 +1,73 @@
+Recipe number:
+260652.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-02T06:07:55.737
+helpfulCount:
+1
+userID:
+6651322
+Display Name:
+Maureen Beck
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3177853.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+STELLER NEWS: My super pick teenager LOVED it!  
+I didn't change a thing but came back to reprint the recipe because I'm a messy cook; I'll now check out the reviews.
+Review:
+Rating:
+3
+dateLastModified:
+2020-04-11T23:20:46.207
+helpfulCount:
+0
+userID:
+11916600
+Display Name:
+Kmbowm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way too much broth. Otherwise it was tasty but it was swimming in sauce.

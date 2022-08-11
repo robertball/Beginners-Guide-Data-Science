@@ -1,0 +1,37 @@
+Recipe number:
+261540.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-07T19:43:57.107
+helpfulCount:
+0
+userID:
+2517868
+Display Name:
+Stevie Fuhrer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+163
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3892745.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is amazing! I didn't have honey powder so I used a Tablespoon of honey in the sauce and left it out of the rub. It was a huge hit. If you like mole sauce you'll love this!

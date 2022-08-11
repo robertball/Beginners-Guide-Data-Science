@@ -1,0 +1,142 @@
+Recipe number:
+266310.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-09T02:15:31.647
+helpfulCount:
+3
+userID:
+2888978
+Display Name:
+Kent Keller
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5546389.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used two breasts instead of one, but kept the rest close to the recipe.   Even at that I was worried it was going to be too spicy for us.  Ended up about right for our spice tolerance, but we felt it could have used more green spices, and maybe mozzarella.  Will definitely make again, but will be experimenting with it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-08T03:55:31.96
+helpfulCount:
+1
+userID:
+9421834
+Display Name:
+Sharla Collins
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6913303.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut the breasts in two once I rolled them. I thought it was SO GOOD. My man might think it’s too spicy but he has weak taste buds. I’m from Jackson, MS so I am used to spicy food. REALLY REALLY GOOD RECIPE!!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-31T18:49:17.267
+helpfulCount:
+1
+userID:
+20298602
+Display Name:
+Lisa Howell Griffin
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3994671.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I decided to make these into appetizer size for a tailgate and they were a hit. After airfrying, I placed them all in a large crock pot and sprinkled with Lawrey's Baja Chipolte marinade to keep it moist.  I made each wrap bitesize and had condiments for dipping. They were delish!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-08T00:08:59.307
+helpfulCount:
+0
+userID:
+22226270
+Display Name:
+Ms. T
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This worked really well.  As I am newish at the air fryer this was different than anything I tried before.  Loved it.

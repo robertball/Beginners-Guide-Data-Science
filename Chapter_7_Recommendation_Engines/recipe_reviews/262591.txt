@@ -1,0 +1,37 @@
+Recipe number:
+262591.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-02T13:24:12.417
+helpfulCount:
+0
+userID:
+24124457
+Display Name:
+erod68
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+One of my faves.  Good fats w avocado covered and the nopales double fiber!!!  Excellent filler and a must go to when you want something easy.

@@ -1,0 +1,37 @@
+Recipe number:
+239545.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-03T20:49:29.093
+helpfulCount:
+1
+userID:
+12181611
+Display Name:
+amyb32
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+150
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2294085.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+DEEELISH! It tasted just like the bistro pizzas my husband and I like to get at higher end restaurants.  The only changes I made were the crust and meatballs. I hate making crust so I got a Boboli whole wheat crust, and I couldn't find the meatballs in the recipe so I made my own caramelized onion meatballs. I would have liked if the apples cooked down a little more so next time I think I will heat them a bit before adding to the pizza. Other than that, it's  a delicious healthyish za!

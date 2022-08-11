@@ -1,0 +1,113 @@
+Recipe number:
+277759.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-20T00:01:17.75
+helpfulCount:
+1
+userID:
+9246227
+Display Name:
+manella
+isPro:
+False
+followersCount:
+169
+followingCount:
+0
+madeRecipesCount:
+343
+favoritesCount:
+1301
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6603558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made these for my dog Molly today and she  really likes them .
+My dog biscuit cutter  was small so I got 22 biscuits, and the rest of the dough I cut with a regular biscuit cutter and got 10.
+32  biscuits all together..
+I read Always Hungry and Bren’s reviews and liked what i read.
+I myself didn’t find the dough to sticky, but I did have to use some ground oats on my board.
+
+Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-11T00:54:51.837
+helpfulCount:
+1
+userID:
+3204448
+Display Name:
+Always Hungry
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+99
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6723749.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Today, I made Pumpkin-Apple Dog Treats for Abigail. The recipe said 24 and I only got 18 - guess my "bone" cutter is a little larger.  I figured if it is good for Annie it is good for my Abigail, too. Abigail LOVES them! They were easy and fun to make. I had to bake them longer because of their size.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-09T20:29:02.57
+helpfulCount:
+0
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+222
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+866
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Two paws up from Annie. I found the dough difficult to work with. I couldn't roll them out because the dough stuck to the rolling pin,  I considered flouring the pin but that would have comprised the gluten-free factor.  In the end I used a spatula to even the dough out and then used a pizza cutter to form into treats.

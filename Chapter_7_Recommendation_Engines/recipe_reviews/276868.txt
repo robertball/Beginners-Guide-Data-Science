@@ -1,0 +1,37 @@
+Recipe number:
+276868.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-24T19:17:34.263
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+766
+followingCount:
+0
+madeRecipesCount:
+519
+favoritesCount:
+2119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was quite tasty! The recipe didn't specify what type/color  miso to use - I normally use white, however I had some dark rice miso on hand so that's what I used. I added a couple teaspoons of dashi to the water since my miso didn't have added dashi. Other than this minor change, the flavor was good. I don't usually put carrot and potato in my miso soup, so that was a nice change.  A couple recommendations: there is no need to dirty two pots. Just use the large pot that the vegetables were cooked in to make the soup. I would probably use less wakame next time, but that's just personal preference.

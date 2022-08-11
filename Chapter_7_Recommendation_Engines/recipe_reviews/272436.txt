@@ -1,0 +1,37 @@
+Recipe number:
+272436.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-02T21:59:51.03
+helpfulCount:
+1
+userID:
+25422972
+Display Name:
+pjp
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Could not find a rutabaga  so I used turnips. It would have been fine till I got a phone call. Half the strips burned, you have to watch them closely !!! The red pepper was too much for my taste, the black pepper would have been plenty; and I love  hot things! I will definitely make this again!!

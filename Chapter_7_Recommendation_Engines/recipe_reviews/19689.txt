@@ -1,0 +1,37 @@
+Recipe number:
+19689.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-19T08:14:50.983
+helpfulCount:
+0
+userID:
+9996014
+Display Name:
+Victoriaren
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+540
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1136951.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We always have smoked fish from our fishing friends, and I needed to use the smoked tuna. This is super simple, but is yummy. It is thick, so needs to be spread, not dipped. Try different crackers with it, as it changes the flavor. Good for a hearty protein appetizer.

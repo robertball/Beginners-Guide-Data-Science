@@ -1,0 +1,37 @@
+Recipe number:
+232163.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-27T16:13:07.37
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.27.18  I like granola on my morning yogurt, and this was tasty.  Doesn’t say what kind of almonds to use (whole, slivers, sliced), but I used the slivers, and probably will try with pecans the next time.  For the dried fruit, I used a combo of cranberries, cherries, and apricots.  I wanted to be sure that the chocolate chips melted a bit, so I mixed them in after cooling the granola for 10 minutes, rather than 20 minutes.  Thanks for sharing your recipe.

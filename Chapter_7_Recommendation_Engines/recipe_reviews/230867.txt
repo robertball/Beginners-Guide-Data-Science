@@ -1,0 +1,72 @@
+Recipe number:
+230867.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-09-07T18:06:42.427
+helpfulCount:
+2
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+274
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3431
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the idea of a buffalo chicken burger using ground chicken, but, I was not impressed with this recipe.   I made the recipe as is adding only a couple of tablespoons of water and noticed it was very sticky and soft.  If I had added the entire 1/2 cup of water it would have been way too soft to even make into a patty.   I took half of the chicken mixture and made into patties and added some ranch seasoning powder to the other half.  The flavor of the patties with the ranch seasoning was better.  My family thought the flavor was good, but, the texture was not appealing.  It was very soft and mushy.  I don't think I will make these again.
+Review:
+Rating:
+1
+dateLastModified:
+2015-01-03T20:10:40.977
+helpfulCount:
+0
+userID:
+15059971
+Display Name:
+Tehra-McKenzie Dougall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1898032.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tweaked this a bit and processed capers and onion into the ground chicken along with some salt, paprika and Frank's sauce. My husband liked the taste but didn't like the texture so I will probably stick with chicken fillets next time

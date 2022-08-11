@@ -1,0 +1,37 @@
+Recipe number:
+277687.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-13T00:47:19.673
+helpfulCount:
+0
+userID:
+26794351
+Display Name:
+VC Girls
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow these were great!  Giving it four stars because it took a few min longer in the IP than what the recipe called for and I used 45 ounces of sauce or I would have had a burn notice and because the sauce was greasy from the sausage.

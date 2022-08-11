@@ -1,0 +1,37 @@
+Recipe number:
+264424.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-30T05:52:18.583
+helpfulCount:
+0
+userID:
+3364201
+Display Name:
+TribePride
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+145
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/467103.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was very good. Made it for a party that got canceled, but I didn't mind having it all for myself!  There was too much olive oil for my personal taste (I tend to not like things very oily), and dill isn't my favorite herb but that's another personal taste thing.  Overall I really enjoyed this, and I'm absolutely going to make it again and just replace the dill with something else.

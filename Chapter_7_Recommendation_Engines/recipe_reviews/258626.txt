@@ -1,0 +1,107 @@
+Recipe number:
+258626.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-19T18:23:28.993
+helpfulCount:
+0
+userID:
+12664996
+Display Name:
+Joseph Pelle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5318718.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A simple, light salad.  I increased the recipe for a dinner party and at first used too little dressing, so the lime taste was lost.  After adding more of the dressing, it was delicious and became a recipe I would make again.
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-28T14:17:47.81
+helpfulCount:
+0
+userID:
+11985275
+Display Name:
+willow30
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+over all good
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-27T13:54:33.987
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was simple, straightforward, fresh, and tasty. I think the dressing could have used some herbs but other than that I wouldn't change a thing. This made a great main dish salad on a blistering hot summer evening. Thanks for sharing!

@@ -1,0 +1,62 @@
+Recipe number:
+219507.txt
+Review:
+Rating:
+1
+dateLastModified:
+05/24/2012
+helpfulCount:
+5
+userID:
+872956
+Display Name:
+LISAMARRIE14
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/644057.jpg
+text:
+Interesting. Like the other review I found this different than any stir-fry that I have ever had too. It was sour and tart. I added brown sugar to make it more sweet. I won't make again.
+Review:
+Rating:
+3
+dateLastModified:
+02/11/2012
+helpfulCount:
+4
+userID:
+8557211
+Display Name:
+zanzer
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Easy and fast dish to make.  Didn't taste like any stir fry I've had.  I thought it tasted more like a Tex Mex kinda dish.
+Review:
+Rating:
+4
+dateLastModified:
+06/19/2012
+helpfulCount:
+0
+userID:
+9444149
+Display Name:
+Deb
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Super easy, quick, delicious!  Note to self - next time do not double the recipe - the quantity as is is quite sufficient.
+Review:
+Rating:
+5
+dateLastModified:
+11/03/2012
+helpfulCount:
+0
+userID:
+9998401
+Display Name:
+CourtneyS
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/914662.jpg
+text:
+Yummy! My family loved this!

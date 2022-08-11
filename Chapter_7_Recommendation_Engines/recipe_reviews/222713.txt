@@ -1,0 +1,72 @@
+Recipe number:
+222713.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-16T07:19:00.12
+helpfulCount:
+3
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12228
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a clients dinner party, doubled the recipe and it was very well received.  I used diced fresh tomatoes, not the cherry tomatoes but either way would be good.  I also made my own basil pesto.    Served with quartered Chia Pitas from Costco.  It was a huge hit.
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-25T16:43:54.41
+helpfulCount:
+1
+userID:
+14145556
+Display Name:
+Emily Frosberg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is delicious. I cooked everything at about 375*f. it took a little longer for everything to cook, but gave me time to chop and mince everything else. I also omitted the olives and added about a tablespoon more green onion; my family LOVED it. Strongly recommend.

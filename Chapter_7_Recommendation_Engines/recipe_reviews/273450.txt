@@ -1,0 +1,37 @@
+Recipe number:
+273450.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-18T02:39:47.783
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and these were good but a little too sweet for me. I recommend subbing the ketchup for BBQ sauce and then you can eliminate the brown sugar and liquid smoke altogether. Just my two cents. Overall good recipe and one I would make again with some tweaks.

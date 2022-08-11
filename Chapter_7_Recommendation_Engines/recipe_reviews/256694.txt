@@ -1,0 +1,112 @@
+Recipe number:
+256694.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-23T03:45:53.683
+helpfulCount:
+0
+userID:
+7317236
+Display Name:
+cookiemom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The curd was very runny and messy and the dough was very hard to cut, but the strong lemony taste was wonderful.  I used Meyer lemons which are somewhat strong but sweet.   I will make it again with a few adjustments before I give up on it.
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-20T15:25:34.267
+helpfulCount:
+0
+userID:
+15774500
+Display Name:
+Heather Trafford
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3443504.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The curd filling did not set up thick enough to hold so it was a very messy dessert (even though I cooked the curd for about 15 mins to thicken) .  I thought this may happen so wrapped the base up the sides of the pie dish but it was still a very messy dessert. Even wrapping the base up the sides I found the crust much too thick and very hard to cut through.
+The curd filling was tasty but a little overpowering - however my lemons were very juicy ( I wish they would give measurements of juice not quantities as lemons vary).  
+I probably won’t be making this recipe again but if I did
+1: make the crust much thinner
+2: use only 1-2 tablespoons of lemon juice so it is not so overpowering and leaves a hint of coconut
+3: add some coarse ground toasted coconut to the crust
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-16T06:01:54.5
+helpfulCount:
+0
+userID:
+25261239
+Display Name:
+Mari Rose
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6432013.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes really nice. Not too over the top and I like the little crunch with the meringue.

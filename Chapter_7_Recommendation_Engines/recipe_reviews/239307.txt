@@ -1,0 +1,72 @@
+Recipe number:
+239307.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-29T14:52:35.573
+helpfulCount:
+8
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did add half of a small bag of "fruit" marshmallows that I had hanging out in the pantry that I needed to use or lose. I made no other changes. The kids RAVED about it and my husband ate about half of this bowl on his own. Great "pantry" dessert.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-28T00:08:54.933
+helpfulCount:
+0
+userID:
+17014581
+Display Name:
+Tammy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! This was a huge hit at our church supper.

@@ -1,0 +1,72 @@
+Recipe number:
+264740.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-08T22:11:43.75
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Th is s a moist, tasty and easy roast chicken.  The roasting time was a half hour more for me.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-15T00:41:41.453
+helpfulCount:
+0
+userID:
+10891620
+Display Name:
+MS
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good and very easy.  We added a few more spices to the skin. We also had to cook a bit longer (gas oven) and the skin wasn't super crispy but the flavour was great!

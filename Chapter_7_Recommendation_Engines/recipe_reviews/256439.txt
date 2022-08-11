@@ -1,0 +1,72 @@
+Recipe number:
+256439.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-10T02:20:19.373
+helpfulCount:
+0
+userID:
+17162270
+Display Name:
+Emily Connell
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is quite good... added a little more almond butter and used raw honey instead of stevia, and it’s perfect. I’ll definitely make this again.
+Review:
+Rating:
+3
+dateLastModified:
+2016-12-31T22:05:39.8
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+771
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was not rich enough or sweet enough for me, but it's a good starting point.

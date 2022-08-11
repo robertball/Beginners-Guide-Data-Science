@@ -1,0 +1,109 @@
+Recipe number:
+257404.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-21T13:07:42.5
+helpfulCount:
+4
+userID:
+4829908
+Display Name:
+Jerome"chef"
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+302
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+made for Thanksgiving 2018 and everyone wants a repeat for Christmas.  Made as called for.  ONLY thing was used fresh berries and 16oz.  Loved the jalapeno "kicker" made sure I tasted the heat of the jalapeno's and added some seeds/membrane to get the heat  (taste them before you use them so you can adjust  the heat for you/guests taste) we like.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-05T01:33:07.813
+helpfulCount:
+0
+userID:
+26509270
+Display Name:
+Tommy2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the blackberry glaze this Thanksgiving.  " What a treat"...... Oh my gosh..... it was wonderful.  Bought just a plain ole' ham and followed the recipe and dang.....  it was so very good.  Hope others try it.... they'll be just as happy as me.  I'll keep this one close.  
+Tom Mamie Jr
+Kansas City, KS
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-22T12:56:10.69
+helpfulCount:
+0
+userID:
+23056975
+Display Name:
+Dawn Merkel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4870387.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will absolutely make this again!

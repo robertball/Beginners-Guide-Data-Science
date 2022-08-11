@@ -1,0 +1,109 @@
+Recipe number:
+255540.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-08T15:31:37.657
+helpfulCount:
+3
+userID:
+10174692
+Display Name:
+Donna Meyers Nissen
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+954
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1303825.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+love this recipe, been making it for years. The trick I found though is do not add all the beer at one time.  First make sure the beer is at room temp and then slowly add until you get the right consistency.  Then pretzels are best with it!
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-16T19:42:52.027
+helpfulCount:
+1
+userID:
+13650207
+Display Name:
+fanhansen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There is a certain 'Je ne sais quoi' about this dip. I am not a fan of ranch but I made it to share and ended up making another batch for myself. It's pretty good!
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-24T13:42:37.447
+helpfulCount:
+0
+userID:
+3823628
+Display Name:
+Maureen Burke
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+338
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a tailgate party.  It was a huge hit!
+I added a little more worcestshire sauce. It was
+delicious!

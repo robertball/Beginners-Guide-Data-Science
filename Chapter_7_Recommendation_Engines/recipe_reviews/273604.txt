@@ -1,0 +1,73 @@
+Recipe number:
+273604.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-19T02:17:14.643
+helpfulCount:
+0
+userID:
+25737377
+Display Name:
+DaleK
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, we made it with coconut milk instead of the cream and it gave it a wonderful flavour
+We will make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-05T03:54:13.073
+helpfulCount:
+0
+userID:
+18924924
+Display Name:
+lecopaw@aol.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was sooooooo good!!  I "roasted" the veggies in the crock pot on high about 5 hours.  Smushed veggies with potatoe masher then used immersion blender in crock pot to make sauce.  Don't do much dairy anymore, so substituted coconut milk (used lite, it was fine).   So nice to have another beet recipe.  Definate keeper, will make this again!

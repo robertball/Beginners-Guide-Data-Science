@@ -1,0 +1,107 @@
+Recipe number:
+233763.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-08-09T09:08:00.347
+helpfulCount:
+7
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1661
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This can be made lighter with "free" whipped topping and sugar free pudding mix. Also great with sliced apples.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-24T21:58:37.89
+helpfulCount:
+1
+userID:
+24623745
+Display Name:
+Rob Barrette
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6033082.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added nutmeg and allspice. We also had 1/3 of a can of pumpkin pie filling so I added that too. Served it with cinnamon grahams, Nilla wafers, ginger snaps, and windmill cookies. My boys wanted to eat it with a spoon.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-26T00:28:56.547
+helpfulCount:
+0
+userID:
+4366512
+Display Name:
+Heather
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+155
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added pumpkin pie spice...yum!

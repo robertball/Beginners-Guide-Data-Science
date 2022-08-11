@@ -1,0 +1,144 @@
+Recipe number:
+246286.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-21T21:45:37.847
+helpfulCount:
+2
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8912
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Panna cotta is one of my favorite desserts and with the addition of white chocolate, it makes it even more decadent! So easy to make, but yet elegant enough for company or a fancy dinner. I used half of a vanilla bean (just cut is in half and then scraped out the seeds and added them to the cream, and threw the bean in there as well). I didn't measure the gelatin, just used 1 of the little Knox gelatin packets, which I guestimated was about 1-1/2 tsp. It set up perfectly, and the stewed strawberries were a delicious topping for this. Will make this one again. Thanks for sharing the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-15T01:11:47.85
+helpfulCount:
+1
+userID:
+25356406
+Display Name:
+xKDxx
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6488813.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is amazing! It's easy, and is super delicious. My family ate it all within a day. I'm planning on making it again, with dark chocolate.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-25T06:03:02.14
+helpfulCount:
+0
+userID:
+23911818
+Display Name:
+Gin Hearn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5532588.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this, but not with the strawberries as the ones at the store were awful. I had some fresh blueberries from my little bush so I made a sauce out of them and strained out the seeds and served it with that and a few fresh berries. I did make a couple of small changes to the recipe . 
+
+I used Vanilla Extract to taste. I bloomed the gelatin in 1/2 cup of cold milk which was added to the cream mixture after the sugar melted as it seemed like too much gelatin for such a small amount of liquid. I did not use the water.  I used a little more sugar and  little less chocolate and I added a tablespoon or so of white vinegar to give it a bit of tartness.  (A recipe trick I learned from some cooking show).  Makes it taste a bit like buttermilk panna cotta without the buttermilk.  My boyfriend loved it. I hate panna cotta so you'll have to take his word for it. He is the expert and he was licking the molds. Me, I hate the taste of boiled milk, so I can't judge a good one from a bad one.  I will be making this for him again.  Next time I'll try the strawberries. Thank you.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-26T02:06:50.193
+helpfulCount:
+0
+userID:
+9703685
+Display Name:
+Chrissy Hohman Berger
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2241629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for Christmas Eve dinner and it was delicious, and super easy to make!

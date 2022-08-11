@@ -1,0 +1,142 @@
+Recipe number:
+273574.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-23T01:31:30.183
+helpfulCount:
+0
+userID:
+18068941
+Display Name:
+John B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3614576.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used butter-flavored oil spray and used Old Bay with minced (dried) onions.  I grilled for 7 mins per side and it turned out pretty well.  I might try a different spice mix next time.  It was good but didn’t knock me off my feet, so 4/5.  I might actually try marinading next time.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-15T03:37:28.07
+helpfulCount:
+0
+userID:
+4886604
+Display Name:
+Corn Chopper
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+79
+favoritesCount:
+322
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick, easy, and delicious.  Grilled two minutes a side to form a crisp and finished  on indirect  heat. Served with  sour cream and diced  green onions.  This is a good choice with burgers  or bratwurst.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-13T14:50:07.85
+helpfulCount:
+0
+userID:
+17623717
+Display Name:
+E. Keiyona Thomas
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+243
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3324787.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice variation on bakers, no butter needed! Thanks for posting
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-26T18:03:51.027
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2294
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were simple to make and would go great with any grilled meat. I will make these often this summer.

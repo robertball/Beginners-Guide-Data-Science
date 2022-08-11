@@ -1,0 +1,72 @@
+Recipe number:
+276861.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-03-07T02:13:06.767
+helpfulCount:
+0
+userID:
+27106269
+Display Name:
+Erin H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7790787.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor here was good but a pinch too much worschestershire sauce  and the instructions to cook the noodles In the instant pot are way off. It came out extremely over cooked. everything else was delicious!! But those two things need modifying.
+Review:
+Rating:
+3
+dateLastModified:
+2020-02-28T01:25:16.54
+helpfulCount:
+0
+userID:
+3400142
+Display Name:
+Lindsay Gordon
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1203250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make again with half the sour cream. Needs much more beef flavor. This tastes like sour cream noodles.

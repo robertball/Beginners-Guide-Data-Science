@@ -1,0 +1,144 @@
+Recipe number:
+254575.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-10T21:31:06.343
+helpfulCount:
+2
+userID:
+6749298
+Display Name:
+Cathie Carter Noble
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+916
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7762110.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so good!   The mint jelly was fabulous.  Husband doesn't like mint....I left it out of his portion....and he loved it without the mint.  
+
+Keeper and one I will share!
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-27T11:56:41.6
+helpfulCount:
+0
+userID:
+24808972
+Display Name:
+Jeanne Levey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6167579.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the fresh mint sauce instead of store-bought.  The marinade for the lamb is also spot on.  I made pork chops in the same marinade for my husband and he loved it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-26T12:49:13.35
+helpfulCount:
+0
+userID:
+24273715
+Display Name:
+Great Recipes--All Recipes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We had this for Easter dinner--it was fabulous!!!!  Full of flavor and the fresh mint jelly makes this a real keeper!!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-16T20:48:50.29
+helpfulCount:
+0
+userID:
+7875447
+Display Name:
+teamhightower
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+176
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/876329.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The marinade gave the lamb a wonderful fresh flavor.  I cold smoked the lamb for an hour then a quick hot sear.  The orange mint sauce is absolutely perfect and the best 'mint' sauce I've every tasted.  Well Done!

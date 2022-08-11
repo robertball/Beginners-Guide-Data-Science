@@ -1,0 +1,47 @@
+Recipe number:
+22129.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/20/2011
+helpfulCount:
+4
+userID:
+showlowbob
+Display Name:
+Show Low Bob
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4357339.jpg
+text:
+My mother used to make this dish. It was one of my favorites. Still is.
+Review:
+Rating:
+2
+dateLastModified:
+08/29/2002
+helpfulCount:
+2
+userID:
+178686
+Display Name:
+JESSICA THE GREAT
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I'm half Chinese and I have to say, I was pretty disappointed in these results. I followed the recipe closely but the sherry was WAY too strong and we ended throwing most of the recipe away.
+Review:
+Rating:
+4
+dateLastModified:
+08/29/2002
+helpfulCount:
+2
+userID:
+231400
+Display Name:
+HUFF13
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I thought this was very easy and very tasty. My 11 year old didn't care for the smell. Think it was from the sesame oil. My 2 year old loved the noodles. I will make this again. Maybe add different veggies to it too. I did use Chardonnay unstead of sherry.

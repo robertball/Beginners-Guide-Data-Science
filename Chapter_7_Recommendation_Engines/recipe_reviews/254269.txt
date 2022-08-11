@@ -1,0 +1,72 @@
+Recipe number:
+254269.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-05T21:03:24.64
+helpfulCount:
+1
+userID:
+11681685
+Display Name:
+laurie d
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Israeli couscous because I couldn't find sorghum when I wanted to make this.  I am not s fan of kale but thought in the soup I wouldn't really taste it.  This was awesome!  Easy to make.  I added pecorino Parmesan cheese and it added just the right top layer of taste!  I would make this again for sure!
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-03T16:52:19.203
+helpfulCount:
+1
+userID:
+4408299
+Display Name:
+MrsBooks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+3111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The soup was great. The sorghum added a nice chew to a meatless recipe. Had to order whole grain sorgham on Amazon. Couldn't find it locally.  Leftovers were also great. Will make again.

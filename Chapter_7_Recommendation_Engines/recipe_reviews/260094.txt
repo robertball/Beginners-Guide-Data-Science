@@ -1,0 +1,37 @@
+Recipe number:
+260094.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-02T22:00:16.527
+helpfulCount:
+0
+userID:
+13920332
+Display Name:
+Alan
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+408
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3750758.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made per recipe no substitutions.Used chopped pecans.Recipe was easy finished product looked like picture may try using chocolate

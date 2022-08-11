@@ -1,0 +1,37 @@
+Recipe number:
+218633.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-21T01:05:44.173
+helpfulCount:
+0
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+368
+favoritesCount:
+1310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe comes together pretty quickly and is very good.  The slices of brie were a little challenging but I bought the small round brie about 5" in diameter, cut that in half and then cut slices.  It was just enough for two sandwiches.  I omitted the mustard that was optional just so we could enjoy the fresh flavors of the apple brie and bacon.  I served with some grapes and chardonnay, thanks for the great recipe!

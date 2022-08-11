@@ -1,0 +1,107 @@
+Recipe number:
+262353.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-28T17:37:11.3
+helpfulCount:
+1
+userID:
+10120411
+Display Name:
+Cory Steffen
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1839994.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definitely not too bad for tofu substitute. I am a meat eater as well, this is obviously not chicken. But still a good tasting snack that you don't have to feel as guilty about.
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-26T15:57:53.753
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Even though you are not fooling anyone as the recipe submitter states, these still turned out good and tasted amazingly close to a wing. Even more so the next day. You lose the crunch but the flavor of a wing is more dominant. The only thing I would change next time is to double the bouillon. I am not vegan but wanted to give these a try and I'm glad that I did.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-17T21:38:34.257
+helpfulCount:
+0
+userID:
+25315490
+Display Name:
+Ryn J
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are super delicious! After making them once, I decided to try to make them less 'wings' and more 'nuggets' so I could put them on top of a pasta dish I was making, and they turned out great! I didn't achieve quite an even coating all around the nuggets - if I were to do it again, I would lay down a thing coating of the breading on a baking pan, place the nuggets on that, and then sprinkle the rest of the mix on top to try for a better coating. But they were delicious, crunchy and soft!

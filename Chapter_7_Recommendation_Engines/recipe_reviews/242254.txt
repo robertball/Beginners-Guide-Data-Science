@@ -1,0 +1,107 @@
+Recipe number:
+242254.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-26T19:18:41.367
+helpfulCount:
+11
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+765
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very tasty soup and my first time trying an Iraqi Kurdish soup. I loved the lemon garlic flavor combined with the Swiss chard. It's easy to make, and super healthy! You don't have to feel guilty about eating 2 servings. :)  I made it exactly as written (with the exception of only using 1tsp of sugar instead of 1tbsp) and ended up cooking mine for about 20-25 mins, but this will depend on how big or small you cut your veggies.  For the 9 tbsp of lemon juice, I ended up  using 3.5 lemons.   NOTE: I noticed when the first review (2 star) was left, the recipe also had an error in it, asking for only 1 1/4 cups of water. Yes, this would cause the soup to be way too lemony. (I emailed allrecipes about the error). I made it the correct way using 6 1/3 cups of water (per submitter's personal recipe) and the flavors are very well-balanced, with a nice lemony tang. Perfect! Thank you Linda for sharing your recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-05T02:18:12.313
+helpfulCount:
+2
+userID:
+7213357
+Display Name:
+Yolie Wintheiser
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2037794.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added small red and yellow potatoes and did not discard the stalks but added them in.
+Review:
+Rating:
+2
+dateLastModified:
+2015-05-25T13:00:40.847
+helpfulCount:
+0
+userID:
+3874005
+Display Name:
+Mary Bowman-Kruhm
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+345
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3790638.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way too lemony for me. I added vegetable broth to cut the lemon but won't make again.

@@ -1,0 +1,37 @@
+Recipe number:
+278161.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-28T16:01:33.58
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5748
+followingCount:
+0
+madeRecipesCount:
+2801
+favoritesCount:
+5996
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.28.20  The taste is very good, but the mousse texture not so much.  A mousse is supposed to be very creamy, but unfortunately, the texture on this is grainy resulting from undissolved sugar, and thick, almost fudgy.  If that’s not important to you, go for it, because the taste definitely is decadent chocolate deliciousness!  Served with a dollop of whipped cream and grated chocolate.  Thanks for sharing your recipe.

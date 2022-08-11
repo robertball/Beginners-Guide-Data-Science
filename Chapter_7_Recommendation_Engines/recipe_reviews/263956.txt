@@ -1,0 +1,109 @@
+Recipe number:
+263956.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-17T01:48:51.38
+helpfulCount:
+0
+userID:
+11078465
+Display Name:
+Judi Cottrell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+597
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+the chicken was very tender.   I cooked the pasta while the chicken cooked  since we were in a hurry and served it as a side dish.  Very good!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-09T15:46:36.543
+helpfulCount:
+0
+userID:
+8521136
+Display Name:
+Rich
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used boneless chicken thighs and the family loved it, but I did have a problem with the rice mode option on my Instant Pot.  It did not allow me to adjust the timer to be less than a default of 14 minutes.  As a result, the chicken got a little burned on the bottom of the pot. Lost about 1/2 a thigh worth of meat from it being stuck and was a pain to cleanout.  
+
+I made it a 2nd time using my dutch oven and the results were as tasty, but the pasta needed an extra cup of broth.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-29T23:39:30.54
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+700
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used 4 bone-in chicken thighs since that is what I had on hand. This worked just fine. I did have trouble with my pasta at 3 minutes on the rice setting. I let it come back up to pressure and left it for another 3 minutes. I am sure each Instant Pot is different. The flavors were great! I served with some fresh tomatoes on the side and some added them in. It is a very filling meal with a wonderful pesto flavor!

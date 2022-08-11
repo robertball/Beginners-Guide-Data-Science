@@ -1,0 +1,72 @@
+Recipe number:
+232835.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-01T05:55:26.037
+helpfulCount:
+4
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used to own a baking/candy supply store and these were one of our biggest sellers! I like to put some m&m's or other small candies in the bottom of the cone before putting the marshmallow in...the kids LOVE these! :)
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-17T22:10:02.577
+helpfulCount:
+0
+userID:
+25438677
+Display Name:
+JL NotHere
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+156
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7279437.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were really fun to make. I found using chocolate wafers instead of chocolate chips. I also softened Mimi marshmallows so they clumped and made a more soft serve ice cream shape. I also used colored wafers to create a colored dip cone look

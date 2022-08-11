@@ -1,0 +1,37 @@
+Recipe number:
+246698.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-04T07:04:18.983
+helpfulCount:
+1
+userID:
+2818138
+Display Name:
+tena11
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I always stick to the recipe I'm reading, or else it's NOT that recipe a'tall. This was soo bloody good.  I'm British, & yes, I CAN cook & bake, & Chicken hearts are a favorite of mine. This recipe was excellent. Thank you ever soo much. Gracias! Cheers From N.V.

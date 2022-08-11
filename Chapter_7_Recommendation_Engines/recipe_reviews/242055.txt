@@ -1,0 +1,37 @@
+Recipe number:
+242055.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-07T23:52:33.897
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a five star breakfast cereal. A couple of things stand out about method though. I suggest grinding the rice before doing anything. I used coconut oil instead of butter. If you want a quick breakfast, make this the night before, because it takes a while to make and tastes wonderful reheated adding a bit more coconut milk when reheating. Thank you for the recipe.

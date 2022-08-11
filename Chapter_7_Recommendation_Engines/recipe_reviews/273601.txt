@@ -1,0 +1,72 @@
+Recipe number:
+273601.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-10T18:44:38.68
+helpfulCount:
+0
+userID:
+21758123
+Display Name:
+Frankie Fowler Leftwich
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best bread pudding I've ever made!!  I did not use the cheese and also I didn't cook it until a tooth pick came out clean.  I think it settles down once it is cooled.  I probably cooked it too long until I realized the toothpick was never going to come out clean and it doesn't need to.  The 35 minutes is enough time whether the toothpick is still smeared  or not.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-07T01:59:45.867
+helpfulCount:
+0
+userID:
+25671598
+Display Name:
+Regina Martinez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6711735.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definately make again and no changes!

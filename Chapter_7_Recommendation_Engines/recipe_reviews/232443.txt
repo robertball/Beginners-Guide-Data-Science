@@ -1,0 +1,119 @@
+Recipe number:
+232443.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-28T19:52:33.37
+helpfulCount:
+2
+userID:
+7355368
+Display Name:
+Ashley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good Guac! My husband said it was the best he has ever had. 
+
+Here are the adjustments I made to the recipe however: 
+
+Only 1 10 oz basket of cherry tomatoes (this was plenty)
+1/2 teaspoon of cayenne (I usually do a 3 spice level on a 1-5 scale and this was perfect)
+add 2 Tbs fresh cilantro
+
+Next time I'll do: 1/2 of a (SMALL) onion or 1/3 of a large
+I may also only juice 1 1/2 lime as I like a thicker guac
+
+Flavor was awesome!
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-03T13:08:18.973
+helpfulCount:
+0
+userID:
+10555803
+Display Name:
+cprocaccini
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and easy!
+Keeps well in the fridge.
+Review:
+Rating:
+5
+dateLastModified:
+2013-05-08T10:43:49.29
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6898
+followingCount:
+0
+madeRecipesCount:
+2653
+favoritesCount:
+3308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, classic guacamole! I halved the recipe, and used a bit less tomatoes (also did not use optional cayenne)...great flavor~YUM! Thanks for sharing. :)

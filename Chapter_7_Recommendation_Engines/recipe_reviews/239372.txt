@@ -1,0 +1,107 @@
+Recipe number:
+239372.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-08T15:19:03.803
+helpfulCount:
+2
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1593
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This had an interesting taste I kept going back for (I couldn't decide if I loved, or hated, the basil), but the consistency is a bit gluey and it's not visually appealing.  You may have a hard time convincing picky eaters to give this one a try.  It was super simple to throw together, though I do NOT recommend my tweaks (which I'll share to save others:  I increased the salt to TWO tsps....way too much and I subbed 1/2 tsp white pepper and 1/4ish+ tsp crushed red for the black because I hate black pepper...a bit too much heat)...fear not, my review is NOT based on my tweaks.  It's definitely worth giving a try for a quick weeknight dinner on a chilly fall day.  THANKS for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-08T23:16:57.067
+helpfulCount:
+0
+userID:
+15559425
+Display Name:
+Ryno's mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't normally have frozen onion on hand, so I chopped up a fresh onion.  Simple and tasty
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-12T22:49:49.637
+helpfulCount:
+0
+userID:
+16893269
+Display Name:
+Vicki Webb
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is such an easy and tasty soup. With no fake condensed soup starter. The only thing I changed was to use dill weed instead of oregano. But that's just my personal preference. It was delicious!

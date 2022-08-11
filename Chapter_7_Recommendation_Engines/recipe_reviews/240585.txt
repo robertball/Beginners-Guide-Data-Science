@@ -1,0 +1,37 @@
+Recipe number:
+240585.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-29T19:32:17.543
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used leftover smoked chicken so I skipped steps 1&2. Because I didn't  have the reserved water I used boxed chicken stock in its place.  Due to the pie taking an hour to bake, I think leftover seasoned chicken or a rotisserie chicken is a time saver here. What I liked best about this recipe is how you could use whatever veggie you had on hand. My potatoes, carrots, and onions were fresh but I was able to use frozen corn and lima beans from the freezer. I was afraid the fresh veggies would be hard and the frozen would turn to mush but they all turned out just right.  This was my first time cooking a pot pie and it did not disappoint!

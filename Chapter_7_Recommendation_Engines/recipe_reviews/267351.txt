@@ -1,0 +1,108 @@
+Recipe number:
+267351.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-04T00:52:27.007
+helpfulCount:
+1
+userID:
+14010679
+Display Name:
+Maureen Seel
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1308737.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did make a little change with the milk. I only had vanilla almond milk in the house. I substituted the milk with half water, half almond milk. Before I popped them in the oven, I brushed the top with melted butter. I can see how an herb or garlic butter would also be good.
+Quite possibly the most delicious and fluffy yummy rolls I've ever made. Will definitely make again.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-20T12:47:00.053
+helpfulCount:
+0
+userID:
+26194784
+Display Name:
+Nannie Davis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this bread ?? and I have used it for rolls and also bread the only change Is depending on air temperatures and  maybe me flour I’ve added a little bit more water up to a 1/4/cup .love the bread really nice flavour ????????
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-08T13:30:08.127
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2215
+favoritesCount:
+2558
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No bells and whistles, a simple white bread roll.

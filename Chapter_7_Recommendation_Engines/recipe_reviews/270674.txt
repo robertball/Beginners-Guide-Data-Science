@@ -1,0 +1,37 @@
+Recipe number:
+270674.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-07T18:45:01.88
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+586
+followingCount:
+0
+madeRecipesCount:
+2210
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! Not too sweet and just perfect with a cup of coffee. I used two teaspoons of instant coffee along with a handful of semi-sweet chocolate chips that I wanted to use up.  I also added some chopped almonds.  I didn't bother with the oiled foil, I simply shaped the dough on the cookie sheet like I usually do for biscotti.  They were a hit.

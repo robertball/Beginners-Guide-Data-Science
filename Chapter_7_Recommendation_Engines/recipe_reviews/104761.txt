@@ -1,0 +1,72 @@
+Recipe number:
+104761.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-03-03T14:29:32.103
+helpfulCount:
+11
+userID:
+3131916
+Display Name:
+foodie94
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/363431.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family makes this recipe for holidays & they love it.  I don't care for the cream of mushroom taste so I made it w/ all half & half.  Everyone loves it even more now.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-31T16:17:27.273
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great tasting dip! The anchovy was a little strong tasting and I will use half next time. Will make again and the possibilities for dipping items is endless.

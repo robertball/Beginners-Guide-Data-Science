@@ -1,0 +1,37 @@
+Recipe number:
+64119378.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-12-03T03:26:30.237
+helpfulCount:
+0
+userID:
+6412992
+Display Name:
+HurdBird
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+766
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/595315.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It came together like a pancake well enough, but had no flavor.

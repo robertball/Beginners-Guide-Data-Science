@@ -1,0 +1,37 @@
+Recipe number:
+236724.txt
+Review:
+Rating:
+2
+dateLastModified:
+2020-01-17T02:42:32.357
+helpfulCount:
+0
+userID:
+26147824
+Display Name:
+Don Helms
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7052350.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is full of sugars/carbs. Dried fruit, maple syrup, and brown sugar make this a sweet treat.

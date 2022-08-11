@@ -1,0 +1,72 @@
+Recipe number:
+240283.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-18T18:01:28.59
+helpfulCount:
+0
+userID:
+5763549
+Display Name:
+Victoria Ashby
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5076931.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added a bit more sugar, lemon zest and vanilla extract
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-29T16:16:37.91
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this. I was taking this to a church potluck so I baked into mini muffins so it would be less mess and easier to handle. This recipe is not sweet. not at all. I personally liked it but I thought it would go over better with a little orange glaze on top. That added a little more sweetness . I liked the texture with the cornmeal  but I think some nuts would be awesome in this

@@ -1,0 +1,37 @@
+Recipe number:
+41511.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-09-18T11:16:36.937
+helpfulCount:
+0
+userID:
+891430
+Display Name:
+DEBGMAC
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Towards the last ten minutes of baking, I sprinked a chopped apple (with some lemon juice for preserving) on top of the Cinnamon Sledges and added more cinnamon.  It was delicious.  Thanks for the recipe.

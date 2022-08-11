@@ -1,0 +1,72 @@
+Recipe number:
+273001.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-18T18:33:51.26
+helpfulCount:
+1
+userID:
+26896004
+Display Name:
+Judith Goss
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7626770.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make recipe, fluffy and delicious. I was skeptical about 2 Tbs of lemon juice and I was right. They are a bit 'lemony' IMO, for cream horns. They are delicious, but I love lemon. I'll cut back on the lemon juice next time and maybe a bit more sugar. Yes, they are way less sweet than the store versions.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-10T02:57:34.28
+helpfulCount:
+0
+userID:
+11934105
+Display Name:
+mickeyshell99
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+757
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and tastes great!  I made 12 horns and doubled the filling recipe and have enough filling for a dozen or two more!  Will get more pastry dough tomorrow!!

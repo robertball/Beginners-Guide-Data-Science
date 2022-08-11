@@ -1,0 +1,37 @@
+Recipe number:
+164689.txt
+Review:
+Rating:
+1
+dateLastModified:
+2008-07-08T10:02:47.82
+helpfulCount:
+1
+userID:
+2473220
+Display Name:
+shan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am giving this one star, because my polenta did not turn out at all.  It was very watery.  I re-read the directions and I followed them to the T.  I don't think I will try this again.  However, the bean salsa was great!

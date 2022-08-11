@@ -1,0 +1,37 @@
+Recipe number:
+276824.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-17T23:36:16.79
+helpfulCount:
+1
+userID:
+6739227
+Display Name:
+tlkonczal
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/605737.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was great and easy!  I think the recipe as is would be great, but I did add a couple extras.  I chopped a half of a shallot and cooked with the green onion and garlic and I also added about 1 tbsp of hot pepper paste to the sauce mix to add a little heat.  Definitely making this again and often.

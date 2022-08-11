@@ -1,0 +1,37 @@
+Recipe number:
+269572.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-20T22:27:46.533
+helpfulCount:
+3
+userID:
+1780598
+Display Name:
+mukaikubo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+166
+favoritesCount:
+803
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Big fan of overnight oats and always looking for new flavor combos to try. This one was great, the ingredients are spot on for good texture and flavor. I used raspberry jam because that's what I had

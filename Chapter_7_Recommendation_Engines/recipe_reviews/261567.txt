@@ -1,0 +1,72 @@
+Recipe number:
+261567.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-08T21:43:56.227
+helpfulCount:
+1
+userID:
+7069517
+Display Name:
+Phyllis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great. Willmake again.
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-02T15:46:24.9
+helpfulCount:
+0
+userID:
+13325328
+Display Name:
+Charlene Sessions Kandl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7680642.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used Italian flavored breadcrumbs

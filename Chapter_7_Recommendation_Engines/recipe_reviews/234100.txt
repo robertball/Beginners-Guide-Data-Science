@@ -1,0 +1,260 @@
+Recipe number:
+234100.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-13T04:28:57.67
+helpfulCount:
+1
+userID:
+4077092
+Display Name:
+Kristen Niebling Rosado
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+79
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3896846.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! My family all loved it! Will keep in my rotation for sure. I doubled the recipe but used one can of coconut milk only... all I had at home. I also added extra tortellini, a whole pint of mushrooms and a 1/2 tsp of cayenne. With the extra tortellini, it could use more broth, so I'll add more vegetable stock next time. Can't wait to make this again. Great recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-06T09:45:37.583
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.6.16   Made exactly as written and then added more curry powder and jalapeños to suit our tastes.  You definitely will need the salt and pepper, as it really brings out the soup's flavor.  This is a very mellow/mild soup with interesting layers of flavor.  Garnished with some chopped cilantro and served with some fresh cantaloupe  for a nice lunch.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-18T18:06:38.307
+helpfulCount:
+0
+userID:
+6033626
+Display Name:
+mernlyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+812
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really delicious!  First time, I followed the recipe exactly, and it was wonderful.  Second time, I made a few adjustments based on our own tastes and the ingredients I had on hand:  Used chicken stock instead of vegetable,  sauteed about 1/2 lb of mushrooms, two fresh jalapenos, and 1 cup sweet onions in the butter, added 1 tsp. garam masala along with the curry powder, used crushed tomatoes instead of fresh, and added chopped fresh spinach when adding the tortellini.  This soup can take many adjustments, based on your own stash, but it is terrific just as written.  We'll enjoy this one often.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-18T22:20:23.413
+helpfulCount:
+0
+userID:
+18054834
+Display Name:
+Chef_Acceber
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I only used 1can of coconut milk and added tomato for a little color. Delicious and definitely making again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-14T00:48:46.507
+helpfulCount:
+0
+userID:
+2779113
+Display Name:
+andrachel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+209
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I normally don't alter recipes so much, but I was looking for something a little different when I ran into this recipe.  I make a curry stew that's similar to this, so I decided to leave the coconut milk & tomatoes out due to the similarity of the stew recipe I use.  I'm not a fan of spicy, so I left out hte jalapeno pepper slices out.  I added mushrooms since I had them on hand.  I realize this ended up being a different style dish, but I was looking for inspiration for a curry dumpling soup I had recently and the coconut milk would have changed the whole thing for me.  This was so delicious.  Thank you for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-13T23:17:22.683
+helpfulCount:
+0
+userID:
+22253037
+Display Name:
+LeeLee79
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+531
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7218196.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was a fantastic recipe! I doubled it so I could share with my neighbors. I did not have shallots or jalapenos so I substituted those for minced onion and sriracha/black pepper blend. I also used chicken broth instead of vegetable broth. I ended up putting in an extra tablespoon of curry powder and garam masala seasoning. After adding the tortellini, I added shredded coconut and a dash of shredded Asiago after serving. It had the perfect blend of spicy/sweetness I was looking for. Thanks so much for this recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-13T02:07:05.76
+helpfulCount:
+0
+userID:
+21273275
+Display Name:
+Rachelle Beaulieu
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So glad I found this recipe - it's been a -40 Celsius day today in Manitoba and the boyfriend had a cold. This hit the spot!
+
+Variations I did:
+
+- Used Earth Balance Soy Free Margarine in place of butter
+- Added 1 package of sliced mushrooms at the stage with the shallots
+- Added 2 TBSP of curry powder instead of 1
+- Added less than a TSP of cayenne powder along with curry powder
+- Added 1 TBSP of flour to help thicken the soup (added this at time of adding curry powder and cayenne powder - just make sure to stir well to get it all mixed with the shallots and mushrooms)
+- Added 1 package of baby kale to pot after coconut milk was added
+- Added canned tomatoes instead of fresh (after baby kale had wilted down)
+
+Delicious, hearty and will be making this regularly! 
+Thank you for the recipe!

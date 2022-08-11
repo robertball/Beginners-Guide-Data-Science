@@ -1,0 +1,107 @@
+Recipe number:
+235887.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-02T04:08:59.38
+helpfulCount:
+3
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used my own homemade irish cream in this recipe and whipped cream vodka. I made no other changes. VERY sweet but unbelievably delicious........and POTENT. Next time I make this, I may try to cut the sweetness a bit and use regular plain vodka.
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-16T05:22:45.94
+helpfulCount:
+1
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+521
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2074
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very sweet but wasn't very reminiscent of gingerbread. I think I would be more inclined to serve it on the rocks or in coffee to cut the sweetness a bit. Thanks so much for sharing.
+Review:
+Rating:
+3
+dateLastModified:
+2015-12-25T07:50:06.49
+helpfulCount:
+0
+userID:
+10828981
+Display Name:
+Chris Grams
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+152
+favoritesCount:
+492
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If I make this again, use less cinnamon.

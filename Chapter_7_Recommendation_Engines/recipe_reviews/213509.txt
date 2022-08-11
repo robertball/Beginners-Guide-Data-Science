@@ -1,0 +1,37 @@
+Recipe number:
+213509.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-06-25T10:34:48.38
+helpfulCount:
+6
+userID:
+1197175
+Display Name:
+~TxCin~ILove2Ck
+isPro:
+False
+followersCount:
+332
+followingCount:
+0
+madeRecipesCount:
+1988
+favoritesCount:
+8958
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198040.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this burger. It was a little sweet. I used beef consomme instead of broth. I left mine off the bun and it was great all by itself. I don't think my husband would like this one though as it is a bit sweet and has soy and ginger. All of which I love, all of which he doesn't.  Thanks Campbell's!

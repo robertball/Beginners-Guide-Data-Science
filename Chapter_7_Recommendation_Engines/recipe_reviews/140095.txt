@@ -1,0 +1,107 @@
+Recipe number:
+140095.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-01-01T10:34:21.07
+helpfulCount:
+26
+userID:
+4655824
+Display Name:
+melyssa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+584
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was ok, but I didn't like the tarragon flavor with it, and think it might be better with something else other than beef broth, kind of a strange combo of ingredients, didn't hate it and didn't love it.  I don't think I will make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2012-07-12T15:21:14.127
+helpfulCount:
+2
+userID:
+6934471
+Display Name:
+Juli Lanzotti Yelnick
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2322208.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Found this recipe to get rid of some evap milk, then ended up using half and half instead. Oh well. Liked the soup after some modifications--No mushrooms. Used tops of green onions, too. Sub out Tarragon and instead used cayenne pepper and celery seed. Stir in 1/2 cup mozzarella in final step. Top with shredded asiago cheese.
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-31T03:30:16.293
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Interesting ingredients! I'm thinking you can add any veggies and this would be good. I had to add a cup of chicken broth to this to thin it out a bit. I used red Quinoa because that's what was on sale. Will make again!

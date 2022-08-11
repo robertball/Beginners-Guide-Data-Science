@@ -1,0 +1,37 @@
+Recipe number:
+41645.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-11-29T16:55:48.733
+helpfulCount:
+2
+userID:
+1241884
+Display Name:
+Duckball
+isPro:
+False
+followersCount:
+32
+followingCount:
+0
+madeRecipesCount:
+409
+favoritesCount:
+1116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/678436.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick, simple, and can be changed to suit personal taste or to include something you want to feed the kids! I used one can of garbanzo beans instead of kidney beans, one can of diced tomatoes, and approximately 1 tsp of Tex-Mex chili seasoning. Next time, I might try using salsa, corn and black beans, and maybe some grated cheddar. Yum!

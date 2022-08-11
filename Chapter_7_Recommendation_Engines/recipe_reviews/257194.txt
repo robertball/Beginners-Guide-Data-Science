@@ -1,0 +1,107 @@
+Recipe number:
+257194.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-01-13T18:45:53.383
+helpfulCount:
+2
+userID:
+24938048
+Display Name:
+JMS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6257606.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe as written.  It was bitter and had a cake like texture rather than a fudgy brownie texture.  My suggestion would be to try using vegan cane sugar rather than coconut sugar and tasting for sweetness before baking.  I will not make again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-12T03:00:35.68
+helpfulCount:
+1
+userID:
+23155371
+Display Name:
+Jack Rock
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4994337.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great texture and taste.
+Review:
+Rating:
+2
+dateLastModified:
+2019-03-03T16:18:23.713
+helpfulCount:
+0
+userID:
+24706649
+Display Name:
+Glory McKenzie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6092754.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this turned out  terrible didnt even cook together like brownies.  Guess we cn serve it in bowls  with spoons

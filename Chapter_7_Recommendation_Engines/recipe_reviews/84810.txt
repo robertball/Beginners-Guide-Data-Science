@@ -1,0 +1,37 @@
+Recipe number:
+84810.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-04-02T09:59:40.03
+helpfulCount:
+5
+userID:
+802795
+Display Name:
+Chelsey Wolnowski
+isPro:
+False
+followersCount:
+39
+followingCount:
+0
+madeRecipesCount:
+803
+favoritesCount:
+768
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4367.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made this sushi one afternoon when we were experimenting with different filling combinations. We did not put the wasabi right in the rolls, because not everyone likes it. Instead, we just mixed up the past and had it on the side. We used smoked salmon, toasted sesame seeds, thinly sliced green onion, and thinly sliced green peppers for the filling. Oh, and we put sushi mayo in some of the rolls, just to see if we liked it or not. Both were very good!

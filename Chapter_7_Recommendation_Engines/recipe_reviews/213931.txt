@@ -1,0 +1,32 @@
+Recipe number:
+213931.txt
+Review:
+Rating:
+5
+dateLastModified:
+07/12/2010
+helpfulCount:
+3
+userID:
+3574351
+Display Name:
+Janet Shum
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2382399.jpg
+text:
+We really enjoyed these burgers. The flavor was great and they were very easy to make. Very flavorful even without the salt. Thanks, I will use this recipe again!
+Review:
+Rating:
+5
+dateLastModified:
+01/14/2012
+helpfulCount:
+1
+userID:
+1854765
+Display Name:
+Barb
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/226851.jpg
+text:
+Love this recipe. Easy and delicious.

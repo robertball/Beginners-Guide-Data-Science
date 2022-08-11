@@ -1,0 +1,72 @@
+Recipe number:
+244306.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-25T13:56:45.117
+helpfulCount:
+1
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used the right ingredients, but mine were fresh except for the tomatoes.  I sauteed the onions and potatoes together, so when the other ingredients were added, everything only cooked a few more minutes.  My chocolate mint really came out in this, and I loved it!  DH didn't notice there was mint in the dish!  Great idea!
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-23T15:46:15.93
+helpfulCount:
+0
+userID:
+14126570
+Display Name:
+Alexis Ballash
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+88
+favoritesCount:
+305
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6031959.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tomatoe paste.

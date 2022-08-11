@@ -1,0 +1,37 @@
+Recipe number:
+277318.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-12T00:42:09.92
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe as is and it was perfect! Perfect for a chilly night and it fills up my household of hungry guys! Thanks for a great recipe!

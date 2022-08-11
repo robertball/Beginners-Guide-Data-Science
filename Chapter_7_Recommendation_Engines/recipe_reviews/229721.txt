@@ -1,0 +1,72 @@
+Recipe number:
+229721.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-11T10:20:00.523
+helpfulCount:
+0
+userID:
+15495719
+Display Name:
+Ashley Lake
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2139327.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I got the messurements for the instant coffee mixed up, but I made a second serving and just didn't add more coffee, and it's great! Thanks!
+Review:
+Rating:
+3
+dateLastModified:
+2013-02-23T03:48:51.48
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+6009
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor was more “cafe” and less “mocha” so I ended up adding more of the cocoa mix and even a little malted mix to achieve what I was looking for.  Could just be a taste preference on my part or what flavors you're really looking for, but this didn’t work for me and I have several similar mixes that suit me better.  Thanks bdelightful for sharing your recipe.

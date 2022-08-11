@@ -1,0 +1,72 @@
+Recipe number:
+241012.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-05T10:45:54.647
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! I had this for lunch today and it was super simple to put together and very tasty! I would've never thought to make a vinaigrette using avocado, but it's a GREAT idea. I did cut the recipe down, but that was my only change. I would make this refreshing salad again! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-16T18:20:58.73
+helpfulCount:
+0
+userID:
+7664836
+Display Name:
+Jennifer S.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4453714.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! Nice flavour with the lime and avocado. Kids even liked it!

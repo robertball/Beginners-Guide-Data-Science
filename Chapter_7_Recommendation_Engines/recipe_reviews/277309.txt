@@ -1,0 +1,72 @@
+Recipe number:
+277309.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-13T17:13:32.277
+helpfulCount:
+0
+userID:
+6031928
+Display Name:
+Irene Krause
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+238
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this easy recipe will make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-06T18:57:28.04
+helpfulCount:
+0
+userID:
+22936987
+Display Name:
+Suzette Either
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4683568.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will make it again! No changes!! Yum!

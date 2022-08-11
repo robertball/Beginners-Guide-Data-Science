@@ -1,0 +1,72 @@
+Recipe number:
+268559.txt
+Review:
+Rating:
+2
+dateLastModified:
+2020-01-20T14:30:16.65
+helpfulCount:
+0
+userID:
+6878166
+Display Name:
+Spunky Buddy
+isPro:
+False
+followersCount:
+141
+followingCount:
+0
+madeRecipesCount:
+94
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/622031.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1-19-2020 Easy to make and oh so good.  Made as outlined, using petrale sole from Pike Place Fish Market in Seattle.  Added capers to butter before placing sauce over sole.  Great addition.  Used butter versus coconut oil. Suggest this as the way to go.  Credit must be given to Molly Wizenberg at Epicurious.  With the exception of coconut oil rather than vegetable or canola oil, this is the Epicurious recipe, verbatim. I can only rate “this” recipe two stars  because of that.  If prepared as the Epicurious recipe it really is, absolutely a five star recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-01T23:34:02.79
+helpfulCount:
+0
+userID:
+8442870
+Display Name:
+Jessie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this dish with frozen fillets.  The fillets were very thin so I cooked them only 2 min. on each side.  I then proceeded to make the butter "sauce".  The butter turned brown very quickly and then the bits of flour/fish left in the pan burned.  I had to fish (no pun intended) out the burned bits before I poured the sauce over the fish.  It would have been easier just to melt the additional butter/parsley/lemon in the microwave and pour it over the fish.

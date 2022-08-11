@@ -1,0 +1,72 @@
+Recipe number:
+236965.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-26T10:13:43.793
+helpfulCount:
+2
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12226
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have had this recipe saved in my RB for a long time.  I am so glad I made it, very good!  Don't get discouraged if your first 'crepe' is a disaster, that happens to me every time I make crepes.  I did find that using cooking spray to coat the pan worked a lot better than oil.  Also 1/4 cup batter was just right for a 12" non-stick skillet.  Pour in the batter and swirl the pan to spread it over the entire surface.  These are light, airy crepes that appear to be very delicate but if cooked thoroughly on the first side actually are not hard to flip over at all.  Enjoy!
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-16T14:08:39.8
+helpfulCount:
+1
+userID:
+5667294
+Display Name:
+stxchris
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We make a similar "pannycake", the recipe being my Polish Mom's.  Pretty much the same, but what we do is we separate the whites from four of the eggs, and beat them into peaks, folding them in gently just before putting them on the pan.  The end result is a rather thin, but fluffier pannycake (her word!).  They are a Christmas Eve tradition, spread butter, sprinkle sugar, roll into a log and there you go!  Make them more than just Christmas, and always a treat.

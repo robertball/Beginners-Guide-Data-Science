@@ -1,0 +1,37 @@
+Recipe number:
+272956.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-05-02T19:00:00.673
+helpfulCount:
+6
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+1987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies didn't work too well for me. There was too much honey in them, which really overpowered the other flavors. There's also no binding agent--such as flour, eggs, or even flax meal--in which to hold everything together. So the end result was more like a loose granola than a cookie. It took a lot of smashing the ingredients together to get them to hold shape. With all that being said, I think these cookies have potential. The chocolate/tahini/sunflower seed flavor is amazing, and if you tone down the honey a bit, it would shine through so much more! With a few tweaks, I think this could be a winner. As-is though? It just doesn't really work.

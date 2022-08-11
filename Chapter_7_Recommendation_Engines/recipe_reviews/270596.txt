@@ -1,0 +1,72 @@
+Recipe number:
+270596.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-21T16:07:43.37
+helpfulCount:
+0
+userID:
+12065385
+Display Name:
+Bonnie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+620
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think this was very good.  I made it as written and will do so again, perhaps trying some different and additional vegetables.  I could not find the dried red chile so I used some garlic chili paste, which works as long as you are careful as it's very hot.
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-20T12:49:42.113
+helpfulCount:
+0
+userID:
+9050918
+Display Name:
+Jacques Dubreuil
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3745123.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Instead of cornstarch and want it to be authentic and better tasting you should use tapioca powder. All in all though great recipe well done!

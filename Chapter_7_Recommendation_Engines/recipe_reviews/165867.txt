@@ -1,0 +1,72 @@
+Recipe number:
+165867.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-06-29T16:38:21.377
+helpfulCount:
+1
+userID:
+936896
+Display Name:
+Chari Campbell
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+284
+favoritesCount:
+2289
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4318872.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice.  Couldn't have been any easier. Love that it doesn't have all that 'junk' like bottled salad dressings.
+Review:
+Rating:
+5
+dateLastModified:
+2008-06-22T10:40:34.507
+helpfulCount:
+0
+userID:
+671412
+Display Name:
+MILWAUKEEAVIS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2549.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Really quick and easy!  I have made this several times and varied the herbs and seasonings at my whim.  It is excellent as printed, although I prefer slightly less vinegar, maybe 1 1/2 teaspoons.  Another time I added fresh dill, freshly chopped garlic, and fresh snipped parsley along with the basic sour cream, mayo, milk, and vinegar recipe.  This is a nice basic creamy dressing recipe.

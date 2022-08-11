@@ -1,0 +1,37 @@
+Recipe number:
+242445.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T22:21:14.787
+helpfulCount:
+0
+userID:
+22095797
+Display Name:
+aiken4bacon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I doubled the amount of jalapenos and it was perfect!!

@@ -1,0 +1,72 @@
+Recipe number:
+34631.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-12-23T13:12:44.827
+helpfulCount:
+7
+userID:
+537944
+Display Name:
+Bonnie Versoza
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+250
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1965822.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everything is so ready avalable now days it is really great
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-05T09:57:13.867
+helpfulCount:
+1
+userID:
+7633772
+Display Name:
+Gypsy Thomas
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6386197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick and easy. I had all the ingredients already when I was suddenly craving some Asian style soup to make me feel better today. The only thing I added for my personal taste was about 1 tablespoon of brown sugar. Other than that, I would not change a single thing about this great recipe.

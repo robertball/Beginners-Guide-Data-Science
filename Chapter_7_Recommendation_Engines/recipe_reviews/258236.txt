@@ -1,0 +1,37 @@
+Recipe number:
+258236.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-19T17:02:16.547
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice, refreshing drink. I preferred straining out the pulp. I had a 12 oz peach green tea. I used half of a big watermelon and added about 1 cup of water. It almost filled a 2 quart pitcher.

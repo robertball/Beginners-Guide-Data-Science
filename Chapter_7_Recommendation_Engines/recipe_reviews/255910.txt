@@ -1,0 +1,72 @@
+Recipe number:
+255910.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-08T18:14:45.223
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was unable to find the fresh chile's but did find them dried. The dried ones didn't have a lot of heat to them after they were reconstituted so I ended up adding crushed red pepper flakes. This was a good recipe but next time I will use apple cider vinegar instead. This was super easy though and one that can be customized to suit your tastes. Oh and use Mexican oregano if you have it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-23T01:37:21.99
+helpfulCount:
+0
+userID:
+16321784
+Display Name:
+Karen-Eve Pfotzer
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2577361.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used red peper flakes and it was a bit too hot so I added 1 tbl of sugar. DELICIOUS!!

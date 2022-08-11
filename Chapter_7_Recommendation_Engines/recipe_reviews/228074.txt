@@ -1,0 +1,47 @@
+Recipe number:
+228074.txt
+Review:
+Rating:
+5
+dateLastModified:
+02/24/2013
+helpfulCount:
+1
+userID:
+arizonadesertflower
+Display Name:
+Arizona Desert Flower
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2409559.jpg
+text:
+LOVED IT! Had some cut bell pepper so added it just because.
+Review:
+Rating:
+5
+dateLastModified:
+07/18/2018
+helpfulCount:
+0
+userID:
+10622729
+Display Name:
+Lisakay
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5738504.jpg
+text:
+So good!! Thanks for sharing.
+Review:
+Rating:
+2
+dateLastModified:
+08/20/2019
+helpfulCount:
+0
+userID:
+25965329
+Display Name:
+Lucy
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+How about a dressing for this recipe?

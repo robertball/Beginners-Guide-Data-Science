@@ -1,0 +1,37 @@
+Recipe number:
+259240.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-19T15:14:37.853
+helpfulCount:
+0
+userID:
+13865244
+Display Name:
+Mom
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1224094.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Light and fresh!  I'm done with just lettuce and spinach salads!

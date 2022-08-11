@@ -1,0 +1,111 @@
+Recipe number:
+216565.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-06T09:39:34.783
+helpfulCount:
+18
+userID:
+8249426
+Display Name:
+Frugalmommy
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+118
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/746999.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We have had this pie for Easter for years in our family. Your recipe tasted exactly like my nanas
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-15T07:38:28.253
+helpfulCount:
+13
+userID:
+2140973
+Display Name:
+Pattie Loia Costa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5659500.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is so wonderful to see this very traditional and very diverse recipe shared here.  I have taken on the tradition of making this pie every year for Easter with my family.
+We use different meats than this recipe but this "meat pie" is different with every single family that still makes it.  It was known as a "poor man's meal" during the depression.  People used whatever they had on hand to make this and it became a very personal recipe.  Every recipe/list of ingredients are different therefore, it is TRULY a FAMILY TRADITION when we make it.
+This Particular version is a wonderful recipe.  Myjo's version is the same as my Grandmother made.  There is nothing greater than to take a bite and feel like you are right back with family members that have since passed on.  It truly is like coming home again.
+In my Mother's version, we use Italian ham (Ham Cappi), American Ham, Pepperoni and Salami instead of the sausage.  As I said, there are many different versions of this pie, but of all that I have tasted, I have never found one that I didn't like.  Thank you Myjo for sharing such a tradition with all of us.
+P.S., the cracked black pepper does make the difference!  We use it also.
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-03T11:02:17.757
+helpfulCount:
+4
+userID:
+2147712
+Display Name:
+Jenlynn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just like grandma used t make.  Changed it to 1 lb of fresh bulk sausage and 1 lb of dry sausage chopped.

@@ -1,0 +1,37 @@
+Recipe number:
+12450.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-10-22T04:42:44.167
+helpfulCount:
+4
+userID:
+584266
+Display Name:
+Charles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+606
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+THIS IS A GOOD STARTER RECIPE.  YOU NEED CRUSHED PINEAPPLE ; WHEN THE GELELTIN STARTS TO SET UP USE HAND MIXER & START BEATING, GET IT WHIPPED STIFF.   1/2 CAN OF EVAPORATED MILK PUT IN FREEZER 1 HR. W/ BOWL & BEATERS.  BEAT MILK UNTIL LIGHT STIFF. FOLD INTO GELETIN MIXTURE . BEAT EGG WHITES STIFF ADD 4 TBL SUGAR.  SPREAD ON TOP OF PIE PUT IN OVEN 350* F UNTIL BROWNED REFRIGERATE 6 HRS OR MORE

@@ -1,0 +1,38 @@
+Recipe number:
+245670.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-08T08:21:47.837
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+975
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Finally a gluten free pasta that can be eaten cold. This pasta stays firm to the bite and doesn't disintegrate, turn gummy and mushy after sitting for ten minutes.
+As for this particular recipe, it is quite good. I would suggest reducing the amount of olive oil though. Thank you for the recipe.

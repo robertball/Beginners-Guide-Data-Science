@@ -1,0 +1,37 @@
+Recipe number:
+256083.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-01-27T16:32:35.75
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We are HUGE ham salad fans, but we didn't care for this. I wish I would've went with my instincts and just finely chopped the celery, onions and pickles, b/c  I felt that it gave the ham salad a murky look and made it watery.  The flavor was ok, but by the next day, it had a really strong celery/onion taste, which we did not like. I was glad to try this for something different, but I will not be making this again, sorry.

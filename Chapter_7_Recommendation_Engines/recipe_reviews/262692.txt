@@ -1,0 +1,107 @@
+Recipe number:
+262692.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-11T16:46:58.673
+helpfulCount:
+2
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+1987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would rate this 10 stars if I could! There is nothing about this tart that I don't love--it's absolutely delicious, it's relatively easy to make, and it's beautiful! I used raisins and walnuts in the crust, and baked it in a 9-inch springform for 12 minutes. In the filling, I used plain Greek yogurt that I added a little honey and vanilla extract to. I would recommend creaming the cream cheese until it's completely smooth before adding in the yogurt (to avoid lumps). I also omitted the stevia, since I added honey to the yogurt. I topped it with strawberries, oranges, bananas, kiwis, and blueberries. This tastes kind of cheesecake like; so it's like you're eating something really bad for you, but it's actually pretty good for you! I love it, thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-10T23:04:10.57
+helpfulCount:
+1
+userID:
+328425
+Display Name:
+Julie Miller Smiley
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+80
+favoritesCount:
+369
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with a pretzel crust due to a friend's nut allergy,  and it turned out great.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-12T04:59:28.55
+helpfulCount:
+0
+userID:
+9855654
+Display Name:
+Carol Mitchell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+211
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This got rave reviews from friends, especially one who can't eat any sugar. I used various fruits including kiwis- anything to make a range of colors.

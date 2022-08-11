@@ -1,0 +1,37 @@
+Recipe number:
+259763.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-27T14:21:44.177
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and straight forward just how fajitas and grilling should be. I sliced my chicken prior to going in the marinade instead of after it was grilled. I do that because I like the flavor to run throughout. This is a good summertime grilling recipe.

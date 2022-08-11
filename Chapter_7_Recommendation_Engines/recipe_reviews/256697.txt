@@ -1,0 +1,107 @@
+Recipe number:
+256697.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-10-07T17:01:17.197
+helpfulCount:
+0
+userID:
+17995998
+Display Name:
+Dan Campbell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+99
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3551545.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We love pizza in my house but this is one recipes I'll skip next time.  The flavor combination is not to our liking.  It's not the taste we thought it would be.
+Review:
+Rating:
+3
+dateLastModified:
+2018-10-07T17:01:17.193
+helpfulCount:
+0
+userID:
+17995998
+Display Name:
+Dan Campbell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+99
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3551545.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We love pizza in my house but this is one recipes I'll skip next time.  The flavor combination is not to our liking.  It's not the taste we thought it would be.
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-16T01:00:39.017
+helpfulCount:
+0
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+370
+favoritesCount:
+1313
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sounded like a great way to have a fun twist on a Prime Rib dinner.  We did use a prepared crust and make sure you use a high quality one.  The only substitute I made was Red Peppers for Green ones.  I did use the whole cup of sour cream and prepared horseradish, I would recommend you only use enough to thinly coat the pizza.

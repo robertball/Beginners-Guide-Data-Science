@@ -1,0 +1,72 @@
+Recipe number:
+221159.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-29T07:43:57.88
+helpfulCount:
+3
+userID:
+13990532
+Display Name:
+acglock
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Worth tracking down the authentic ingredients! The taste is sweet, tangy, salty, and spicy! Unique! I salted the rim with black lava salt, but the Sangrita really makes it salty enough. Squirt is unique too... try to find it.
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-22T17:45:50.57
+helpfulCount:
+0
+userID:
+5085411
+Display Name:
+Jose Garcia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1423316.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+fantastic, old family tradition!  sweat and tangy with just enough spice.

@@ -1,0 +1,107 @@
+Recipe number:
+247045.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-05T23:02:43.813
+helpfulCount:
+3
+userID:
+18006055
+Display Name:
+Kathryn Vollmer
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+878
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4034443.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to make & devoured by the whole family!
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-21T21:40:14.813
+helpfulCount:
+2
+userID:
+3338454
+Display Name:
+Cleo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+206
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Did not feel it needed the extra rice. The tortilla was filling enough.  I made it in the sauté mode if the instant pot. Then just let it sit on warm until dinner. 3hrs or so.  I had school so the family had a ready to eat hot dinner.  I will definitely make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-06T23:43:01.37
+helpfulCount:
+1
+userID:
+22138474
+Display Name:
+Ruth Harvey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an amazing recipe. I made jalapeno zucchini boats to go with it, oh my, I  won't go out for fajitas again. I give this one 5 stars!!!

@@ -1,0 +1,107 @@
+Recipe number:
+256784.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-10T02:58:36.84
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! I loved this take on a bean dip using white kidney beans and  salsa verde. The Mc Cormick white chili packet really tied it all together. There is only two of us and I barely had enough to scrape up enough to take to work tomorrow. It was that good! This was spicier than I had anticipated and that is a good thing! If you like it really spicy use pepperjack cheese. This will go over very well for any type of party you are having I promise you. Super simple and 5 stars all the way!
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-16T01:05:34.413
+helpfulCount:
+0
+userID:
+2112806
+Display Name:
+cowgirll
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+1078
+favoritesCount:
+1689
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/28463.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This one is a total keeper. We inahled this so fast. Yum!
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-02T20:22:41.77
+helpfulCount:
+0
+userID:
+17732506
+Display Name:
+Caitlin Kunz
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+29
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3389878.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delightful. We did one jalapeño mixed in and added the second one on the top.

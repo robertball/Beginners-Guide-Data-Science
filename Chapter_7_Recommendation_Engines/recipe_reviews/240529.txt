@@ -1,0 +1,107 @@
+Recipe number:
+240529.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-09T21:13:35.45
+helpfulCount:
+2
+userID:
+12791494
+Display Name:
+leepow55
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added 3 eggs, a 1/2 cup of milk and used a mixture of challah and brioche instead of the Italian bread. Was a hit at a Thanksgiving brunch,
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-23T06:03:23.303
+helpfulCount:
+1
+userID:
+15482061
+Display Name:
+Brenda Champlin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with sweet Italian sausage and it was a huge hit!!  I used sausage as pancetta would have been too expensive, as I made it for 100 people. It was amazing!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-14T16:30:54.353
+helpfulCount:
+0
+userID:
+23330074
+Display Name:
+Rosemarie Siever
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's easy to substitute anything in this. The time required to make it should also list 'overnight' as part of it.

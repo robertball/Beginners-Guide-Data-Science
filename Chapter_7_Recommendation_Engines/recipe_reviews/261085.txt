@@ -1,0 +1,112 @@
+Recipe number:
+261085.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-22T23:37:16.573
+helpfulCount:
+0
+userID:
+22434818
+Display Name:
+Jay H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6153835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Modified to be Gluten Free
+- Rice Panko
+
+Surprised that this didn't have a lot of punch in the flavor department. Everything was good, the GF panko bread crumbs worked out perfectly as a substitute.
+
+Next round we will season the chicken a bit more when cooking.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-09T18:14:54.853
+helpfulCount:
+0
+userID:
+14112138
+Display Name:
+Sharron AndSherrel Johnson
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3281320.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy Peasy. Only addition is that I use an egg to dredge the chicken strips thru first so the cheese and Panko will adhere much better. Delicious
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-19T18:37:21.81
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2291
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe does not specify whether  to use grated or shredded Parmesan (big texture difference). I intended to use grated but realized after it was too late that I was out. I did have shredded though and after using that, I am certain grated is what the recipe submitter is wanting you to use. The flavor was excellent but the coating didn't stay on good.  Good recipe! Thanks for sharing!

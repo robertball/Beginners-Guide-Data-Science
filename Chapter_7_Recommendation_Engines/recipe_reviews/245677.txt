@@ -1,0 +1,72 @@
+Recipe number:
+245677.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-16T09:51:15.14
+helpfulCount:
+0
+userID:
+121851
+Display Name:
+Judy in Delaware
+isPro:
+False
+followersCount:
+70
+followingCount:
+0
+madeRecipesCount:
+144
+favoritesCount:
+993
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3540687.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh, my, this was really good.  I made my prosciutto really crispy, and it added such a nice texture to the dish.  The pasta was terrific, and couldn't tell it was gluten-free!  I also added the arugula at the very end and cooked it until it was barely wilted.  I'll definitely be making this one again.  It's delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-17T16:59:54.65
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1120
+favoritesCount:
+2298
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What's not to love? Fresh, simple ingredients that taste great together. I changed the method just slightly, tossing 2 cloves of garlic on the sheet pan along with the tomatoes and roasted them that way. Once the tomatoes and garlic were roasted, I removed the skins from the tomatoes (I love fresh tomatoes, but dislike the skins in my pasta), and tossed the roasted garlic in the food processor with the basil and cheese. My family thoroughly enjoyed this pasta dish, and I will be making it again.

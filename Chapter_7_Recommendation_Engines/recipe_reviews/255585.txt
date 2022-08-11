@@ -1,0 +1,72 @@
+Recipe number:
+255585.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-19T22:07:40.153
+helpfulCount:
+0
+userID:
+24450670
+Display Name:
+Carly Sees
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5907296.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So good! Thanks for sharing!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-21T03:59:06.397
+helpfulCount:
+0
+userID:
+3949418
+Display Name:
+jerseygirl872
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+211
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I love finding good one-skillet recipes. This is such an easy variation of Italian wedding soup. I used Herb and Butter Rice-a-Roni because it was on sale, and it came out great. But I think I will use the Knorr sides next time, because they cook faster. Thanks for sharing!

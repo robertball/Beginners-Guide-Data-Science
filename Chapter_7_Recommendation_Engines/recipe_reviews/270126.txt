@@ -1,0 +1,107 @@
+Recipe number:
+270126.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-25T03:57:13.64
+helpfulCount:
+1
+userID:
+26574421
+Display Name:
+Lee Maria
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I must admit that I was a little intimidated by this recipe, but I followed it and loved the taste of the rice pudding.  However, I made some alterations.  I LOVE cinnamon in my rice pudding, so I added about 1/2 teaspoon when I added the milk, sugar, and salt. I was not disappointed.  Since my sons and I prefer our rice pudding to be very creamy, I added an additional 1/2 c. of whole milk and and additional 1/2 c. of heavy whipping cream.  Wow, is that decadent!  I think that the recipe as written has great flavor, I just like mine creamier.  Thank you so much for taking the time to submit this recipe!!!
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-23T19:36:44.083
+helpfulCount:
+1
+userID:
+20090073
+Display Name:
+Abby Borders
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7189738.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice to use leftover rice and the Instant Pot, but I feel that this recipe calls for too much rice. Next time I will use only  2 or 2.5 cups of rice instead. The way the recipe is written, the texture leaves much to be desired. I added a sprinkle of nutmeg to each serving along with the cinnamon and it was great.
+Review:
+Rating:
+2
+dateLastModified:
+2020-02-11T05:30:30.357
+helpfulCount:
+0
+userID:
+27007810
+Display Name:
+Judy Craig
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7714207.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this rice pudding and honestly it did not turn out the way I had hoped. It's ok but I added more vanilla, more sugar, raisins, more cinnamon, and extra cream so basically I doubled the ingredients for just 2 cups of cooked rice.  I did not like the yellow colour the yolks gave to it. Sorry I am used to a creamy cinnamon flavoured rice pudding that can be eaten  warm or cold.

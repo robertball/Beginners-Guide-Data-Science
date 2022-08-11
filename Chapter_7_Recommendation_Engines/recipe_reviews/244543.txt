@@ -1,0 +1,107 @@
+Recipe number:
+244543.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-18T10:26:02.247
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+975
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are a nice cookie. I used a homemade version of Bob's Red Mill flour adding a bit of bean flour and regretted it. There seemed to be a bean taste to the end product, so next time I'll leave that out. I only used 1 tsp of xanthan gum. The cookies held together perfectly. The only issue was how thick the batter was. On one of the loaves I left it as is, on the other, I ended up adding a bit of vin santo (keeping with Italian tradition) to help out and found this helped fold in the nuts better. All-in-all this is a definite keeper recipe. Times and temperatures were right on. I'll just leave out the garbanzo flour next time. Thanks for sharing your recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-11T21:51:50.57
+helpfulCount:
+0
+userID:
+12869840
+Display Name:
+michele
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+273
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I used 1/2 potato flour and 1/2 pillsbury GF flour blend. Added cocoa and pecans.  These were a hit.
+Review:
+Rating:
+1
+dateLastModified:
+2015-09-30T14:30:37.013
+helpfulCount:
+0
+userID:
+2072867
+Display Name:
+Anne S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+195
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Worst consistency ever. I even used one of my $5 Tahitian Vanilla Beans to make them and that didn't even help.

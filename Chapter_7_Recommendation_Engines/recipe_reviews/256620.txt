@@ -1,0 +1,107 @@
+Recipe number:
+256620.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-05T17:26:50.887
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2816
+favoritesCount:
+6006
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.5.17  Sure, you can buy sofrito in the can, but there’s nothing better than freshly-made sofrito.  It’s good not only in Puerto Rican cuisine, but is a staple in Cuban and Spanish food, as well.  There’s some chopping involved in this recipe, but it has all the right ingredients and freezes beautifully...I use zip-lock bags.
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-09T17:55:14.23
+helpfulCount:
+1
+userID:
+13391968
+Display Name:
+Angela Mundi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+172
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time making any type of Latino food. It was very tasty in my stew I made.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-15T23:57:05.04
+helpfulCount:
+0
+userID:
+26469594
+Display Name:
+Abigail Asturias
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7292779.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe, same as what I used to make but, I found a Korean market and was very much surprised to learn that they use recao in their food and so I drive 10 miles every month to get fresh recao and now my sofrito is almost genuine. I still need the ajises dulces and the puertorican pimiento verde, not to be found in California. A great alternative to ajises dulces are the small assorted sweet peppers.

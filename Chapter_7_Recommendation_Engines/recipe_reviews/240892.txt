@@ -1,0 +1,72 @@
+Recipe number:
+240892.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-19T20:56:35.713
+helpfulCount:
+2
+userID:
+5056707
+Display Name:
+Shanelle Lee
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2805621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was such a great idea!!! I didn't have chicken broth or ginger so I used fish sauce, rice wine vinegar and dried  galangalal to cook the rice in my rice cooker. I added smoked salmon, crab meat, carrots, avocados abd cucumber as well as some soya sauce. It was delicious tasted just like sushi without the hassle of rolling it!!! This will be our new staple dinner!!!
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-15T11:05:19.67
+helpfulCount:
+1
+userID:
+8036553
+Display Name:
+yellowwubiedog
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+81
+favoritesCount:
+260
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used traditionally seasoned sushi rice instead of jasmine cooked in broth and added sashimi grade tuna, avocado and a little seaweed salad on top. Yum!

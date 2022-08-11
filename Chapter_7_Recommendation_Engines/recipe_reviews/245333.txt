@@ -1,0 +1,107 @@
+Recipe number:
+245333.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-10-04T23:45:45.287
+helpfulCount:
+1
+userID:
+18210319
+Display Name:
+Kim Headley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+273
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as it is written. The end result is more like porridge. It's very thick the next day and is lacking a touch of salt. Overall, this isn't my favorite recipe using butternut squash. The sweet notes and consistency were not appetizing.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-10T01:57:43.953
+helpfulCount:
+1
+userID:
+12668527
+Display Name:
+RDG
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+262
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! This soup has great flavor. Using leftover shredded chicken made this recipe really simple. I added some shredded zucchini for added color and texture.
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-05T15:49:02.607
+helpfulCount:
+0
+userID:
+8764255
+Display Name:
+Betty W Stone
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+897
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1162987.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I reduced the amount of quinoa, but it was still too thick.  The flavor was really lovely, tho.

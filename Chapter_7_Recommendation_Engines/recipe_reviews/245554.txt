@@ -1,0 +1,37 @@
+Recipe number:
+245554.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-14T20:34:02.057
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1017
+favoritesCount:
+1344
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OK taste to these, but not my favorite. I would cut the seeds in half and use oats instead. Also, some kind of dried fruit would have helped with texture and taste. These aren't very sweet at all, which is fine, but "sweet" is in the name.

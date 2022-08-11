@@ -1,0 +1,144 @@
+Recipe number:
+13575.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-01-27T15:30:00.84
+helpfulCount:
+31
+userID:
+846472
+Display Name:
+DAWN MARVIN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great!  Love the sugarless as big help on the diet...
+
+rich, very rich.  May blow the diet totally by eating the whole thing myself!
+Review:
+Rating:
+3
+dateLastModified:
+2005-03-08T21:11:58.217
+helpfulCount:
+29
+userID:
+1296225
+Display Name:
+Katherine Foreman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1383358.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The texture was pretty good and the pie held together well when cut and looked nice.  The flavor wasn't bad and I definitely like the whole sugar free thing but it just wasn't very sweet at all.  If I made this again, I'd add more of the artificial sweetener or maybe even a little real sugar.
+Review:
+Rating:
+5
+dateLastModified:
+2008-12-28T04:17:38.87
+helpfulCount:
+25
+userID:
+2325756
+Display Name:
+Veronica S. from Pa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/544304.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My dad is visiting for Christmas and is a diabetic and has other health issues so I really try to be careful what I make for him.  It isn't easy to find something tasty.  This was wonderful.  I recommend this to anyone that has to control their sugars...even dieters.
+Review:
+Rating:
+1
+dateLastModified:
+2014-11-28T03:53:15.033
+helpfulCount:
+0
+userID:
+12811322
+Display Name:
+Donna Riley-Lein
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1732944.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for this recipe.

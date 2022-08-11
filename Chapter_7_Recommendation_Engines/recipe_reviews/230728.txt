@@ -1,0 +1,72 @@
+Recipe number:
+230728.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-04-12T11:18:09.87
+helpfulCount:
+8
+userID:
+10714662
+Display Name:
+Jeremy Whisenhunt
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2405966.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe did result it a pudding with a nice, deep chocolate flavor, but it was not possible to whip it into a mousse, even after refrigerating overnight and using my powerful stand mixer. The texture is also a little on the grainy side because the tofu doesn't completely smooth out.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-10T16:25:20.437
+helpfulCount:
+0
+userID:
+18017992
+Display Name:
+shayjah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3564782.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+love it

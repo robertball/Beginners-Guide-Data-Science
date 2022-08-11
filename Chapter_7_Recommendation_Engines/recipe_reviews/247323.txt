@@ -1,0 +1,37 @@
+Recipe number:
+247323.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-03-09T18:15:08.623
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1062
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a dried stalk of lemongrass instead of fresh as that is what I had on hand.  I also omitted the pepper.  I left it marinating for a few hours before grilling.  This didn't do it for us, though I enjoyed the method.  Slice your chicken a bit thicker instead of thinner - it'll stay on the skewer better.

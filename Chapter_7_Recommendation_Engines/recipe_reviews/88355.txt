@@ -1,0 +1,146 @@
+Recipe number:
+88355.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-08-22T13:39:32.89
+helpfulCount:
+16
+userID:
+1497608
+Display Name:
+Ralph Paisley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Taste is good.  Color is gray.  With the juice (not clear in the USA Weekend) it is more pink but NOT red like I expected Borscht to be and certainly NOT like the picture.  Recipe in the paper lists 1 cup Fat Free Sour Cream.  The directions on the web page do not mention the sour cream.  Do we have a problem here?  How can I get it to be 'red'?
+Review:
+Rating:
+5
+dateLastModified:
+2006-03-06T16:38:29.513
+helpfulCount:
+15
+userID:
+256951
+Display Name:
+purejoy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as the recipe said.  It was wonderful.  I made it for a Ladies Lunch and the reaved.  I made it for my mother and a friend and they both wanted the recipe.  Beets are so good for us, and most people don't eat them often enough!
+  
+Both times the color was beautiful.  When you buy the jar of beets, make sure that is has a deep rich color.  I add the juice from the bottle.  The yogurt for the topping sort of sunk.
+
+Thye recipe made 44 oz.s of soup.
+Review:
+Rating:
+3
+dateLastModified:
+2007-10-27T11:39:37.713
+helpfulCount:
+5
+userID:
+1046889
+Display Name:
+Just me
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+88
+favoritesCount:
+786
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/18.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I gave this a a three. It was very easy and mine was a beautiful color but I think I must have served it to people who were not big pickled beet eaters and it did not go down very well. If you like pickled beets you will love this recipe though.
+Review:
+Rating:
+1
+dateLastModified:
+2016-06-09T20:59:26.157
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried to like this... I tasted it first, too sweet, added more salt and pepper.. still too sweet. Added some cayenne... didn't help. I drank half a cup and got a stomach ache. I had to toss it..  If you like sweet soups, give this a try... just no my taste. Was very easy to make though

@@ -1,0 +1,72 @@
+Recipe number:
+41644.txt
+Review:
+Rating:
+4
+dateLastModified:
+2002-02-15T09:56:59.81
+helpfulCount:
+5
+userID:
+587739
+Display Name:
+CHRISTINABINA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty recipe, but looking more forward to the leftovers; thinking that the flavors will have come together more.  Next time I would let everything simmer together longer on low heat before serving.  May also substitute a different tortelloni, e.g. stuffed spinach or cheese.  The sauce is delicious.
+Review:
+Rating:
+4
+dateLastModified:
+2006-03-21T12:46:11.577
+helpfulCount:
+2
+userID:
+958643
+Display Name:
+Jennifer Ball
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/361215.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree that it could be simmered longer to help blend the flavors but otherwise this was absolutely wonderful.  And the leftovers are even better!

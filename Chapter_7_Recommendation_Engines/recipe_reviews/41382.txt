@@ -1,0 +1,107 @@
+Recipe number:
+41382.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-03-16T19:36:28.267
+helpfulCount:
+6
+userID:
+3078505
+Display Name:
+Joe B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+495
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/404680.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my wife and she says it can be addictive.  It's pretty strong but the tingle of the ginger grows on your tongue.  This has definitely moved into her martini rotation.
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-04T17:26:55.663
+helpfulCount:
+2
+userID:
+3448331
+Display Name:
+LilMsCupcake
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+413
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Best if you chill everything: the vodka, liqueur and the glasses. I agree with other reviewer that this drink is very strong. I added lots of crystallized ginger to sweeten it a bit. I will make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-28T23:25:33.607
+helpfulCount:
+1
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love, love, love ginger! I didn't use as much vodka because I wanted to taste more ginger and this is a keeper!

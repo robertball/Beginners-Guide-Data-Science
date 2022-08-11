@@ -1,0 +1,72 @@
+Recipe number:
+9635.txt
+Review:
+Rating:
+1
+dateLastModified:
+2000-05-31T13:00:44.627
+helpfulCount:
+16
+userID:
+92700
+Display Name:
+SHELIFER
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Would not recommend this recipe, as it had no taste and had to be thrown out.
+Review:
+Rating:
+3
+dateLastModified:
+2009-11-03T07:20:25.737
+helpfulCount:
+2
+userID:
+3990518
+Display Name:
+recipes need gluten
+isPro:
+False
+followersCount:
+247
+followingCount:
+0
+madeRecipesCount:
+254
+favoritesCount:
+804
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2414.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I looked at this poor little recipe and felt it needed some help. It reminded me of a great butter tart square recipe I already make. I still have many apples so I tried it as is (except for the brandy-ised rum flavoring)  b/c I had many hungry people who would eat anything homeade. They gave their thoughts and I took them into consideration. This is what I remade in 9x13 pan-crust used marg instead of short added another 1/4c sugar.  I subbed 2 tsp rum flavor (brandy), kept the ingredients the same.  Added 1c apple sauce,  2t cinnamon,  1t nutmeg and 1t ginger.  Served hot with ice cream. Cut the rest into squares when it cooled. It was delicious, tasted like an apple crisp with a different crust.

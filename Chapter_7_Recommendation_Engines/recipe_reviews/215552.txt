@@ -1,0 +1,113 @@
+Recipe number:
+215552.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-08-05T18:30:03.45
+helpfulCount:
+14
+userID:
+2019509
+Display Name:
+ScottFamily
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+312
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just tried these for the first time and I am a little disappointed.  They are not near as good as my great-grandmother's recipe for icicle pickles.  It was fun to try a new version and do a side by side comparison, but from now on I will stick with our old favorites (which takes longer and has a stronger syrup).  I followed the recipe except that I omitted the food coloring, as I didn't think it was healthy to add the extra dye.
+Review:
+Rating:
+4
+dateLastModified:
+2013-07-18T12:35:17.027
+helpfulCount:
+6
+userID:
+7973593
+Display Name:
+Kathy Krest
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2064187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My cucumbers have been very bitter this year and I hated to waste them all to the compost heap so I tried your recipe in the hope of salvaging them.  
+
+Now that they are canned and cooling on the counter, I am prepping for the next batch to which I plan to add some hot peppers for a little zest.
+
+Not only did your recipe eliminate the bitterness, the pickles are yummy! I am a little bummed because all my jars sealed so I won't be putting a dud in the fridge to snack on. 
+
+I need more jars :)
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-13T18:19:49.083
+helpfulCount:
+2
+userID:
+3407563
+Display Name:
+C_Lynn
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+62
+favoritesCount:
+327
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved them!  These pickles are well worth the time.  I put more blue than green food colouring to copy the old copper colour!  Who wants to use a copper scrubby or copper sulfate, lol!  Thanks for the great recipe, I looked and looked for one!  These make wonderful little gifts and look great with pared with the Christmas red pickles!

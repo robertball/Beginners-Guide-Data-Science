@@ -1,0 +1,37 @@
+Recipe number:
+266163.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-14T15:23:49.857
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was perfect after a long day at work. I bought the thinnest pork chops the store had but they were still pretty thick so I had to cook them longer. It doesn't get any easier than this. Simple is good and this recipe is a great reminder of that.

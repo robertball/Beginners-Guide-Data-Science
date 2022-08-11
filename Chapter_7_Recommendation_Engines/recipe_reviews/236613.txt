@@ -1,0 +1,72 @@
+Recipe number:
+236613.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-11T12:00:43.963
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+1083
+favoritesCount:
+1244
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy. I used leftover salsa chicken that I had. I left out the black beans and red peppers and used the optional cheese. It was very filling, and I was surprised how much I liked the summer squash in it. I'll try this again.
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-25T00:23:54.673
+helpfulCount:
+0
+userID:
+20058859
+Display Name:
+CKM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a fabulous recipe! I have a bumper crop of yellow squash and a very health-conscious but picky family. I used this as filling for burritos and they loved it! I also added some onion and a tiny bit of cumin and chili powder.

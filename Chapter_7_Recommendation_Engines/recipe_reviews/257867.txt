@@ -1,0 +1,37 @@
+Recipe number:
+257867.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-07T15:01:45.87
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a great idea for a party. I added some onion and bell pepper to the meat. I served it with salsa, sour cream, and guacamole for dipping. Thank you for the recipe.

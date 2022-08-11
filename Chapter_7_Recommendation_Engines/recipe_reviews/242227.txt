@@ -1,0 +1,72 @@
+Recipe number:
+242227.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-12T10:44:17.507
+helpfulCount:
+0
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Who needs chips or something to top this with? Just grab a spoon and eat it right out of the bowl.
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-09T06:15:36.44
+helpfulCount:
+0
+userID:
+12417802
+Display Name:
+J. Weeks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this the other night and paired it with garlic lime tilapia fillets. I should have made more since the kids were eating it right out of the bowl. My husband thought I was being sassy when I told him I was making a watermelon salsa. My teenage boys grabbed the tortilla chips out of the pantry when they heard "salsa" and cleaned it all out. Great paired with fish, chips, or plain. The flavors blend if chilled for about an hour. Thanks CJ.

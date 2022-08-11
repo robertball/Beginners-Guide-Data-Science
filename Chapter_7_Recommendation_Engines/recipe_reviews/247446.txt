@@ -1,0 +1,37 @@
+Recipe number:
+247446.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-14T15:48:06.99
+helpfulCount:
+1
+userID:
+3964202
+Display Name:
+Teri Scott
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+548
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1301524.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is how I make my potato salad! Except I leave out the mustard and add sour cream to the mayonnaise (about 3/4 sour cream and 1/4 mayonnaise) and add a little dill weed over the top. The grilled potatoes are what makes this salad! I also just grill the potatoes on a charcoal grill without the foil......The burnt outsides are delicious in the salad.

@@ -1,0 +1,72 @@
+Recipe number:
+268557.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-04T15:37:51.47
+helpfulCount:
+0
+userID:
+3631189
+Display Name:
+Laura
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was very easy to make and it came out great.
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-11T00:05:42.157
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+129
+favoritesCount:
+456
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super good recipe!!! A bit too much cinnamon for me but still good. I love the topping and I suggest at least doubling the amount called for so the top can be covered. My boys gobbled it up and had no idea that it was Vegan.

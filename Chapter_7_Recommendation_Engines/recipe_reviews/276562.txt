@@ -1,0 +1,72 @@
+Recipe number:
+276562.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-21T18:35:45.173
+helpfulCount:
+1
+userID:
+3031597
+Display Name:
+barbara
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+601
+favoritesCount:
+261
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/254187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this - I baked the spaghetti squash in the oven and used gruyere instead of mozzarella cause that’s what I had at hand. I ate it as a vegetarian main
+Review:
+Rating:
+1
+dateLastModified:
+2020-01-15T03:41:23.62
+helpfulCount:
+0
+userID:
+26878978
+Display Name:
+Julia B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7613651.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The squash was way underdone, crunchy and tasted raw - totally inedible. I have a high wattage microwave, and it was an average size squash.

@@ -1,0 +1,37 @@
+Recipe number:
+239603.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-07T12:46:10.417
+helpfulCount:
+3
+userID:
+516054
+Display Name:
+KGora
+isPro:
+False
+followersCount:
+8026
+followingCount:
+0
+madeRecipesCount:
+376
+favoritesCount:
+1874
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2505934.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When I saw this recipe I couldn't wait to try it. I didn't have the chocolate square on hand so I substituted 3T cocoa and 1T butter. Worked perfectly. Delicious fudge tasting sauce that I used on ice cream.

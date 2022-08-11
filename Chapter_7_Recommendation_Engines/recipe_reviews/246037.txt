@@ -1,0 +1,72 @@
+Recipe number:
+246037.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-06T23:05:15.207
+helpfulCount:
+0
+userID:
+13944208
+Display Name:
+nightfall
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+143
+favoritesCount:
+747
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm impressed with this recipe. I love Brussels sprouts and I love pakora, so I gave it a try.  I used fresh sprouts, and mine were so tiny that I didn't bother to cut them at all.  Unfortunately, it didn't turn the sprout haters into lovers, but those of us who already adore them really enjoyed the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-08T13:40:31.503
+helpfulCount:
+0
+userID:
+7696094
+Display Name:
+Jason Scott Provost
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2301469.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good. Makes lots. Used leftover batter on a fresh yellow pepper and fried. We will enjoy this again.

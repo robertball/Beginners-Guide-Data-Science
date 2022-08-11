@@ -1,0 +1,37 @@
+Recipe number:
+230071.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-11-22T07:29:30.823
+helpfulCount:
+2
+userID:
+2921909
+Display Name:
+KitchenWitch
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/747243.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Dates and sweet potatoes Do go great together.  I skipped the sugar, and added a few more dates, skipped the heavy cream and granola and it was still delish! Simple and not too sweet. Surprised there are  not more recipes combining these 2 flavors.

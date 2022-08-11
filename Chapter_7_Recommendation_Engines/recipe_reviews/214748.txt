@@ -1,0 +1,107 @@
+Recipe number:
+214748.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-06-09T21:45:36.143
+helpfulCount:
+20
+userID:
+3409820
+Display Name:
+Maggie Burnett
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1581905.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty darn good. I didn't have any nectar so I used a capful of brandy instead and aslo supstituted the cardamom for cinnamon. The marscapone part of the dessert was the best!
+Review:
+Rating:
+5
+dateLastModified:
+2010-08-28T18:12:21.613
+helpfulCount:
+17
+userID:
+4525294
+Display Name:
+Sharyn Waldron Fleischer
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+198
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2785555.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was wonderful.  I quartered the apricots and put them around a serving tray, then put a dollop of the whipped cream mixture on each.  The cream went together a little but made it look pretty.  The apricot sauce was perfect.  Many friends requested this recipe.  I will make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2013-05-30T13:35:14.697
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5755
+followingCount:
+0
+madeRecipesCount:
+2830
+favoritesCount:
+6010
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is quick, tasty, and just a little elegant.  Great finger food (one bite depending on the size of your apricots) for a buffet table.  You want to have everything well-chilled and fill the apricots just before serving.  Once it's at room temperature, the filling starts to soften and run pretty quickly, and that's not a pretty sight.

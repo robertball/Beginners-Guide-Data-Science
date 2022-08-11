@@ -1,0 +1,37 @@
+Recipe number:
+63636.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-09-15T05:35:34.14
+helpfulCount:
+1
+userID:
+595916
+Display Name:
+JDVMD
+isPro:
+False
+followersCount:
+162
+followingCount:
+0
+madeRecipesCount:
+1625
+favoritesCount:
+1530
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/408423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! Quick and easy to prepare. I do think, however, that a person must like artichokes in order to like this recipe. Decided to leave out the arugula and put shredded parmesan on top and placed under the broiler for a few minutes. Plan on serving this again at a party.

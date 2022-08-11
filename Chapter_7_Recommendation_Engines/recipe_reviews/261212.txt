@@ -1,0 +1,37 @@
+Recipe number:
+261212.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-26T17:14:19.68
+helpfulCount:
+0
+userID:
+2682563
+Display Name:
+Stephanie Bonck
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+188
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2643005.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fun to make and the kids LOVE it and so do I!

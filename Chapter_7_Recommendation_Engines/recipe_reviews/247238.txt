@@ -1,0 +1,37 @@
+Recipe number:
+247238.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-10T12:35:34.5
+helpfulCount:
+2
+userID:
+3277823
+Display Name:
+border
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very like my recipe, except there are even more soup bones and a lot more parsley in this one.  Great stuff!

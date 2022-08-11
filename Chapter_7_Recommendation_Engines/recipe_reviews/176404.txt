@@ -1,0 +1,37 @@
+Recipe number:
+176404.txt
+Review:
+Rating:
+1
+dateLastModified:
+2008-10-20T08:53:40.35
+helpfulCount:
+2
+userID:
+2122344
+Display Name:
+Tracy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We did not enjoy this recipe.  My boyfriend and I made these bars, followed the recipe to the T, and were not happy with the results.  The crust was too hard and was difficult to bite into.  The flavor was okay, but not worth the effort we put into baking.  The recipe gets a 1 because when we tried cutting these bars, the pan became a complete mess.  We will not be making them again.

@@ -1,0 +1,107 @@
+Recipe number:
+234505.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-04-03T19:03:11.047
+helpfulCount:
+3
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+521
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2074
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We both liked this with one small change. I didn't care for  the entire mixture being pureed...including the chicken so I pureed 1/2 the soup minus the chicken then added the puree back into the chunky corn, onions and chicken pieces for a chunky soup. Heated through and this was fine. It did need salt so we added that while eating. i did use homemade chicken stock so that does have less salt than canned. All in all a good and simple recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2014-06-18T21:59:17.553
+helpfulCount:
+1
+userID:
+9136282
+Display Name:
+Shirley in TX
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/942621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used butter instead of oil, no cumin or cayenne pepper, lime or chicken . I added 3/4 package of Velveeta cheese and milk along with chicken broth and small can of green chilies.  It was very tasty and not too spicy.
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-26T14:03:51.41
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1344
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This came out well and came together quickly. I added more chicken, approximately another 1/2 breast and a thigh. (I used a rotisserie chicken.) I knew my husband wouldn't want the soup pureed, plus I didn't feel like doing the extra step. So, I used 2 cans cream corn and 1 can whole kernel corn. It worked fine. I didn't have fresh jalapenos, so I used a small can of hot diced jalapenos, and it was nice and spicy. It was  good with the cilantro and sour cream added.

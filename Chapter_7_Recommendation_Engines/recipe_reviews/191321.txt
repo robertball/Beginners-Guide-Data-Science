@@ -1,0 +1,37 @@
+Recipe number:
+191321.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-09-07T15:37:37.997
+helpfulCount:
+11
+userID:
+168090
+Display Name:
+MOLLE888
+isPro:
+False
+followersCount:
+113
+followingCount:
+0
+madeRecipesCount:
+774
+favoritesCount:
+944
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/23805.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wanted SO badly to love this recipe, but it was just ok. The beet sauce was a gorgeous color, especially when compared to the bright green broccoli. It just was lacking flavor. I loved the idea of this, and we ate it all, but I won't make it again. It took a lot of time for an ok result. But health wise it's a sure winner. Its always fun trying new things, though!

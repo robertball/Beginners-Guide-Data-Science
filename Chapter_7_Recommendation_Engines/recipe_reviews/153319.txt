@@ -1,0 +1,37 @@
+Recipe number:
+153319.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-12-12T08:09:16.523
+helpfulCount:
+0
+userID:
+416684
+Display Name:
+MCCLR
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to double the "crust" portion of the recipe to cover the bottom of a 9X13 pan.  Very gooey and hard to "press firmly".  I more than doubled the topping recipe, using 16 squares of Baker's Chocolate and increased the peanut butter accordingly.  Because of the resulting height, I cut them into one inch squares for bite size, easily handled candies.  The taste is delicious!!   I'd make them again, but according to my changes. Perhaps others have solved the gooey-ness of the crust.

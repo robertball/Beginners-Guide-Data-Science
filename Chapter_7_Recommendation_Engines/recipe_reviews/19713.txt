@@ -1,0 +1,112 @@
+Recipe number:
+19713.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-01-31T10:19:08.14
+helpfulCount:
+35
+userID:
+306217
+Display Name:
+mmmdessert
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+681
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think there is an error in the first ingredient of this recipe.  Chinese Sweet Rice is always made with a short-grain rice called glutinous rice (aka sweet rice or sticky rice).  Jasmine rice is a long-grain rice and will not yield the sticky consistency.  The two types of rice are not interchangeable in recipes.
+Review:
+Rating:
+4
+dateLastModified:
+2003-01-31T21:57:22.857
+helpfulCount:
+28
+userID:
+784887
+Display Name:
+JEPPINETTE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+In reference to the first review:
+It is your assumption that the author is referring to "sticky rice". However, the phrase "sweet rice" is also applied to Jasmine rice because it is named after the sweet-smelling jasmine flower of Southeast Asia. Jasmine rice has a naturally distinctive scent released during the cooking process and is likened to a flowery perfume.
+
+In addition, the ingredients in this recipe go perfectly with a rice grain such as Jasmine rice that can separate without difficulty. It makes it easier to combine the ingredients in this dish in such a way that each bite can blend the various flavors.
+
+Don't forget: Wok at least three times a week for a healthy heart!
+Review:
+Rating:
+3
+dateLastModified:
+2008-01-27T18:23:24.353
+helpfulCount:
+8
+userID:
+2167455
+Display Name:
+alotta
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i think this is probably more of a fried rice. the sweet rice version you're thinking of, the ingredients are steamed with the rice.

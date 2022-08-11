@@ -1,0 +1,37 @@
+Recipe number:
+269160.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-12-09T01:55:48.047
+helpfulCount:
+0
+userID:
+20017621
+Display Name:
+Joel Clark
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+242
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Several issues.  The onions just done get done even cooking the squash for an hour.  The onions and bacon should probably be sautéed before adding to the mix.  The overall flavor just didn’t work for us.

@@ -1,0 +1,37 @@
+Recipe number:
+259367.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-14T15:31:50.853
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had never had this kind of fish before and it was good. Real light and flakey and not overly fishy tasting. The one problem in the recipe is in the coating step. Once you dredge that fish in the flour, the Panko would never stick. The fish was wet enough to start with so I dredged it in flour first, then the milk, and then the Panko. Worked like a champ. I like my fish extra crispy so I flipped them halfway though the cook time and sprayed more non-stick spray and then broiled them for a few minutes after that. Overall good recipe and one I would make again.

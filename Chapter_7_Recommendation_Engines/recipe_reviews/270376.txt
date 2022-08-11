@@ -1,0 +1,72 @@
+Recipe number:
+270376.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-25T00:19:20.72
+helpfulCount:
+0
+userID:
+7889710
+Display Name:
+Doeween
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made to recipe except only used 3 teaspoons of curry powder. As previous comment states 3 Tablespoons would be WAY too much!  Also cooked in air-fryer 400* for 10 minutes flipping them over half way through the cooking time. Great flavor and easy to make.
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-11T01:20:40.1
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+540
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was following directions and it didn't hit me it should have been 3 teaspoons curry! Adjust the curry way down and it should be good! I didn't add red pepper flakes.

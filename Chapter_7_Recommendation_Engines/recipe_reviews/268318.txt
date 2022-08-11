@@ -1,0 +1,37 @@
+Recipe number:
+268318.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-25T16:09:11.357
+helpfulCount:
+0
+userID:
+4133221
+Display Name:
+Joyce S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+601
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made once and very tasty filling but I used a different dough since I had it ready, which I baked not fried. Boyfriend enjoyed them very much and has asked me to make again.Going to try soon.

@@ -1,0 +1,37 @@
+Recipe number:
+48087.txt
+Review:
+Rating:
+3
+dateLastModified:
+2004-09-27T13:21:06.637
+helpfulCount:
+1
+userID:
+303917
+Display Name:
+AmandaB
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and 9 year old were not real crazy about this. It wasn't that they didn't like it at all, it just was "okay". I'm giving this three stars because it is so very easy and I have all the ingredients on hand at all times. Perhaps this would be better with a different type of taco seasoning, that is all I can think of. I use the Tone's brand taco seasoning that we buy at Sam's Club in the large container.

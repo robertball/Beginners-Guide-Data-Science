@@ -1,0 +1,37 @@
+Recipe number:
+276353.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-25T22:45:55.84
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+564
+followingCount:
+0
+madeRecipesCount:
+1250
+favoritesCount:
+3514
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8195143.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I halved the recipe and using a 1 tsp cookie scoop I got 22 cookies. They are not the prettiest cookies but they are tasty. I baked them for 13 minutes and they were just starting to brown. They are soft and cake-like. There is a faint key lime taste. We enjoyed them and I would make them again.

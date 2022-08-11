@@ -1,0 +1,37 @@
+Recipe number:
+273840.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-01T04:21:00.69
+helpfulCount:
+0
+userID:
+11279495
+Display Name:
+Harry Martin
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+171
+favoritesCount:
+351
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6890043.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe that my partner said he would order in a restaurant! I looked at similarly titled recipes here and none had the ease of ingredients and preparation for such a high-quality dish.  I did bake the chicken earlier and warmed in the dish as the recipe states. I subbed in half and half, and it worked perfect (with a lower fat/calorie count). I used it to thin the sauce as needed. Fantastic recipe -- try it.

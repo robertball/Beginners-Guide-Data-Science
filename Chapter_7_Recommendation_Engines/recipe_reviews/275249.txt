@@ -1,0 +1,109 @@
+Recipe number:
+275249.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-08T01:17:17.443
+helpfulCount:
+2
+userID:
+25446445
+Display Name:
+nan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used Laughing Cow original Swiss because that’s what I had and it spreads nicely.
+It was one of the best sandwiches I have had in a long time.
+Told about 3 people how delicious it was.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-06T15:53:19.173
+helpfulCount:
+1
+userID:
+10291668
+Display Name:
+Angelina
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Genius idea, with my favorite cheese!  I made one sandwich as written (on raisin bread) and the other on sourdough bread. My hubby & I each had 1/2 of both.  They were  delicious, but being more of a 'savory gal', I preferred the one made on sourdough bread.   Nevertheless, what a terrific idea, since I also like thinking outside of the (proverbial) box.  Thanks  :-)
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-01T23:05:16.493
+helpfulCount:
+0
+userID:
+26115241
+Display Name:
+Just B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an easy and quick recipe. I used Challah Bread, so additional cheese was necessary.  Next time, I would mix the thyme into the shredded cheese for more even distribution. I think the indicated cinnamon raisin bread would be very good.  Maybe next time

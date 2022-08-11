@@ -1,0 +1,72 @@
+Recipe number:
+215566.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-05-08T19:54:44.827
+helpfulCount:
+4
+userID:
+2607025
+Display Name:
+Robyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+69
+favoritesCount:
+198
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not a favorite of mine, but my family really liked.  Will probably make again for them.  I omitted the frozen blueberries and mint.
+Review:
+Rating:
+3
+dateLastModified:
+2014-05-25T13:37:52.917
+helpfulCount:
+0
+userID:
+3524517
+Display Name:
+Patty Cakes
+isPro:
+False
+followersCount:
+341
+followingCount:
+0
+madeRecipesCount:
+546
+favoritesCount:
+3026
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4561464.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not a big fan of this, NOT the recipes fault! Sorry Sarah, MY taste buds are to blame:(

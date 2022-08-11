@@ -1,0 +1,72 @@
+Recipe number:
+236547.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-16T17:06:52.127
+helpfulCount:
+1
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+555
+favoritesCount:
+872
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe makes a beautiful looking loaf. The texture and flavour were bang on but I had a little trouble getting the dough to come together and had to add extra flour, I must have done something wrong. I made this exactly as written although I was puzzled by the 1/4 tsp of onion powder, it didn't add anything to the loaf. Thanks Foresthome
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-01T06:57:31.43
+helpfulCount:
+0
+userID:
+14776244
+Display Name:
+Bobby Darapureddi
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+79
+favoritesCount:
+509
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5722852.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it is  a good recipe

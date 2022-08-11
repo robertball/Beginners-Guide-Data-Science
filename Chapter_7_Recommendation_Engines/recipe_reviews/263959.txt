@@ -1,0 +1,107 @@
+Recipe number:
+263959.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-09T18:23:25.247
+helpfulCount:
+3
+userID:
+3124125
+Display Name:
+sanfranciscomomma
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+EDITED TO UPDATE:  I've made this recipe again and have addressed the problems in my original review by putting a heaping 1/4 cup of batter into each ring, not 1/2 cup. This approach makes 8 pancakes - that are still very tall and fluffy!  Also, using 1/4 cup batter per ring makes it *much* easier to flip and you're assured that the middle will cook all the way through. I cooked them for 4 minutes per side on my stove's lowest flame setting.  ORIGINAL REVIEW: Very delicious but tough to execute. I couldn't get the hang of the flip!! Whenever I flipped, some batter would spill out of the mold...even though I waited the full 5 minutes and looked for bubbles before flipping. I followed the recipe exactly and had enough batter for exactly 5 pancakes (I used 3.5" ring molds). I made only two at a time because you need some room in the pan to do the flip. The flavor and texture were classically Japanese -- a cross between pancakes and sponge cake...and only mildly sweet which I appreciated. It helps to spray some Pam on the bottom of your pan, even if it's non-stick.
+Review:
+Rating:
+3
+dateLastModified:
+2019-05-26T19:16:49.64
+helpfulCount:
+0
+userID:
+10527813
+Display Name:
+Gail Garey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a pancake, a very thick pancake. It looked nice on plate but since it was so 'cakey' it seemed to really soak up the maple syrup (I only use the real stuff). I didn't have 3 forms the same size so I just piled them up  in a tower.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-25T21:06:46.323
+helpfulCount:
+0
+userID:
+25493001
+Display Name:
+Stephanie Sun
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6585702.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It looks good.. can I use vegetable oil instead of butter and if so, how much oil?

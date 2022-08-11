@@ -1,0 +1,72 @@
+Recipe number:
+258591.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-04T16:55:12.813
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a great recipe! The seasoning is amazing. The method leaves you with a lovely chili even though mine was pretty thick. I served it as written in the description with onions, kidney beans, and cheese then served it over spaghetti. I should have broken the spaghetti into pieces. Serving over long spaghetti seemed more like a ragù than a chili. Regardless, it was absolutely delicious. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-07T18:34:02.703
+helpfulCount:
+0
+userID:
+19941647
+Display Name:
+myork1976@yahoo.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7700543.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was amazing! I used yellow bell peppers so that they would go undetected by my kids, I also added a half cup of diced mushrooms. I used a tablespoon of cocoa instead of chocolate. My whole family ate it. I also made a vegan cheese sauce to put on top and used Banza chickpea spaghetti to make it gluten free. So delicious!

@@ -1,0 +1,72 @@
+Recipe number:
+262677.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-04-05T22:17:12.39
+helpfulCount:
+0
+userID:
+11064398
+Display Name:
+Cowboy Coug
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+1634
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2604835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The author of this recipe had me until they suggested topping with ketchup. If it's a good omelet why would you even think of suggesting ketchup?
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-05T09:16:43.207
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a nice breakfast that takes very little time to put together. The rice/veggie mixture is enough for a 4-egg omelet. I used red, whole grain rice, which gave it a nutty flavor that white rice can’t give. Using a spiralizer to cut the carrot and cucumber reduced cooking time. I wasn’t too fond of the taste of cucumber with this and will use zucchini next time instead. I also added fresh cayenne peppers to spice it up. Thank you for the recipe.

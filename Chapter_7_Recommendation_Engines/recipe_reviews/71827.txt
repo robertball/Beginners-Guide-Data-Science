@@ -1,0 +1,77 @@
+Recipe number:
+71827.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/16/2006
+helpfulCount:
+5
+userID:
+1649515
+Display Name:
+gilligan
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I omitted the lime only as a personal preference.Cubed chicken in med. size pieces.Served it on a bed of white rice Will make again
+Review:
+Rating:
+2
+dateLastModified:
+05/16/2005
+helpfulCount:
+3
+userID:
+1416471
+Display Name:
+TIADRAGON
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The flavor of the "glaze" didn't come through.  Perhaps marinating would be helpful?
+Review:
+Rating:
+3
+dateLastModified:
+08/08/2004
+helpfulCount:
+3
+userID:
+10156
+Display Name:
+laurabora
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+sweet, a little bitter, was good, but nothing special.
+Review:
+Rating:
+5
+dateLastModified:
+04/13/2005
+helpfulCount:
+2
+userID:
+1381953
+Display Name:
+SHADYB
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Yummy!  Light and refreshing - this is a great summer chicken meal with lots of lemon flavor.
+Review:
+Rating:
+5
+dateLastModified:
+10/25/2006
+helpfulCount:
+2
+userID:
+2082607
+Display Name:
+CPolencheck
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/29140.jpg
+text:
+Really tasty!  I used it in a chicken foil pocket on the grill with veggies too.

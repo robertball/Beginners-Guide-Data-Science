@@ -1,0 +1,107 @@
+Recipe number:
+259229.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-04T19:21:39.553
+helpfulCount:
+2
+userID:
+12234518
+Display Name:
+sdwp
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe because it's so easy and customizable. I altered it a bit (don't we all do that?) by doubling it, adding a handful of hemp hearts, a tiny bit of sea salt, substituting chocolate protein powder for 1/2 the cocoa, and adding a few pecans on top. I sprayed the muffin tin too. Delicious and nutritious!
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-01T20:21:30.553
+helpfulCount:
+2
+userID:
+4562668
+Display Name:
+Chef V
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+459
+favoritesCount:
+642
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/911981.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Okay if you're looking for a sweet chocolate muffin ..this isn't it. I halved the recipe (it made 3..and they took 20 mins to bake). I sprinkled the tops of mine with a hemp/buckwheat/chia seed mix. I also sprayed my muffin liners..because there is zero fat in these..i didn't want them to stick.  The texture of these is nice (they don't rise much). The flavor is slightly bitter. I would make these again perhaps adding some dark chocolate chips or a drizzle of honey or maple syrup.  The riper the banana you use the sweeter this will be. Again look at the ingredients..dont make this and then say it wasn't sweet etc... if you like the bitter of the unsweetened chocolate then this will be okay for you...its a nice guilt free treat to have with coffee or tea.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-06T03:21:37.84
+helpfulCount:
+0
+userID:
+24888787
+Display Name:
+Joan Yoob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love the texture.  It is like tasting dark chocolate bar but a bit bitter.  I am going to add maple syrup for the sweet flavor

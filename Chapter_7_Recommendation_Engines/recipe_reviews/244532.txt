@@ -1,0 +1,37 @@
+Recipe number:
+244532.txt
+Review:
+Rating:
+2
+dateLastModified:
+2016-04-17T16:35:28.91
+helpfulCount:
+0
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9210
+followingCount:
+0
+madeRecipesCount:
+626
+favoritesCount:
+1190
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not impressed. It's no where near being the texture of a funnel cake.

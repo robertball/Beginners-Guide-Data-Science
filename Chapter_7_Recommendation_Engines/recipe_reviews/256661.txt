@@ -1,0 +1,107 @@
+Recipe number:
+256661.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-26T11:44:47.713
+helpfulCount:
+12
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Move over, tofu. Jackfruit is here. I absolutely loved this recipe. This was my first time eating jackfruit. I was so surprised at how delightful it is. The meat itself has little taste. The texture is like biting into a tuna steak or very tender chicken. The only issue here is the amounts. Four  cups of batter is way too much for ten pieces of canned jackfruit. Each piece is about 2 inches.  I made batter with one cup of flour and made seven pieces and still had 1/2 the batter left over. Also, the batter slid off the first piece. So, I dregded each piece with some flour first and this made the batter stick. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-07T15:55:23.517
+helpfulCount:
+1
+userID:
+22014140
+Display Name:
+iAm Free
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5716041.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first time trying jackfruit and I must say not bad!!! Per previous review I flour mine before dipping in batter. Also I did only 2c of flour and 1c of water I did add honey mustard brown sugar and pickle juice and other seasonings to give it more flavor. I will definitely be making this again.
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-26T21:33:57.403
+helpfulCount:
+0
+userID:
+25264557
+Display Name:
+Baseball Cat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445929.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A little bit sweet for my taste but I can definitely see how people could like it. Also if I were to make it again I would half or even quarter the amount of batter.

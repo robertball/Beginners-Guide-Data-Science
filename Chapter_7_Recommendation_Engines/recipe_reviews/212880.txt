@@ -1,0 +1,37 @@
+Recipe number:
+212880.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-09-10T18:47:22.61
+helpfulCount:
+4
+userID:
+5353395
+Display Name:
+TexasJG
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/512715.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty, but like others, it did not blend well like I've had in Indian restaurants.  I added a bit more liquid, which helped.  Tasted good, but the texture wasn't the best.

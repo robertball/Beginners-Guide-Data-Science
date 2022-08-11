@@ -1,0 +1,72 @@
+Recipe number:
+268603.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-25T00:33:23.477
+helpfulCount:
+0
+userID:
+20629151
+Display Name:
+Lorrie Jones
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5780365.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+no changes at all.  so easy.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-24T21:53:54.82
+helpfulCount:
+0
+userID:
+20898708
+Display Name:
+jhaugherton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy,breezy and tasty!

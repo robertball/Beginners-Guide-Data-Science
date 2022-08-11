@@ -1,0 +1,37 @@
+Recipe number:
+277743.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-09T18:37:56.067
+helpfulCount:
+0
+userID:
+7327002
+Display Name:
+jeannine
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are super good and so easy. Cooked very fast so do check on their progress so you don't over cook.

@@ -1,0 +1,72 @@
+Recipe number:
+264426.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-08T11:24:53.293
+helpfulCount:
+1
+userID:
+13496094
+Display Name:
+Amy Jensen Hilburn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5092877.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I made them in muffin cups for easy transport to work. Will definitely make again!
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-20T04:39:31.08
+helpfulCount:
+0
+userID:
+1184923
+Display Name:
+storysmith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+438
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a really good basic crust-less quiche recipe. I started by looking for a quiche recipe that included cherry tomatoes because I had some I wanted to use up. I ended up adding more of everything because of the size pie plate I had, and it came out beautifully. I will be using it as my core quiche recipe from now on.

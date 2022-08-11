@@ -1,0 +1,107 @@
+Recipe number:
+12055.txt
+Review:
+Rating:
+1
+dateLastModified:
+2009-01-06T12:17:09.123
+helpfulCount:
+13
+userID:
+3346541
+Display Name:
+julie vitale
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/166361.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was not crazy about this recipe at all. I am 100% Italian and I have never eaten Ragu with this kind of recipe. If you really want to make it I suggest finding a more authentic Ragu recipe
+Review:
+Rating:
+5
+dateLastModified:
+2008-02-20T18:35:46.057
+helpfulCount:
+2
+userID:
+2820326
+Display Name:
+Jamielle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Its a great dish for a party or anything and enjoyable to the family
+Review:
+Rating:
+3
+dateLastModified:
+2013-06-10T16:33:46.737
+helpfulCount:
+1
+userID:
+2294683
+Display Name:
+Jenny J.
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/282126.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe as is gave me some issues as is. However, with a few adjustments we still ended up with a pretty good meal. I immediately added some chopped bacon to the meat because I wanted it to be a little more authentic and we don't care for canned peas so I also decided to omit them right off the bat. When I got the meat cooked and everything combined in the pan to simmer  it was much too dry. I ended up adding a can of tomato paste, an extra can of diced tomatoes, and a can of tomato sauce. With these changes it turned out great. Will make again.

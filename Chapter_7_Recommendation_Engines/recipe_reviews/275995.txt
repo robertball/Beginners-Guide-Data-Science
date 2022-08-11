@@ -1,0 +1,107 @@
+Recipe number:
+275995.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-27T21:02:20.017
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this turned out perfect. I anticipated a huge mess in the basket of my air fryer when it was done but there was hardly any mess at all. This is a great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-27T06:31:43.04
+helpfulCount:
+0
+userID:
+17880606
+Display Name:
+Kathy Anderson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+600
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5417813.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe for just 2 people. Tastes like fall and so good. I bought over-sized Fuji Apples and added a bit more pecans with the same amount of brown sugar and flour and butter.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-30T18:56:22.57
+helpfulCount:
+0
+userID:
+933856
+Display Name:
+JARRIE
+isPro:
+False
+followersCount:
+146
+followingCount:
+0
+madeRecipesCount:
+1131
+favoritesCount:
+6151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/926498.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was not bad, I liked it, but one of my kids did not and she eats everything. I think the nuts (even though they were frozen when I put them in the air fryer) got too toasty for her. I'm not sure I loved the flour on them - not sure it contributed anything really - but the cinnamon butter flavor was nice, especially with ice cream. Like a bit of crustless low-sugar apple pie. We will make this again.

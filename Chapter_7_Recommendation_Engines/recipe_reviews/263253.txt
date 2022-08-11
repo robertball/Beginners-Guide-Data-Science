@@ -1,0 +1,73 @@
+Recipe number:
+263253.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-23T23:58:13.677
+helpfulCount:
+0
+userID:
+10215209
+Display Name:
+Josie
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1067826.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent!!
+Except!  I baked it skin side up for 5 min. Peeled of skin. Then flipped entire salmon and continued to bake (on cookie sheet ) 15 more minutes. Amazing.
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-16T20:05:47.287
+helpfulCount:
+0
+userID:
+14986946
+Display Name:
+Robert Boggs
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1859829.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think I over cooked it...but it was still very good and even better as leftovers with salad the next day

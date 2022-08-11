@@ -1,0 +1,37 @@
+Recipe number:
+222554.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-11-22T15:59:42.68
+helpfulCount:
+5
+userID:
+1704050
+Display Name:
+Jackie C
+isPro:
+False
+followersCount:
+17
+followingCount:
+0
+madeRecipesCount:
+401
+favoritesCount:
+2311
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/613546.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't make them as a shot, but made a bunch in a pitcher as a Thanksgiving "dessert" even though I think we finished them off before dinner...very smooth.  No matter how hard I tried I couldn't layer them so I gave up and just mixed it.

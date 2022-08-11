@@ -1,0 +1,72 @@
+Recipe number:
+246004.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-02-26T14:00:35.027
+helpfulCount:
+0
+userID:
+22269944
+Display Name:
+Sariah Griffin
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+244
+favoritesCount:
+990
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7765894.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was so looking forward to eating this and I was terribly disappointed.  It was very easy to make but, the flavors just did not go together for me.  On the other hand, I do believe White Chocolate would be a better fit for me.  I will try again with that.
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-03T06:33:10.35
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1018
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple idea that tasted good. It wasn't very sweet, even with the extra peanut butter chips I sprinkled on top, but it was sweet enough. I went ahead and stirred the chips in while it was still in the pan. (It might be fun for kids to stir them into their own bowls.) I thought 3 minutes was too long to let the cereal sit before stirring them in. At 2 minutes  I put them in--the cereal was already starting to set too much, and I didn't want it to get too lumpy for my picture. Next time I will stir in right away. Thanks for the idea. I hadn't had farina in a while, and I think I'll try this with some cinnamon chips I have.

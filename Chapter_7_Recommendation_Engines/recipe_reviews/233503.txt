@@ -1,0 +1,252 @@
+Recipe number:
+233503.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-29T19:16:52.013
+helpfulCount:
+3
+userID:
+14327656
+Display Name:
+Sona Gupta Joshi
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1476571.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it exactly as per the recipe. The batter was a little runny. 
+Cake turned out very tasty but was a little crumbly and dry.
+Eating it the next day, the cake is soft although still crumbly.
+I baked it in a convection mode microwave oven. First at 170 deg C for 40 minutes and then at 160 deg C for 50 minutes.
+
+Will try adding a cup of curd and only 1.5 cups of water next time.
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-28T15:10:46.073
+helpfulCount:
+2
+userID:
+5312096
+Display Name:
+Wendy Griffiths
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3433108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A little oily but very nice.  I used an 8" square pan and a medium ring pan and it cooked in an hour--350 for the first 45 mins then 325 for the next 15 minutes.  In a square pan I would use parchment or brown paper to absorb the extra oil.  But still a great cake for someone who is allergic to dairy.
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-02T05:01:07.843
+helpfulCount:
+2
+userID:
+3789919
+Display Name:
+Annette Hazelhoff-Berkers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6993889.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+tasted very good, but was very crumbly
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-11T23:01:58.103
+helpfulCount:
+1
+userID:
+2163160
+Display Name:
+Cathi Webster
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+174
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1806625.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't add the salt. I used 1 cup brandy and 2 cups water instead of all water. It turned out great. I had 3 loaves. I took it to coffee hour at church and it was a hit as well there. Everyone was raving about how good it was and asked for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-20T17:56:34.137
+helpfulCount:
+1
+userID:
+21936360
+Display Name:
+yumfoodie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A hit!  Changed it up a bit after reading the reviews to keep it moist also used flute pan and only cooked 40 minutes to perfect.
+Review:
+Rating:
+3
+dateLastModified:
+2016-12-01T00:03:04.627
+helpfulCount:
+1
+userID:
+8706670
+Display Name:
+Bob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this recipe because it was less work then the old family recipe I have used in the passed. I did save some effort, but the results where disappointing . The cake is dry, lacks integrity and taste is so so.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-19T14:09:52.46
+helpfulCount:
+0
+userID:
+22756847
+Display Name:
+Cindy Hutchison
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7459652.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the best fruit cake I’ve made and my husband likes it , I’ve spoiled him once again on my cooking and baking ! I have to make it every year for Christmas.

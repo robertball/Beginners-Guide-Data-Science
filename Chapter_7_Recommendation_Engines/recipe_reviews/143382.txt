@@ -1,0 +1,73 @@
+Recipe number:
+143382.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-08T08:30:53.24
+helpfulCount:
+21
+userID:
+1493085
+Display Name:
+Jessica Paige
+isPro:
+False
+followersCount:
+23
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+319
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/455816.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a fruit salad/soup that my Dad could eat as he has Diverticulitis and came upon this recipe; luckily he can have blueberries as opposed to any other berry. The mixture of fruits in this recipe was wonderful, the color was off putting to my husband (as he doesn't eat things that are purple in color...weird, I know), but it was enjoyed by all at our Easter brunch. Next time I make it, I may garnish it with poppyseeds - just for an added WOW factor. Thank you Austin for sharing this recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2013-08-30T16:19:38.477
+helpfulCount:
+2
+userID:
+11871340
+Display Name:
+rose in winter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Six servings?  This made more like 12!  That was a surprise; thank goodness the soup is do tasty!
+I am allergic to honeydew melon, so I took a risk and replaced it with 1/4 of a watermelon.  It gave the soul a bit of a pleasant tang.  Delicious!  And healthy enough for my husband, who cannot have high fat or cholesterol-heavy food!

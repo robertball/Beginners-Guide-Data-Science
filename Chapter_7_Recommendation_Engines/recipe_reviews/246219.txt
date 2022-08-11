@@ -1,0 +1,72 @@
+Recipe number:
+246219.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-16T18:36:57.513
+helpfulCount:
+1
+userID:
+9735794
+Display Name:
+Jaana Smith Bauman
+isPro:
+False
+followersCount:
+97
+followingCount:
+0
+madeRecipesCount:
+92
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1215746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! Next time I will probably add spinach and mushrooms, but very tasty as is! Will make again!
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-02T22:36:02.18
+helpfulCount:
+0
+userID:
+7066726
+Display Name:
+Valerie Condne
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1986298.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used Coby Jack cheese, no brie! My son loved it! Ate all the leftovers!! Asked to make it again! He did ask to add spinach next time!  Yum!!

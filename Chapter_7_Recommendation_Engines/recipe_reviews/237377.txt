@@ -1,0 +1,72 @@
+Recipe number:
+237377.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-15T13:16:53.64
+helpfulCount:
+0
+userID:
+2149570
+Display Name:
+Nancy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+173
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is my recipe so of course I love it, but I agree it needs more salt.  If we were not serving people who need to avoid salt, I would increase it substantially.
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-24T02:18:35.577
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Interesting rolls.. very easy,  Will make again but for me it really needs more salt

@@ -1,0 +1,72 @@
+Recipe number:
+245354.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-23T08:26:42.313
+helpfulCount:
+1
+userID:
+16546044
+Display Name:
+Sarah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+182
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe - thanks! Made it just as you outlined, even added a handful of chia seeds at the end. Tasted great!
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-09T12:10:49.7
+helpfulCount:
+1
+userID:
+12690585
+Display Name:
+gem bee
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+134
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2518340.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Normally I wouldn't review my own dish, but I see where the "notes" got cut off here some.  I would like to mention a couple things, cutting recipe in half is easy of course, preferred first time possibly.  Pretty much 1 egg per 1 cup of unsweetened almond milk.  I find using a bit more corn starch insures the desired thickness.  Some like sweeter, so  you can add a bit more coconut sugar also when cooking.  Also, if you feel to thin a pudding, add a  bit of CHIA seed to thicken.  Remember, it continues to thicken as it sets.  So very little would be needed like 1 Tablespoon or less.

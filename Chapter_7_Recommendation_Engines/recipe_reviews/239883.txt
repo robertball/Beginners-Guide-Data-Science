@@ -1,0 +1,37 @@
+Recipe number:
+239883.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-23T19:23:19.833
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you are going to use mushrooms as buns then the bell peppers are not needed and vice versa. I actually did it both ways and preferred the bell pepper buns. There is quite a bit of mushroom going on in the inside of the burger and so the shroom buns seems overkill. My mushroom caps were huge too so that might have played a part. Regardless, this was a great recipe and I enjoyed it. I didn't end up using the egg and I used green onions for the onions. Great recipe and one I would make again!

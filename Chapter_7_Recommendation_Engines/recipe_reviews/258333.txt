@@ -1,0 +1,37 @@
+Recipe number:
+258333.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-30T21:58:53.893
+helpfulCount:
+0
+userID:
+23348694
+Display Name:
+Marina Nederlof
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5140691.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just lovely!  reminds me of my Opa's Krentenbrood when I was a kid (he was also a baker!)  I added a bit of lemon zest and soaked the currants and raisins longer than needed and added rum to the bath for a wee bit more flavour.

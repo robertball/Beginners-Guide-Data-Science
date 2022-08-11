@@ -1,0 +1,72 @@
+Recipe number:
+232668.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-13T06:22:40.207
+helpfulCount:
+8
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I melted a tiny amount of butter (couple tbsps) and added the seasonings to the butter. I also increased the garlic and onion powder. Delicious and most definetly addictive. Next time, I will double the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2013-05-19T14:46:26.68
+helpfulCount:
+6
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The amount of oil for the popcorn was wonderful!  I didn't have that oily feeling as I ate it!  The heat of this was noticeable, but not overwhelming!  I'll be making this again!

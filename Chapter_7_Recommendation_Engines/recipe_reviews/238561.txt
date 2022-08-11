@@ -1,0 +1,37 @@
+Recipe number:
+238561.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-07T16:00:48.3
+helpfulCount:
+0
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+222
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+867
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is more dense than a traditional banana bread but it has a nice flavour and it's also moist. I don't own a bread machine so I mixed everything in a bowl and baked it for 55 minutes @350. Since organic bananas tend to be smaller I used 1 cup of mashed bananas along with organic flour, eggs and cinnamon. I didn't include the walnuts because of a nut allergy in the family and used chips instead of chunks. Thanks for the recipe.

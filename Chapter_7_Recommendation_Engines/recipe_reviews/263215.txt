@@ -1,0 +1,37 @@
+Recipe number:
+263215.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-28T15:56:25.39
+helpfulCount:
+0
+userID:
+4310907
+Display Name:
+Boyd Reid
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+49
+favoritesCount:
+757
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4513182.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you shy away from raw fish in any form, you can handle this. The texture is firm enough to overcome the eww factor and raw enough to not destroy the raw feeling of the fish.  Address the pickle on an as desired basis. If you're not a pickle fan, go lighter but don't omit. I've tried this several times because I like sushi but was looking for a less than Japanese way of eating it. This fits the bill perfectly! Enjoy!

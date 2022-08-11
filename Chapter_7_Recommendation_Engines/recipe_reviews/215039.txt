@@ -1,0 +1,107 @@
+Recipe number:
+215039.txt
+Review:
+Rating:
+2
+dateLastModified:
+2011-06-23T14:55:05.873
+helpfulCount:
+7
+userID:
+5336972
+Display Name:
+mike botula
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/656261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Essentially this recipe is a classic.Tasty summertime salad or side dish - EXCEPT for the MAYONNAISE. Too heavy. Try  it with a vinaigrette.
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-30T21:16:50.487
+helpfulCount:
+6
+userID:
+3573045
+Display Name:
+Anastasia Fiske
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+91
+favoritesCount:
+835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4947278.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you for the recipe, the crunch of the walnuts is a plus!
+Review:
+Rating:
+3
+dateLastModified:
+2015-08-25T15:29:53.53
+helpfulCount:
+0
+userID:
+4271606
+Display Name:
+Chia the Cooking Maven
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1101525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree with Mike. The mayo seemed bland.  A vinaigrette would have given the beet salad more pazazze. I added 1 Tbsp. each of fresh Lime juice & Lemon juice. I may add a bit more or some vinegar. I think the beets taste best just cooked and sliced.

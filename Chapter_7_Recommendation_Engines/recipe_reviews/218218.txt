@@ -1,0 +1,107 @@
+Recipe number:
+218218.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-07-18T14:33:53.47
+helpfulCount:
+22
+userID:
+6422567
+Display Name:
+Friendship Bread Kitchen
+isPro:
+False
+followersCount:
+42
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/598520.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!!
+Review:
+Rating:
+5
+dateLastModified:
+2012-02-16T18:59:06.563
+helpfulCount:
+17
+userID:
+2827191
+Display Name:
+Amanda L.
+isPro:
+False
+followersCount:
+31
+followingCount:
+0
+madeRecipesCount:
+49
+favoritesCount:
+498
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/815314.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I only made the frosting part of this recipe because i already had a cake i was making but had no frosting and i found this and this frosting is so delicious and creamy smooth, we really like this frosting, Also I used butter flavor crisco, has a nice buttery taste to it Thank you.
+Review:
+Rating:
+2
+dateLastModified:
+2015-11-03T20:05:36.78
+helpfulCount:
+0
+userID:
+14044553
+Display Name:
+Bobbie Shaw
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+170
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2620764.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't care for it, but then I'm not a big fan of cherry flavored food. Will not repeat.

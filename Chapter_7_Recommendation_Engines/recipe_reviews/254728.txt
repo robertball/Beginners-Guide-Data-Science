@@ -1,0 +1,37 @@
+Recipe number:
+254728.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-28T01:20:39.717
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+775
+followingCount:
+0
+madeRecipesCount:
+1676
+favoritesCount:
+3991
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This makes a fabulous breakfast or snack! I didn't have the Yoplait yogurt suggested, so I used Greek yogurt and added a few diced strawberries and a little stevia. Tastes great and I feel good about the added protein to keep me full until my next meal.

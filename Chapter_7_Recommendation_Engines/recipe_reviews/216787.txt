@@ -1,0 +1,37 @@
+Recipe number:
+216787.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-04T16:04:31.057
+helpfulCount:
+0
+userID:
+25797213
+Display Name:
+Stephy317
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made these twice now, and they turned out really nicely - and so pretty  too!  Let them cool completely before eating; they are even better on the second day and seem to freeze well.  I added jam both times I made them (see "cook's notes" section).  Be sure to use a thicker, non-watery jam or the edges of the Danish will get soggy.

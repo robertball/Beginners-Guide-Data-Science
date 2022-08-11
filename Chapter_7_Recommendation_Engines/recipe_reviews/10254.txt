@@ -1,0 +1,37 @@
+Recipe number:
+10254.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-29T19:47:28.663
+helpfulCount:
+0
+userID:
+8236448
+Display Name:
+Karyl Griffin
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1241297.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Can't say enough about using the Basic Cookie Mix and customizing it!  This is now the family go-to recipe since you can mix up a big container full, stick it in the pantry and pull out and easily whip up a fresh batch of cookies anytime you want.  Going to experiment with pre-making some and freezing the dough to pull out a few at a time and baking next.

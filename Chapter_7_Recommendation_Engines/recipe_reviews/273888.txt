@@ -1,0 +1,32 @@
+Recipe number:
+273888.txt
+Review:
+Rating:
+5
+dateLastModified:
+05/06/2020
+helpfulCount:
+0
+userID:
+12041915
+Display Name:
+madampojat
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5854350.jpg
+text:
+Delicious !
+Review:
+Rating:
+4
+dateLastModified:
+06/10/2019
+helpfulCount:
+0
+userID:
+rainbowjewels
+Display Name:
+RainbowJewels
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3447701.jpg
+text:
+This was very good and very easy to prepare. I used a bit more garlic than was called for - just my personal preference. I would have preferred this with more of a spicy kick - perhaps some cumin chili powder or a bit of jalapeno but again that's just my preference. This dish was full of flavor and the chicken was tender and delicious.

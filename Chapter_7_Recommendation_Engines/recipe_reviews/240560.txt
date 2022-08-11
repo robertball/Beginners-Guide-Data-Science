@@ -1,0 +1,161 @@
+Recipe number:
+240560.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-05-28T03:31:24.023
+helpfulCount:
+2
+userID:
+15805860
+Display Name:
+dying
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have a few suggestions:
+
+Increase Hot chocolate to 2T and reduce Cocoa by 1.5T. 
+
+Even if you forego hot chocolate mix, reduce cocoa by 1.5T, it will be chocolatey enough. Do this for kids otherwise it will be too bitter.
+
+The chocolate milk should be tasted before using, if it's sickly sweet lik the ones for kids, reduce sugar by 1T. This is presumably meant to counter the cocoa's bitterness since usually sugar>cocoa and in the recipe they're pretty much equal.
+
+The chocolate milk can be replaced by coffee or plain milk.If you find it too sweet than do this. Add 1/4t instant coffee powder if you don't have coffee.It accentuates the chocolate feel.
+
+Add egg last. Taste the batter before adding it. If you find it too sweet, increase the cocoa 1t at a time. If you find it too bitter increase sugar 1t at a time. 1-2T of either dry ingredient can be added easily, without increasing the liquid ingredients, depending upon whether or not you added the hot choc mix (it can be increased to 3T if you did not add it).
+
+If you have a leavening agent add it -1/4t of baking powder or soda.
+
+Add walnut or almonds for a brownie feel.Making it eggless will turn it into a brownie.
+Divide in two mugs so you can experiment with time without spoiling the entire batter.E.g. One cake gets spoiled, you can try with another.
+
+It makes 3 cupcakes if you're out of mugs or 6 mini cupcakes.
+
+Hope this helps!
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-20T02:41:09.247
+helpfulCount:
+1
+userID:
+17978032
+Display Name:
+Cupcakes_4_Life
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it and used Hershey special dark chocolate and it was a tad bit bitter I would not recommend using special dark
+Review:
+Rating:
+4
+dateLastModified:
+2014-12-16T10:53:30.883
+helpfulCount:
+1
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+521
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2074
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the first cake in a mug that I have seen without any leavening so I was worried about it raising. Turned out fine. It was dense but not that spongy texture so many of these have. Just a tad too sweet for our taste but that could be adjusted. Thanks for sharing.
+Review:
+Rating:
+2
+dateLastModified:
+2015-01-11T20:48:46.78
+helpfulCount:
+0
+userID:
+9706830
+Display Name:
+birdluv4ever
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+72
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1029336.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe seemed perfect but didn't turn out so. I followed the direction and got a fluffy cake mixture that didn't really taste like anything at all. Needed to be sweeter.

@@ -1,0 +1,107 @@
+Recipe number:
+242263.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-06T08:04:39.593
+helpfulCount:
+0
+userID:
+17392447
+Display Name:
+Amanda SusieQ
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+769
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great riff on the standard baked potato! Loved it.
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-16T20:53:04.107
+helpfulCount:
+0
+userID:
+20143631
+Display Name:
+jojohn215@yahoo.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! I added 1/2 package of cream cheese to the potatoes! Hum hum good!
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-23T04:50:58.09
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+245
+followingCount:
+0
+madeRecipesCount:
+1342
+favoritesCount:
+2865
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok, these are amazing.  I had chimichurri sauce frozen from another recipe. Mine was super potent so I didn't use a cup. I will definitely make this again. I buttered the top of the potato that I cut off and crisped it in the oven when I reheated the potatoes.  It was a good crunch. ;) The extra sauce drizzled on top is perfect.

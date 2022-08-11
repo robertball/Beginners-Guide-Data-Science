@@ -1,0 +1,37 @@
+Recipe number:
+261583.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-31T19:31:22.68
+helpfulCount:
+0
+userID:
+25030118
+Display Name:
+Michelle Mandino
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6321070.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+l made this which was very easy and l added about 1/8 tsp almond extract and instead of using water, l used white corn syrup to get it to hold together.... lt was very good and extremely easy to make

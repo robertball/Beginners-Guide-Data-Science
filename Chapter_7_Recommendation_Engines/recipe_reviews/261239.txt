@@ -1,0 +1,37 @@
+Recipe number:
+261239.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-04T20:50:41.307
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+521
+favoritesCount:
+2133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I whipped up a batch of this for a last minute dish to bring to work since I had all the ingredients on hand.  Very simple and quick! I found it to be a bit thin (I prefer my dips thicker) and a little strong in pumpkin flavor, so I added another half block of cream cheese. No extra sweetener needed. I then added some freshly grated nutmeg and some cloves.  Instead of these individual spices, you could just use about 2tsp of pumpkin pie spice, or more to taste.  I served these with Nilla wafers and everyone loved it!

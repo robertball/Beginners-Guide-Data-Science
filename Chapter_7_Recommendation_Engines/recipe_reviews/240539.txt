@@ -1,0 +1,72 @@
+Recipe number:
+240539.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-12T03:13:33.32
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and these turned out really good. I ended up with a lot more chocolate leftover so my only recommendation is to scale it back to 1 cup of chocolate chips instead of 1 1/2 cups. The cereal adds a really nice crunch!
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-28T01:23:08.33
+helpfulCount:
+1
+userID:
+21940621
+Display Name:
+hill
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don’t use the corn flakes, but it tastes awesome

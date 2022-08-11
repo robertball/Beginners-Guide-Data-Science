@@ -1,0 +1,109 @@
+Recipe number:
+272908.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-27T20:00:39.557
+helpfulCount:
+3
+userID:
+16603596
+Display Name:
+Sean J
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6596553.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe exactly as described and it is wonderful. I used all of the simple syrup and my wife and I think it's just right. I'm also trying this recipe with orange peel. Give it a try, you won't be dissappointed.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-04T19:50:44.76
+helpfulCount:
+1
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+1971
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5/4/19: Just started this today, and so far so good! I was only able to find a 750 ml bottle of Everclear, so I adjusted the recipe down to about 30 servings, and used the zest of 9 lemons. I put it in a large glass jar, and will let it sit in the cellar for a month--and I'll update my review then! EDIT 9/2/19: Finally got around to editing my review! Since I scaled this down to 30 servings, the recipe called for 3 cups water and 3 cups sugar for the simple syrup--and we used all of it to suit our tastes. This was really pretty easy to make, and it tastes fantastic (particularly when added to a some iced tea)! It's very lemony, and perfectly sweet without being overwhelming. Will definitely be making this again!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-07T22:25:06.44
+helpfulCount:
+0
+userID:
+25941921
+Display Name:
+Jane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Did this for Christmas gifts.  Made exactly as given. 
+Did mix Ever Clear equally with Simple Syrup, to give a 90 proof drink.  
+Took the bottles of Limoncello & placed then into a freezer safe container, & filled the container with water.  After the water froze., the Limoncello was delivered in its own block of ice. The bottle slide out of the ice for pouring.

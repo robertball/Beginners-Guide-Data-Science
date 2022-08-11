@@ -1,0 +1,37 @@
+Recipe number:
+235547.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-25T12:15:46.587
+helpfulCount:
+0
+userID:
+14413013
+Display Name:
+Leslieann570
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1525260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe as is

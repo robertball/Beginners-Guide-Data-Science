@@ -1,0 +1,72 @@
+Recipe number:
+246211.txt
+Review:
+Rating:
+1
+dateLastModified:
+2016-03-23T19:50:10.657
+helpfulCount:
+0
+userID:
+516054
+Display Name:
+KGora
+isPro:
+False
+followersCount:
+8026
+followingCount:
+0
+madeRecipesCount:
+375
+favoritesCount:
+1874
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2505934.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was excited to find a new way to use up all the venison in the freezer. I even made a special trip to the store for the bourbon. I fried the burgers in a cast iron frying pan on the stove but other than that followed the recipe as is. The bourbon way overpowered all the other flavors. Even the venison lovin' mighty hunter of the house didn't care for these. Sorry.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-10T18:37:55.287
+helpfulCount:
+0
+userID:
+9550403
+Display Name:
+Jennifer Aleman
+isPro:
+False
+followersCount:
+7278
+followingCount:
+0
+madeRecipesCount:
+207
+favoritesCount:
+831
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6012647.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love burgers and this one didn't dissapoint. I just used beef as it's not that easy to get venison around my area. The bourbon adds a great touch and its flavor works great with the BBQ sauce, cheese and bacon. My cheese of preference is cheddar so that's what I used for the recipe. I added home made BBQ sauce, tomato and spring salad. Delicious!!!

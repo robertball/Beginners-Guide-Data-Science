@@ -1,0 +1,37 @@
+Recipe number:
+63409277.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-05T22:13:56.047
+helpfulCount:
+0
+userID:
+6024960
+Display Name:
+Beth Mower Dodge
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+31
+favoritesCount:
+519
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2831276.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this several times (since it is my recipe), and I have mixed up the cheeses and meat. It works every way I make it. Ham works well with chopped peppers and cheddar cheese and bacon works well with broccoli and swiss.

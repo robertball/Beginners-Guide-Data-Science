@@ -1,0 +1,72 @@
+Recipe number:
+237559.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-14T06:48:47.443
+helpfulCount:
+1
+userID:
+10703220
+Display Name:
+Diana Mc
+isPro:
+False
+followersCount:
+54
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7679117.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a delicious drink for any time of the day.  I omitted the dates since I don't keep them on hand.  I used ice cubes instead of frozen pineapple.  I also used mixed berries (I already had mixed in the freezer) instead of black berries.
+Review:
+Rating:
+3
+dateLastModified:
+2014-07-27T11:11:33.083
+helpfulCount:
+1
+userID:
+21907115
+Display Name:
+Allrecipes Community
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to add 1/3c water to this to get the blender to chop up the dates and blackberries.  But regardless, I thought it had a kind of a "sickly" sweet flavor to it.  I did use almost twice as much kale (had to use it up), so that may have contributed to the issue, but I wonder if it was actually the vanilla extract.  I would leave that out.

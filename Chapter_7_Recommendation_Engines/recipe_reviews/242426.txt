@@ -1,0 +1,37 @@
+Recipe number:
+242426.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-14T17:33:08.93
+helpfulCount:
+0
+userID:
+23162234
+Display Name:
+Jeanne Matkin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4999209.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as specified, and it is astonishingly good!  We always have clam chowder on Christmas Eve (big, traditional prime rib or turkey wing-ding is the next day).  No biggie if you don't have cast iron, but resist the temptation to omit the bacon grease or liquid smoke.  They are essential to the flavor.

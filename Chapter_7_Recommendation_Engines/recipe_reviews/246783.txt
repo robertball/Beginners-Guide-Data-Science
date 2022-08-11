@@ -1,0 +1,72 @@
+Recipe number:
+246783.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-29T01:08:56.04
+helpfulCount:
+1
+userID:
+12906662
+Display Name:
+debbie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+375
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it exactly as written, with the exception of halving it, since I was the only one that would be eating it. Next time, I think I will use a little less ginger, just because the it was a little stronger than I like.  All in all good and different from regular Cole slaw. I especially liked that sweet tart contrast of the mango.
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-19T17:29:45.42
+helpfulCount:
+0
+userID:
+13721104
+Display Name:
+Jamie Heise
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+216
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3936218.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Will definitely make again! A great alternative to boring regular coleslaw

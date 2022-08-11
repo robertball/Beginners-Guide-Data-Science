@@ -1,0 +1,107 @@
+Recipe number:
+212761.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-12-25T05:55:25.907
+helpfulCount:
+15
+userID:
+825801
+Display Name:
+Dawn
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+91
+favoritesCount:
+482
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/588990.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is for the cook asking where the curry was    Curry Powder  By:   Allrecipes Staff    Description  Widely used in Indian cooking, authentic Indian curry powder is freshly ground each day and can vary dramatically depending on the region and the cook. Curry powder is actually a pulverized blend of up to 20 spices, herbs and seeds. Among those most commonly used are cardamom, chiles, cinnamon, cloves, coriander, cumin, fennel seed, fenugreek, mace, nutmeg, red and black pepper, poppy and sesame seeds, saffron, tamarind and turmeric (the latter is what gives curried dishes their characteristic yellow color). Commercial curry powder--which bears little resemblance to the freshly ground blends of southern India--comes in two basic styles: standard, and the hotter of the two, "Madras" curry powder.
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-30T14:24:03.897
+helpfulCount:
+6
+userID:
+1867459
+Display Name:
+Kym Cox Surridge
+isPro:
+False
+followersCount:
+53
+followingCount:
+0
+madeRecipesCount:
+457
+favoritesCount:
+1572
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2810793.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent and very easy to make. It was much spicier than I expected, but we like it that way. I used coconut milk instead of heavy cream, coconut oil, and about half the onions. I think the 1 tsp cumin seeds in the recipe is supposed to be mustard seeds, because cumin seeds don't splutter, but mustard seeds do (also, it seems odd to have both cumin seeds and ground cumin in the recipe), so I used mustard seeds. And finally, I added cauliflower because I had some I needed to use up. Great flavor and a definite keeper!
+Review:
+Rating:
+3
+dateLastModified:
+2009-12-24T23:11:22.073
+helpfulCount:
+3
+userID:
+3925335
+Display Name:
+jean watkins
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+where's the curry

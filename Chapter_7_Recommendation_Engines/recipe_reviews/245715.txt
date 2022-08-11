@@ -1,0 +1,37 @@
+Recipe number:
+245715.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-01T19:09:36.907
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were great! The only thing I think this could have used was a little greenery (arugula or baby spinach) for some added texture and crunch.

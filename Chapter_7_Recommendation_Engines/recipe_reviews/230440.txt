@@ -1,0 +1,37 @@
+Recipe number:
+230440.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-09-24T15:01:41.86
+helpfulCount:
+2
+userID:
+1865315
+Display Name:
+Cathy G.
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+456
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/79383.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Interesting blend of flavors. I forgot to season with salt and pepper so did that on our plates and yes it did need the extra seasoning. We were not fans of the baby carrots in this.

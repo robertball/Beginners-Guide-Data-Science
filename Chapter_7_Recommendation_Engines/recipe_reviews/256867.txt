@@ -1,0 +1,72 @@
+Recipe number:
+256867.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-03T20:27:49.74
+helpfulCount:
+1
+userID:
+22035681
+Display Name:
+NAG44777
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+85
+favoritesCount:
+1070
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good. I skipped from putting it into a wrap. Gave some to my mom and she loved it. Will be keeping this one. Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-05T16:37:31.35
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was yummy.. I had this both hot and cold and it was great both ways.  Next time I will make more sauce and keep some to drizzle over the rice. I did cook the carrots briefly... tossed them in with the rice during the last 5 minutes of cooking

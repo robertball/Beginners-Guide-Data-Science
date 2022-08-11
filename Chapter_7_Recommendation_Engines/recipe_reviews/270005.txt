@@ -1,0 +1,107 @@
+Recipe number:
+270005.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-07T04:29:14.797
+helpfulCount:
+4
+userID:
+16985200
+Display Name:
+Dawn Fulton
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+1030
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3102235.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+jsandeen.... Why would you rate something you haven't even tried? I'm aware that I too am doing so, hoping that this 5 star will offset your 3 star. The amount of fat rendered from one pound of bacon can very greatly depending on the bacon you buy. I've been cooking with bacon fat for 40 years so I have some experience to back up that statement. If it looks like too much fat pour some off but keep it in reserve, just in case.
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-28T20:04:54.787
+helpfulCount:
+1
+userID:
+2971638
+Display Name:
+Renee Z
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+937
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/121378.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We enjoyed this. I made 2 small changes. I used sliced turkey instead of bacon, and I added mushrooms. I never would have thought of cooking eggs in with hash browns. It was good.
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-05T21:27:59.887
+helpfulCount:
+0
+userID:
+9076035
+Display Name:
+jsandeen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+2347
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I haven't made this yet, but can't imagine leaving all the grease from a pound of bacon in it!  Surely that's not right?

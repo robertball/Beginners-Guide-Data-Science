@@ -1,0 +1,513 @@
+Recipe number:
+187418.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-22T15:12:21.27
+helpfulCount:
+31
+userID:
+3194206
+Display Name:
+Aliza Finley
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/549138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+if you're not a huge blue cheese fan, i recomend only using 1/2 a cup of it, or any kind of cheese works.
+Review:
+Rating:
+4
+dateLastModified:
+2009-10-13T19:26:44.96
+helpfulCount:
+21
+userID:
+4085010
+Display Name:
+havenrose7
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/276947.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this today with a friend and we both liked it.  I used feta cheese and only half the amount called for in the recipe.  I don't see an issue with cooked avocado either...Pat and Oscars has a pizza with it and I like it all!
+Review:
+Rating:
+5
+dateLastModified:
+2009-05-15T16:06:51.427
+helpfulCount:
+15
+userID:
+2692373
+Display Name:
+American
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+306
+favoritesCount:
+573
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/219555.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good!! It was a big hit with my family!!
+Review:
+Rating:
+5
+dateLastModified:
+2010-05-27T08:59:36.343
+helpfulCount:
+11
+userID:
+1804169
+Display Name:
+Julie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3054.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This is most decadent breakfast casserole ever. I made with fresh bleu cheese and yummy Roma tomatoes. It turned out so fluffy and light.
+Review:
+Rating:
+5
+dateLastModified:
+2011-01-23T13:42:27.143
+helpfulCount:
+10
+userID:
+1242960
+Display Name:
+AMYJ4KIDOS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+134
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/561021.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was DELISH!!! OH my!  I love cobb salads, and this was very good!  It will be a keeper in my box.  We made it for Sunday Brunch before church.  Lots of flavor, as for the comment about cooked avocado, its not really, cooked, just heated thru, and as you let the casserole sit to cool down, so does the avocados.  Thanks for sharing a great recipe!
+Review:
+Rating:
+3
+dateLastModified:
+2011-03-11T10:16:47.323
+helpfulCount:
+8
+userID:
+596344
+Display Name:
+Angie Fuller
+isPro:
+False
+followersCount:
+77
+followingCount:
+0
+madeRecipesCount:
+185
+favoritesCount:
+362
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2697848.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hmmm, just so so. The blue cheese (which we normally love) was overpowering.
+Review:
+Rating:
+5
+dateLastModified:
+2011-06-14T14:53:11.9
+helpfulCount:
+7
+userID:
+7190998
+Display Name:
+MBgirl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good!  Made this for co-workers and everyone loved it.  It took longer than 25 minutes to cook- almost double that.  I had to keep an eye on it.
+Review:
+Rating:
+1
+dateLastModified:
+2009-03-22T14:53:49.603
+helpfulCount:
+7
+userID:
+804007
+Display Name:
+VIVNIDHI
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1680
+favoritesCount:
+1524
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cooked avocado does not taste good.
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-02T11:04:51.03
+helpfulCount:
+6
+userID:
+3918900
+Display Name:
+Randi Evans
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+315
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1645707.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is amazing!!!  I used Egg Beaters to cut on the fat and didn't use the tomatoes simply because I don't like tomatoes, but I'm sure with them it would be yummy.  If you decide to use Egg Beaters, 1/4 cup equals one egg.  5 stars all the wa around!!!
+Review:
+Rating:
+3
+dateLastModified:
+2011-04-25T08:54:29.083
+helpfulCount:
+6
+userID:
+2586118
+Display Name:
+Jackie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love Cobb Salad so thought this would be just as good. I made it for a large Easter Sunrise service and was disappointed. In a salad the different flavors are great but it just didn't make for a good breakfast casserole. Not a single person oooed over it. It also took much longer to cook than the stated 25 minutes (and yes, I did preheat my over). It did LOOK nice and SOUND great, but I won't make it again. :(
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-08T00:58:57.697
+helpfulCount:
+0
+userID:
+15052875
+Display Name:
+KentuckyPJ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wound up revamping this recipe almost entirely because my pantry didn't contain what I thought it did!
+
+1 Tblsp olive oil for pan prep
+6 eggs
+1/2 c sour cream
+1/4 c 1% milk
+1/8 c shredded mozzarella cheese
+1/8 c shredded sharp cheddar cheese
+1/2 frozen broccoli florets
+1/4 c chopped, cooked breakfast sausage
+1/2 c cooked, shredded chicken breast
+fresh-ground kosher salt and black pepper
+2 dashes paprika
+
+Lightly oil an 8" x 8" baking pan and set aside. Crack eggs into large mixing bowl and whisk until smooth and lemon-colored. 
+
+Add and stir in milk, sour cream, salt, pepper, paprika until mixed. Fold in cheeses, broccoli, sausage. Bake at 350 degrees for 35 minutes. 
+Add a sprinkle of cheeses, turn oven broiler on and broil until browned at the edges and bubble-y, about 5 minutes. 
+
+Remove from oven and let sit for a couple of minutes. Slice, serve and enjoy!
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-14T20:00:18.927
+helpfulCount:
+0
+userID:
+3998252
+Display Name:
+Debbie Edwards
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought the blend of flavors was very good, with a lot of protein and low carb, which is good for me. I didn't have any avocados, so I served some guacamole on the side.  A dip of the fork in that before each bite seemed to work well.
+Review:
+Rating:
+4
+dateLastModified:
+2015-10-23T11:32:10.543
+helpfulCount:
+0
+userID:
+16593256
+Display Name:
+Tomato
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2686366.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I took out the bacon, and vinaigrette due to the fact that, A: Girlfriend can't eat red meant, B: I didn't have vinaigrette. 
+
+This is the perfect breakfast to make the day before and reheat in the oven in the morning. Also easy and simple for those college students out there like myself.
+Review:
+Rating:
+1
+dateLastModified:
+2012-12-26T12:29:00.96
+helpfulCount:
+0
+userID:
+6676794
+Display Name:
+Stephanie Ouyoumjian
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+104
+favoritesCount:
+254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/54.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Not a hit. Nobody asked for seconds and some left portions on their plate. I'm not a fan of cooked avocado or blue cheese, but my mom loves both so I made it for her. She did like it. But everyone else, including me, would rather have a yummy traditional egg casserole or quiche.

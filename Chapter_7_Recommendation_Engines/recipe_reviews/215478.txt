@@ -1,0 +1,32 @@
+Recipe number:
+215478.txt
+Review:
+Rating:
+5
+dateLastModified:
+09/07/2010
+helpfulCount:
+4
+userID:
+3001998
+Display Name:
+Kristina
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/275720.jpg
+text:
+Moist and delicious a great stuffing for traditional dinners with a twist.
+Review:
+Rating:
+4
+dateLastModified:
+11/09/2012
+helpfulCount:
+0
+userID:
+2308309
+Display Name:
+Darryl
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/917806.jpg
+text:
+Great stuffing. Turned out well.

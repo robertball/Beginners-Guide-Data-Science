@@ -1,0 +1,76 @@
+Recipe number:
+132575.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-02-21T16:10:34.597
+helpfulCount:
+7
+userID:
+6484193
+Display Name:
+MarzipanMoose
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an amazing & easy supper dish! Ethereally light & fluffy (thanks to the beaten egg whites, which I didn't even beat to "stiff peaks")--subtle despite sage's tendency to be strong--flavorful enough to be a satisfying meal in themselves! 
+
+I made my own buttermilk with milk + lemon juice (so I didn't have to run to the store), and used Parmesan cheese instead of Romano.
+
+Mm :)
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-16T21:07:15.353
+helpfulCount:
+2
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+396
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe and easy too! Nice savory pancakes with a hint of sage. The addition of the Romano cheese puts them over the top.

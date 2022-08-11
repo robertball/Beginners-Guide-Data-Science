@@ -1,0 +1,111 @@
+Recipe number:
+256909.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-25T01:01:05.647
+helpfulCount:
+0
+userID:
+2329490
+Display Name:
+BrewCrew
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+313
+favoritesCount:
+80
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4084450.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was well loved at a first weekend of summer bbq.  I used 1 cups of dried cherries and 1/2 cup of cranberries.  The only this is that the egg mixture could have been cut in half.  WAY too much for the recipe as written.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-31T00:33:40.81
+helpfulCount:
+0
+userID:
+13875225
+Display Name:
+coops
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3198187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a fantastic recipe for a brunch or to celebrate a special event. It's not the cheapest dessert or breakfast but it's definitely worth making a couple times a year.
+
+I ended up with extra cherry juice after soaking the cherries and wished I'd reduced it to syrup to drizzle over the top with the cream.
+
+I used an 11x7 Pyrex dish and it fit while also puffing up over the edge to provide a nice presentation.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-25T02:42:07.457
+helpfulCount:
+0
+userID:
+541834
+Display Name:
+Lisa Altmiller
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+167
+favoritesCount:
+762
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6840434.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OMG I can't remember if I've ever rated a recipe 5 stars before, but this is to die for!  It was so easy to make too.  I made it when I got home from work, let it cool while we ate dinner, then ate it warm for dessert.  Everyone in the family went bananas over it....mmm....bananas...I bet that would be good in this too.  I substituted apples for cherries.  Delicious!

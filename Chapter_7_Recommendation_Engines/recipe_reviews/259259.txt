@@ -1,0 +1,37 @@
+Recipe number:
+259259.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-02T18:23:37.39
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+974
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very nice idea for a lunch on-the-go. I skipped the broiler part and cooked it like a regular frittata flipping it over to cook it on both sides. Thank you for the recipe.

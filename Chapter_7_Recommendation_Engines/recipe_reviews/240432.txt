@@ -1,0 +1,107 @@
+Recipe number:
+240432.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-11-17T03:00:36.053
+helpfulCount:
+1
+userID:
+4266095
+Display Name:
+Sylvia DeVries
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+806
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2557260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this bread and followed the directions and it was very moist.  Not sweet enough for my taste and it was too chocolatey.  I probably won't make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-19T10:10:01.627
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Bread was very good. I didn't have 2 loaf pans so I made the other half in muffins. I did add the nuts and chocolate chips
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-29T07:26:17.393
+helpfulCount:
+0
+userID:
+17143392
+Display Name:
+Beardie Mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3043396.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as muffins and they turned out perfectly.  I finely chopped the walnuts and then mixed in semi-sweet chocolate chips and topped each muffin with this mixture before baking.  Baked at 350*F for 30 minutes.  Muffins were cake-like and had good flavor, texture and were not too sweet.

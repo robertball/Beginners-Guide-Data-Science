@@ -1,0 +1,72 @@
+Recipe number:
+212527.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-16T08:25:50.977
+helpfulCount:
+10
+userID:
+2761942
+Display Name:
+DiamondGirl amanecer
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+350
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/593907.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We liked this dish. I`ve never tried chickpeas with sweet things before. Very interesting flavor and very easy to make too. I guess it will be the easiest thing if you use canned chickpeas.
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-13T17:26:01.05
+helpfulCount:
+0
+userID:
+13944208
+Display Name:
+nightfall
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+143
+favoritesCount:
+747
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good. The combination of ingredients was not familiar to me, but it ended up being a very nice weeknight meal. I made as directed in the recipe, except I used prepared shredded unsweetened coconut because I couldn't find any good fresh coconut at my grocery store.

@@ -1,0 +1,72 @@
+Recipe number:
+241383.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-10T23:40:06.373
+helpfulCount:
+0
+userID:
+1451015
+Display Name:
+Allyson 
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+151
+favoritesCount:
+798
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2611974.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My Mum and I were chatting. just this weekend. about fish pie.  It was a regular at our home in Wales.  This is a lovely, basic recipe that you'll soon perfect with  tastes if your own.  And even better the next day (fried as fish cakes ).  Folks are going to whinge that it's too bland etc...  But this is what is so gorgeous about fish pie.  It is so very comforting.
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-31T10:41:34.283
+helpfulCount:
+0
+userID:
+129061
+Display Name:
+Ann Maksymiw
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+119
+favoritesCount:
+544
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1311415.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this pie.  Flavour was excellent.  Just a little too much milk.  So next time I will judge the sauce by sight rather than just using all of the milk.  My fault and still a great dinner was had by all.  Even the leftovers were good the next day .

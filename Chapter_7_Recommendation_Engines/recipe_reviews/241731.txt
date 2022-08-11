@@ -1,0 +1,72 @@
+Recipe number:
+241731.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-21T23:38:40.83
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't expect to love this due to the cloves but I'm here to tell you this was excellent and went perfectly with my kabobs!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-08T01:48:17.2
+helpfulCount:
+0
+userID:
+16317403
+Display Name:
+Mary Steffens Arima
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+202
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2810053.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+EXCELLENT!!!  I’ve been looking for a restaurant-style spiced basmati recipe for a while now and THIS IS IT!!!  Soooooooo delicious and satisfying!  I made it as written except I used brown basmati rice and had to use cumin powder rather than the seeds, as I didn’t have any.  Worked just fine!  Thanks for a wonderful recipe!

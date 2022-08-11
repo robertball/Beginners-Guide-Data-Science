@@ -1,0 +1,37 @@
+Recipe number:
+235578.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-28T00:42:02.783
+helpfulCount:
+0
+userID:
+21123166
+Display Name:
+Stephanie Parry
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4381312.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added orange zest from half an orange but otherwise stayed true to the recipe until I tasted it. I found it to be way too sour--maybe too much vinegar?--so I added two more tablespoons of brown sugar. I'll be serving it as a topping for goat cheese tarts. I'll be mixing in honey to the goat cheese so I don't want to go overboard on the sweet, but I may be adding more sugar when I can taste the whole ensemble. I can barely detect the chili or ginger, so I also think you could increase both ingredients if you want some kick.

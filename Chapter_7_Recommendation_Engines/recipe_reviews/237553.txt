@@ -1,0 +1,37 @@
+Recipe number:
+237553.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-27T04:21:25.8
+helpfulCount:
+1
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an easy, tasty, and healthy spread, wonderful served on toasted baguettes.  Next time I would add additional chopped tomatoes.  It doesn’t look too appetizing so that’s the only downside, but I still might serve it for a gathering, challenging friends to give it a try.

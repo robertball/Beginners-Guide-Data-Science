@@ -1,0 +1,107 @@
+Recipe number:
+235955.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-11T10:09:00.867
+helpfulCount:
+6
+userID:
+3282787
+Display Name:
+Nana J
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+258
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these wonderful muffins this morning for breakfast, and they were delicious, tender, and moist.  I used coconut oil because that's what I use for all my cooking and baking.  I love cinnamon so I used a tablespoon.  I had some King Arthur Cake Enhancer for gluten free baked goods and added 2 Tbsp., but I'm sure it's good without it.  I did not have pumpkin puree and am not fond of pumpkin, so I substituted Orange-Apricot Marmalade which gave it a delicious hint of citrus, and I added chopped walnuts and raisins.  Since I wanted large muffins and had just purchased and received a hamburger bun pan from Amazon, I used that.  This made six large muffins, so it would probably make a dozen regular muffins.  My husband loved them, and you would not be able to guess they are gluten-free if you didn't know.  Thank you for this recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2014-10-31T03:57:21.24
+helpfulCount:
+0
+userID:
+2080355
+Display Name:
+scotton
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1119099.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used King Arthur multi-purpose flour for all the flour in this recipe. Its was ok and I will definitely make these again. Next time, I'll add chocolate chips or some other additional sweetener. My kids want it a little bit sweeter. Other then that, these were fine.
+Review:
+Rating:
+2
+dateLastModified:
+2014-02-02T08:02:30.317
+helpfulCount:
+0
+userID:
+3695573
+Display Name:
+Erin MaLoon Rowley
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+68
+favoritesCount:
+197
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1434923.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+texture was good, but the flavor was poor. I will not be making this again!

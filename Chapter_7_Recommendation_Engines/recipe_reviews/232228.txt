@@ -1,0 +1,72 @@
+Recipe number:
+232228.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-11T22:21:02.59
+helpfulCount:
+0
+userID:
+24872828
+Display Name:
+Meg Weiler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6301683.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a few alterations because I didn’t have most of the ingredients ??     1. 2 clementines 2. A huge apple 3. Around 2 cups of baby carrots. The carrots are the main source of flavor but overall it’s really good!
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-15T16:53:33.743
+helpfulCount:
+0
+userID:
+21967015
+Display Name:
+Kristy Sanderson Smillie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really love how I could taste each ingredient yet they all blended together perfectly. I did not add the red bell because I did not have one. The juice is a little sweet and leans more towards a veggie flavor. Not sure if I would make it a favorite without the ginger.

@@ -1,0 +1,72 @@
+Recipe number:
+257725.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-23T05:02:41.74
+helpfulCount:
+0
+userID:
+24583406
+Display Name:
+Larry Cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6001297.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Only thing I changed was I used milk instead of water.
+Review:
+Rating:
+3
+dateLastModified:
+2017-04-14T22:10:40.387
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cretons are one of my favorite childhood foods!  I'm French Canadian and was blessed growing up trying many different cretons from my mom, grandmothers and aunts, all tweaked just slightly with their own spin. I'm always excited to try new variations.  This is a pretty basic and standard recipe.  While I normally prefer more seasonings, it sets up nicely and is perfect for spreading on toast, my favorite way to eat it with some yellow mustard.  That said, WOW this is salty! I erred on the side of caution when I saw 1 TABLESPOON of salt and used 2 teaspoons instead.  It was still way too salty for my tastes, and I put salt on everything! I would highly recommend starting out with 1 teaspoon and adjusting up from there if needed. Most recipes I've made would have you just put all the ingredients in the pot at the beginning, without having to add some in after an hour's cooking, but I did stick with the directions.

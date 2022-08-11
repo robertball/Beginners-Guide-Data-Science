@@ -1,0 +1,107 @@
+Recipe number:
+21536.txt
+Review:
+Rating:
+4
+dateLastModified:
+2004-08-14T04:45:52.293
+helpfulCount:
+8
+userID:
+1159742
+Display Name:
+DASGUPTAT
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+nice dish for snacks
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-11T10:13:05.48
+helpfulCount:
+7
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12229
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe has been waiting for a picture since 2004 and only had one review.  These were pretty darned good. A problem with the recipe though is that is calls for the potato patties to be coated in bread crumbs but the recipe does not call for bread crumbs.  I used panko crumbs and it gave them a nice crispy exterior.  Thanks for a nice recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-17T22:00:00.527
+helpfulCount:
+0
+userID:
+12681741
+Display Name:
+Jenni Wenhold
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are delicious! I was looking for something to make that used few potatoes (because that’s all I had left). I had all the rest of the ingredients. This recipe is carb-heavy. My family loved it. Even with the jalepenos and cayenne pepper in it, it wasn’t overly spicy. I would definitely make this again!

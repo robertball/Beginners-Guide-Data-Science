@@ -1,0 +1,72 @@
+Recipe number:
+230644.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-28T06:56:38.28
+helpfulCount:
+2
+userID:
+14010150
+Display Name:
+Peggy Snell Anderson
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1308484.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Persimmons were 3/$1 so I got more than I needed for my cookies. This sounded great.I used spinach and kale, 1/2 banana and flax seeds. I didn't want too much of a banana taste. Very tasty, creamy and could be varied many ways.
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-22T13:37:48.5
+helpfulCount:
+0
+userID:
+15864347
+Display Name:
+beverly
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+206
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Looks nothing like the picture! Don’t know what picture you’re using but it is not orange!

@@ -1,0 +1,37 @@
+Recipe number:
+218559.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-08-11T15:34:24.877
+helpfulCount:
+5
+userID:
+7488430
+Display Name:
+mikedemaroc
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this dish better with a real chicken stock and without the orzo pasta (which I have not seen used with harira in the Atlas region).  If you can not have this dish from the hands of a Moroccan woman, then this one is very good

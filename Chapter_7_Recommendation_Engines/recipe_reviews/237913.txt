@@ -1,0 +1,37 @@
+Recipe number:
+237913.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-13T19:55:23.2
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to scale this way down and I used smoked sausage instead of the andouille out of personal preference. I enjoyed the flavor of this very much. I just ate it as a soup and didn't even bother with the rice. Great flavor all across the board. The one thing I would change and recommend is to not add the shrimp so soon. It got overcooked and a little rubbery. The next time I make this I will toss it in the last 10 minutes. Thanks for sharing!

@@ -1,0 +1,107 @@
+Recipe number:
+86496.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-11-29T10:21:20.33
+helpfulCount:
+1
+userID:
+2177978
+Display Name:
+William H. Wiersema
+isPro:
+False
+followersCount:
+31
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2293739.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was just a little worried how orange juice would work on meat, but I was  pleasantly  suprised. This is quite good to say the least.
+Review:
+Rating:
+4
+dateLastModified:
+2007-01-04T15:39:13.947
+helpfulCount:
+0
+userID:
+1308119
+Display Name:
+BIGDADDYWF
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+286
+favoritesCount:
+360
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/18.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+It's good and gives a twist on Montreal Steak and Teriyaki Steaks.
+Review:
+Rating:
+4
+dateLastModified:
+2006-08-11T17:54:44.403
+helpfulCount:
+0
+userID:
+939980
+Display Name:
+Butterfly Flutterby
+isPro:
+False
+followersCount:
+173
+followingCount:
+0
+madeRecipesCount:
+1113
+favoritesCount:
+889
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1747.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good! I appreciate the recipe so I could do something different other than fajitas with flank steak. Paired House Fried Rice, Sauteed Veggies and Egg Drop Soup with this and the meal was a hit! Thank you.

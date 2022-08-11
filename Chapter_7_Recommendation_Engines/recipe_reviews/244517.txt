@@ -1,0 +1,37 @@
+Recipe number:
+244517.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-26T23:23:59.477
+helpfulCount:
+0
+userID:
+11251215
+Display Name:
+kathy wawers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+94
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very moist cupcakes! No frosting needed. The chocolate chips in the batter are a yummy addition. I made the recipe as written, my applesauce was sugar free.

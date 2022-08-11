@@ -1,0 +1,147 @@
+Recipe number:
+261603.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-25T18:39:51.26
+helpfulCount:
+3
+userID:
+26184319
+Display Name:
+Allen Murray
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a fast and simple recipe.  I precooked the apples with the sugar (reduced to 1/2 c.) until tender and juices were reduced.  Allowed to cool, then mixed in raisins, cinnamon (only 1 teaspoon), and walnuts.  Precooking the apples kept the juices from making the pastry soggy on the bottom and assured that the apples were cooked completely.
+
+I made one strudel as the recipe stated and made another one with my changes.  The original recipe was overly sweet IMHO, the 2 teaspoons of cinnamon overwhelmed the strudel, and the apples were still a little firm. 
+
+I folded the end of the pastry over the filling before folding over like an envelope, no fruit or juices escaped out the ends.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-09T02:25:34.653
+helpfulCount:
+0
+userID:
+26641798
+Display Name:
+D Christine Marotta
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7425609.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes, I used Apple pie filling as I had decided to make this at the last minute. Made my own sugar topping with raw sugar and 1 packet vanilla sugar mixed sprinkled over egg wash.
+Before it was completely cooled I sprinkled red and green sprinkles as it's time for the holidays.
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-13T23:06:33.897
+helpfulCount:
+0
+userID:
+22259974
+Display Name:
+Rubye Doyal
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Next time I won't use as much sugar. It was a little on the sweet side for me. But my husband seemed to enjoy it. So I will probably make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-20T16:54:52.97
+helpfulCount:
+0
+userID:
+21978174
+Display Name:
+breadgranny
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+286
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy! Yummy! Easy to make and tastes great. There was so much apple filling that I made a second strudel.

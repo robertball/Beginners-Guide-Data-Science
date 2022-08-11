@@ -1,0 +1,72 @@
+Recipe number:
+266015.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-27T19:21:58.92
+helpfulCount:
+0
+userID:
+20387762
+Display Name:
+Chris Guest
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was yummy.  I like things less sweet so I did not add sugar to the tea mix itself.  I just used a some of the syrup from the bubbles to sweeten.   I used the instant boba and cooking time was much shorter per package directions.  This was significantly  cheaper than going to a bubble tea shop. I will make this often.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-03T14:13:47.263
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious. The method in this recipe works perfectly. The coconut cream really gives it body. Keep leftover pearls in the fridge. Thank you for the recipe.

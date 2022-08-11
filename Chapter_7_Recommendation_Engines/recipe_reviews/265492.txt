@@ -1,0 +1,72 @@
+Recipe number:
+265492.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-09T20:37:11.123
+helpfulCount:
+0
+userID:
+5926520
+Display Name:
+Sherry
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These taste and have a texture like a wonderfully nutty whole wheat roll. They are rather small if you divide the recipe into 6 pieces, but they are filling. If you want full size hamburger buns I would divide the recipe into 4. Fantastic!
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-09T13:06:35.82
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made exactly as written. At 24 minutes, the buns were still slightly undercooked inside. Otherwise, this recipe is quite nice.

@@ -1,0 +1,37 @@
+Recipe number:
+276540.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-17T21:19:44.46
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6896
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This salad screams fall and is absolutely delicious! Instead of drizzling it with just plain maple syrup, I made 'maple vinegarette' from this site and it was amazing! I will definitely be making this again-yum! Thanks for sharing

@@ -1,0 +1,72 @@
+Recipe number:
+229466.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-01T12:30:19.23
+helpfulCount:
+6
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2820
+favoritesCount:
+6006
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Little sweet, but that could be a taste preference on our part.  It didn't say what type of vinegar to use, so I used white balsamic which was a good choice, and I will use again.  I gave it a good sprinkle of freshly-ground pepper, and used sliced almonds (what I had on hand) instead of slivered almonds.  The poppy seed dressing was very creamy with perfect consistency.  Had for lunch today and will make again.  Kind of reminded me that spring's not too far away..............
+Review:
+Rating:
+4
+dateLastModified:
+2013-01-16T14:09:11.473
+helpfulCount:
+4
+userID:
+4344510
+Display Name:
+Jenn Hyatt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+201
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really good.  I would definitely cut back on the Truvia so the dressing isn't too sweet.

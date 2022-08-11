@@ -1,0 +1,107 @@
+Recipe number:
+219611.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-16T16:19:11.377
+helpfulCount:
+10
+userID:
+2434415
+Display Name:
+Lindsey Eustace
+isPro:
+False
+followersCount:
+89
+followingCount:
+0
+madeRecipesCount:
+112
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2788018.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This stuffing was excellent! I always love turkey and stuffing, so I am always willing to try new recipes. I marinaded the turkey in my own little marinade, but the stuffing complemented it perfectly. We love "Bobbie" sandwiches, so we made ours into Thanksgiving sandwiches with cranberry sauce and a little bit of mayo. Yum!! Thank you!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-01T16:45:49.7
+helpfulCount:
+0
+userID:
+1865315
+Display Name:
+Cathy G.
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+456
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/79383.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My rating is for the cornbread stuffing since I had a recipe that called for a boxed mix and being here in Canada we don't seem to have cornbread stuffing mixes so I had to look for a recipe. This stuffing was super easy to do, nice in color, texture and the taste is great! I crumbled this over a Mexican style dish and I even sprinkled cheddar cheese over the crumbled cornbread stuffing and it was soooo good.
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-28T10:02:40.18
+helpfulCount:
+0
+userID:
+14786542
+Display Name:
+ILike2Cook62
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was the first thanksgiving turkey I've ever done.  And by default the first time I made cornbread.  The turkey and stuffing turned out great!  I mean AWESOME!!!  Excellent recipe!  Don't change a thing!!

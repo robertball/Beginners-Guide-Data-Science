@@ -1,0 +1,72 @@
+Recipe number:
+274819.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-24T14:48:32.967
+helpfulCount:
+0
+userID:
+23365912
+Display Name:
+carecarl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty. I made them exactly as stated in the recipe. Next time I will make some Devonshire cream for them.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-14T14:44:20.32
+helpfulCount:
+0
+userID:
+20501216
+Display Name:
+Mary Kennedy
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+1243
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3992236.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I forgot to add the brown sugar, so added it after all other ingredients were already mixed. i liked how it gave a bit of a brown sugar glazed edge is spots, so next time, I will mix in 1/4 cup with the dry ingredients at the right time, but then add and mix in 1/4 cup of brown sugar after the fact.

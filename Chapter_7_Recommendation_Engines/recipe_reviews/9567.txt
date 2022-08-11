@@ -1,0 +1,47 @@
+Recipe number:
+9567.txt
+Review:
+Rating:
+3
+dateLastModified:
+06/06/2007
+helpfulCount:
+3
+userID:
+941928
+Display Name:
+PaigeCentral
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7724.jpg
+text:
+They came out well but I did make some adjustments. I upped the flour to 3/4 a cup and only used 1 cup of walnuts. 2 cups of walnuts would have been like having a little cookie with my nuts.
+Review:
+Rating:
+3
+dateLastModified:
+06/15/2004
+helpfulCount:
+0
+userID:
+1117685
+Display Name:
+JENNAMAE
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+very good. just a bit gooyey
+Review:
+Rating:
+5
+dateLastModified:
+05/21/2009
+helpfulCount:
+0
+userID:
+3641146
+Display Name:
+NY Kate
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Easy rich cookie! I tried this recipe twice once with 1/2 c flour once with 3/4 c and thought it was better (less dry) with 1/2 c. Semi-sweet and white chips make a great addition to the recipe.

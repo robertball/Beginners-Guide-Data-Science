@@ -1,0 +1,72 @@
+Recipe number:
+229115.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-21T20:05:29.32
+helpfulCount:
+1
+userID:
+26023680
+Display Name:
+nanci31
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy and quick ! I used my Mandolin to thinly slice.  I also sliced the beets as opposed to dicing them.  1-2-3-done!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-06T19:59:35.623
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8908
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+2280
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I whipped this up for my husband and I for lunch today, and we both really enjoyed this!  I scaled this down to 2 servings, and didn't need the full 1/4 cup of parsley, just added a sprinkle on top. The flavors are so fresh and light. I can't wait to make this again during the summer, as it is the perfect summer side salad on a hot day. Thanks for sharing your recipe!

@@ -1,0 +1,37 @@
+Recipe number:
+265975.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-13T00:07:12.873
+helpfulCount:
+0
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+423
+followingCount:
+0
+madeRecipesCount:
+1034
+favoritesCount:
+1861
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the flavors in this but I was not a fan of the eggplant itself.  I think it would have been far better if the eggplant was breaded and fried- as-is it was somewhat mushy and unpleasant.  We still enjoyed the flavors and the red peppers and goat cheese.  For a heartier dish, I think browned ground Italian sausage would have been a nice addition.

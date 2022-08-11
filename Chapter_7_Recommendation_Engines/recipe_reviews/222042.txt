@@ -1,0 +1,72 @@
+Recipe number:
+222042.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-04T21:23:58.957
+helpfulCount:
+5
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12230
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2670
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved this with tacos, chips and spanish rice.  You don't really need to cook the peppers, although I do recommend seeding them - wear gloves.   Thanks for a fun recipe to add to my faceless 4th of July menu.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T19:15:18.16
+helpfulCount:
+0
+userID:
+21098033
+Display Name:
+JoeyD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and quick

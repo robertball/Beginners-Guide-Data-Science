@@ -1,0 +1,32 @@
+Recipe number:
+105130.txt
+Review:
+Rating:
+5
+dateLastModified:
+07/11/2006
+helpfulCount:
+7
+userID:
+1869546
+Display Name:
+healthnut
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/18555.jpg
+text:
+Great recipe!  I didn't have Jamaican jerk seasoning so I subbed cumin, chili powder, crushed red pepper, salt, and pepper.  Not sure if it was the same thing but we really enjoyed this recipe.  The combination of sweet mango, tart lime, and spicy seasonings was tasty.
+Review:
+Rating:
+5
+dateLastModified:
+09/20/2006
+helpfulCount:
+2
+userID:
+780297
+Display Name:
+LetyPat
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/41690.jpg
+text:
+This turned out very good. We did not deviate away from the recipe and everything tasted great. Don't be afraid to add a bit more salsa on the tacos, it tastes delicious.

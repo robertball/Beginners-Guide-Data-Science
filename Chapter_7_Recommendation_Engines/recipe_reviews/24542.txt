@@ -1,0 +1,109 @@
+Recipe number:
+24542.txt
+Review:
+Rating:
+3
+dateLastModified:
+2005-05-27T00:37:52.09
+helpfulCount:
+12
+userID:
+585432
+Display Name:
+MOMFISH
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+197
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good starting point. As it stood, it was too thick and just tasted like peanut butter. Next time I'll add a lot more of all the other ingredients, especially vinegar and water.
+Review:
+Rating:
+5
+dateLastModified:
+2020-04-18T14:58:38.72
+helpfulCount:
+0
+userID:
+24701332
+Display Name:
+Cholena Humphrey
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+103
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this salad dressing last night and let it sit over night.  I had it on a salad this morning and it was heavenly.  It has such good flavor after sitting all night that I couldn't think of anything better.
+Thank you for changing it so I can add photos.  I want the world to see what I've accomplished and can do better.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-22T20:58:57.973
+helpfulCount:
+0
+userID:
+5402327
+Display Name:
+Derbakermom
+isPro:
+False
+followersCount:
+67
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+396
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2635460.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would make some changes if I were to make this again.  The peanut butter is overwhelming, and you need to add more water as the recipe stands now. However, the fact that she added the perfect way to hard boil an egg, I gave this recipe an extra star.  
+So, with that said, after reviewing I added some Siracha sauce & pepper. Next time I'll add more vinegar,  perhaps a flavored one.

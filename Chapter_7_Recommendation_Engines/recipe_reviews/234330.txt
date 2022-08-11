@@ -1,0 +1,72 @@
+Recipe number:
+234330.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-26T12:12:17.62
+helpfulCount:
+5
+userID:
+15153200
+Display Name:
+Dena Boeger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'd give this one a 6 or 7 but that's not an option so I will settle for a 5. I used canned beets to make this quick and easy. I had some Feta in the fridge that I wanted to use and it went well with this salad. It is also pretty to look at with all the colors.
+Review:
+Rating:
+2
+dateLastModified:
+2016-07-09T19:57:02.93
+helpfulCount:
+0
+userID:
+13813003
+Display Name:
+Linda D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really did not enjoy the taste -- too much lemon rind.  It is missing something but for me not worth making.

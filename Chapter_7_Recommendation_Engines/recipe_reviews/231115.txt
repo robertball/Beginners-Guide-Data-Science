@@ -1,0 +1,37 @@
+Recipe number:
+231115.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-12T22:55:52.063
+helpfulCount:
+1
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12226
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Honestly, I thought the rice to milk ratio was off but it worked out very nicely.  I used pearl rice (Aroborio rice would be great too).  Warning - cook this very slowly, stirring often to avoid scorching the milk / rice.   Stir while cooling.  I did add some vanilla and some powdered sugar to the whipped cream.   Everyone loved it.  This makes more than 4 servings because it is so rich.   An easy, yet special dessert to make ahead for entertaining.   Note:  Cinnamon would be a great addition and then serve with spiced apples instead of berries.

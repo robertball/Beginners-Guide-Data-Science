@@ -1,0 +1,42 @@
+Recipe number:
+63016364.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-08T17:33:30.017
+helpfulCount:
+0
+userID:
+9246227
+Display Name:
+manella
+isPro:
+False
+followersCount:
+182
+followingCount:
+0
+madeRecipesCount:
+356
+favoritesCount:
+1356
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6603558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Two thumbs up from my family and friends, they loved them.
+I did not have peanut butter chips so used chocolate chips.
+My husband said they were chewy which he likes. 
+Will make these again.
+Thank you for the recipe 
+Shorecook:))

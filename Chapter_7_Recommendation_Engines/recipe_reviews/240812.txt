@@ -1,0 +1,107 @@
+Recipe number:
+240812.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-15T06:36:13.69
+helpfulCount:
+2
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+518
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2068
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a lovely side dish or salad with African flavors. I think you could easily toss it with cooked chicken or shrimp for a main dish. I could not find harissa so I amde a mixture of a 1/2 teaspoon chili paste and six finely minced mint leaves. This turned out great in spite of me. I will definitely make this again. Thanks for sharing!
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-03T18:52:31.537
+helpfulCount:
+0
+userID:
+8316790
+Display Name:
+Peter Paul Quesada
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1810929.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes and it was fun tastey and quick. Yum. It went great with the Moroccan lamb tagine.
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-11T12:12:18.793
+helpfulCount:
+0
+userID:
+12463772
+Display Name:
+Cindy D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+123
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy, re-heats well, and has a unique flavor.  I used Israeli (Pearl) couscous, but it might be better with regular couscous.  No harissa, so I used hot sauce. Saffron strands are really expensive in the grocery store - try to find it at a local market.

@@ -1,0 +1,37 @@
+Recipe number:
+241885.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-03-29T18:16:55.133
+helpfulCount:
+2
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9161
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The name is misleading...at a glance I was hoping this was a granola but after reading the recipe I saw that it was a cookie recipe. I decided to go ahead and give it a try anyways. The cookies weren't amazing but they weren't bad either.

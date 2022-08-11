@@ -1,0 +1,37 @@
+Recipe number:
+222271.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-04T22:36:56.637
+helpfulCount:
+1
+userID:
+5615712
+Display Name:
+brown_eyed_girl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+402
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This punch was very refreshing!  I added less sugar and included the lemon lime soda and a bit of leftover club soda.  Most people enjoyed the punch and could not tell that it had a rhubarb base.  Something different to do with a huge crop of rhubarb, thanks!

@@ -1,0 +1,72 @@
+Recipe number:
+246973.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-04-15T01:07:56.26
+helpfulCount:
+0
+userID:
+17105879
+Display Name:
+Cat Birt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3020248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't a fan but to be fair I grew up eating dandelions battered with pancake batter
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-24T17:41:41.03
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were surprisingly good and I had a lot of fun making them. I fully expected them to be bitter but they were not at all. I served them on the side but they would be excellent on a salad with ranch dressing. Fun fun!

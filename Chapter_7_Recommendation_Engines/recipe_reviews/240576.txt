@@ -1,0 +1,142 @@
+Recipe number:
+240576.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-03-28T02:05:54.2
+helpfulCount:
+2
+userID:
+10436425
+Display Name:
+Aspen Lum
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3435137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am looking for trail mix for DOGS!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-25T23:37:00.63
+helpfulCount:
+0
+userID:
+6472425
+Display Name:
+Cynthia Lee
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2905027.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very healthy with all the sunflower seeds, nuts and raisins
+Review:
+Rating:
+2
+dateLastModified:
+2016-12-18T07:10:23.2
+helpfulCount:
+0
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I decided to make this recipe since it was faceless and didn't have a review yet. I've made Puppy Chow numerous time and had all of the main ingredients and gave this recipe a go. I found the chocolate peanut butter mixture to be too thick and there wasn't nearly enough powdered sugar. Typically you mix the chow in a paper bag with a lot of powdered sugar to coat the cereal. I highly recommend doing that and increasing the powdered sugar to 1+ cups if you are thinking about making this recipe. I still had to pick apart the pieces after shaking it with powdered sugar - again - because the chocolate peanut butter mixture was too thick causing them to stick together in large clumps.
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-21T12:20:45.62
+helpfulCount:
+0
+userID:
+15559425
+Display Name:
+Ryno's mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sticky and messy, but everyone loved taste

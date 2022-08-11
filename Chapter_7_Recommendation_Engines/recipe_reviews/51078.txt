@@ -1,0 +1,37 @@
+Recipe number:
+51078.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-02-27T17:29:35.247
+helpfulCount:
+1
+userID:
+1791624
+Display Name:
+tracyZ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+we ate this with flour tortillas and it was perfect. my kids loved it and my husband thought they were fajitas. our home grown bell peppers and tomatoes were fun to use.

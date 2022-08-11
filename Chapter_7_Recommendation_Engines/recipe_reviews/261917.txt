@@ -1,0 +1,37 @@
+Recipe number:
+261917.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-26T22:31:46.58
+helpfulCount:
+0
+userID:
+13380701
+Display Name:
+susie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+534
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not sure but I think garlic was forgotten in the ingredients. I made it and added 2 fresh minced garlic cloves, yummy! I also increased the salt a little because I love salt! I think Im going to go have more!

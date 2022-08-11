@@ -1,0 +1,72 @@
+Recipe number:
+265558.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-12T18:38:55.923
+helpfulCount:
+0
+userID:
+15103253
+Display Name:
+Chef Boy R Drew
+isPro:
+False
+followersCount:
+43
+followingCount:
+0
+madeRecipesCount:
+277
+favoritesCount:
+174
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6395320.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-21T23:13:40.273
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and great! I do think there was too much oil so I will reduce it by half next time.

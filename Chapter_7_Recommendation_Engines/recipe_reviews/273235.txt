@@ -1,0 +1,37 @@
+Recipe number:
+273235.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-05-13T23:37:44.943
+helpfulCount:
+0
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+423
+followingCount:
+0
+madeRecipesCount:
+1034
+favoritesCount:
+1852
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have good and bad things to say about this one.  The rice by itself?  WOW.  So very delicious!  This dish definitely lives up to the "spicy" in its name but the flavor is otherwise kind of lacking.  I'd definitely up the hoisin and soy sauce- and cut back on the rice, this makes A LOT of food.  I don't think I'll follow the fried rice part of this recipe again, but the rice itself is definitely going into rotation as a side when we have asian food!

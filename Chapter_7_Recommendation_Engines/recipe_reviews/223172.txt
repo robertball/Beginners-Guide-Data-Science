@@ -1,0 +1,204 @@
+Recipe number:
+223172.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-15T13:03:40.417
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2460
+favoritesCount:
+2263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After comparing a friends recipe to this one, I decided to make a couple of changes. I replaced half of the vinegar with orange juice and due to personal preference only used 2 cloves. I also felt grilling was a must both for the meat and for the pineapple. This turned out really good. The meat was super tender and tasted just like authentic tacos al pastor.
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-11T19:38:57.327
+helpfulCount:
+2
+userID:
+18162532
+Display Name:
+Rick Griggs
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3653783.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for 1 person (myself), so I made the following adjustments:
+
+> 4 thin-sliced pork chops (not as good as pork butt), cut into thin strips
+> 6 oz can pineapple rings, juice reserved
+> cut pineapple into ½" dice
+> put pork and pineapple into ziploc bag.
+
+for marinade:
+
+> 1 4 oz can Herdez Salsa Ranchera in place of the chiles
+> eliminate achiote and cloves
+> juice of 1 lime
+> 1 shallot, minced
+> 1/3 C cider vinegar
+> reserved pineapple juice. 
+
+> combine marinade ingredients in a pan, stir, and bring to a simmer; let simmer 5 minutes to cook off raw tastes; marinade should be thickened but not a paste
+> cool marinade, then pour over pork and pineapple in the ziploc bag. 
+
+> Marinate pork and pineapple for at least 1 hour
+> put 1T veg oil in a cold skillet, then heat over medium burner until oil starts to shimmer
+> remove pork and pineapple from marinade, but don't remove any marinade sticking to it, and put in hot skillet
+> stir until pork is browned
+> serve as per recipe
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-01T08:47:17.87
+helpfulCount:
+2
+userID:
+2237344
+Display Name:
+Marsha L
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+252
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really delicious.  The chili paste is amazing.  Don't skip the pineapple!  It really sets off this dish!
+Review:
+Rating:
+3
+dateLastModified:
+2019-05-07T19:53:26.533
+helpfulCount:
+0
+userID:
+16027632
+Display Name:
+fisch
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6611368.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wish I would've followed some of the recommendations in the reviews. I just followed the recipe as is, and it turned out okay. I didn't have time to marinate the meat either, so I just made the sauce then cooked it up. I'm sure that affected a fair bit, but I wasn't too impressed.
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-01T00:12:35.813
+helpfulCount:
+0
+userID:
+15801055
+Display Name:
+tasha
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+390
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have achiote powder or pineapple. I substituted turmeric for achiote, which I read was acceptable and just omitted the pineapple entirely. 
+
+I should have cut/torn the dried peppers smaller. they didn't completely cook down into a paste and I picked chunks out. 
+
+it was still tasty and I'm looking forward to making it again with corrections.

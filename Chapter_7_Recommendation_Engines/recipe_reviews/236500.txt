@@ -1,0 +1,72 @@
+Recipe number:
+236500.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-06-15T19:29:23.77
+helpfulCount:
+2
+userID:
+7801209
+Display Name:
+cooking for two
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+49
+favoritesCount:
+465
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/154.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This was super quick.I added a bit more juice from the giardiniera and olive oil.I seasoned it a bit with salad supreme and added red onion.I served this with grilled chicken italian sausage.This was a make ahead tasty Summer meal not full of fat as it wasn't dripping in oil.
+Review:
+Rating:
+4
+dateLastModified:
+2015-10-19T19:42:52.72
+helpfulCount:
+0
+userID:
+12004284
+Display Name:
+Boatchef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2670148.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good. I did however put some shredded manchego and asiago  cheese in this. my spelling bites!

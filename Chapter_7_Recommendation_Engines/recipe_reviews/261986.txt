@@ -1,0 +1,37 @@
+Recipe number:
+261986.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-26T20:46:52.097
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were very good! I did some hollowing out the jalapeno and some halving them. They were both fine. I only used 2 tablespoons of the ranch seasoning and that was plenty salty for us, so make sure you taste it before adding the whole packet. Really enjoyed the panko on top (I used seasoned). Thanks for sharing. :)

@@ -1,0 +1,37 @@
+Recipe number:
+229761.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-05T13:43:30.027
+helpfulCount:
+0
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1594
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a nice simple, lemon-limey cocktail.  I only had white rum, so I improvised and added a touch of lemon juice.  I never have "real" lemons/limes for garnishes, so I used my usual cherries for garnish.  I enjoyed reading the story of how this cocktail came to be/be named.  Cheers, (and thank you) callistobug!

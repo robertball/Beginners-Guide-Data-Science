@@ -1,0 +1,37 @@
+Recipe number:
+229756.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-21T08:20:33.783
+helpfulCount:
+1
+userID:
+944746
+Display Name:
+INYOGIRL
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I started with one cup of sugar -- you can always add more after you've seeped the teabags, and then just heat it up again to melt.  All according to taste, of course.  Didn't garnish because I didn't have any mint, but this is a great sipping drink for a hot summer's afternoon!  I put it in a big jar and stuck it in the freezer.  Good stuff.

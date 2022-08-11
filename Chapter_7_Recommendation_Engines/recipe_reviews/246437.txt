@@ -1,0 +1,72 @@
+Recipe number:
+246437.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-05T22:01:12.18
+helpfulCount:
+2
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you are overrun with zucchini as I am, have I found a recipe for you.  This is one of the best zucchini recipes I have found in a long time.  It's delicious.  I didn't saute the zucchini very long  because I don't like mushy zucchini.  It came out perfect.   Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-26T21:35:56.517
+helpfulCount:
+0
+userID:
+12722079
+Display Name:
+val
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was the hit of our church potluck. I don't know if it was needed but I gradually added the hot squash/onion mixture to the eggs to temper the eggs prior to mixing all together.  It was savory and custardy and just wonderful.

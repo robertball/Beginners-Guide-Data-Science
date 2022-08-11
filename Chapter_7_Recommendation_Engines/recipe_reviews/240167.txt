@@ -1,0 +1,37 @@
+Recipe number:
+240167.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-16T19:35:32.11
+helpfulCount:
+2
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+764
+followingCount:
+0
+madeRecipesCount:
+517
+favoritesCount:
+2106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty and quick. This is more of a 3.5 stars. It was a nice change of pace. I wouldn't say this really screams eggnog. It tastes more like exactly what is is....spiced up cashew milk. Not a bad thing. Perfect for those who have dietary restrictions and much healthier than eggnog! Love the simplicity. Thanks for sharing your recipe, Amber. :)

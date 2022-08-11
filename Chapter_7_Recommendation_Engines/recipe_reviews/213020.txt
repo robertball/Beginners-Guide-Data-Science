@@ -1,0 +1,72 @@
+Recipe number:
+213020.txt
+Review:
+Rating:
+2
+dateLastModified:
+2010-01-04T11:58:37.76
+helpfulCount:
+10
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+253
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1065
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was super quick, easy and inexpensive but that's about it. The semi-mushy canned B-EPs just didn't hold up with the firmer textures of the tomatoes and onion. Maybe it would work better with, say, garbanzo beans? Thanks anyway!
+Review:
+Rating:
+4
+dateLastModified:
+2011-03-25T09:47:45.9
+helpfulCount:
+4
+userID:
+5962511
+Display Name:
+tsawells
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+51
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I add chopped avacado and instead of Italian dressing I use Catalina.

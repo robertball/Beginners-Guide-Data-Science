@@ -1,0 +1,37 @@
+Recipe number:
+215746.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-11-25T06:42:55.607
+helpfulCount:
+13
+userID:
+3953474
+Display Name:
+lytha
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This are great, and not difficult to make. I cannot give 5 stars because I did not use walnuts. Sorry Walnut Board. I am in Germany and was able to use 2 kinds of German chocolate in this recipe so they are very rich. Be generous with the powdered sugar or else it tends to disappear. Please include the Celsius temperature for those living outside the U.S. Thanks!

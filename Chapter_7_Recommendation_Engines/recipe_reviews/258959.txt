@@ -1,0 +1,79 @@
+Recipe number:
+258959.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-25T15:36:11.943
+helpfulCount:
+0
+userID:
+20936120
+Display Name:
+Lisa Fankhauser
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6981406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These will be a great go-to snack for me.  I am trying to incorporate more protein into my day, but it's a struggle, since I'm both gluten-sensitive and vegan. 
+ 
+A few notes:  
+- The recipe didn't mention that lentils need to be immersed in water the night before to allow them to soften.  
+- I took the advice of the first reviewer and heated them on a low temperature for a longer time.  
+- They sizzle as they are cooking.
+
+Mine are getting crispy!  I used 3 dried chili peppers, since that's what I had on hand.
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-16T10:02:58.247
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the idea of this as a snack. I can't imagine how it could be a meal. I only made 1/2 cup at a time. The first batch was  too hard to eat even though I heard them pop. They smell wonderfully nutty but stay rock hard and then begin to burn. For the second batch, I reduced the temperature slightly and allowed them to cook a bit longer so they wouldn't burn. They were a bit better, but still hurt my teeth they were so hard. I used green Puy lentils. I ended up boiling them afterwards and ate them in a soup.

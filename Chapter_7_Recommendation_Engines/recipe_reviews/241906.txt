@@ -1,0 +1,73 @@
+Recipe number:
+241906.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-15T10:30:52.203
+helpfulCount:
+0
+userID:
+17153507
+Display Name:
+Deyan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+careful with the salt!
+Review:
+Rating:
+3
+dateLastModified:
+2015-10-01T19:18:12.603
+helpfulCount:
+0
+userID:
+6145350
+Display Name:
+Molly
+isPro:
+False
+followersCount:
+686
+followingCount:
+0
+madeRecipesCount:
+1465
+favoritesCount:
+4449
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2426420.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10-01-15 ~ This is an easy way to make a quick batch of broccoli soup.  It was good, warm and filling, but lacking in overall flavor.  
+I would like to try it again, but add some additional seasoning.  A pinch of sea salt just doesn't cut it.

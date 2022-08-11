@@ -1,0 +1,72 @@
+Recipe number:
+261721.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-25T14:53:16.1
+helpfulCount:
+0
+userID:
+23246987
+Display Name:
+Mr. Anderson Cooks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was awesome! Here are some changes I made: I used low sodium chicken broth instead of plain water, and cut out the added salt. I subbed another cup of broccoli florets in the final 5 minutes of simmering, instead of the lentils. I didn't use celery, either. I sauteed the onion and garlic in 1T of OO before adding everything else. The coconut milk really adds a nice smoothness to this soup. I try and make a different soup every week during the winter, and this one is already one of my favorites!
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-26T01:30:56.943
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this.. just had the last bit of this for dinner. My only change was the barley.. mine was not the quick cooking kind so I just made it separately and added a scoop.  Will make this again.. the coconut milk in this is delicious

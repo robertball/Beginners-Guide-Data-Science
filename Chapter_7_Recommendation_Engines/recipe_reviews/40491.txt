@@ -1,0 +1,75 @@
+Recipe number:
+40491.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-11-25T06:25:00.153
+helpfulCount:
+1
+userID:
+392473
+Display Name:
+Gayle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these Thinksgiving morning for my young adult children before they went to other parents homes for dinner.  They all oved them and they were easy to make.
+
+cougar
+Review:
+Rating:
+1
+dateLastModified:
+2004-01-28T17:45:29.927
+helpfulCount:
+0
+userID:
+1012484
+Display Name:
+CHRISTA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+we did not like this one, the apples made the 
+dough very slimey

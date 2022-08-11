@@ -1,0 +1,37 @@
+Recipe number:
+272993.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-22T17:38:20.737
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have all of these herbs growing in my garden and decided to give this recipe a try. It turned out really good. The one change I made and recommend doing is that I threaded my vegetables separate from the sausage. The veggies need way more cook time than the sausage.

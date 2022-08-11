@@ -1,0 +1,37 @@
+Recipe number:
+260789.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-27T23:35:25.85
+helpfulCount:
+1
+userID:
+24828519
+Display Name:
+Stewart
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They were very good cupcakes however, they didn’t have enough spices for them to have a true Mexican chocolate taste.  I added some chill powder and more cinnamon which made them a delicious dessert.

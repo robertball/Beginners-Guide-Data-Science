@@ -1,0 +1,72 @@
+Recipe number:
+221521.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-07-06T03:36:59.513
+helpfulCount:
+0
+userID:
+17150942
+Display Name:
+Katie D.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is one of my favorite ways to prepare potatoes. Serve them along side bulgogi marinated sirloin for a Korean steak and potato night.
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-12T01:36:08.287
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and even though this did not turn out how I had envisioned, it was good. In my mind I thought these would be a big potato hunk with a thick browned crust about them. Not so much but they had good flavor!

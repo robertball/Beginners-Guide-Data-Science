@@ -1,0 +1,37 @@
+Recipe number:
+178920.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-03-07T15:08:58.697
+helpfulCount:
+4
+userID:
+1111625
+Display Name:
+MTCHYG
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+527
+favoritesCount:
+4105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5984310.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were pretty good. I think that the second layer of dough was a bit much. Probably could have just used the one triangle and rolled and sealed it. Next time I'll use even more almonds in the filling too!

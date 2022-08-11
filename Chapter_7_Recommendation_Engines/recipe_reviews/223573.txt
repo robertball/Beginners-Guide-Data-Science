@@ -1,0 +1,37 @@
+Recipe number:
+223573.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-18T05:22:22.173
+helpfulCount:
+0
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12227
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this is go with taquitos for Monday Night football.  It was pretty good but seemed to be lacking something.  Maybe garlic?  Not sure but I had quite a bit left over and that tells me it wasn't an absolute hit.

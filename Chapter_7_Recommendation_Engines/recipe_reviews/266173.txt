@@ -1,0 +1,72 @@
+Recipe number:
+266173.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-30T17:51:11.703
+helpfulCount:
+1
+userID:
+933856
+Display Name:
+JARRIE
+isPro:
+False
+followersCount:
+147
+followingCount:
+0
+madeRecipesCount:
+1131
+favoritesCount:
+6151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/926498.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good but not great. The hoisin sauce is a strong, overpowering flavor, and if the brand you use isn't fantastic then your end product won't be either. The only brand available to me now isn't very fantastic. Still, the husband and kids enjoyed this. The leftovers made good fried rice. Thanks for sharing!
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-29T13:47:50.82
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2294
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is simple to make and has lots of flavor. The one change I made up front was with the cut of pork. I've never had any luck getting loin to shred so I used a pork butt roast instead. The one thing I did not like about the recipe is that visually the cabbage gets lost even though the flavor is there. Next time I will wait a couple of hours before adding any of it. I ended up adding the sesame oil  when shredding the pork so that it would be more evenly distributed. Overall this is a really good recipe and one I would make again.

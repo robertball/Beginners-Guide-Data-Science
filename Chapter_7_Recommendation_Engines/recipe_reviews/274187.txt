@@ -1,0 +1,37 @@
+Recipe number:
+274187.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-28T02:46:28.373
+helpfulCount:
+0
+userID:
+10006369
+Display Name:
+plates4u
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+326
+favoritesCount:
+1212
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4569544.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is very good. However, I think the proportions for the veggies should be revised as they seem a bit too little for 8 crepes. Also, when making crepes all you need is about 30 seconds per side.

@@ -1,0 +1,107 @@
+Recipe number:
+233340.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-09-04T07:19:29.21
+helpfulCount:
+7
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1033
+favoritesCount:
+1847
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice sauce, used garlic salt rather than regular.  Left out celery and used apple cider vinegar.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-25T11:33:35.233
+helpfulCount:
+2
+userID:
+16356356
+Display Name:
+Joe Bellantine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+121
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just poured barbecue sauce and seasoning and cooked it 2 hrs on 350 degrees and the meat literally fell off the bone.
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-01T16:58:04.51
+helpfulCount:
+0
+userID:
+509593
+Display Name:
+Mindy Moores
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+719
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1141332.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tender delicious ribs.  The sauce tasted just fine, I tasted it before adding anything but my family likes honey flavors so I did add honey.

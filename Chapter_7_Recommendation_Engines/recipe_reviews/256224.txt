@@ -1,0 +1,37 @@
+Recipe number:
+256224.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-11T15:00:58.82
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+222
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This oatmeal is so good! I loved that I didn't have to add any extra sweetner. I subbed 1 percent milk for water. The cherries are a wonderful addition. I added extra cinnamon and subbed pecans for the seeds.

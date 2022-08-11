@@ -1,0 +1,47 @@
+Recipe number:
+177577.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/23/2011
+helpfulCount:
+4
+userID:
+3965351
+Display Name:
+Beaner
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My husband and I thought this was a great meal that was easy to make.  Would def make again.
+Review:
+Rating:
+4
+dateLastModified:
+09/29/2011
+helpfulCount:
+4
+userID:
+7207457
+Display Name:
+ladyautocrosser
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+over all pretty good. My husband thought it was a little sweet
+Review:
+Rating:
+3
+dateLastModified:
+11/17/2012
+helpfulCount:
+0
+userID:
+6222018
+Display Name:
+SimpleCook4-5
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Too many Onions for my taste, and I expected a little more sauce... Will probably make it again, but a few adjustments.

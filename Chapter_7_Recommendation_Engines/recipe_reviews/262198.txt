@@ -1,0 +1,72 @@
+Recipe number:
+262198.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-22T15:27:50.57
+helpfulCount:
+0
+userID:
+23328004
+Display Name:
+Lucinda Balog
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5126178.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this recipe, and will make it again.  However,  recipe does call for too much spices which are overpowering, especailly the garlic salt, which makes it WAY to salty.  Will definatly make again with a few modifications.
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-16T01:36:44.53
+helpfulCount:
+0
+userID:
+4196646
+Display Name:
+Lela
+isPro:
+False
+followersCount:
+352
+followingCount:
+0
+madeRecipesCount:
+173
+favoritesCount:
+2651
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7559577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was tasty. I made 2 eggs per person.  If I make this again, I think I would add eggs to the breakfast sausage and save me a step in prepping this recipe.

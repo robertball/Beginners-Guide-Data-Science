@@ -1,0 +1,72 @@
+Recipe number:
+165001.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-09-05T10:34:24.463
+helpfulCount:
+5
+userID:
+3121064
+Display Name:
+
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Uh, isn't this a burrito?  Oh well, a rose by any other name. . . it still tastes good!
+Review:
+Rating:
+4
+dateLastModified:
+2011-01-02T04:41:53.31
+helpfulCount:
+2
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used my own homemade taco seasoning and homemade salsa. I used ground turkey to make it a little healthier and I added chopped yellow onion and red pepper as well as fresh minced garlic to make it stretch a little farther. This was a quick meal that I appreciated on a long day. I did also add in fresh chopped tomatoes. NOTE: For feeding three boys and myself, they ate their "wraps" and I had a taco salad with extra lettuce and the chopped tomato.

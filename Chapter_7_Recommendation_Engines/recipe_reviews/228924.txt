@@ -1,0 +1,72 @@
+Recipe number:
+228924.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-01-22T05:28:22.543
+helpfulCount:
+1
+userID:
+3733363
+Display Name:
+linda2d
+isPro:
+False
+followersCount:
+107
+followingCount:
+0
+madeRecipesCount:
+218
+favoritesCount:
+606
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/639602.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+*This recipe has a missing ingredient of 1.5qts of water as written by the author. (I checked her personal recipe as submitted). It worked a lot better once I found that. I made this as written with the exception of ground pork instead of beef. It's very heavy on vegetables and the meat seems to nearly disappear in the finished product. It looked like vegetable soup and the texture was very different than any chili I've made/had. Others liked it more than I did or I would be giving it a three star. Chili is so regional though. I was a little worried about the heat from the description but took it as a challenge and used all the peppers and the hot sauce. We didn't think it was too hot but it was definitely something I would have to tone down for company. I can't imagine how, but it seemed to lack depth. I got about 10 cups out of a half batch.
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-28T15:46:30.35
+helpfulCount:
+0
+userID:
+912152
+Display Name:
+Kriston Scott
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+80
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1546327.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this chili according to the directions. It is a little unusual for chili, in that it uses carrots and celery. The only problem that I have with the recipe  is that it does not have any sauce. I added two 16 ounce cans of tomato sauce, instead of water..

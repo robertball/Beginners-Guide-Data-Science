@@ -1,0 +1,37 @@
+Recipe number:
+232388.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-10T04:05:08.357
+helpfulCount:
+11
+userID:
+9464847
+Display Name:
+baky84
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6786883.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Worked as a great substitute!  I actually replaced the rice flour with corn starch and it worked out just fine.

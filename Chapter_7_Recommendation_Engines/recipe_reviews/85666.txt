@@ -1,0 +1,37 @@
+Recipe number:
+85666.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-01-20T18:56:40.41
+helpfulCount:
+0
+userID:
+2491156
+Display Name:
+starvingstudent
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this recipe was great for a summer appetizer. It's unique, it tastes good, and wasn't difficult to make, even for a single college guy.

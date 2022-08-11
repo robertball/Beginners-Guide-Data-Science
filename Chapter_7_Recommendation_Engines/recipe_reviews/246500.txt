@@ -1,0 +1,37 @@
+Recipe number:
+246500.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-24T23:49:37.717
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out really good. I did make a couple of changes and I'll explain what they were and why. My kimchi was leftover from some I made awhile back that used a bunch of Korean chilie and it was super spicy so I left that out. If the kimchi you are using is not spicy then you will want to add the Korean chile this recipe calls for. My other change is that the block of tofu in my freezer was not as big as I thought it was so I threw in some frozen peas I found in there and also dried mushrooms to fill the void. The green onion garnish never made it to the picture but they are a must to top the soup. This reminded me of a hot and sour soup but better.

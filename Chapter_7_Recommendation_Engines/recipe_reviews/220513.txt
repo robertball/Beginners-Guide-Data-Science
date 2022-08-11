@@ -1,0 +1,37 @@
+Recipe number:
+220513.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-13T14:22:33.087
+helpfulCount:
+9
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe first as a trial run for a new dip for Thanksgiving. When I made the onions for this dip, I actually chose to cook them until caramelized. Other than that, I kept to the recipe. This makes A LOT of dip. Like more than we could eat in one sitting. What I did was baked half of it in a small baking dish and refrigerated the rest. Honestly, we liked the cold version better! Not a bad dip but I think I would play with the amounts of the mayonnaise/sour cream when I make it again.

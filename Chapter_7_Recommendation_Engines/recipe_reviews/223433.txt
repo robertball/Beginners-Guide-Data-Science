@@ -1,0 +1,37 @@
+Recipe number:
+223433.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-06-29T01:41:15.64
+helpfulCount:
+8
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make these every Christmas/New Years. This can be made with sugar-free Jello. I like using dixie cups for these because the cups can be torn at the seam for easy eating. Sometimes, I like to add a couple fresh raspberries to each cup for added raspberry flavor.

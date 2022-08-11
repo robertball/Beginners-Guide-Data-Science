@@ -1,0 +1,37 @@
+Recipe number:
+64621891.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-12T21:07:47.363
+helpfulCount:
+0
+userID:
+21271124
+Display Name:
+Aunt Betty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've tried psyllium based low carb wraps before, but found them too "wet" and too eggy to be really good. They worked, but just weren't that good.  These are such an improvement!  The added ingredients, and the tip to dry fry them in a skillet to dry out before using make a huge difference.  They are not truly like a  flour tortilla, but they're they are good, and very versatile.  I keep some in the freezer all the time, and I've taken then on several trips.  Life savers for traveling on low carb!

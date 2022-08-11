@@ -1,0 +1,72 @@
+Recipe number:
+258666.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-08T14:25:42.087
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a bit on the pricey side to make however it is really good. The dressing is nice and tart. I used blue cheese as called for my husband and I used cheddar for me because I do not like blue cheese. Any cheese of your choice would work good in here. The only deli turkey meat I could find was very thin so next time I will use chicken so that I will have a thicker chunk of meat. All in all good recipe and one I will make again.
+Review:
+Rating:
+2
+dateLastModified:
+2018-08-22T00:22:56.84
+helpfulCount:
+0
+userID:
+3569173
+Display Name:
+sunnycook
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+375
+favoritesCount:
+562
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would not make this again because the salad dressing was nothing special.  We ended up using a bottled dressing when we finished off the salad.

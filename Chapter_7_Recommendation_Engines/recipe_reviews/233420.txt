@@ -1,0 +1,107 @@
+Recipe number:
+233420.txt
+Review:
+Rating:
+1
+dateLastModified:
+2013-10-09T04:25:55.387
+helpfulCount:
+3
+userID:
+1198722
+Display Name:
+ALTHEAG
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried this and didn't care for it. In theory it seems like a great idea because I love pumpkin and I love pie but this just didn't work out. It was too runny and the flavor just really didn't come out right. Maybe a few adjustments, maybe a missing ingredient, not really sure what it needs. I think the idea of a pumpkin pie smoothie is a good idea, just got to get the ingredients right.
+Review:
+Rating:
+4
+dateLastModified:
+2013-08-06T13:31:14.057
+helpfulCount:
+1
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This smoothie was very interesting. To be honest though, I have no idea how anyone without a high-speed blender, such as a Vitamix or Blendtec, could make this. I really had to tamper the ingredients down to get it to blend using a Vitamix. Anyhow, I have never made a smoothie where the fruit is cooked and then frozen first. So, I followed through with the directions and did just that. I may next time see how this will turn out by skipping the cooking and freezing process and leaving the skin on too as my blender can process it. My review though, is based on the directions as is. I did not have vanilla almond milk, so I added a splash of vanilla and a packet of Truvia to plain unsweetened almond milk. I have never seen an unsweetened form of the vanilla, so figured the extra sweetener would help. I also accidentally added apple pie spice, so I added an additional 1/8 tsp of pumpkin pie spice. It appears they are really similar though. I don't have crushed ice, so I added 6 standard ice cubes. I figured that was close to 2/3 of a cup. When I first blended it on speed 10, I thought it was a mix between a slushy and a sorbet. I didn't like the texture, at all, and found it kind of bland too. So, I turned it to high and blended about another 30-45 seconds until it was more liquified and creamy and then I thought it was pretty good. The flavors really came out then and it made it drinkable. I would like to re-make this in a more simplified form as in the end it turned out good. TY
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-11T02:26:51.153
+helpfulCount:
+0
+userID:
+20371796
+Display Name:
+Stephanie Perez
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it for company, added more cinnamon, for my taste

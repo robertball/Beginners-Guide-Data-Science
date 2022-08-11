@@ -1,0 +1,72 @@
+Recipe number:
+267770.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-14T01:35:13.39
+helpfulCount:
+0
+userID:
+20753730
+Display Name:
+Mary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I ended up adding smoked bbq turkey neck in with it but only because of a communication error lol. It is sweet but I don't mind that. My husband was not a huge fan but said it was ok.  The kids were mixed. Overall though I would make it again. Maybe with more stew vegetables next time.
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-30T00:39:27.997
+helpfulCount:
+0
+userID:
+13857731
+Display Name:
+Nadja A. Gordon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7211558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it with regular oxtails it turned out to be great. I added one tsp of smoked paprika

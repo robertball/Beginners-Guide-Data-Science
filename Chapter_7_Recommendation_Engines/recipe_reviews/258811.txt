@@ -1,0 +1,37 @@
+Recipe number:
+258811.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-01T20:12:04.38
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I do not care for feta but made this for my feta loving husband. He thought it was delicious and gave it 5 stars. He said it would be great on a salad or in a baked potato too. He requested I make this often and seeing how it is so simple, it gets 5 stars from me too!

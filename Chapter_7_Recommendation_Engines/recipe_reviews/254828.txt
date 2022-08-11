@@ -1,0 +1,107 @@
+Recipe number:
+254828.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-19T19:09:57.67
+helpfulCount:
+13
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6705
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2557
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OK, I have to be honest here, I really thought this would be rather  bland but after one bite I was sold. Instead of garlic powder and salt I used garlic salt along with the pepper for seasoning. This was so easy to make. Next time I will make extras for those lazy morning breakfast fares.
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-03T22:15:48.63
+helpfulCount:
+1
+userID:
+7047777
+Display Name:
+Connie Pitcher
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Deleted sausage and added spices. Don’t overfill before baking or you’ll have a tasty mess to clean up! :)
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-13T19:55:41.343
+helpfulCount:
+0
+userID:
+24076848
+Display Name:
+Shaylan Christine Foster
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5644671.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+sooo tasty :)

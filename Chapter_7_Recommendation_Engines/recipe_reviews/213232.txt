@@ -1,0 +1,45 @@
+Recipe number:
+213232.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-04T00:04:58.833
+helpfulCount:
+3
+userID:
+23902440
+Display Name:
+Leah Koolman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5526118.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty! I made this twice and changed a couple things the second time.
+
+-  Doubled the recipe as it doesnt make very much.
+
+- Halved the chilies, as this was super spicy.
+
+- Extra water needed to be added. After I added the amount of water and lemon juice that was called for, there was no way it would come to a boil.
+
+- Needs to be cooked longer. Both times I made this it took about 45-60 minutes after the potatoes were added. Leave yourself time for that!

@@ -1,0 +1,37 @@
+Recipe number:
+238220.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-03-10T22:54:17.597
+helpfulCount:
+0
+userID:
+21737959
+Display Name:
+Dennis Clark
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty! First time I’ve made corn beef and cabbage. Think I’ll do the again next St Patrick’s Day!!!

@@ -1,0 +1,37 @@
+Recipe number:
+274668.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-26T16:17:45.707
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe states the cheese is optional but I feel it is necessary and more of it. I ended up adding double the amount in the end. While the taste was okay, the corn did not belong or at least not a whole can. I also found it odd to use cream of chicken with the ground beef so I used cream of celery instead. This was just okay for us and I blame it on the corn.

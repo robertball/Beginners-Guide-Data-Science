@@ -1,0 +1,37 @@
+Recipe number:
+261667.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-31T03:59:26.29
+helpfulCount:
+2
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+873
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty, but definitely needed more seasoning. The ingredients were a bit vague as chicken breasts vary  greatly in size. I used some ground chicken which weighed less than the two chicken breasts i had on hand. I had a lot of filling left over. I would make these again, but I would add extra seasoning, less chicken, and more feta.

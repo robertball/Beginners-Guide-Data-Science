@@ -1,0 +1,72 @@
+Recipe number:
+46799.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-09-07T18:50:24.497
+helpfulCount:
+5
+userID:
+7637763
+Display Name:
+Nikki1
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not to bad. Used fresh salmon instead of canned so it was much tastier.
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-24T19:38:50.263
+helpfulCount:
+1
+userID:
+2360345
+Display Name:
+Melissa Goff
+isPro:
+False
+followersCount:
+1368
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+1339
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2417840.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My kids and hubby really liked this as well as myself. I did find that I had a few of minor issues. One they were slightly dry and the onions made it harder to bind the ingredients together when trying to press into ball shapes, I think mincing the onions instead of dicing them would be better. Other then that, it was a neat use of ingredients. Will make again. But will note, mine didn't fry very long because they got really dark rather quickly.

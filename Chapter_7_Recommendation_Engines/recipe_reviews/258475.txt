@@ -1,0 +1,72 @@
+Recipe number:
+258475.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-09-22T01:29:11.38
+helpfulCount:
+0
+userID:
+14773616
+Display Name:
+leibfreid
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The chocolate was not sweet at all, it needed sugar desperately. The spice was decently proportioned, but the sugarless chocolate flavor spoiled the whole batch. Such a shame :(
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-17T22:33:36.783
+helpfulCount:
+0
+userID:
+21793287
+Display Name:
+Todd Marsh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+129
+favoritesCount:
+734
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502258.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Some adjustments were made by the site to the original recipe I submitted, as I included sugar as one of the ingredients before and now it's oddly been completely unlisted here, not sure why. I definitely recommend about 1/2 to 3/4 cup sugar as well though, or as the other reviewer stated it really won't be sweet enough at all!

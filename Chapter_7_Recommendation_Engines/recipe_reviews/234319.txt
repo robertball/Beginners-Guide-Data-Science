@@ -1,0 +1,37 @@
+Recipe number:
+234319.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-10-18T06:12:56.85
+helpfulCount:
+2
+userID:
+3505618
+Display Name:
+Debster
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+48
+favoritesCount:
+359
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/352227.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This should be marketed as a diet dessert.  I made the recipe as written, but should have trusted my instincts and put in about 3/4 cup of sugar with the apples and fresh raspberries.  The topping was good, but the fruit was TOO TART!!  If you wanted to keep it healthier, maybe use Splenda for baking in place of the sugar, but it definitely needs the sweetness.  Maybe if you used frozen berries it would be sweeter...but as it is it is not good.

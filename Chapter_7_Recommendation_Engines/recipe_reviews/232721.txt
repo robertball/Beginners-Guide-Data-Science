@@ -1,0 +1,288 @@
+Recipe number:
+232721.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-30T15:38:15.01
+helpfulCount:
+7
+userID:
+8131636
+Display Name:
+Mary Morales
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+211
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5784153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I confess, I did cut the sugar amount in half and I did not stir up 60 servings or can any of this.  But it really was delectable, sweet, sour, slightly spicy, with a nice little crunch.  I was looking for a recipe to use one of those rogue cucumbers from the garden that grew about 20 inches long.  This filled the bill nicely.  Can't wait to slap some on a burger, hot dog, or grilled chicken breast.  I think it would go very nicely with ribs or roasted anything too.  I put some on a leftover baked potato and it really was nice.  Thank you for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-26T20:57:31.137
+helpfulCount:
+2
+userID:
+24001878
+Display Name:
+April
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made this recipe 4 times so far this growing season. My husband and family loves it! Hubby even puts it on his eggs! Thank you so much for sharing. (I wasn't sure about the 7 large cucumbers as they come in so many sizes that could be considered large. I weighed my first batch before preparing and 3lbs. Was the magic weight for us.)
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-12T02:23:22.223
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written minus the ginger and the end result was much that of bread and butter flavor which I hate but hubs likes. If you like bread and butter pickles then you should really give this one a try. I'm positive you will like it.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-23T22:46:02.493
+helpfulCount:
+0
+userID:
+15140519
+Display Name:
+Katya D'Entremont
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1938796.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've literally just made this as I had sooo many cucumbers in the garden.  I made 5 x 500ml jars + a little extra.   It tastes delicious and I'm extremely excited to have it with some strong, sharp cheddar cheese.  YUM!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-08T19:42:45.36
+helpfulCount:
+0
+userID:
+9680225
+Display Name:
+Judy Specht
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is what we call Granny's Relish in our house.   
+I used allrecipes to double check ingredient amounts and find some instruction .... dontcha know Granny's recipes are always skimpy in details!    
+Used my food processor to grate the cukes and onions.
+My first relish -making attempt.  Soooooo easy and soooooo delicious!  Very happy to have a stash in the cupboard again for sandwiches.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-03T20:43:48.167
+helpfulCount:
+0
+userID:
+9600365
+Display Name:
+Candy K Sheppard
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2109234.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1st off thanks for sharing your family recipe.
+2nd thanks for saying how many cukes & onions and not cups.
+This is very tasty with out being dilly or sweet. And I'm using it from now on
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-13T01:53:15.717
+helpfulCount:
+0
+userID:
+15978275
+Display Name:
+Kathy Clemens
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+80
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it just the way it shows. We loved it.
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-20T19:22:41.783
+helpfulCount:
+0
+userID:
+4018343
+Display Name:
+karilynn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am very pleased to say that this recipe is a success! I made this exactly as directed and it came out beautifully. 
+A huge bag of cucumbers showed up on my desk and I am happy that I came across this recipe :-) I will be making this next year as well.

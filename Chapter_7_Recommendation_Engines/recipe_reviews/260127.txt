@@ -1,0 +1,74 @@
+Recipe number:
+260127.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-17T02:57:44.387
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great! I used chicken breast tenderloins and I recommend placing them in a shallow bowl and letting your chicken marinate an hour or so before coating them in your breadcrumb mixture. The end result is perfect flavor (not too hot) and super juicy tender chicken strips/nuggets.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-01T18:44:24.427
+helpfulCount:
+0
+userID:
+7049860
+Display Name:
+Chefmama
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/666438.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used all the ingredients on the list, except the buffalo sauce. I made my own. 
+I have an air fryer, so that's where I cooked the chicken.  I dipped the chicken in my homemade buffalo sauce, rolled it in panko bread crumbs placed it on a plate and sprayed with cooking spray on both sides. Placed  the chicken in air fryer basket. Cooked them for 5 minutes at 400; turned them and cooked 4 minutes longer. Then I drizzled more buffalo sauce over all and served with bleu cheese dressing. 
+That was the highlight of the meal. The kids loved them.

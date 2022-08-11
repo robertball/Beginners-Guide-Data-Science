@@ -1,0 +1,72 @@
+Recipe number:
+67499.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-07-14T08:01:22.75
+helpfulCount:
+4
+userID:
+1867459
+Display Name:
+Kym Cox Surridge
+isPro:
+False
+followersCount:
+53
+followingCount:
+0
+madeRecipesCount:
+457
+favoritesCount:
+1572
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2810793.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried to review this without rating it, because I didn't use the bacon bits, which I'm sure would have added to the flavor (it was definitely lacking without). Apparently, that's no longer an option, so I'm giving it a neutral rating. But bacon bits or no, 1/2 cup of sesame oil is way too much for this slaw, unless you have a huge head of cabbage. I used less than 1/3 cup, and it was still too oily--and combined with the almonds, it was too rich (I love the flavor of a good toasted sesame oil, but this recipe proves that it's best used in small doses). Plus, it seems odd to have an oil "dressing" that doesn't use any acid. Maybe the bacon bits would have changed that, but the way I prepared it, it definitely needed acid to balance out the oil. I'm not sure why this is called "Santa Fe" slaw, which makes me think "southwestern"--the only thing about it that seems southwestern to me is the dried red pepper, which I ended up adding more of. After tasting several bites, I also added rice vinegar, which gave it a little more flavor. I don't plan on keeping this, but I'm very curious to read other reviews and find out how well it works with the bacon bits.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-06T22:48:18.333
+helpfulCount:
+1
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6665
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic slaw! I used a premixed bag of slaw, roasted sesame oil, real bacon and chives in place of the green onion. In order not to have too much dressing on the slaw I just drizzled it on to taste. I will definitely make this again.

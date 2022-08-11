@@ -1,0 +1,107 @@
+Recipe number:
+233601.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-19T13:57:57.043
+helpfulCount:
+3
+userID:
+12527185
+Display Name:
+Joyce Kleppinger
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3416953.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had it for the first time last week at an x-mas party and loved them!
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-13T13:15:14.86
+helpfulCount:
+2
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+520
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2069
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were my favorite of the ones I have tried so far though I would omit the soy sauce marinade because they seemed too salty with the bacon. Loved the dipping sauce with it though. I will definitely make again minus the soy. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-09T21:18:51.187
+helpfulCount:
+0
+userID:
+18131968
+Display Name:
+Rae Berken-Poquette
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+134
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3634338.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Instead of chili sauce I used 1/4 c sriracha. Nice kick!

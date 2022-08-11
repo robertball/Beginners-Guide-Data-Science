@@ -1,0 +1,72 @@
+Recipe number:
+245456.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-25T11:56:49.86
+helpfulCount:
+4
+userID:
+4104151
+Display Name:
+AJ in AZ
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+337
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/421968.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added a finely chopped red bell pepper when sauteing the onions.  Otherwise made it as written, although adjusted the recipe for 4 rather than 8.  Yum yum and so much easier than standing over the stove stirring.  Will definitely do this whenever I want risotto.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-28T23:13:35.387
+helpfulCount:
+1
+userID:
+11916208
+Display Name:
+C Ham
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+96
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it as directed. It seemed a little soupy when I checked after 30 minutes. I cooked it another 10 minutes. The rice was cooked perfectly. It was delicious!  My husband said it was better than my stove top version. I will be making this again as it was so much easier than doing it on the stove.

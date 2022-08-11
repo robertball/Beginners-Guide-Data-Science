@@ -1,0 +1,107 @@
+Recipe number:
+236816.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-17T22:14:56.243
+helpfulCount:
+1
+userID:
+10940118
+Display Name:
+Kelly McDonough
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5231670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just used cooking spray because I didn’t have cornmeal, and I made my own buttermilk by adding vinegar to my low-fat milk. It turned out good. I made it for St. Patrick’s Day not expecting it to taste that great, but it does. I would make it again!
+Review:
+Rating:
+2
+dateLastModified:
+2019-03-17T19:56:31.033
+helpfulCount:
+0
+userID:
+7629838
+Display Name:
+Gwenn Melis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6458635.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+too tough, I since read you are not supposed to knead irish soda bread, but gently press it together into a mound.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-12T17:23:10.573
+helpfulCount:
+0
+userID:
+13075695
+Display Name:
+Annie Ewbank
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+260
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3993889.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+excellent recipe.

@@ -1,0 +1,37 @@
+Recipe number:
+257711.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-07T22:43:58.663
+helpfulCount:
+0
+userID:
+20720788
+Display Name:
+Judith Bonnett
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+294
+favoritesCount:
+1400
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good   ....

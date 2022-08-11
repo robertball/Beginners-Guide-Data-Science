@@ -1,0 +1,72 @@
+Recipe number:
+241789.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-02T13:27:53.95
+helpfulCount:
+2
+userID:
+9832359
+Display Name:
+Francine Lizotte Club Foody
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+61
+favoritesCount:
+2645
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2412350.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great taste! Just the prefect amount of ginger...yummy!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-07T10:46:36.38
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and delicious! I used a pretty big chunk of ginger because I really like the zing in it. This is great for an afternoon pick-me-up. Thank you for the recipe.

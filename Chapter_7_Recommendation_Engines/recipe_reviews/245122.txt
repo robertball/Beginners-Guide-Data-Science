@@ -1,0 +1,37 @@
+Recipe number:
+245122.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-10-09T12:27:52.807
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+771
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just guessed at most of the ingredients because I had frozen some mini pepperonis as well as 1/4 cup measurements of the pizza sauce. I omitted the olives because I don't care for them. But this is the good thing about this recipe - you can adjust and easily make it your own! I enjoyed this for a very filling lunch.

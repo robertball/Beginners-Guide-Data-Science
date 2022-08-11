@@ -1,0 +1,37 @@
+Recipe number:
+258754.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-20T03:32:40.1
+helpfulCount:
+0
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made some changes: almond butter instead of cashew, powdered ginger instead of fresh, and red pepper flakes instead of Thai chilis. The family liked this. It is a wee bit dry and could probably use a dipping sauce of some sort, but its not necessary. It took a few tries to get the wrapping technique right, but once I figured it out, it wasn't hard. Was kind of fun to make and serve.

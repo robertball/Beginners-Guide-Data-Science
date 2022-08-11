@@ -1,0 +1,37 @@
+Recipe number:
+270724.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-10T18:12:25.057
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+1096
+followingCount:
+0
+madeRecipesCount:
+2888
+favoritesCount:
+1948
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8440171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is pretty good, if you like kale. The red beans and hot sauce are delicious.

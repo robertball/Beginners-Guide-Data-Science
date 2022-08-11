@@ -1,0 +1,107 @@
+Recipe number:
+100455.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-01-19T12:45:07.433
+helpfulCount:
+2
+userID:
+2177978
+Display Name:
+William H. Wiersema
+isPro:
+False
+followersCount:
+31
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2293739.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did as instructed and thought it came out quite nice.I didn't bother with the lettuce leaves for the presenation but I thought this was quality cooking myself. And I am a fan of quality!
+Review:
+Rating:
+1
+dateLastModified:
+2006-04-20T04:41:08.14
+helpfulCount:
+2
+userID:
+1632082
+Display Name:
+Dick L.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was really disappointed in this particular recipe.  Followed it to a "T" and I thought the chicken turned out very bland.
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-27T04:33:18.14
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+1096
+followingCount:
+0
+madeRecipesCount:
+2888
+favoritesCount:
+1948
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8440171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice! I used Mirin rice vinegar instead of sake and chicken breast instead of bone-in chicken. Thank you for the recipe.

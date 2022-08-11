@@ -1,0 +1,77 @@
+Recipe number:
+236080.txt
+Review:
+Rating:
+5
+dateLastModified:
+05/03/2014
+helpfulCount:
+1
+userID:
+13573784
+Display Name:
+Victoria Elena Acevedo
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1739863.jpg
+text:
+Added a bit less flour, substituted marshmallows with walnuts and added another tablespoon of Kahlua. The results were amazing and yummy!
+Review:
+Rating:
+1
+dateLastModified:
+01/07/2015
+helpfulCount:
+0
+userID:
+14964170
+Display Name:
+kellyann
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I followed this recipe exactly and the cookies were so soft and never hardened.
+Review:
+Rating:
+5
+dateLastModified:
+04/05/2014
+helpfulCount:
+0
+userID:
+6095903
+Display Name:
+Andy Bryan
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3907191.jpg
+text:
+Outstanding chocolate flavor.
+Review:
+Rating:
+4
+dateLastModified:
+12/02/2016
+helpfulCount:
+0
+userID:
+3376448
+Display Name:
+Deb Wuollet
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+The marshmallow bits were pretty against the dark  dough. Nice soft texture. I will up the amount of Kahlua next time for a little more flavor.
+Review:
+Rating:
+1
+dateLastModified:
+12/11/2019
+helpfulCount:
+0
+userID:
+2265483
+Display Name:
+Ann
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe isn't great. There was no Kahlua flavor so I added extra and it still was poor in flavor. It turned out to be a mediocre chocolate cookie.

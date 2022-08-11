@@ -1,0 +1,72 @@
+Recipe number:
+166702.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-10-23T16:19:31.113
+helpfulCount:
+6
+userID:
+2771208
+Display Name:
+Helen Lee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I lost my recipe for these wonderful bars. I'm so grateful someone submitted the recipe. Now I can start making them again. I LOVE THEM!!
+Review:
+Rating:
+4
+dateLastModified:
+2009-09-20T07:35:31.203
+helpfulCount:
+0
+userID:
+3464302
+Display Name:
+Christie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty although I didn't get that much of a caramel flavor coming through.  I liked that they were so moist.

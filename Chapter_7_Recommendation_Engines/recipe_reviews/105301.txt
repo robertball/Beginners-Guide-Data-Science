@@ -1,0 +1,72 @@
+Recipe number:
+105301.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-07-31T18:58:13.423
+helpfulCount:
+5
+userID:
+3524517
+Display Name:
+Patty Cakes
+isPro:
+False
+followersCount:
+341
+followingCount:
+0
+madeRecipesCount:
+546
+favoritesCount:
+3026
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4561464.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was the Perfect summer supper! It tasted light and very refreshing!I will keep this one and make it often! Thank You so much Jq!!
+Review:
+Rating:
+3
+dateLastModified:
+2011-02-10T16:23:54.7
+helpfulCount:
+2
+userID:
+6095903
+Display Name:
+Andy Bryan
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+841
+favoritesCount:
+617
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3907191.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Recommend using a different type fish like Tilapia and chopped fresh fruit instead of canned.

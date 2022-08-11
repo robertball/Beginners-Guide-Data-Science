@@ -1,0 +1,72 @@
+Recipe number:
+257222.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-05T22:00:04.413
+helpfulCount:
+1
+userID:
+23112167
+Display Name:
+Dan Nolton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4944836.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as it is written. Delicious!  I added 1 tblsp of soy sauce the second time I made it like someone’s comment suggested and it was even better.  Perfect for my low carb diet.
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-22T00:58:31.727
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor of this was good except the "hot" was missing. After tasting it I added some chili and garlic paste. Sriracha or crushed chili flakes would work too. I used can shiitakes instead of the dry and next time I would just double up on them and leave the cloud ear out altogether unless I could find fresh. For me, dried shrooms taste what a band-aid smells like. Overall good recipe but I think you need to add some heat.

@@ -1,0 +1,37 @@
+Recipe number:
+234539.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-30T11:07:47.47
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty. I served it with homemade high fiber chips and had it for dinner. Very hearty dip. The only part that I changed was the taco seasoning. The taco seasoning I use comes in a packet and 1/2 cup of that stuff would be multiple packs and pretty strong, so I used part of a packet... came out fine

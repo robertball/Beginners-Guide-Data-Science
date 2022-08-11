@@ -1,0 +1,37 @@
+Recipe number:
+274712.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-07T22:42:20.49
+helpfulCount:
+0
+userID:
+26455594
+Display Name:
+Nahmeannyc
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this recipe! The cheesecake came out so amazing and delicious! I made it a couple times already and everyone else loved it too! The only thing I changed is that I actually peeled, cut up and boiled the sweet potatoes until they were nice and soft. Then I let them cool off for a while and added them to the mix. Thanks so much for the recipe!

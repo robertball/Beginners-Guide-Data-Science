@@ -1,0 +1,37 @@
+Recipe number:
+267989.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-21T23:52:43.547
+helpfulCount:
+0
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1033
+favoritesCount:
+1847
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Originally my daughter and I weren't incredibly impressed with this recipe but I have to say sitting in Tupperware on the counter for a day has completely changed my opinion.  Maybe it gave the flavors a chance to do their thing or something, but they're fabulous!  I do think that it would be nice to add some chopped pecans but other than that I'd leave this one alone!

@@ -1,0 +1,72 @@
+Recipe number:
+277553.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-20T01:18:43.743
+helpfulCount:
+0
+userID:
+18007123
+Display Name:
+Phoenix Milligan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5588593.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It did not thicken. I have been cooking it 4 times longer than than indicated and it is still runny and thin.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-19T21:43:39.897
+helpfulCount:
+0
+userID:
+26873202
+Display Name:
+Rosalinda Strehlow
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful combination of spices!

@@ -1,0 +1,72 @@
+Recipe number:
+274413.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-23T22:19:30.103
+helpfulCount:
+0
+userID:
+25827980
+Display Name:
+Jen Carlisle Beck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7072849.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband liked it!  And he doesn't usually like anything.  Got rave reviews at work too.  Needed more confectioner's sugar in the frosting.  It was a little too soft and slid off part of the cake.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-02T21:18:47.067
+helpfulCount:
+0
+userID:
+24334354
+Display Name:
+Peggy Levin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+209
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5877211.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes.  Awesome!

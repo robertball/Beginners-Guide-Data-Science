@@ -1,0 +1,72 @@
+Recipe number:
+255625.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-29T21:33:29.307
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This tasted better the longer in sat. I actually dried out my bread cubes in the oven since I forgot to let them sit over night. Easy and quick to make.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-13T02:22:00.03
+helpfulCount:
+0
+userID:
+15920519
+Display Name:
+Pam Williams
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+78
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't sure about crumb topping on bread pudding but it was good! it was a little dry but I'll adjust to less bread next time. It's really great warmed and with icecream!

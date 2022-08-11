@@ -1,0 +1,37 @@
+Recipe number:
+245907.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-04T13:30:09.63
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9645
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out excellent! I'll admit that I didn't have high hopes but was just looking for a weekend project. Well, mid-week I used it in a stir-fry and it blew my mind. It was present but not overbearing in the dish. Neither me or my husband are huge ginger fans. A little goes a long ways. Stir-frys that call for fresh ginger are just too much for us. This infused oil is the perfect solution!

@@ -1,0 +1,72 @@
+Recipe number:
+231110.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-19T13:02:46.96
+helpfulCount:
+3
+userID:
+7853359
+Display Name:
+Joey Joan
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+561
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7645128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out real well, I used left over chuck roast instead of ground beef, but as a friend says beef is beef. I don't use instant rice so I used Jasmine rice and instead of cooking it in the skillet I prepared as directed on the package and added to the skillet after I cooked it. I only used 1/2 cup of water and 4 oz of tomato paste.Once I added the cooked rice this dish tightened right up and was a perfect texture. The meat was melt in your mouth tender and the flavor was full and savory. No real heat in the spice so even people that can't or don't tolerate hot and spicy can enjoy this dish.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-09T16:52:10.91
+helpfulCount:
+0
+userID:
+14342710
+Display Name:
+JAMunroe
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+132
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Substituted turkey burger for beef burger, cut salt and water  in half.

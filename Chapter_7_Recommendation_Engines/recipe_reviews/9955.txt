@@ -1,0 +1,37 @@
+Recipe number:
+9955.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-04-26T06:37:31.86
+helpfulCount:
+12
+userID:
+1842629
+Display Name:
+laneymack
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/670359.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great recipe all the family loved them.i left out the almonds.family member with nut alergies.i made a second batch and dipped them in seedless strawberry jam and they where great too.try this as an alternative to chocolate.sponge mix very moist and delicious.i use this all the time either with chocolate or jam.

@@ -1,0 +1,109 @@
+Recipe number:
+234151.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-07T10:22:14.813
+helpfulCount:
+2
+userID:
+14022972
+Display Name:
+McWatson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are delicious. You won't taste the beets and the goat cheese offers a wonderful flavor finish! People really love them as mini muffins too! It's easier to get them to try it : ) once they do, they are hooked! I find that mixing the goat cheese first, then adding sugar, then adding the eggs, keeps the eggs from being over worked. I shred the beets with a cheese grater than cook & strain them. I also added a 1/2 cup of chopped walnuts for crunch. The batter is stiff until you add the beets.
+Review:
+Rating:
+4
+dateLastModified:
+2015-10-15T13:47:36.637
+helpfulCount:
+0
+userID:
+3563956
+Display Name:
+Taia Wagoner
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+247
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1267108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this because I am trying to LEARN how to like beets and made too many.  So, I found this recipe and had to try it.  I have there kids 10 yrs and under.  Only one likes the beets naturally.  Cooked in these muffins, all three love them and ask for more.  They were actually upset I took them to my mom's group.  At the mom's group, many were left over, their reviews were mixed but many thought they were ok, with a couple really liking them and a couple not at all.  However, I did put a bit more beets in it than the recipe called.  I will make it again the muffins again.  :)  I did find the batter to be dry and may add water next time.  2 eggs seemed like too little liquid to me.
+Review:
+Rating:
+3
+dateLastModified:
+2013-09-08T20:37:32.997
+helpfulCount:
+0
+userID:
+5199823
+Display Name:
+Simmering Down
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/72.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I turned it into bread, and I didn't have all those specific flours.  However, it was okay.  I might make it again if someone else really liked it, but I didn't think it was that good.  It has sugar of a sweet bread, but the cheese is salty; so I wasn't sure if it was supposed to be a sweet bread or a salty one.  Also, mine was a little dry. It could be because I have no measuring devices in the house; another egg probably would have fixed that problem.
+
+It beats not having fresh baked bread, though.

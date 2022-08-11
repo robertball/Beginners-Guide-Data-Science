@@ -1,0 +1,37 @@
+Recipe number:
+274728.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-08-23T15:34:35.087
+helpfulCount:
+0
+userID:
+546991
+Display Name:
+Lori 
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+783
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5054490.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a silicone tube pan which I have never had trouble with in the past.  The cake split at the area where the jam was.  The cake was done, (no batter) but it was very moiste. Since the cake was just for family, I managed to unite the two halves.  The cake tasted okay.  I don't think the jam was necessary.  I did not add the frosting.  So either frosting or jam.  Both are too much.  I made the frosting but did not use it.

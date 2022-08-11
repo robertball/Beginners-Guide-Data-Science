@@ -1,0 +1,72 @@
+Recipe number:
+174468.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-03-05T12:57:46.37
+helpfulCount:
+1
+userID:
+1685545
+Display Name:
+Julie Koch
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+99
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1760.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved this.  Family is asking for again!!
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-17T08:41:47.57
+helpfulCount:
+0
+userID:
+1969563
+Display Name:
+cee23cee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe, it's easy and yummy!!! I've made it a few times and everyone loves it. I made one change to this recipe. If you like the taste of goat cheese, I would suggest increasing the amount. But other than that, it's a keeper.

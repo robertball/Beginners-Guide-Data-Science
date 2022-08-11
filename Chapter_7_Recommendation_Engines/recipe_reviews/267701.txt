@@ -1,0 +1,37 @@
+Recipe number:
+267701.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-29T02:51:46.71
+helpfulCount:
+0
+userID:
+11993250
+Display Name:
+Nanette1971
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used gluten free penne and added onions, celery and bell peppers with ththe mushrooms. Very yummy!!

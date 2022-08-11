@@ -1,0 +1,37 @@
+Recipe number:
+240716.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-06T22:41:29.223
+helpfulCount:
+0
+userID:
+739774
+Display Name:
+Carol Semenuk
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+45
+favoritesCount:
+158
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2562778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it and it was very good, I had to do a few variations, but we enjoyed the meal. I decided to make this the latter part of the morning, so had to get meat out of the freezer, defrost it and to make sure the stew meat was going to be tender, I cut them in small pieces and pounded the meat and put it on high and was all ready at dinner. Thanks for a great recipe, will be making this again.

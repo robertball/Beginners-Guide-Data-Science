@@ -1,0 +1,37 @@
+Recipe number:
+214466.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-06-30T17:11:14.577
+helpfulCount:
+8
+userID:
+2769478
+Display Name:
+Valorie
+isPro:
+False
+followersCount:
+41
+followingCount:
+0
+madeRecipesCount:
+227
+favoritesCount:
+2790
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/767828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had never used rice powder before, but had some I bought to make dog treats. Turned out really good. I will use this ingredient more often. Thank you.

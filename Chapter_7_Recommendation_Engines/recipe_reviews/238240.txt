@@ -1,0 +1,72 @@
+Recipe number:
+238240.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-12T00:40:24.323
+helpfulCount:
+0
+userID:
+16215440
+Display Name:
+Kelly Trivitt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2516956.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe to the letter. I used greek yogurt and 72% Godiva dark chocolate. The bananas where prefozen and help set the mixture a little faster.  This was so yummy. I may not share. And will make it again soon! Thanks for sharing this easy and very delicious dessert.
+Review:
+Rating:
+3
+dateLastModified:
+2014-06-29T19:43:11.54
+helpfulCount:
+0
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used a good vanilla yogurt but it was hard to get past the tang of it. I added a little more than half of a cup of natural salted peanut butter and chopped up a leftover Hershey's bunny from Easter.

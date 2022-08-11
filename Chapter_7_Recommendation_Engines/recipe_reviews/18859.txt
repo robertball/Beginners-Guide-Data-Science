@@ -1,0 +1,37 @@
+Recipe number:
+18859.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-09-02T14:26:48.803
+helpfulCount:
+1
+userID:
+595916
+Display Name:
+JDVMD
+isPro:
+False
+followersCount:
+162
+followingCount:
+0
+madeRecipesCount:
+1625
+favoritesCount:
+1530
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/408423.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good. Came together very quickly. Used glazed walnuts for a little extra wow.

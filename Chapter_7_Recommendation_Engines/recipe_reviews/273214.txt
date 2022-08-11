@@ -1,0 +1,37 @@
+Recipe number:
+273214.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-12T18:31:49.677
+helpfulCount:
+0
+userID:
+24424609
+Display Name:
+longdec2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5889175.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I changed them to be vegan-friendly,  used ground flax meal eggs instead of eggs and vegan butter instead of coconut butter. Very good, my family enjoyed them.

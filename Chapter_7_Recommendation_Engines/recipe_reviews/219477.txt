@@ -1,0 +1,72 @@
+Recipe number:
+219477.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-12-25T12:28:41.747
+helpfulCount:
+23
+userID:
+7399470
+Display Name:
+Trisha M Vaughn-Postlewait
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2858162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was AMAZING!!! The turkey came out super moist! I made mine in an electric roaster and then tossed it in my oven for 10 minutes to crisp the skin. So simple and so good!!
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-27T08:53:37.263
+helpfulCount:
+0
+userID:
+14778512
+Display Name:
+jonvin30
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just put it in the oven!

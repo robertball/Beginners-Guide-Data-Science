@@ -1,0 +1,109 @@
+Recipe number:
+245747.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-19T12:07:32.427
+helpfulCount:
+3
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+612
+favoritesCount:
+984
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As is, the recipe is messed up. If you follow the current directions the cookie dough will be so dry you can't form the crust.  According to the cookie mix you need to add 2 Tbsp water, so I added that to the dough. The size of 9"x13" is quite big. You won't have enough dough after reserving dough to make 3 cookies. Possibly 8"x8" would be better.
+I didn't quite understand the point of baking the cream cheese mixture with the cookie base...in fact you don't know it's there after the whipped topping is added. 
+Overall not bad, but this recipe won't work as listed.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-01T17:26:51.81
+helpfulCount:
+0
+userID:
+25031033
+Display Name:
+Verna Duffitt-Stryde
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6321655.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make, too easy to eat!!!
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-15T17:04:56.407
+helpfulCount:
+0
+userID:
+24074382
+Display Name:
+Brittany Nelson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5720530.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+the cream cheese mixture didn't turn into a cheesecake texture and i realize now it is because the recipe doesnt say to add egg to the cream cheese mixture. i had to make double chocolate chip cookies and from scratch. i need an alternative to cool whip. it has palm oil in it.

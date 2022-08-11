@@ -1,0 +1,72 @@
+Recipe number:
+257411.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-13T15:36:04.147
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9658
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were great! I used Sriracha for my hot sauce and it was okay but it would be better with a peeper sauce such as Tobasco or even a Louisiana hot sauce. Excellent recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-12T01:18:12.943
+helpfulCount:
+1
+userID:
+15253121
+Display Name:
+susan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+606
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6446528.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So good!!!! The lime makes it, I think. I added a bit of freshly grated Parmesan and Italian bread crumbs. We are so anxious to get more fresh oysters!

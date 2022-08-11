@@ -1,0 +1,37 @@
+Recipe number:
+241770.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-27T03:05:20.39
+helpfulCount:
+2
+userID:
+6421512
+Display Name:
+harzreu
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were delightful! :) Easy and yummy.

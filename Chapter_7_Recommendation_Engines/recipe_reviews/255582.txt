@@ -1,0 +1,37 @@
+Recipe number:
+255582.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-07T13:12:39.22
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this indeed. This pleased everyone- especially me because it cooked up quickly and with minimal mess. I used red bell peppers instead of zucchini. Thank you for the recipe.

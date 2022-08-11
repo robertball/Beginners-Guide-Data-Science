@@ -1,0 +1,144 @@
+Recipe number:
+263716.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-24T20:40:41.447
+helpfulCount:
+0
+userID:
+6508238
+Display Name:
+Doreen J
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added potatoes, a tomato and made sure I did  brown the beef very well for a rich beefy flavor,   I used beef broth instead of chick.  
+I will make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-13T03:13:37.953
+helpfulCount:
+0
+userID:
+982699
+Display Name:
+PARABIANS
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+74
+favoritesCount:
+230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1131629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good.  Added a cubed potato and used beef instead of chicken broth.  The slurry is an excellent add as the final ends up more like stew and less like soup.  I am one of those doesn't care for reviews where changes are made.  So forgive my indulgence.  I will keep this recipe in the rotation.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-31T01:22:01.053
+helpfulCount:
+0
+userID:
+24084031
+Display Name:
+Cindy Mohrman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5649779.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  I added potatoes and served it with homemade buttermilk rolls.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-07T21:45:49.137
+helpfulCount:
+0
+userID:
+3627717
+Display Name:
+Judy Good
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5873525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added potatoes and used beef broth instead of chicken broth.
+Second time I made it I also added sliced Baby Bella Mushrooms. Delicious!

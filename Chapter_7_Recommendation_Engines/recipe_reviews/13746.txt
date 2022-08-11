@@ -1,0 +1,107 @@
+Recipe number:
+13746.txt
+Review:
+Rating:
+5
+dateLastModified:
+2003-12-07T19:51:41.497
+helpfulCount:
+10
+userID:
+913389
+Display Name:
+RENEEJANE
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+WOW! What an excellent idea.  It works well with non-canned cranberry leftovers, and tastes great as it's own dish rather than being merely topping.  A fantastic and easy way to use cranberry relish as a dessert!!!!
+Review:
+Rating:
+4
+dateLastModified:
+2011-11-28T13:51:54.76
+helpfulCount:
+4
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+873
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very simple to throw together and tasty as well. I used leftover homemade cranberry compote. I was out of pie to serve this with, so I chose to break up ginger snaps and layer them with the cranberry mixture in a sundae glass.
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-17T05:02:40.183
+helpfulCount:
+2
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh man. This is delicious. I used "lite" whipped topping and you couldn't tell the difference.

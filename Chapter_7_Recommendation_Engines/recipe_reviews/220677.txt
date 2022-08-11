@@ -1,0 +1,76 @@
+Recipe number:
+220677.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-05-28T10:39:52.853
+helpfulCount:
+9
+userID:
+9268802
+Display Name:
+Shaylene
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am giving 5 stars for convenience. I doubled the recipe and threw it all together in a 9x13 dish and baked it. I got away with a meal that my family thought that I spent hours on. My three-year-old asked for thirds. This dish isn't the fanciest but it is worth it for a busy family.
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-23T11:26:58.71
+helpfulCount:
+0
+userID:
+8691693
+Display Name:
+denete
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I departed from the recipe slightly. I used 5 ounces of the cooking creme and 4 tablespoons of water. This gave a lighter sauce.
+
+The taste is very nice and not cluttered.
+
+This is a simple and fast recipe that is within reach for even the least experienced cook.

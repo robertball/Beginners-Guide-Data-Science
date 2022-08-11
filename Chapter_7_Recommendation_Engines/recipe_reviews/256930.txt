@@ -1,0 +1,37 @@
+Recipe number:
+256930.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-16T18:15:10.587
+helpfulCount:
+0
+userID:
+24852567
+Display Name:
+Maryam
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6378640.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We use breads in Abdoogh-Khiar

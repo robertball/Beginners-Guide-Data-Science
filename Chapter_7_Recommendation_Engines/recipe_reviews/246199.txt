@@ -1,0 +1,72 @@
+Recipe number:
+246199.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-01T21:15:11.357
+helpfulCount:
+4
+userID:
+6420906
+Display Name:
+leanne
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+149
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It tastes very good however the recipe should have made mention that you need to cool the Jell-O before adding it to the set layer or it will dissolve and melt which is what happened to my Jell-O. The orange and green Jell-O then turned brown as it all mixed together. It tasted good but was not pretty like the picture. Next time I will not bother layering the orange in the middle but just add a little triple sack to the margarita Jell-O recipe and have the entire jello green. Then the Jell-O will set up in four hours instead of 12 as the original recipe calls for.
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-17T18:17:19.347
+helpfulCount:
+1
+userID:
+14587085
+Display Name:
+Sean Babac
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+141
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7197801.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Three different steps, takes a bit of time. However, they are a hot with everyone I served them to.

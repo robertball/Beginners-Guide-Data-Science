@@ -1,0 +1,72 @@
+Recipe number:
+262001.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-19T01:37:27.053
+helpfulCount:
+1
+userID:
+23967697
+Display Name:
+Kale
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was a very good recipe. I will make this again! (no changes necessary) .
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-23T21:48:08.953
+helpfulCount:
+0
+userID:
+22232092
+Display Name:
+Tracy T
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sauce is really excellent. I have tried other but the balance of flavors in this combination seems just right. Don't be afraid of the chili paste. It is warm, but flavorful. If you can't do hot, just cut it down minimally but don't leave it out completely. Thanks so much for sharing this!

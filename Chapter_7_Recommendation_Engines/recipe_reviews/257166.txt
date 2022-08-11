@@ -1,0 +1,37 @@
+Recipe number:
+257166.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-11T07:59:38.273
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+968
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These panini are made with prosciutto cotto (cooked deli ham).

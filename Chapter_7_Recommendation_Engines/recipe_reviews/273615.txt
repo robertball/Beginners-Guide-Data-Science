@@ -1,0 +1,74 @@
+Recipe number:
+273615.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-05T23:52:10.577
+helpfulCount:
+0
+userID:
+8842226
+Display Name:
+Nancy Woodard Bragg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2905355.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't make any changes, but still found the tomato paste make it sweet. My husband thought it was too tomato-y. It's not likely to show up on my rotation again.  But I was looking for a low carb version of chili and this was it.
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-02T22:59:36.977
+helpfulCount:
+0
+userID:
+24990187
+Display Name:
+JustAnotherCook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Two notes for anyone seeking to make this. First, my 6 qt slow cooker was nowhere near large enough; I left out half the diced tomatoes and all of the crushed. If I do it again, I would mix all in a very large bowl and then use two cookers.
+Second, on tasting during cooking I found it very acid. Two tbsps of sugar helped out with that.
+Some folks might want more chili powder, as well.

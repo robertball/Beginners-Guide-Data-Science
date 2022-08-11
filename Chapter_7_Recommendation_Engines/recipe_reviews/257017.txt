@@ -1,0 +1,37 @@
+Recipe number:
+257017.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-27T21:35:32.31
+helpfulCount:
+0
+userID:
+3795092
+Display Name:
+virgi
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Liked it! I would make again. Thanks for the recipe!

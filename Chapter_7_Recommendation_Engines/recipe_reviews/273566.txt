@@ -1,0 +1,37 @@
+Recipe number:
+273566.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-29T20:41:36.817
+helpfulCount:
+0
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+555
+favoritesCount:
+871
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I halved the recipe as I had two ripe peaches that I needed to use. I made one small change, I used half the amount of sugar.  I grilled this @ 350 for exactly 10 minutes, flipping the packet half way through. This would be wonderful over ice cream! Thanks for the recipe.

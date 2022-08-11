@@ -1,0 +1,72 @@
+Recipe number:
+246937.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-30T16:57:10.187
+helpfulCount:
+0
+userID:
+9603610
+Display Name:
+Joan-Marie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sometimes you need a quick, easy and delicious recipe for tofu and this recipe is it.  We cooked the tofu while the rice cooked and in no time at all dinner was done and delicious.    Used sauce out of a bottle. An inexpensive and easy dinner option-- thank you for the recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-11T01:24:26.243
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. A little on the salty side but still good. Loved the heat in the sauce.

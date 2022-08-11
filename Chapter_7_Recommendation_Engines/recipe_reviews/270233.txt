@@ -1,0 +1,108 @@
+Recipe number:
+270233.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-14T16:22:17.233
+helpfulCount:
+0
+userID:
+7531148
+Display Name:
+Karlene
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really tasty.  I didn't have cream cheese on hand, but it was still creamy and a good consistency.  It might have been the noodles I used, or my instant pot, but next time I would set it for 2 minutes instead of 1, as the noodles were still a bit chewy.  When I first opened the instant pot, it looked like the ingredients had curdled a bit on the noodles, but when I added in the remaining ingredients that was no longer apparent.
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-13T21:20:40.023
+helpfulCount:
+0
+userID:
+6520639
+Display Name:
+Michael Rogers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+241
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1974491.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent.  I imagined a flavor, but I underestimated
+how the flavors would interact.  The flavors blended into a rich creamy flavor that was different than the Alfredo I thought it would be.  I did make one change and it was minor.  I substituted Almond Milk for regular milk.  I can not tell you what it did to the flavor, but the outcome was well worth the effort.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-13T00:59:59.25
+helpfulCount:
+0
+userID:
+5685788
+Display Name:
+Andrew Cummings
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5284993.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and yummy. Might try a different cheese combo another tine.

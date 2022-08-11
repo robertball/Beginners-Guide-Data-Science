@@ -1,0 +1,37 @@
+Recipe number:
+244869.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-22T21:07:17.18
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved, loved, LOVED these. The reason for the 4 star instead of 5 is that I felt they needed a drizzle of some kind of sauce. Maybe a Greek dressing, Zesty Italian, or even ranch?

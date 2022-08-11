@@ -1,0 +1,37 @@
+Recipe number:
+247455.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-22T21:11:27.41
+helpfulCount:
+1
+userID:
+18106637
+Display Name:
+Bill/H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+228
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes were made

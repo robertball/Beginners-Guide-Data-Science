@@ -1,0 +1,37 @@
+Recipe number:
+235524.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-01T13:34:43.637
+helpfulCount:
+0
+userID:
+2389691
+Display Name:
+lovestohost
+isPro:
+False
+followersCount:
+1594
+followingCount:
+0
+madeRecipesCount:
+777
+favoritesCount:
+1381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/377406.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good drink, as long as you don't go into expecting "iced tea" or a drink similar to a Long Island.  It's pretty sweet and and, as the tagline suggests, you certainly don't taste the alcohol, so it'd be easy to end up dancing on the table if you're not a drinker and you have a few of these.  Cheers!

@@ -1,0 +1,73 @@
+Recipe number:
+229338.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-26T18:15:34.14
+helpfulCount:
+0
+userID:
+8856174
+Display Name:
+Trina De Zeeuw
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3971571.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was the first pumpkin butter recipe I've tried. It's great. I followed the recipe exactly and it turned out great. I'm putting it on everything!
+The only thing is it doesn't really reduce down to the thick syrupy sauce that I've seen with apple butter.
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-18T14:03:55.003
+helpfulCount:
+0
+userID:
+16563893
+Display Name:
+Mande Tryall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+639
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4451053.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good!

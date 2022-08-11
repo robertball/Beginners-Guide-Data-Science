@@ -1,0 +1,72 @@
+Recipe number:
+240820.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-01-31T14:54:38.213
+helpfulCount:
+1
+userID:
+4763748
+Display Name:
+kching
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+176
+favoritesCount:
+215
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm sorry, but this did not work for me. I tried making them twice in case I messed up the first time (first time I used coconut creamer instead afterof coconut milk).  But both attempts failed. The cupcakes looked nice after 20 min in oven but they would NOT set. Kept them in oven a little longer, but only the top and sides would bake, insides were still gooey batter.  Since they were not baking I continued to leave them in oven, and after 45 min they were brown (but would not burn!) and STILL very gooey in the middle.  I bake a lot so I know it was not the oven's fault.
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-02T04:33:37.16
+helpfulCount:
+0
+userID:
+20915690
+Display Name:
+Chef Roy
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+211
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4484693.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really had a lot of fun making these cupcakes, it's a really good recipe!

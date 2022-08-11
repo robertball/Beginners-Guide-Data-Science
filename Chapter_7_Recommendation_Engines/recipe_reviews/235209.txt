@@ -1,0 +1,47 @@
+Recipe number:
+235209.txt
+Review:
+Rating:
+5
+dateLastModified:
+10/27/2013
+helpfulCount:
+1
+userID:
+elizabeth
+Display Name:
+Elizabeth
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2682559.jpg
+text:
+An easy fun recipe which is a total crowd pleaser for Halloween!
+Review:
+Rating:
+5
+dateLastModified:
+10/28/2019
+helpfulCount:
+0
+userID:
+13229978
+Display Name:
+jfiffick
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Looking for something new to make for our annual Halloween party. This was easy to make and looked really good on the table. Was a hit and is very tasty. Will be making this every year.
+Review:
+Rating:
+5
+dateLastModified:
+10/27/2013
+helpfulCount:
+0
+userID:
+allis
+Display Name:
+Alli Shircliff
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3975885.jpg
+text:
+Such a fun and easy dessert to prepare for parties. Everyone loved them!

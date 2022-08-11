@@ -1,0 +1,37 @@
+Recipe number:
+277245.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-05T00:00:55.907
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Apples never reached an applesauce consistency. Good thing I diced them small. They were tasty but not enough filling. Thank you for the recipe.

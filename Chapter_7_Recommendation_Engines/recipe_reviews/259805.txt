@@ -1,0 +1,37 @@
+Recipe number:
+259805.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-04T19:03:43.533
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6898
+followingCount:
+0
+madeRecipesCount:
+2653
+favoritesCount:
+3308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Worked great! I like that I don't have to keep another bag of flour in my pantry that will never get used before it goes bad. This is great to make as needed and with great results. I will be using this again! Thanks for sharing. :)

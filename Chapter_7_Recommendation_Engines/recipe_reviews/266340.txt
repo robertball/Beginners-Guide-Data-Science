@@ -1,0 +1,37 @@
+Recipe number:
+266340.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-15T01:51:33.41
+helpfulCount:
+0
+userID:
+24027379
+Display Name:
+CECELIA HANCHON
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5609881.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my friend who loves mushrooms.  It is a wonderful tart but boy it seemed like a lot of work.  I say that because I've been using frozen pie crusts for a couple of years.  That's what happens when you get to 76 year old.  I've been cured - I will be making this again.  Loved it.  The remainder of the tart was taken home by my friend.

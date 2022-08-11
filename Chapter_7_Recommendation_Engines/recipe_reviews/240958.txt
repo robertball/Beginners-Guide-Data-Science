@@ -1,0 +1,142 @@
+Recipe number:
+240958.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-24T10:06:15.51
+helpfulCount:
+1
+userID:
+16541032
+Display Name:
+Nuhai Baaba
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2653413.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Served with lettuce and melted Mozzarella cheese & fries. Absolutely loved it. Thanks for sharing!
+Review:
+Rating:
+4
+dateLastModified:
+2020-03-04T17:27:23.323
+helpfulCount:
+0
+userID:
+18064141
+Display Name:
+Elizabeth Currier
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+80
+favoritesCount:
+150
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5516155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked these burgers a lot, but for my boyfriend they were too spicy. Definitely not for the person who dislikes or can't tolerate the heat. Would make again, perhaps with less chipotle peppers.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-03T00:51:44.903
+helpfulCount:
+0
+userID:
+20334918
+Display Name:
+Jennifer L
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3891599.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My boyfriend loves hot. I do not. This was the perfect compromise. Very delicious!  I broke up my burger and put it on a salad with a balsamic, lime oil and mustard dressing. We both added pepper jack cheese.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-19T12:48:39.187
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I absolutely loved this. I wanted tacos. He wanted burgers. We got both. I topped it with cheese, guac, extra chipotle sauce, lettuce, and jalapeños. It was heaven on a bun. Thank you for the recipe.

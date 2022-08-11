@@ -1,0 +1,72 @@
+Recipe number:
+244327.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-10T15:50:33.48
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5 star all the way! I went ahead and went for the full size burgers because I already had buns and they needed used. I came across truffle oil for the first time in a new store that opened and this is the first recipe I chose to use it for. What a great choice! When I went back to the store to pick of the rest of the ingredients I got distracted and somehow had it in my head it was Swiss cheese I was needing instead of parm. It worked nicely too but I'm anxious to try this again with parm. These are gourmet indeed and my husband said it was the best hamburger he has ever had.
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-11T14:52:34.087
+helpfulCount:
+1
+userID:
+2704769
+Display Name:
+Kathy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+141
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very Good!

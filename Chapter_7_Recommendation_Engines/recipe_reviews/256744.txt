@@ -1,0 +1,72 @@
+Recipe number:
+256744.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-04T18:22:17.97
+helpfulCount:
+9
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe turned out really well for me. I was looking for a cookie recipe versatile enough to be used to make Valentine cookies. I know shortbread type recipes do not spread too much. I halved the recipe and used a cookie scoop. I placed two cookie scoops near each other. Then pressed them down inside  a heart shaped cookie cutter. I baked them on parchment. Half the recipe, prepared this way, made 12 cookies and they needed an additional 5 minutes to bake. Thanks, and happy valentines month!
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-26T18:38:42.793
+helpfulCount:
+1
+userID:
+9691540
+Display Name:
+Heather N Cecil Bishop
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1692517.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious cookies.  The instructions don't say that they will remain in the ball shape. If you desire flat cookies like the picture press them down or use a cookie cutter.

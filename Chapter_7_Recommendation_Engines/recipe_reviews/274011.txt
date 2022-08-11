@@ -1,0 +1,37 @@
+Recipe number:
+274011.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-08T22:29:19.63
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+766
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was expecting to like this more because I'm a huge fan of all the ingredients, especially cabbage and bacon!  We found that there wasn't really much flavor and had to add seasonings to the finished product. We could not taste the bacon at all, or any of the other ingredients.  I also found the bacon to have an unappetizing appearance since it essentially ends up "steaming" in the closed up foil packets and gets soggy.  To note: I did add some bacon grease, as suggested in the recipe notes, and I cooked these on the outdoor grill.  If I were to make this again, I'd definitely double the bacon sauce mixture.

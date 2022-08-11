@@ -1,0 +1,142 @@
+Recipe number:
+255073.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-08T14:10:26.113
+helpfulCount:
+1
+userID:
+2016123
+Display Name:
+spice of life
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+253
+favoritesCount:
+2318
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5746750.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were a nice change from plain old fries.  For ease of preparation and to save time I used frozen extra-crispy fast food fries and just sprinkled on the seasonings and baked per package directions.  I was a little reluctant to put on the malt vinegar, but I sprinkled on a few drops and liked it too--wouldn't want too much though.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-18T02:46:39.253
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made these at least a dozen times since discovering the recipe and didn't realize I have never reviewed. I love these! We love these! There is something about the Old Bay mixed with malt vinegar that sets these apart. I've tried to tweak this and make these in my air fryer and it can be done however I prefer these just as written and in the oven. This is truly one worth trying and you won't regret it I promise.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-10T14:45:12.567
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Mouthwateringly delicious! I had to use apple cider vinegar to keep it gluten free, and can see where the malted version would just knock this out of the park. I had to cook mine about 20 minutes. Keeping the spirals separated is key. Next time, I’ll try this in my airfryer. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-02T22:36:54.867
+helpfulCount:
+0
+userID:
+12526204
+Display Name:
+Annmarie Clarke
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2121035.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+less salt.

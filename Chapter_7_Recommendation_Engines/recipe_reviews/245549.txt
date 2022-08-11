@@ -1,0 +1,37 @@
+Recipe number:
+245549.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-18T05:14:30.687
+helpfulCount:
+1
+userID:
+3906856
+Display Name:
+EscoJamie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+697
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe. Had most of the ingredients on hand. I didn't have green pepper and I added garlic to the veggies in the skillet. I also increased the vinegar and lemon juice, and added some leftover roasted chicken I wanted to use up. This recipe makes a lot of food and the leftovers were delicious too. Thanks for sharing!

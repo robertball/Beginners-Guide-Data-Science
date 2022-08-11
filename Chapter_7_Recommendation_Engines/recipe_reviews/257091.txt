@@ -1,0 +1,72 @@
+Recipe number:
+257091.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-20T23:24:12.657
+helpfulCount:
+0
+userID:
+25223017
+Display Name:
+Meredith Greene
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6405376.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had some Italian sausage,3  pepper blend (frozen),and some hot dong buns.. this was a WINNER!!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-02T16:06:45.447
+helpfulCount:
+0
+userID:
+8372308
+Display Name:
+Fatboy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious. I have to wonder, if the new owners of Allrecipes, the Koch brothers, didn't eat this and think: "We need to buy this website!" absolutely fabulous and tasty!

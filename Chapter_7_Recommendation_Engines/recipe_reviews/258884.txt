@@ -1,0 +1,37 @@
+Recipe number:
+258884.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-16T07:45:21.86
+helpfulCount:
+0
+userID:
+20963194
+Display Name:
+Sarah D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4284471.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!! This recipe is so easy to make and is a perfect Christmas candy to have. Thank You Alexander for posting this recipe.

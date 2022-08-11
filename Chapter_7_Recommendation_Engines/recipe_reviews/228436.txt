@@ -1,0 +1,363 @@
+Recipe number:
+228436.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-17T14:21:43.057
+helpfulCount:
+6
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2222
+favoritesCount:
+2567
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don’t usually eat potatoes but I make them for my husband, therefore, this is his review.  He thought they had good flavor and were very good.  What he especially liked about them is that even though they had a sauce, they were not heavy.  He wouldn’t give them a 5 (he’s saves that for only outstanding dishes, yes, he’s fussy) but they were a solid 4 and he enjoyed them very much.  Thanks for sharing!
+Review:
+Rating:
+3
+dateLastModified:
+2014-02-15T18:43:48.95
+helpfulCount:
+5
+userID:
+10516082
+Display Name:
+Peggi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/949396.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Decent base recipe, but pretty bland. I just wish I had listened to my gut and added some much needed flavor. I will make this again and add garlic and pepper.
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-12T18:26:42.19
+helpfulCount:
+5
+userID:
+9790120
+Display Name:
+Sally Enqvist Handley
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3544798.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a tried a true recipe, quick and easy to prepare and absolutely full of flavour.
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-06T18:25:20.923
+helpfulCount:
+2
+userID:
+6598577
+Display Name:
+ozarknurse
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+160
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe with a few changes. Changes made were out of necessity, wanted to use up some leftovers. 
+8x8 glass baking dish sprayed with non stick cooking spray.
+Left over boiled potatoes cut into thickish chunks placed into baking dish.
+In a mixing bowl combine the following
+1can cream of mushroom soup
+2% milk! I used soup can to measure, 1 can full
+1/2 cup shredded white cheese
+1 cup shredded cheddar cheese
+Mix together pour over potatoes 
+Bake 35 min at 350, add 1/2cup cheese to top, broil until brown
+They were perfect, cheesy and delicious 
+Longer then probably necessary cooking time because potatoes were cold thru. Wanted to be sure they were hot in middle.
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-26T15:13:14.75
+helpfulCount:
+1
+userID:
+13482264
+Display Name:
+Lisa Michelle Merkle
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4396678.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe but I also changed it up a bit. Instead if using cream of mushroom soup I used cream of chicken soup and when potatoes were finished boiling I added a 1/4 cup of butter. I saluted the onions with salt and pepper and  little garlic powder. Turned out delicious.
+Review:
+Rating:
+3
+dateLastModified:
+2017-02-15T23:12:31.687
+helpfulCount:
+0
+userID:
+21414022
+Display Name:
+Nina
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+141
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Next time I make it I'm adding more cheese, canned milk & soup. It was too dry. I'm also going to use 1/2 a small onion instead of a whole one. It tasted too onion-y.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-27T21:24:04.13
+helpfulCount:
+0
+userID:
+11303866
+Display Name:
+Juli Thompson
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4694771.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+finally a yummy result !! i think the soup really made it...thanks!!
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-26T18:29:12.087
+helpfulCount:
+0
+userID:
+16512498
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+413
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I Made this tonight. Very tasty. I believe it needs more flavor. Next time I will add some garlic powder and pepper. Maybe a little more cheese.   Thanks for an easy side dish.
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-01T16:58:19.087
+helpfulCount:
+0
+userID:
+14168323
+Display Name:
+PJH68
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+209
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this today and it was a big hit.  It has a very good flavor and the onions hit the spot!
+Review:
+Rating:
+2
+dateLastModified:
+2014-09-10T20:44:24.283
+helpfulCount:
+0
+userID:
+12875293
+Display Name:
+Patrick Desmond
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3598815.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not impressed. Flavor lacking and cutting potatoes at 1/2" is to thick. Made for 4 people and all agreed with me.

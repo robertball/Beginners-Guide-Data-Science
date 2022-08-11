@@ -1,0 +1,110 @@
+Recipe number:
+170350.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-10-04T17:46:15.07
+helpfulCount:
+4
+userID:
+7569219
+Display Name:
+natejohn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+353
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4504786.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First of all - beginner "cook" here. I would use small "new potatoes" or SMALL reds rather than "Red" potatoes.  Even quartered the pieces were rather large and eventually hard to "spread"
+"Toasting"pecans that are brown by nature was tricky but doable. The PUREE was very very thick even b4 adding the crushed pecans. "Spreading" the Pecan mixture was a trial.  The last "browning" , again, was a trick as it was a deep brown already.  The finished product was hardly a "presentation" dish...looked...poor.  HOWEVER - the addition of the sour cream and a little more butter helped the consistency of the Pecan spread.  I can see that a "sauce" made of pecans etc and "poured" over the potatoes would present better and get a a more even coating on said taters.
+I did like the flavor though!
+AGAIN - beginner here.  ;-)
+Review:
+Rating:
+5
+dateLastModified:
+2011-08-28T15:00:26.38
+helpfulCount:
+4
+userID:
+2683147
+Display Name:
+AZ
+isPro:
+False
+followersCount:
+86
+followingCount:
+0
+madeRecipesCount:
+291
+favoritesCount:
+410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/353065.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved this. As a nice easy side dish, with a different spin, it went great with a simple grilled chicken breast and veggies. Next time, I will be more careful with roasting the pecans, since a few burned.
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-14T15:18:03.113
+helpfulCount:
+0
+userID:
+5021906
+Display Name:
+Julie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+165
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Only half of the pecan mix was needed.

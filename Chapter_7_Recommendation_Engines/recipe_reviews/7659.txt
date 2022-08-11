@@ -1,0 +1,107 @@
+Recipe number:
+7659.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-01-25T20:50:02.073
+helpfulCount:
+13
+userID:
+2187196
+Display Name:
+Allyn Sparks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2027264.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this recipe. The only complaint I got was that the cake was a little dry. I would make this again, but maybe tone down the peppermint a little.
+Review:
+Rating:
+5
+dateLastModified:
+2010-05-25T04:20:22.787
+helpfulCount:
+10
+userID:
+4385398
+Display Name:
+TriciaB5
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+103
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wonderful cake!  We used peppermint extract instead of vanilla & it was perfect (same measurement). Icing was too heavy for us, so we used cool whip to frost & added the peppermint candies.  Perfect and refreshing!!
+Review:
+Rating:
+5
+dateLastModified:
+2009-05-12T13:08:51.063
+helpfulCount:
+4
+userID:
+3735335
+Display Name:
+Brandy Barnett
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7320868.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made if for several birthdays,  Everyone loves it.  I think the last 5 years running for my oldest.

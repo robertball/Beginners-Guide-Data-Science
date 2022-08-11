@@ -1,0 +1,37 @@
+Recipe number:
+277803.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-13T04:33:05.66
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3186
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So good and so easy to make. I used only 3/4 cup crushed corn flakes instead of the specified amount of 3 cups. It was enough to coat 9 chicken tenders, The timing was spot on, 10 minuets on each side and they were crunchy and a perfect golden brown. I will make these again. Thank you for the recipe.

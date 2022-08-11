@@ -1,0 +1,37 @@
+Recipe number:
+173935.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-10-01T07:34:41.81
+helpfulCount:
+2
+userID:
+548535
+Display Name:
+BRANGIE
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+175
+favoritesCount:
+1078
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/78585.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this following the recipe exactly and thought it seemed a bit too creamy and light.  I added another Avocado, chopped red onion, cilantro and garlic-then it was Guacamole perfection!!! I guess it was no longer California Guac, but Nebraska Guac!

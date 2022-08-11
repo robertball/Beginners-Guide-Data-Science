@@ -1,0 +1,72 @@
+Recipe number:
+275427.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-16T17:53:50.763
+helpfulCount:
+0
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+370
+favoritesCount:
+1313
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The Brussels sprouts by themselves had a nice hit of the maple  syrup which was really nice.  We liked the sauce but thought the it could have used a touch more mustard and maple syrup. This was a very nice way to have brussels sprouts!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-03T01:34:57.453
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe and great flavor.My leaves did get a little brown so next time I will reduce the temp to 350. LOVED the flavor combo in this and so did the hubs!

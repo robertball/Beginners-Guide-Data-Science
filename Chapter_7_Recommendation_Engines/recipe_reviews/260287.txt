@@ -1,0 +1,37 @@
+Recipe number:
+260287.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-30T16:11:00.06
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out good and I will definitely make again. The ground chipotle adds quite a bit of heat so if you are sensitive to heat I recommend starting with 1 teaspoon and go from there. Corn tortillas are definitely the better choice with these. I'm sure flour would be okay but the corn flavor compliments everything in these. My only complaint is that aside from the heat, these were a tad bit bland to me. Zucchini typically is though. I ended up using the whole can of diced green chilies and that was perfect.

@@ -1,0 +1,37 @@
+Recipe number:
+261366.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-02T18:02:09.773
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good and would pair nicely with almost any meat. The one thing I did not care for was the onions. I am a huge onion fan but they seemed to overpower the dish and the texture was off. I really think for them to work in this they need cooked longer than just to the softened stage. Next time I will cook them until they are dark and caramelized. That or I will just leave them out altogether and garnish with green onion tops.  Good universal side dish though and one worth making.

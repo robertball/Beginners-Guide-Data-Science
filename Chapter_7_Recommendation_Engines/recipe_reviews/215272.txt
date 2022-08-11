@@ -1,0 +1,72 @@
+Recipe number:
+215272.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-02T15:22:23.477
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very good. It cooked up in the time written, but I soaked the lentils for about a half hour. I made my own berbere mix that was light on cloves and fenugreek. Thank you for the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2020-02-10T19:52:02.453
+helpfulCount:
+0
+userID:
+7818009
+Display Name:
+Allyssa
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+62
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it using my own bebere spice mix (also from All Recipes). It was good, but not as good as I've had from the kitchens of my Ethiopian friends.  Also the times given here are WAY off. Count on each step taking 3-4 times as long as is written. There is a reason making Ethiopian food takes the better part of an afternoon. Obviously, this would be best served over injera. We used a local North African flat bread and  it worked decently.

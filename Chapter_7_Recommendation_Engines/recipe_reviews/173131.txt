@@ -1,0 +1,107 @@
+Recipe number:
+173131.txt
+Review:
+Rating:
+2
+dateLastModified:
+2009-09-02T16:24:20.94
+helpfulCount:
+5
+userID:
+3676080
+Display Name:
+ChowHound Gourmet
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way too sweet for us. The concept is nice and the so is the presentation. However, it proved to be somewhat sweet.
+Review:
+Rating:
+4
+dateLastModified:
+2008-09-20T09:53:55.437
+helpfulCount:
+3
+userID:
+1393374
+Display Name:
+AUNTIEEM75
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A cute idea, fun for kids, but SUPER sweet.  And the cookie crust got a little soggy...but it looked cute and tasted good.
+Review:
+Rating:
+5
+dateLastModified:
+2011-08-09T08:52:43.297
+helpfulCount:
+2
+userID:
+2421568
+Display Name:
+Breah K.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't use the glaze or add vanilla to the fillling, but this was so delicious. The marshmallow cream was perfect with the cream cheese. Not oo sweet like the ones that use powdered sugar. Will definately make agian and again.

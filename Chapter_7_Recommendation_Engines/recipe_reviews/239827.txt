@@ -1,0 +1,72 @@
+Recipe number:
+239827.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-18T23:42:16.417
+helpfulCount:
+2
+userID:
+7305415
+Display Name:
+Yancando
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+542
+favoritesCount:
+406
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5672365.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is delicious and makes a lot! I could have cut it in half for just the two of us, but I think it will be just as good as leftovers. I had to mix everything in my Dutch oven after cooking meat on onions in my largest skillet, as the skillet wasn’t big enough to hold all the ingredients. I went heavy on the curry and cayenne since we like spicy and a bit lighter on the cinnamon and cloves. It was wonderful! I’m enjoying trying new recipes to use the bottle of curry powder I bought. Thanks for sharing, this is a keeper!
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-22T00:55:43.263
+helpfulCount:
+2
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an excellent Indian dish and very authentic! My Indian friend told me it needs cilantro but otherwise it was perfection. I served this over a bed of rice.

@@ -1,0 +1,74 @@
+Recipe number:
+239570.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-06-26T20:20:24.057
+helpfulCount:
+1
+userID:
+3740116
+Display Name:
+_geekGirl_
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as directed, but even after chilling in the fridge to allow the flavors to combine, it came out quite bland and dry!
+
+Having done my due diligence to the author, I decided to make further revisions to see if I could improve the flavor. I ended up adding in a full additional double amount of the dressing (lemon juice, olive oil, and salt/pepper), meaning 6 T each of the juice and olive oil in total, in order to get the consistency I wanted (still fluffy and not oily, I promise!). Still finding the flavor lacking in depth, I added some cumin, which for me was the magic pop that made the salad good. With these changes, I might make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-26T19:34:17.303
+helpfulCount:
+0
+userID:
+8272217
+Display Name:
+mariew
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1312072.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very quick and easy to make. Tastes even better the next day.

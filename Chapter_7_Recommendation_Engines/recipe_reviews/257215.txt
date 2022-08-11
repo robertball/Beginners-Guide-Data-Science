@@ -1,0 +1,37 @@
+Recipe number:
+257215.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-15T01:52:12.79
+helpfulCount:
+0
+userID:
+15559425
+Display Name:
+Ryno's mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+835
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time working with fresh artichoke. I may have included too many large leaves, but otherwise, I thought it was good. The boys were less found of it.

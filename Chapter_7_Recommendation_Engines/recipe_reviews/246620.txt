@@ -1,0 +1,107 @@
+Recipe number:
+246620.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-09T08:17:46.197
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There were a lot of steps to this but it turned out great. I made as written except that I used shredded parm instead of shaved. I did end up adding more red pepper because we like it spicy. The one suggestion I have is to add a fresh herb as garnish. I used parsley because that is what I had on hand but basil would have been nice too. Great recipe and one that is sure to impress!
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-11T23:37:44.757
+helpfulCount:
+0
+userID:
+23308953
+Display Name:
+Courteney Swihart
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5608352.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so good. Nice flavors and looks great. Sure to impress at any dinner party.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-05T15:32:46.167
+helpfulCount:
+0
+userID:
+14986860
+Display Name:
+Tracie McKinney 
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+66
+favoritesCount:
+246
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1859776.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was great.  I, however, didn't season it enough.  This was my first time making zoodles.  The manual zoodle maker that I have is for the birds!  I need to find something better to use.  Maybe if I attached it to a drill or something.  :)  Thanks for the recipe.  I will be making this again.

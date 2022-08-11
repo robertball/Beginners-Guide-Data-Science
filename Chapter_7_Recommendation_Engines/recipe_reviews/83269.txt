@@ -1,0 +1,107 @@
+Recipe number:
+83269.txt
+Review:
+Rating:
+1
+dateLastModified:
+2005-06-06T10:40:23.56
+helpfulCount:
+25
+userID:
+778205
+Display Name:
+Whole Chef
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+129
+favoritesCount:
+465
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The ricotta remained grainy and gave this salad an odd texture.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-15T09:26:35.36
+helpfulCount:
+0
+userID:
+6372757
+Display Name:
+Debbie CAL
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+789
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Iyou don’t like the grainy texture of ricotta, then, why would you make a recipe that is based on it and then give it a low score?  That’s so nasty! I don’t like eggplant, so, should I make recipes with eggplant and then give them one star because they still taste like eggplant?!  Same thing, right?
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-24T17:33:09.397
+helpfulCount:
+0
+userID:
+9659059
+Display Name:
+churchmom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+373
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was DELICIOUS!!! I excluded the ricotta and added the same amount of cottage cheese it was perfect.

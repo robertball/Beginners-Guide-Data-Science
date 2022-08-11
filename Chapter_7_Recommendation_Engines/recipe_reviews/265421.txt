@@ -1,0 +1,37 @@
+Recipe number:
+265421.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-15T16:37:05.413
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2820
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+4.15.19  What a lovely recipe.  Made this exactly as written, and I wouldn’t change a thing.  The fresh raspberry flavor is delicate and fruity, the texture is silky and spot-on perfect for mousse, and the level of sweetness is just right, not overpowering.  Without question, this is an indulgence in this house, but I wanted to make a special dessert for my husband’s birthday, and this didn’t disappoint.  This is an exquisite dessert  suitable for any special dinner.  Thanks for sharing your recipe.

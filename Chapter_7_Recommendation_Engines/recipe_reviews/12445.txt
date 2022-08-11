@@ -1,0 +1,37 @@
+Recipe number:
+12445.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-04T06:11:51.707
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this. We added fresh strawberries once cooled. Thank you Carol Lee for your recipe!

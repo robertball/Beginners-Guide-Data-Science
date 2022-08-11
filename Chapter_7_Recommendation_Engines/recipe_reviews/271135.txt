@@ -1,0 +1,37 @@
+Recipe number:
+271135.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-05T21:18:34.22
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really good, although I did not use five cloves of garlic. I used one. Albeit, this is not a pesto (nothing gets “pestato”) it is a true dish you’d find in most Italian homes. Fresh ingredients cooked healthily served with pasta. This Italian household loved it and will definitely make it again.

@@ -1,0 +1,73 @@
+Recipe number:
+232250.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-04-23T10:52:34.45
+helpfulCount:
+6
+userID:
+4734708
+Display Name:
+Charlotte Wood Stanosek
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+500
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5281795.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is Charlotte and I should have mentioned that the reason I cooked the seafood in the stock in the directions and then removed was to be sure the shrimp and crawfish had a good flavor. Nothing worse than bland seafood. Also didn't want to over cook them.
+As I said in cook's notes, you could cook seperately but be sure to add good seasoning. I also prefer using as few pots as possible.
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-21T13:04:55.23
+helpfulCount:
+2
+userID:
+305573
+Display Name:
+LeChef
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+381
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/232854.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I much prefer angel hair pasta with this recipe.  I used 1/2 & 1/2 but I think the recipe can do without milk.  The trick to this recipe is all of the herbs & spices, they really brighten the recipe.  I used Progesso© brand  Lobster Sauce (3 12 oz cans) as seafood stock. And yes cook the seafood separately to keep from over-cooking it. Good Recipe!!

@@ -1,0 +1,38 @@
+Recipe number:
+259343.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-28T11:05:38.383
+helpfulCount:
+0
+userID:
+25763778
+Display Name:
+Tammy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious! Due to a severe dairy allergy, I substituted vegan cream cheese for the real cream cheese and when I had fresh spices, I put those in it instead of dried.  I merely did this out of dietary requirements and what I had on hand.  I LOVE the bright green color too. 
+Thanks so much for this wonderful recipe!

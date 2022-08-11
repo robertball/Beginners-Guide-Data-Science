@@ -1,0 +1,107 @@
+Recipe number:
+246235.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-25T13:41:10.663
+helpfulCount:
+0
+userID:
+7989173
+Display Name:
+Debbie B.
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+633
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this recipe to serve with Chef John's fresh salmon cakes and was really wowed!  I used only two eggs and had no savory but it was explicit.  Thanks for a great recipe.  Debbie
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-12T13:23:17.303
+helpfulCount:
+0
+userID:
+5449299
+Display Name:
+DotDot
+isPro:
+False
+followersCount:
+76
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+196
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5311859.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make in food processor.  I make in large amount for crawfish boil.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-29T16:21:07.737
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this was excellent. I wouldn't change a thing!

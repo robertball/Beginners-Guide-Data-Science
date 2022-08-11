@@ -1,0 +1,107 @@
+Recipe number:
+255998.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-22T11:44:51.29
+helpfulCount:
+0
+userID:
+24247864
+Display Name:
+Fatih Güner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5767843.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i added a little vanilla and quarter cup of sugar really looks and tastes like a creamy shake.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-14T13:07:04.363
+helpfulCount:
+0
+userID:
+12541024
+Display Name:
+Ms Jean
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+246
+favoritesCount:
+1656
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Real creamy and delicious! I was surprised that this was so good! I only used one avocado and had to add more milk to get the blender moving, and it still came out very thick. I also found that for my tastes, it needed a little more sugar. Good way to use up those very ripe avocados! Thanks for the idea.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-15T17:56:48.727
+helpfulCount:
+0
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Surprisingly good flavor with a thick milkshake texture.

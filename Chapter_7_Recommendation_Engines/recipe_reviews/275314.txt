@@ -1,0 +1,107 @@
+Recipe number:
+275314.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-13T00:28:15.217
+helpfulCount:
+4
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+771
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These green beans were absolutely delicious, plus so easy to make! I didn’t have the bacon bits, but I did have regular bacon. I cooked 3 pieces and crumbled that into the slow cooker along with the rest of the ingredients. I tasted these as soon as they were done and they were good; however, I was invited out at the last minute and put them in the refrigerator to be eaten the next day. The next day they had so much more flavor! I guess sitting overnight helped all that flavor to fully develop.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-04T23:26:06.403
+helpfulCount:
+1
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+129
+favoritesCount:
+456
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love an easy “dump” recipe, where you throw all of your ingredients in the pot and “set it and forget it”! A total win on that alone. But the peppers, onions and bacon seal the deal for sure! I was a little concerned that having only butter as the liquid, but it was perfect! I used a garlic pepper seasoning that I had and it was perfect! Thank you for a great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-23T18:23:40.947
+helpfulCount:
+0
+userID:
+4181632
+Display Name:
+Ronnie W.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+237
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good, will make again ,I love green beans.

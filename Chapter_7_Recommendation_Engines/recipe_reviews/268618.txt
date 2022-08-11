@@ -1,0 +1,107 @@
+Recipe number:
+268618.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-26T20:23:49.517
+helpfulCount:
+3
+userID:
+24639621
+Display Name:
+Kelsey Marie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6045069.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used sugar wafers (and kept the cream inside) instead of cookie wafers so my crust was a little bit airy but this cheesecake was a huge hit at Thanksgiving! Everyone loved it! It is very decadent and delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-03T22:26:55.13
+helpfulCount:
+2
+userID:
+25105814
+Display Name:
+lizzylovesbrunch 
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7262019.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this recipe makes a delicious cake! The only problem is that the cake needs at least double the cook time.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-30T18:30:14.977
+helpfulCount:
+2
+userID:
+21964780
+Display Name:
+Mary Rick
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+103
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is very good but the ganache is too thick . Could use 1/2 the amount of ganache.

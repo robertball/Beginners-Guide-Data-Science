@@ -1,0 +1,107 @@
+Recipe number:
+245279.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-29T15:29:48.877
+helpfulCount:
+4
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious soup. I made this with leftover thanksgiving turkey so it was a snap. I made one pretty major modification to the recipe.. broth. This is soup.. there is NO broth or water listed. Without it, it would make sauced turkey. I made some stock with the leftover turkey carcass and use that.. You probably will need 10-12 cups of stock for a full recipe. This would have gotten 5 stars, except for the error.. which is missing from the personal recipe as well.
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-08T17:15:09.753
+helpfulCount:
+0
+userID:
+11059070
+Display Name:
+kenjamesgertner
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+325
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was easy and good, but I put back in the hominy, I'm diabetic and that is a low fat low carbs food we can eat, but I am a large man and like somewhat diet dishes once in a while, I thank you, and and Shalom.
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-08T14:11:26.64
+helpfulCount:
+0
+userID:
+17204933
+Display Name:
+Micaela Bickel
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3078433.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious, with the addition of a few cups of chicken broth. it was much too thick without it. we also added a dollop of sour cream on top.

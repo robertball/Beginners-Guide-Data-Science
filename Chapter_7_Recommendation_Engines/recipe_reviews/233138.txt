@@ -1,0 +1,72 @@
+Recipe number:
+233138.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-08T21:38:09.673
+helpfulCount:
+0
+userID:
+3824241
+Display Name:
+Wonky Girl
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+307
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2358558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good and tasty ! I was looking for a different summer salad and this was perfect.  If you don't have the jarred peppers, substitute fresh sliced tomatoes.  As another reviewer said, just about any dressing would be good on this.
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-24T13:51:06.663
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6896
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I had some cooked chicken and leftover pasta on hand, so this was perfect. All of the flavors and textures went great together. I did serve this with poppy seed dressing, but I also think that this would be awesome with ranch (or any dressing for that matter). I will def be making this again~YUM!!!! Thanks for sharing. :)

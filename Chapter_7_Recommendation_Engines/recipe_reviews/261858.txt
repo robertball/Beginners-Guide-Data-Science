@@ -1,0 +1,37 @@
+Recipe number:
+261858.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-20T16:31:29.763
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out good. Just enough brown sugar and  chocolate chips so that they weren't too sweet. The only thing is that I have made these with all butter instead of oil, and I missed that flavor and consistency. They still came out good though.

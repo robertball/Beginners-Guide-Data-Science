@@ -1,0 +1,39 @@
+Recipe number:
+247033.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-29T20:13:08.327
+helpfulCount:
+1
+userID:
+13875225
+Display Name:
+coops
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3198187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is a nice combination of salty and sweet which is a nice alternative to the sweetness of just waffles and syrup. The added vanilla to the generic waffle mix was a nice addition.
+
+I made the mistake of dicing the SPAM too small which, while more like bacon, it  became chewier than I would have liked. I'm only mentioning it so others don't make the same mistake.

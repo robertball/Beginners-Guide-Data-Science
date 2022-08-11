@@ -1,0 +1,37 @@
+Recipe number:
+268948.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-02T17:14:39.473
+helpfulCount:
+1
+userID:
+24275516
+Display Name:
+Natalie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5788849.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and easy to make!  Watch cooking time once eggs are added - yolks cook quickly. Will definitely make again!

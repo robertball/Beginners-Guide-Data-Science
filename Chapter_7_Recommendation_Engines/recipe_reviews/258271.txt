@@ -1,0 +1,37 @@
+Recipe number:
+258271.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-23T02:36:12.557
+helpfulCount:
+0
+userID:
+5781910
+Display Name:
+writerri
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+4 instead of 5 because I only used this recipe as a base as I was missing a number of ingredients and substituted. Cashew butter instead of sunbutter. cocoa powder instead of chocolate chips. sugar instead of substitute sweetener. It's tasty, but not amazing. Mine was a little messy too since even when frozen the cashew butter softens quickly when it touches warm fingers. I'll make it again and try the recipe as is (except for the sugar substitute - I really can't stand the aftertaste).

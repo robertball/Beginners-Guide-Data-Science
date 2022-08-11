@@ -1,0 +1,107 @@
+Recipe number:
+246503.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-05T23:43:33.34
+helpfulCount:
+1
+userID:
+17715045
+Display Name:
+randy pozdoll
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've had a few Korean bulkoki recipes. This one is a keeper. Forgot the pears and still was excellent. Served with edamame and jasmine rice. Wow the sauce was delicious
+Review:
+Rating:
+2
+dateLastModified:
+2017-06-30T04:17:35.103
+helpfulCount:
+0
+userID:
+16078865
+Display Name:
+day
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+114
+favoritesCount:
+738
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is NOT traditional Bulgogi and did not enjoy at all.  I will stick to another recipe on here.  Nothing about it did I like.  Followed recipe to a "T"
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-07T03:15:08.213
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out great. The only thing I would change next time is to double the sauce because we like it saucy. Great recipe! Thanks for sharing!

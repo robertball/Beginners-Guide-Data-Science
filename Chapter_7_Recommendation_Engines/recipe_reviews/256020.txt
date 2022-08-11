@@ -1,0 +1,37 @@
+Recipe number:
+256020.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-19T17:09:14.007
+helpfulCount:
+1
+userID:
+2016123
+Display Name:
+spice of life
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+253
+favoritesCount:
+2318
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5746750.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Husband absolutely loved this.  Wants me to make it for company.  I thought it was very tasty.  The orange flavor was a different twist for shrimp.  Used foil packets rather than parchment paper and omitted the almonds.

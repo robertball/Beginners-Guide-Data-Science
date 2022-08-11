@@ -1,0 +1,109 @@
+Recipe number:
+217138.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-05-30T05:21:43.083
+helpfulCount:
+8
+userID:
+1410971
+Display Name:
+CORILITA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+267
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is really spicy. The flavors are good though.
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-27T03:55:40.63
+helpfulCount:
+1
+userID:
+10281606
+Display Name:
+Annie Oakley
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+65
+favoritesCount:
+2952
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1822754.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I left out a habanero per the review's comments of it being too hot.  I wished I hadn't as I like the heat.  I did use my own pie crust and not the one in the recipe.  I had only a few fresh peaches so I used some that I had canned.  I used the juice from the peaches in the crust.  The streusel  is delish under the top crust.
+Review:
+Rating:
+2
+dateLastModified:
+2016-09-09T18:47:30.357
+helpfulCount:
+0
+userID:
+20391349
+Display Name:
+Caroline Ann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6401495.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed this recipe strictly except for the nectar (used water instead) and didn't have it turn out well. The peach habanero mix was way too spicy with three peppers, and the dough did not roll out smoothly with 3-tablespoons of water. I would keep adding water until it looks/feels like dough instead of adding until it looks crumbly. Ended up smooshing together enough dough for the bottom, and then had to resort to a store-bought pie dough to finish the top. 
+
+Would definitely continually taste the puree as you add peppers throughout the process to see if it is too spicy or not.

@@ -1,0 +1,37 @@
+Recipe number:
+263436.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-24T14:08:58.007
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6005
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.24.18  Classic Western flavors (ham, bell peppers, and onion), simply good.  I didn’t include the mushrooms, and just flat out forgot to garnish with the green onions I’d set aside.  I think in the future I might add just one more egg, and then most likely split ithe omelet with my husband.  Thanks for sharing your recipe, it was a nice Saturday morning breakfast..

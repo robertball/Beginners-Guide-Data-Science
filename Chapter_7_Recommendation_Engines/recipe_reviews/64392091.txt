@@ -1,0 +1,107 @@
+Recipe number:
+64392091.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-25T15:13:49.123
+helpfulCount:
+2
+userID:
+3233199
+Display Name:
+tt teacher
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+355
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband and I really enjoyed these french toast waffles.  I followed the recipe exactly using cinnamon swirl bread.  So easy and so good!  I'll be making these again for sure.
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-14T15:49:30.17
+helpfulCount:
+0
+userID:
+11446977
+Display Name:
+Ryan Herbert Price
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+201
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2445719.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If it was only the idea of making french toast in a waffle iron I would have given this 5 stars, but the actual recipe is on point too! I made this  today, and it was definitely a success. I topped it with a basic whipped cream, strawberries, and real maple syrum... mmmm so good.  I made it as recommended with 2 exceptions. 1. I feel that french toast isn't french toast without cinnamon, so I added that to the mix. 2. I didn't have the recommended breads, or thick cut bread at all, but it still turned out great. Next time I'll definitely try and get my hands on thick cut bread.
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-14T06:00:26.283
+helpfulCount:
+0
+userID:
+17475827
+Display Name:
+Brandon Raines
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3237408.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Came out perfect!!! Thanks!!!

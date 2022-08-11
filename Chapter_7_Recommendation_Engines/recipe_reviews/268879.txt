@@ -1,0 +1,72 @@
+Recipe number:
+268879.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-28T16:49:03.52
+helpfulCount:
+7
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a delicious and super efficient recipe. I made this twice at Thanksgiving and it has secured a place at the Christmas table. I made one gluten free version and one regular. Both times I simply used toasted bread that I cut into cubes and added extra sage, thyme, marjoram, and rosemary. The method is perfectly timed. Holiday tip: Make this a couple of days before you need it and refrigerate. On the day you need it, bring it to room temp and pop it in the oven to crisp up. Awesome recipe, thanks for sharing it.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-16T21:20:09.533
+helpfulCount:
+3
+userID:
+4515655
+Display Name:
+JudyB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+361
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it as written for Thanksgiving (except didn't have water chestnuts).  It was great.  The main reason I used my instant pot is that there was no more oven room.  Now I will make it again for Christmas just because it was so good.  Thanks for the recipe.

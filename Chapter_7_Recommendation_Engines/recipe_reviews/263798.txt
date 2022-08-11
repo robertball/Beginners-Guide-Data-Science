@@ -1,0 +1,37 @@
+Recipe number:
+263798.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-25T13:54:54.587
+helpfulCount:
+0
+userID:
+4363155
+Display Name:
+Deborah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasted great but a little messy

@@ -1,0 +1,107 @@
+Recipe number:
+261979.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-23T02:06:58.307
+helpfulCount:
+2
+userID:
+4624858
+Display Name:
+kalexmac
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great taste and easy to prepare
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-12T14:45:01.323
+helpfulCount:
+0
+userID:
+26863068
+Display Name:
+P-Luv Morgan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes! And I’m making another one.
+Review:
+Rating:
+2
+dateLastModified:
+2020-01-07T19:14:30.16
+helpfulCount:
+0
+userID:
+26835281
+Display Name:
+Angela Fox
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7579878.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I baked at 350 for 45 minutes as stated and was still raw inside, put back and cooked for a total of 65 min like for a pound cake and turned out good.

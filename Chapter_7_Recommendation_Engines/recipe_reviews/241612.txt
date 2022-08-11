@@ -1,0 +1,107 @@
+Recipe number:
+241612.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-10T07:03:49.22
+helpfulCount:
+2
+userID:
+10789799
+Display Name:
+Sophie Pipilas
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+65
+favoritesCount:
+1115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6071539.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a healthy smoothie not low cal.  Bananas are high in calories, you can substitute them for another fruit to bring down the calories.
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-30T07:56:47.42
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I used fresh turmeric. Citrus juice, coconut milk and turmeric are a great bunch of flavors. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-26T07:17:38.57
+helpfulCount:
+0
+userID:
+13184432
+Display Name:
+sbauldilare
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+218
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was okay, a bit much turmeric for my taste; it was a little bitter

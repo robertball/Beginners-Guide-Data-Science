@@ -1,0 +1,37 @@
+Recipe number:
+217336.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-01T18:04:39.337
+helpfulCount:
+0
+userID:
+13827039
+Display Name:
+MLH Mville
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it with coconut milk instead of 1/2 and 1/2 and it worked well.

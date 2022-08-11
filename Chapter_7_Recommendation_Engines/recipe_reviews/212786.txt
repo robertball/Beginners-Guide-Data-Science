@@ -1,0 +1,72 @@
+Recipe number:
+212786.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-12-17T20:05:56.52
+helpfulCount:
+34
+userID:
+4328237
+Display Name:
+Mrs. Baker
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ok, so we're having a Christmas party and I came across this recipe. I'm so glad I did! This is a very good cake/bread for a gathering or to finish off a good dinner. It's not to sweet - a little dry, but fanstatic as it does not weigh you down. There is a perfect blend of eggnog and rum. However, I must tell you that I used the eggnog with the alcohol already mixed in just to give it a little extra kick. I could not find currants though, so I substituted raisins. I also did not use almonds and instead used pecan halves. I do believe I will make a rum glaze for the top for an added flavor and I was perhaps thinking of mixing nutmeg in with the recipe.   Overall, I will be making this again as the only I made was just for a taste test. Our party is in 2 days and I will make a fresh one and let you know what the guests' say!
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-23T12:00:44.883
+helpfulCount:
+2
+userID:
+17096139
+Display Name:
+Carmen Schartiger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3013491.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This bread is delicious. It is not too sweet, yeasty, and studded with rummy raisins! I only did one thing different: I was short on raisins so I made up the difference with Craisins. Craisins soaked in rum is a good thing. The texture of the bread is a bit on the crumbly side, but is not as crumbly after it cools. I plan to use the leftovers to make a baked eggnog french toast casserole for Christmas morning breakfast.

@@ -1,0 +1,72 @@
+Recipe number:
+267979.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-05-14T14:55:56.453
+helpfulCount:
+0
+userID:
+8799824
+Display Name:
+dancingtexancowgirl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cereal got soggy during the baking process, creating a weird texture in each bite. Before I baked my second pan, I went through the dough and picked out all the cereal pieces. Without the cereal, these cookies were delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-20T12:53:03.287
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+246
+followingCount:
+0
+madeRecipesCount:
+578
+favoritesCount:
+799
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are so good!! I followed the recipe exactly. Be use to go no longer than 15 minutes. Once you start to broil them they can get hard kinda quick. I don't think this recipe would be good for smaller cookies. Those were overcooked fast, kinda my fault too. Enjoyed these!!

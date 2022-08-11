@@ -1,0 +1,72 @@
+Recipe number:
+256604.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-13T19:44:17.053
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good, of course. I used one small really ripe frozen banana. I'm not sure what the recipe submitter considers a "scoop" of ice cream, but 5 scoops would be way too much for me for one serving, even a big one. My single-serve Ninja could only handle 3 scoops. Some recipes call for way too much milk, but 1/2 cup  was just right. I didn't see the need for any extra sugar. Thanks for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-22T14:53:09.21
+helpfulCount:
+0
+userID:
+12541024
+Display Name:
+Ms Jean
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+246
+favoritesCount:
+1656
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree with the previous reviewer who commented on the 5 scoops of ice cream. I only added about how much I would have in a regular serving, ~1/2 to 1 cup. I had to add more milk to get the blender going (don't have a Magic Bullet), and it still came out quite thick. I also added 1 scoop of mocha-cappucino protein powder. Delicious and filling drink!

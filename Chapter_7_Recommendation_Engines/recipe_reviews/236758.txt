@@ -1,0 +1,37 @@
+Recipe number:
+236758.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-23T15:42:55.277
+helpfulCount:
+3
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make.  Good taste.  I used spelt flour instead of whole wheat flour. I served these with braised cabbage because I couldn't figure out what to serve them with, and it turned out to be a good combination.  I'll be making these again, probably trying out different kinds of beans.

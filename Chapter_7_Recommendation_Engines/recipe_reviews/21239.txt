@@ -1,0 +1,107 @@
+Recipe number:
+21239.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-26T19:46:11.89
+helpfulCount:
+12
+userID:
+1153011
+Display Name:
+naples34102
+isPro:
+False
+followersCount:
+4706
+followingCount:
+0
+madeRecipesCount:
+3632
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8284947.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hubs and I, and our two grown children, will be leaving for Italy in just three short days and I have been able to think of little else. In celebration and anticipation of our return to Italy, Hubs and I enjoyed this wonderful, buttery smooth after dinner drink tonight as a commemorative toast,  Frangelico being my favorite liqueur on the planet.  The thought of bits or even chunks of hazelnuts ruining what would otherwise be a smooth and creamy treat didn't appeal to me, so I left them out, just sprinkling a few chopped hazelnuts on the whipped cream garnish.  Just as I had anticipated, this was really delicious - rich and creamy and, because of the outstanding Italian Frangelico, a very fitting after dinner drink on the eve of our exciting trip.
+Review:
+Rating:
+4
+dateLastModified:
+2008-12-30T20:54:48.763
+helpfulCount:
+5
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1714
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used chocolate almond ice cream, omitted the milk and upped the liqueur. Very nutty.
+Review:
+Rating:
+3
+dateLastModified:
+2011-07-25T06:54:28.7
+helpfulCount:
+4
+userID:
+2753412
+Display Name:
+Lucky Noodles
+isPro:
+False
+followersCount:
+310
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+2823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/60059.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved all the ingredients but didn't care for all those nuts floating around.  Maybe they should be chopped down more, or leave them out and add more hazelnut liqueur.

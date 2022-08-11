@@ -1,0 +1,37 @@
+Recipe number:
+261446.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-24T15:21:01.013
+helpfulCount:
+1
+userID:
+4334244
+Display Name:
+livnluvnlife
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/775721.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a simple elegant delicious cookie recipe. Unfortunately it’s not a gifting or traveling cookie because Nutella never hardens so you have to lay them out flat or the chocolate will get on the other cookies.  I’m going to make these again and add hazelnut extract and melting chips to Nutella to see if it will harden the chocolate. Otherwise it’s a make and serve cookie not one I can batch bake for the gift giving.

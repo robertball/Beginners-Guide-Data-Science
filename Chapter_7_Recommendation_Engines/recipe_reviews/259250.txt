@@ -1,0 +1,72 @@
+Recipe number:
+259250.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-12T15:54:27.01
+helpfulCount:
+0
+userID:
+15855556
+Display Name:
+Jennifer St-Arnaud
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2320979.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just what I was looking for. It is light, not too sweet, and the recipe is very versatile. I did leave out the Carnation drink mix because I did not want it tasting like chocolate. This will be my new go to recipe for granola.
+Review:
+Rating:
+3
+dateLastModified:
+2017-10-28T23:10:46.427
+helpfulCount:
+0
+userID:
+3072889
+Display Name:
+Marge
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+1267
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/159068.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think it needed some salt. Adding it afterwards doesn't really work well.

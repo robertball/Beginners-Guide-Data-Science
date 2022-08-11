@@ -1,0 +1,75 @@
+Recipe number:
+239332.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-10-01T03:03:35.397
+helpfulCount:
+1
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12225
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The baking time on this is way off.    Set your timer for 10  - 12 minutes.  This is the kind of dough that you can't 'manhandle'  - it does not benefit from kneading. 
+Also, the dough will look sticky and feel tacky, it is supposed to be like that.  Don't be tempted to add too much flour or you will end up with dry hockey pucks.  
+I rolled the ball of dough into a circle, brushed with butter and cut into wedges like a pizza.  Roll each wedge from the outside edge to the center like a crescent roll.  
+Knowing that 25 mins was too long to bake rolls, I set the timer for 12 minutes and they were spot on.
+Review:
+Rating:
+1
+dateLastModified:
+2016-01-03T15:54:31.8
+helpfulCount:
+0
+userID:
+9222566
+Display Name:
+amandal
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe but they came out plain and hard. The dough looked nice and the yeast rose as it was supposed to but when I put it on the pan and baked them they came out hard and the bottoms burned way before they should've been done. I won't make these again.

@@ -1,0 +1,107 @@
+Recipe number:
+272851.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-10T12:23:18.683
+helpfulCount:
+0
+userID:
+25218052
+Display Name:
+JoMamma
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love this recipe! First time I made it, I wasn’t able to find hot honey so used honey and pepper flakes. I was since able to find hot honey online and at Walmart.  Great sauce as shown on chicken thighs but also as a stir fry sauce for shrimp and veggies!
+Review:
+Rating:
+1
+dateLastModified:
+2019-06-20T15:58:52.173
+helpfulCount:
+0
+userID:
+23492667
+Display Name:
+Rae Hoy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6664665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe ended with total disaster. The sauce... congealed into something totally inedible and I ended up tossing some veggies on the skewer with the meat to try to salvage something from the chicken I purchased,
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-12T15:03:43.14
+helpfulCount:
+0
+userID:
+23104477
+Display Name:
+Mary Zink
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+209
+favoritesCount:
+1399
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4939587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+remember, if you are going to serve the leftover sauce on the side, you have to boil it before using it. otherwise, it could be contaminated with raw chicken, and you could become seriously ill.

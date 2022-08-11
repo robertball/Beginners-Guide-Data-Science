@@ -1,0 +1,72 @@
+Recipe number:
+267907.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-03T00:05:58.073
+helpfulCount:
+1
+userID:
+24944013
+Display Name:
+Suzi Stephens
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+63
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7398097.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely best taste my lips ever tasted. So good  I loved it. As good as it gets.
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-15T21:52:27.563
+helpfulCount:
+0
+userID:
+2138012
+Display Name:
+Grace
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My usual mousse recipe is far nicer mouth feel than this one.  That said, my 10 year old LOVES this and because of the number of eggs in it, i'm all for that!

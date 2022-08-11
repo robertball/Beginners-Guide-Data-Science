@@ -1,0 +1,250 @@
+Recipe number:
+261087.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-04T12:50:46.14
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out great! I do think the flour could use double the amount of seasoning but other than that I wouldn't change a thing.
+Review:
+Rating:
+3
+dateLastModified:
+2018-10-29T02:53:46.193
+helpfulCount:
+1
+userID:
+24454263
+Display Name:
+Jay Nine
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5909867.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+READ THIS BEFORE YOU MAKE IT:
+Like the others said, this needs a ton more of seasoning and salt. (I'd say at least 3 tablespoons salt, double the garlic powder) On top of that, 2 cups of flour is more than enough as there was a huge amount of it wasted at the end. 
+Also I recommend 10+ minutes in the fryer to get that golden crusty goodness.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-09T19:41:09.073
+helpfulCount:
+1
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out perfect!  This is an easy recipe and can be tweaked by adding more seasoning. Made Valentine snacks with these.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-04T02:29:39.557
+helpfulCount:
+0
+userID:
+14520532
+Display Name:
+Scarlet Vertolli
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1590316.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used the recipe as a guide and adjusted the flavours to what I had and like  ( maple bacon rub, seasoning salt, garlic powder,  paprika and black pepper) I adjusted the flour ratio to the chicken I had on hand.  I subbed a couple dashes of Frank’s Red Hot instead of lemon with the egg mixture.  
+My husband loved these.  They turned out very tasty and a wonderful crispy batter.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-13T20:30:19.887
+helpfulCount:
+0
+userID:
+24644822
+Display Name:
+Rachel M Brewster
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7216594.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious!! A favorite recipe of mine now!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-12T01:39:43.773
+helpfulCount:
+0
+userID:
+5723072
+Display Name:
+Conny Wiersema
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6645447.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Just plan for enough time to make
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-13T22:59:23.86
+helpfulCount:
+0
+userID:
+21574194
+Display Name:
+Quinzola Garrett
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5308647.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It would have been better, had I ate it once it was ready. Instead I took it to work for lunch, maybe it was made to eat asap

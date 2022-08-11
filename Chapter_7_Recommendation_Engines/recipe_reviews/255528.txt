@@ -1,0 +1,37 @@
+Recipe number:
+255528.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-10-03T19:31:35.17
+helpfulCount:
+0
+userID:
+9827232
+Display Name:
+Sean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+203
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6905326.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too much going on in this recipe. My family did not like this recipe. The lemon and oats were not good.

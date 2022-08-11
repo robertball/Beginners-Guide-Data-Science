@@ -1,0 +1,37 @@
+Recipe number:
+242065.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-04T18:08:01.777
+helpfulCount:
+0
+userID:
+17419997
+Display Name:
+Shannon Sitran Liggio
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3203753.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this recipe! I keep it light and dairy-free by using almond milk, Cool Whip light, and sugar-free pudding.  Also I like to mix up the alcohol.  I get creative and have a blast!

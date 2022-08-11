@@ -1,0 +1,37 @@
+Recipe number:
+63826.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-07-17T15:34:40.933
+helpfulCount:
+0
+userID:
+8927526
+Display Name:
+Maria Schiffler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very easy recipe and I love that includes flowers as the ingredients. I have so many marigolds and now I know what to do with them. Thanks!

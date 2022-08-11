@@ -1,0 +1,37 @@
+Recipe number:
+237111.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-04-18T17:15:58.01
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+6002
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+4.18.18  I had just finished melting the marshmallows, phone rang, I took the call, and when I returned a couple minutes later to the stove, the marshmallow mixture was no longer smooth, just stringy.  I pitched it and started over.  Would recommend that you beat your cream cheese mixture first, so you’re prepared to stir in the marshmallows as soon they’re melted.  This just didn’t have enough marshmallow flavor for me, the cream cheese dominated.  Made this for breakfast this morning, it was OK, but doubtful  I’ll make again.

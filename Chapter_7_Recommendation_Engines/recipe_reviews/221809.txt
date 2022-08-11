@@ -1,0 +1,72 @@
+Recipe number:
+221809.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-19T09:17:03.57
+helpfulCount:
+3
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12224
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hubby is in hog heaven.  I used frozen french fries and homemade gravy.  I didn't use the mayonnaise, just ketchup but mayo & ketchup mixed together would be good.  He laughed at the little bit of lettuce I put on the side, "What is that? Trying to make this look healthy?"  The Big Mac Poutine comment in the Cook's Note  explained the lettuce, mayo ketchup - of course I didn't see that until after I made this.  Thanks for a fun recipe, Robyn.
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-22T22:50:39.14
+helpfulCount:
+0
+userID:
+11032877
+Display Name:
+wendylj
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+499
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1207276.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I never thought in a million years that I would see this recipe again. I grew up in Uxbridge and my kids went to Fenelon Falls HS, after we moved to Alpine Village, Bobcaygeon. I love this poutine recipe and make it all the time. My grandson only wants poutine at Gammy's house.. now in Northern ON. Nice to see someone on this site from my old stomping grounds. Your recipe rocks Robyn.

@@ -1,0 +1,109 @@
+Recipe number:
+269427.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-28T03:29:08.92
+helpfulCount:
+0
+userID:
+5004775
+Display Name:
+Joe Schenk
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7479654.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn’t have spinach or garam masala, so. I didn’t include spinach and used turmeric and cardamom instead. Tasty
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-23T03:55:29.86
+helpfulCount:
+0
+userID:
+18228658
+Display Name:
+Sam Pingree
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3694168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+didn't have sweet potato or red lentils. used russet potatoes (unpeeled) and green lentils instead. didn't measure out the seasoning, so probably used a little more than what's called for on the garam masala and seasoning salt (Pappy's). I know for a fact I used much more cayenne, 1/2 - 3/4 tsp., but I like more heat than most. I simmered for 30 - 35 min., but that's only because I used green lentils
+
+turned out great, will be making again
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-13T16:03:44.77
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+451
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really wanted to like this soup. Unfortunately, for my tastes, I wasn’t a fan. Between the sweet potatoes and the garam masala, it was just too sweet for me. I do think that I could tweak just a couple of things and have it be more to my taste. Possibly using red potatoes and using less or no garam masala and maybe adding a bit more spice to offset the sweetness. The recipe was well formulated and easy to follow.

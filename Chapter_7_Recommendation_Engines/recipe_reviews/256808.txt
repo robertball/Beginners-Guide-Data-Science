@@ -1,0 +1,37 @@
+Recipe number:
+256808.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-09T02:52:02.85
+helpfulCount:
+0
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe as written, using rough (not exact) measurements. Served in individual hoagie rolls, using the cut-out piece as a topper.

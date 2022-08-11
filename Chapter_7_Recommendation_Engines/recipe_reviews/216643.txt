@@ -1,0 +1,74 @@
+Recipe number:
+216643.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-02-15T11:10:37.32
+helpfulCount:
+12
+userID:
+4874765
+Display Name:
+Tamar Genger
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5162947.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking to make a veggie cholent this week and wanted to use bets so I was happy to see this.  I think I am going to try wheatberries instead of rice and I might add butternut squash - I hope that works.
+Review:
+Rating:
+5
+dateLastModified:
+2013-06-23T14:21:47.14
+helpfulCount:
+0
+userID:
+7792744
+Display Name:
+Barbra S.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hi Malizga! Love this recipe!
+Love, 
+Mommy

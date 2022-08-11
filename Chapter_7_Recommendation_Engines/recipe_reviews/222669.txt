@@ -1,0 +1,37 @@
+Recipe number:
+222669.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-07-31T16:38:38.497
+helpfulCount:
+0
+userID:
+23813221
+Display Name:
+Manzana
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way too much sugar, I would do only 1/2 a cup.  Even my kids said it was too sweet to eat

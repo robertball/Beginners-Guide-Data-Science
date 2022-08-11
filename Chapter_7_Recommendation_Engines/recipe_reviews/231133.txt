@@ -1,0 +1,37 @@
+Recipe number:
+231133.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-05-04T12:32:19.147
+helpfulCount:
+0
+userID:
+2360345
+Display Name:
+Melissa Goff
+isPro:
+False
+followersCount:
+1368
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+1338
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2417840.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While super easy to make, the down fall in this recipe is the acidic of too much lemon juice and slightly off-putting. It's the 1st thing you taste, above the other ingredients in the recipe. It did however have the back heat of the cayenne and the light lingering flavor of cilantro. I would recommend only using 2 teaspoons of lemon juice, not 2 tablespoons and add an additional avocado or add a diced roma tomato for extra color because the recipe color is rather muted from the canned tomato sauce.

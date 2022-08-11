@@ -1,0 +1,107 @@
+Recipe number:
+8292.txt
+Review:
+Rating:
+1
+dateLastModified:
+2009-02-18T10:38:03.103
+helpfulCount:
+32
+userID:
+3346541
+Display Name:
+julie vitale
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/166361.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+o.k. What was the vanilla for? Anyway I suggest mixing 1 Quart heavy whipping cream and 2/3 cup of granulated sugar. After mixing sugar and cream place it in a stand mixer and whip until peaks form.  I frosted an 8 inch cake with plenty left over so you will easily be able to frost a larger cake. Everyone loved it!
+Review:
+Rating:
+1
+dateLastModified:
+2001-08-25T14:30:10.89
+helpfulCount:
+27
+userID:
+300496
+Display Name:
+TFIXIN2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/1731.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+tHIS RECIPE MADE VERY LITTLE AND DID NOT SMOOTH ONTO THW CAKE EASILY!
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-23T06:38:41.88
+helpfulCount:
+8
+userID:
+5808350
+Display Name:
+Sandy Diego
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/17.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+changes i made: 2T more sugar, less vanilla, one more T of piping gel. (sweetness, consistency/hold). it was amazing, the piping gel obviously makes no miracles, but it does its job. it sabilized my frosting enough so i could have it out of the fridge without worries, held very well. adding refrigeration helps it stay even more.

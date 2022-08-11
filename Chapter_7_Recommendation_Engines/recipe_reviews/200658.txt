@@ -1,0 +1,37 @@
+Recipe number:
+200658.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-23T17:16:37.717
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! I used an English muffin due to already having them on hand and can only imagine how good these would have been with biscuits as directed. The flavor combo is great! My one and only recommendation is to add more mustard than the recipe calls for. I might try these warm the next go around.

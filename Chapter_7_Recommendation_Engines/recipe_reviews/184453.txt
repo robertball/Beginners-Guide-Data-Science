@@ -1,0 +1,72 @@
+Recipe number:
+184453.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-01-27T17:42:42.72
+helpfulCount:
+19
+userID:
+1879672
+Display Name:
+Stacy Kasdin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+395
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2804476.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this punch for a holiday party for about 30 guests. It was a huge hit, and a nice tropical break from a New England winter!
+Review:
+Rating:
+1
+dateLastModified:
+2014-05-13T12:48:16.947
+helpfulCount:
+0
+userID:
+13619548
+Display Name:
+Das
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's not very pleasant drink

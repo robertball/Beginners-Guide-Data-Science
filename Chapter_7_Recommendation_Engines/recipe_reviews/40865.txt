@@ -1,0 +1,72 @@
+Recipe number:
+40865.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-08-05T21:43:10.59
+helpfulCount:
+13
+userID:
+1481989
+Display Name:
+hollyr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my Bunco group. Most liked it. I could only find ginersnaps. Probably won't make it again.
+Review:
+Rating:
+4
+dateLastModified:
+2009-12-10T18:25:18.283
+helpfulCount:
+8
+userID:
+4300040
+Display Name:
+Ottawa Clare
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used to make this 15 years ago when i lived in Hampshire....Ginger snaps are an absolute fine substitute, to make it more special i dunked my cookies in sweet sherry before layering with the cream and mandarin oranges.

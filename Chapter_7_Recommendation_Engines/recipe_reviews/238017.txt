@@ -1,0 +1,72 @@
+Recipe number:
+238017.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-28T19:01:37.727
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I saved and froze the giblets from the last turkey I made but I did not save the neck so this one was made as written minus the neck. I really liked this and especially enjoyed the tang from the vinegar. It was a little runny but that is an easy fix. This one is a keeper and I will be sure to save the neck on my next turkey so that I can make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-22T17:04:12.577
+helpfulCount:
+0
+userID:
+16404766
+Display Name:
+CL Martin
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+80
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+wonder.....different.....loved my all family members

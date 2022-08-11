@@ -1,0 +1,62 @@
+Recipe number:
+260356.txt
+Review:
+Rating:
+5
+dateLastModified:
+09/21/2017
+helpfulCount:
+1
+userID:
+3031597
+Display Name:
+barbara
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/254187.jpg
+text:
+Quick and super delicious!!!
+Review:
+Rating:
+5
+dateLastModified:
+05/09/2019
+helpfulCount:
+0
+userID:
+23461559
+Display Name:
+Lena
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5221891.jpg
+text:
+So simple and so delicious!
+Review:
+Rating:
+5
+dateLastModified:
+08/01/2018
+helpfulCount:
+0
+userID:
+22170712
+Display Name:
+Marianne
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5744620.jpg
+text:
+whole family loved it
+Review:
+Rating:
+5
+dateLastModified:
+03/28/2018
+helpfulCount:
+0
+userID:
+1905634
+Display Name:
+Julie-Ann
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Deliciously easy. I omitted the herbs de Provence because I don t care for highly fragrant herbs on my spaghetti and did change a few measurements because as my husband says for some reason I can never follow a recipe. I am far from a great cook but my daughter said it smelled looked and tasted like something from the Food Network.

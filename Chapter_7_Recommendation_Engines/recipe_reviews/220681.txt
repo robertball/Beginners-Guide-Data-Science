@@ -1,0 +1,111 @@
+Recipe number:
+220681.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-09-16T08:25:05.753
+helpfulCount:
+8
+userID:
+8401941
+Display Name:
+leeka
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe turned out great, with a few modifications.   I used 2 cups of boiled and pureed beets (instead of canned), added 1/2 tsp nutmeg amd 1 tsp vanilla, and substituted 1 c apple sauce for 1 c of the oil (reducing the oil in the recipe to 1/2 cup).  I spooned the batter into greased muffin pans, and baked at 350 for about 25 minutes.  The muffins (or cupcakes) turned out moist and delicious, and my kids loved them.  I must say that I was excited about the vivid magenta batter, but in the end, the muffins only had a tinge of red on top - the insides were a typical carrot cake colour.  What a great way to use some excess beets and carrots, and sneak more veggies into my kids!
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-01T19:26:29.34
+helpfulCount:
+5
+userID:
+6921302
+Display Name:
+kay444
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/753474.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty! Made these alterations:
+
+Made cupcakes instead of a large cake (cooking time 20 minutes), substituted milk in place of 1/2 the oil, used only 3 eggs, and omitted the wheat bran and wheat germ. Still very good!
+Review:
+Rating:
+3
+dateLastModified:
+2012-04-14T09:41:03.627
+helpfulCount:
+4
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I omitted wheat germ and wheat bran, used 1 C oil + .5 C milk instead of 1.5 C oil, and 14 oz fresh, raw grated beets instead of canned. 
+
+I think the cake would be a lot better with the following changes: more sugar, less cinnamon plus other spices (maybe nutmeg and allspice), and vanilla extract. Some grated orange peel would be good, too. If you are using raw beets like I did, I would reduce beets and increase carrots. The beet flavor was dominant in mine.

@@ -1,0 +1,37 @@
+Recipe number:
+231801.txt
+Review:
+Rating:
+1
+dateLastModified:
+2014-08-05T09:58:57.9
+helpfulCount:
+0
+userID:
+2111335
+Display Name:
+stjchurchcook
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+76
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/950553.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't like to give a bad review but this was not good.  I followed the recipe exactly and the tilapia had a weird, bitter taste. My husband finished his portion.  I've used all the spices and seasonings before but the combination just didn't work for us. Sorry for the 1 star review.

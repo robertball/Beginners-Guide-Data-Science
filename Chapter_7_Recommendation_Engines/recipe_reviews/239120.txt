@@ -1,0 +1,75 @@
+Recipe number:
+239120.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-27T16:24:55.023
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+482
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasted yummy.  I used goji berries instead of raisins and it came out great.  This did stick pretty badly to the pan so I'd recommend prepping the pan really well or lining with foil
+Review:
+Rating:
+3
+dateLastModified:
+2016-10-10T13:18:51.087
+helpfulCount:
+0
+userID:
+10158390
+Display Name:
+dani
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Butter tart and shortbread? Together? Yum....I had to try it.
+I followed the recipe exactly. When I poured the butter tart filling onto the shortbread crust I nearly went back to make more (filling). It looked very skimpy. I decided, however, to follow the recipe exactly the first time.
+The taste was just okay. The shortbread made it pretty dry. I think next time I would double the filling recipe....simply to counter-balance the dryness.
+Overall, not a disaster but somewhat disappointing.

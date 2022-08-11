@@ -1,0 +1,72 @@
+Recipe number:
+25161.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-04-14T16:19:39.747
+helpfulCount:
+6
+userID:
+1832864
+Display Name:
+hot dawg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was good but bitter
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-01T20:17:20.12
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought these were really good. I loved the tanginess, but I'm a huge vinegar fan.  A nice change of pace from other marinated mushrooms I've had. Next time I'd leave the ginger out or use less - just personal preference.

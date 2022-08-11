@@ -1,0 +1,144 @@
+Recipe number:
+159249.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-12-19T08:01:09.16
+helpfulCount:
+2
+userID:
+5258462
+Display Name:
+G Hofmann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+690
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5051586.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This polenta is very tasty.  I used it as a contribution to an appetizer party and everyone raved.  I used cornmeal rather than polenta which should be the same thing and the recipe yield was more than twice the 8 servings the recipe states.  I'm hoping for other reviews so I can see if I did something wrong.  Another thought is that the butter could probably be cut down a lot without harming the result.
+Review:
+Rating:
+3
+dateLastModified:
+2016-02-05T19:20:51.81
+helpfulCount:
+1
+userID:
+13938315
+Display Name:
+Jenny Brandt
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3224262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This didn't work for me at all. It smells great but it was to soupy.
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-11T16:53:39.98
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I can't help but think that the 1-1/4 cups of butter must be a typo. I used 3/4 cup (1-1/2 sticks), and it was plenty. I made a trip to Aldi to pick up some Gruyere cheese, just to make this recipe, but they were all out (seasonal item). I pulled up Google on my phone and found that any Swiss cheese is a suitable substitution for Gruyere, so I purchased a block of baby Swiss and used that. I ended up with more polenta than would fit level in the 8" cake pan. It was slightly mounded up in the pan, and I ended up shaving some of the top off once it was set, so that it made for a flat surface when I turned it out onto the cutting board for slicing. Next time I will use a 9" or 10" springform pan. Both my husband and I agreed that the flavors are similar to the shrimp and grits that we make, so we intend to use the left overs with some sauteed shrimp another night this week.
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-23T15:07:12.743
+helpfulCount:
+0
+userID:
+12909627
+Display Name:
+Karen Norton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7746267.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I agree that the butter should be cut in half. I ended up mopping most of it off.
+I  also used  medium grained cornmeal, along with basil versus the sage and added more cheese for excellent results.
+Thanks Karen for a great recipe

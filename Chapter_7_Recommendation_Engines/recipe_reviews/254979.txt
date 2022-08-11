@@ -1,0 +1,72 @@
+Recipe number:
+254979.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-09T17:35:46.14
+helpfulCount:
+0
+userID:
+10291668
+Display Name:
+Angelina
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty & easy, but 1 slice does NOT a serving make.  Very deceiving  portion size, since most folks would probably have 2 slices, so I doubt that 1 lrg. eggplant will yield 24 slices.  Nevertheless, it as very tasty.  I served it over spaghetti.  I always bake my eggplant slices instead of doing them in a frying pan, b/c they absorb cooking oil like a sponge, and that just adds to the calories & fat.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-13T13:12:22.6
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+970
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1841
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very nice change from the usual parmigiana. I didn't fry the eggplant though. I baked them. Thank you for the recipe.

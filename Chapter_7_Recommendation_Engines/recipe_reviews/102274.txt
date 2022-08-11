@@ -1,0 +1,107 @@
+Recipe number:
+102274.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-11-22T06:15:03.76
+helpfulCount:
+13
+userID:
+1459978
+Display Name:
+CROWCHICK
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So, I boiled the ham, which made it really tender.  I was surprised.  But the sauce wasn't really my cup of tea.  It was certainly edible, but it really tasted like the three ingredients did not meld in any way.  And it reminded be of barbecue sauce.  My husband seemed to like it, the kids ate it... it was okay.
+Review:
+Rating:
+2
+dateLastModified:
+2007-03-10T12:21:58.84
+helpfulCount:
+10
+userID:
+2310798
+Display Name:
+Future Mrs. Chef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this recipe, i would say, is ONLY for people on a really tight budget.. its not bad or anything its just... not awesome, but hey, its pretty cheap and thats a good thing
+Review:
+Rating:
+2
+dateLastModified:
+2016-01-07T11:55:28.213
+helpfulCount:
+0
+userID:
+15380694
+Display Name:
+Nikki James-Brown
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+590
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2073038.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as the recipe. Didn't care too much for the flavor of the sauce, it was like the other reviewer said, like the flavors just did not go together. And I don't know if it was the boiling of the ham or what, although it was very tender, it was spongy. And the sauce made it a very unappealing color. Was no longer pink and appealing like ham should be.

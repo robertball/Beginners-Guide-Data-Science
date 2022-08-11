@@ -1,0 +1,72 @@
+Recipe number:
+234589.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-19T17:41:54.307
+helpfulCount:
+0
+userID:
+1160122
+Display Name:
+GIRLS28
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a keeper.  The dipping sauce has too much butter I used it to put over rice.
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-10T08:15:08.883
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These came out of the deep fryer a lot different than I expected. They came out a real dark rich color and looked as if they had been coated is some type of thick sticky sauce even though I hadn't put anything on them yet. The tequila really came through and was the most potent but you could taste the other flavors as well. Now about the sauce. I am confused as to what you mean by Thai style chili sauce. When I see that I think of the pinkish sauce sold in the Asian food aisle but it barely has any heat at all so maybe you are referring to a Sriracha type sauce instead? I'm not sure but I think either would actually work fine on this recipe. These were good and turned out very pretty.

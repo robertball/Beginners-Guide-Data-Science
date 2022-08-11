@@ -1,0 +1,37 @@
+Recipe number:
+47976.txt
+Review:
+Rating:
+4
+dateLastModified:
+2002-10-05T12:17:18.7
+helpfulCount:
+4
+userID:
+688441
+Display Name:
+Kelly Sullivan Cetro
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4119958.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The chicken was great but I didn't think that vegetables came out well.

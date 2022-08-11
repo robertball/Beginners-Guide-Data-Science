@@ -1,0 +1,37 @@
+Recipe number:
+181553.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-08-30T21:01:35.59
+helpfulCount:
+0
+userID:
+2981393
+Display Name:
+may2mac
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+235
+favoritesCount:
+953
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4064193.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out great, but I didn't feel like this was much of a recipe. The only real change from buying the box of cake mix and following the instructions on the back is that you infuse them with lemon curd. The flavor was really good.

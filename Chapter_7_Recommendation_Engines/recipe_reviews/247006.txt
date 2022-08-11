@@ -1,0 +1,107 @@
+Recipe number:
+247006.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-23T14:10:39.657
+helpfulCount:
+2
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2212
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used fresh rosemary because I was serving chicken.  They rose beautifully and tasted wonderful.  I served warm spread with butter.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-24T21:59:32.903
+helpfulCount:
+1
+userID:
+17096217
+Display Name:
+Laura Louise
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+506
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4098231.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I know these are good since the hubby requests these often. I followed the recipe exact the first time but now the only thing I change is the herbs. We LOVE garlic. I use garlic chives and chop up fresh garlic. Absolutely delicious and a fabulous popover recipe by far.
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-30T22:53:50.79
+helpfulCount:
+0
+userID:
+6217020
+Display Name:
+Riesse
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The taste is definitely there I've never had deal in popovers before. Unfortunately mine did not pop over. Not sure if it was that the temperature was too low at first or if I beat the do too much.

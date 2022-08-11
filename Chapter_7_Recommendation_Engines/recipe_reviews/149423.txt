@@ -1,0 +1,72 @@
+Recipe number:
+149423.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-03-03T08:46:04.39
+helpfulCount:
+7
+userID:
+3592883
+Display Name:
+Cindy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Less vinegar would have been better, and really, follow the suggested amount of the chili. Don't go over because it will actually burn!
+Review:
+Rating:
+1
+dateLastModified:
+2010-06-28T15:34:43.07
+helpfulCount:
+4
+userID:
+5006735
+Display Name:
+Terry Oelmann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1624282.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Way too oily, the cabbage was great but to much oil! I think if I do this again I will try 1/4 or less of the amount of oil that it calls for.

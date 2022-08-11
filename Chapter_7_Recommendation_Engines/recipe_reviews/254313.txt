@@ -1,0 +1,37 @@
+Recipe number:
+254313.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-10T23:49:23.423
+helpfulCount:
+0
+userID:
+26264460
+Display Name:
+animegod
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7138770.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+yes and i didnt add mushrooms because not a huge fan of them

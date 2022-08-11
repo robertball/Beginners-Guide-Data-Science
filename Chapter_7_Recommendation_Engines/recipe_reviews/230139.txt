@@ -1,0 +1,39 @@
+Recipe number:
+230139.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-14T14:59:45.82
+helpfulCount:
+2
+userID:
+10265584
+Display Name:
+Bernadet Rodakowski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/936820.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+In the interest of time, I used prepared ginger (from jar) about 1/2t., and Roses' Lime juice + 1/2 fresh lime.   Super delicious!  My new fave!
+
+I also tried it with vodka, and it was good, but the gin (Sapphire) does give it more interest.

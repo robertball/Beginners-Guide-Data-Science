@@ -1,0 +1,37 @@
+Recipe number:
+235268.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-04T19:38:40.047
+helpfulCount:
+0
+userID:
+16080991
+Display Name:
+George Thorman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2437248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good base recipe. I made two changes. I used mashed potatoes instead of shredded to make the latke. I also left off the sherry vinegar. The potato really balances the sweetness of the pears and goat cheese. This dish was a big hit with my husband, who added bacon. I will definitely make this again.

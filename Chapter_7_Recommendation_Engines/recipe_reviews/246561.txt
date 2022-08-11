@@ -1,0 +1,107 @@
+Recipe number:
+246561.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-19T10:53:02.673
+helpfulCount:
+3
+userID:
+12709376
+Display Name:
+tina
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Based on the other reviewer's comments about the rice drying out, I made a few changes. I used 1 c of yogurt instead of 3/4 cup. I pre-cooked the rice for 4 minutes instead of 2. I put everything in the crockpot as directed, but 45 minutes later, I stirred it all together and changed the setting to low for the last 45 minutes. Turned out well. Flavor was delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-19T18:40:46.613
+helpfulCount:
+0
+userID:
+20642633
+Display Name:
+Rob Baumgarten
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4080872.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ad 25% more yogurt and it’s a great dish
+Review:
+Rating:
+3
+dateLastModified:
+2016-11-07T04:57:33.6
+helpfulCount:
+0
+userID:
+2450983
+Display Name:
+Don R
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+141
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6917515.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very tasty while cooking but once combined in the slow cooker, it dried out. I even cooked it on low. Next time I would double the sauce and cook the rice more. Also I wasn't sure if I was suppose to leave the pods in the dish or remove them. There is a lot of steps but they aren't difficult and it's nice to cook from scratch. I will try it again with a few modifications.

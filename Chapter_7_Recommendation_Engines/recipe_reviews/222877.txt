@@ -1,0 +1,72 @@
+Recipe number:
+222877.txt
+Review:
+Rating:
+2
+dateLastModified:
+2012-08-26T12:31:11.657
+helpfulCount:
+5
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1060
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+WAY TOO MUCH lime for the amount of drink.  I used 1/2 a regular lime and even that was almost too much.  I had to split the recipe and then add more sugar and Cachaça to make this palatable.  Either use a small (key) lime or use at least 1 tbsp of sugar...otherwise it's just not the right mix.
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-15T10:01:59.94
+helpfulCount:
+4
+userID:
+9473699
+Display Name:
+Jones Mitchell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes nice and authentic.  Very refreshing and simple.  This is not a drink for everyone - particularly those who are used to drinking those over-sweet cocktails made with flavoured spirits that you find in most bars.  Very nice recipe for a classic cocktail.  I garnished mine with a curled lime peel and mint.

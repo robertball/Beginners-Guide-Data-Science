@@ -1,0 +1,37 @@
+Recipe number:
+269728.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-27T21:51:48.58
+helpfulCount:
+0
+userID:
+9034243
+Display Name:
+Lee Wachter
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Some of my favorite ingredients all in one easy to prepare recipe. I made it exactly as proscribed. Probably could be on the table 15 minutes from the start if you use broccoli pieces. My husband voted this recipe to the trophy shelf! Don’t be worried that the anchovy flavor will dominate if you’re not a mega anchovy fan. The flavors blend smoothly. Delicious & healthful. Lee W

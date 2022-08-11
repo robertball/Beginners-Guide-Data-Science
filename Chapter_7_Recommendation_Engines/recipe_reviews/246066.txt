@@ -1,0 +1,181 @@
+Recipe number:
+246066.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-08T22:58:02.537
+helpfulCount:
+1
+userID:
+7305415
+Display Name:
+Yancando
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+546
+favoritesCount:
+406
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5672365.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ooo la la! A little bit of work but a lot of great taste! If you want people to be impressed, serve this. It's not difficult even though there are many steps.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-24T22:12:00.77
+helpfulCount:
+1
+userID:
+14111973
+Display Name:
+Mom of Six
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty, and elegant enough to serve at a dinner party. It really needs the sauce for flavor. The sauce is fabulous. The sauce also happens to be fantastic on eggs, steak, chicken...you name it! And it keeps well in the fridge.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-10T18:44:14.4
+helpfulCount:
+1
+userID:
+14195108
+Display Name:
+Shannon Drumm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3356640.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first time using salmon and also using puff pastry so it was a lot of fun. The recipe is very easy to follow. I made this dish for my husband. I added a side of brown rice, spinach and cooked the left over egg wash, he said it all fit together nicely. The only words he could use to describe it all was "Amazingly delicious". I will definitely be making it again.
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-19T01:13:13.69
+helpfulCount:
+0
+userID:
+24966960
+Display Name:
+Stu in Raleigh
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For me, this needs a major alteration that I tried!  Made it once according to directions and flavors were great but it was an OVERWHELMING mouthful of pastry that I had to cook longer in order to cook the pastry through.
+
+The next time I made it I used just one pastry sheet and rolled it thin with a rolling pin.  Same everything cooked to the lower range of time, just with one sheet of pastry rolled thin.  It turned out to be "restaurant quality".  
+
+With one pastry sheet, this will be added to the rotation.
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-14T19:41:02.903
+helpfulCount:
+0
+userID:
+13577297
+Display Name:
+Julie Mansius
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2315730.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made just as directed and it was delicious. The sauce is great and made enough to use with veggies for a dip.

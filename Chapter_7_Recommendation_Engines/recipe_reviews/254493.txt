@@ -1,0 +1,37 @@
+Recipe number:
+254493.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-05-31T15:46:45.627
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I left the peel on due to personal preference. These were okay but I would definitely cut way back on the sugar next time. I also preferred these better prior to freezing them.

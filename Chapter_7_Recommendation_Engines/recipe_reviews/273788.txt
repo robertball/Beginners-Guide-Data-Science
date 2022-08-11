@@ -1,0 +1,37 @@
+Recipe number:
+273788.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-08T16:12:49.383
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I only let the shrimp marinate for 1 hour. Lemon juice will "cook" shrimp so you have to be careful there. The flavors were great and this is super simple. This is spicy as advertised so scale back the cayenne if you are sensitive to heat.

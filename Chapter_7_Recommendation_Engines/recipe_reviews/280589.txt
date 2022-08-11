@@ -1,0 +1,37 @@
+Recipe number:
+280589.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-07-08T00:56:27.867
+helpfulCount:
+0
+userID:
+4663107
+Display Name:
+cookingqueen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+331
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A little bland for us so next time I would add something a little spicy to this dish.

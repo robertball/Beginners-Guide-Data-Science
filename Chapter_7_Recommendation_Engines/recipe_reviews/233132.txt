@@ -1,0 +1,72 @@
+Recipe number:
+233132.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-19T06:09:39.6
+helpfulCount:
+0
+userID:
+2417067
+Display Name:
+FrackFamily5 CA—>CT
+isPro:
+False
+followersCount:
+245
+followingCount:
+0
+madeRecipesCount:
+1342
+favoritesCount:
+2864
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3578341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good but I’ve had a few issues with the steps.  How would one add 2 Cups of fudge on top of the cool whip/. You have  to add it after placing the ice cream.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-14T13:37:45.307
+helpfulCount:
+0
+userID:
+4327938
+Display Name:
+Pamela
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+63
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was made for Christmas dessert this year and everyone loved it.  We made a light version using reduced fat sandwich cookies- light churned mint chocolate ice cream - we splashed a little peppermint extract in the FAT FREE topping and it was great!

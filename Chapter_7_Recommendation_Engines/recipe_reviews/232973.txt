@@ -1,0 +1,37 @@
+Recipe number:
+232973.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-24T18:58:50.307
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Surprised no one had made this yet. I had this for dinner this week and it was a nice meal.  The chipotle  and all the black  pepper was a little too spicy for me... I didnt add the second dose of the chipotle either. The filling was a nice idea nut it didnt seem to pick up much flavor from the  bouillon..I would recommend some salt to the filling and a little queso .. would make it a little easier to cut if the filling stuck together a bit more.  This is a nice recipe and just needs a few tweaks for me  I had the leftovers with some avocado and greek yogurt... I think that improved it for me

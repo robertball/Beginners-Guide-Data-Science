@@ -1,0 +1,110 @@
+Recipe number:
+18183.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-10-24T19:45:26.233
+helpfulCount:
+1
+userID:
+6054038
+Display Name:
+sziszi27
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you are a beginner in baking...start with something else. Not easy to prepare but worth the money and time to invest if you know the technique how to prepare this one. Best if you have someone to teach you, because it is tricky. Flour quality, oven, how much filling you use on one layer, how thin is one layer.. you need to figure it out.. be patient and don't panic if you need to throw it out at the first one-two-three time.. You will know how to do it at the fourth.. I know it is wasting time and money but believe me..It worth it!
+Review:
+Rating:
+1
+dateLastModified:
+2008-08-03T09:49:50.567
+helpfulCount:
+1
+userID:
+784030
+Display Name:
+Donna Menyes
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+56
+favoritesCount:
+290
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3132729.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If I could possibly give this recipe less than one star I could. I did not care for this recipe.  First of all, the dough needs nowhere NEAR 15 minutes to bake.  My first batch, it baked 10 minutes and was burnt.  Second time around, I baked it for only 6-7 minutes, and it was more than enough.  The filling was watery, and never set - even after refrigerating for several hours.  There are much better Zserbo recipes available elsewhere.
+Review:
+Rating:
+4
+dateLastModified:
+2007-11-19T08:01:40.23
+helpfulCount:
+1
+userID:
+2596321
+Display Name:
+Aldoabitoli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+282
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+To much sugar !! Enough to send a diabetic to his eternal rest......
+To much work to prepare !!!
+A Napoleon would be much easier to make!!
+No wonder it is made only for special guests...

@@ -1,0 +1,107 @@
+Recipe number:
+62532.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-05-09T11:38:09.883
+helpfulCount:
+6
+userID:
+2288420
+Display Name:
+newcomb16
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fruit was very good. Wasn't too fond of the parsley and arugula.
+Review:
+Rating:
+3
+dateLastModified:
+2010-06-11T20:34:33.657
+helpfulCount:
+3
+userID:
+2141103
+Display Name:
+CJ Barrera
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+332
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2834467.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not bad, kinda blah...I couldn't find arugala, so I substituted Romaine.  I also substituted balsamic vinegar for the olive oil. The fruit and Gorgonzola are awesome together!  I would suggest cutting the greens by 1/4 and increasing the fruit, basil and cheese a bit and definitely using balsamic vinegar!
+Review:
+Rating:
+5
+dateLastModified:
+2014-04-12T08:59:57.723
+helpfulCount:
+1
+userID:
+6917263
+Display Name:
+Kayleen Huggart
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+147
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3028182.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We made this lastnight... fruit was perfection. Added a little cilantro with parsley and basil. arugula awesome used goat cheese instead of Gorgonzola and drizzled balsamic with the olive oil and topped with avocado. I was nervous as I served it for dinner without trying it first. HUGE hit!! Loved it!!  Always like to adlib recipes to my  liking ... Perfect spring/summer salad. Will definitely do it again and may add caramelized walnuts next time. Thank you

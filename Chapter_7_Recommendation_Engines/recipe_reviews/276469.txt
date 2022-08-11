@@ -1,0 +1,37 @@
+Recipe number:
+276469.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-11T01:43:43.99
+helpfulCount:
+0
+userID:
+16078669
+Display Name:
+Kathie Jenson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this per the recipe. It was very good and made a lot. Gave some to a neighbor and they loved it as well.

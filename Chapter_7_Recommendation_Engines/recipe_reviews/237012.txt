@@ -1,0 +1,37 @@
+Recipe number:
+237012.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-01T22:31:47.87
+helpfulCount:
+0
+userID:
+16083562
+Display Name:
+jjleonhardt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used wonton wrappers (trying to duplicate a favorite at a local restaurant)  They were delicious!!!

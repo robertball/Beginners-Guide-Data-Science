@@ -1,0 +1,37 @@
+Recipe number:
+257756.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-16T20:48:41.75
+helpfulCount:
+1
+userID:
+23293640
+Display Name:
+awong28
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5879481.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super yummy, and I found that the ingredients listed make waaaayyyy more than 8 spring rolls! This recipe is a great gateway into spring roll-making and then you can add other herbs or veggies you like (the second time I made it, I added in scallions, red onions, and cilantro too!).

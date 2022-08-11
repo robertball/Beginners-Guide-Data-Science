@@ -1,0 +1,72 @@
+Recipe number:
+260196.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-23T21:55:18.54
+helpfulCount:
+1
+userID:
+18113466
+Display Name:
+Lisa G.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3714664.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As it was written, and based on the only review, I could tell this would be  a little bland. During cooking (I used a pot instead of a pressure cooker), I added salt, red peppers, lots of extra lime zest and lime juice, and cilantro (which was pictured but not included in the recipe). I also substituted the water for chicken bone stock. After all that, it was delicious! Sometimes all you need are good bones, and this recipe has good bones.
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-14T17:48:10.177
+helpfulCount:
+0
+userID:
+2185032
+Display Name:
+Abby Silver Moline
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3080865.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not a lot of flavor as I used light coconut milk. Added salt and more lime at the end. Made it in cuisinart electric pressure cooker for 4 minutes.

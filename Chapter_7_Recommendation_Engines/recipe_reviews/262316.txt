@@ -1,0 +1,37 @@
+Recipe number:
+262316.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-29T23:54:15.577
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought shiitake was a strange mushroom to use for a Mexican soup but they actually worked. This was pretty good but could use some doctoring up in my opinion. I'm not sure what but it needed something. Still good and super simple so it is one I would play around with again.

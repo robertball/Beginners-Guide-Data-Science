@@ -1,0 +1,82 @@
+Recipe number:
+260665.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-10-09T13:32:28.32
+helpfulCount:
+0
+userID:
+5287791
+Display Name:
+danmann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/602910.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+after first cook I made adjustments and cooked it in an Instant Pot. It's now a chili, I changed to Chile powder instead of Taco Seasoning.
+I replaced ingredients:
+4 TBSP chili powder
+½ TSP Oregano
+1 TSP Paprika
+2 TSP Cumin
+4 TBSP Red Miso Powder
+4 TBSP Vegi Broth Powder ( I use Seitenbacher Vegetable Broth & Seasoning)
+2 TBSP Coconut milk Powder
+
+Very popular in my house hold now!
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-12T02:47:39.69
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After reading the recipe carefully I decided to make one change from the start. Instead of 2 cans of 3 bean mix I just doubled the black beans and the pinto beans. I already had them on hand and the green and wax beans from the 3 bean mix just didn't seem to fit. With that being said, this was a good soup. I think it needed more seasoning though so I added another packet of taco seasoning mix and that turned it into a great soup. Thanks for sharing!

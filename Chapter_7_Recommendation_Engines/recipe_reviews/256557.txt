@@ -1,0 +1,37 @@
+Recipe number:
+256557.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-01-17T14:35:41.767
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+431
+favoritesCount:
+911
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these as written but even my son that eats everything didn't like them. I can say the recipe does work as written and you end up with a pancake of sorts. Looking at the ingredients  the amount of wet ingredients is off and the pancakes are rather moist in the middle and you have squishy pancakes.

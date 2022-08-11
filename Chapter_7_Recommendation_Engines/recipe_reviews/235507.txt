@@ -1,0 +1,72 @@
+Recipe number:
+235507.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-09T16:52:18.077
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5755
+followingCount:
+0
+madeRecipesCount:
+2830
+favoritesCount:
+6011
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+8.9.18  I’ve been working on cleaning out my freezer and ran across a bag of cranberries I’d bought on sale after the Holidays.  We’re not into super sweet food these days, and cranberry sauce often is, so I reduced the sugar by 50% and then substituted Truvia®.  Even after seven months in the freezer, these cranberries had good flavor that was accented by the OJ and the Triple Sec.  Those two ingredients really style up a basic cranberry sauce.  Growing up, my family only had cranberry sauce during the traditional Holiday season, but we like it so much, I serve it as a side dish throughout the year.  Thanks for sharing your recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-20T21:29:38.43
+helpfulCount:
+0
+userID:
+3964202
+Display Name:
+Teri Scott
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+548
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1301524.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really good! I changed it just a bit- used only cranberries, orange juice and walnuts....so good!

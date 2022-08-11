@@ -1,0 +1,74 @@
+Recipe number:
+84119.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-10-28T02:19:25.827
+helpfulCount:
+25
+userID:
+1905687
+Display Name:
+traceym
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+368
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/109.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+for a healhty,no fat cake,i thought this was nice.only thing i changed was ,i used splenda instead of the sugar.
+this one is ideal for me when i'm on a green day on my slimming world diet.
+thank you.
+Review:
+Rating:
+2
+dateLastModified:
+2005-07-23T06:30:48.403
+helpfulCount:
+23
+userID:
+827786
+Display Name:
+SELEA
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+139
+favoritesCount:
+134
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For nutrition, this recipe deserves 5 stars. Amount Per Serving: Calories: 210;Total Fat: 1.9g; Cholesterol: 58mg; Sodium: 27mg; Total Carbs: 44.2g; Dietary Fiber: 3.3g; Protein: 6.4g.  This "cake" was indeed crisp on the outside, but I would like a moister interior.  Maybe, using 1 1/2 cups water would help.

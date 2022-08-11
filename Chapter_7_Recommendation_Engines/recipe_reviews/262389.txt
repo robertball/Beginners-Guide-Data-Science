@@ -1,0 +1,37 @@
+Recipe number:
+262389.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T00:11:01.117
+helpfulCount:
+1
+userID:
+9993967
+Display Name:
+CMP
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a fantastic soup!! It’s easy, delicious, and healthy. I don’t have an instant pot, so I sautéed  the carrots and onion and garlic in olive oil and added the salt and pepper, put the remaining ingredients in the blender. Then added the cooked vegetables to the blender.  Melded over low /med heat and it was done!  So awesome!

@@ -1,0 +1,186 @@
+Recipe number:
+235883.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-07-10T13:37:05.987
+helpfulCount:
+4
+userID:
+13351015
+Display Name:
+maui_r
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A good base recipe for a hearty cracker, but it is rather bland as written. It needs salt and either add seasoning in the dough or pair with a flavorful dip.
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-22T15:10:06.523
+helpfulCount:
+1
+userID:
+471905
+Display Name:
+Rob Catlin
+isPro:
+False
+followersCount:
+40
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+117
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1698223.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great simple recipe!  I've made these a few times though I add garlic powder and sea salt to the recipe.  Once I also threw in Parmesan cheese!  I call these Paleo Triscuits as they're a little thicker.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-05T11:58:29.62
+helpfulCount:
+0
+userID:
+20734482
+Display Name:
+Kristy Marie Fry
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+70
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4135039.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I haven't had a cracker in a gazillion years.  I'm allergic to so many things.  I've never made a cracker before, and these were to die for.
+
+Slight changes I made:
+- I added garlic salt, pepper, and Italian seasonings to the flour mixture.
+- after adding 1 T of water it was waaaay too runny, so I just added equal amounts of the flour until it was a nice dough
+- I cooked it in light tasting olive oil, because I don't like coconut oil
+
+Note:  I used wax paper to roll out the dough.  DON'T do it!  The dough reeeeally stuck to the wax paper and it was hard to get it off.
+
+In any case, THANK YOU!  I really have been craving crackers for a long time.  I'm sure I will try many alterations of these!
+Review:
+Rating:
+3
+dateLastModified:
+2016-06-27T17:02:48.497
+helpfulCount:
+0
+userID:
+18183010
+Display Name:
+Heidi Phillips
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These weren't all that bad but I did modify. I read they were too bland so I added 1/4 tsp of salt, 1/4 tsp of pepper. I accidentally made them too thick but they still came out decent.
+Review:
+Rating:
+3
+dateLastModified:
+2016-01-25T16:59:23.733
+helpfulCount:
+0
+userID:
+7427119
+Display Name:
+SoSousMe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3178805.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved how easy this was to make for my first attempt at crackers. They cooked up good in the pan. But as someone else said, way too bland. I added a few things, but probably made it too spicy. Will try again.

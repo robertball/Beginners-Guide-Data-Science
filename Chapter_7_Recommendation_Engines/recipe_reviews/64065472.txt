@@ -1,0 +1,37 @@
+Recipe number:
+64065472.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-24T19:19:20.527
+helpfulCount:
+0
+userID:
+607242
+Display Name:
+Jennifer Jill Harman
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1130699.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ignore the last extra Vitamin green direction! Duplicate

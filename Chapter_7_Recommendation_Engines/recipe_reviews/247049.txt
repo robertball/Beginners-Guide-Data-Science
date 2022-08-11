@@ -1,0 +1,37 @@
+Recipe number:
+247049.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-02T23:49:25.34
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2294
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If I don't like a martini made with pickle juice then it is safe to say I just don't care for martini's. However my hubby that does like martini's said this was really good and he enjoyed it. This was fun to make and one you should try if you like a dirty martini.

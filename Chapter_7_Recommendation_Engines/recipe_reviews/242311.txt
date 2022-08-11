@@ -1,0 +1,142 @@
+Recipe number:
+242311.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-20T18:38:15.977
+helpfulCount:
+2
+userID:
+14571382
+Display Name:
+Linda Riego
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+266
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1622386.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have seen recipes from Epicurious, NY Times, Food Network, and others.  This is the most impressive and delicious recipe for Tonnato Sauce/ Dip. Applause for Chef John. His recipe nails it!
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-28T09:03:34.78
+helpfulCount:
+2
+userID:
+784158
+Display Name:
+Amy Jo McCord
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+1569
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/615127.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is great over cold poached chicken or turkey breast!  Also great as a dip for pita chips.  Love it!
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-29T12:20:04.4
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A true classic in Italy. It's great for picnics or special lunches/brunches prepared beforehand and kept cold for up to 2 days in the fridge. Serve cold! The veal cut is usually "magatello" or the top round cut. Top with extra capers! Yum, yum! Thank you for sharing this authentic recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-11T18:17:05.177
+helpfulCount:
+0
+userID:
+23349450
+Display Name:
+Adam Henshall
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7029079.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent sauce! Great seller, got us out of a creative pinch!

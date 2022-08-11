@@ -1,0 +1,37 @@
+Recipe number:
+257389.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-21T01:41:29.587
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We LOVED these!  I totally forgot  the sprinkles, so I will have to add those next time. As you will see in my pic the kids went crazy for them...a definite keeper~YUM!!!!! Thanks for sharing. :)

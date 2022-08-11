@@ -1,0 +1,37 @@
+Recipe number:
+238672.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-12T12:43:24.077
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8917
+followingCount:
+0
+madeRecipesCount:
+1121
+favoritesCount:
+2303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like the idea of this recipe, but the yogurt, honey and almonds didn't really work for me. A little ricotta, a chiffonade of fresh basil and some pignoli (pine nuts) would have been better.

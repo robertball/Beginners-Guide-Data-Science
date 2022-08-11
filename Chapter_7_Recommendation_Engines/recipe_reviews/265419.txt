@@ -1,0 +1,47 @@
+Recipe number:
+265419.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/30/2020
+helpfulCount:
+0
+userID:
+3031597
+Display Name:
+barbara
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/254187.jpg
+text:
+One of my favorite make-ahead desserts. Put together in minutes and oh so yummy!
+Review:
+Rating:
+5
+dateLastModified:
+07/23/2018
+helpfulCount:
+0
+userID:
+22342625
+Display Name:
+rachel ball
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6768501.jpg
+text:
+I love this dessert. My British mum called it Eton Mess. You can use any kind of berries you like. It's also great with a scoop of vanilla ice cream on top.
+Review:
+Rating:
+5
+dateLastModified:
+07/23/2018
+helpfulCount:
+0
+userID:
+22318598
+Display Name:
+Linda Davey-Tott
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I used a can of Devon Cream Custard plus the whipped cream and used fresh strawberries. also drizzled the top with melted chocolate. Delicious. loved by everyone!

@@ -1,0 +1,107 @@
+Recipe number:
+229686.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-11-21T17:11:18.433
+helpfulCount:
+3
+userID:
+6057515
+Display Name:
+fmc917
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was great, we upped the peppers but we like it spicy. We also cooked it all in one step, on low for 6 hours and it turned out great. Viva Peru!
+Review:
+Rating:
+4
+dateLastModified:
+2013-04-23T08:51:18.137
+helpfulCount:
+1
+userID:
+10639096
+Display Name:
+Susie O.
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+139
+favoritesCount:
+873
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4610934.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Most of my family loved it. The heat was beautiful. My daughter didn't care for it but she's a spice wuss, so don't put to much stock in that. After tasting it, I decided to throw some sour cream in, to soften the heat. It worked but I'm sure it's no longer Adobo Arequipeno.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-19T16:53:27.1
+helpfulCount:
+0
+userID:
+3783726
+Display Name:
+Sandy Wilson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+124
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2515161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have the red peppers, but I used pickled peppers instead. The meat was fork tender, not too spicy, served over tomato rice with a dollop of sour cream- this is a keeper!

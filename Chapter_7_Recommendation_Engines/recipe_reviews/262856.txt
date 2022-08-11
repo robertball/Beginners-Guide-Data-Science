@@ -1,0 +1,72 @@
+Recipe number:
+262856.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-07T14:42:28.6
+helpfulCount:
+2
+userID:
+17041304
+Display Name:
+QT_PENQUIN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+156
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4467212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great!
+Review:
+Rating:
+1
+dateLastModified:
+2018-08-11T01:58:04.4
+helpfulCount:
+0
+userID:
+7540785
+Display Name:
+Mary Jane Marcia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6904483.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Won't make it again as it did not solidify. Had to use vinegar to save the batch and make it into cheese.

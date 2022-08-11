@@ -1,0 +1,37 @@
+Recipe number:
+119134.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-09-18T12:30:45.473
+helpfulCount:
+2
+userID:
+2706309
+Display Name:
+Denise Moore
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+276
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/227617.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was GREAT!! Thank you

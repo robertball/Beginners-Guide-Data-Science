@@ -1,0 +1,72 @@
+Recipe number:
+255849.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-26T18:32:00.117
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5 star all the way! This dressing is excellent and would go well with many different things in a  salad. Red onion and hard boiled eggs  are the first to come to mind. If you don't like lima beans or  anything else in the salad just substitute it for something you do like but leave the dressing ingredients alone. They are perfect. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-07T19:20:33.023
+helpfulCount:
+0
+userID:
+1008162
+Display Name:
+SAFAD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this salad. I added onions, spinach, and parmesan instead of gouda.. Delicious..

@@ -1,0 +1,37 @@
+Recipe number:
+105102.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-06-26T15:35:38.827
+helpfulCount:
+0
+userID:
+634773
+Display Name:
+L Elle Thomas-Savage
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4347470.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it! Used newman's own ranch dressing - one of my favorites and this was so go i've made it twice this month and we lapped up every bit of the leftovers.

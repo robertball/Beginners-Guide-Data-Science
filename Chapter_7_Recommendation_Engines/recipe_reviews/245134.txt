@@ -1,0 +1,37 @@
+Recipe number:
+245134.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-14T18:34:45.4
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written, but for ten servings instead of twenty. I divided it into individual portions using whisky glasses. I love the idea of pumpkin in a tiramisu but we didn’t care for the whipped cream in it. Next time, I’ll try it without the wripping cream. It’s a beautiful dessert that gives a stunning presentation.

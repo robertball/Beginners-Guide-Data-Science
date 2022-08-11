@@ -1,0 +1,109 @@
+Recipe number:
+241413.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-27T16:12:41.833
+helpfulCount:
+3
+userID:
+3445677
+Display Name:
+Doc Simonson
+isPro:
+False
+followersCount:
+75
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+611
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2662639.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cheated a bit and made my own flatbread crust, so it started out better than a purchased crust would have made it. I also did not have bacon. Thought I did, but nope! I used capocolo instead, and it was good! I also threw a bit of arugula on top after baking, because I like it that way. IT would have been good without it, and if I had only had some bacon, it would have been great. The smokiness is just what it needed. Ok, ok! I threw a few walnuts and figs on as well. It's a party! One thing I would do to improve this is to use just a bit more pesto. I made some just for this recipe, and wish I had used it all instead of just 2 tablespoons. I'll be making tis again. Nice flavors!
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-08T04:14:09.543
+helpfulCount:
+1
+userID:
+15068182
+Display Name:
+arlene
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+535
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made my own crust. It was very tasty!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-19T12:52:50.413
+helpfulCount:
+0
+userID:
+15200388
+Display Name:
+Burl Scholtens
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just love the "non-traditional-ness" of this pizza recipe.  It is still simple to make, but really "wow's" the family or guests.
+
+I used Naan bread (that we already had in the fridge) for my crust and I was surprised at how well it turned out.  I've made this style of pizza many times before using my own homemade crust, but the naan was better than anything I've ever made.  Also, I find that some caramelize onion really goes well with the other flavors and is a nice addition.

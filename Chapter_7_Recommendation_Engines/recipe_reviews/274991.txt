@@ -1,0 +1,107 @@
+Recipe number:
+274991.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-18T03:54:51.24
+helpfulCount:
+1
+userID:
+3834742
+Display Name:
+thefayray
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/344824.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious. My husband, three young kids and I all loved it. I used all boneless chicken thighs, but otherwise followed the recipe as written.  Our house smelled amazing from all of the spices and if I prepped the chicken in advance, this would make for a quick weekday meal.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-22T02:41:21.507
+helpfulCount:
+0
+userID:
+26165468
+Display Name:
+Brittni Nixt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7065282.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect! Just added extra chili powder because we like it spicy!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-29T23:47:01
+helpfulCount:
+0
+userID:
+21432781
+Display Name:
+Pushpa Rao
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+238
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Probably added all the Garamond masala to the Marinade. It was delicious!

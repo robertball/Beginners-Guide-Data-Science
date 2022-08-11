@@ -1,0 +1,37 @@
+Recipe number:
+270055.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-12T05:19:41.64
+helpfulCount:
+0
+userID:
+17473745
+Display Name:
+Susan Leroux
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+99
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7044626.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious and I would make exactly the same

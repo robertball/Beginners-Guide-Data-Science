@@ -1,0 +1,37 @@
+Recipe number:
+272581.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-15T00:02:12.153
+helpfulCount:
+0
+userID:
+10397532
+Display Name:
+Julie Thompson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5319001.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are pretty good, my husband really liked the ginger flavor. I adjusted the meat to half ground chicken and half ground pork so it wouldn't dry out. I also reduced the oven temp to 375 and baked for about 20 mins. They didn't have enough salt, so I had to sprinkle some on afterwards. I'll be adding more salt the next time I make them.

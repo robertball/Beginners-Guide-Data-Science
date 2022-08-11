@@ -1,0 +1,107 @@
+Recipe number:
+240433.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-13T08:03:38.637
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and tasty. The outcome is a nice balance of flavor.  The batter is quite thick and I ended up kneading it at the end rather than stir. I only made a 10th of a portion and used cut outs to make individual pieces and put them in the fridge to help the set. A drizzle of chocolate would go nicely here. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-02T08:51:12.39
+helpfulCount:
+1
+userID:
+15062727
+Display Name:
+Gunner
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy, taste great! I made it for the Holidays, and the whole family enjoyed it. I'll cut this recipe in half for my next batch, and try crunchy peanut butter. It  makes two large trays as is.
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-07T23:08:46.24
+helpfulCount:
+0
+userID:
+20074055
+Display Name:
+Louise Kemp
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3797112.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this in a very small test batch and loved it!! Whole family seemed to enioy it so I will definitely make this recipe again in the full amount

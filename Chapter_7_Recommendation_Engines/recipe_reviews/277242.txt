@@ -1,0 +1,37 @@
+Recipe number:
+277242.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-16T00:36:53.28
+helpfulCount:
+0
+userID:
+5118896
+Display Name:
+fabeverydayblog
+isPro:
+False
+followersCount:
+152
+followingCount:
+0
+madeRecipesCount:
+469
+favoritesCount:
+306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious combo of ingredients, but I think they would be too salty for some. I recommend less garlic salt. I used lean ground beef and they ended up being a little dry so I recommenced serving with some sort of sauce.

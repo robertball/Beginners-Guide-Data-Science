@@ -1,0 +1,107 @@
+Recipe number:
+213600.txt
+Review:
+Rating:
+3
+dateLastModified:
+2010-12-24T06:58:30.677
+helpfulCount:
+8
+userID:
+4388223
+Display Name:
+Shanan Bentley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6139227.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The molases makes it a little bitter (and not a pretty color). I'd just use white sugar if I made it again.
+Review:
+Rating:
+3
+dateLastModified:
+2010-04-06T10:39:44.773
+helpfulCount:
+6
+userID:
+3270223
+Display Name:
+Amy F.
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+136
+favoritesCount:
+818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/283116.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This wasn't bad for a healthier version of rice pudding. It looked kind of sad on the table next to the sugar & butter laden Easter cake, but people did actually eat some. It has a strong resemblance (appearance-wise) to oatmeal. I love sweet, but I thought the 1/3 c. of Splenda for baking was a bit too much- as the recipe says though, to taste. I left the leftovers with a diabetic family member. I wanted to like this more, but alas, I will stick with my sugary junk.
+Review:
+Rating:
+4
+dateLastModified:
+2011-02-06T17:01:19.607
+helpfulCount:
+3
+userID:
+5954701
+Display Name:
+Cindy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe turned out to be very delicious!  I will be making it again.

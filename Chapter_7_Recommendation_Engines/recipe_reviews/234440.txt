@@ -1,0 +1,72 @@
+Recipe number:
+234440.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-29T17:37:24.007
+helpfulCount:
+0
+userID:
+11990211
+Display Name:
+lefttheharbor
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pumpkin pie is my favorite pie to begin with. Now this pie is my favorite and seems to be everyone's favorite! I've made 6 of these so far this fall and winter and my 7th is in the oven now. I've received many compliments on this pie. Now if I ask what I can bring for a dinner with family or friends this is the 1st request! I've been using sugar pumpkins from our garden. I've found that with the pumpkins I've canned I need to double the cooking time to 325 for 1 hour.
+Review:
+Rating:
+4
+dateLastModified:
+2013-10-01T11:48:17.083
+helpfulCount:
+0
+userID:
+3072885
+Display Name:
+Mary Donahue
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+882
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5778169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I could taste the Kahlua.   Cut in half the cloves but was still strong.   Good product.

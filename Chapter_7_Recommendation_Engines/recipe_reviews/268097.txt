@@ -1,0 +1,37 @@
+Recipe number:
+268097.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-03T22:28:57.147
+helpfulCount:
+1
+userID:
+3711442
+Display Name:
+Shanlee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+244
+favoritesCount:
+306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While this recipe did save time and space on Thanksgiving, I think I will stick with my usual dressing recipe made on the stove top with very little broth and no egg.  This recipe was flavorful but I prefer a much crispier, crunchier dressing.  After releasing the pressure, I poured the mixture into a 9x13 and baked at 400F for about 15 minutes and it was still soggier than I care for.  If you like your dressing soft, then you will love this!  Only ingredient change I made was using bulk breakfast sausage instead of Italian which I think works best for dressing.

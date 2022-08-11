@@ -1,0 +1,37 @@
+Recipe number:
+216012.txt
+Review:
+Rating:
+1
+dateLastModified:
+2010-12-03T16:41:16.343
+helpfulCount:
+0
+userID:
+5962590
+Display Name:
+Roger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you want to waste your time and money , this is the one for you! The cake crumbles to pieces when you try to roll/unroll it. I've made roulades for years and never had one turn out like this.   Tastes great, but doesn't work!

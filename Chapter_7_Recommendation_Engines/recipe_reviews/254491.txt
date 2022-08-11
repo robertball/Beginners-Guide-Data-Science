@@ -1,0 +1,107 @@
+Recipe number:
+254491.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-18T18:01:27.25
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for some cornish hens I smoked over the weekend. One word. Excellent! My only regret is that I didn't smoke a few more birds so that I could have leftovers for lunches. The brine made the birds super tender and full of flavor. They were so moist that they would re-heat nicely as well. As I mentioned, I did smoke my chicken instead of bake it and smoking has a tendency to dry things out but not with this brine. This one is a keeper! Thanks duboo!
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-24T02:01:01.58
+helpfulCount:
+0
+userID:
+10519908
+Display Name:
+Anthony West
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+383
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1000141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very simple brine that really works. The brine tenderizes the meat and makes it  absorb the smoke from smoker. My turkey was extremely flavorful and super tender.
+Review:
+Rating:
+3
+dateLastModified:
+2016-12-28T22:50:45.233
+helpfulCount:
+0
+userID:
+7983440
+Display Name:
+Kami DeManche Mogensen
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2643679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While brining always helps my chicken stay moist, the flavor of this brine was not near as tasty as I anticipated. The herb bribed chicken was much preferred by my guests.

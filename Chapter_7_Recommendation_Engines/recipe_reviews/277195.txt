@@ -1,0 +1,146 @@
+Recipe number:
+277195.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-01T20:17:36
+helpfulCount:
+0
+userID:
+26434756
+Display Name:
+Debi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made this twice now...it is extremely popular with both family and friends. After following the recipe,  I used a crockpot to keep the final product warm for an appetizer party. It was a smash!
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-23T20:04:51.697
+helpfulCount:
+0
+userID:
+12799215
+Display Name:
+Patty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+240
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We liked it but was a little sweet for our taste
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-20T23:24:23.3
+helpfulCount:
+0
+userID:
+25817096
+Display Name:
+JayDub
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I poured over rice instead of baguettes.  Family ate all of it and wanted more.  I made a second batch and they ate that also.  Just enough leftovers for a lunch for me the next day.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-15T19:20:47.007
+helpfulCount:
+0
+userID:
+21262424
+Display Name:
+Angela Marcel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+617
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4675127.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow !
+ Absolutely the best shrimp recipe I have ever had in my life.
+If you dont try this,we'll
+I feel really bad for your taste buds.. 
+Angela

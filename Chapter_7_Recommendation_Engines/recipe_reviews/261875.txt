@@ -1,0 +1,37 @@
+Recipe number:
+261875.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-23T01:43:14.31
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3228
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were tasty but I found the banana flavor to be a bit over powering. They also did not hold up very well as bars, they are more cake-like.

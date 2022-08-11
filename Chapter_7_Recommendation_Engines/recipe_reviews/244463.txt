@@ -1,0 +1,37 @@
+Recipe number:
+244463.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-01-24T08:08:57.433
+helpfulCount:
+1
+userID:
+17155019
+Display Name:
+Braeden B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was OK because you could taste to much pineapple pulp and didn't taste sweet  enough or creamy.

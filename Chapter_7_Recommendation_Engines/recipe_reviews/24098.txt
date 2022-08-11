@@ -1,0 +1,37 @@
+Recipe number:
+24098.txt
+Review:
+Rating:
+3
+dateLastModified:
+2003-03-07T14:21:41.843
+helpfulCount:
+15
+userID:
+804137
+Display Name:
+DONNAKP
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have tried this recipe twice. Both times I have found that this in no way will make 2 pies. Maybe because I was using a deep dish pastry. The first time I tried it I thought it was way too sweet and too much coconut. I liked the taste of the custard though. So I tried it again and used half the sugar and half of the coconut. I also added a couple tablespoons of butter and it turned out great!

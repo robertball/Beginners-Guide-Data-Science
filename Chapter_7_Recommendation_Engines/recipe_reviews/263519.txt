@@ -1,0 +1,75 @@
+Recipe number:
+263519.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-04T23:27:20.027
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this! Made as written and it came out like a champ. I wasn't sure if I'd like the mint but it complimented the asparagus perfectly. That is the one good thing about asparagus..it works great with most any fresh herb. 5 stars all the way and a definite keeper!
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-02T22:42:42.84
+helpfulCount:
+1
+userID:
+9246227
+Display Name:
+manella
+isPro:
+False
+followersCount:
+169
+followingCount:
+0
+madeRecipesCount:
+343
+favoritesCount:
+1307
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6603558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, didn't change a thing.
+ Will make again.
+#Allrecipesallstarscanada
+#TasteofSpring

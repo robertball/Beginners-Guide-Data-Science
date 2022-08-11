@@ -1,0 +1,37 @@
+Recipe number:
+260513.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-14T16:50:00.693
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These crepes are good. They get pretty crispy. It’s the sauce that is so wonderful. Definitely double the sauce. It only made enough to lightly drizzle over the amount of crepes and this chocoholic needed more than a thin lime of this rich nectar. I also added strawberries because I thought it needed more fruit. Nice recipe, thanks.

@@ -1,0 +1,37 @@
+Recipe number:
+233677.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-08T08:25:53.033
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2815
+favoritesCount:
+6005
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.8.16   Nice balance of strawberries, mint, and citrus, without  one overpowering the others.  I used sparkling coconut water (La Croix® is what I had on hand), otherwise followed the recipe.  Do not rush drinking this, as the chia seeds do need some time to soften.  Not crazy about the color of this, but it does live up to being refreshing and healthy.

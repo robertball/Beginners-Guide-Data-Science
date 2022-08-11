@@ -1,0 +1,72 @@
+Recipe number:
+240240.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-05-23T19:01:46.047
+helpfulCount:
+2
+userID:
+2136414
+Display Name:
+coloradocookie
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+154
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Second time's a charm. I have made this twice. The first time I made it just as written, except I broiled the salmon instead of pan cooking it.  We did not like the contrast of cold tomatoes with the hot potatoes and fish.  We also thought the potatoes and fish needed a little more sauce. I would give it 4 stars as written.  The second time, I tweaked things more to our preferences. I broiled the salmon as before. I doubled the tomato marinade and used it to sauté the tomatoes. I then poured it over the potatoes, mushrooms and salmon.  5 stars and company level taste!
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-28T00:51:06.53
+helpfulCount:
+0
+userID:
+6859265
+Display Name:
+Joan Bruce
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+762
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2799955.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good.  No tomatoes as hubby does not like them.  I may have had the heat too high as most everything got a bit too brown (almost black).  I found it hard to have so many things going on at once.  But, the salmon turned out well:  tasty, good texture, moist.  The instructions about cooking it helped a lot re: how many minutes and how the salmon should look.

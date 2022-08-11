@@ -1,0 +1,37 @@
+Recipe number:
+245908.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-22T03:37:07.057
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+1829
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome! I used the amounts written and think the kick is perfect as a compliment oil. It's great as an oil when sautéing and as a condiment on soup. Thank you for the recipe.

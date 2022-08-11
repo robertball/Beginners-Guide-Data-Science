@@ -1,0 +1,72 @@
+Recipe number:
+273538.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-20T14:24:06.777
+helpfulCount:
+0
+userID:
+731723
+Display Name:
+SZYQ1
+isPro:
+False
+followersCount:
+60
+followingCount:
+0
+madeRecipesCount:
+639
+favoritesCount:
+3036
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4049308.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't sure what to expect from this recipe and was pleasantly surprised how much I liked this Vegan Caesar Salad Dressing. Even my husband was shocked at how flavorful it was. Made this recipe exactly as written and also found it was way too thick to be a dressing. To thin it out, I had to add water a little at a time until I reached desired consistency. Rough estimate...I think I used just a tad over 1/4 cup water. Thank you for the recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-20T19:09:36.78
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+968
+followingCount:
+0
+madeRecipesCount:
+2806
+favoritesCount:
+1840
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7739899.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious but very thick. I added some water to thin it out. Thank you for the recipe.

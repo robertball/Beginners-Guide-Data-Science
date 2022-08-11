@@ -1,0 +1,72 @@
+Recipe number:
+29561.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-10-18T17:14:54.713
+helpfulCount:
+21
+userID:
+2634095
+Display Name:
+Janie Beck
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+431
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1178393.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious!!! I served this over brown rice with garlic texas toast and stir fried crisp baby green beans!!! I highly recommend this recipe. Follow exactly as written. You will not be dissopointed! Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-05T17:56:26.89
+helpfulCount:
+0
+userID:
+13264661
+Display Name:
+Daiquiri Barringer
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2506344.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious! My kids helped make it and they said that it was "nummy" too!

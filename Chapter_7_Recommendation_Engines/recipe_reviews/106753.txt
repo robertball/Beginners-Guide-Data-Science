@@ -1,0 +1,37 @@
+Recipe number:
+106753.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-05-25T19:24:14.127
+helpfulCount:
+0
+userID:
+2957161
+Display Name:
+ccpierre17
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum! It was very tart but if you like a lemon-ice type treat, this one is for you. I may go lighter on the lemon juice next time so I don't pucker as much.:)

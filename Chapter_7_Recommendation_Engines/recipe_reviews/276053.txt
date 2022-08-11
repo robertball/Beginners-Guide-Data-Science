@@ -1,0 +1,37 @@
+Recipe number:
+276053.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-02T03:03:45.577
+helpfulCount:
+0
+userID:
+15221570
+Display Name:
+Janette Seamans
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1983224.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used leftover Thanksgiving turkey for this and it was delicious! There was a recipe problem though. I made the sauce according to this recipe with 1/2 cup milk and 1/4 cup of mayo. Those measurements are WAY off. It should probably use only a few tablespoons of milk, as the picture looks like it should be a dressing consistency. By the time I added enough mayo, ranch dressing mix, and salsa to get the right consistency and flavor, I had over 2 cups of sauce. I recommend mixing the mayo, salsa and ranch dressing mix first, then add a little milk at a time until you get the desired consistency. Other than that, the kids and I loved it.

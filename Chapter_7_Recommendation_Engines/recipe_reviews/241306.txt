@@ -1,0 +1,107 @@
+Recipe number:
+241306.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-28T05:01:09.073
+helpfulCount:
+5
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+1096
+followingCount:
+0
+madeRecipesCount:
+2888
+favoritesCount:
+1948
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8440171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice. A bit on the sweet side for me, but I easily adjusted this issue by starting off with half of each of the syrup and the sugar. I used brown rice syrup instead of maple. I was able to heat this in about two minutes on medium. Thank you chefcs for your recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-04T01:37:51.543
+helpfulCount:
+1
+userID:
+25795278
+Display Name:
+chickweedsalad
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it with half the salt, and it was too salty. I suggest making it with 1 teaspoon of salt instead.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-12T23:00:31.453
+helpfulCount:
+0
+userID:
+24726693
+Display Name:
+cream jeans
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6107328.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will definitely will make this vegan sauce agian! It was a great addition to our pig roast. Made the skin and feet so crispy!

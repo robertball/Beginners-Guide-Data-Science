@@ -1,0 +1,37 @@
+Recipe number:
+228550.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-08-13T14:15:47.163
+helpfulCount:
+5
+userID:
+12572128
+Display Name:
+Margaret Cuonzo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1661006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice!  I had some spare pasta laying around and no dessert and this recipe fixed that!  I used elbow macaroni, a can of condensed milk, and cinnamon and nutmeg instead of cardamom.  I also added a little shredded coconut that I had on hand.   The key is having the patience to wait until it goes from soup to pudding in the saucepan!  Thanks for the recipe!

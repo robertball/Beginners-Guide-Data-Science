@@ -1,0 +1,183 @@
+Recipe number:
+241460.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-11T13:09:02.79
+helpfulCount:
+3
+userID:
+18152501
+Display Name:
+Nick Russell
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first time ever making chowder it was exactly like eating at a restaurant. It tasted just like I imagined it would. I changed the fish to half a pound of lobster, three quarter pound of haddock, three quarter pound of scallops, and a pound of shrimp to make it morw chunky. it was a hit as an appetizer in a three course meal for my family.
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-29T22:16:25.07
+helpfulCount:
+2
+userID:
+20340755
+Display Name:
+Joann Moluf
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the chowder with some minor changes. 
+1. I omitted the saffron (couldn't find it at my local store)
+2. I used tilapia instead of halibut
+3. I added some imitation lobster meat I had in my freezer
+4. I added extra Half-N-Half ( texture was very thick)
+Otherwise, I followed the recipe as listed, and it was delicious! I've never made homemade chowder before, but thought It compared better than many chowders I have ordered in a restaurant! Great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-05T00:11:56.36
+helpfulCount:
+1
+userID:
+12351182
+Display Name:
+Carol
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+59
+favoritesCount:
+372
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the best chowder we have ever had. I added some fresh salmon cut in chunks and a half cup of corn kernels from fresh corn that we had the night before. I cut the garlic to two tablespoons  and added two cups of two percent milk to the half and half. I had no saffron. I used two cups of cooked lobster from our feast a few days ago (I had frozen it)
+A decadent meal served with garlic toast and salad. I will definitely make this again (if affordable)
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-19T23:14:34.64
+helpfulCount:
+0
+userID:
+14483539
+Display Name:
+Cindy Bardwell Grega
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+190
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7077391.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good. I used salmon, shrimp, scallops and lump crab meat which made it pretty expensive. Also added the Louisiana touch with some cayenne pepper and Old Bay seasoning. I will make it again. Husband loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-06T20:27:30.893
+helpfulCount:
+0
+userID:
+24579863
+Display Name:
+NicoleWB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6212229.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this recipe! Tweaked it a little bit, as to what I had on hand. But I will certainly be making this again in the future. It’s going to be great to freeze the leftover portions too!

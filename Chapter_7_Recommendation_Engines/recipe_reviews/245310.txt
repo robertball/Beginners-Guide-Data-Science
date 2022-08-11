@@ -1,0 +1,72 @@
+Recipe number:
+245310.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-07T19:43:26.797
+helpfulCount:
+1
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+There are just the two of us--plus the fact that we are older and thus don't eat quite as much as the younger folks.  I LOVE the Smithfield flavored pork tenderloins, and one can do us for three meals depending on what you make.  So if you make the Indonesian Pork Noodle Bowl and the Pork Caesar Salad from Smithfield, you still might have just a little pork left to cook up for a sandwich!  It's always nice to be able to pull that out from the freezer.  I used their herb and garlic pork tenderloin,  green onions instead of capers,  and pepper jack cheese instead of the Havarti. but otherwise pretty much followed the recipe.  I BBQ'd the meat earlier, and then I put the sandwiches together using the stove to cook them up.  Next time I would just butter the bread on the outside because they were a little greasy from the olive oil.  But otherwise, YUM!  Thanks, Smithfield, for another wonderful dinner tonight!
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-23T22:55:08.84
+helpfulCount:
+0
+userID:
+6595951
+Display Name:
+Candace Hanson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect, simple, quick, lots of interesting flavors! Definitely will make it again. We used ciabatta rolls which worked beautifully. We buttered the outside of the rolls.  Served with crispy dill pickles and pickled red onion.

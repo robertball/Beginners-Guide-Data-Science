@@ -1,0 +1,287 @@
+Recipe number:
+242391.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-06T20:42:49.15
+helpfulCount:
+2
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out well--very easy to tweak. I replaced 1 c AP flour with whole wheat flour, only used 2 c white sugar, 1/2 c oil and 1/2 c applesauce. I probably won't drain so much juice out of the canned pineapple next time. The bread came out moist and tasty. Like with most quick breads, the flavor really came through the next day. I will try this one again.
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-04T22:54:57.737
+helpfulCount:
+2
+userID:
+20317153
+Display Name:
+Amanda Jarman
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3880208.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a really good one. My kid is the pickiest eater. She tried it and loved it. the only thing I did different was put chocolate chips in it instead of nuts. I Will be making this again. I also had to cook it for 1 hour and 30 minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-07T15:22:19.427
+helpfulCount:
+1
+userID:
+23490189
+Display Name:
+Anita Crawford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5242373.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The perfect bread
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-08T17:35:30.87
+helpfulCount:
+0
+userID:
+1971456
+Display Name:
+Marci Banes
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+98
+favoritesCount:
+1479
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4655600.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good! Quick and easy and a tasty way to use squash from the garden.  Next time I am going to steam the squash, puree and then add it to the egg mixture.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-03T23:10:19.91
+helpfulCount:
+0
+userID:
+25912771
+Display Name:
+dresden
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As I was chatting on the phone while preparing...
+I accidentally added a larger can of crushed pineapple. 
+So I then added a little more of all the ingredients except the sugar, in hopes I had not ruined it! 
+I was pleasantly pleased the bread was so moist & delicious! Everyone loved it!! 
+Thank you for the recipe!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-03T14:00:40.11
+helpfulCount:
+0
+userID:
+23356215
+Display Name:
+Kathy Mallette
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7683167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Recipe was perfect. It turned out perfect. now I have something I can make with all the squash out of my garden. Thank you.
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-02T06:36:05.48
+helpfulCount:
+0
+userID:
+13362978
+Display Name:
+Pearl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A bit too sweet for me personally but everyone  was generally happy with it. Very easy to make.
+I have also tried adding whole blackberries to give it little bits of  tartness.
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-18T19:14:27.753
+helpfulCount:
+0
+userID:
+6211648
+Display Name:
+MommaG
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+153
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Definitely on the sweet side but very good.  Since I had 3cups of squash I adjusted the recipe and used a slightly smaller loaf pan.  So I was able to make 4 loaves.  Two were the regular recipe and two I added blueberries too. Loved the blueberry addition.  I will certainly make this again.

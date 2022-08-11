@@ -1,0 +1,37 @@
+Recipe number:
+277904.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-02-09T13:53:53.99
+helpfulCount:
+0
+userID:
+8633474
+Display Name:
+Paula Glidden
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+103
+favoritesCount:
+734
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4038897.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it, though it needs garlic, and spice. I didn't have herb de provence, so I used italian seasoning. I would add more meat next time.

@@ -1,0 +1,107 @@
+Recipe number:
+212440.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-11-14T00:44:22.46
+helpfulCount:
+21
+userID:
+2642446
+Display Name:
+*Laura*
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+565
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/162.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Hi all. This is my recipe. You MUST add approx. 2 oz pork fat before grinding. Venison is very lean. The sausage may still be a bit lean, so the amount of pork fat added can be varied. Have fun and I hope you enjoy!
+Review:
+Rating:
+5
+dateLastModified:
+2011-05-11T12:19:28.48
+helpfulCount:
+5
+userID:
+4305435
+Display Name:
+Peggy MacArthur Arteberry
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2572212.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The pepper bacon adds enough fat... and it's wonderful!  No cumbly at all.
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-16T18:55:09.55
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9644
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2252
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I left out the anise due to personal preference. This was a great way to make use of the venison in the freezer. A couple of notes however, 1 tablespoon of chipotle powder, 1 teaspoon of crushed chili flakes, and pepper bacon translates to SPICY. I recommend cutting the chipotle in half. The other thing is while fennel works well with venison, I'd use sage instead next time to give it more of that breakfast sausage flavor. I used this immediately but think it would be best refrigerated overnight  to let all of the flavors marry.

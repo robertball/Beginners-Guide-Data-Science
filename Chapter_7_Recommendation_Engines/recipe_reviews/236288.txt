@@ -1,0 +1,107 @@
+Recipe number:
+236288.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-02-05T05:39:58.707
+helpfulCount:
+3
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Absolutely delicious. Even better with vodka.
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-19T11:06:01.117
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1120
+favoritesCount:
+2298
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used fresh pineapple & strawberries. I added a small can of pineapple juice to make up for using fresh pineapple instead of canned with juice. This is a nice, refreshing and tasty smoothie.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-07T14:04:58.32
+helpfulCount:
+0
+userID:
+15864347
+Display Name:
+beverly
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+206
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious but on the sweet side

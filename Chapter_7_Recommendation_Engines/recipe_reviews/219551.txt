@@ -1,0 +1,37 @@
+Recipe number:
+219551.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-21T07:45:43.143
+helpfulCount:
+30
+userID:
+2713558
+Display Name:
+Jillian
+isPro:
+False
+followersCount:
+551
+followingCount:
+0
+madeRecipesCount:
+2420
+favoritesCount:
+6771
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/209339.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious sandwich with a wonderful Mediterranean flair!  You could easily use pita or bagels - whatever you have on hand to make these little treats.  I used "Hummus IV" from this site and added a little feta cheese. I chose not to cut these up, but rather my husband and I ate them as sandwiches. Very easy and very filling!

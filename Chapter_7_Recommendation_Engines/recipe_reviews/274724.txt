@@ -1,0 +1,75 @@
+Recipe number:
+274724.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-19T13:48:48.44
+helpfulCount:
+0
+userID:
+15164006
+Display Name:
+Lonnie Ballard
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7316795.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+SImple, juicy, tender, full of flavor (I used a bbq rub from Buc-ee's). Temperature probe to 165. PERFECTLY DONE.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-09T20:16:51.533
+helpfulCount:
+0
+userID:
+11243234
+Display Name:
+Gary Cassady
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+905
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2688901.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the best way to grill a whole chicken ?? with this exception. You do not have to remove the backbone.
+With good rugged kitchen shears put the chicken on the board breast side down. Now cut all the way through one side of the backbone. Open the chicken up and slice the skin along one side of  the breast this will allow it to lay flat on the grill.
+Seas9n that side (inside ) well and flip over to the skin side and season as well. Spray skin with olive oil.
+Grill skin side up - slow and low until done. The skin should be crispy.

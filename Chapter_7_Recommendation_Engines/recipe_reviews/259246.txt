@@ -1,0 +1,72 @@
+Recipe number:
+259246.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-26T02:39:32.747
+helpfulCount:
+6
+userID:
+1917973
+Display Name:
+LML
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+114
+favoritesCount:
+180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, cakey little cookies. I didn’t have lemon extract so used 8 drops of lime essential oil. Yum! Thanks for a great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-28T16:37:38.147
+helpfulCount:
+0
+userID:
+12526517
+Display Name:
+Patricia Domitz Smith
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+223
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2880352.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn’t have lemon extract so I used Orange. Used butter flavored coconut butter. They are yummy!

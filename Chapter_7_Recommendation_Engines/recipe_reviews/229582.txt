@@ -1,0 +1,107 @@
+Recipe number:
+229582.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-12-28T07:28:05.273
+helpfulCount:
+2
+userID:
+5207334
+Display Name:
+Lanie Pie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+In my humble opinion..... I think it would be better if instead of bisquits  yeast rolls were used and way too much sauce for dish.
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-02T07:19:56.713
+helpfulCount:
+1
+userID:
+318976
+Display Name:
+Qhhunters
+isPro:
+False
+followersCount:
+67
+followingCount:
+0
+madeRecipesCount:
+137
+favoritesCount:
+88
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2740383.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I halved this recipe and baked it in a loaf pan.  I also cut the biscuits in half and then into 3rds. Layered 2 layers of biscuits sprinkled with blueberries. Baking time was a bit off, baking it 40 minutes and it still was a bit soft in middle.  We didn't make the glaze, plenty sweet like this.  Husband approved!
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-13T09:37:55.253
+helpfulCount:
+0
+userID:
+15728318
+Display Name:
+Kent Flake
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3315970.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made per recipe and added some home made blueberry simple syrup. Very easy and disappeared quick.

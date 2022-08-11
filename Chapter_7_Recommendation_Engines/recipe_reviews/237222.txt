@@ -1,0 +1,37 @@
+Recipe number:
+237222.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-24T11:29:11.803
+helpfulCount:
+1
+userID:
+7377833
+Display Name:
+blueberre
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just went dairy free on Dr. recommendation. This really fills the spot for ice cream.  I'm not much of a sweet tooth though, so I did not add the corn syrup and cut back just a bit on the agave syrup. Delicious!

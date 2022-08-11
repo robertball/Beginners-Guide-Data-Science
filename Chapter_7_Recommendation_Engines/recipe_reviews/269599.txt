@@ -1,0 +1,37 @@
+Recipe number:
+269599.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-12T15:55:19.293
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and while these were not bad, they were not great either. They are quite expensive to make and a lot of fuss. With that being said, they walnuts gave the olives a nice crunch that held up well but the flavor gets completely lost. All you can  taste is the green olive. I could have saved myself a lot of time and money by just popping the top off the olives and eating them straight out of the jar.

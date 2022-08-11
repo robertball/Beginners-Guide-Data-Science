@@ -1,0 +1,107 @@
+Recipe number:
+228260.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-28T23:28:39.76
+helpfulCount:
+9
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was good and it was even better the next day. Only change I made was cutting the red peppers and onions in half and I used red onion diced small. Next time I would just cut back the onions only. I would also probably add more green beans. I used canned and they worked very well with this dressing. I liked the green beans more than the beans. This is a basic and good all purpose recipe for a classic bean salad. I might experiment with other beans also as suggested of a smaller type. I got about 4 servings.
+Review:
+Rating:
+4
+dateLastModified:
+2013-07-02T16:41:00.883
+helpfulCount:
+6
+userID:
+10695892
+Display Name:
+Dgambone
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this recipe and my family did as well. I changed the lima beans, which we don't care for, to Edamame (frozen shelled) which adds a lot of protein.
+Review:
+Rating:
+3
+dateLastModified:
+2013-11-09T08:48:34.963
+helpfulCount:
+4
+userID:
+10885152
+Display Name:
+Sana A
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was okay. I forgot to add sugar, and estimated the amount of ingredients because I was too lazy to measure them out. It was easy to make, but not the tastiest salad I've ever had.

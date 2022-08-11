@@ -1,0 +1,107 @@
+Recipe number:
+277036.txt
+Review:
+Rating:
+2
+dateLastModified:
+2020-02-04T00:37:44.07
+helpfulCount:
+0
+userID:
+13373162
+Display Name:
+allgold
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Soooo disappointed. Made this because I'm on the Weight Watchers Purple plan and sweet potatoes are free and most ingredients are free on this recipe. However, it was way too spicy and not a pleasing spice.  It took a long time and was not worth the mess with smashing the potatoes with the immersion blender, etc.  I like spices a lot. This was not a good combo.  Will look for another recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-09T22:34:21.453
+helpfulCount:
+0
+userID:
+15437512
+Display Name:
+Jerry Gervais
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2106228.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought it was just ok, Mine also needed another 1/2 cup of broth. Its not what I consider a big hearty soup, but with a sandwich for a lunch it would be alright. The taste reminds me of a squash soup,or pumpkin pie soup. I made no changes to any ingredients except the broth, as it was  a large sweet potato and was to thick.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-07T00:34:59.537
+helpfulCount:
+0
+userID:
+11630507
+Display Name:
+Bob Montgomery
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1713648.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty.  Perhaps my sweet potato was too big, but I needed to add another half cup of stock to make it the proper consistency.

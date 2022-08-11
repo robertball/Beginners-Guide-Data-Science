@@ -1,0 +1,38 @@
+Recipe number:
+219140.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-04-15T09:10:15.26
+helpfulCount:
+3
+userID:
+2822772
+Display Name:
+littlegoose
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sounds awesome! Hope to try it out soon. Would you also consider posting your recipes for Cockroach Clusters and Pumpkin Pasties, as well? They sound very intriguing. Please also describe the vegetable wands and if there's a recipe involved, post it.
+A Thankful Muggle

@@ -1,0 +1,72 @@
+Recipe number:
+231688.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-06-13T13:02:58.747
+helpfulCount:
+2
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a few minor changes, so I am rating it as I prepared it, not as written. Changes: I used a 7.5 oz can of salmon instead of a 5 oz fillet. I doubled all the other ingredients except the onion and garlic because I was worried too much of the raw veggies would overpower the other flavors. I cooked the lentils in half chicken broth and half water for more flavor. I used regular bacon and white onion. Specifics: Since it doesn't specify which kind of lentils or mustard, as an FYI, I used red lentils and dijon mustard. It was really good. I'll probably start making this regularly.
+Review:
+Rating:
+4
+dateLastModified:
+2013-09-23T12:49:57.43
+helpfulCount:
+1
+userID:
+10739312
+Display Name:
+Rocío
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have done it twice,. Its soo good.. I

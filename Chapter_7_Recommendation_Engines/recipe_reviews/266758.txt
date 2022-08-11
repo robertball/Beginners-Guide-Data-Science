@@ -1,0 +1,37 @@
+Recipe number:
+266758.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-29T21:16:25.28
+helpfulCount:
+0
+userID:
+26056693
+Display Name:
+KidChef
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6982282.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was really good would definitely make again

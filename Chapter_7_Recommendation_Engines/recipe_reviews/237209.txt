@@ -1,0 +1,72 @@
+Recipe number:
+237209.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-12T10:12:11.443
+helpfulCount:
+1
+userID:
+20398145
+Display Name:
+James Nipsy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Since I am Veg, I made it without the chicken but it still came out great. the kids loved it and I will now make it a regular.
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-30T16:39:54.953
+helpfulCount:
+0
+userID:
+9550403
+Display Name:
+Jennifer Aleman
+isPro:
+False
+followersCount:
+7279
+followingCount:
+0
+madeRecipesCount:
+207
+favoritesCount:
+831
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6012647.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All my family enjoyed these quesadillas. The only thing I didn't add was the chili powder because I have 2 little girls and they don't like too much heat in their food. I used a red bell pepper that made the food more colorful. I didnt add any bell pepper to the Pico the Gallo because that's not the common way people have it in Mexico. I served it with Charro Beans (Frijoles Charros).

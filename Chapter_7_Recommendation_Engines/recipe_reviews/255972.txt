@@ -1,0 +1,107 @@
+Recipe number:
+255972.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-01T18:36:38.293
+helpfulCount:
+3
+userID:
+8614532
+Display Name:
+bosemell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+256
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it, but my kids didn't. I made homemade crust. I will make it again when my kids are older to see if they like it better.
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-18T17:25:16.82
+helpfulCount:
+0
+userID:
+20204136
+Display Name:
+Essentially Me
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved this meal! I did make a few changes. I used turkey sausage instead of regular sausage and added turkey bacon. I also only used a cup of vegetables. I put aluminum foil around the edges for all except the last 10 mins and it came out perfect.
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-25T16:49:48.417
+helpfulCount:
+0
+userID:
+11249464
+Display Name:
+Tracy Food
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+319
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it for Christmas Breakfast. Good different kind if breakfast. I added 1 can broccoli cheese soup. The family liked it.

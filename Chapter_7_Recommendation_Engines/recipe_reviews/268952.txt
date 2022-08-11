@@ -1,0 +1,72 @@
+Recipe number:
+268952.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-15T07:28:14.77
+helpfulCount:
+0
+userID:
+20023466
+Display Name:
+Sean Kennedy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3769026.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+About 4 cups of oats makes 2 cups of oat flour FWIW. I added 1/3 of cup of molasses and added another teaspoon of ginger because I love ginger. I also added some vanilla and a dash of nutmeg and cloves. 15 minutes worked perfect. The cookies turned out perfectly. Thanks for the share.
+Review:
+Rating:
+1
+dateLastModified:
+2019-01-25T17:04:55.423
+helpfulCount:
+0
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+2005
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I hate to give this such a bad rating, but this recipe just did not work for me. I followed it exactly, and ended up with a lace cookie that tasted only of sugar. The description describes these as being thin and crunchy, but they are waaayy thin. They spread out massively while baking, so I could only do 6 on a cookie sheet at a time--and if they were baked more than 12 minutes, they tasted burnt. I was hopeful that they'd taste ok even after spreading out so bad, but the spices and molasses flavor gets lost in all the sugar taste. I don't think I'll make these again. Sorry.

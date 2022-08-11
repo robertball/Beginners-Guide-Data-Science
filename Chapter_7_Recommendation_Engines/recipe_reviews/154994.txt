@@ -1,0 +1,37 @@
+Recipe number:
+154994.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-04-25T14:53:12.123
+helpfulCount:
+1
+userID:
+1981442
+Display Name:
+Autumn
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+177
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/71554.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and very easy. I added a little cayenne pepper to give it a little heat and served it over jasmine rice.I think next time I might add some pinapple thanks so much for a quick and easy meal.

@@ -1,0 +1,72 @@
+Recipe number:
+246655.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-21T00:52:14.023
+helpfulCount:
+1
+userID:
+22835374
+Display Name:
+James Milne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+98
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used romaine and green string beans-  awesome!
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-30T04:09:21.563
+helpfulCount:
+0
+userID:
+5570979
+Display Name:
+rachel93
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this - added roasted squash. It was divine! I won't use radicchio next time because personally I don't enjoy the flavor too much, but the roasted endive was perfection. This is a keeper!

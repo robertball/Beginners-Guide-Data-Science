@@ -1,0 +1,72 @@
+Recipe number:
+258770.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-18T05:10:11.66
+helpfulCount:
+1
+userID:
+23490836
+Display Name:
+Tyler’s Mommy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5242902.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought these were supposed to be more like little doughnuts, but they turned out to be little cookies. No matter, though, they were delicious! I made them for my son’s ancestry holiday program at school and the plate was EMPTY after 5 minutes! The only change I made was to add about a cup of water to the dough because it was too crumbly as is. Otherwise, I followed the recipe exactly and they were great! Thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-03T06:10:45.777
+helpfulCount:
+0
+userID:
+6372757
+Display Name:
+Debbie CAL
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+789
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Struffoli is fried till the balls light and crispy throughout.. I make them about the size of a ceci bean (chickpea). The taste and texture are similar to the crispy ends of a funnel cake  The honey hardens to a taffy consistency. You eat them by picking them off the wreath shape and so you can nibble at them while sitting around the table.  It is great with coffee or after dinner drinks. Also fun to just have at the sideboard during holiday time. It’s an Italian pastry, but, you sort of eat it like a candy

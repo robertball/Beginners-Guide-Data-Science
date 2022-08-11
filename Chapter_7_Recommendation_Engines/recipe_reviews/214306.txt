@@ -1,0 +1,37 @@
+Recipe number:
+214306.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-07-10T05:03:40.227
+helpfulCount:
+0
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1714
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used sugar free pudding, fat free milk and "free" Cool-Whip topping. I didn't use the cookies in mine, only my husband's and the kids. We all loved it, especially me. It was almost like a mocha mousse. I bet this would make a great frozen treat, like a Fudgesicle.

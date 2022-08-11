@@ -1,0 +1,107 @@
+Recipe number:
+161614.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-06-17T04:30:25.507
+helpfulCount:
+6
+userID:
+5157918
+Display Name:
+Gail Battle
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3607446.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Black eyed peas may be good, but my Bahamian family uses pigeon peas.  Yum!
+Review:
+Rating:
+4
+dateLastModified:
+2012-06-20T15:56:05.063
+helpfulCount:
+6
+userID:
+8371368
+Display Name:
+yungmama
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good with lots of modifications. I used 8 oz of tomato sauce, 4 oz of tomato paste, 6 cups of chicken broth in substitution for water, orange bell pepper, 2 tsp of fresh thyme, a pinch of cayenne pepper and a 1/4 cup of grated parmesean cheese. Not sure how she got her measurements. If I had only used 4 cups of liquid it would have dried up and burned within minutes. Made at least 8 servings..
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-14T10:33:50.423
+helpfulCount:
+0
+userID:
+17393742
+Display Name:
+Ironi Senegal
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3410043.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very yummy way to make black eyed peas ! I actually cooked my grits first and did the sauce separate and drizzled it on top at the end ! I also added a little sugar to the sauce

@@ -1,0 +1,37 @@
+Recipe number:
+256792.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-24T14:55:02.757
+helpfulCount:
+0
+userID:
+6803423
+Display Name:
+sweetboys
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made the recipe exactly as written.  Everyone really liked it but agreed you cannot eat a lot of it.  It is packed with flavor.  You definitely need to have a good portion of the cream cheese with a bite of the peach topping otherwise the peach topping would be way too overpowering.  But together they are tasty.  I served it with bagel chips which seemed to be a good combination.

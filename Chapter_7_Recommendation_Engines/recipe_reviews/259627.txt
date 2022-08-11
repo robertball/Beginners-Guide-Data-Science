@@ -1,0 +1,37 @@
+Recipe number:
+259627.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-29T18:01:10.307
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a refreshing lunch! I made a half batch exactly as written and a half batch with radishes instead of jalapenos. This traveled very well and is actually quite easy to eat with your hands. The chicken salad yielded much more than just for three baby bell peppers (mine were shallow).

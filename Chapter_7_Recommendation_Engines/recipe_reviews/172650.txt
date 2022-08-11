@@ -1,0 +1,107 @@
+Recipe number:
+172650.txt
+Review:
+Rating:
+3
+dateLastModified:
+2009-09-28T14:24:31.467
+helpfulCount:
+3
+userID:
+2978108
+Display Name:
+KitchenWitch
+isPro:
+False
+followersCount:
+62
+followingCount:
+0
+madeRecipesCount:
+143
+favoritesCount:
+271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/669644.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not what I expected from a lace cookie. The batter was very stiff... and the cookies came out very thick. Crunchy, not thin and crispy. I tried to flatten them out as much as I could, to no avail. A little less flour might help? I wouldn't wait an entire minute before shaping, they harden fast.
+Review:
+Rating:
+2
+dateLastModified:
+2011-01-09T14:38:35.987
+helpfulCount:
+2
+userID:
+863358
+Display Name:
+Sheryl Strasburg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1383613.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These not only didn't turn out but they didn't taste good.  I followed the recipe exactly and they didn't spread and they stuck to the silpat I used.  I didn't know anything stuck to silpat??? I won't make these again.
+Review:
+Rating:
+5
+dateLastModified:
+2014-01-07T11:17:47.63
+helpfulCount:
+0
+userID:
+12853788
+Display Name:
+Mr Nice Guy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are fantastic, really tasteful. Great recipe, looking more from you

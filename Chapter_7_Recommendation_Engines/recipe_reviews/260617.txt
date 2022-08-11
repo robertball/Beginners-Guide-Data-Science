@@ -1,0 +1,37 @@
+Recipe number:
+260617.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-21T00:07:57.487
+helpfulCount:
+1
+userID:
+9292325
+Display Name:
+Bren
+isPro:
+False
+followersCount:
+220
+followingCount:
+0
+madeRecipesCount:
+553
+favoritesCount:
+910
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3216287.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this. I cut the portions back to 1 and used large shrimp instead of lobster, it's too pricey here. I used Italian flavoured bread crumbs, it''s all that I had. The shrimp were added at the end of the cooking time, 2-3 minutes. Thanks for sharing.

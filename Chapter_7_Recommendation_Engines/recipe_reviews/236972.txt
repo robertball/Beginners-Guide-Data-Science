@@ -1,0 +1,37 @@
+Recipe number:
+236972.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-05T13:48:35.393
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A subtle marinade with a touch of smoky sweetness. I tossed in some hot peppers and used apple cider vinegar instead of sherry. The tea really does just add a hint of smoky flavor, what a good idea. Thank you for the recipe.

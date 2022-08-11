@@ -1,0 +1,37 @@
+Recipe number:
+220022.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-04-07T15:47:38.667
+helpfulCount:
+1
+userID:
+2247181
+Display Name:
+Mary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/845701.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was given some Chipotle vodka and found this recipe to try it in. No passion fruit puree in the pantry so I pureed pulp from 1 orange and added pomegranate/cranberry juice. It was out of this world yummy! Sweet, with a bit of heat.

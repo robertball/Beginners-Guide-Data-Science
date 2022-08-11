@@ -1,0 +1,37 @@
+Recipe number:
+231599.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-03-09T17:41:19.75
+helpfulCount:
+1
+userID:
+2618261
+Display Name:
+Deb
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+104
+favoritesCount:
+216
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was alot of work and created a big, big mess.  I thought the flavor was good.  Boyfriend didn't like it. I seasoned the chicken with salt, pepper and garlic powder before I mixed it in the batter.  I won't make this again.

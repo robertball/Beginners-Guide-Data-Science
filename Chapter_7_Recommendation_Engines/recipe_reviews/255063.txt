@@ -1,0 +1,37 @@
+Recipe number:
+255063.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-06T15:27:53.21
+helpfulCount:
+0
+userID:
+12072992
+Display Name:
+Meagan Stratton
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The lemon zest is important to this so don't skip it. It was so delicious. I am saving this recipe.

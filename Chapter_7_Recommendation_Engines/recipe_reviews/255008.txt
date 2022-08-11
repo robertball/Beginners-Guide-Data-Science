@@ -1,0 +1,37 @@
+Recipe number:
+255008.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-26T04:11:21.1
+helpfulCount:
+0
+userID:
+2614538
+Display Name:
+Eva Persson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7198405.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a party, I won first place for it. I didn't have enough unsalted butter so I used shortening, turned out great. I also used a combination on apples, two granny smiths, two jonagolds and one honey crisp.

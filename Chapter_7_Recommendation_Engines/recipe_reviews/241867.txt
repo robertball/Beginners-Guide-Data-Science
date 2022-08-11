@@ -1,0 +1,107 @@
+Recipe number:
+241867.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-04T01:54:14.43
+helpfulCount:
+5
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious dish.. the higher milk to egg ratio made this very creamy rather than firm and I liked that a lot.  I cut back on the cheese a bit as well.   Right now the recipe show 1/2 CUP of dry mustard when the personal recipe shows 1/2 tsp.. Please dont use 1/2 cup of dry mustard...that would be a disaster
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-25T20:27:25.683
+helpfulCount:
+0
+userID:
+23341834
+Display Name:
+Christopher Don
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5136097.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+made it! was awesome fed 4 with half the pan left to go. ended up cooking it at 350 for an hour. I will be making this again.
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-28T16:46:17.267
+helpfulCount:
+0
+userID:
+16014784
+Display Name:
+April Clark
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+54
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe and liked it except for the cornflake topping.  we ended up scraping off the corn flakes and the rest was good.

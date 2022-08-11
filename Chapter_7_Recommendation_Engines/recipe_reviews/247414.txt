@@ -1,0 +1,37 @@
+Recipe number:
+247414.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-12T18:27:44.473
+helpfulCount:
+0
+userID:
+5118896
+Display Name:
+fabeveryday
+isPro:
+False
+followersCount:
+195
+followingCount:
+0
+madeRecipesCount:
+495
+favoritesCount:
+424
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4270835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This could not have been an easier dip to whip up. Quick and foolproof! I used a little extra honey (a total of 2 tablespoons) to add some additional sweetness.

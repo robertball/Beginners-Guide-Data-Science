@@ -1,0 +1,148 @@
+Recipe number:
+10081.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-01-05T12:48:16.26
+helpfulCount:
+5
+userID:
+1868727
+Display Name:
+Tracy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty runny batter. Turned out to be pretty flat cookies which were fine. I topped with orange cream cheese frosting. I left out the walnuts. Got lots of complements!
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-15T10:44:04.79
+helpfulCount:
+4
+userID:
+1538923
+Display Name:
+Tesslyn Mustain
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+250
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7015164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing!  I used whole-wheat flour for the all-purpose flour.  I used 1 can carrots (drained) that I pureed along with a handful of raw baby carrots, grated. I juiced some Cuties oranges, and used the fresh juice in the batter & frosting.  In the frosting I added some Grand Mariner.  Baked as instructed- they came out perfect- soft- not hard.  Cooled then frosted.  I WILL make these again!
+Review:
+Rating:
+5
+dateLastModified:
+2010-03-07T14:32:42.067
+helpfulCount:
+3
+userID:
+2585085
+Display Name:
+ConnieCooksfor8
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+loved this simple recipe. i used canned carrots, mushed up before adding, because i had extra on hand. and to adjust for high altitude, i added 1/4 cup more orange juice and 2 T flour. topped with store bought cream cheese frosting. i made a tray of these for teacher appreciation at my kids' school - they were a huge hit!  am making again and again! Thank you Debbie Rowe!
+Review:
+Rating:
+4
+dateLastModified:
+2013-01-26T12:59:53.303
+helpfulCount:
+0
+userID:
+3748828
+Display Name:
+Madonna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Well I used fresh grated carrots , 1/2 cup. 
+The mixture turned out very dense and I could roll them
+Into balls. They stayed that way. Took about 18
+Minutes to bake. I used 1/2 cup brown sugar and
+1/3 cup honey. 
+The cookie balls turned out okay. 
+I'll make them again.

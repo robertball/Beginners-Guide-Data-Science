@@ -1,0 +1,31 @@
+URL:
+https://www.allrecipes.com/personal-recipe/64608445/maxztest1/
+Title:
+MaxZTest1 Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+TESTING 1
+TESTING 2
+
+Directions:
+TESTING 2
+
+Submitter: 
+ARMax
+Description: 
+TESTING1
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+5
+Ready in:
+3
+Number of servings: 
+4
+Nutritional Facts:
+NA

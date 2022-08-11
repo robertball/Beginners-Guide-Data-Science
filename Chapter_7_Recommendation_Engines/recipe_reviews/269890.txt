@@ -1,0 +1,177 @@
+Recipe number:
+269890.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-11T22:44:17.46
+helpfulCount:
+4
+userID:
+15800344
+Display Name:
+Indiana Linda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow.  I just finished making these and thought they were just WONDERFUL.  I didn't use cauliflower or asparagus (didn't have), and added red onion chunks.  Actually I bought the veggies already skewered, and added 1-inch Korean style meatballs (fully cooked).  Also added a little balsamic vinegar to the oil.  Taste was out of this world.  May try smoked sausage with the veggies next time.  Thank you so much for sharing your wonderful recipe!!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-08T11:38:21.183
+helpfulCount:
+1
+userID:
+11993224
+Display Name:
+David Goddard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+On my journey to vegetarian and losing 30 lbs I needed a healthier snack this was a great way to eat smarter. New to air frying the spice and oil ratios were very helpful, though I used ghost pepper salt with whatever veggies I had in the fridge. Carrots Brussel sprouts chili peppers broccoli all great cucumbers not so much oh well I had to try.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-19T23:46:51.653
+helpfulCount:
+1
+userID:
+24654348
+Display Name:
+Lisa H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I omitted the mushrooms and used my rotisserie basket. Kept everything the same. My husband loved this and it had a couple veggies he didn't think he would like.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-03T00:31:48.24
+helpfulCount:
+1
+userID:
+24710479
+Display Name:
+Lisa Gattel Chanzit
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6095758.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I increased the air fryer time to about 12-13 minutes.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-23T19:48:19.74
+helpfulCount:
+0
+userID:
+21614207
+Display Name:
+Mimi SoBeat Adams
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6517618.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delish...this was quick, easy and very tasty.

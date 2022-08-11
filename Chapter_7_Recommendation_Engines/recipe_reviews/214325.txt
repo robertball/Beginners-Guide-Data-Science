@@ -1,0 +1,72 @@
+Recipe number:
+214325.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-05-31T13:11:24.65
+helpfulCount:
+3
+userID:
+2763379
+Display Name:
+kimmy schmidt
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+1031
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/309254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this was yummy instead of just using it as a dip. i topped my strawberry cakes with it and it turned out awesome. i just bake a cake mix ( white, yellow or strawberry) than while warm poke holes in it and pour warmed strawberry sauce over top and let cool than top with this dip and cool more.
+Review:
+Rating:
+5
+dateLastModified:
+2010-09-21T06:47:03.33
+helpfulCount:
+0
+userID:
+1423621
+Display Name:
+Neely Swob Ursery
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+138
+favoritesCount:
+310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3299960.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So rich and creamy, I could eat this with a spoon.  Change nothing.  It's perfect as is.

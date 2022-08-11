@@ -1,0 +1,37 @@
+Recipe number:
+273545.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-05-24T18:37:42.877
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5753
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+6004
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5.24.19  My blueberries were not soft after 30 seconds at high, so I gave them another 10 seconds (timing will always vary depending on the power of your microwave).  I must say this certainly was simple and was a small dessert for two after lunch today.  Needless to say, you won’t get the crispy crunchiness on the topping that you get with baking, but all in all, it tasted pretty good.  Just a little on the dry side, so if I make again, I’d probably bump up the butter a bit in the oatmeal topping.

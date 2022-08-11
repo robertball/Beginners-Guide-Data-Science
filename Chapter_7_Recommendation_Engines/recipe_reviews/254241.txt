@@ -1,0 +1,72 @@
+Recipe number:
+254241.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-03T18:13:42.383
+helpfulCount:
+0
+userID:
+10769215
+Display Name:
+staub.julie@gmail.com
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No Sumac, no pine nuts and substituted red onion for green onion, dried herbs substituted for fresh ones and still tasted amazing
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-27T14:24:39.427
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I did not use the pine nuts out of personal preference. This is excellent! Even though I loved the amount of dill in it I think it might be a little bit too much for most. Use your own judgement  there. This paired very nicely with the lamb chops I made but would work great with many different things. Definitely a keeper!

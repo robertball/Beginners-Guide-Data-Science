@@ -1,0 +1,72 @@
+Recipe number:
+280358.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-05-31T15:18:40.243
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved the flavor combo in this. I used red potatoes so I left the peels on. I do think  an hour and 15 minutes would have been too long of a cook time. I cooked them covered for 30 minutes then uncovered and cooked 20 minutes and they were plenty roasted. Overall good recipe and one I would make again.
+Review:
+Rating:
+5
+dateLastModified:
+2020-06-03T18:16:43.093
+helpfulCount:
+0
+userID:
+27619939
+Display Name:
+Pam Sloan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I also added parsnips and beets. All veggies were fabulous!

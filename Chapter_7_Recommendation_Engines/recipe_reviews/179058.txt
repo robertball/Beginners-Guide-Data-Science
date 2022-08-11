@@ -1,0 +1,122 @@
+Recipe number:
+179058.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/05/2010
+helpfulCount:
+6
+userID:
+souplovingnicole
+Display Name:
+Soup Loving Nicole
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/930778.jpg
+text:
+This was a great soup. I did add some sesame oil to the beef while frying and then added some mushrooms in the end but all in all it was colorful, light, and tasty and one I will make often.
+Review:
+Rating:
+4
+dateLastModified:
+01/31/2012
+helpfulCount:
+5
+userID:
+23220
+Display Name:
+Tina Beer
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1907535.jpg
+text:
+Very good and easy.
+Review:
+Rating:
+4
+dateLastModified:
+01/08/2012
+helpfulCount:
+5
+userID:
+8517005
+Display Name:
+Tammy McGrail
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8103674.jpg
+text:
+Great! We added a tablespoon of Hoisin sauce at the end, and it really kicked it up a notch. Fast and easy recipe.
+Review:
+Rating:
+5
+dateLastModified:
+01/14/2011
+helpfulCount:
+4
+userID:
+5414706
+Display Name:
+Oldster
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Although time consuming it’s easy to make.  What a great taste.  Everything just blends in.  I used Toasted Sesame Seed Oil instead of Olive Oil, it really spiced it up.
+Review:
+Rating:
+4
+dateLastModified:
+07/07/2011
+helpfulCount:
+4
+userID:
+928643
+Display Name:
+LoveIsTheAnswer
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+It was good, but it became great when we added pearl onions and spiced it up with crushed red pepper.
+Review:
+Rating:
+5
+dateLastModified:
+05/10/2012
+helpfulCount:
+3
+userID:
+malcriada
+Display Name:
+malcriada
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/944582.jpg
+text:
+Great recipe! I replaced the steak and beef broth with chicken and chicken broth. Took the advice of other reviewers and added a tbsp each of hoisin sauce and sesame oil. Awesome! I also topped it off with fresh bean sprouts, basil, cilantro and green onion before serving. This recipe is definitely a keeper.
+Review:
+Rating:
+3
+dateLastModified:
+03/11/2010
+helpfulCount:
+3
+userID:
+4660051
+Display Name:
+k
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Sorry but the beef soup was too bland for my taste.  Next time I'll try with chichen broth & chichen.
+Review:
+Rating:
+1
+dateLastModified:
+05/25/2011
+helpfulCount:
+3
+userID:
+3191586
+Display Name:
+cakes
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This really lacked flavor. Pretty boring.

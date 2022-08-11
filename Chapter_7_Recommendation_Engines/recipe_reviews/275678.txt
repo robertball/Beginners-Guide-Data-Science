@@ -1,0 +1,40 @@
+Recipe number:
+275678.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-06T20:12:05.22
+helpfulCount:
+4
+userID:
+13217332
+Display Name:
+skylar blue
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+95
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes great...and easy enough.
+One BIG step missing though...
+After you bread the tomatoes, let them sit on a rack for 10 minutes before you fry them. The breading then has time to adhere to whatever you're frying and less breading falls off during the process. 
+This is true for all breaded and fried foods.

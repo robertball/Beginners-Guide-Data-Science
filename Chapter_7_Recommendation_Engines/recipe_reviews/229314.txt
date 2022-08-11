@@ -1,0 +1,108 @@
+Recipe number:
+229314.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-11-18T20:19:47.363
+helpfulCount:
+5
+userID:
+9351728
+Display Name:
+delwinelder
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I suggest leaving out  the Cloves or reduce to 1/4 tsp.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-17T19:42:11.677
+helpfulCount:
+1
+userID:
+15371865
+Display Name:
+Kathy Carvalho
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+267
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2087479.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum yum yum. Served over Farfalle pasta. Didn’t have the green pepper. Still very good. Didn’t soak beans overnight just boiled them for 1/2 hour first. Used approximately 2 cups pumpkin purée from the garden harvest this fall. Made my own roux and Chili seasoning using all recipes recipes. Great veggie meal. Love the spices!
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-03T01:53:16.33
+helpfulCount:
+0
+userID:
+2959736
+Display Name:
+Chrissy Kieneker
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3774932.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delicious! Perfect recipe for fall.
+I did leave out the cloves, as others had suggested

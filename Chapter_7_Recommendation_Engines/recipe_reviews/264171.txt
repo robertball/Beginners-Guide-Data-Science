@@ -1,0 +1,38 @@
+Recipe number:
+264171.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-03T03:42:57.863
+helpfulCount:
+0
+userID:
+23534629
+Display Name:
+Teresa S.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent warm weather dessert!
+I am a strawberry lover, so I topped it with strawberries, also.  Very delicious as described by whole family!

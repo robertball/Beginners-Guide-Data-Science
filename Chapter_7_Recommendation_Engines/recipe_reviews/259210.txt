@@ -1,0 +1,72 @@
+Recipe number:
+259210.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-05T14:32:20.94
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are hot and highly addictive . One thing I will say is that after the 30  minute mark you will need to start stirring every 5 minutes instead of 15. Once they start getting close they burn easily.
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-07T18:26:42.447
+helpfulCount:
+0
+userID:
+23304387
+Display Name:
+Arianna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6349367.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this around thanksgiving, I used the left over seeds from pumpkin carving (I do not recommend wasting time and energy separating out those seeds).  I ended up increasing the heat a bit and i didn't keep track of how long they cooked just keep an eye on 'em until they looked done stirring every 15 minutes as instructed. they cooked for well over an hour

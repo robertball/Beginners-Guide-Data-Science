@@ -1,0 +1,107 @@
+Recipe number:
+276304.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-03T19:35:59.55
+helpfulCount:
+1
+userID:
+20677489
+Display Name:
+Cynthia Bunde
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4100682.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great for a fast chocolate fix! Easy to follow recipe. Delicious. My teen daughter made these for us. Only changes: used 6 smaller ramekins, and used the microwave to melt butter/chocolate instead of a double boiler. Will definitely make again.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-20T00:44:04.307
+helpfulCount:
+0
+userID:
+24492324
+Display Name:
+Julie A. Holderness
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5936652.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was our Valentine dessert! Wonderful!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-06T17:03:57.827
+helpfulCount:
+0
+userID:
+26410334
+Display Name:
+jeheidhe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Hi this was an amazing cake I had to make a dessert for class and I did not know what to do and I saw this! It was soooo yummy and everyone loved it

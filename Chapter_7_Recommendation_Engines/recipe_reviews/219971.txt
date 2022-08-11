@@ -1,0 +1,72 @@
+Recipe number:
+219971.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-04T13:18:17.167
+helpfulCount:
+0
+userID:
+26224583
+Display Name:
+pratyabartan mohanty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7109805.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+good
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-08T20:29:12.647
+helpfulCount:
+0
+userID:
+22162978
+Display Name:
+MSLO Tester
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6392869.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love the recipe.

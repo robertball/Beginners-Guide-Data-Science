@@ -1,0 +1,79 @@
+Recipe number:
+212378.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-02-25T06:45:26.063
+helpfulCount:
+2
+userID:
+2761942
+Display Name:
+DiamondGirl amanecer
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+350
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/593907.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This
+is
+a
+delicious rice recipe, but in my opinion, it needs less turmeric.
+With 2 teaspoons turmeric the rice turned out more turmeric than lemon. And the rice turned out a little dry for our taste.
+I used only 3 green peppers and it was enough. And I didn't use
+cashews. With some modifications it will be a very good recipe.
+Absolutely easy to make.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-19T17:22:28.13
+helpfulCount:
+0
+userID:
+24424465
+Display Name:
+Tracy Cook Webster
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5889066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Tangy and powerful flavors. I served it with crab cakes and it was perfect! I didn’t add any peanuts or cashews as my son is allergic, but it was still good. The second time I made it, I used a tablespoon of roasted diced chilis because I didn’t have the Serrano chili and that was a good substitute. I will make it again!

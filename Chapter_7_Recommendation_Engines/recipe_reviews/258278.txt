@@ -1,0 +1,37 @@
+Recipe number:
+258278.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-09-13T10:27:40.607
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The guys liked this more than I did, but it was just OK for us. I was making won ton soup for dinner and wanted a dressing to go on our salad that would go along with the soup. It wasn't inedible, just not to my personal tastes, but it was fun to try. Thanks for sharing. :)

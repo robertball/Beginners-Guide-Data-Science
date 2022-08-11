@@ -1,0 +1,37 @@
+Recipe number:
+269978.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-25T13:16:46.923
+helpfulCount:
+1
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+190
+followingCount:
+0
+madeRecipesCount:
+534
+favoritesCount:
+696
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these as written. I let them naturally release for 10 minutes and everything was cooked perfectly including the rice. I did spray my pot with olive oil to be safe from sticking. I would add herbs to the tomato soup next time for more flavors in the sauce. Served them over noodles.

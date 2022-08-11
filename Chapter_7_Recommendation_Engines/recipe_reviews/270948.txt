@@ -1,0 +1,72 @@
+Recipe number:
+270948.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-12T23:47:44.67
+helpfulCount:
+1
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+135
+favoritesCount:
+475
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this recipe!!! I made it as is, but next time I’m adding spinach and a pinch of crushed red pepper flakes for heat. The recipe is super easy to double which is a huge plus when cooking for a family of hungry guys.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-27T22:18:16.743
+helpfulCount:
+0
+userID:
+14992208
+Display Name:
+Caylee
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7119341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy to make. I changed out the beef stock for vegetable stock and my vegetarian friends gobbled it up!

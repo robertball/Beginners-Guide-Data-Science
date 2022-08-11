@@ -1,0 +1,107 @@
+Recipe number:
+245687.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-02T04:21:41.57
+helpfulCount:
+1
+userID:
+26601702
+Display Name:
+Sandi Richard
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7396001.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was great! There's a popcorn store in my local mall. My favorite flavor is white chocolate and salted pretzels. Quite dangerous to have this at my finger tips. I used pretzel sticks if anyone was wondering.
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-12T02:14:53.723
+helpfulCount:
+1
+userID:
+13611504
+Display Name:
+Lisa Meyer Riendeau
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1346902.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this in a Big Tupperware bowl and used a little red food colouring and pink sprinkles for Valentines Day. It was awesome!
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-24T10:16:37.767
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and delicious! If you like white chocolate and popcorn, chances are you will enjoy this. I will be making this again~YUM! Thanks for sharing. :)

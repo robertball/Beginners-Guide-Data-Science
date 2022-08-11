@@ -1,0 +1,72 @@
+Recipe number:
+217861.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-09T16:17:59.103
+helpfulCount:
+35
+userID:
+2713558
+Display Name:
+Jillian
+isPro:
+False
+followersCount:
+554
+followingCount:
+0
+madeRecipesCount:
+2420
+favoritesCount:
+6771
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/209339.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick and easy - perfect for a weeknight meal! Plus, they're a great way to use up leftover steak.  The salad kit made it very simple and the flavor combination was very tasty!
+Review:
+Rating:
+5
+dateLastModified:
+2011-09-11T16:31:53.69
+helpfulCount:
+6
+userID:
+328951
+Display Name:
+Jennifer Baker
+isPro:
+False
+followersCount:
+9972
+followingCount:
+0
+madeRecipesCount:
+330
+favoritesCount:
+700
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3605993.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+YUMMMM!  We loved these, and they were fairly easy to make.  The flavors complement each other very well.  Steak & salad inside of a portable wrap--these would be great for lunch.  I'll definitely make them again!

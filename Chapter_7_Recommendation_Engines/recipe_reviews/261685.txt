@@ -1,0 +1,37 @@
+Recipe number:
+261685.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-01T16:42:26.447
+helpfulCount:
+2
+userID:
+21630833
+Display Name:
+Michael Benjamin DeMatty
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+106
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found banana leaves in the freezer section of my local Latin market. There is nothing like the delicious flavor you get from these leaves!

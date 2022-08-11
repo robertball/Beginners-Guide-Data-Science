@@ -1,0 +1,37 @@
+Recipe number:
+246450.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-07T17:59:20.727
+helpfulCount:
+2
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2818
+favoritesCount:
+6007
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+11.7.16 The title is appropriate because it is indeed spicy. If you have any concerns at all about that, would suggest using half the red pepper flakes, then taste the dressing, and add the other half if it suits your taste. This was lunch today, it’s quick and easy to make, and I thoroughly enjoyed it. Definitely will be made again.

@@ -1,0 +1,72 @@
+Recipe number:
+258412.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-18T00:33:45.42
+helpfulCount:
+0
+userID:
+23440874
+Display Name:
+Rosalie Fadem
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5207201.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it looks great, can't wait to eat it
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-06T22:43:55.1
+helpfulCount:
+0
+userID:
+803145
+Display Name:
+MANDRONACO
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+258
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a lovely way to cook some fresh caught haddock we got from a friend! Simple and delicious.

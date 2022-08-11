@@ -1,0 +1,72 @@
+Recipe number:
+231172.txt
+Review:
+Rating:
+2
+dateLastModified:
+2013-02-24T12:03:25.06
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6898
+followingCount:
+0
+madeRecipesCount:
+2653
+favoritesCount:
+3308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't know, this just must not be my 'thing', but I really didn't care for this. I know that it's a soup, and it's supposed to be liquid-y, but this was just 'too liquid-y'. I was hoping for more body, I guess. The flavor just wasn't there for me, and I did find it salty. I was glad to try something new, though...
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-09T08:15:05.843
+helpfulCount:
+1
+userID:
+3353407
+Display Name:
+Shennie A
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Add a few snips of fresh dill and a bit of lemon zest right before serving.  Very refreshing soup!

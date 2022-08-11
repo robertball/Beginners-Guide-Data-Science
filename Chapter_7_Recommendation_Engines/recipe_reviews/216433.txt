@@ -1,0 +1,72 @@
+Recipe number:
+216433.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-02-10T06:16:39.283
+helpfulCount:
+43
+userID:
+3488355
+Display Name:
+Sherbear1
+isPro:
+False
+followersCount:
+284
+followingCount:
+0
+madeRecipesCount:
+183
+favoritesCount:
+2369
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/688244.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is really good with a few changes, so heres some tips to help improve this:  First dont use ground beef, use steak or chicken.  If you can find cecina, its great for alambres, but if not a fajita steak or skirt steak will work well.  Slice meat into thin strips.  Fry bacon, set a side and discard grease.  Season chicken or steak (if cecina, no need to season) with salt, pepper, cumin and 2 minced garlic cloves.  In a seperate pan, use about 1 tablespoon oil and fry chicken or steak until cooked through.  Drain any liquid that has accumlated.  Add peppers, tomatoes (I use 1-2 roma tomatoes) (1 green or red bell pepper and 2 jalapenos) and onion to meat mixuture, cook until veggies are tender; should only take 3-4 minutes.  Remove from heat and top with shredded oaxaca cheese and cover until melted.  Cook tortillas until warm, set on plate in a circle and place a teaspoon of mexican creama on each one, top with cojita cheese.  Place meat mixture onto each tortilla and top with bacon crumbles.  Serve hot sauce and guacamole sauce on side.  These are wonderful!  One of our favorite family dished to make at home.
+Review:
+Rating:
+3
+dateLastModified:
+2010-11-25T09:10:55.817
+helpfulCount:
+13
+userID:
+1750087
+Display Name:
+Elaine E
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think I need Miss Lady to show me how to fry these.  The filling fell out when you try to turn them over.  The taste wasn't bad.

@@ -1,0 +1,107 @@
+Recipe number:
+239300.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-29T02:59:04.007
+helpfulCount:
+2
+userID:
+8053515
+Display Name:
+Peggy K
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+37
+favoritesCount:
+372
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe. The crust was chewy, and the texture was very fine and delicate.I followed the recipe with just two changes. I did not have the cheese listed so I used shredded cheddars.I also crumbled 3 slices of cooked bacon. This is one of the best bread machine recipes I have made.
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-15T10:16:17.217
+helpfulCount:
+2
+userID:
+15163227
+Display Name:
+onefunsob
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Sharp Cheddar, Jack, and hard Parmesan cheese, about 1/3 of each.  That was based on what I had around at the time.  It came out great.  Next time 3 jalapenos.
+Review:
+Rating:
+2
+dateLastModified:
+2017-12-10T15:39:35.673
+helpfulCount:
+0
+userID:
+15559425
+Display Name:
+Ryno's mom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Flavor was ok, but the liquid to flour ratio was of.  Dough was crumbly and bread was dense. Needed more liquid or less flour.

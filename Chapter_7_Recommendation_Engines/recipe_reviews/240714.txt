@@ -1,0 +1,107 @@
+Recipe number:
+240714.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-25T09:30:03.907
+helpfulCount:
+0
+userID:
+880026
+Display Name:
+Robin Martin
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+158
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6447379.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make and my whole family loved it!!
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-22T06:40:42.803
+helpfulCount:
+0
+userID:
+15877010
+Display Name:
+Kari
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3928593.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good flavor!  I had about two and a half pounds of pork on hand, so I doubled everything else (left out the spinach) and it turned out great!  The whole family loved it, and we have enough to last for a few meals!  I would agree with the other reviewer... peas would be a tasty addition!  (We used them as a side dish, but were great mixed in.)
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-18T01:34:40.017
+helpfulCount:
+0
+userID:
+17243276
+Display Name:
+Kamloops Matt
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+210
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6942936.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A hit with the family. I did have to make some changes due to what I had on hand. Most notably exchanging the apple juice for the juice from my canned peaches and the apple for a pear. Next time I think mushrooms and peas will join the pot.

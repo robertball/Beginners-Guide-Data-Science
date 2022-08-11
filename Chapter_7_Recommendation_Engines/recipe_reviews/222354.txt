@@ -1,0 +1,72 @@
+Recipe number:
+222354.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-03T18:37:52.957
+helpfulCount:
+1
+userID:
+11638119
+Display Name:
+Gulf Breeze Cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Prepared this precisely as written, except that I couldn't find my Indian chili powder and had to substitute cayenne.  We think it has at least as good an Indian flavor/savor as anything you'll find on most Indian restaurant menus. (Just needs a pinch of salt.) The method for preparing the corn is unique so far as I know, and really adds to the dish. The only drawback is that fresh curry leaves aren't readily available, and they add noticeably. One word of caution:  if a corn kernel becomes detached, it becomes a little bomb waiting to fire hot oil all over the place.  Cook this outdoors if possible.
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-25T19:04:36.91
+helpfulCount:
+0
+userID:
+3855980
+Display Name:
+Allison
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was absolutely delicious! The sauce tastes great with corn. It was pretty easy to make and very tasty!

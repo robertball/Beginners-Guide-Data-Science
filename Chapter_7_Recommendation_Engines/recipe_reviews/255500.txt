@@ -1,0 +1,72 @@
+Recipe number:
+255500.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-08-10T23:39:29.597
+helpfulCount:
+2
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+423
+followingCount:
+0
+madeRecipesCount:
+1034
+favoritesCount:
+1852
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+While leftover Halloween candy doesn't tend to be a normal occurrence in our house, I can imagine wanting to look for a way to use it up should the situation arise.  I made these cookies with Kit Kat bars and wasn't terribly impressed.  They were edible but not really enjoyable.  The texture was edible but dry, the flavor wasn't spectacular.  Possibly using a candy bar with more moisture (something with caramel or nougat?) might remedy the issue.  All in all I can think of a lot things I'd rather do with a candy bar.
+Review:
+Rating:
+2
+dateLastModified:
+2018-12-16T22:40:11.45
+helpfulCount:
+0
+userID:
+5496408
+Display Name:
+Mary Cole
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+368
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5342256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Be sure to use a double boiler to melt the candy bars. I almost used a saucepan on direct heat, and almost had a burnt on disaster!

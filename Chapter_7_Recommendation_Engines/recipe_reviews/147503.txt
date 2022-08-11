@@ -1,0 +1,62 @@
+Recipe number:
+147503.txt
+Review:
+Rating:
+5
+dateLastModified:
+09/07/2007
+helpfulCount:
+4
+userID:
+1755595
+Display Name:
+Susanna
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/183873.jpg
+text:
+I didn't have any pesto sauce so just used a little olive oil and balsamic vinegar with some fresh basil. A nice light summer supper was perfect with a fresh roll and glass of cold white wine.
+Review:
+Rating:
+3
+dateLastModified:
+05/13/2008
+helpfulCount:
+2
+userID:
+1867459
+Display Name:
+Kym Cox Surridge
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2810793.jpg
+text:
+This was OK--not bad but not great. Instead of using canned tuna I coated fillets with homemade pesto and baked them then mixed the veggies with more pesto and topped the fillets. I liked the veggies with the pesto and the tuna was good; I just didn't love everything together.
+Review:
+Rating:
+3
+dateLastModified:
+01/19/2015
+helpfulCount:
+0
+userID:
+bdweld
+Display Name:
+bd.weld
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4501775.jpg
+text:
+This was just OK. I will try another dressing in place of the basil pesto next time. The salad as a stand alone is really good.
+Review:
+Rating:
+1
+dateLastModified:
+04/30/2012
+helpfulCount:
+0
+userID:
+3280850
+Display Name:
+shellbell
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Flavors do not mix well.

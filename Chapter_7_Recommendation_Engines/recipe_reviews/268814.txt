@@ -1,0 +1,37 @@
+Recipe number:
+268814.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-04T17:57:17.837
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+MommaBean3
+isPro:
+False
+followersCount:
+72
+followingCount:
+0
+madeRecipesCount:
+174
+favoritesCount:
+540
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were surprisingly very easy to make. I made them as the recipe stated and they were great! I’ve never made these before so next time, I may play a little with the spice and try a different cheese. I piped these out into straws and I think they would be great dippers for a tomato soup. I will be making these again.

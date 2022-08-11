@@ -1,0 +1,37 @@
+Recipe number:
+240277.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-12-09T16:09:07.927
+helpfulCount:
+0
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Take my recipe with a grain of salt because I made some big changes: Used ½ tsp nutmeg instead of only a pinch in the batter, 1 C dried apples, 3.5 oz of caramels (guessing about 1/3 - 1/2 C), omitted nuts and topping. It was bland. Glad I added the nutmeg for at least some flavor. And glad I reduced the caramel because there was plenty at 3.5 oz. I C would have been way too much caramel.

@@ -1,0 +1,49 @@
+Recipe number:
+150536.txt
+Review:
+Rating:
+5
+dateLastModified:
+05/29/2008
+helpfulCount:
+2
+userID:
+2963015
+Display Name:
+leahturtle
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was one of the best desserts I have ever had. The almonds and chocolate went really well together. My friend and I were also fans of the texture- gooey and chewy in the middle. I definitely suggest making this recipe!
+Review:
+Rating:
+1
+dateLastModified:
+01/02/2008
+helpfulCount:
+1
+userID:
+119007
+Display Name:
+GR8PL8TS
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8164639.jpg
+text:
+I was not fond of this recipe.
+
+Even my Husband didn't like it.  There are MUCH better recipes out there for this type of cookie.  DON'T MAKE THIS ONE!!
+Review:
+Rating:
+2
+dateLastModified:
+02/02/2009
+helpfulCount:
+0
+userID:
+3465295
+Display Name:
+Sarah O
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I was generally not a fan of this recipe.  The bars turned out dry, really chewy, and too thin.  I even tried rescuing them with a chocolate fudge topping, but they still weren't very good.

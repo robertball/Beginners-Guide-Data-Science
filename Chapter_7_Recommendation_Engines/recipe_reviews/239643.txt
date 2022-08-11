@@ -1,0 +1,37 @@
+Recipe number:
+239643.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-26T18:34:35.443
+helpfulCount:
+0
+userID:
+3454054
+Display Name:
+janele
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198646.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an easy recipe.  BUT then again, I didn't have any egg, so I didn't do the breading portion of the directions.  Very tasty and lighter dinner...the quinoa is a nice touch, rather than pasta.  You could also do spaghetti squash as a substitute and lighter on the carbs.  I had all ingredients (except egg, I couldn't decide if milk was an ok sub for it, so I omitted it) in the kitchen, so that was a nice and easy summer dinner dish.  We liked it.

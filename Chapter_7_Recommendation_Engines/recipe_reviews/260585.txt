@@ -1,0 +1,72 @@
+Recipe number:
+260585.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-18T12:18:22.433
+helpfulCount:
+0
+userID:
+20476359
+Display Name:
+Barbara Stepp Rumburg
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3976101.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first time to try the sous vide feature of my Power Quick Pot.  We really liked these.  I finished them under the broiler with BBQ sauce.  I plan to try them again.
+Review:
+Rating:
+3
+dateLastModified:
+2018-12-17T12:48:05.6
+helpfulCount:
+0
+userID:
+16769026
+Display Name:
+Doug Kandel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2805302.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was edible and tasty, but I think a lower and slower cook may work better as the meat was not as tender as it can be.  Needs more time at low heat for the collagen to break down.  I'm thinking maybe 15 hours at 138-140.

@@ -1,0 +1,37 @@
+Recipe number:
+244878.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-26T22:23:40.22
+helpfulCount:
+2
+userID:
+15791973
+Display Name:
+Fran
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was delighted to find this recipe and anxious to try it.   Unfortunately something is not right with it.   I followed the directions exactly and it came out VERY soft and sticky.    Even after adding a lot of coconut flour, I added arrowroot and tapioca starch.  It was too late to delete an egg and I didn't want to waste an entire cauliflower.   It was like 'rolling' out tapioca pudding and it certainly did not fry up crispy but soft and tender.    It tasted great and we ate the pieces.    I am going to try again and next time will drain the cauliflower very well and omit an egg.    Dry frying did not work very well nor did adding oil.

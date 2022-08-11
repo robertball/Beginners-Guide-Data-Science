@@ -1,0 +1,77 @@
+Recipe number:
+219664.txt
+Review:
+Rating:
+4
+dateLastModified:
+11/11/2012
+helpfulCount:
+6
+userID:
+3022226
+Display Name:
+Melissa
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/104915.jpg
+text:
+This was very good! I had to use all russet potatoes as I did not have sweet potatoes on hand. Yummy! Will make again. Probably will add more seasoning to the potatoe mixture next time, red pepper, garlic etc.
+Review:
+Rating:
+4
+dateLastModified:
+11/05/2012
+helpfulCount:
+2
+userID:
+mswrite
+Display Name:
+MsWrite
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/785846.jpg
+text:
+This is one of those great cold night, easy to fix dinners. The sausage is nice and spicy and the roasted veggies is a great contrast. So easy to make and would be a great meal to delegate to those who don't have a lot of kitchen skills or do not like to cook.
+Review:
+Rating:
+4
+dateLastModified:
+04/19/2012
+helpfulCount:
+2
+userID:
+5065425
+Display Name:
+hendotoo
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Modified using all russets and used roasted red pepper chicken sausage. The whole family loved it.
+Review:
+Rating:
+5
+dateLastModified:
+08/03/2012
+helpfulCount:
+1
+userID:
+9716189
+Display Name:
+Isis Daisy
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+OMG it was delicious and i was a bit skeptical. But this was a fun and easy spin on chicken sausage.
+Review:
+Rating:
+3
+dateLastModified:
+12/22/2013
+helpfulCount:
+0
+userID:
+2223898
+Display Name:
+socerbruse
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Easy to make, but rather bland.

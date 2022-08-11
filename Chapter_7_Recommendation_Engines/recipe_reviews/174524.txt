@@ -1,0 +1,37 @@
+Recipe number:
+174524.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-11-13T05:38:58.39
+helpfulCount:
+2
+userID:
+3140162
+Display Name:
+Matrix0507
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+86
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4597070.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Happier with this dish, I could not be.  It was the most flavorful meal I have ever created.  What is even more amazing is the fact that it didn't explicitly use any sauces. Wife also loved it.

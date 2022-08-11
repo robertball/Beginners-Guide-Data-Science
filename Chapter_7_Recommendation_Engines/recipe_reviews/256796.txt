@@ -1,0 +1,72 @@
+Recipe number:
+256796.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-19T21:55:49.733
+helpfulCount:
+0
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a partial batch of this using a spicy sweet beef jerky.  We all thought this one was really good and would make again.   I think the jerky got a little chewy in a weird way, but the taste made up for it.  It's not a very pretty dip, so you need to have people try it to see what they think---then they'll go for it!  Thanks, McCormick!
+Review:
+Rating:
+3
+dateLastModified:
+2017-03-15T20:43:55.907
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+478
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just okay for me. I like the jerky part but the dip itself seemed pretty flat and one dimensional.   I think the leftovers would be able to be doctored up for my taste but as is  this is not a favorite.  I did use a chicken jerky instead of beef... which was fine.. I just didnt  care for the dip part

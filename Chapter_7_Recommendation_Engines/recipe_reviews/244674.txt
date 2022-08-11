@@ -1,0 +1,107 @@
+Recipe number:
+244674.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-20T16:11:38.447
+helpfulCount:
+0
+userID:
+7196861
+Display Name:
+Michelle Smith Davenport
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+363
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5338604.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was awesome!  I would have to agree though that the recipe calls for WAAAAY too much sugar.  I would only use 3T. of sugar.  Other than that, it was to die for!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-18T21:43:24.45
+helpfulCount:
+0
+userID:
+14910999
+Display Name:
+Piper White
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it's delicious. used peach vodka instead...uber good!!!
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-01T23:47:12.76
+helpfulCount:
+0
+userID:
+6309476
+Display Name:
+IndyGraphics
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+375
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5739690.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had everything, except for the lime juice, and it was still fabulous. I used half the sugar and it was more than enough. A fantastic drink for summer!

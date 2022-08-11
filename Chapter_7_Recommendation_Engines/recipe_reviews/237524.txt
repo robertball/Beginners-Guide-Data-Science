@@ -1,0 +1,72 @@
+Recipe number:
+237524.txt
+Review:
+Rating:
+2
+dateLastModified:
+2014-11-23T05:55:48.69
+helpfulCount:
+1
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe and pic is misleading. I actually bought all of the ingredients for this and can say it looks nothing like the pic when the ingredients are combined. The balsalmic dressing turned this an awful looking mucky brown color. I am not familiar with crumbled goat cheese. It is not like feta. It is so soft it literally melts when stirred. The acidic dressing, basil, and tart cheese was an unpalateable combination. I am so glad I hadnt added the chicken and mango yet.I hate wasting ingredients too.
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-28T21:20:49.207
+helpfulCount:
+0
+userID:
+16673157
+Display Name:
+thwaller
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+867
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Changed cheese and used regular rice instead of instant, but overall a nice recipe.

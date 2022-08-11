@@ -1,0 +1,37 @@
+Recipe number:
+257748.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-05T15:46:53.83
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. It was a little thin but did thicken upon refrigeration. I am not able to find  soppressata ham in my area so instead I served the dip in baked hard salami cups. That went over well and would be a big hit for a Super Bowl party. It was the perfect finger food. Next time I'll add some crushed chili flakes for some heat but overall this is good as written.

@@ -1,0 +1,72 @@
+Recipe number:
+258793.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-17T22:23:12.26
+helpfulCount:
+0
+userID:
+20361578
+Display Name:
+Sara Satterlee Crosby
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3908623.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent!  It is my favorite and always a big hit.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-15T03:48:06.163
+helpfulCount:
+0
+userID:
+22199242
+Display Name:
+Clefairy The Buff
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty good! The recipe was a little vague at times, but I just followed through to the end. It does make a lot of cookies, so if anyone wants to make it, I'd recommend cutting it into thirds or halves to make it easier to consume. That way, you won't have to jam two cookie trays in the oven, which makes it cook unevenly (one tray almost burnt but the other was fine).  I also want to add on that these cookies do spread quite a bit in the oven, so try to leave maybe an inch or two of space between cookies.

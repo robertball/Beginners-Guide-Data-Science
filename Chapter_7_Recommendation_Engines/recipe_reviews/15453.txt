@@ -1,0 +1,107 @@
+Recipe number:
+15453.txt
+Review:
+Rating:
+4
+dateLastModified:
+2003-09-12T19:09:18.25
+helpfulCount:
+12
+userID:
+874338
+Display Name:
+Molls
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good, very simple.  You don't really need a recipe to make something like this.  I mixed have milk chocolate and half semi-sweet, added a bunch of toffee and ground up almonds, also a macadamia nut on the bottom of each cup and they came out wonderfully
+Review:
+Rating:
+5
+dateLastModified:
+2000-02-11T19:06:15.91
+helpfulCount:
+10
+userID:
+3340
+Display Name:
+Cindy Carnes
+isPro:
+False
+followersCount:
+200
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+143
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/68607.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are quick, easy, and very attractive looking once prepared, and tasty!
+Review:
+Rating:
+5
+dateLastModified:
+2013-02-04T08:06:25.753
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+587
+followingCount:
+0
+madeRecipesCount:
+2221
+favoritesCount:
+2566
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very quick, easy and tasty candy that is very pretty.  I added some chopped raisins to make it like the old Chunky bars and it was perfect.

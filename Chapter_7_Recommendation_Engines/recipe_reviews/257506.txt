@@ -1,0 +1,37 @@
+Recipe number:
+257506.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-22T17:42:35.547
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very flavorful, great tasting dip. I cooked for 15 minutes as stated and didn't have any liquid left to drain off. I thought the dip was just a little dry. I ended up adding some liquid from some salsa to it. I thought this would be good cold, like hummus, but it was much better warmed up, even better with some shredded cheese melted on it.

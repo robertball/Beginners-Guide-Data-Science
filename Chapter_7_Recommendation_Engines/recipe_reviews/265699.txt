@@ -1,0 +1,37 @@
+Recipe number:
+265699.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-13T19:21:00.897
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+1096
+followingCount:
+0
+madeRecipesCount:
+2888
+favoritesCount:
+1948
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8440171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and super creamy. Next time, I’ll add some lime juice and more zest. What a great idea!

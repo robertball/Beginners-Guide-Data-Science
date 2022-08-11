@@ -1,0 +1,107 @@
+Recipe number:
+245001.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-20T00:52:08.42
+helpfulCount:
+1
+userID:
+5498845
+Display Name:
+Jen Wolf
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+132
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cake mix used for this recipe was not available at my store, so I used 1 white cake mix and 1 yellow cake mix and just made each according to the box instructions. As a previous reviewer noted, the filling makes at least twice as much as needed.  So with 48 cupcakes, I would make 1/2 the amount next time.  The filling tasted very good.  It is light and not as sweet as many fillings.  I cut the butter cream recipe in half, and I still had a fair amount left over, which was the perfect amount.  I got many complements on these cupcakes.  They turned out very well and were not too sweet, as most cupcakes with filling tend to be, in my opinion.  The only flaw is the excess of filling and frosting, but it's easy to cut those amounts in half.
+Review:
+Rating:
+3
+dateLastModified:
+2016-11-04T01:08:50.17
+helpfulCount:
+0
+userID:
+20664699
+Display Name:
+Leah Hurley
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4093732.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe exactly according to the directions, and it made too much of everything. I used the exact Betty Crocker mix the author calls for, but noticed that it says on the box that one box makes 24 cupcakes. I decided to follow the recipe and use two boxes. I filled 24 cupcake liners to the rim and still had tons of batter left over. I would recommend using only one box if you use that mix. The filling made about twice as much as needed. The buttercream icing made only a little too much. While icing, I found I had to put the cupcakes in the fridge and take out 2 to ice at a time. Otherwise the cake starts to stick to your fingers and come apart. This recipe took me much longer to make than it indicates, but the final result was good. The buttercream icing was delicious, as was the strawberry filling! I would also recommend setting the cupcakes out for a while before serving if you have stored them in the fridge. I ate a cupcake before storing and the icing was perfect. I gave one to my husband right out of the fridge and the icing was very firm. I plan to take these to share with my coworkers tomorrow and hope they enjoy them as well!
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-30T11:05:24.5
+helpfulCount:
+0
+userID:
+17155958
+Display Name:
+Gianna Kicklighter
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3050476.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The filling was absolutely perfect! I used Trader Joe's vanilla cake and baking mix for the cake and instead of the white chocolate butter cream I did a cream cheese icing. SO yummy, so easy!

@@ -1,0 +1,72 @@
+Recipe number:
+177596.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-09-24T14:34:09.147
+helpfulCount:
+5
+userID:
+2607550
+Display Name:
+mandalin84
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+119
+favoritesCount:
+1115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/145322.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were just ok. If I make them again I'll have to make modifications. The flavor was a little bland and definitely not sweet enough. Also, they were a little oily, I guess from the cheese. My husband complained that all he could taste was "oil". Which I assured him there was no oil or butter in them to make it taste that way. Good idea though and probably worth playing around with.
+Review:
+Rating:
+4
+dateLastModified:
+2013-11-13T16:31:00.473
+helpfulCount:
+0
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+239
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I inadvertently used a little more lemon juice and used a regular dessert wine instead of a port. We liked them as is, but I'll bet with a tweak or 2 you can make this a 5 star dessert.

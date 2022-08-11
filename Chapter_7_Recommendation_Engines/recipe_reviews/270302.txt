@@ -1,0 +1,37 @@
+Recipe number:
+270302.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-08T14:32:11.677
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! I marinated the chicken for 1 hour and it absorbed plenty of flavor and turned out super tender. I did make two small changes. Instead of a roasting pan, I used a baking sheet so that nothing was touching. I wanted a good crisp on the potatoes. After placing the chicken on the sheet, I dipped each potato wedge in the marinade before placing them on the baking sheet. In my opinion, the potatoes would have been very bland and in desperate need of salt just throwing them in there plain. Maybe not but they turned out excellent the way I did them. This was super simple to put together and bursting with flavor. This is one I will most definitely make again.

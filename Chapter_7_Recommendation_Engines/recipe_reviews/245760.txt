@@ -1,0 +1,37 @@
+Recipe number:
+245760.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-15T03:09:12.853
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was tasty.. not too spicy and definitely had the buffalo taste to it. My only issue with this is the texture of the meatloaf.  This is more like a baked turkey burger than a meatloaf... and it was very difficult to cut without it crumbling.  This is because this recipe is missing a binder.. crumbs, almond meal, crackers.. ground oats...egg.. anything to hold it together.  I will make this again as I like the taste.. but with crumbs and egg added

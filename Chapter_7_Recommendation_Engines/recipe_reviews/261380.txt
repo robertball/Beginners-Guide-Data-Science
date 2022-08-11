@@ -1,0 +1,72 @@
+Recipe number:
+261380.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-30T18:05:58.433
+helpfulCount:
+0
+userID:
+933856
+Display Name:
+JARRIE
+isPro:
+False
+followersCount:
+146
+followingCount:
+0
+madeRecipesCount:
+1131
+favoritesCount:
+6151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/926498.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good, and it got eaten up entirely. I would've liked it better in the oven, but it was fine in the slow cooker. I could not get all the ingredients to fit in my "smaller" crockpot which I think is 3qt (the big is 6qt, I think) so I kept having to stir the rice a lot. In the end, the rice kind of melted by the 2nd day, and I think that's due to it being white rice in a slow cooker. I'm not really sure how to fix that other than to readjust the ratios significantly but I think it's doable if you don't think you will eat all this in one evening. It is fantastic for a large one-night meal, though.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-20T21:46:03.46
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this had really good flavor. The one thing I did not like is that the rice disappeared. I think it needs more rice which would require more liquid. Overall a good recipe and one I will make again with a couple of tweaks.

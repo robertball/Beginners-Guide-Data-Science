@@ -1,0 +1,37 @@
+Recipe number:
+254653.txt
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-24T12:31:57.193
+helpfulCount:
+0
+userID:
+1951898
+Display Name:
+Phyllis Trinke Funk
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+118
+favoritesCount:
+361
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4503147.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The only change I made was using saskatoons instead of blueberries and I made 18 out of this recipe.  That being said, I should have made 24 out of this recipe.  Even make 6 more than the recipe called for, it tasted like there was too much dough and not enough fruit.  It was a good dough, but not really flavorful enough to carry  this.  Blueberries are a relatively bland fruit, as fruits go,  (saskatoons are very similar to blueberries), and with the bland batter and mild fruit, it just lacked flavor.  I might try it again, but will definitely have to doctor it up a fair bit for my taste.

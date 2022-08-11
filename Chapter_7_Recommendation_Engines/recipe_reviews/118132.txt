@@ -1,0 +1,72 @@
+Recipe number:
+118132.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-07-01T12:15:10.63
+helpfulCount:
+6
+userID:
+1971415
+Display Name:
+MariaJoanne
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/56842.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My work was having Hawaiian day and I had to find a quick tropical inspired dessert recipe. I came across this one and modified it as follows: substituted orange juice for water, no nuts, 2 teaspoons butter extract instead of rum and coconut. I also made a frosting since this is more of a cupcake recipe than a muffin recipe. My frosting consisted of a tub of Duncan Hines vanilla frosting with 1/4 cup orange juice added plus a splash of dark rum. For decoration, I toasted coconut and added on top of the cupcakes. Overall my cupcakes were a yummy success!
+Review:
+Rating:
+4
+dateLastModified:
+2008-12-24T09:49:58.507
+helpfulCount:
+1
+userID:
+1928065
+Display Name:
+Sheena DeSouza Casari
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+1478
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1343451.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very quick, very EASY!

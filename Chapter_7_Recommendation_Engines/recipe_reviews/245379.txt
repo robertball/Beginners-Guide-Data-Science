@@ -1,0 +1,37 @@
+Recipe number:
+245379.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-10-22T04:00:57.893
+helpfulCount:
+0
+userID:
+17389909
+Display Name:
+Emily Josy Schulzetenberg
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5251824.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe is confusing. It doesn't explain when to use the baking soda or some of the other ingredients. It doesn't specify which type or size of pan. The consistency of the pumpkin mix is too runny to fold with the brownie mix so it ended up being

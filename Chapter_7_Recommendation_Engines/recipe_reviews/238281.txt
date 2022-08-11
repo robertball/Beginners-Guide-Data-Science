@@ -1,0 +1,72 @@
+Recipe number:
+238281.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-21T02:45:03.913
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Extremely sweet. I made another recipe almost identical to this but with a bit more pineapple juice. Both are very, very sweet. Next time I will try it without the sugar and only add a little at a time if needed. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-29T16:33:08.097
+helpfulCount:
+0
+userID:
+3362868
+Display Name:
+Sherrie Massey
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+536
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1204183.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make this but I use a large can of pineapple juice and no sugar/ water mix. The bananas are the star of this punch.

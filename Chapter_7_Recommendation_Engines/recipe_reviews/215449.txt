@@ -1,0 +1,72 @@
+Recipe number:
+215449.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-09-18T19:02:18.463
+helpfulCount:
+5
+userID:
+6889311
+Display Name:
+alexandrea.towns
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/995992.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I actually used canned cooked chicken instead of turkey and I added potatoes that I boiled for about 10 minutes. I also used one package of turkey gravy and one package of chicken gravy and I bought some pie crusts at the store. It was very very good. I had to cook it a bit longer than 20 minutes. It was in the oven for about 25 minutes, but it was delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-31T22:47:32.21
+helpfulCount:
+0
+userID:
+26960888
+Display Name:
+Dina Jacobs
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7676974.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Was great. I added penne and topped with biskets. Very tasty!

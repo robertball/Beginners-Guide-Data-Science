@@ -1,0 +1,72 @@
+Recipe number:
+244210.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-20T19:09:37.34
+helpfulCount:
+1
+userID:
+3751162
+Display Name:
+steve
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it as called for in recipe-- used cornbread stuffing mix.  Cooked for 35 minutes at 350 degrees in the oven on a cookie sheet using the eggplant shells.  A little salt once it was on the plate and everyone was happy.  Will use this as one of the ways of enjoying eggplant more often.
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-24T06:04:23.563
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2832
+favoritesCount:
+1847
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed the texture and flavour of this recipe. Be careful not to overcook. The cheese in the end became hard and even though it wasn't attractive to look at it was still delicious. This would be a wonderful stuffing for a chicken! :-) Thanks for the recipe!

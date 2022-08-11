@@ -1,0 +1,72 @@
+Recipe number:
+63025.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-09-25T14:38:50.513
+helpfulCount:
+5
+userID:
+1099951
+Display Name:
+Valerie Brunmeier
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+511
+favoritesCount:
+1440
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3021525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I rate this one highly although I did some things differently.  Instead of cooking the tenderloin in the oven I put it in a dutch oven, sprinkled with some chili powder and garlic powder, filled the dutch oven half way with water and brought to a boil.  Turned down the heat and simmered, covered for 2 1/2 to 3 hours.  The meat shreds very easily at this point.  I made the sauce mixture but thought it was a bit overpowering for the kids so I added about the same amount of bbq sauce to cut it.  I added some of this sauce mixture to the meat and served the rest on the side.  It was great!  I used 1 tsp. maple syrup instead of the maple extract aned omitted the equal all together.  The sweetness is the syrup was plenty.
+Review:
+Rating:
+5
+dateLastModified:
+2005-03-05T20:39:26.153
+helpfulCount:
+2
+userID:
+570988
+Display Name:
+TRACYFACE
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was easy.  Didn't change a thing.  My mouth is watering just thinking about it!

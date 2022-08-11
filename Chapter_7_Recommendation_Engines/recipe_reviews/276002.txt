@@ -1,0 +1,72 @@
+Recipe number:
+276002.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-27T21:06:06.687
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a fun recipe! This turned out really good and is one I would definitely make again. The rich buttery flavor comes through and the cinnamon did not overpower. It reminded me of that famous cereal. I had more than half of the sugar/cinnamon left over so I'd reduce that next time. For now, it just gives me an excuse to go get another tube of crescent roll dough and make another batch!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-20T14:22:43.593
+helpfulCount:
+0
+userID:
+13373721
+Display Name:
+danicop
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I flipped mine over with a minute left and both sides turned out delicious!

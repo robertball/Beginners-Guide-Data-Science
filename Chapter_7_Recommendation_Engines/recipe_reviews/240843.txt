@@ -1,0 +1,37 @@
+Recipe number:
+240843.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-24T07:14:26.947
+helpfulCount:
+1
+userID:
+1722818
+Display Name:
+CoOkInGnUt
+isPro:
+False
+followersCount:
+6987
+followingCount:
+0
+madeRecipesCount:
+151
+favoritesCount:
+643
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4517136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were good but I used the 2tbps of sugar. my pretzels was salted and played a part in them not being very sweet. I will make these again but with unsalted pretzels and the extra sugar.

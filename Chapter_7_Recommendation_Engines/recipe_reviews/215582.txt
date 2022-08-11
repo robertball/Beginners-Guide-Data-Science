@@ -1,0 +1,107 @@
+Recipe number:
+215582.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-06-18T15:02:44.6
+helpfulCount:
+6
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1062
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After my modifications, it was really tasty.  I doubled everything else but the chiles (and watermelon).  It was WAY too spicy with double the watermelon, so I ended up nearly quadrulpling it.  The flavor was nice, but I did miss the punch of lime juice.  Next time I will use only 1 seeded chile, less onion and add lime.  Thanks!
+Review:
+Rating:
+2
+dateLastModified:
+2011-06-18T12:14:16.933
+helpfulCount:
+6
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+518
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2068
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We love salsas and relishes. I prepared this as directed and it just lacks something. It seems to us that the watermelon is not enhancing this dish much. Will toss it into our salad with our dinner tonight as an addition to the wild greens, so I don't waste it.
+Review:
+Rating:
+5
+dateLastModified:
+2012-06-16T18:45:26.18
+helpfulCount:
+0
+userID:
+575185
+Display Name:
+Velyn Conger
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2186322.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this on a very hot day and the taste was awesome. Will make this again and again.

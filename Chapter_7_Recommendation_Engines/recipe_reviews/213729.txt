@@ -1,0 +1,37 @@
+Recipe number:
+213729.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-06-16T10:49:21.947
+helpfulCount:
+0
+userID:
+2683147
+Display Name:
+AZ
+isPro:
+False
+followersCount:
+86
+followingCount:
+0
+madeRecipesCount:
+291
+favoritesCount:
+410
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/353065.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't know whether I should use dill or sweet relish, but I used sweet, so I left the sugar out of the dressing. I thought the sandwich would be dry, but it wasn't. I do however think it should have more flavor, so next time I would put the dressing on both sides, and maybe add a tomato or slice of avocado to the sandwich. thanks!

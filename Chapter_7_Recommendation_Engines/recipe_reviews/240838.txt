@@ -1,0 +1,72 @@
+Recipe number:
+240838.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-24T18:18:09.393
+helpfulCount:
+0
+userID:
+1579215
+Display Name:
+Corinne W
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+193
+favoritesCount:
+334
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4799786.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed the recipe exactly using fresh lobster claw meat. These were good but I felt they were lacking something.  Maybe some sort of breading in the stuffing?  I would make these again but with some alterations.
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-07T09:25:56.597
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've had many of jalapeno poppers and these were to die for! I really liked that this recipe didn't call for cream cheese like most do. I used imitation lobster since the real deal is a special treat and something I only get once a year at best. I can only imagine how awesome these would be with the good stuff.  I already cannot wait to make these again!

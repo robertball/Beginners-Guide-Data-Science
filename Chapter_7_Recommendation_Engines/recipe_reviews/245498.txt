@@ -1,0 +1,37 @@
+Recipe number:
+245498.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-14T00:52:04.357
+helpfulCount:
+0
+userID:
+14871970
+Display Name:
+Herm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this with farm tilapia and served it over white rice. I thought the amount of seasoning looked wimpy, but I stuck close to the recipe and was pleased with the light fresh taste.  The cooking time seemed excessive, so I only simmered about 30-35 minutes total and it was fine. I topped it with pan fried asparagus and fresh parsley, but wished I had had cilantro instead. Will definitely make this again.

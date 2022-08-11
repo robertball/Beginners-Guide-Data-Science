@@ -1,0 +1,73 @@
+Recipe number:
+13635.txt
+Review:
+Rating:
+4
+dateLastModified:
+2004-12-01T21:41:03.09
+helpfulCount:
+22
+userID:
+1202688
+Display Name:
+SMILESILLY69
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had never thought of having a side dish with curry in it for Thanksgiving-however- I did, and am glad for it! 
+This recipe is probably not for everyone, but you must at least try it. It complimented my whole meal very well, it was nice and creamy, and everyone really liked the different taste. Definitely not just for Thanksgiving! Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2012-02-16T11:34:05.733
+helpfulCount:
+3
+userID:
+5877189
+Display Name:
+Ricci Haines
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2297657.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I LOVED this recipe~ I used a pint of Willapoint oysters and it was fantastic.  My husband wasn't the biggest fan, he said the oysters were too big, but I would definitely make it again and just eat it myself!  I think next time I will sub fat-free evaporated milk for the half-and-half though... it was wicked rich.

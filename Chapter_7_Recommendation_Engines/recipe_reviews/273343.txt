@@ -1,0 +1,37 @@
+Recipe number:
+273343.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-05-19T19:55:58.89
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written and this was okay but I would definitely make a couple of changes next time. While I love the flavor of lime, the juice made the popcorn soggy. The chili powder was also a bit overwhelming and crazy as  it sounds, the popcorn needed more salt. This was a fun recipe and one I will make again but I do think it needs some tweaks.

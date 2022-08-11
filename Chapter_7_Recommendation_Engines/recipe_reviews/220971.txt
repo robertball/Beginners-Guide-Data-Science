@@ -1,0 +1,37 @@
+Recipe number:
+220971.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-06T13:48:25.277
+helpfulCount:
+0
+userID:
+15613943
+Display Name:
+Alexandra
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great with ham.

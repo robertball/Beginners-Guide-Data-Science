@@ -1,0 +1,107 @@
+Recipe number:
+238118.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-06-21T08:34:22.863
+helpfulCount:
+4
+userID:
+1060346
+Display Name:
+Thisni Caza
+isPro:
+False
+followersCount:
+30
+followingCount:
+0
+madeRecipesCount:
+412
+favoritesCount:
+891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/843945.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked this salad but it is a fairly standard recipe for this type of salad (which I expected...no problem.) I do wish AR would list broccoli in cups (and a lot of other ingredients, especially fruits and vegetables).  I buy big bags of broccoli florets at Sam's.  Even if I did buy crowns, they vary a lot in size and in the amount of florets provided. I don't fault this recipe, just wish AR would standardize.  I used two cups bite-sized broccoli florets, thinking that 2:1 would be a good ratio between broccoli and grapes.  I also cut the grapes in half.
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-15T12:59:15.583
+helpfulCount:
+3
+userID:
+5108043
+Display Name:
+Nancy Gibson
+isPro:
+False
+followersCount:
+28
+followingCount:
+0
+madeRecipesCount:
+60
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4279834.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic! big hit with the family.
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-22T23:15:02.35
+helpfulCount:
+1
+userID:
+11084964
+Display Name:
+Leslie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The yield for the dressing is high so be sure to mix everything else before slowly adding the dressing as you don't need much for one head of broccoli.

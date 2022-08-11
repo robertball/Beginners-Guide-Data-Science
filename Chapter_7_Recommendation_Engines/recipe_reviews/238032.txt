@@ -1,0 +1,37 @@
+Recipe number:
+238032.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-16T19:29:33.363
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+771
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were a cute little treat that I especially think kids would like. They were very easy to make. I even combined the honey and chocolate chips and melted them together. I happened to have a bag of prepopped popcorn and used that. The end result was not crispy, but it could be due to the type of popcorn I used. I used a large cookie scoop but ended up having to use my hands to make them round and hold together.

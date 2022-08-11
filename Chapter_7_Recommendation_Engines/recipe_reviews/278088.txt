@@ -1,0 +1,37 @@
+Recipe number:
+278088.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-02-12T22:30:15.667
+helpfulCount:
+0
+userID:
+19083338
+Display Name:
+Janice Weisberg
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5914809.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just not enough taste for me.  I followed the receipt, it was very colorful and looked nice on the dinner plate but I love balsamic vinegar so I would try again.

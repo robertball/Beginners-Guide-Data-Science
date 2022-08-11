@@ -1,0 +1,72 @@
+Recipe number:
+242323.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-06-10T15:42:04.733
+helpfulCount:
+3
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6889
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good! I liked that this used less mayo (I used Hellmann's light mayo). I also used less bacon than called for, just to keep it a little lighter. Made earlier in the day and kept in the fridge until ready to serve. I would make this again! Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-04T01:20:54.877
+helpfulCount:
+0
+userID:
+18259999
+Display Name:
+Jody Duvall Knutson
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3715373.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe exactly.  Look it to a family BBQ and everybody raved on how good it tasted.  I will definitely make this again.  Maybe next time I will add some halved cherry or grape tomatoes and feta cheese to give it a little Mediterranean flare.

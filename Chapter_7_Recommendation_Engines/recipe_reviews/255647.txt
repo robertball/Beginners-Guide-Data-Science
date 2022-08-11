@@ -1,0 +1,37 @@
+Recipe number:
+255647.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-15T08:18:16.227
+helpfulCount:
+1
+userID:
+5098755
+Display Name:
+GinaBean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used the ingredient search to find a soup that used a butternut squash and leeks. This fit the bill nicely. I roasted the squash in the oven and added that to the sauteed leeks. I also added: 1 teaspoon of cumin, 1 teaspoon of tumeric, 1 teaspoon of coriander, 1/2 teaspoon of ginger powder, and 2 teaspoons of curry powder. I omitted the sugar. Delicious!

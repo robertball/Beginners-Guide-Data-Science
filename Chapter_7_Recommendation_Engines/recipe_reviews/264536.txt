@@ -1,0 +1,72 @@
+Recipe number:
+264536.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-06T22:43:38.153
+helpfulCount:
+1
+userID:
+8270227
+Display Name:
+Linda Cotton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+203
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5403017.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It turned out great.  Very filling!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-18T01:11:24.783
+helpfulCount:
+0
+userID:
+3220549
+Display Name:
+Bev
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Knew as soon as I read recipe that it was for dinner tonight. Best choice I could have made. It was delicious! I has almost all of the ingredients. Had to substitute ham hocks for ox tails & left out sazon seasoning w/annatto because I've never heard of it and didn't have any. Also left out parsnip since I have it.. I think I like this recipe even more than my original.

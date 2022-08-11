@@ -1,0 +1,73 @@
+Recipe number:
+236765.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-19T16:52:05.917
+helpfulCount:
+1
+userID:
+8327831
+Display Name:
+Michelle D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+76
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty and fun alternative to broccoli and run of the mill stir fry veggies!  I used fresh mushrooms and my family ate it up!
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-09T21:57:09.897
+helpfulCount:
+0
+userID:
+22645060
+Display Name:
+mysfan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved it.  I used fresh mushrooms and left over chicken, already cooked.
+I will definitely make it again.

@@ -1,0 +1,37 @@
+Recipe number:
+246304.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-07-28T23:58:17.067
+helpfulCount:
+2
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+370
+favoritesCount:
+1313
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was pretty straight forward to make, I used Thighs, the black olives and did add extra mushrooms.  I also omitted the step of mixing the tomatoes in a separate bowl and mixed it all in the skillet with the veggies to save having to clean another dish.  Overall the flavor started to get there however it was too watery.  Next time around I would cut back to half cup of the chicken broth and a half cup of the red wine and if it needed more liquid I would add it directly to the slow cooker.  I also cooked it for 5.5 hours in the slow cooker on low, it was too long for me I would go max 4 hours to preserve a little firmness in the veggies.

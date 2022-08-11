@@ -1,0 +1,72 @@
+Recipe number:
+244751.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-26T10:18:35.397
+helpfulCount:
+2
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12225
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sauce is excellent.  They only thing I would add is a bit of ginger.  I used Sambal Chili garlic sauce in place of the chili flakes.  I should have reduced my sauce a bit more than I did.  In the future, I would make the sauce in advance and get it a bit thicker.  Sweet, spicy, messy, and a bit addictive.   Yum.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-07T22:02:12.413
+helpfulCount:
+0
+userID:
+22363770
+Display Name:
+Lara L. Jacobsen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The best wing sauce my husband and I have ever had!!!!

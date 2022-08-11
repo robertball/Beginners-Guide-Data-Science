@@ -1,0 +1,37 @@
+Recipe number:
+230062.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-29T00:45:45.837
+helpfulCount:
+0
+userID:
+15183518
+Display Name:
+Susan Montag
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1962076.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used dairy and soy free “butter” due to food food allergies in my home. I think I will add just a bit more next time for the crisp. Really good taste.

@@ -1,0 +1,72 @@
+Recipe number:
+221022.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-08T17:13:39.167
+helpfulCount:
+6
+userID:
+10192350
+Display Name:
+AZ93
+isPro:
+False
+followersCount:
+21
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/971944.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this salad based on how good it sounded and am glad I did. I wound up adding a little bit of sugar and lemon to the dressing, and threw in some bleu cheese (and chicken for my Dad) at the end, but overall I thought this was very good. I wasn't quite sure how the salad was supposed to look so I made it sliced per the description, took a photo, then chopped up the rest and made it like a regular Waldorf. See both photos and make it your own way! Either way, this was a good salad, and more filling than you would think.
+Review:
+Rating:
+5
+dateLastModified:
+2013-10-07T21:04:40.513
+helpfulCount:
+0
+userID:
+9750197
+Display Name:
+Melissa Lee Pfohl
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+564
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1344673.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I like this recipe! Its much healthier and lighter than the traditional Waldorf Salad. I used  fresh spinach and kale instead of lettuce which was meatier and a bit more filling.

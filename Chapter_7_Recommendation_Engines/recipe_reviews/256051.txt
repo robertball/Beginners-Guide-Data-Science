@@ -1,0 +1,107 @@
+Recipe number:
+256051.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-07T02:45:22.757
+helpfulCount:
+2
+userID:
+10248289
+Display Name:
+Clifford Hutson
+isPro:
+False
+followersCount:
+43
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3891120.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought to myself that there is NO WAY this is going to be a great recipe.  I imagined the pork as being way to tender to stand up on it's on.  As a matter of fact it is....bring on the Kimchi.  The contrasting textures are AMAZING.  This dish has me blown away.  The only concern I have is the leftovers.  The pork doesn't really stand up on it's own to well.  A 4 pound roast makes for a lot of leftovers.  I also think I'd add some garlic on the next round.  I'd make it again for sure.
+Review:
+Rating:
+2
+dateLastModified:
+2017-01-23T15:34:28.04
+helpfulCount:
+0
+userID:
+15257429
+Display Name:
+Mary Ann Bishop
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2002944.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The pork came out very tender, but the flavor was gone.  Very blah.  I find that with every slow cooker  recipe I have ever tried.  9 hours on low must just cook all the flavor out of it.  I'm going to try 5 hrs on high next time, and if that doesn't work, that slow cooker is out.  Anyone else have that issue?
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-24T07:14:20.303
+helpfulCount:
+0
+userID:
+6549646
+Display Name:
+Angela Sackett Superhotmama
+isPro:
+False
+followersCount:
+195
+followingCount:
+0
+madeRecipesCount:
+112
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2406088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious.  I used venison and replaced the gochujang, which I couldn't find, with red chili paste.  Making this again, with my own revisions!

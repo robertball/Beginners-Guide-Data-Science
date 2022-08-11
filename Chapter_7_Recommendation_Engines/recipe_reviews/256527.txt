@@ -1,0 +1,107 @@
+Recipe number:
+256527.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-19T13:10:54.66
+helpfulCount:
+1
+userID:
+2844831
+Display Name:
+Cooking Daddy
+isPro:
+False
+followersCount:
+50
+followingCount:
+0
+madeRecipesCount:
+298
+favoritesCount:
+6220
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6980549.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good recipe.  As you can tell, the vinegar is the major component to this recipe.  So make sure you choose a vinegar that you really like since the recipe doesn't specify the type of vinegar.  I left my chicken marinade longer than 8 hours.  It came out with a strong vinegar flavor.  But I was ok with that.  Also, you can put more than 4 thighs in this marinade.  It makes a good amount, I marinaded 6 thighs and could've done a few more easily.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-05T21:08:16.297
+helpfulCount:
+0
+userID:
+21815406
+Display Name:
+scott hood
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+154
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6905596.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Cornell chicken in this neck of the woods, a summertime classic. Salt potatoes and coleslaw make the best side, imho.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-15T19:51:34.763
+helpfulCount:
+0
+userID:
+5643628
+Display Name:
+connie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+527
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious. Next time I will try chicken on the bottom as potatoes were really to soft

@@ -1,0 +1,37 @@
+Recipe number:
+223517.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-05-30T11:46:32.963
+helpfulCount:
+3
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9646
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used red potatoes in place of white and then used a white onion in place of the red onion due to what I had on hand. I made a tzatziki recipe from this site and left the peel on because I am a rebel like that. This was a really nice change from traditional potato salad. The only one thing I think it was missing was some salt. Other than that, perfect as written.

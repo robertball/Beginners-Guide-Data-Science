@@ -1,0 +1,37 @@
+Recipe number:
+219528.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-05-05T18:22:00.06
+helpfulCount:
+2
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty.. I used a crookneck squash and queso fresco instead of a zucchini and swiss cheese. Nice easy dinner

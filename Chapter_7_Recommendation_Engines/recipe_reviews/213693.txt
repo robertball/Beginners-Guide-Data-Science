@@ -1,0 +1,37 @@
+Recipe number:
+213693.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-11-11T19:22:19.58
+helpfulCount:
+6
+userID:
+5763848
+Display Name:
+Love 2 Cook777
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love the way it tasts

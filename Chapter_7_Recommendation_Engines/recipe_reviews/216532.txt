@@ -1,0 +1,72 @@
+Recipe number:
+216532.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-12-07T13:40:24.593
+helpfulCount:
+22
+userID:
+2925154
+Display Name:
+Lorem Ipsum
+isPro:
+False
+followersCount:
+249
+followingCount:
+0
+madeRecipesCount:
+539
+favoritesCount:
+610
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2531090.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great cocktail! I also took the recipe picture, which is not quite right, I admit--I used cherry liqueur (which is deep ruby) instead of maraschino liqueur (which is clear like grappa). A couple drops of liqueur de violet will give it the old pale sky-blue color. Also used slightly less lemon juice—b/c I like it in the background, adding just a touch of brightness.
+Review:
+Rating:
+3
+dateLastModified:
+2010-12-26T06:18:03.92
+helpfulCount:
+14
+userID:
+1082151
+Display Name:
+SLS73
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+172
+favoritesCount:
+193
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/3057.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This is sour/bitter.  I couldn't find maraschino liqueur (was told that it is an "old time" thing) so I used maraschino brandy.  I did a little research on both the liqueur & brandy and found they are quite  similar because both are made using the cherry pits (which is where the bitterness comes from).  I would guess the liqueur may be a bit sweeter which may make all the difference in this recipe.  If you like a stiff, dry drink you may like this.  I like dry but the bitterness.........

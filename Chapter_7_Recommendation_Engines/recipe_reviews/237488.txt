@@ -1,0 +1,37 @@
+Recipe number:
+237488.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-29T08:45:04.793
+helpfulCount:
+5
+userID:
+2129429
+Display Name:
+*Sherri*
+isPro:
+False
+followersCount:
+744
+followingCount:
+0
+madeRecipesCount:
+739
+favoritesCount:
+1715
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2306154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wanted to cut the recipe in half for just the three of us, so I used half the amount of noodles and mayo, but still kept the rest of the ingredients the same, maybe less on the cilantro (just eyeballed that), used all the reserved juice. I also added some salt and pepper. This was an easy make ahead pasta salad with a nice refreshing flavor, would be a great summer salad, especially with fresh pineapple and grilled chicken. If I made the whole recipe I'd double the chicken and pineapple.

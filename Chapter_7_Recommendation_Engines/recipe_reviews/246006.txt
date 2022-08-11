@@ -1,0 +1,47 @@
+Recipe number:
+246006.txt
+Review:
+Rating:
+5
+dateLastModified:
+02/20/2016
+helpfulCount:
+1
+userID:
+13311554
+Display Name:
+chili
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Great easy recipe!
+Review:
+Rating:
+5
+dateLastModified:
+09/19/2019
+helpfulCount:
+1
+userID:
+9245972
+Display Name:
+32 flavours
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These turned out great! I used desiccated coconut, and a mix of coconut flour and finger millet flour which made a very crumbly dough but the end result was very much like the authentic pol roti. Thanks for the recipe :)
+Review:
+Rating:
+5
+dateLastModified:
+07/07/2019
+helpfulCount:
+0
+userID:
+11360188
+Display Name:
+Nigel Hurst
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+It was simply delicious....the only thing I added 1 teaspoon of baking powder

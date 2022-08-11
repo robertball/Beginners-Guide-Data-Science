@@ -1,0 +1,107 @@
+Recipe number:
+67697.txt
+Review:
+Rating:
+4
+dateLastModified:
+2004-04-26T13:23:55.31
+helpfulCount:
+11
+userID:
+793455
+Display Name:
+ELSIE GREY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We just got back from the Caribbean and fell in love with the tropical flavors.  I substituted sugar-free vanilla ice cream for the yogurt and added three strawberries. Yummy.  I plan to try this with cantaloupe or honeydew in place of the mango and maybe throw in a few nuts. Rum might add a zip! Endless possibilities.
+Review:
+Rating:
+3
+dateLastModified:
+2004-04-29T11:16:40.437
+helpfulCount:
+10
+userID:
+276377
+Display Name:
+KIMAR
+isPro:
+False
+followersCount:
+25
+followingCount:
+0
+madeRecipesCount:
+345
+favoritesCount:
+205
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+O.k. flavor but somewhat bland.
+Review:
+Rating:
+4
+dateLastModified:
+2006-04-17T12:31:39.67
+helpfulCount:
+1
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+253
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1065
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with fresh pineapple, and found I needed to sweeten it with a little Splenda. I just plonked the ice cubes into the glass at the end as I don't think my blender could handle grinding it. Very fruity and refreshing. Thanks!

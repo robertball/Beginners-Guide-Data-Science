@@ -1,0 +1,107 @@
+Recipe number:
+231960.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-31T17:32:44.917
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these to take to a church potluck and they are wonderful.  Easy and only a  few normal ingredients.  I had to leave the leftovers at church because if they had come home with me, I would have had the rest for dinner!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-09T07:55:48.883
+helpfulCount:
+0
+userID:
+26605180
+Display Name:
+Wen-Chi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7398555.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All my friends love this recipe!
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-09T20:54:53.073
+helpfulCount:
+0
+userID:
+1964893
+Display Name:
+Christina Marie Angelopoulos
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7131025.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i made these tonight and the taste is there, but the part where we need to roll the dough was impossible to roll into a ball. The dough was extremely wet and sticky to roll it. I followed to the T. Not sure what happened.

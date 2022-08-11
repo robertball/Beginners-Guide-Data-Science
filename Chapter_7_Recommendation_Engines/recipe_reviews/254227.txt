@@ -1,0 +1,149 @@
+Recipe number:
+254227.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-26T01:29:30.68
+helpfulCount:
+4
+userID:
+4312856
+Display Name:
+CJ
+isPro:
+False
+followersCount:
+23
+followingCount:
+0
+madeRecipesCount:
+177
+favoritesCount:
+910
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2559690.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When roasting check the squash blossoms after five minutes. Depending on the size of your blossoms they might not need a full 10 min in the oven.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-16T04:11:31.457
+helpfulCount:
+1
+userID:
+24993244
+Display Name:
+Mac's Mostly Vegan kitchen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+17
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super yummy recipe! I'm vegan so I did
+1/3 cup vegan ricotta from kite hill
+8-10 crimini mushrooms 
+1 shallot
+4 broc. florets 
+1/4 cup vegan parm. from follow your heart
+blended it till it was the consistency the recipe suggests
+at the temp. and time the recipe says! Such a great recipe that is flexible with any diet!
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-22T17:06:15.753
+helpfulCount:
+1
+userID:
+4071830
+Display Name:
+SophieBird
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+877
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2763025.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were great. I used rhubarb chard because that’s what  I was growing, plus by cutting off the stalks it shouldn’t make a difference. This might be great with spinach instead, which I will try next. The only change I made was to use feta cheese because that’s what I had available.  I put a little oil on the baking sheet incase they might stick, then drizzled a little oil over all. The whole process was not tedious at all as I was concerned it might become. They came out beautifully. No picture because we ate them too fast. Waiting on tomorrow’s blossoms to try this again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-21T20:39:45.99
+helpfulCount:
+0
+userID:
+4559033
+Display Name:
+dreamgirl511
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The filling was flavorful. I used cream cheese and kale because that’s what I had on hand. I missed the crispness of fried blossoms, but these were delightful.

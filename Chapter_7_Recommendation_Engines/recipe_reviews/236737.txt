@@ -1,0 +1,37 @@
+Recipe number:
+236737.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-03-05T21:56:41.373
+helpfulCount:
+4
+userID:
+3632174
+Display Name:
+BigShotsMom
+isPro:
+False
+followersCount:
+186
+followingCount:
+0
+madeRecipesCount:
+637
+favoritesCount:
+1878
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This went together so easily.  I did make a few changes I used lime juice instead of lemon and I used fat free Greek yogurt in place of sour cream.  While most of the ingredients are healthy this is not a light dessert, it is rich and a little bit is satisfying.  This will be making an appearance at many BBQs this summer. Thank you Doryce41!

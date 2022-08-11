@@ -1,0 +1,72 @@
+Recipe number:
+267891.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-05T13:44:06.23
+helpfulCount:
+0
+userID:
+2524607
+Display Name:
+Jomork
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+816
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Be careful when you add the green beans to the hot oil and sesame seeds. I had sesame seeds all over my cooktop. If I make this again, I'll omit the sesame seeds. They don't add much.
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-23T03:04:25.983
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9656
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and straight forward and the perfect side dish to a meal. I do feel the sesame seeds were out of place in this and I will omit them next time.

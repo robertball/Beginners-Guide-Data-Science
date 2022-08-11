@@ -1,0 +1,37 @@
+Recipe number:
+274658.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-28T06:28:30.08
+helpfulCount:
+1
+userID:
+12408622
+Display Name:
+stephb5
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great rub. Made the full recipe with the scored pork butt, prepared mustard, and rub. Smoked for 11 hours with applewood and the taste was great. I'm not a big fan of the "bark." I know this is sacrilege for bbq but it usually tastes burnt to me. The bark on this pork butt had a wonderful depth of flavor. It had a sweeter taste without the deep char flavor. It really added to the taste of the pulled pork. Recipe note: used paprika, not smoked paprika

@@ -1,0 +1,37 @@
+Recipe number:
+223455.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-31T18:41:02.79
+helpfulCount:
+2
+userID:
+3352370
+Display Name:
+Stacie Bonner
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+367
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1137784.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is good but I don't think I'll mix the avacodo and tomatoes with the chicken again.

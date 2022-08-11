@@ -1,0 +1,542 @@
+Recipe number:
+262841.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-10T01:51:32.257
+helpfulCount:
+6
+userID:
+22136618
+Display Name:
+Angela Bryan Yenigun
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this, but with healthier substitutions to see if it would still come out good. I used coconut sugar instead of white sugar, almond milk instead of cow's milk, coconut oil instead of olive oil. I also used dark cocoa because that is all I had.  I cooked for 50 seconds.  The result was great.  I will never use eggs again for my mug cakes.  Next time, I will try it with oat flour instead of wheat flour to make it gluten free :)
+Review:
+Rating:
+2
+dateLastModified:
+2018-07-03T17:52:42.177
+helpfulCount:
+4
+userID:
+22510203
+Display Name:
+Alexandria Lynne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5524765.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So I've made a lot of mug cakes and these instructions are not right. I put the solid ingredients in first, used a 1/4 tsp for the baking powder, and then the liquid ingredients. I didn't understand the cooking time. 30 seconds to 2 minutes??? I put it in there for 50 seconds and it looks like  a middle school volcano project for the science fair made out of chocolate so that's something
+Review:
+Rating:
+2
+dateLastModified:
+2018-07-07T17:57:09.59
+helpfulCount:
+1
+userID:
+23917516
+Display Name:
+Katie Stafford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5536419.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Don’t know what I made but it was NOT. a mug cake ?? maybe I left it in the microwave too long. But yeah it was a disaster and now my kitchen smells like it’s on fire ?? it’s literally not even edible.
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-08T19:02:36.877
+helpfulCount:
+0
+userID:
+25801644
+Display Name:
+Rena Estes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6875814.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made many mug cakes and this one might be okay if you make some adjustments.:
+I used the olive oil but I think I would try another type of oil if I make it again.
+But the main problem is cooking time as others have commented. 30 second to 2 minutes (because our microwave aren’t the same! 
+I did mine for 60 seconds on medium power and mine was still mud in the middle. I then cooked it on regular power for a minute  and it was overdone.
+Review:
+Rating:
+2
+dateLastModified:
+2019-10-27T04:07:10.49
+helpfulCount:
+0
+userID:
+26306361
+Display Name:
+Tannah Peterson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7169552.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+When I made this recipe, it didn't even cook... I put it in for 65 seconds, then again for a minute. When I took it out the second time, the top had a "crust" so to speak, and the inside was total fudge. The taste was okay.... I was just disappointed that it was "fudge" not cake...
+Review:
+Rating:
+3
+dateLastModified:
+2019-08-17T09:03:28.713
+helpfulCount:
+0
+userID:
+26001388
+Display Name:
+Lorda Main
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6941494.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Im making it again
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-03T00:53:55.89
+helpfulCount:
+0
+userID:
+25654649
+Display Name:
+Randall Lyn Kellow
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6700056.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made a lot of changes and was surprised how well it turned out.
+I subbed 1/2 the flour for coconut flour, 1/2 the sugar with stevia, and used cashew milk & vegetable oil. 
+
+I cooked mine for 3 instances of 40 seconds each time.
+
+It came out more like a warm fudge, but tastes marvelous.
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-21T01:04:02.517
+helpfulCount:
+0
+userID:
+2066064
+Display Name:
+Maryann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+766
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this recipe three times, and it makes enough for two people. I took another reviewer’s recommendation and used coconut oil instead of olive oil. I tried this recipe with chocolate chips and peanut butter chips. Of the two, I preferred the chocolate  chips.
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-13T19:45:08.393
+helpfulCount:
+0
+userID:
+24934532
+Display Name:
+Izzygirl11
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6282228.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It tasted kind flavorless to me. But overall, it was OK.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-30T05:31:19.317
+helpfulCount:
+0
+userID:
+24303770
+Display Name:
+Madeline Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5808582.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I honestly LOVED this recipe! it is such an easy way to make a cake! Whoever made this up is a genius! Whenever a friend is over and they want to make something with me I always use this as my first option because it is soooo delicious! I know all of you would like it too!!!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-18T20:52:41.163
+helpfulCount:
+0
+userID:
+23539235
+Display Name:
+Maggie Henderson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5360320.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made other kinds of mug cakes and this one is the best one so far. Instead of topping it with powder sugar, I topped it with vanilla ice cream. I also added no almonds. The cake is very good and I recommend making it!
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-15T20:11:28.953
+helpfulCount:
+0
+userID:
+24388553
+Display Name:
+Jade Arisinoe
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5863568.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have any on hand, so I didn't use chocolate chips or almonds.
+The resulting cake was somewhat dry, but palatable. 
+Although you can omit the chocolate chips, I feel like it would be a lot better with them.
+Next time I want to make a mug cake I will use this recipe, it's defiantly worth a try. Just use chocolate chips.
+Update: I made it a second time, but with slight changed to the recipe.
+As I last said, I didn't use the chocolate chips or almond flakes.
+I substituted olive oil (last time it had a bit of an olive oil taste) with coconut oil (equal amount), and added a bit of water, maybe about a tablespoon.
+This drastically improved the recipe. I would pair it with whipped cream, ice cream, and add chocolate chips if I had any of those, but with the changes I made it tasted way better!
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-05T23:32:38.697
+helpfulCount:
+0
+userID:
+24337185
+Display Name:
+emma
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't add the almonds bc my family doesn't like nuts. the olive oil did make a flavor change. t probably would have tasted better without the olive oil.
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-06T16:28:44.46
+helpfulCount:
+0
+userID:
+24186455
+Display Name:
+Dharini
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is ammmaaaaaazzzzeeee!!!
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-03T19:36:05.333
+helpfulCount:
+0
+userID:
+23434895
+Display Name:
+Addie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+SO good, I just added some extra chocolate chips on top, no almonds, it was the best thing ever!

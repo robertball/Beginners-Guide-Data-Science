@@ -1,0 +1,72 @@
+Recipe number:
+270808.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-22T23:53:57.88
+helpfulCount:
+0
+userID:
+3481580
+Display Name:
+Susannah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I reduced the sugar to 2 T. It was good.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-28T04:19:05.67
+helpfulCount:
+0
+userID:
+15729784
+Display Name:
+Máia 'Knitwitch' Whitaker
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2260036.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great recipe!   I make it using Hungarian High Altitude flour and pour batter into a cast iron skillet after melting 1/4 cup shortening in the pre-heating oven for a perfect crispy edge.

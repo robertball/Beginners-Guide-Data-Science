@@ -1,0 +1,107 @@
+Recipe number:
+221050.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-07-23T13:11:15.41
+helpfulCount:
+2
+userID:
+8911580
+Display Name:
+Hey J
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time I made the salsa as written, it was good. I made it again with the beans on hand, which were not low-sodium and I have to say, it tasted even better. I did rinse the beans to rid them of excess salt, and it may just be me but I could tell the difference. We used it to top tacos, in quesadillas as well as a dip for chips. Also, I added just a dash of cayenne. It's now a raceday staple. Thanks for posting it.
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-02T17:46:01.16
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great salsa! I used canned diced tomatoes, and instead of tomato juice, I just used the liquid from the tomatoes, which worked well. Only regular black beans on hand, so I used those. I had to use canned corn, so I dried it very well and sort of 'roasted' it in a pan (I know it's not the same, but it worked). Everyone really enjoyed this...I will def be making it again~YUM! Thanks for sharing. :)
+Review:
+Rating:
+3
+dateLastModified:
+2016-02-22T12:00:56.49
+helpfulCount:
+0
+userID:
+5707343
+Display Name:
+Courtney Servantes
+isPro:
+False
+followersCount:
+114
+followingCount:
+0
+madeRecipesCount:
+108
+favoritesCount:
+543
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368143.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was just okay for us. Lacked seasoning. We didn't care for the tomato juice/sauce combo either.

@@ -1,0 +1,73 @@
+Recipe number:
+223077.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-09-06T03:04:54.543
+helpfulCount:
+2
+userID:
+8300098
+Display Name:
+Monica Pinto
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+478
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4095344.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This wasn't as hard as I thought it was going to be.  Really RICH!!! but so worth the time.
+everything turned out except the custard.  I never made it before and I think I was suppose to continuously stir but I was  sidetracked and by the time I got back to the stove it was thick..I did strain it but it had a weird consistency..used it anyway..still tasted ok, next time I will not leave my custard alone for a second lol   Thanks for the recipe
+Review:
+Rating:
+3
+dateLastModified:
+2016-06-30T22:30:59.637
+helpfulCount:
+1
+userID:
+9905762
+Display Name:
+Judith Ellis
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+87
+favoritesCount:
+147
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2201210.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the ease, haven't tasted it, wish there was reviews because the final layer came out like water, so sad.  I put it in the mixer and had fluffy frosting.  Anyone try this, who is good at making ganache?  Somebody help me

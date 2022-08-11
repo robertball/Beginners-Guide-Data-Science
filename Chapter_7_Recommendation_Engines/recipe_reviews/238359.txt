@@ -1,0 +1,37 @@
+Recipe number:
+238359.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-07-10T07:25:41.987
+helpfulCount:
+1
+userID:
+2810501
+Display Name:
+mauigirl
+isPro:
+False
+followersCount:
+546
+followingCount:
+0
+madeRecipesCount:
+471
+favoritesCount:
+2081
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/312893.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cinnamon to sugar ratio seemed off. Most cinnamon roll/toast style recipes use a much larger sugar to cinnamon amount. The reslting product here is simply cinnamon toast cubes and not at all a cinnamon roll type experience. I think making cinnamon toast is way more simple to make. Actually a toaster would be safer for kids to operate too. Thanks for sharing.

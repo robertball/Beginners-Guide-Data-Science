@@ -1,0 +1,37 @@
+Recipe number:
+258934.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-02-04T05:18:18.54
+helpfulCount:
+3
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut the sugar back to 1 cup and I'm glad I did.  I only had 1 tsp lemon extract so I added 1 tbs of lemon zest and 1 tbs lemon juice. After tasting it I thought it was a bit on the dry side so I wound up glazing it with a combination of fresh squeezed lemon juice and powdered sugar. I liked it a lot better with the glaze.

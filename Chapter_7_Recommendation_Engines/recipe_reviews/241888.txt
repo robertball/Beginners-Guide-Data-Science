@@ -1,0 +1,146 @@
+Recipe number:
+241888.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-17T04:54:32.913
+helpfulCount:
+2
+userID:
+12059400
+Display Name:
+BoersmaCook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4386298.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Pretty close to the store bought! I couldn't choose which is better!  One key I would say is to definitely take them out of the oven before recipe time and not after. Let them sit and firm up.   Frosting recipe I substituted half the butter with some cream cheese but that's just my liking.
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-02T21:30:57.557
+helpfulCount:
+1
+userID:
+12541024
+Display Name:
+Ms Jean
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+246
+favoritesCount:
+1656
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't know what Lofthouse cookies are, but these were pretty good. Since my cake mix was only 15.25 oz (3 oz discrepancy - everything is shrinking but the price!), I added a few extra tblsp of flour, as well as 1/2 tsp salt. I floured my hands as I was rolling them which was a big help (very sticky dough otherwise).  The baking time was correct, and I got just over 2 doz. I did not use the listed frosting (time constraints) but frosted them with a canned butter frosting and sprinkles. I'm taking them to a church event tomorrow. A cake-like cookie that came together quickly. Thank you!
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-16T03:12:56.79
+helpfulCount:
+1
+userID:
+218344
+Display Name:
+magicallydelicious
+isPro:
+False
+followersCount:
+272
+followingCount:
+0
+madeRecipesCount:
+201
+favoritesCount:
+724
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367014.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were great! I used peanut oil instead of soybean, and I'll admit I cheated and used canned frosting.  But the cherry frosting with sprinkles really worked with these cookies.  And they really do taste like the ones from the grocery store - cakey, sweet, so good!  The batter was a weird texture - a little gummy, but they came out great.  I just baked a few and put the rest in the fridge. I'll probably freeze the rest of the dough to make them fresh.  Thanks for a quick and tasty cookie!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-20T09:50:03.113
+helpfulCount:
+1
+userID:
+17929484
+Display Name:
+ELLE EMME
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3511238.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+AWESOME !!
+
+Substituted Butter instead of Soybean oil, and, used "Melting Chocolates" (the microwaveable kind) as the icing.
+
+Will DEFINITELY be making these again !!  :)

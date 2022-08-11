@@ -1,0 +1,72 @@
+Recipe number:
+241860.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-02-10T09:55:24.557
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6893
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3310
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I did a mix of milk and white chocolate. Loved the different flavors and textures in these. I would def make this again~YUM! thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-06T18:55:23.307
+helpfulCount:
+0
+userID:
+21057115
+Display Name:
+K Pratt
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Has become a favorite request. from my grandkids to my 75 year old father in law. I made these for my grandkids a couple of years ago and now everyone ask when are you making them. Super easy to make and economical. Makes a huge amount. GREAT for gift giving to neighbors or anyone when you need an inexpensive gift for the holidays, and who doesn't love homemade candy?

@@ -1,0 +1,37 @@
+Recipe number:
+232463.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-09-04T23:50:46.27
+helpfulCount:
+0
+userID:
+8779605
+Display Name:
+rwiegand
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tweaked this to use fresh spinach and spaghetti instead of penne. Also added Parmesan to the meatballs.

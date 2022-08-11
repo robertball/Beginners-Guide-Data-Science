@@ -1,0 +1,37 @@
+Recipe number:
+276130.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-09T18:55:37.217
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8917
+followingCount:
+0
+madeRecipesCount:
+1121
+favoritesCount:
+2303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut the balsamic vinegar back to 1/4 cup. If I had used 1/2 cup, my eggplant would have been swimming in it. Other than that, I made this as directed. This was just "OK" in my opinion, and probably not something I'd make again. My husband liked it!

@@ -1,0 +1,37 @@
+Recipe number:
+24120.txt
+Review:
+Rating:
+4
+dateLastModified:
+2001-11-23T08:22:29.217
+helpfulCount:
+23
+userID:
+343917
+Display Name:
+SYLECTRA
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just tried the crust portion of this recipe. Very good, but I would make one correction. I was thrown by the instructions to put an 8-inch pie pan on top of the pan with the crust pressed into it. I didn't know whether to set it on top upside down, like a pot lid, or to flip it over and nestle it into the crust. After consulting with my mother in law, we decided the point was to keep it flat while precooking it and so we nestled it into the crust. It turned out fine!

@@ -1,0 +1,72 @@
+Recipe number:
+220453.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-04-21T10:17:34.87
+helpfulCount:
+4
+userID:
+3381469
+Display Name:
+gidgette
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/151859.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This Soda Bread rose well, had a very nice crunchy top & browned nicely. The batter is a bit difficult to handle, for it's stiff & sticky, so it was very hard to transfer from the bowl to the baking pan, even with a strong spatula. This bread is great on the day it's baked, but by the next day, it is all dried out and has no taste. I even tried freezing half of it on the day it was baked, taking it out of the freezer on the day it would be consumed, but that half was still dried out.
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-15T02:55:51.903
+helpfulCount:
+0
+userID:
+17895612
+Display Name:
+Holly Larimore
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have baking powder, so I skipped that ingredient. Otherwise looks great! Just waiting for it to cool down to slice up & eat!

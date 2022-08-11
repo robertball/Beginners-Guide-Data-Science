@@ -1,0 +1,37 @@
+Recipe number:
+267572.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-06T15:06:53.567
+helpfulCount:
+0
+userID:
+20641288
+Display Name:
+donnellyk
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+DIdn't puff much because of all the blueberries, but still tasted great! Super easy to make! Next time I make it I'll probably add more lemon zest cause only got a bit of that flavor.

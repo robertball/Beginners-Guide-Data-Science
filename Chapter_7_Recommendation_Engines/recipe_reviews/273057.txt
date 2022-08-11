@@ -1,0 +1,37 @@
+Recipe number:
+273057.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-05T20:23:50.537
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good, a bit on the sweet side so next time I would cut back on the sugar. I was unable to 'roll' the crust as the submitter states. I had to 'press' it in just like you would do so with a regular graham cracker crust. Very similar in taste and in looks to a Oreo cookie crumb crust. Thank you for the recipe.

@@ -1,0 +1,108 @@
+Recipe number:
+234308.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-29T02:20:12.36
+helpfulCount:
+0
+userID:
+6032926
+Display Name:
+Jolene Collins
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5801931.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+perfect way to use up my stock of cereal squares
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-26T21:18:10.317
+helpfulCount:
+0
+userID:
+22561745
+Display Name:
+Megan Dallessandro
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4973723.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love it!!! It’s a great little snack
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-31T09:25:49.52
+helpfulCount:
+0
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Peanut butter and chocolate?  What's not too love?!  
+This dip was quick and easy to put together, and it was a big hit with my family and my co-workers.

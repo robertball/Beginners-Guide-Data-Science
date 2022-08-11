@@ -1,0 +1,115 @@
+Recipe number:
+245850.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-03T13:45:08.62
+helpfulCount:
+9
+userID:
+74267
+Display Name:
+ecarley
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+220
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The ingredients in this dish made for a tasty dinner. However, it sounds like this recipe was adapted from a traditional recipe and needs some tweaking for the sous vide technique. 
+
+First, obviously the final product will not reach 165. Ignore that detail. 
+
+
+Next, individual plastic bags won't work for Ziploc users- more filling would probably end up outside the chicken than in. I rolled each individual breast in plastic wrap, making a tight bundle. Then I placed all the bundles into a single gallon-sized Ziploc. It worked great, and the rolls  cooked completely intact. 
+
+
+Finally, sous vide chicken looks pretty unappetizing without a stove finish. After cooking, I sprinkled some additional cajun seasoning on the outside and browned the rolls on two sides in frying pan. They looked stunning sliced up!
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-27T01:07:52.043
+helpfulCount:
+2
+userID:
+7017192
+Display Name:
+P MARK JOHNSON
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+768
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The previous review pointed out that 141 water will not give 165 meat. It was fine. A little more temp may set the stuffing better. It needs pan seer to present. I needed to use smaller breasts so when they are pounded it stays together.  Taste was good. Practice will make perfect.
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-05T21:09:55.857
+helpfulCount:
+1
+userID:
+4565832
+Display Name:
+Chris Armstrong
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3563293.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Although the previous writer was correct about the stove finish, remember chicken does not need to get to 165 in a sous vide to be considered safe. I had issues with that when I first used my sous vide and researched it extensively (since it goes against what we learned growing up).  A stove finish makes this meal really good

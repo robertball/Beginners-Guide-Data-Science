@@ -1,0 +1,37 @@
+Recipe number:
+258559.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-27T23:10:34.233
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9650
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved the tang the tomatillo brought to this.LOVED it! I like things hot so after tasting it I added some crushed red chili flakes and blended them in in. For most people I think the heat level is pretty spot on as written. The one thing I would do differently next time is  to not blend the cilantro and some of the jalapeno. I would have liked more texture. Overall excellent recipe and one I will make often!

@@ -1,0 +1,37 @@
+Recipe number:
+255440.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-13T15:04:18.083
+helpfulCount:
+1
+userID:
+25374416
+Display Name:
+Jim Stutz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6561416.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty well; I feel like it could've used a tiny bit more salt, but the other ingredients are quite flavorful, and you don't really need many spices other than the ones listed in the recipe.

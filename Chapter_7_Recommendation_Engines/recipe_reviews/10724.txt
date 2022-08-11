@@ -1,0 +1,107 @@
+Recipe number:
+10724.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-11-28T06:55:51.093
+helpfulCount:
+9
+userID:
+515168
+Display Name:
+JJ42104
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I got the old recipe(add flour to right consistency), thank you so much for the ammounts, i used to get together with my grandmother every christmas and make these. This is a wonderful recipe for cookies, the longer u keep them, the better they become...If they last that long... Great cookies to decorate any way u like...
+Review:
+Rating:
+4
+dateLastModified:
+2013-11-05T09:06:31.147
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+501
+followingCount:
+0
+madeRecipesCount:
+1554
+favoritesCount:
+3236
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice light crispy sugar cookie
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-11T03:39:07.473
+helpfulCount:
+0
+userID:
+8919761
+Display Name:
+Jay Roberts
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+595
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2035344.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had trouble getting thin enough, but otherwise, just like Grandma used to make.

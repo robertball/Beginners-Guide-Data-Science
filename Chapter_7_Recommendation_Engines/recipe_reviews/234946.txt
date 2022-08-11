@@ -1,0 +1,107 @@
+Recipe number:
+234946.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-06-28T03:30:17.737
+helpfulCount:
+0
+userID:
+24183928
+Display Name:
+JiffyDiane
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6685454.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was kinda tart
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-24T09:51:22.01
+helpfulCount:
+0
+userID:
+16528888
+Display Name:
+Michelle Suarez
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was super easy and everyone loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-28T10:53:10.537
+helpfulCount:
+0
+userID:
+2017265
+Display Name:
+Alana Kadas
+isPro:
+False
+followersCount:
+45
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2406538.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a themed movie night with my kids and it was a big hit!  I used Sprite and lime flavored sherbet.  The lime sherbet that I found was disappointingly white, so I added a few drops of green food coloring to the brew and it instantly turned it from boring to creepy!  I loved the way it bubbled up and so did my boys!  It was really easy to make such a fun treat for them!

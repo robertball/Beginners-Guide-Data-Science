@@ -1,0 +1,107 @@
+Recipe number:
+245874.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-12T22:20:16.547
+helpfulCount:
+3
+userID:
+11402499
+Display Name:
+Keith Horn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for the first time and enjoyed it. I put a little more hot sauce ( Chipotle Tabasco). Used chopped red cabbage since I had some left over in fridge.  I also added some cooked Super Grains (white and red quinoa, millet, and buckwheat) for extra fiber.  This recipe was quick to make and easy on the budget.  I will definitely be making this again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-07T04:07:50.55
+helpfulCount:
+2
+userID:
+24481505
+Display Name:
+Miranda Carter
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5928943.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! I definitely did some things different like add tomatoes to the salsa. Also cooked the tuna with lemon pepper, garlic, and chili powder seasonings. Turned out wonderful
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-07T01:48:38.04
+helpfulCount:
+2
+userID:
+22852792
+Display Name:
+Slythershit
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I absolutely loved it! Tuna tacos are such a delight

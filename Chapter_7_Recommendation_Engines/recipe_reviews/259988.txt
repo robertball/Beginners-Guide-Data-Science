@@ -1,0 +1,37 @@
+Recipe number:
+259988.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-28T14:02:44.14
+helpfulCount:
+0
+userID:
+24655659
+Display Name:
+Joaquin T Alayon
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6056305.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+so delicious

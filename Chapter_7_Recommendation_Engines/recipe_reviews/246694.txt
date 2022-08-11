@@ -1,0 +1,37 @@
+Recipe number:
+246694.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-18T00:42:00.32
+helpfulCount:
+0
+userID:
+16972102
+Display Name:
+Ginger Volk Markey
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+413
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2937226.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good, but the batter ratio was off so only gave the recipe 4 stars. For each pancake I used 3/4 cup of flour to 3/4 cup of very cold water. This resulted in the right consistency. I will try tempura batter mix next time for more crispness.  I made a batch of the dipping sauce for each pancake. Didn’t find Korean red pepper powder so substituted cayenne. It was the perfect heat and spice for the pancake. I think you could make this with meat rather than seafood. We added bean sprouts and matchsticks of red bell pepper.

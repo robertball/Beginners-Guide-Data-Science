@@ -1,0 +1,78 @@
+Recipe number:
+275579.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-31T23:15:16.567
+helpfulCount:
+0
+userID:
+26761836
+Display Name:
+Brad Swanson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7522807.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time making this and I will definitely make it again!  It's got some heat and plenty of flavor!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-26T02:03:35
+helpfulCount:
+0
+userID:
+15137409
+Display Name:
+Eva
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+258
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2395391.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was DELICIOUS!! I made this in my crockpot after I Browned the meat and added the rest of the ingredients!
+I did adjust a few things...
+I wanted to make sure I had leftovers and didn’t want it thick. So, I just increased the meat by half a pound, used 2- 14oz cans of broth,  and the tomato paste with garlic and increased it by 1Tbl
+Also, decreased the lentils to half a cup and added some diced carrots!
+Served it with basmati rice and naan bread.
+Everyone LOVED it and I had my leftovers for my family to pack for lunch the next day!
+Definitely will make this again!

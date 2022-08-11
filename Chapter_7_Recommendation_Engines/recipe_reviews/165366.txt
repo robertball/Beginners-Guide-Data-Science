@@ -1,0 +1,47 @@
+Recipe number:
+165366.txt
+Review:
+Rating:
+5
+dateLastModified:
+08/09/2008
+helpfulCount:
+7
+userID:
+3073838
+Display Name:
+MagsMom5
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Loved It!!!  We made it with ingredients as they were listed.
+Review:
+Rating:
+2
+dateLastModified:
+07/20/2008
+helpfulCount:
+6
+userID:
+2197703
+Display Name:
+Montereykiddo
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Yes, this sangria is light and refreshing, but overall I was disappointed. We substituted Peach Schnapps which may have played a part in our poor rating.
+Review:
+Rating:
+5
+dateLastModified:
+09/18/2008
+helpfulCount:
+5
+userID:
+814205
+Display Name:
+Robin H
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+It really annoys me when people change a recipe, then give it a bad review. This is an awesome sangria recipe, will definately make again!

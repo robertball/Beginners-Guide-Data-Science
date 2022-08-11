@@ -1,0 +1,72 @@
+Recipe number:
+237666.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-24T13:56:18.863
+helpfulCount:
+1
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+771
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not a hot chocolate connoisseur, but this is thinner and less sweet than other hot chocolates I've had. I'm ok with that.
+Review:
+Rating:
+4
+dateLastModified:
+2015-10-25T18:46:30.64
+helpfulCount:
+0
+userID:
+6292494
+Display Name:
+Sherrie Scott Weerheim
+isPro:
+False
+followersCount:
+15
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+181
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1910865.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it without putting the cinnamon in but we put cinnamon on the top. VERY YUMMY!!

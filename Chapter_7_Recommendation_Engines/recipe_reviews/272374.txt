@@ -1,0 +1,37 @@
+Recipe number:
+272374.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-27T03:33:46.34
+helpfulCount:
+0
+userID:
+26580565
+Display Name:
+Tomcat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+107
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoy cooking new dishes, and I loved this one! I added fresh mushrooms, and a touch of cumin and cayenne, having explored some other similar recipes. Served with jasmine rice, it made a great meal.

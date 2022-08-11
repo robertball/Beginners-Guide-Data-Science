@@ -1,0 +1,288 @@
+Recipe number:
+271119.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-26T20:36:46.82
+helpfulCount:
+7
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+3.26.18  Followed the recipe to the letter with the exception of omitting the liquid smoke which we just don’t care for.  Once your 4 minute cooking time is up,  the Instant Pot® automatically converts to the “keep warm” mode, so you don’t need to make another selection.  This did take about 25 minutes for the liquid to cook down to a creamy mac and cheese consistency.  My only recommendation would be to use a good-quality cheddar cheese (I like extra sharp), as it will make a huge difference in taste.   Thank you Michael Beatty for sharing your recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-08T01:47:36.197
+helpfulCount:
+1
+userID:
+12209362
+Display Name:
+Deb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+87
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2579065.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My new favorite Instant Pot recipe!
+My new favorite Mac&Cheese recipe!!
+Really simple, really good ... adult and kid pleaser.
+The first time I made it I followed the directions exactly.  Very good!
+The second time I made it, which was for Thanksgiving dinner, I added about a cup or so of cubed Velveeta cheese.  Because ... you know ... Velveeta!!  It was outstanding!  Rave reviews all around.
+And the ingredients are all something you probably have in your fridge (or freezer - I load up on the packs of shredded cheese when they’re on sale and store them in the freeze).
+Less than 30 minutes start to finish!
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-15T02:55:19.68
+helpfulCount:
+0
+userID:
+16108388
+Display Name:
+Jill Elizabeth Savory-Brown
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2454458.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to make a couple of changes.  I didn't have any dry mustard or liquid smoke flavouring so I substituted yellow mustard and Worcestershire sauce. I will make this again with one more change. Parmesan cheese didn't taste like it belonged in this recipe. Nest time I will use all cheddar. It still was a very good recipe and very fast and easy to make.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-06T13:22:18.233
+helpfulCount:
+0
+userID:
+3919684
+Display Name:
+Mindy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+252
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this 6 times and my kids can get enough! I follow the directions exactly, except for the liquid smoke, which I have never bought or used. Has anyone tried doubling this recipe?
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-04T05:36:28.247
+helpfulCount:
+0
+userID:
+26050926
+Display Name:
+Rula Martini
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7514032.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-15T23:52:35.667
+helpfulCount:
+0
+userID:
+6472848
+Display Name:
+Shelli Gheen Beeler
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+321
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5005430.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The whole family enjoyed this one! I may add some bacon next time...I think it will be tasty with the smoky flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-10T21:08:21.24
+helpfulCount:
+0
+userID:
+26263580
+Display Name:
+Kristie Schrader
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7138077.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My whole family loves this recipe. I make it for them at least once a month
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-05T07:22:52.58
+helpfulCount:
+0
+userID:
+25400657
+Display Name:
+Beth D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6518965.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It sounds like a great recipe, but I have a question and I'm not sure where else to post it.  I got a smaller (3 quart?) size InstantPot for Christmas, along with a cookbook.  Unfortunately, most of the recipes in the cookbook and the ones I'm finding online are for the (I think) 6 qt size.  Can you just halve a recipe and still have it work?  Does the time you cook it change?  Was this recipe intended for the bigger or smaller InstantPot?  I've never used one before and because you can, apparently, steam your entire face off, I want to make sure I know what I'm doing is right before getting started.  Thank you.

@@ -1,0 +1,72 @@
+Recipe number:
+238899.txt
+Review:
+Rating:
+2
+dateLastModified:
+2014-08-10T09:13:04.593
+helpfulCount:
+1
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12225
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used 1 cup mayonnaise and didn't use the evaporated milk.  With just 3 green onions this was really bland. The description mentions bacon but there is no bacon called for in this recipe.  I doctored it up with celery, olives, pickles, garlic salt and a little pickle juice.  As written, this did not go over well with my family.
+Review:
+Rating:
+2
+dateLastModified:
+2017-08-28T04:22:26.34
+helpfulCount:
+0
+userID:
+13485395
+Display Name:
+bibliofan
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+71
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as directed and it was bland.  It does need to be kicked up with something.  Pickle relish, olives,...next time

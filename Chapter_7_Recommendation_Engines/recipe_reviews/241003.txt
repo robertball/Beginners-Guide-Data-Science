@@ -1,0 +1,78 @@
+Recipe number:
+241003.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-04-20T19:22:07.537
+helpfulCount:
+2
+userID:
+2935721
+Display Name:
+Aredendra
+isPro:
+False
+followersCount:
+37
+followingCount:
+0
+madeRecipesCount:
+90
+favoritesCount:
+540
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1946027.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A couple things when you're making this recipe.  Firstly, I'd suggest making slightly more dressing than it directs.  The coating is VERY light.  Especially if you add a protein, as I did (shrimp).  
+
+Second, don't let the dressing's taste scare you before you actually dress the salad!  It's definitely meant to be paired with the pickled vegetables.  
+
+I made this recipe in steps and while the rice was a little dry (it had been refrigerated overnight), it was nice to be able to do pieces here and there.  My pickles were refrigerated for a little over 24 hrs and they were still crisp and delightful.  
+
+Ultimately, this still gets three stars because the flavor profile is just a little too tame.  I served the salad cold which does dull flavors a touch but I'd say maybe a little more chili paste.  A little more lime juice.  Just some overall kick!
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-01T00:10:00.94
+helpfulCount:
+0
+userID:
+20002590
+Display Name:
+DebbieB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+239
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made some changes, grocery's store was out of daikon, put in diced cucumbers. It was OK. Not the greatest, but not bad.

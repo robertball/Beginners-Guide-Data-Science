@@ -1,0 +1,72 @@
+Recipe number:
+236480.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-10T16:15:39.64
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+129
+favoritesCount:
+456
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Soooooo good!!!! The only thing I might add next time would be a light drizzle of chocolate along the top. Absolutely perfect and you can’t get any easier than mixing 3 ingredients together and baking it. Thanks for a great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-10T20:50:53.73
+helpfulCount:
+0
+userID:
+14418298
+Display Name:
+Lynne Engebos Bywater
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1527782.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a fast easy recipe, not to sweet, I did cut the pieces smaller. But if you love coconut this recipe is for you!! Yummy!

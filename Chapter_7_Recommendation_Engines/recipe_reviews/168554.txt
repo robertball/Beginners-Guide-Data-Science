@@ -1,0 +1,62 @@
+Recipe number:
+168554.txt
+Review:
+Rating:
+5
+dateLastModified:
+07/15/2008
+helpfulCount:
+10
+userID:
+3001061
+Display Name:
+Steve Moudry
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/3136908.jpg
+text:
+This was awesome!!  Perfect mix of salty and sweetness.  Yum!  Didnt do the pine nuts and used white wine vinegar because I couldn't find the kind they called for.  Was great the way I made it though!!
+Review:
+Rating:
+5
+dateLastModified:
+08/19/2008
+helpfulCount:
+4
+userID:
+3090635
+Display Name:
+Queen Bean
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This salad is amazing!  By accident I used equal parts champagne vinegar and olive oil and it still tasted fantastic.  The flavors explode in your mouth - delish!
+Review:
+Rating:
+5
+dateLastModified:
+09/30/2008
+helpfulCount:
+2
+userID:
+3172954
+Display Name:
+emaijohn
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+it was a hit at potluck, very good, would make this again, lovvvve it, I added halved strawberries and used raspberry vinegar instead champagne vinegar(too sour)
+Review:
+Rating:
+5
+dateLastModified:
+09/08/2008
+helpfulCount:
+2
+userID:
+2565086
+Display Name:
+SusieQ
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This salad was very delicious!  I added some balls of cantaloupe which were great.  Very refreshing salad.

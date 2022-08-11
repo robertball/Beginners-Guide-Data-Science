@@ -1,0 +1,73 @@
+Recipe number:
+259458.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-25T00:57:09.74
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had my doubts about this and boy was I wrong! I had plans of actually making a pizza, toppings and all. But I decided to taste the crust first and after that one taste my plans went out the door. I ate the whole pizza crust by itself, that's how good it was!
+Amazingly it does taste like a crust. Thanks for a great recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-25T01:50:36.797
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you love the flavor of roasted broccoli as I do then this is a must! Excellent and 5 stars all the way. I didn't get as much as the water squeezed out of the broccoli as I needed to and had to add extra bread crumbs but still excellent. Thanks for the great recipe!

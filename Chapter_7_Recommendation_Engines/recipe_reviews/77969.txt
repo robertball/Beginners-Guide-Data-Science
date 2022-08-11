@@ -1,0 +1,77 @@
+Recipe number:
+77969.txt
+Review:
+Rating:
+5
+dateLastModified:
+11/29/2004
+helpfulCount:
+11
+userID:
+1269428
+Display Name:
+JMIHELICH
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I served this for our Thanksgiving dessert.  It was great.  Tastes just like pumpkiin pie without the crust.  Since I'm not good at pumpkin pie crusts (usually soggy)and I like the filling best anyway, it was a prefect dessert.  With fat free whipped topping, nobody missed the ususal pie.
+Review:
+Rating:
+4
+dateLastModified:
+10/10/2005
+helpfulCount:
+11
+userID:
+415774
+Display Name:
+CURLYQ0714
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I enjoyed the taste of this dessert...and glad that it is "legal" on South Beach.  However, it took longer to cook than the recipe states.  I saw that someone else had the same experience, so I had increased the oven temp to 325 and it still took longer.  Just keep testing with a knife every few minutes after the stated cook time.
+Review:
+Rating:
+1
+dateLastModified:
+03/06/2005
+helpfulCount:
+6
+userID:
+677894
+Display Name:
+MF05
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Creates a bland dish that is not a souffle.  Cooking temp is too low and time is too long.  The result will be part custard, part semi-risen souffle.
+Review:
+Rating:
+5
+dateLastModified:
+10/06/2005
+helpfulCount:
+5
+userID:
+1547099
+Display Name:
+Doreen
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Awesome...my husband's favorite dessert. We've been on the South Beach diet for almost a year now. I've lost 110lbs and he's lost 50. The dessert is the best.
+Review:
+Rating:
+5
+dateLastModified:
+12/31/2004
+helpfulCount:
+4
+userID:
+1163299
+Display Name:
+PERBACO
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+These were the perfect dessert!

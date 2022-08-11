@@ -1,0 +1,37 @@
+Recipe number:
+270825.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-24T17:19:13.427
+helpfulCount:
+0
+userID:
+9070020
+Display Name:
+waldo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4308012.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  I used a Japanese Mandolin I purchased years ago. The recipe author is right. You really have to watch these. Most came out just right but some (in the same batch) came out a bit soft and some too crispy. I’m just beginning to use an air fryer and assume I’ll get better at this!

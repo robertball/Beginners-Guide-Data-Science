@@ -1,0 +1,108 @@
+Recipe number:
+277715.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-03-01T17:37:46.62
+helpfulCount:
+0
+userID:
+25908029
+Display Name:
+Dean Cox
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6878182.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! The sauce part makes a bit too much, so I cut that down a bit for next time. Otherwise, great recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-23T23:51:12.12
+helpfulCount:
+0
+userID:
+15461407
+Display Name:
+bkmaurer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No changes
+Absolutely deliisious
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-08T23:23:33.36
+helpfulCount:
+0
+userID:
+26732254
+Display Name:
+Joe Walton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7497049.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I halved the recipe to try it. I really liked it. The sauce seemed like it was too much. May have to adjust to taste.

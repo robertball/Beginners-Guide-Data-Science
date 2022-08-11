@@ -1,0 +1,72 @@
+Recipe number:
+221307.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-01T16:35:12.137
+helpfulCount:
+1
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1060
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The hubs was thrown off by the actual orange juice in the cocktail.  He would have preferred just bitters or a twist.
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-08T14:13:02.013
+helpfulCount:
+0
+userID:
+13808011
+Display Name:
+krissy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good with cherry brandy, or can substitute regular brandy + a splash of maraschino juice.

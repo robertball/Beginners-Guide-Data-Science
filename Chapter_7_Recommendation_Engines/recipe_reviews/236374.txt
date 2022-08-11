@@ -1,0 +1,37 @@
+Recipe number:
+236374.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-05-07T16:20:32.7
+helpfulCount:
+0
+userID:
+11489253
+Display Name:
+What you cooking Willis?
+isPro:
+False
+followersCount:
+58
+followingCount:
+0
+madeRecipesCount:
+64
+favoritesCount:
+204
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1022842.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Of course I cheated and used a juicer, and the technique really does make the juice. When I juiced it, the mint flavor didn't come thru and that is what I really wanted. I also think I could have chosen a better quality peach, I think that would have added the extra sweetness.

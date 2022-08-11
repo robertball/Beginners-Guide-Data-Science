@@ -1,0 +1,107 @@
+Recipe number:
+258679.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-03T17:27:24.463
+helpfulCount:
+0
+userID:
+21570894
+Display Name:
+Joseph Cormier
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+45
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7762164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Straight forward and tastes good what more can you ask for.
+Review:
+Rating:
+3
+dateLastModified:
+2018-12-31T22:06:14.183
+helpfulCount:
+0
+userID:
+17500871
+Display Name:
+Debbie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+73
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I too left out the curry paste, like the other reviewer. My kids said it was fine, not great. A little dry, needs more sauce of some sort. However, it was a nice dinner and we felt satisfied.
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-08T20:54:32.66
+helpfulCount:
+0
+userID:
+22464215
+Display Name:
+Dorothyann Ambrosio-Bernal
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+43
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. I used Lima beans and carrots. I didn’t have peas. I left out the curry paste not a fan of curry flavor.

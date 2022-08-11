@@ -1,0 +1,497 @@
+Recipe number:
+232274.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-03-22T05:48:25.81
+helpfulCount:
+10
+userID:
+1610064
+Display Name:
+bmatheson
+isPro:
+False
+followersCount:
+18
+followingCount:
+0
+madeRecipesCount:
+217
+favoritesCount:
+534
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/116066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for a neighbor who had been ill. When she brought me back the container she brought me three jars of different spices that "might have improved it." I didn't think it was too bad. Did need a bit of "something" -- glad she figured it out for me. LOL! (Pretty nervy if you ask me.)
+Review:
+Rating:
+5
+dateLastModified:
+2013-11-01T13:05:22.25
+helpfulCount:
+3
+userID:
+10639237
+Display Name:
+Kat Leedom
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+70
+favoritesCount:
+538
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1155063.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Extremely good, but I need a WAY bigger pot than what I have!  :)
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-01T08:35:25.21
+helpfulCount:
+3
+userID:
+2688327
+Display Name:
+Andrea
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+2293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this soup fast and flavorful. I had a bowl this morning and It hit the spot. I'm a diabetic and find soup is a good way to control my salt,fat and carbs. The only thing I changed was to trade the pasta for kidney beans and used V8 juice instead of tomato juice. Otherwise I stayed with the recipe. For lunch I am going to add a dollup of sour cream. yum! this ones a keeper. Tomorrow I think I will add some string beans. Thanks Shelly
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-22T09:07:43.143
+helpfulCount:
+2
+userID:
+10431298
+Display Name:
+CLaws
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+388
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6084940.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an excellent vegetable soup.  I cut the number of servings down as needed.  However I used a whole can of beans and the soup was too thick.  I thinned it with additional chicken broth.  I also used diced tomatoes with garlic and chili peppers.  Made for a very spicy soup!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-20T16:03:40.43
+helpfulCount:
+1
+userID:
+7552017
+Display Name:
+Shelly Culp
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6140723.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I submitted this original recipe as the following: 
+
+Soup base:
+4 cups chicken or vegetable broth
+2 cups tomato juice (I use my own homemade tomato juice, which has more flavor) or V8
+
+*add more broth as needed to thin out soup
+
+Vegetables:
+2 carrots, chopped
+2 celery stalks, chopped
+1/2 zucchini, chopped
+1/2 yellow squash, chopped
+1 onion, diced
+4 garlic cloves, diced
+2 cups spinach
+2 (14.5 oz) diced fire-roasted tomatoes
+1 can kidney or cannellini beans, drained & rinsed
+*Handful of mushrooms, chopped
+*Handful of green beans, chopped 
+
+*I don’t really measure the amount these items.
+***you could also add corn, peas or any other vegetables. I just use up whatever I have.***
+
+Seasonings:
+1 1/2 teaspoons Oregano
+1 1/2 teaspoons Basil
+1 teaspoon Thyme
+1 teaspoon Parsley
+1 teaspoon Rosemary
+1 teaspoon Marjoram
+1 Bay leaf
+2-3 pinches of Sea Salt
+1-2 pinches of Pepper
+Dash of Paprika 
+
+***Add some red pepper flakes if you want a little spice. 
+
+Pasta - Ditalini, Rotelle or Shell-shaped
+
+***NOTE: I don’t know why Allrecipes kitchen changes some recipes as they are originally submitted, but this is how I make it.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-20T01:50:04.497
+helpfulCount:
+0
+userID:
+17240750
+Display Name:
+Trish Lautensleger
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was going to make this soup the way it was written. Then when going through the comments I read the one from the original Cook. I was amazed at how different it was! I used the herb mixture from her comments and it is fabulous!
+Review:
+Rating:
+4
+dateLastModified:
+2019-03-25T02:55:15.717
+helpfulCount:
+0
+userID:
+17703727
+Display Name:
+chuck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4471613.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Got good reviews and many seconds. I believe this is a 5 star recipe but i would change my version a bit. I pretty much followed the recipe but added mushrooms and substituted kale for spinach. I tend to worry during the making and add more of components than called for so i after the fact added a lot of broth and tomato juice. Still was like stew (not a bad thing) but too many noodles. I read the maker’s review and added a lot more spices than on the published list. It was very tasty. Definitely on my list for another try but I’ll stick with the spices and back off on noodles and extra quantities of veggies.
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-20T21:52:39.567
+helpfulCount:
+0
+userID:
+23075120
+Display Name:
+Kirstan Alli
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4884007.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i diced my own tomato and added tomato sauce. also used vegetable broth  in place of chicken broth.  The seasonings i eyeballed, but i'm sure was much more than recommended. Also used tiny shells for the pasta.
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-10T01:05:55.287
+helpfulCount:
+0
+userID:
+15807951
+Display Name:
+paulbrocchini
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it for a party and EVERYONE loved it.  Thick, hearty and delicious!!
+Review:
+Rating:
+3
+dateLastModified:
+2017-01-24T21:51:29.617
+helpfulCount:
+0
+userID:
+20817353
+Display Name:
+LisaTZ143
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think I would omit the tomato juice next time and use both chicken and vegetable stock.  I'm a picture person and chose this recipe for it's delicious mushrooms, which are non existent in the recipe.  Just added them and it was good.
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-15T06:13:56.413
+helpfulCount:
+0
+userID:
+6926619
+Display Name:
+kayak3
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe for a vegetable, passed it on,will definitely make it again
+Review:
+Rating:
+3
+dateLastModified:
+2014-03-06T17:40:01.387
+helpfulCount:
+0
+userID:
+13117743
+Display Name:
+Nancy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+As is, I found it somewhat plain.  I added cayenne, basil, a little liquid smoke & heavy on the black pepper to give it some zip.  Served with fresh grated parmesan.
+Review:
+Rating:
+3
+dateLastModified:
+2014-01-12T13:14:18.92
+helpfulCount:
+0
+userID:
+916663
+Display Name:
+LJOY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+152
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup is quite bland. My husband added some Tabasco sauce to his bowl and liked it better after that.

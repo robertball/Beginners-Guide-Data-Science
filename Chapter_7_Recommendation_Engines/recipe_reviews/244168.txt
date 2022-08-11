@@ -1,0 +1,72 @@
+Recipe number:
+244168.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-27T10:30:01.65
+helpfulCount:
+2
+userID:
+14730345
+Display Name:
+Kerry Paulson
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1716114.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you for the great recipe!  This made several bars and stocked my fridge with a healthy snack for my family.  I had to substitute apple butter as I didn't have the applesauce on hand last night.  This may have made it sweeter than typical.  They taste amazing!  I love the combination of salty, nutty and sweet.  The coconut and cinnamon also add to the deliciousness.  And they were easy and fun to make!
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-20T23:02:07.127
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8914
+followingCount:
+0
+madeRecipesCount:
+1118
+favoritesCount:
+2285
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made half a recipe, and used a 7" x 10" pan. They taste good, but they are kind of sticky. I ended up wrapping them in waxed paper, and putting some in the freezer, as even a half batch made quite a few. These will get eaten up, but I probably won't make them again.

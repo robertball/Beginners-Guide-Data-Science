@@ -1,0 +1,107 @@
+Recipe number:
+273291.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-08T19:05:33.36
+helpfulCount:
+1
+userID:
+24346788
+Display Name:
+Hadley Ferrero
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5833555.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked how all the items went together to create a delicious entree
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-04T01:53:10.31
+helpfulCount:
+1
+userID:
+22511710
+Display Name:
+Steve Conwell
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+45
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make and delicious....
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-29T18:44:44.973
+helpfulCount:
+0
+userID:
+26059321
+Display Name:
+Cupcake Gurl
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is a  yummy sandwich!!!!

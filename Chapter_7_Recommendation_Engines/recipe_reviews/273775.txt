@@ -1,0 +1,73 @@
+Recipe number:
+273775.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-07T14:15:49.51
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really good and it works exactly as written. If you don’t have mafalde pasta, use lasagna sheets broken into pieces.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-03T02:26:00.67
+helpfulCount:
+0
+userID:
+26191645
+Display Name:
+Mary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used turkey in place of beef as I no longer am allowed to eat any beef, pork--no red meat at all.  I did everything else the same but without salt/pepper. Rarely use either of them. I loved it. Actually turned on my oven (a VERY rare thing as I am alone now.)
+Tasted great.

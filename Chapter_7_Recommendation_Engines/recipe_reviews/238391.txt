@@ -1,0 +1,37 @@
+Recipe number:
+238391.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-07T16:24:33.57
+helpfulCount:
+1
+userID:
+26246486
+Display Name:
+Shambo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great and healthy too!   I do not like corn in stuff, so I left it out, still was great.

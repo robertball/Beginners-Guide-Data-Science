@@ -1,0 +1,72 @@
+Recipe number:
+220026.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-31T21:13:16.64
+helpfulCount:
+0
+userID:
+22261238
+Display Name:
+Elizabeth Masterton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5843873.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a pizza party & a Christmas party and everyone loved it. I didn't have herb & garlic soup so I used my own similar seasonings. Served it with Townhouse parmesan cheese & garlic pita chips  & garlic toasted bagel chips. Delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-18T01:47:11.42
+helpfulCount:
+0
+userID:
+5996496
+Display Name:
+thehills
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+8
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used herb and garlic salad dressing packet because I couldn't find herb and garlic soup mix at the store.  Only used half of the packet.  This dip was a huge hit at our Xmas party!  Cheesy and delicious.

@@ -1,0 +1,37 @@
+Recipe number:
+244354.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-13T15:51:57.807
+helpfulCount:
+0
+userID:
+6413577
+Display Name:
+m
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+546
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing! My daughter ordered an Acai bowl at a local juice bar and this recipe was a great replica. Super healthy and simple to make.

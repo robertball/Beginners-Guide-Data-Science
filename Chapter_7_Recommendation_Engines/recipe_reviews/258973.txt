@@ -1,0 +1,37 @@
+Recipe number:
+258973.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-04T17:49:38.74
+helpfulCount:
+0
+userID:
+26974345
+Display Name:
+Esther White
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7688200.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with a blend of Durham and all purpose flour. The dough has a soft, pillowy texture and lends itself very well to either savoury, cheesy or sweet additions. Well worth the small effort of soaking the saffron the night before.

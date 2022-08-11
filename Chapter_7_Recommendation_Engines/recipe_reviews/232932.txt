@@ -1,0 +1,107 @@
+Recipe number:
+232932.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-26T22:55:24.293
+helpfulCount:
+2
+userID:
+13321020
+Display Name:
+Faye Denninger
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+175
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6852806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will definitely make it again. Even better the second day. I used maple syrup instead of corn syrup. Served with whipped cream and vanilla ice cream
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-28T00:19:59.823
+helpfulCount:
+2
+userID:
+5073539
+Display Name:
+sbehm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for some men at church. It looked as though they licked the pan clean. I plan on making this quite often.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-05T22:34:41.503
+helpfulCount:
+1
+userID:
+5873130
+Display Name:
+Monty Blandford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+318
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1160519.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy to make and results are VERY good!  Made twice for Thanksgiving

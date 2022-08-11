@@ -1,0 +1,38 @@
+Recipe number:
+241895.txt
+Review:
+Rating:
+1
+dateLastModified:
+2016-03-27T04:41:26.257
+helpfulCount:
+0
+userID:
+4113327
+Display Name:
+Kathy Gregory
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/280955.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So I actually made this this as soon as I saw the recipe in the magazine because I actually have silicone round ice ball trays.
+The orange juice ice ball did not melt right away and look like an egg, it dissolved slowly and  makes the vodka cloudy.

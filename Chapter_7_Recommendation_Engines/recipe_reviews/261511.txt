@@ -1,0 +1,37 @@
+Recipe number:
+261511.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-03T03:55:58.987
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A healthy twist on goulash. The parnsips add some sweetness to balance out all the paprika, which I was a little skeptical of at first, but 5 tablespoons ended up being ok! Easy to make for quick weekday lunches.

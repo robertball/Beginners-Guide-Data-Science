@@ -1,0 +1,37 @@
+Recipe number:
+63319982.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-20T12:09:14.71
+helpfulCount:
+0
+userID:
+8872286
+Display Name:
+Jessica Schultz
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1687066.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This can be make dairy free by substituting dairy free sour cream and is very good! My family loves it either way!

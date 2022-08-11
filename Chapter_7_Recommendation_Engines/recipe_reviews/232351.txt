@@ -1,0 +1,107 @@
+Recipe number:
+232351.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-28T01:46:54.937
+helpfulCount:
+0
+userID:
+13869190
+Display Name:
+Amy Ladka
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1226591.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I also added 1/2 cup of butter to the chocolate, since I didn’t have a double broiler. I took the pie out after the suggested cooking time, and realized it needed a little more time. I changed the temperature to 500 degrees, and left the pie in for five more minutes - it came out perfect. If you’re a chocolate lover, you will LOVE this pie! It’s rich and decadent, with pecan-y goodness. I suggest pairing it with ice cream, since it’s so rich.
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-01T20:35:24.217
+helpfulCount:
+0
+userID:
+8768289
+Display Name:
+Jess Marie
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+149
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was pretty good but not my favorite. I think it's my fault though Bc I used some leftover walnut pieces and they tasted stale. My other family members liked it though.
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-28T12:46:54.86
+helpfulCount:
+0
+userID:
+130956
+Display Name:
+HAYNES3
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent pie - definitely on my favorites list! I did add 1/2 cup butter with melted chocolate - was concerned about it not having any - turned out wonderful!

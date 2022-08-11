@@ -1,0 +1,72 @@
+Recipe number:
+107221.txt
+Review:
+Rating:
+1
+dateLastModified:
+2010-06-09T12:31:33.93
+helpfulCount:
+15
+userID:
+3764232
+Display Name:
+Gnatalia
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Flat and dense. Maybe I didn't beat it enough? It didn't specify the beater speed. I wouldn't make again.
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-04T00:02:41.643
+helpfulCount:
+0
+userID:
+166708
+Display Name:
+Jan Mowbray
+isPro:
+False
+followersCount:
+48
+followingCount:
+0
+madeRecipesCount:
+428
+favoritesCount:
+317
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2530650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy to make.  The cake rose beautifully.  I beat the eggs really well first, then added the rest of the ingredients and beat in my stand mixer for about 1 minute on medium high.  It's rather a dry cake - I think it needs a an icing drizzle of some kind.  Some cakes get more moist after sitting overnight and if this one does I will add to this review but right now it needs a cup of tea or coffee to go with it.

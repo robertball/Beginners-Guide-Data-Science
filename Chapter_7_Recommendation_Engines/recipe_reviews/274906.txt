@@ -1,0 +1,72 @@
+Recipe number:
+274906.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-07T21:38:41.463
+helpfulCount:
+0
+userID:
+23310863
+Display Name:
+Gary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love soft scrambled eggs. I use about 1/4 cup milk with either Velveta chunks or Philadelphia cream cheese chunks about 1/2 inch square towards the end of cooking while eggs are still runny. Add the cheese according to taste. Low heat is the key. No higher than level 4 on a 1-9 scale. I love cottage cheese but in eggs I prefer Velveeta or Philly.
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-07T01:19:45.98
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+765
+followingCount:
+0
+madeRecipesCount:
+518
+favoritesCount:
+2111
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very soft, creamy and tasty eggs! These were nowhere done at 10 minutes, so I had to increase the heat to medium-low/medium for another 3 to 4 minutes.  I used my Ninja blender cup to mix everything together. Make sure you eat these right away. I had made extra and after sitting for 10 minutes, the liquid was starting to separate from the eggs and pool underneath. I used ricotta cheese, as suggested in the cook's notes.

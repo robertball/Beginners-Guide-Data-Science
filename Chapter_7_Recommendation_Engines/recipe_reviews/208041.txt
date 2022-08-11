@@ -1,0 +1,108 @@
+Recipe number:
+208041.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-12-15T13:40:01.837
+helpfulCount:
+7
+userID:
+4007465
+Display Name:
+fuda buddah
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Could not find black cumin seeds anywhere. I live next to one of the largest Indian merchant areas in New Jersey. No black cumin seeds to be found so I doubled up on the regular cumin seeds. Found the recipe to be a little bland so I added 1/2tsp of cayenne pepper and 1 tsp of curry powder. I used fresh thick cod filets and found them too delicate for the recipe. Next time I will use stripe bass or blackfish, All in all a pleasant flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2013-05-18T09:33:59.34
+helpfulCount:
+3
+userID:
+3059781
+Display Name:
+GuitarChef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1013033.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Also made this minus the black cumin. Came out wonderful.Flavorful without being 'hot'. If most Indian food is too spicy for you then this would be a good addition to your recipe box.Think I'll try it with salmon next time.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-14T17:21:26.243
+helpfulCount:
+0
+userID:
+23329491
+Display Name:
+Pallab Gupta
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5127210.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+For those who could not find "black cumin" - it's not cumin and is a literal translation of the Bengali or Hindi name. It's sold under the name "kalonji" or "onion seeds" - any Indian grocery store will carry it.
+Also it's not accurate to say that only the leftover pieces are used for curry. As a die-hard Bengali with roots in both Bengals, I remember the best curry made out of fresh Katla (Buffalo)/ Rui (Rehu or Carp) and Bhetki. Every slice was used.

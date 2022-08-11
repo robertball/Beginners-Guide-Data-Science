@@ -1,0 +1,72 @@
+Recipe number:
+102352.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-11-22T09:59:59.627
+helpfulCount:
+4
+userID:
+4226275
+Display Name:
+SisterSarah
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+89
+favoritesCount:
+187
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/955780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The combonation of sweet cassis and tart grapefruit is wonderful! And the currant flavors blend with the citrus sounds a little odd but is incredible, my favorite martini for the fall. But fresh grapefruit juice is the only way to go, forget the prepackaged stuff.
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-10T18:29:33.41
+helpfulCount:
+2
+userID:
+7993767
+Display Name:
+a finn girl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+55
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This has become one of my favorite cocktails!  I use regular non-flavored vodka and it's still fantastic.

@@ -1,0 +1,37 @@
+Recipe number:
+277243.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-07T16:30:02.693
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9648
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Simple and good. I really liked the added flavor of dill. I actually used half dill relish and half sweet relish out of personal preference and that was a nice mix. Overall good recipe and one I would make again.

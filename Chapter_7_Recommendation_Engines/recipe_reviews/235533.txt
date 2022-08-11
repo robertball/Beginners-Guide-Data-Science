@@ -1,0 +1,37 @@
+Recipe number:
+235533.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-18T11:36:40.063
+helpfulCount:
+13
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sweetness of the apples intensifies as the apple slices bake, and although a cinnamon-sugar mixture is traditional on apple chips, I think the sea salt provides a fabulous contrast to the sweetness.  I baked these for four hours at 170 degrees F, and they weren't even close to being done, so I bumped up the temperature to 225 for the fifth and final hour.  These apple chips are divine, but in the future, I will try cooking them at 225, five hours is just too long.

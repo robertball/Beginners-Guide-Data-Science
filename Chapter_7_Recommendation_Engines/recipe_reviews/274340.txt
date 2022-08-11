@@ -1,0 +1,72 @@
+Recipe number:
+274340.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-30T15:23:35.983
+helpfulCount:
+2
+userID:
+24644174
+Display Name:
+Donna Robbins
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Having lived in North Africa, in Algeria, travel to Morocco was an easy and fun trip.  This recipe is very authentic and inspired me to make a jar of preserved lemons.  This recipe is on rotation for my future meal planning.
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-17T18:07:23.487
+helpfulCount:
+0
+userID:
+25858087
+Display Name:
+Jean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sodium count must be off. I added the salt from the broth, Mediterranean olives and the butter and came up with a total of 2,629. Divide that by 4 and you get 657 per serving, if the 4 servings is correct. Not much salt in any of the other ingredients. The olives had the most; perhaps cutting down to 3/4 cup and using salt-free or low-salt broth would work.

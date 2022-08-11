@@ -1,0 +1,72 @@
+Recipe number:
+244547.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-31T17:25:54.2
+helpfulCount:
+0
+userID:
+10703220
+Display Name:
+Diana Mc
+isPro:
+False
+followersCount:
+54
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7679117.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe had my curiosity peaked.  I really liked the coffee flavors with the chocolate.  It was an even balance of the two.  I think 20 minutes total cooking time was way too much.  I took mine out of the oven 3 minutes early since it started to smell like it was burning.  I served it over vanilla Greek yogurt.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-04T19:39:13.52
+helpfulCount:
+0
+userID:
+3850325
+Display Name:
+Shell Nik
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+280
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/326113.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make this once every couple of months.

@@ -1,0 +1,37 @@
+Recipe number:
+275969.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-17T22:21:25.757
+helpfulCount:
+0
+userID:
+13956
+Display Name:
+Julie
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/320121.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty with or without rum. I recommend to warm you up on a chilly night!

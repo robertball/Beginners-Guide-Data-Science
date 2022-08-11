@@ -1,0 +1,72 @@
+Recipe number:
+257107.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-01T14:48:05.387
+helpfulCount:
+0
+userID:
+20291973
+Display Name:
+Teresa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+614
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4580624.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+loved it. I used cherry tomatoes and halved them. Used one onion and one bell pepper. this is my go to recipe from now on.
+Review:
+Rating:
+4
+dateLastModified:
+2017-02-25T17:05:41.23
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2281
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out good. I do think 1 onion and 1 bell pepper is plenty though. I used grape tomatoes and left them whole so that my husband could fish around them and enjoy the rest of the salad. I ended up adding more oregano to the mix after tasting and a little bit of basil too. This would be great for a picnic or potluck and it was so much better than the pasta salads that are smothered in mayo.

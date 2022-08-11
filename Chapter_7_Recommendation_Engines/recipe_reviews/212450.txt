@@ -1,0 +1,37 @@
+Recipe number:
+212450.txt
+Review:
+Rating:
+5
+dateLastModified:
+2009-12-02T22:24:49.01
+helpfulCount:
+26
+userID:
+3599784
+Display Name:
+Valentine de Villefort
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/251761.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this recipe alot and I think it turned out really well. I couldn't find tea biscuits so I made my own and they worked fine. I also used salted peanuts and I think it really made a difference - the balance of salt and sweet was delectable! It didn't firm up quite so hard as other types of fudge (such as chocolate) but it was still delicious! I gave a batch to my brother-in-law for his birthday and he loved it! I think a teaspoon of vanilla might make a nice addition to this recipe - just a thought. I loved this recipe, thank you for sharing it!

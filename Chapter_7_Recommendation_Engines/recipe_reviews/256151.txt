@@ -1,0 +1,107 @@
+Recipe number:
+256151.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-19T19:08:29.04
+helpfulCount:
+1
+userID:
+22014488
+Display Name:
+New Leaf
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+247
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a great appetizer that's easy to make and sure to please.  The recipe can be scaled up or down very easily, if you need to make more or fewer. Another bonus: You can do all the preparation earlier in the day and just pop them in the oven when it's time.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-27T18:55:44.743
+helpfulCount:
+1
+userID:
+14468216
+Display Name:
+Watercat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4010815.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loves this recipe. I make it a lot during football season. It's adapted from an old recipe from Sunset magazine. I added more garlic and cheese and less butter. It is so versatile. You can add crab or sausage to make it a more filling appetizer but we like it just as it's written. I hope you family enjoys it as much as mine.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-26T21:53:02.867
+helpfulCount:
+0
+userID:
+21804407
+Display Name:
+Cecelia Winer
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I mixed a slice cooked bacon, guerue swiss cheese as well as the montery jack cheese. I put in my cuisnart  with 2 slices dry bread, pulsed it, add the soy.  I place the mushroom caps in pyrex dish, added 1/4 cup dry white wine, baked @ 400 (put it in not preheating. ) for 20 min. my friends raved about them.

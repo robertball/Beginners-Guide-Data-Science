@@ -1,0 +1,72 @@
+Recipe number:
+237848.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-01-29T06:48:23.28
+helpfulCount:
+2
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8999
+followingCount:
+0
+madeRecipesCount:
+1151
+favoritesCount:
+2451
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loves these! We often make them for a quick weeknight dinner.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-06T13:18:52.583
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+1096
+followingCount:
+0
+madeRecipesCount:
+2888
+favoritesCount:
+1948
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/8440171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The combination of ingredients, desconstructed, really makes these a fun snack. The avocado gives these a smooth and cool texture. They are full of flavor and easy to put together. Thank you for the recipe.

@@ -1,0 +1,37 @@
+Recipe number:
+238900.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-28T17:51:34.53
+helpfulCount:
+3
+userID:
+5649450
+Display Name:
+Goofy Gramps
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as part of the "Annual Sunday After Christmas Youth Breakfast." It was big hit. Creamed dried beef on toast or home fires is an absolute winner where I live.  A layer of eggs in the middle is a bonus! Somehow it didn't seem right to not have the toast or home fries. So I prepared a bottom layer of store-bought hash browns browned in olive oil. The little bit of crunch brought this great recipe home!

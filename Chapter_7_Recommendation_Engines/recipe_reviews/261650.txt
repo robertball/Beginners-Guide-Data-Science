@@ -1,0 +1,37 @@
+Recipe number:
+261650.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-10T19:46:53.227
+helpfulCount:
+1
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe as written for the waffles and they turned out great. The batter is on the thick and lumpy side. The directions mention that it will be lumpy but do not fear! They turned a nice golden color and released from tiny waffle maker nicely. We opted to top them with Hershey's S'mores pieces which are new. It's a bag of milk chocolate chips, graham cookie pieces, and mini marshmallows. We also melted some Reese's peanut butter to drizzle across the tops. This meal is something that you pay a lot of money for at a restaurant but we were easily able to make at home!

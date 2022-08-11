@@ -1,0 +1,37 @@
+Recipe number:
+258815.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-08T19:39:21.61
+helpfulCount:
+1
+userID:
+13547523
+Display Name:
+B. Tario
+isPro:
+False
+followersCount:
+33
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+253
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4105341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very surprising.  I do enjoy each ingredient in their own ways, I was hesitant in how they would work together.  Well let me tell you that they played well together and was a pleasant surprise.  While it might not be for everyone, it is worth a try to make it.  I am happy I did.

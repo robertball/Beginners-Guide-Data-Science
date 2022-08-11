@@ -1,0 +1,72 @@
+Recipe number:
+256169.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-16T14:05:30.73
+helpfulCount:
+1
+userID:
+25482173
+Display Name:
+Rita
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was reluctant at first to make such a huge amount of soup without trying it first....
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-22T04:28:55.917
+helpfulCount:
+0
+userID:
+14589139
+Display Name:
+Karen Burchard Huffman
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1633249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I followed the recipe and it was just the right amount of “zesty.” To save time i completed steps 1-3 the night before, and reheated and finished step 4 just before serving.

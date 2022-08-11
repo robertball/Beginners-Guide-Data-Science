@@ -1,0 +1,107 @@
+Recipe number:
+270283.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-10-24T18:32:21.247
+helpfulCount:
+6
+userID:
+14533080
+Display Name:
+Jennifer Renee S
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+109
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4026818.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did make this using real crab from a can and the entire thing is only 3 net carbs without a bun. It wasn't bad. I ate it plain but it would probably be better on some good keto bread.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-25T23:56:29.287
+helpfulCount:
+0
+userID:
+22209291
+Display Name:
+Wanda Boyland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved it! Instead of celery I used celery seeds. Delish!
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-13T17:10:02.877
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+586
+followingCount:
+0
+madeRecipesCount:
+2210
+favoritesCount:
+2547
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was absolute heaven served on a grilled buttered roll.  I omitted the green peppers (personal preference) and used green onions.  The celery adds a nice crunch.  This is a keeper.

@@ -1,0 +1,107 @@
+Recipe number:
+235715.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-01-02T00:49:38.54
+helpfulCount:
+3
+userID:
+8544133
+Display Name:
+Rachel Winters Van Otten
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm so mad!  I think this was uploaded as a joke. What recipe has 1 cup of everything?  I made this and had to double the yams and it was still soupy. Then there was too much topping which was basically chocolate chip cookie dough. It created a small fire in my brand new oven which in turn tripped my oven so it turned off!  Now I have all the doors and windows open because my 2 month old house is filled with smoke!  I should have known to never make something with no reviews!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-26T02:07:04.34
+helpfulCount:
+0
+userID:
+6415580
+Display Name:
+KittyMcD
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this dish for Christmas Day, and my husband, who controls his sugar intake to the nth degree, could not stop eating it, he liked it sooooo much!  I did take some liberties with the recipe, but think I retained the essence of the dish.  I used a 29 ounce can of yams in heavy syrup, drained, then followed the directions as shown, using the same ingredients (except the optional coconut) but cutting the amounts in  half, then in half again (i.e., everything but the yams was cut by 3/4).  It was plenty sweet and the perfect amount for just the two of us, with a bit left over.  I baked it (in an approximately 9x7 inch Pyrex pan) alongside a pork roast at 325 degrees (instead of 350 degrees), and in 35 minutes it was done!  Will add this to my "Tried and True" file and save it for future holidays and special occasions.  Yum!  Thanks for sharing, Renne!
+Review:
+Rating:
+5
+dateLastModified:
+2017-06-03T12:41:12.737
+helpfulCount:
+0
+userID:
+4236401
+Display Name:
+Renne Thomas
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great and tasty

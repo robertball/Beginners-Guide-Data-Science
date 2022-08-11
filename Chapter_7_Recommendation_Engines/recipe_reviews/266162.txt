@@ -1,0 +1,37 @@
+Recipe number:
+266162.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-07-17T00:56:50.897
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+432
+favoritesCount:
+912
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is how I always make my pork chops, no matter the cut. I will say the amount of thyme is a bit much in my opinion and I love thyme but it is something that can be easily be added to taste.

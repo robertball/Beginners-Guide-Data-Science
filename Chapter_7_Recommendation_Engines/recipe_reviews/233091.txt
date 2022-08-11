@@ -1,0 +1,37 @@
+Recipe number:
+233091.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-25T17:57:10.253
+helpfulCount:
+0
+userID:
+2333705
+Display Name:
+Shawna M Montana
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+268
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2681342.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My kids and I make this all the time.  It is a good alternative to meat, it gives the right texture and we serve it with sweet and sour sauce with rice, yummm!

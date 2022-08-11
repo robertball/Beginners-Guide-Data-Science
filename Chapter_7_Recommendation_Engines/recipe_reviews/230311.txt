@@ -1,0 +1,107 @@
+Recipe number:
+230311.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-11-18T17:33:03.46
+helpfulCount:
+1
+userID:
+2872746
+Display Name:
+miss chickadee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+469
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used vodka as I don’t like gin- best liqueur ever! Put it in pretty bottles and gave as gifts for Christmas- everyone loved it. Great with some seltzer too!
+Review:
+Rating:
+5
+dateLastModified:
+2014-12-21T08:20:57.9
+helpfulCount:
+1
+userID:
+14956676
+Display Name:
+Kristen Larson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1841547.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Beautiful and tastes great!
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-28T22:49:57.453
+helpfulCount:
+0
+userID:
+2698121
+Display Name:
+Mindy Sullivan Stowell
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+39
+favoritesCount:
+183
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7574629.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+taste good so far! now I got to wait 6 weeks. hehe!! I added blueberries also bc I didn't have enough cranberries.

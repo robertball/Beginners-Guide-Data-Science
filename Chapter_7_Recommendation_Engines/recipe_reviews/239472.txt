@@ -1,0 +1,37 @@
+Recipe number:
+239472.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-25T11:49:03.247
+helpfulCount:
+1
+userID:
+12101087
+Display Name:
+kdblum
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+511
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4576728.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+VERY easy to make and tastes wonderful!

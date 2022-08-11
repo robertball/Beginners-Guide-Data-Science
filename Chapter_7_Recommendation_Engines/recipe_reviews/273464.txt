@@ -1,0 +1,110 @@
+Recipe number:
+273464.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-04T19:50:44.013
+helpfulCount:
+0
+userID:
+21900028
+Display Name:
+Traycee1234
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+207
+favoritesCount:
+3299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7155966.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is very good chicken! I did the recipe exactly as stated except I used aluminum foil sheets. I made packets with them as I was out of parchment paper.Which worked out well. My husband raved over this chicken which is a huge compliment. Thanks Nicole for the recipe! Will def make again!
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-25T13:46:08.753
+helpfulCount:
+0
+userID:
+9246227
+Display Name:
+manella
+isPro:
+False
+followersCount:
+169
+followingCount:
+0
+madeRecipesCount:
+343
+favoritesCount:
+1302
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6603558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I took the cooks advice and used a couple more herbs. I happen to like rosemary and basil with chicken so I minced 1/2 teaspoon of each into the  rub mixture.  I  also   used Natrel lactose free   butter in place of butter.( dairy intolerance)
+Followed the recipe and ended up with a very moist piece of chicken. Will make this again.
+Thank you for the recipe.
+June 25/2019.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-13T21:26:50.657
+helpfulCount:
+0
+userID:
+7096227
+Display Name:
+Sandy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+112
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was trying to keep this recipe as low fat as possible so I followed the recipe except I didn’t add the butter. Very moist and flavorful!

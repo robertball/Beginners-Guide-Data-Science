@@ -1,0 +1,72 @@
+Recipe number:
+238069.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-06-18T10:04:40.017
+helpfulCount:
+1
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow, wow, wow! This reminds me of the strawberries and cream frap my daughter sometimes orders at the coffee shop, only creamier and more smooth. This tasted more like a delicious treat than a fruit smoothie! I followed the recipe as written but used some organic mango chunks I had in the freezer. Since there is no ice in this recipe, it may be helpful to use some frozen fruit. I will be making this again and again!
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-18T18:50:17.893
+helpfulCount:
+0
+userID:
+3901347
+Display Name:
+Kimber Wilson
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+73
+favoritesCount:
+488
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice, sweet, and light. I did find that the peach yogurt  kinda overpowered it a bit. Still very refreshing though.

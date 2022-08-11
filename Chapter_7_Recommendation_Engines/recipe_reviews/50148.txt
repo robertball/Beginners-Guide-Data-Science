@@ -1,0 +1,72 @@
+Recipe number:
+50148.txt
+Review:
+Rating:
+5
+dateLastModified:
+2002-12-10T21:57:34.92
+helpfulCount:
+7
+userID:
+213044
+Display Name:
+Christi
+isPro:
+False
+followersCount:
+25
+followingCount:
+0
+madeRecipesCount:
+104
+favoritesCount:
+766
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/74256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this at a birthday party and all the kids really got a kick out of this.  You do have to make sure that every child gets one of the "beetles" (cherries)in his or her cup; they really love 'em!
+Review:
+Rating:
+4
+dateLastModified:
+2004-10-10T16:15:42.857
+helpfulCount:
+0
+userID:
+940592
+Display Name:
+Robin Jo
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1260448.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nice flavor. Be sure to make this right before drinking, as ginger-ale will lose it's fizz. Also, cherries don't float on the top, they will be at the bottom.

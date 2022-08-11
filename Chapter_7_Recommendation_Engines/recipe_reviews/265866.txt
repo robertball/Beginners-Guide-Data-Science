@@ -1,0 +1,37 @@
+Recipe number:
+265866.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-31T17:34:47.23
+helpfulCount:
+1
+userID:
+14935540
+Display Name:
+Jackie Walchuck
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1829527.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Our puppy loves these! I used rice flour the first time and found that the dough was different then wheat flour dough, but they came out fine. Since then I've just used whole wheat flour and it's been fine

@@ -1,0 +1,37 @@
+Recipe number:
+277465.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-17T20:04:53.727
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+12.17.19  Followed this recipe to the letter, and the only thing I might try next time is using another type of rice.  The short grain rice cooked up a bit too mushy for me, so the texture was just a bit different from the typical rice pudding I’m used to (but this totally could be personal taste).  On the positive side, this was very, very tasty.  Thanks for sharing your recipe

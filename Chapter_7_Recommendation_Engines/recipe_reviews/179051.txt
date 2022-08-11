@@ -1,0 +1,111 @@
+Recipe number:
+179051.txt
+Review:
+Rating:
+2
+dateLastModified:
+2009-01-10T21:05:44.707
+helpfulCount:
+8
+userID:
+2793858
+Display Name:
+jkfreedman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+242
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5993362.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We were very disappointed with this recipe, given the name Firecracker I expected it to have more zip to it.  We found the flavor to be rather bland and I had marinated the flank steak all day, used a hot salsa (personal preference), and followed the recipe exactly.  I won't be making this again.
+Review:
+Rating:
+3
+dateLastModified:
+2010-02-07T21:40:58.657
+helpfulCount:
+3
+userID:
+4264089
+Display Name:
+Kim & Randy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+212
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6957767.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was ok...not spicy enough for us.  If we make it again we will add more spices.
+Review:
+Rating:
+4
+dateLastModified:
+2012-12-02T16:03:46.977
+helpfulCount:
+0
+userID:
+3828863
+Display Name:
+new_wife639
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really like the salsa component this recipe added. We didn't have a Pace salsa, but we did have Mrs. Renfro's ghost chili salsa :). (My husband loves spice!) That provided a real nice, subtle heat to the marinade/sauce. 
+
+My two-lb. flank steak took much longer to cook than I excpected. This is probably because my husband likes his well-done and I'm pregnant and can't have anything but well-done. 
+
+Other than that, it came out nice and juicy with full flavor!

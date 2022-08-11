@@ -1,0 +1,37 @@
+Recipe number:
+274047.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-28T08:55:57.407
+helpfulCount:
+1
+userID:
+3031597
+Display Name:
+barbara
+isPro:
+False
+followersCount:
+130
+followingCount:
+0
+madeRecipesCount:
+597
+favoritesCount:
+258
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/254187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+fun! I used mini chocolate chips for the eyes

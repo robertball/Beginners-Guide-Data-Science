@@ -1,0 +1,72 @@
+Recipe number:
+215762.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-13T06:59:32.223
+helpfulCount:
+0
+userID:
+14857654
+Display Name:
+Sara
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Possibly could use a bit more mixture, it feels like I'm eating more pastry than filling! But otherwise they look good :)
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-09T10:20:49.51
+helpfulCount:
+0
+userID:
+1306123
+Display Name:
+Walter MacNicoll
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6850300.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is the second time that I have made this recipe. I make it in a muffin tin instead of as a cookie. I use my hands to press the dough into the muffin tins and I don't roll it at all. The recipe makes just enough for 12 . It is a soft dough so you don't need to set aside much for the tiny top crust. I did not add rum and increased the sugar by a quarter of a cup. Halfway through the baking, I put on an egg wash. I baked them at 350 for around 25 minutes. But, you should check yours as they bake. I used a jar of Crosse and Blackwell Mincemeat from the supermarket. My husband loves them!

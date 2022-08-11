@@ -1,0 +1,72 @@
+Recipe number:
+255240.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-09-10T17:24:20.953
+helpfulCount:
+2
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2278
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I almost passed by this recipe because we are not big fans of legs until I happened to see the cooks notes about this recipe making the most delicious chicken wings. We love wings. I still wasn't sure if I'd like this since we usually fry our wings prior to coating them in sauce. I liked this just fine and in fact, the leftovers hold up much better the next day. If you are looking for a healthier way of cooking hot wings then look no further.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-30T19:54:38.567
+helpfulCount:
+0
+userID:
+21998337
+Display Name:
+Glenn or Helene Trueman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+41
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made nice tender chicken legs.  For fear of making it too hot, I used 6 oz of taco seasoning with a couple dashes of tobasco for the sauce.

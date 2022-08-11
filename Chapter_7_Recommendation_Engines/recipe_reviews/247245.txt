@@ -1,0 +1,107 @@
+Recipe number:
+247245.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-17T22:23:02.57
+helpfulCount:
+2
+userID:
+16720768
+Display Name:
+Jean Deems
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3669504.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OMG! This is amazing! Those of  you who like sangria will love it for being the perfect summetime drink - light and refreshing. For those who are not fans of sangria, this very well could be the beverage that will change your mind. My daughter and I  tried this last night and are mixing up another batch tonight! Delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-13T02:07:40.733
+helpfulCount:
+1
+userID:
+5684161
+Display Name:
+Cindy B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a family birthday party and it was a huge hit! I will definitely make it again. One of my sisters-in-law wants the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-01T01:07:04.13
+helpfulCount:
+0
+userID:
+9794319
+Display Name:
+Maggiepi
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+524
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We served it to friends and everyone asked for refills.  I will make it again, but I did find that the amount of fruit was excessive in comparison to the amount of liquid.  Next time I will use about half the amount  of fruit.

@@ -1,0 +1,73 @@
+Recipe number:
+270835.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-16T22:34:33.713
+helpfulCount:
+5
+userID:
+25581128
+Display Name:
+Ray
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’ve eaten deep fried tostones all my life, but found that your air fried tostones to be simply delicious and easy to make. I did not have to deal with any leftover oil or grease nor with the splatter associated with deep frying. I thank you for this method of making an all time favorite comfort food of mine.
+The only exception to your recipe was that I added ground garlic to the salted water. Heck, I add garlic to almost anything.  ;-)
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-02T11:55:59.883
+helpfulCount:
+0
+userID:
+21514764
+Display Name:
+Mardrissa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We did the recipe as recommended, but it seems the soaking in water was a mistake for us.  We may have done something wrong.  We have made them before  without soaking in water and they turned out perfect.  So will go back to using that method.

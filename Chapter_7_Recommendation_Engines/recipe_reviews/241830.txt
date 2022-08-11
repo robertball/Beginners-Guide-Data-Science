@@ -1,0 +1,72 @@
+Recipe number:
+241830.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-28T19:32:09.423
+helpfulCount:
+3
+userID:
+5306148
+Display Name:
+GammiP
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+239
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I also add dried cranberries.  Love this salad.  You can use Feta cheese instead of Blue cheese.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-29T00:07:27.157
+helpfulCount:
+1
+userID:
+17353123
+Display Name:
+Megan Mead
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3164322.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I seasoned my chicken differently. It was so good! I will definitely make it again because my fiancé considers salad rabbit food and he scarfed this down!

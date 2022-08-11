@@ -1,0 +1,107 @@
+Recipe number:
+239197.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-19T16:57:52.41
+helpfulCount:
+1
+userID:
+1109832
+Display Name:
+CupcakeSparkles11
+isPro:
+False
+followersCount:
+65
+followingCount:
+0
+madeRecipesCount:
+75
+favoritesCount:
+526
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2117482.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So much fun to make!  My kids loved them.
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-11T20:12:46.03
+helpfulCount:
+0
+userID:
+20324395
+Display Name:
+Chef Adri's Kitchen
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3891024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor, decorations were absolutely perfect. I made a few tweaks for the recipe. I used red velvet cake mix on the cupcakes, for a bloodier and darker look. My family loved them.
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-29T18:21:12.56
+helpfulCount:
+0
+userID:
+14111895
+Display Name:
+Wendy Bivona
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1363171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good to go on this one.  I don't bake much, but used all boxed ingredients including the frosting.  So, can't vouch for the taste but they looked good.

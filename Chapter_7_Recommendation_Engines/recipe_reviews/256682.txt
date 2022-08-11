@@ -1,0 +1,37 @@
+Recipe number:
+256682.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-12T18:41:12.143
+helpfulCount:
+0
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6705
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2557
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I do remember  Chi Chi's! The Mason Jars work great. I used taco sized tortillas so I need to get some larger ones to make salad bowls. The smaller ones are perfect for ice cream.

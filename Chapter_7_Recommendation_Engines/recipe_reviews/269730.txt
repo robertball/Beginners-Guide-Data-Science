@@ -1,0 +1,72 @@
+Recipe number:
+269730.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-01-04T18:33:51.28
+helpfulCount:
+5
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Self-rising flour huh? That explains what I've been doing wrong all these years. I've made plenty of beer batter but have always used AP flour because that is what I keep on hand. While it always turns out good, it doesn't stay crisp more than 10 minutes. Self-rising flour is the answer. This turned out great and held up well. The one thing that did not work for me as written is that 1 cup of beer was not enough liquid to get a batter. I'm not sure how much I ended up adding in the end but if I were to have to guess I'd say I doubled it. I can't wait to try this with fish. Thanks for sharing!
+Review:
+Rating:
+3
+dateLastModified:
+2019-05-24T17:06:09.49
+helpfulCount:
+0
+userID:
+22238124
+Display Name:
+Chantel Els
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6302304.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My batter didn't stick to the cauliflower :(

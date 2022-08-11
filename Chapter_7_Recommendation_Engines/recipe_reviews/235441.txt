@@ -1,0 +1,72 @@
+Recipe number:
+235441.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-06-25T16:03:45.78
+helpfulCount:
+2
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8999
+followingCount:
+0
+madeRecipesCount:
+1151
+favoritesCount:
+2451
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband absolutely LOVED this. I was outside taking a picture of my plate and he was at the kitchen table yelling "this one is a do again!" I asked him why it would be called "Island Style" linguine, and he said the ingredients are things that you would find in Sicilian cooking (his parents are Sicilian). Not sure if that's where the name came from, but I bought it! I did use canned anchovies rather than paste, as I had 1/2 of a 2 oz. can to use up (I made 1/2 a recipe). I also used kalamata olives - so I did not add any additional salt, and it was plenty salty from the olives, capers, caper brine and anchovies. I liked it, and will make this again - just to please my hubby!
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-01T21:05:43.93
+helpfulCount:
+1
+userID:
+14331512
+Display Name:
+Kevin Griffin
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+47
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1478957.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added a little more capers, tomatoes and garlic. The tomatoes are the best bites in the pasta.

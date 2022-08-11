@@ -1,0 +1,37 @@
+Recipe number:
+254763.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-13T14:53:26.363
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were fast, fun, and easy but step 2 didn't make sense to me. Once your popsicles are frozen there is really no way to remove the top to add more ice cream without disturbing the stick which holds the whole thing together. I went ahead and just added the tablespoon of ice cream to to the top prior to freezing and that worked just fine. My husband enjoyed these and it is one I will make again.

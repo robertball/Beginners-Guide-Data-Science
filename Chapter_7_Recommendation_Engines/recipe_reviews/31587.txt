@@ -1,0 +1,37 @@
+Recipe number:
+31587.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-05-09T14:33:51.25
+helpfulCount:
+7
+userID:
+3765162
+Display Name:
+My4boys
+isPro:
+False
+followersCount:
+103
+followingCount:
+0
+madeRecipesCount:
+447
+favoritesCount:
+1080
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/446654.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good. I doubled the onion and the rutabaga. Next time I will double the tomato as well.  It took longer than 15 minutes to cook but that may have had to do with the size of my diced potato and rutabaga. Since the seasoning is all listed to taste you can suit it to your own taste buds. I would have prefered some added spices, I just can't put my finger on which ones. I did feel like it was missing a little something. Hence the 4 star rating. It was a pretty good overall dish though. Thank You Marta.

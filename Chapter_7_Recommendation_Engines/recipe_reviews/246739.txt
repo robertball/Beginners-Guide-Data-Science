@@ -1,0 +1,37 @@
+Recipe number:
+246739.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-21T20:47:57.25
+helpfulCount:
+1
+userID:
+17945256
+Display Name:
+Rattfink
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3520678.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are actually pretty delicious.  I made them exactly as written.  The amount of syrup it makes is good for about a quadruple batch of fried globbies.

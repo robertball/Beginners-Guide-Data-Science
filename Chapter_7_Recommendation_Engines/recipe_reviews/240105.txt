@@ -1,0 +1,72 @@
+Recipe number:
+240105.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-04-07T06:43:12.64
+helpfulCount:
+1
+userID:
+15233593
+Display Name:
+Charlee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+234
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This dish started out smelling really flavourful, but as I added the vegetables and noodles it got really diluted. The cilantro and green peppers really stood out in flavour, but I would recommend adding some more spices.
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-27T14:07:42.433
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious and full of flavor. I had to leave out the fish oil (allergies) and improvised a bit on the veggies. This makes a great meal when you are in a rush and need something quick yet filling. Thank you for the recipe.

@@ -1,0 +1,37 @@
+Recipe number:
+223239.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-21T16:28:40.597
+helpfulCount:
+3
+userID:
+3552003
+Display Name:
+Abbey
+isPro:
+False
+followersCount:
+101
+followingCount:
+0
+madeRecipesCount:
+221
+favoritesCount:
+608
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1845434.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is great!! I am a big fan of the Starbucks Refreshers and this is just as good. I did tweak the recipe just by exchanging 100% Cranberry Juice for the pomegranate-grape juice, since I couldn't find it.  I really love that I can make this at home, and control what goes into the drink! This would work well with OJ, strawberry lemonade, pineapple juice...I could go on and on.  The juice mutes the flavor of the tea, so just like in the store bought, it just tastes like a fruity sparkling beverage rather than an energy drink.  Thank you for the recipe!

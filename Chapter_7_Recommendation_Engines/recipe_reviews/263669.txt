@@ -1,0 +1,37 @@
+Recipe number:
+263669.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-29T19:55:19.957
+helpfulCount:
+3
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+771
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This whole concept of making scones with soda fascinated me! I used Sprite. They were so easy to make, came out very tender, and tasted like a light biscuit with no lemon flavor at all. I didn't have lemon curd or mock Devonshire cream, so I iced the top of mine with a lemon glaze. I will definitely keep these in mind for my next tea party.

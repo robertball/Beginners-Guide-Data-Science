@@ -1,0 +1,72 @@
+Recipe number:
+238427.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-16T07:34:47.247
+helpfulCount:
+3
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Breakfast today was this salsa served with cinnamon-sugar baked tortilla chips.  If you need a recipe for the tortilla chips, see Annie's Fruit Salsa and Cinnamon Chips on this site.  I had fresh pineapple, so I used that instead of canned, and the orange, strawberries, and kiwi were perfectly ripe, so I didn't need the sugar.  Just simple, fresh fruit flavor at its best!
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-11T12:52:47.377
+helpfulCount:
+0
+userID:
+5794687
+Display Name:
+Sally Ann Ball
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made Strawberry Salsa many times over the years and also serve with cinnamon chips for dipping. Agree with previous post, I use fresh pineapple so no need for adding white sugar especially if using in season Strawberries. I've found when making ahead, the Kiwi turns a bit pink and "slimy" in appearance. Omit the Kiwi if you're making the previous day. Fresh Mango is a great addition.

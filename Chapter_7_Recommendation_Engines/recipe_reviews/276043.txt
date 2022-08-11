@@ -1,0 +1,37 @@
+Recipe number:
+276043.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-27T21:55:09.933
+helpfulCount:
+0
+userID:
+25982549
+Display Name:
+jean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was delicious. Not tooooo spicy , but just right. I’ll make it again for sure.

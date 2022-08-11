@@ -1,0 +1,37 @@
+Recipe number:
+236865.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-03-15T14:20:31.507
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2823
+favoritesCount:
+6009
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Substituted FF half-and-half for the heavy whipping cream (sorry, simply can't handle that in my diet), otherwise, followed the recipe to the letter.  Love the flavor that the bacon brings, but I thought it was too thin for a "chowder." To be fair, that may not have been the case had I used the heavy whipping cream.   I did thicken a little, but it still wasn't as creamy as I would have liked.  BUT...it did taste good, so I consider it a success!

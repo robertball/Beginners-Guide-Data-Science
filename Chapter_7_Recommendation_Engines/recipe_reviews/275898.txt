@@ -1,0 +1,109 @@
+Recipe number:
+275898.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-29T01:22:18.15
+helpfulCount:
+0
+userID:
+15867160
+Display Name:
+Maureen Abston
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7668134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it. I loved them! 
+I added cinnamon, oats, raisins and walnuts. I used 1 cup applesauce and 1 tablespoon oil.
+Excellent!! Very healthy and tasty!!
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-13T15:26:40.037
+helpfulCount:
+0
+userID:
+7640255
+Display Name:
+Debbie Wright
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6806280.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was spending money at the coffee shop for a raisin bran muffin a few times a week. Now I have discovered this recipe I will be bringing these to work every day! I followed the recipe and added a large handful of raisins. I will be making these muffins weekly from now on!
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-29T20:29:50.777
+helpfulCount:
+0
+userID:
+4230201
+Display Name:
+Carol
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+154
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7465057.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a healthier muffin and didn’t to like them as much as a less healthy version. What a nice surprise! They are moist and delicious! Thanks so much for sharing your recipe.

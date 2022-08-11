@@ -1,0 +1,109 @@
+Recipe number:
+272190.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-19T16:54:25.81
+helpfulCount:
+1
+userID:
+18230314
+Display Name:
+Leck Mason Goodnough
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7311814.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I use butter and a little room temp. water. The water helps make the eggs fluffy, the steam in the water helps. Cooking them 30 sec. at a time works very well 
+Yummy.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-27T23:18:43.467
+helpfulCount:
+1
+userID:
+7179282
+Display Name:
+Valerie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Finally, an egg recipe that doesn't include milk, cream, half and half or any other liquid that destroys the taste of the egg itself and makes it fluffy....why do we want fluffy eggs.  I have been making eggs in the microwave for years this exact way and turn out delicious every time.  Sometimes I add fresh spinach an top it off with a bit of parmesan cheese or season with a bit of onion or garlic salt.
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-28T00:11:18.423
+helpfulCount:
+0
+userID:
+17828135
+Display Name:
+Darin Johnson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3448104.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I use olive oil when cooking on stove.  When baked in the microwave I use butter to coat the cook ware.
+Any way you make it, it is Fantastic way to start a day

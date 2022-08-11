@@ -1,0 +1,37 @@
+Recipe number:
+276040.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-26T21:28:55.54
+helpfulCount:
+0
+userID:
+1213296
+Display Name:
+Karen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+1314
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1090925.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love how easy the Instant Pot makes cooking dry beans from scratch.  I do not buy canned beans.  Too costly.

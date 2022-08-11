@@ -1,0 +1,37 @@
+Recipe number:
+274352.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-29T00:16:28.647
+helpfulCount:
+0
+userID:
+20203356
+Display Name:
+elsa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is excellent. You won’t even miss the bechamel sauce.

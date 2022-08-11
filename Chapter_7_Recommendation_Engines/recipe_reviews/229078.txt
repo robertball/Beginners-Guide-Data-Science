@@ -1,0 +1,110 @@
+Recipe number:
+229078.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-23T18:00:40.01
+helpfulCount:
+1
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wowee, this is so rich and good!!! 
+I followed the recipe as written, though the head of cauliflower I used was small, so I did not use quite all of the butter & mayo mixture.
+I cooked it along with some pork chops, so it was at 350 for about 30 minutes.
+I really liked this one!!
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-06T23:33:04.897
+helpfulCount:
+0
+userID:
+13356091
+Display Name:
+abbyz2000
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+829
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good! I cut corners and used a bag of thawed frozen veggies. Next time I'll cook the veggies a little more so they go in the oven warm.
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-14T21:14:11.413
+helpfulCount:
+0
+userID:
+8460384
+Display Name:
+vandambo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had all the ingredients on hand and wanted to have a solid meal highlighting these veggies. I used applewood smoked bacon. I added mushrooms when sauteing the onion and had a flavored mayonnaise that I only used half of. It turned out really wonderful!

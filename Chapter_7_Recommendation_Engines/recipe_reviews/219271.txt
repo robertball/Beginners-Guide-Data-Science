@@ -1,0 +1,37 @@
+Recipe number:
+219271.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-11-04T14:31:51.74
+helpfulCount:
+16
+userID:
+2386717
+Display Name:
+Lisawas
+isPro:
+False
+followersCount:
+118
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+78
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/36707.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great served with blue cheese dressing to cut the bite, epspecially if kids are eating them too.  Awesome appetizer during football season as a substitute or in addition to other wing recipes!

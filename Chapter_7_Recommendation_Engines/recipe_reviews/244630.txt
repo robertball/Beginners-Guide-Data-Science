@@ -1,0 +1,144 @@
+Recipe number:
+244630.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-10T08:27:13.977
+helpfulCount:
+2
+userID:
+4562668
+Display Name:
+Chef V
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+459
+favoritesCount:
+642
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/911981.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe before it got published..Here was my review..
+My family really enjoyed these. They do taste just like a cinnamon bun!! I ended up having to use about 1/3 more of flour to get the consistency i liked..and i also doubled the vanilla(just because).If anyone is wondering like i was 3/8 cup = 1/4 cup + 2 Tablespoons. The cinnamon drizzle is delicious, next time i may not add the full amount of water..but just drizzle some hot water in till i find the right consistency for myself (thicker). I like how everyone can customize their own waffle with as much drizzles as they want..i don't eat cinnamon buns with the icing..so it was nice to leave that option out on my plate. The waffle itself was really good..and it may just have to replace my current waffle recipe. Thanks for sharing :)
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-14T21:48:44.657
+helpfulCount:
+0
+userID:
+8770852
+Display Name:
+Kimberly Ruthe
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+561
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for Mothers day brunch and had a happy bunch on my hands. We ate them with whipped cream and fresh fruit & nuts! Oh wow. Doing this again!
+Review:
+Rating:
+1
+dateLastModified:
+2016-01-09T08:59:28.593
+helpfulCount:
+0
+userID:
+5873394
+Display Name:
+Sandy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+42
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Would not make again.  Waffles were unacceptable.  
+With icing and brown sugar drizzle. Way to sweet.
+Review:
+Rating:
+2
+dateLastModified:
+2015-08-22T11:38:48.55
+helpfulCount:
+0
+userID:
+9011945
+Display Name:
+KourtneyP
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+74
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The waffles were flavorless, runny, and chewy. The icing was good.

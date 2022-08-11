@@ -1,0 +1,37 @@
+Recipe number:
+245865.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-21T12:20:08.863
+helpfulCount:
+2
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6663
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This  butter works great on grilled chicken breasts. A little strong on the lime so next time I'll eliminate the zest. This butter  can be real soft due to the amount of avocado so I suggest chilling well before serving.

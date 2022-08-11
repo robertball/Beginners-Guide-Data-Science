@@ -1,0 +1,37 @@
+Recipe number:
+273028.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-27T18:40:22.907
+helpfulCount:
+0
+userID:
+25097769
+Display Name:
+Mary LeBlanc
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was great on asparagus & califlower

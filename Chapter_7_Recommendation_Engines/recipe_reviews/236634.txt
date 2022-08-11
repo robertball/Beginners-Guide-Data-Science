@@ -1,0 +1,72 @@
+Recipe number:
+236634.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-28T12:52:01.31
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the taste of the salmon but the stuff is very salty. I would recommend rinsing it off of maybe using less. salmon.  Adding the egg yolks to the mixture also helped
+Review:
+Rating:
+4
+dateLastModified:
+2015-08-03T21:33:45.053
+helpfulCount:
+0
+userID:
+15208468
+Display Name:
+Drea
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great way to make my smoked salmon stretch. I feel like i needed a bit more seasoning. I followed the recipe to a T. It still taste good, perfect for breakfast.

@@ -1,0 +1,37 @@
+Recipe number:
+275490.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-24T01:54:25.023
+helpfulCount:
+0
+userID:
+14427552
+Display Name:
+Tony Fulton
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1533557.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not too crunchy and chicken was very moist! Just the right amount of seasonings!

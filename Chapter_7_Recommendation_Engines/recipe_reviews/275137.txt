@@ -1,0 +1,38 @@
+Recipe number:
+275137.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-02T15:29:41.883
+helpfulCount:
+0
+userID:
+24224944
+Display Name:
+shandrews
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They were pretty good! Even my husband liked them; and he's picky!
+I made one small change; I used vanilla flavored Greek yogaurt instead of plain.

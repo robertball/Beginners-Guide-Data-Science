@@ -1,0 +1,72 @@
+Recipe number:
+236891.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-27T10:00:05.51
+helpfulCount:
+1
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We enjoyed this! Nice combo of flavors... Thanks for sharing. :)
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-22T02:51:49.55
+helpfulCount:
+0
+userID:
+16317403
+Display Name:
+Mary Steffens Arima
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+201
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2810053.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this drink!  Great color and combo of flavors - didn’t change anything.  Thank you!

@@ -1,0 +1,107 @@
+Recipe number:
+8084.txt
+Review:
+Rating:
+5
+dateLastModified:
+2004-10-24T18:57:38.967
+helpfulCount:
+48
+userID:
+713063
+Display Name:
+MAH49ERS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/68.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I have made this recipe every year now when it starts to get cooler.  I always get requests to bring it to the holiday get togethers.  I do make a few changes though.  I use raisins, dates, candied pineapple, and candied red and green cherries.  I use any combinations of these, I just make sure I have the same combined amounts that the recipe calls for.  I also start the night before, by soaking the raisins and dates in the brandy.  It kind of plumps them up.  Then I use the leftover soaking liquid to brush the bread with.
+Review:
+Rating:
+5
+dateLastModified:
+2011-01-16T11:10:48.633
+helpfulCount:
+2
+userID:
+6355606
+Display Name:
+Kris Lee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This fruitcake is the perfect size- not too big, not too small, and it is super easy to make. I also use candied cherries instead of maraschinos.
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-05T18:27:11.187
+helpfulCount:
+0
+userID:
+10547229
+Display Name:
+Deb Moz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have not made this recipe yet but it sounds exactly like a fruitcake that I made years ago.  I made it often and have never been able to find the recipe again until now.  Mine came originally from the Detroit News circa early 1980's late 1970's.  It was called cherry nut fruitcake and my family loved it.  Happy to find it again.  I am put off a bit by the photo that accompanies this recipe, it looks awful and this fruit cake is gorgeous!

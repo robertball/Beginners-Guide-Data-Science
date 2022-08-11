@@ -1,0 +1,72 @@
+Recipe number:
+237332.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-04-27T17:16:25.16
+helpfulCount:
+3
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+870
+followingCount:
+0
+madeRecipesCount:
+610
+favoritesCount:
+2578
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I enjoyed this smoothie and how easy it was to make.  I made it exactly as written, including the optional 1 tsp of agave nectar.  This isn't a very sweet smoothie, so if you prefer sweeter, you'll likely need to add in more agave, or honey would be delicious too.  I used a very ripe banana, for added sweetness. I recommend putting the tofu in the blender first, otherwise having the fruit at the bottom makes it harder for the blender to get going.
+Review:
+Rating:
+2
+dateLastModified:
+2014-09-06T15:43:36.667
+helpfulCount:
+1
+userID:
+13656361
+Display Name:
+Master Chef
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't like the tofu with it

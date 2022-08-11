@@ -1,0 +1,37 @@
+Recipe number:
+255557.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-14T20:56:45.03
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+224
+followingCount:
+0
+madeRecipesCount:
+1016
+favoritesCount:
+1344
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7801621.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good. Nice blend of flavors and fizz.

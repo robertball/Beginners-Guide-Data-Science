@@ -1,0 +1,37 @@
+Recipe number:
+259874.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-03-17T03:13:00.883
+helpfulCount:
+0
+userID:
+2772779
+Display Name:
+Jessica Brost
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+60
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1706495.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This came out really well, but the recipe calls for entirely too much pepper. I wish I’d followed my instincts and used half or 1/3 as much pepper, but otherwise a good recipe.

@@ -1,0 +1,73 @@
+Recipe number:
+24928.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-14T08:15:11.643
+helpfulCount:
+6
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thick, dense loaf!  I used honey instead of brown sugar, and used 1/2 water and 1/2 soy milk for the liquid, while omitting the dry cow's milk.  Because of using only whole wheat flour, I didn't even use as much flour as the recipe calls for.  Great taste!
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-31T15:33:52.223
+helpfulCount:
+0
+userID:
+10167782
+Display Name:
+Cherye Elliott
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3677300.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it but I don't own a bread machine. That isn't real bread. The taste was fine. But I will have to tweak it.
+Recipe should have alternate baking instructions.

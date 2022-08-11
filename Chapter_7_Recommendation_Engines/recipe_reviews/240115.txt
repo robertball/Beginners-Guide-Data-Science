@@ -1,0 +1,107 @@
+Recipe number:
+240115.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-22T04:34:53.023
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this to be an interesting combination and it was worth a try. It turned out great! Nice fall-like recipe. I used mushroom noodles with it. Will make again!
+Review:
+Rating:
+5
+dateLastModified:
+2016-10-26T23:05:50.103
+helpfulCount:
+0
+userID:
+6267535
+Display Name:
+Bethann
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+62
+favoritesCount:
+131
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We love this dish! It has been a family favorite for years. I first found it in a Weight Watchers cookbook, but misplaced it and was overjoyed to find it again here. I make it as written and find the blend flavors to make a delightful fall dinner. It is one our entire family liked, and with six kids, that wasn't easy!
+Review:
+Rating:
+2
+dateLastModified:
+2014-11-10T14:35:58.537
+helpfulCount:
+0
+userID:
+4934054
+Display Name:
+Linda Butler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4887385.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not care for this recipe. I found it to be too sweet and bland, so I added ginger, garlic and hot pepper.

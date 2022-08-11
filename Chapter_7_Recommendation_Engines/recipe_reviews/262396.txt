@@ -1,0 +1,37 @@
+Recipe number:
+262396.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-19T19:38:40.857
+helpfulCount:
+0
+userID:
+3031597
+Display Name:
+barbara
+isPro:
+False
+followersCount:
+130
+followingCount:
+0
+madeRecipesCount:
+599
+favoritesCount:
+259
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/254187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great way to make bok choy

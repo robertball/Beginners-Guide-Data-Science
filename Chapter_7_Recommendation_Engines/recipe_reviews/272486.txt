@@ -1,0 +1,37 @@
+Recipe number:
+272486.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-02T01:18:35.84
+helpfulCount:
+0
+userID:
+21289252
+Display Name:
+Andrulian
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sweet carrots and orange. Added a little sage to the blender. Can’t go wrong with this appetizer with some whole wheat pita chips on Thanksgiving. Delicious and different!

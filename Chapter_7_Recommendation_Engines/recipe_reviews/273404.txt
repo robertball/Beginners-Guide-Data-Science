@@ -1,0 +1,37 @@
+Recipe number:
+273404.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-25T01:54:20.81
+helpfulCount:
+0
+userID:
+17000070
+Display Name:
+Marsha
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I forgot to stir the potatoes in the oven, so they stuck to the bottom of the pan. But that was obviously my fault. We loved them and will make again very soon!

@@ -1,0 +1,62 @@
+Recipe number:
+278762.txt
+Review:
+Rating:
+5
+dateLastModified:
+02/22/2020
+helpfulCount:
+1
+userID:
+melanieq
+Display Name:
+Buckwheat Queen
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8440171.jpg
+text:
+Loved this! I used it on homemade pizza dough, added it to my salad and even on top soup. I used both white and black sesame seeds. Yum!
+Review:
+Rating:
+5
+dateLastModified:
+03/06/2020
+helpfulCount:
+0
+userID:
+5268317
+Display Name:
+Praple
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Love it!!  So easy to make and store.
+Review:
+Rating:
+5
+dateLastModified:
+03/15/2020
+helpfulCount:
+0
+userID:
+15249555
+Display Name:
+Karen Buyakie
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8436400.jpg
+text:
+Very good and versatile!
+Review:
+Rating:
+5
+dateLastModified:
+04/13/2020
+helpfulCount:
+0
+userID:
+3031597
+Display Name:
+barbara
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/254187.jpg
+text:
+easy to make and great on a lot of things

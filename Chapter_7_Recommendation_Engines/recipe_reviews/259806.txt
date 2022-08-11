@@ -1,0 +1,72 @@
+Recipe number:
+259806.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-17T13:57:47.217
+helpfulCount:
+0
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I discovered hatch chilies this year and had a great time trying a bunch of new recipes.  I used this to a drizzle over Caribbean inspired chicken tacos with a pineapple/ hatch chili salsa.  Really enjoyed how the ranch/sour cream combo both tamed the heat and played up the smokey char factor.  We also really had cilantro, but I have to admit it worked very well in this dressing
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-02T18:37:12.43
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this as a dressing for salad as the recipe submitter mentioned. It was excellent and perfect as written!

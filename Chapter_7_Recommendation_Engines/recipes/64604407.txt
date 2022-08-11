@@ -1,0 +1,30 @@
+URL:
+https://www.allrecipes.com/personal-recipe/64604407/test1/
+Title:
+TEST1 Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+TEST
+
+Directions:
+TEST
+
+Submitter: 
+ARMax
+Description: 
+TEST
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+1
+Ready in:
+1
+Number of servings: 
+1
+Nutritional Facts:
+NA

@@ -1,0 +1,37 @@
+Recipe number:
+270273.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-04T23:06:20.853
+helpfulCount:
+0
+userID:
+26613007
+Display Name:
+Teena Smelser
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7404386.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+get ready to sit down with it now looks good. Didnt have honey mustard so i subbed honey and yellow mustard about 2 tablespoons each. serving with mashed potatoes. no camera sorry

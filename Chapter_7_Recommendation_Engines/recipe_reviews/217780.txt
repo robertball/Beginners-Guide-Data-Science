@@ -1,0 +1,107 @@
+Recipe number:
+217780.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-04-25T15:34:46.607
+helpfulCount:
+40
+userID:
+4585919
+Display Name:
+Tiana Henrie Phillips
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1169871.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was good. Maybe add bananas and use tidbits instead of crushed pineapple, drained. Lemon yogurt did make it too tart. Maybe vanilla yogurt? I will make it again though. It was a hit at the Easter dinner I had. Everyone liked it. Those would just be my variations.
+Review:
+Rating:
+3
+dateLastModified:
+2011-04-25T05:15:22.003
+helpfulCount:
+21
+userID:
+3825395
+Display Name:
+mrs. kosmos
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+238
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Blueberries were prohibitively expensive, so I upped the strawberries and grapes to 1.5 C each. Also used green grapes instead of red. I made it the night before I served it. It was okay, not fab. Hubby thought the lemon yogurt made it too tart.
+Review:
+Rating:
+1
+dateLastModified:
+2012-04-08T17:46:41.033
+helpfulCount:
+5
+userID:
+9000789
+Display Name:
+tsqad8
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was just way too tart!

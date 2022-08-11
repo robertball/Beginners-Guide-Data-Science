@@ -1,0 +1,107 @@
+Recipe number:
+232878.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-09-04T19:52:34.237
+helpfulCount:
+6
+userID:
+13891616
+Display Name:
+Aryn Williams
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1239650.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made 2 versions of this- 1 just as explained in the recipe. It turned out great! Like a pumpkin dump cake. Version 2 I mixed all the ingredients except the butter and I drizzled it on top- turned out more like a bread/muffin. I wish I'd used the pecans and butter and made a crust instead of mixing it all together- both tasted great!!!
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-03T03:55:06.06
+helpfulCount:
+0
+userID:
+10969600
+Display Name:
+Pookie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+248
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It had good flavor but I didn't like the texture. The only way I can describe it is that it was too wet. I wouldn't make it again, but will try to find a variation of this recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2013-10-15T15:30:39.523
+helpfulCount:
+0
+userID:
+1061966
+Display Name:
+Laura E.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+207
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love pumpkin pie and this dessert takes pumpkin pie to a whole new level! It is the perfect mix of pie and cake and sweet and salty! So easy to throw together and very impressive. Enjoy!

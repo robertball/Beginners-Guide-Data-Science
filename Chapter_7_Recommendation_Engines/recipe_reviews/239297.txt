@@ -1,0 +1,37 @@
+Recipe number:
+239297.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-07T00:15:39.03
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were really tasty! I did end up cutting them in half, just so you could see all that was inside. Nice little appetizer! Would make again!

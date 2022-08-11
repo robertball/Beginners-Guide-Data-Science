@@ -1,0 +1,72 @@
+Recipe number:
+16243.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-03-31T20:21:32.73
+helpfulCount:
+6
+userID:
+2811902
+Display Name:
+nrgizrbune41
+isPro:
+False
+followersCount:
+41
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/216543.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is really good. I'm giving 4 stars only because it was time consuming. It was tasty and refreshing. The one thing I did different was the crust. I used my pie crust and added in the nuts. On top I put whip cream before serving.
+Review:
+Rating:
+5
+dateLastModified:
+2008-11-26T19:14:11.317
+helpfulCount:
+6
+userID:
+3331971
+Display Name:
+Laura Ross
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2414.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+I've made this pie several times and it's great. Thank you!

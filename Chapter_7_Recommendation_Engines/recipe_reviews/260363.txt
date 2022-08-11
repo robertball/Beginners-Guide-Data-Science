@@ -1,0 +1,72 @@
+Recipe number:
+260363.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-12T00:30:02.673
+helpfulCount:
+2
+userID:
+25309389
+Display Name:
+Laurie Baucum
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6454681.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think it would be better with less almond flour.  Next time I'll cut the flour in half.  It gave the meatloaf a strange consistency and flavor.  Couple adjustments and it will be a good dinner.
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-19T23:44:30.573
+helpfulCount:
+0
+userID:
+16012463
+Display Name:
+Susan Boss
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+389
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2400581.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't care for it. Was on the dry side and not enough flavor; which I was surprised because of the horseradish.  I'll need to experiment with portions to fit my taste.

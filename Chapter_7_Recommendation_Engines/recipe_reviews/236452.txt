@@ -1,0 +1,72 @@
+Recipe number:
+236452.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-11-30T09:00:14.673
+helpfulCount:
+1
+userID:
+11729226
+Display Name:
+Mike H
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+205
+favoritesCount:
+1164
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Several things made me suspicious about this recipe.  First, it only had one review. Second, I was leery of something calling itself a salad  - but you have to boil it for 25 minutes in 1½ cup of vinegar and, lastly...why would I want to boil the delicate flavor of roasted red peppers in vinegar and hot spices for 25 minutes?  So I proceeded with low expectations.  Bottom line is - this is ok, and some might like it.   Better name for this recipe would be 'Corn with a Kick.'  Not my taste.
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-21T13:19:42.993
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2815
+favoritesCount:
+6005
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've never had pomegranate-infused red wine vinegar, and wasn't about to buy it for one recipe (done that type thing tooooo many times). I did have some pomegranate juice in the fridge which I added to red wine vinegar which I think was fine.  IMO unless you're a pomegranate-infused red wine vinegar lover, I think you'll be happy just with a good-quality red wine vinegar.  We had this salad (which I served chilled) with some grilled jalapeño chicken sausages, and really enjoyed it.  And I agree with the recipe author, it would be a good addition to a Mexican meal.  Good balance of sweet, sour and spicy.

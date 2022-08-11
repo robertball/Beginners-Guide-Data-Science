@@ -1,0 +1,37 @@
+Recipe number:
+240756.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-07-07T18:19:55.217
+helpfulCount:
+0
+userID:
+886179
+Display Name:
+BOOKIE 
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+554
+favoritesCount:
+6786
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/190.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+7.7.18 ... https://www.allrecipes.com/recipe/240756/white-chocolate-chip-ginger-cookies/ ... This is more of a spice cookie than ginger.  Even though I added all of those four spices, I was still expecting a ginger cookie.  'Can't say I much enjoyed a spice cookie with white chocolate chips, but I think I would a ginger.  'Had to add more flour.  Thanks for sharing your recipe.

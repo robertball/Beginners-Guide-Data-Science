@@ -1,0 +1,37 @@
+Recipe number:
+263067.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-05T15:30:13.907
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This panino is delicious. Harissa is my new favorite condiment. Serve it on the side to dip your sandwich in. You’ll definitely want more than the 2 tbsp listed. I can’t figure out the need to dirty two skillets. I cooked everything in one large skillet, adding the pepper and onion mixture to a bowl and used a panini press (eliminating the need for the butter).

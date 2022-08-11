@@ -1,0 +1,72 @@
+Recipe number:
+49652.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-04-01T12:32:29.96
+helpfulCount:
+12
+userID:
+788900
+Display Name:
+Mike Schoenbacher
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+111
+favoritesCount:
+657
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3655942.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very easy. very good. great for people who don't like the taste of liver. but for my spouse and i this was the only negative - not enough liver taste. added a 1/4 tsp. of cayenne for extra spice. if i ever try again will do more to bring up chili flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-03T00:32:37.697
+helpfulCount:
+0
+userID:
+3459867
+Display Name:
+sophist
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+311
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband found this recipe for me to try because he doesn’t like liver, but knows it’s good for people. It’s super simple and I thought tasty.  It’s not outstanding which is why 4 stars, but it is a nice alternative to liver and onions. I served it on rice, and the sauce was nice.

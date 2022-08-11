@@ -1,0 +1,72 @@
+Recipe number:
+213619.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-03-04T20:30:55.157
+helpfulCount:
+13
+userID:
+2907603
+Display Name:
+Connie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+50
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had a hard time finding Creme de Cocoa, but was worth the search.  Very tasty!  Great after dinner drink, although I enjoyed it before, and if you enjoy a sweet treat, this is definitely worth trying.
+Review:
+Rating:
+3
+dateLastModified:
+2013-07-18T11:49:56.397
+helpfulCount:
+3
+userID:
+2753412
+Display Name:
+Lucky Noodles
+isPro:
+False
+followersCount:
+296
+followingCount:
+0
+madeRecipesCount:
+467
+favoritesCount:
+2823
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/60059.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have to admit the amaratto and gin used were not top shelf.  And I only had DARK creme de cacao, isn't there a LIGHT one?  I would also start with half the cinnamon and add more to your taste.

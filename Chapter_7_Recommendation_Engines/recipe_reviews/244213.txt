@@ -1,0 +1,73 @@
+Recipe number:
+244213.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-11-05T05:12:28.383
+helpfulCount:
+0
+userID:
+15040659
+Display Name:
+49AB
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+74
+favoritesCount:
+550
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used orange juice didn't have marmalade, ok but probably
+Won't make again
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-08T10:06:57.057
+helpfulCount:
+0
+userID:
+3693712
+Display Name:
+AcaCandy
+isPro:
+False
+followersCount:
+53
+followingCount:
+0
+madeRecipesCount:
+153
+favoritesCount:
+1925
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/258088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice tasting marinade. I had to sub fresh squeezed OJ for the orange marmalade as I never keep anything that sweet in the house plus most have HFCS, was thinking of adding some natural honey, but decided to skip that and as I never salt anything (I let others decide on their salt level) left both salts out as well (recipe already has garlic.) Everything else the same. I think this would be good to use as a salad dressing too. I marinated separately as suggested (veggies apart from chicken) for about two hours. Will definitely make again!

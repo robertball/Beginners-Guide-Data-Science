@@ -1,0 +1,72 @@
+Recipe number:
+258131.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-03T16:15:43.54
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+501
+followingCount:
+0
+madeRecipesCount:
+1554
+favoritesCount:
+3236
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are easy and tasty. I used salted butter and kept the salt in and I am glad I did.. these are very sweet. Next time I think I'll cut back on the caramel to see if I can tone it down a bit.  Kids would love these..
+Review:
+Rating:
+5
+dateLastModified:
+2020-06-21T00:27:58.87
+helpfulCount:
+0
+userID:
+27370188
+Display Name:
+Elise Burdge
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+53
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7993429.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is such an awesome recipe, everyone in my family loved it! It was easy and satisfied the needs of my caramel-nut-chocolate loving family. One suggestion I have who anyone who really loves chocolate is to add fudge frosting to the top. It adds a great extra chocolate flavor, without taking away from the original flavors.

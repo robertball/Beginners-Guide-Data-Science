@@ -1,0 +1,72 @@
+Recipe number:
+247306.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-19T19:05:11.263
+helpfulCount:
+1
+userID:
+7848430
+Display Name:
+ollydog
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+116
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First one to rate it!  I wasn't sure with rice pilaf and BBQ sauce, but it turned out really good.  They did not sell Knorr rice pilaf at my store so I bought a different brand that had a longer cook time but it worked ok.  I was worried that the chicken would be underdone but since it sat for a bit it was good and not chewy.  Both kids and hubby liked it.  Nice all in one meal I will make it again.  Adults ate it with some sriracha.
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-17T21:47:33.763
+helpfulCount:
+0
+userID:
+26146362
+Display Name:
+Timothy Heary
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7051171.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy one pot meal. It was just like having a BBQ.

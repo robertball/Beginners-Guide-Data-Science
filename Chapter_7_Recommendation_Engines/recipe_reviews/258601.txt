@@ -1,0 +1,37 @@
+Recipe number:
+258601.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-12T22:00:38.66
+helpfulCount:
+0
+userID:
+20936860
+Display Name:
+Cindy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+206
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made it with fresh corn. Doesn’t need as much milk or butter. Cooked it on the stove and in a crockpot ,the stove was better method because it doesn’t need to cook that long

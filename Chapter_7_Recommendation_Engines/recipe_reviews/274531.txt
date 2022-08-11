@@ -1,0 +1,72 @@
+Recipe number:
+274531.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-06T12:32:54.687
+helpfulCount:
+2
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+1978
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Both my husband and I really enjoyed this! So easy to make! I used all unsweetened almond milk in place of half-and-half, maple syrup in place of brown sugar, and left the raisins out. This allowed me to have a "plain" oatmeal to divide up for the week,  and top with whatever fruits, nuts, coconut, spices, etc that I wanted for the day. Adding in some vanilla extract and a pinch of salt adds a nice flavor too! I do find with most slow cooker oats, that they rarely need more than 5-6 hours on low heat to be done--more than that and they can stick and burn. They also benefit from being stirred every so often. If you do that, you end up with a delicious, and generous amount of, steel cut oats that are so incredibly easy to make! Thank you for the recipe--I will make this often!
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-03T21:15:35.987
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This tasted good, creamy and not too sweet. The problem was a lot of it stuck to the sides and bottom of the Crock Pot. Some of it was burned a little. Mine cooked just 10 minutes shy of 8 hours. Maybe adding more water would help.

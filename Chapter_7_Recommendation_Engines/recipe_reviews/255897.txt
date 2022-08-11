@@ -1,0 +1,109 @@
+Recipe number:
+255897.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-08T20:14:20.84
+helpfulCount:
+2
+userID:
+7853359
+Display Name:
+Joey Joan
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+561
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7645128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easy and full of flavor. I used Borden Provolone cheese, and a mixed ground meat combo. Those are the only changes I made. There are many possibilities with this recipe, my mind was spinning with ideas as I put this recipe together. Try it as is first you will be glad you did.
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-22T03:03:40.29
+helpfulCount:
+0
+userID:
+10114575
+Display Name:
+Liz Dalton 'Lizzie'
+isPro:
+False
+followersCount:
+126
+followingCount:
+0
+madeRecipesCount:
+317
+favoritesCount:
+1093
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1276525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were really good! Makes a great snack. Next time I will try making as a casserole for a nice dinner. Will definitely make again. Cheesy and tasty!
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-21T18:11:27.437
+helpfulCount:
+0
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These tasty bits are perfect for game day snacking, get-togethers with friends, and way weeknight dinners!
+I used half ground turkey and half ground beef, and I did switch to broil for the last couple of minutes (okay, I did over-do the broiling just a touch). 
+These were very tasty, and definitely lend themselves to switching up ingredients.

@@ -1,0 +1,37 @@
+Recipe number:
+234787.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-27T23:08:54.387
+helpfulCount:
+0
+userID:
+10308643
+Display Name:
+mkeefer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+72
+favoritesCount:
+2076
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was very surprised how tasty these were. Didn't change anything except I added some cayenne to the potatoes, I like spicy. Will make again, thx.

@@ -1,0 +1,37 @@
+Recipe number:
+262544.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-05-06T18:11:34.5
+helpfulCount:
+1
+userID:
+16469102
+Display Name:
+Susan Meredith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These Onion Bhajees are absolutely fab, they taste wonderful and far less fattening than a deep fried version, I've made them 3 times now, and my guests keep coming back for more, I serve them with my homemade chilli Jam, gorgeous!

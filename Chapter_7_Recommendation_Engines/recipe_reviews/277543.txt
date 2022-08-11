@@ -1,0 +1,72 @@
+Recipe number:
+277543.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-12T17:04:08.81
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+766
+followingCount:
+0
+madeRecipesCount:
+519
+favoritesCount:
+2119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup is so good! A perfect comforting mix of seasonings and textures for a cold day. It is super flavorful and healthy too! I tossed the cauliflower and onion a couple times while roasting for even browning, and I added a sprinkle of salt before serving. I also chopped up the cauliflower florets to top the soup. The toasted almonds add a nice crunch!
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-20T23:55:07.8
+helpfulCount:
+0
+userID:
+16606825
+Display Name:
+Marita
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup was absolutely delicious! My husband, who never says too much, kept telling me how delicious it was! Not only did the soup taste wonderful....the house smelled ssoooo good all evening and I could smell the delicate spices the next morning. Will definitely make this again!

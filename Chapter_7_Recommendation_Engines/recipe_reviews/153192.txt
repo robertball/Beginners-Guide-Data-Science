@@ -1,0 +1,72 @@
+Recipe number:
+153192.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-09-15T17:02:41.943
+helpfulCount:
+9
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fast and easy for when you are short on time and you could easily add any of your favorite pizza toppings. I think some fresh herbs would really jazz up the sauce.
+Review:
+Rating:
+4
+dateLastModified:
+2010-10-08T19:21:38.443
+helpfulCount:
+2
+userID:
+5484880
+Display Name:
+tara
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+10
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was really tasty and is great not just for people with limited space but also when cooking just for two, it cuts down on the cost of hydro. I had to cook my potato longer than the time specified, and I also re-arranged them in the microwave halfway through cooking to avoid "hard spots". (I do this anytime I cook them this way). Very tasty lunch for the kids, would be good with some cooked sausage or bacon on top too.

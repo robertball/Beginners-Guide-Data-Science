@@ -1,0 +1,405 @@
+Recipe number:
+51976.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-06-26T14:31:24.64
+helpfulCount:
+11
+userID:
+1405188
+Display Name:
+MICETASTENICE
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yummy. I needed more water than stated to make a batter, but I was using whole wheat flour (all I had). Squeezing the mung bean sprouts as I dropped them in crumbled many nicely while leaving some whole. I omitted the sesame/veggie oil mixture, instead spraying a nonstick pan lightly with cooking spray and sprinkling a mixture of bonito flakes, kelp and toasted sesame seeds on the top side. I just put some more tamari on top to eat. It was so good!
+Review:
+Rating:
+5
+dateLastModified:
+2009-08-26T18:38:18.07
+helpfulCount:
+9
+userID:
+3496901
+Display Name:
+JulieArroway
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+268
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Thank you Kaoru!  This recipe was delicious.  I used all purpose flour almost double the mung bean sprouts and 1/2 cup of shredded carrots.  It turned out perfect with some cayenne pepper sprinkled on top with tamari for dipping.  Very low-calorie too!
+Review:
+Rating:
+5
+dateLastModified:
+2009-05-11T15:46:02.13
+helpfulCount:
+6
+userID:
+594225
+Display Name:
+BONF
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+243
+favoritesCount:
+514
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really enjoyed this!  It was very different from anything I've had before.  I used all-purpose flour because that's all that I had on hand.  I thought I was going to need to add more water, but my bean sprouts were still quite wet from when I washed them, so that added enough moisture.  I served the pancakes with a little sriracha on the side.
+Review:
+Rating:
+4
+dateLastModified:
+2009-02-24T14:57:45.857
+helpfulCount:
+5
+userID:
+3263784
+Display Name:
+pascale michelle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+great quick recipe.  i might have used too much ginger and soy sauce.  definitely gingery, so use less if you're not the biggest fan.
+Review:
+Rating:
+5
+dateLastModified:
+2006-02-28T13:47:18.857
+helpfulCount:
+5
+userID:
+1757011
+Display Name:
+snakepeace
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious with dark green cabbage leaves layered in between 2 pancakes.
+Review:
+Rating:
+3
+dateLastModified:
+2011-02-15T15:03:31.24
+helpfulCount:
+4
+userID:
+5068637
+Display Name:
+BevKat
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+191
+favoritesCount:
+298
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/637860.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I gave it 3 stars. These have the potential to be great, but the recipe really needs some help. I added more water too, but the pancakes were too Tamari/ginger intesive w/ little else to offer. Photo looks great, I want THAT recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2010-12-29T08:41:32.917
+helpfulCount:
+3
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious pancake!  I incorporated the chili powder into the pancake.  I used zesty sprouts instead of mung bean sprouts, and whole wheat flour instead of barley flour.  I have started my next batch of sprouts to be able to make these again!
+Review:
+Rating:
+5
+dateLastModified:
+2007-10-17T12:47:57.343
+helpfulCount:
+3
+userID:
+2547683
+Display Name:
+C2B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+61
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I definitely had to add some more water.  This is a simple spicy taste of Asia.  I loved it.
+Review:
+Rating:
+3
+dateLastModified:
+2008-01-16T15:05:03.453
+helpfulCount:
+2
+userID:
+1701673
+Display Name:
+Island Girl
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+a little strange... I can't decide if I like it or not?!  
+It needed more water (enough to make a batter). I didn't have the right sauce, so I substituted it with Tokastu sauce instead.  Also added some toasted sesame seeds.  Needed a bit of salt, and we dipped it in some sushi/sashimi style soy sauce.  My husband thought it kinda tasted like something you might find in a  bar Japan (although never came across it while living there)  Might make again, only as a way to use up leftover sprouts, would not go buy them just of this.
+Review:
+Rating:
+2
+dateLastModified:
+2015-08-07T05:47:55.247
+helpfulCount:
+0
+userID:
+2291153
+Display Name:
+Wilma Laura Wiggins
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+103
+favoritesCount:
+651
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2154838.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used whole wheat flour and it tasted good but was gummy.
+Review:
+Rating:
+5
+dateLastModified:
+2014-07-17T09:44:58.283
+helpfulCount:
+0
+userID:
+13929151
+Display Name:
+BaDaBingTwerk_King
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7579323.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great new breakfast staple for me. Nice crunchy texture. Here are the changes I made . . . 
+
+1 tbs powdered ginger
+1tbs soy sauce
+1/8 tsp kosher salt
+6 tbs pancake mix
+1/4 cup water
+1cup mung sprouts
+2 tsp hazelnut oil ( all  that I had)
+1/4 tsp ground cinnamon
+1/4 tsp smoked paprika
+7 or 8 whole cardamom seed pods shelled and ground in a stone pedestal and added to mixture
+
+Pinch of fennel seeds popped in the hot oil before adding the mixture
+
+Heat oil to just barely smirking before adding mixture
+
+Serve with a side of canned peaches, fruit preserves, or horseradish creamed.

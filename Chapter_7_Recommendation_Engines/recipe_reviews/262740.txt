@@ -1,0 +1,107 @@
+Recipe number:
+262740.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-04-20T21:07:39.823
+helpfulCount:
+0
+userID:
+6556100
+Display Name:
+ArlaMaree King
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2284186.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Needs something else. By itself it tastes like it is missing something.  So I added vanilla yogurt with maple syrup as a dip with the berries , in addition to low fat cream cheese lemon drizzle over the top of the bars. That was very nice. I got many complements on it
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-15T16:51:59.637
+helpfulCount:
+0
+userID:
+17075250
+Display Name:
+Rose Ladd
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+566
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4541977.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time for the mixed berry blend with oatmeal and it is delicious. It is on the menu for all the time!
+Review:
+Rating:
+2
+dateLastModified:
+2018-03-13T00:46:11.25
+helpfulCount:
+0
+userID:
+23397774
+Display Name:
+Kerry Owens Deputy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5175662.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Would not make again, can’t figure out how you would be grab and go. They fell apart, texture not cake like at all

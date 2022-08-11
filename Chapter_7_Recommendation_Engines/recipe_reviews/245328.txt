@@ -1,0 +1,114 @@
+Recipe number:
+245328.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-09T19:57:20.687
+helpfulCount:
+2
+userID:
+16236415
+Display Name:
+Whitewolf
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+133
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this 3 ways 
+1 with stevia blend  (1/2 stevia, 1/2 sugar)
+1 with sugar 
+1 just as the recipe states 
+
+They were all good,  but the recipe with only stevia lacked the depth of flavor needed in a tart.  Suggestion would be to add 1/2 teaspoon of salt to get the tartness into the tart,  otherwise it's just too sweet. 
+The best one was made with the blend.  Tasted great and still low in sugar so your diabetic friends could have half a slice. 
+The full sugar one could have probably used a pinch of salt.
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-06T21:35:01.587
+helpfulCount:
+1
+userID:
+21336159
+Display Name:
+Angela Lenssen
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this as a Streusel topped pie, just used more pears. Should have also increased cranberries-- the combo was delicious! I didn't use stevia, just white sugar. And I used slivered vs. sliced almonds.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-20T23:11:54.503
+helpfulCount:
+0
+userID:
+3784420
+Display Name:
+Charlotte Cordray
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3359229.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was simple and easy to make, I made my own pie crust for it.  It was delicious.

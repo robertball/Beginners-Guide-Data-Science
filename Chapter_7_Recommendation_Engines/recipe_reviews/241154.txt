@@ -1,0 +1,72 @@
+Recipe number:
+241154.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-03-04T13:59:01.75
+helpfulCount:
+4
+userID:
+5049175
+Display Name:
+bd.weld
+isPro:
+False
+followersCount:
+6664
+followingCount:
+0
+madeRecipesCount:
+884
+favoritesCount:
+2541
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4501775.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Although this recipe has potential, the chili powder is over powering and the results are a dry salad. I further investigated the recipe to find out that the submitters personal recipe only called for 1 teaspoon of chili powder which sounds right.
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-23T17:40:04.197
+helpfulCount:
+0
+userID:
+14016972
+Display Name:
+Maple Syrup
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+149
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5250927.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy and fast recipe. I did an extra tablespoon of mayo as it seemed dry. Nicely spicy with 1 teaspoon chili powder, use less if you want something mild. I think a splash of lemon or lime juice next time may be good too.

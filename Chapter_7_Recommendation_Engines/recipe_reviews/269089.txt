@@ -1,0 +1,72 @@
+Recipe number:
+269089.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-12-28T03:15:14.55
+helpfulCount:
+0
+userID:
+5176898
+Display Name:
+angel
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Too strong. Oh my! Maybe half the irish cream and liqueur? I couldn't finish it in its current state. Had to add more coffee and regular creamer. This could just be me. The smell is wonderful though.
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-18T19:47:29.143
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for my husband because I'm not a fan of the hazelnut flavor and he thought it was great. I didn't have whipped cream but he said it didn't need it. This would make a great after dinner drink/dessert!

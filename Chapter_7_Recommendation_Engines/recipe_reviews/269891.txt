@@ -1,0 +1,37 @@
+Recipe number:
+269891.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-11-17T01:08:11.853
+helpfulCount:
+0
+userID:
+26477104
+Display Name:
+Jen S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7298337.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+10 min is way too long. I tried broccoli but it comes out really dry and burnt tasting.  The onion rings were slightly better  but I only cooked them for about 5 min. Panko crumbs didn't stick well

@@ -1,0 +1,37 @@
+Recipe number:
+239988.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-12-18T21:36:02.747
+helpfulCount:
+1
+userID:
+8314415
+Display Name:
+ApoFangirl
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+305
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This snack mix was okay but not phenomenal. It vaguely tasted of banana bread and that flavor came solely from the Banana Nut Cheerios which, I must add, were extremely hard for me to find in my town. I went to four different grocery stores trying to find it! I won't make this particular one again but haven't ruled out other Chex mixes.

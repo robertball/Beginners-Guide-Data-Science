@@ -1,0 +1,37 @@
+Recipe number:
+272354.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-08T22:33:03.82
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1101
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought these were just ok, nothing I would crave and make again. I ate them by themselves and maybe if I had put them in yogurt or salads as suggested by the submitter I might have liked them better. Thanks for sharing.

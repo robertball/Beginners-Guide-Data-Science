@@ -1,0 +1,107 @@
+Recipe number:
+210412.txt
+Review:
+Rating:
+1
+dateLastModified:
+2010-04-19T14:53:59.337
+helpfulCount:
+2
+userID:
+3394371
+Display Name:
+Natalie Taylor
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+77
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614246.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+followed it exactly....could use less raspberries
+Review:
+Rating:
+5
+dateLastModified:
+2010-12-30T16:26:53.54
+helpfulCount:
+0
+userID:
+3363324
+Display Name:
+Tina Mitchell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/950047.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a delightful dessert! It is very rich, but the simple, chocolate flavor is wonderful. I included a dollop of whipped topping and just a few raspberries sprinkled on the top (or per individual preferences).   It also helps if the tarts are removed from the refrigerator 30 minutes before serving. They are much easier to cut with a fork (just be sure to remove from tart pan before setting out).
+Review:
+Rating:
+4
+dateLastModified:
+2010-07-25T08:39:00.51
+helpfulCount:
+0
+userID:
+5097894
+Display Name:
+jenrogers03
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+21
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The recipe was missing a few details that would have been helpful. The dough was not a crumbly consistency, but it still turned out pretty good. I didn't have a tartlet pan, so I used a muffin pan instead. I filled each muffin cup with dough about 1/2 inch thick, but felt they were too thick. Next time I will roll the dough to between 1/8 to 1/4 inch. This will allow more filling to fit in each cup. I only used about 20% of the filling, but if the dough was rolled thinner, you could use more filling. By following my recommendations, I will guess you can make at least 12 cups from one recipe. I used three large raspberries per cup, and the balance was nice. This dessert tasted very good.

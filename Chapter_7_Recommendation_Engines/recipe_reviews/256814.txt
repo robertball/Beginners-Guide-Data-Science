@@ -1,0 +1,72 @@
+Recipe number:
+256814.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-07-10T19:28:18.58
+helpfulCount:
+3
+userID:
+16141268
+Display Name:
+Christopher Isto
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+159
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2474674.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If I could recommend something, I would suggest that regular ice cubes are going to dilute the coffee. This is better if your ice is itself made of coffee.
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-31T00:27:17.133
+helpfulCount:
+0
+userID:
+13547523
+Display Name:
+B. Tario
+isPro:
+False
+followersCount:
+33
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+253
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4105341.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It turned out very delicious.  Will make it again for sure.

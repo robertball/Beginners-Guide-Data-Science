@@ -1,0 +1,37 @@
+Recipe number:
+262545.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-11-25T14:43:08.05
+helpfulCount:
+1
+userID:
+24542704
+Display Name:
+Faslie Miller
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5972011.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this today. I mostly followed the recipe , except for the following modifications: 2 eggs, instead of 1 and 1 cup of milk instead of 5 tbsp. I also reduced the sugar by half because I don't like too much sugar. The cake came out great and I'll definitely make this again.

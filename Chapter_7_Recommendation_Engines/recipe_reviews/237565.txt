@@ -1,0 +1,37 @@
+Recipe number:
+237565.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-25T17:48:32.237
+helpfulCount:
+0
+userID:
+886179
+Display Name:
+BOOKIE 
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+554
+favoritesCount:
+6793
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/190.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+1.25.20 ... https://www.allrecipes.com/recipe/237565/mandarin-orange-pie/ ... 'Subbed with a 20oz can pineapple tidbits.  'Added one more block of cream cheese.  'Helped firm up & cut the sweetness.  :)

@@ -1,0 +1,72 @@
+Recipe number:
+85690.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-09-22T19:09:58.217
+helpfulCount:
+3
+userID:
+999804
+Display Name:
+Zfamily
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+55
+favoritesCount:
+120
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/960526.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was really good. A little too sour for my husband though. (who cares what he thinks anyways, right?)
+Review:
+Rating:
+5
+dateLastModified:
+2007-09-22T19:10:05.99
+helpfulCount:
+2
+userID:
+2395173
+Display Name:
+Josh S.
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+91
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/43804.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My boyfriend's mother loved this recipe! I even bought and then forgot the Sweet n Sour Mix! She still loved it!!! I would totally recommend this recipe to everybody!

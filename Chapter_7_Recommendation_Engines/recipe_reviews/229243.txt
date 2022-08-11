@@ -1,0 +1,73 @@
+Recipe number:
+229243.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-10T01:34:42.4
+helpfulCount:
+2
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+274
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3431
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was a little worried about the stuffing because it was fairly dry when I put it on the pork, but, it was perfectly moist once the pork was cooked.  I couldn't find the cranberry jam, so, I used whole berry cranberry sauce instead.   I cooked the pork to about 150 degrees for our taste because we don't prefer it well done.  Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2015-08-27T20:42:59.203
+helpfulCount:
+1
+userID:
+10325445
+Display Name:
+Sherri Elliott
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+1533
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really tasty recipe. My husband loved the spicy flavor. 
+ Instead of 2 jellies I used Trader Joe's Cranberry Jalapeno Sauce and dried cranberries.

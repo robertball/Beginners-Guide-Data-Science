@@ -1,0 +1,37 @@
+Recipe number:
+179306.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-02-10T14:29:41.097
+helpfulCount:
+1
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Sweet but very unique. I can't say that I've ever had a drink taste like this before. I think if I make this again, I'd skip the sugar. It's sweet enough on it's own. Do what I did and shake this REALLY WELL in a martini shaker with lots of ice before serving.

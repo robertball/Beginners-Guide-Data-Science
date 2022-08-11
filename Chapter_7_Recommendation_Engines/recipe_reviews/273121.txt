@@ -1,0 +1,37 @@
+Recipe number:
+273121.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-12T17:20:45.863
+helpfulCount:
+0
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+122
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+2016
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+What a simple, and delightful new way to eat poached eggs! You wouldn't think the addition of a bit of lemon juice and olive oil would make that big of a difference, but it really does! There's a nice brightness added to egg when it's made this way. And did I mention it's insanely easy to make too?! This is something I will definitely make often--thank you so much for the recipe!

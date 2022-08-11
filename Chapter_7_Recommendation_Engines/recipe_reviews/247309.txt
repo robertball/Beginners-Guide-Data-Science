@@ -1,0 +1,32 @@
+Recipe number:
+247309.txt
+Review:
+Rating:
+2
+dateLastModified:
+06/23/2017
+helpfulCount:
+0
+userID:
+12845784
+Display Name:
+FoodInspiredJogg-r
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Sadly without flavor. Chose it because it was simple but "simple" would've been a compliment for the taste.:(
+Review:
+Rating:
+4
+dateLastModified:
+12/10/2019
+helpfulCount:
+0
+userID:
+17058888
+Display Name:
+Pat
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+My family really enjoyed the recipe. I added some garlic salt and thyme for some extra flavor.

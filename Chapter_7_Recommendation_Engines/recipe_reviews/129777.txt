@@ -1,0 +1,107 @@
+Recipe number:
+129777.txt
+Review:
+Rating:
+5
+dateLastModified:
+2008-03-20T20:39:10.393
+helpfulCount:
+2
+userID:
+1792253
+Display Name:
+Nadae Huck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+455
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/18.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+These take a little work but are excellent!  I made them for my husband and I on a "date night" and we both loved them.  I love chocolate sweet stuff and he is not a sweet eater.  This dessert, however, pleased both of us and was a perfect after-dinner, light tasting dessert.  I will definitely be making this again.  It is in my permanent file!
+Review:
+Rating:
+5
+dateLastModified:
+2013-04-14T15:59:39.04
+helpfulCount:
+0
+userID:
+10090997
+Display Name:
+Kathy C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+207
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2772749.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these years ago and they were great.  They looked elegant and there are so many variations you can do with various fruit in season.  They work with pudding as well instead of cool whip.
+Review:
+Rating:
+5
+dateLastModified:
+2010-02-13T10:07:50.603
+helpfulCount:
+0
+userID:
+660761
+Display Name:
+Sue
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+56
+favoritesCount:
+132
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious, beautiful and so simple.  I used both dark and white chocolate cups and added a lot of different fruits.  The kids love it.

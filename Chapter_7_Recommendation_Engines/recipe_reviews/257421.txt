@@ -1,0 +1,37 @@
+Recipe number:
+257421.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-09-20T15:38:59.48
+helpfulCount:
+0
+userID:
+3795092
+Display Name:
+virgi
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cannot tell if it was good because in my case, it was a disaster and I never got to steaming part. The dough never became stiff enough to be shaped. It was too sticky, and with wet hands, it was shapable but would break easily. I lost patience and threw everything in the garbage.

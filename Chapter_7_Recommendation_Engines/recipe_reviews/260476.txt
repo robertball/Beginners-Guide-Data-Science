@@ -1,0 +1,37 @@
+Recipe number:
+260476.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-10T21:28:04.687
+helpfulCount:
+0
+userID:
+16007298
+Display Name:
+Allrecipes Magazine
+isPro:
+False
+followersCount:
+479755
+followingCount:
+0
+madeRecipesCount:
+843
+favoritesCount:
+868
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2536776.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The honey butter and blackberry syrup take these sweet-hot cakes over the top. TIP: The sweetness of the cakes makes them prone to over-browning, but ours turned out perfectly when we turned the heat down a bit (to medium).

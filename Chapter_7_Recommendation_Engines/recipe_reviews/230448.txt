@@ -1,0 +1,37 @@
+Recipe number:
+230448.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-14T01:24:07.57
+helpfulCount:
+1
+userID:
+1828332
+Display Name:
+Sheila LaLonde
+isPro:
+False
+followersCount:
+170
+followingCount:
+0
+madeRecipesCount:
+716
+favoritesCount:
+1144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/874540.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I drained as much liquid as I  could from the crushed pineapple, used full size Snickers bars, although the recipe didn't indicate and used unsalted peanuts.  This was good but maybe not my favorite variation of this salad.  Thanks for sharing your recipe!

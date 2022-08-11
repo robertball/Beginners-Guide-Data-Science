@@ -1,0 +1,177 @@
+Recipe number:
+246566.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-23T14:31:31.993
+helpfulCount:
+1
+userID:
+2645958
+Display Name:
+Nannette Washington
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+1185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe!  Made it twice, couldn't find the stew vegetables so I got bags of peas and carrots.  I now know where to get the stew vegetables so I will try that next time.  The only other thing I changed was adding a can of tomatoes along with the tomato sauce.  Will definitely make again!
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-08T20:25:44.073
+helpfulCount:
+0
+userID:
+19155754
+Display Name:
+Linda M Brown
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5082880.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will definitely make this again. I added cut asparagus spears and chopped tomatoes.
+Review:
+Rating:
+3
+dateLastModified:
+2016-07-25T03:21:00.067
+helpfulCount:
+0
+userID:
+18091419
+Display Name:
+Dionne Alexandra
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3760376.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used half an onion, not a full one and the only thing I can taste is the coconut oil. Next time I'll add more onion, less oil. Other than that, very easy and quick.
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-06T17:10:53.28
+helpfulCount:
+0
+userID:
+17857027
+Display Name:
+John Seal
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super easy to make. Go crazy with the Coconut oil and garlic, it really comes  through in the end. Love it!!
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-30T08:47:44.23
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty soup. I liked the addition of the frozen stew vegetables.. never used this blend before. The first night, this was really quite onion-y.. between the onions in the broth and the onions in the stew blend, it was a lot.  The next night it mellowed some, so that was good.  I blended this up and served it cold as well... I liked it that way too

@@ -1,0 +1,37 @@
+Recipe number:
+274761.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-11T19:57:20.72
+helpfulCount:
+0
+userID:
+25811979
+Display Name:
+PJRaks
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I changed the white sugar for brown sugar for a homier,  warmer taste. The touch of caramelization that occurs brings the raspberries to another level. My favorite and my families Favorite  pie.

@@ -1,0 +1,37 @@
+Recipe number:
+277485.txt
+Review:
+Rating:
+1
+dateLastModified:
+2019-12-22T00:32:01.54
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was an epic failure for me even though I followed the recipe without any deviations. The recipe instructions are to not remove the cover for 3 hours. I went and checked on it after 2 hours and that's when I noticed the chocolate was not melting because it had seized. I believe this could have been avoided had the bark been added to the bottom of the slow cooker rather than the peanuts at the bottom. The peanuts prevented the chocolate from melting. I also think it should be cooked on high and maybe stirred halfway through. Once the chocolate has seized there is nothing that can be done to salvage it. Quite an expensive recipe to have to throw it away.

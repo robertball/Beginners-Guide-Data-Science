@@ -1,0 +1,72 @@
+Recipe number:
+50156.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-11-06T20:26:38.837
+helpfulCount:
+0
+userID:
+663321
+Display Name:
+Shannon Carter Perschbacher
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6070879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These taste like sugar cookies with a hint of strawberry. I decided to jazz them up with a Hershey kiss on top, a la the classic cookies Peanut Butter Blossoms. Without the Kiss on top, I would probably only give these three stars as they're kind of blah.
+Review:
+Rating:
+3
+dateLastModified:
+2005-11-06T15:18:18.81
+helpfulCount:
+0
+userID:
+1333532
+Display Name:
+SECONAWAY21
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/133002.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these for an event with a pink theme.  They were fairly good with the slight taste of strawberry from the Nesquik, but not my favorite cookie recipe.  Will probably not make them again.

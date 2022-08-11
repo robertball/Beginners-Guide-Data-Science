@@ -1,0 +1,107 @@
+Recipe number:
+23678.txt
+Review:
+Rating:
+5
+dateLastModified:
+2001-07-06T04:01:51.797
+helpfulCount:
+2
+userID:
+386279
+Display Name:
+SHEROUX
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+An outstanding sauce that I served with Chicken Cordon Bleu.  Magnificent!
+Review:
+Rating:
+3
+dateLastModified:
+2003-09-24T14:55:05.14
+helpfulCount:
+1
+userID:
+65678
+Display Name:
+Mandy Lynne
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+1304
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6778122.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A little to "wine-y" for my taste, I'll cut back next time.  I was looking for something a little thicker for dipping, so, I added more flour and I added more honey mustard to the mix and it actually wasn't bad, it kinda grew on ya.  So, that's what I'd change, a little less wine and more honey mustard.  Thank you for sharing the recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2016-12-22T23:59:23.327
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2293
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I can't even believe I am going to say this but as written this was too wine-y for me too. Easy fix though. I just kept adding more mustard until I got the taste where I wanted it. Keep extra mustard on hand in case you too need to adjust it.

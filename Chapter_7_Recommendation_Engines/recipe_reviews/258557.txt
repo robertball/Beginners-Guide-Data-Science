@@ -1,0 +1,37 @@
+Recipe number:
+258557.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-01T17:28:44.903
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2270
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out pretty good. I wanted mine to be a little more loose so I added an extra tomato. The flavor is good and it gets better as it sits. I would have liked the vinegar flavor to come out more so I will add more next time. This would go good with many different things. Thanks for sharing!

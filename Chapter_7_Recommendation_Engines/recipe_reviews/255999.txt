@@ -1,0 +1,73 @@
+Recipe number:
+255999.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-12T20:18:05.843
+helpfulCount:
+4
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+400
+followingCount:
+0
+madeRecipesCount:
+1107
+favoritesCount:
+3213
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is pretty good, tastes just like what it is, a banana milk shake!
+I used coconut milk in place of regular milk. Tasty shake.
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-29T02:26:50.37
+helpfulCount:
+0
+userID:
+17988356
+Display Name:
+Deb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+101
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love it.

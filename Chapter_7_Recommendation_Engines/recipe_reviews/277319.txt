@@ -1,0 +1,72 @@
+Recipe number:
+277319.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-13T02:05:25.813
+helpfulCount:
+0
+userID:
+26620608
+Display Name:
+Ivy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavour was great but it took much longer to cook the rice. I’ll definitely make it again.
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-29T23:56:58.467
+helpfulCount:
+0
+userID:
+11127171
+Display Name:
+Beth Nix
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It didn’t come to pressure but the timer started the countdown. Giving it time to rest, I Che Jed and everything was good but the rice was under cooked. I’m not sure what happened. I set to sauté and closed the lid for 6 minutes and then the rice caught up. My husband loved it! We served with cheese, sour cream, and flour tortillas.

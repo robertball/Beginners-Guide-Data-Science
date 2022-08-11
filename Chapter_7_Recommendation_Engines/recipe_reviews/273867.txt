@@ -1,0 +1,72 @@
+Recipe number:
+273867.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-03T01:05:35.913
+helpfulCount:
+7
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty grilled veggie mix that smells amazing while cooking! I'm always looking for different flavor variations in the summertime to go along with grilled meats and this fit the bill. The only thing I suggest is seasoning with salt - it really needs it to bring out the flavors.  Also, I ended up chopping the zucchini into 1" chunks, as "1 large zucchini, quartered" would produce much too large pieces. 10 mins was the perfect doneness for my taste - slightly al dente. I used a grill pan (with holes) to get that nice charred flavor. Will make again!
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-24T23:34:57.357
+helpfulCount:
+1
+userID:
+17876037
+Display Name:
+Jessie Z
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674157.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great Flavor! Use whatever leftover veggies you have from your farm share! I "grilled" mine on the stove in cast iron skillet.

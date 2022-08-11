@@ -1,0 +1,37 @@
+Recipe number:
+269096.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-21T17:56:30.607
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+6008
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+11.21.18  Love the natural sweetness of this cranberry sauce and love that it has no sugar.  Too many cranberry sauces are loaded with a boatload of sugar, often to the point where you can’t even taste the cranberries.  This has a good balance of sweet-tart, with the fresh pineapple and honey enhancing the sweetness.  It has a delicate flavor, and tastes light and fresh. Very nice!

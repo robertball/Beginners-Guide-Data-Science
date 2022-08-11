@@ -1,0 +1,107 @@
+Recipe number:
+244546.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-03-05T22:11:22.647
+helpfulCount:
+1
+userID:
+15056616
+Display Name:
+AKB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make these again, but I will definitely dial back the cardamom, maybe just to one teaspoon.  It was way too strong for me and almost tasted like a mouthful of perfume.
+Review:
+Rating:
+4
+dateLastModified:
+2015-11-14T10:59:56.87
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite tasty... they have an earthy taste to them and are not overly sweet. If you are not a fan of cardamom... I am.. you might want to use a bit less
+Review:
+Rating:
+5
+dateLastModified:
+2016-12-10T18:05:21.093
+helpfulCount:
+0
+userID:
+20949018
+Display Name:
+Lisa Lam
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4274681.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This tasted great! we used our maca powder with the cashews and it was very easy! Thank you and we are going to post this recipe on our site - macajoy.com

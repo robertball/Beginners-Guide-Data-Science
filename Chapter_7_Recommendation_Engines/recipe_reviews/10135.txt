@@ -1,0 +1,37 @@
+Recipe number:
+10135.txt
+Review:
+Rating:
+3
+dateLastModified:
+2000-09-03T17:23:03.87
+helpfulCount:
+4
+userID:
+159855
+Display Name:
+Andi Martin
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4786260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was hoping for a more intense flavored cookie....it wasnt exactly what I'd hoped for- but good all the same. Perhaps adding a wee bit more sugar would help- Ill try that on my next batch and let ya'll know.

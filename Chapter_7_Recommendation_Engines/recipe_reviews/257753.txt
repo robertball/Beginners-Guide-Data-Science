@@ -1,0 +1,37 @@
+Recipe number:
+257753.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-10T17:44:16.377
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9646
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made my own refried beans and  I never was able to find the red tostada shells so I just used the regular ones. This turned out pretty good. I thought the bean and shrimp combo sounded odd but it worked good together. I made my shopping list from the ingredient list so I didn't see the other ingredients mentioned in the recipe description. A layer of shredded lettuce between the beans and shrimp would have been a nice touch. Good recipe though and one I would make again.

@@ -1,0 +1,72 @@
+Recipe number:
+246279.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-27T02:03:39.087
+helpfulCount:
+6
+userID:
+9268408
+Display Name:
+Borderline Kaos
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very easy recipe!  Made it for a teen's birthday party, along with a semi-sweet chocolate fondue.  Used my Little Dippers CrockPot, stirring every 15 minutes for a little over an hour while I was doing party prep. Once the white chocolate was melted, I whisked everything together for a wonderfully creamy result. The crockpot kept the fondue at a perfect temperature for the party, so I just wound the cord up with a twist tie and put the crockpot right on the table to serve.  Will be keeping this one!
+Review:
+Rating:
+2
+dateLastModified:
+2017-02-15T01:23:49.913
+helpfulCount:
+1
+userID:
+15478143
+Display Name:
+Karina Koji
+isPro:
+False
+followersCount:
+22
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4471459.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this exactly as directed and it came out runny. It was a translucent yellowish colour, and so diluted by the corn syrup that I had to put another half bag of chocolate in. Next time I'll leave out the corn syrup completely.

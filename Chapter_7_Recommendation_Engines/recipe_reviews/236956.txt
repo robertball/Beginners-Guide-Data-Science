@@ -1,0 +1,74 @@
+Recipe number:
+236956.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-09-20T09:41:11.693
+helpfulCount:
+4
+userID:
+2387019
+Display Name:
+Kathie Reynolds
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1462633.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i think the carrots and rasins come dried in a packet with the cake mix
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-17T15:00:04.433
+helpfulCount:
+1
+userID:
+9674992
+Display Name:
+Diane
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/947567.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Labor intensive, but SUPER delicious !!!
+Not enough cake mixture remained for last layer.
+Compensate for that.

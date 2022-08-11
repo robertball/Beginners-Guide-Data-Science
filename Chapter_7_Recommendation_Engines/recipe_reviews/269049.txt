@@ -1,0 +1,37 @@
+Recipe number:
+269049.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-06T23:48:03.463
+helpfulCount:
+0
+userID:
+24177636
+Display Name:
+Kelly
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was the first time I ever made tofu and I was really surprised at how good it tasted. I think next time I'm going to add onions and peppers to add a little bit more flavor that's more to my liking. But overall I'd make it again!

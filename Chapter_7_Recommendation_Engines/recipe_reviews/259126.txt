@@ -1,0 +1,37 @@
+Recipe number:
+259126.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-31T22:14:34.403
+helpfulCount:
+1
+userID:
+682911
+Display Name:
+Howard
+isPro:
+False
+followersCount:
+73
+followingCount:
+0
+madeRecipesCount:
+370
+favoritesCount:
+1316
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4259377.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had a box of Orecchiette pasta (little ears) and was looking for some ideas when I happily found this recipe!  I could not find Fava beans so I used Lima beans, the prep was easy and everything came together quickly.  The pasta salad is delicious and refreshing, each piece of pasta holds a delightful bite of the beans.  We will be serving grilled shrimp over it next time around.  Thanks for the terrific recipe Cathy!

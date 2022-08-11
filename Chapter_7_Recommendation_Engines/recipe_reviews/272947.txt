@@ -1,0 +1,37 @@
+Recipe number:
+272947.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-25T13:19:44.123
+helpfulCount:
+0
+userID:
+1375559
+Display Name:
+Nikki Boyce
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+42
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5800345.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum!

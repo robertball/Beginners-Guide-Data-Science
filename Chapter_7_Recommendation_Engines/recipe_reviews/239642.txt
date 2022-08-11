@@ -1,0 +1,72 @@
+Recipe number:
+239642.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-17T14:44:15.533
+helpfulCount:
+1
+userID:
+13299200
+Display Name:
+Chef Jake
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The best stuff ever
+Review:
+Rating:
+3
+dateLastModified:
+2014-10-28T03:44:47.03
+helpfulCount:
+0
+userID:
+4402500
+Display Name:
+Rock_lobster
+isPro:
+False
+followersCount:
+623
+followingCount:
+0
+madeRecipesCount:
+702
+favoritesCount:
+1191
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6081378.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Family-favorite Spaghetti Pie Haiku: "I am sorry Hunts, I do love your tomatoes, not this recipe." Yawn, this was really tame. The spaghetti "crust" was pretty tasty, especially up and around the edges of the pie pan where it got a little crispy, but the meat filling was just soooo boring, and I'd even added chopped orange bell pepper, garlic and onions to the meat as it browned b/c the only thing called for to mix w/ it was the can of tomato sauce. Sorry for the disappointing review, but this really could've benefited from some Italian seasoning and maybe a flavorful spaghetti sauce instead of regular tomato sauce. As we were finishing it up (and there are leftovers, but nobody's interested), we agreed that just eating a regular plate of spaghetti w/ meat sauce and parmesan would've been way easier and made our bellies content.

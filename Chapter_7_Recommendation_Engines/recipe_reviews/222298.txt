@@ -1,0 +1,72 @@
+Recipe number:
+222298.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-12-24T09:43:08.02
+helpfulCount:
+9
+userID:
+817098
+Display Name:
+Stacy Patterson
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+254
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3035335.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So easy and the office loved it. Everyone commented on the touch of almond flavoring, so be sure to include it. I will definitely make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2013-03-10T14:23:00.72
+helpfulCount:
+1
+userID:
+5537505
+Display Name:
+needlewings
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1555434.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Easiest fudge I ever made!  Set up so fast that I didn't have time to decide on adding anything to it, so guess I will go make another batch! I am thinking of adding some Craisins.

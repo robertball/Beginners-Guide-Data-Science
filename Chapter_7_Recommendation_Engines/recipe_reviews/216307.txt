@@ -1,0 +1,72 @@
+Recipe number:
+216307.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-01-11T06:45:41.89
+helpfulCount:
+5
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1661
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe I could run with and make into healthy breakfast/snack muffins my own way with healthier ingredients and on hand pantry items. Really easy!
+Review:
+Rating:
+5
+dateLastModified:
+2011-09-09T20:52:53.407
+helpfulCount:
+4
+userID:
+7648108
+Display Name:
+Sandra
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fabulous flavors all mixed up together.  I didn't like the "frosting" and it really doesn't need it.  Might toss some mini chocolate chips in next time.  Wonderful cake!

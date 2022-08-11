@@ -1,0 +1,72 @@
+Recipe number:
+255627.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-07T00:42:40.163
+helpfulCount:
+0
+userID:
+26402739
+Display Name:
+Janet B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+You can add more of some spices to get it just the way you like it.  Everyone likes this bread. You would not know it is vegan as just as good as any other breads.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-27T00:23:49.187
+helpfulCount:
+0
+userID:
+15604175
+Display Name:
+Jenny
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great recipe! It was very moist and no one would ever guess it was vegan. A change I made was to add a teaspoon of apple cider vinegar instead of the baking powder because of food sensitivities. Oh, and I used coconut oil instead of vegetable oil and coconut milk instead of almond milk. I also used regular flour. This is a new favorite!

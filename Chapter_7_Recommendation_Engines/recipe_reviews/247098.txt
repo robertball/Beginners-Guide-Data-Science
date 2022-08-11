@@ -1,0 +1,37 @@
+Recipe number:
+247098.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-01T21:29:17.723
+helpfulCount:
+1
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+397
+followingCount:
+0
+madeRecipesCount:
+1102
+favoritesCount:
+3200
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been making ceviche for many years and I have never heard of boiling the scallops. Ceviche is raw fish or shellfish  'cooked'  in lime juice. So I skipped that step and let the diced scallops marinate  in the lime mixture. This was tasty, but different,  with the addition of the chiles poblanos. I think I'll just stick to my regular ceviche recipe.

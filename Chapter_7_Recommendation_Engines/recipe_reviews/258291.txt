@@ -1,0 +1,37 @@
+Recipe number:
+258291.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-29T15:47:33.933
+helpfulCount:
+0
+userID:
+999638
+Display Name:
+Spicykat
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+1351
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The easiest & maybe the best pasta sauce I've ever made!  I did use a 6.25 oz jar of Mezzetta pesto & 1 1/2 cups cottage cheese, which we prefer to ricotta.  Served it over  angel hair pasta.  Thanks, Buckwheat Queen, for a scrumptious recipe.

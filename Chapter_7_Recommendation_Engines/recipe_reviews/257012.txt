@@ -1,0 +1,72 @@
+Recipe number:
+257012.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-04-23T14:58:22.077
+helpfulCount:
+0
+userID:
+15749600
+Display Name:
+Molly Woods-Jordan
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3462557.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+They are so-so pancakes. I used 1 cup of whole wheat flour and 1 cup of regular flour. I feel like they were missing something...banana, something. My kids ate them and were happy, but my taste buds weren't begging for more.
+Review:
+Rating:
+3
+dateLastModified:
+2017-02-17T21:27:34.23
+helpfulCount:
+0
+userID:
+4402500
+Display Name:
+Rock_lobster
+isPro:
+False
+followersCount:
+602
+followingCount:
+0
+madeRecipesCount:
+702
+favoritesCount:
+1191
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6081378.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oatmeal Cinnamon Pancakes Haiku: "Pretty good pancake. They were quite thick and poofy. I used quick cook oats." Other than swapping quick-cooking oats for old-fashioned, I was faithful to the recipe, and the pancakes turned out okay (very tall, puffy) , just not cinnamon-y enough for that to be a flavor name featured in the title. With butter and syrup, they were good, just not outrageously so.

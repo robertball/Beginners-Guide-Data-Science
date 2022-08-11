@@ -1,0 +1,116 @@
+Recipe number:
+237902.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-07-18T03:11:41.487
+helpfulCount:
+1
+userID:
+13915048
+Display Name:
+dux
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+104
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4442398.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love apricots and there aren't many recipes here to look at, so I made this one with few modifications: I used corn starch instead of flour, only 1/2 of lime ( less sour than lemon), 1 tbsp vanilla extract mixed with fruit. I also let the fruit stand once I added lime and sugar so that I can get a sense of how much liquid will precipitate. Once I saw that, it was easy to mix in the right amount of corn starch. I think 2 cups of sugar are too much and will use 1 cup white and 1/2cup brown next time.
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-13T22:29:48.917
+helpfulCount:
+0
+userID:
+25840617
+Display Name:
+ksuzz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Loved this!!!
+I used Betty Crocker pie crust recipe with lard.  
+On filling:
+ - I used all sugar suggested, but 
+- only two tsp of cinnamon (I can’t even imagine using two tablespoons of cinnamon in one pie).  Might even try just one teaspoon cinnamon next time. 
+- Added a teaspoon of vanilla. 
+
+This was probably the prettiest, and most beautiful pie I have ever made.  Definitely worth the little extra effort to do the egg wash and cinnamon sugar sprinkle on top!  Can’t wait to make it again for my dad who loves apricots!
+Review:
+Rating:
+3
+dateLastModified:
+2016-05-24T05:25:57.447
+helpfulCount:
+0
+userID:
+4216474
+Display Name:
+scuba2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+no changes
+it wasn't too sweet, the apricots were tart, I would use 1/2 lemon next time
+my husband liked it, he is a brown sugar fan

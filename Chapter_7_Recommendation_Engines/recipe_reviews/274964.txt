@@ -1,0 +1,107 @@
+Recipe number:
+274964.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-28T22:24:57.143
+helpfulCount:
+0
+userID:
+27052886
+Display Name:
+Rose4
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will most definitely make again !!!!
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-25T02:35:49.13
+helpfulCount:
+0
+userID:
+3766650
+Display Name:
+George. P. Cooper
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+46
+favoritesCount:
+266
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+we originally came up with this recipe as we had to provide dinner for 20 at our family reunion. We had a nice Mexican salad,mexican rice in a slow cooker and bbq'd the beef and chicken on the grill
+Review:
+Rating:
+5
+dateLastModified:
+2019-08-20T13:43:45.12
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+540
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used some salsa verde in place of the can diced green chile peppers. I did these on high for 2 hours and they were perfect! This does make a lot. Using for several recipes for my week.

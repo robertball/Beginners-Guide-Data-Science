@@ -1,0 +1,114 @@
+Recipe number:
+255697.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-05T20:53:21.477
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic! I did not use the optional raisins or tomatoes, but followed the recipe otherwise with wonderful results. Really great flavors and I likes the combo of the rice and quinoa...a definite keeper~YUM!!!! Thanks for sharing. :)
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-14T00:45:10.787
+helpfulCount:
+0
+userID:
+4452839
+Display Name:
+Carol
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+163
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I also used chicken broth, and added some chopped red peppers but the rest as published.  I will make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-01T18:44:23.25
+helpfulCount:
+0
+userID:
+23262740
+Display Name:
+Diane V. Schuyler
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5078139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a tasty and easy to make dish and accomodates many variations. I made it following the recipe with the following changes:
+— Didn’t have allspice so used Chinese Five Spice. 
+— Added one tablespoon of minced red onion. 
+— Added a splash of Red Boat Fish Sauce. 
+— Used homemade chicken broth for liquid
+— Added a handful of arugula because I had it on hand
+— Added about 1 tsp of crushed red pepper
+We had it for brunch and it was very satisfying. My husband suggested adding sliced sausage next time. I am going to use the remainder as a side dish for roasted duck breasts.

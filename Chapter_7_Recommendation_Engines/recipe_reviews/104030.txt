@@ -1,0 +1,37 @@
+Recipe number:
+104030.txt
+Review:
+Rating:
+4
+dateLastModified:
+2006-12-05T15:04:41.377
+helpfulCount:
+0
+userID:
+2165575
+Display Name:
+Elizabeth
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/161142.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty.  This is the first time meringue turned out well for me without using regular sugar.

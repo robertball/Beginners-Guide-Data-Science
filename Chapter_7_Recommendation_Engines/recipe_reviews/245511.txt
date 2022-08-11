@@ -1,0 +1,72 @@
+Recipe number:
+245511.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-09T17:20:56.203
+helpfulCount:
+0
+userID:
+4679057
+Display Name:
+Debbie Carlson
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/743241.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+First time making these chocolate mint cookies they are very good but I improvised on recipe a little the door was quite soft so I added more flour and I needed to bake the cookies longer than nine minutes I would say 12 minutes I would make them again.
+Review:
+Rating:
+4
+dateLastModified:
+2016-08-03T15:02:34.013
+helpfulCount:
+0
+userID:
+11621016
+Display Name:
+Catherine Gordeyev
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4600247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I brought these to a dessert potluck and everyone loved them. I added more peppermint extract for a bit of a kick, but I think even without that there's a definite peppermint aftertaste . I wish it were less of an aftertaste and more of an up-front taste, but I'm not sure how to correct for that.

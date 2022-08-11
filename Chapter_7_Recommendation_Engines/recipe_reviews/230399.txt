@@ -1,0 +1,37 @@
+Recipe number:
+230399.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-03-09T01:12:59.467
+helpfulCount:
+3
+userID:
+3632174
+Display Name:
+BigShotsMom
+isPro:
+False
+followersCount:
+186
+followingCount:
+0
+madeRecipesCount:
+637
+favoritesCount:
+1878
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/198108.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to completely revamp my review.  Immediately after making these brownies I really didn't care for them and said so.  However, 12 hours later the flavors have melded and the mint isn't so raw and they are actually quite good.  I still think there is too much sugar in the recipe along with the chocolate syrup and suggest only using half as much.  I am glad I went back for another taste.  Thank you, Madison, it's always fun to try a new recipe.

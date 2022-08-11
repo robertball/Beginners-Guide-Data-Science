@@ -1,0 +1,142 @@
+Recipe number:
+220727.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-14T01:20:58.897
+helpfulCount:
+4
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2811
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Five stars from a non cheese lover. I am not vegan, just not a big fan of cheese-especially cheddar. I do not like cheese on my veggies and if I can find a way to keep cheese out of my recipes, I will. Having said that, this recipe is really good. I added a bit more lemon than written and and added more turmeric. This went nicely with some chips. I also used it on a sandwich with toasted bread,  which proved messy but good. It goes very nicely with pickles, capers and pickled jalapeños. I am betting that this will make a wonderful jalapeño popper. I will report back. Thank you for the recipe. It is wonderful!
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-06T19:16:31.593
+helpfulCount:
+1
+userID:
+14528925
+Display Name:
+Martha Rogers
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+33
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1595408.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will make it again and use less water. The flavor is excellent but I wished I'd remember the cook's note about varying the amount of water before adding the water to the blender. Still, it's very good and I can imagine a 100 different ways to use this delicious dish!
+Review:
+Rating:
+2
+dateLastModified:
+2016-12-31T00:36:51.327
+helpfulCount:
+0
+userID:
+1885593
+Display Name:
+Ella Leeh
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+23
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1596495.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So so, ok but not as good as the reviews indicated.  I can say it was edible. But I would not make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-10T16:04:30.873
+helpfulCount:
+0
+userID:
+6998958
+Display Name:
+Cedar Canyon Ranch
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+273
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3479839.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good!

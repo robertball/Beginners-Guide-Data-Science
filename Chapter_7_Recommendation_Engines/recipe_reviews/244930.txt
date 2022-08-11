@@ -1,0 +1,73 @@
+Recipe number:
+244930.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-03-21T07:23:18.403
+helpfulCount:
+4
+userID:
+1289387
+Display Name:
+Melissa Shipman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3397178.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+With my first kiddo on the way, I was looking for some easy make-ahead meals to keep me eating healthy when I'm too tired to want to cook. These are a wonderful time-saver in the morning. I made them with regular eggs, diced ham, red peppers, habenero shredded cheese, and green onions.  In the time it takes to toast an English muffin, I've got a great breakfast!!! Love it! 
+I tried to make them in muffin liners for my first batch to save on clean-up time - don't!!! They are very difficult to peel out of the papers.
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-06T03:09:06.31
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very nice breakfast. The fact that this recipe doesn't call for sautéing the veggies first not only makes it healthier but it also saves time and dishwashing. It also gives the veggies a nice crunch. I used fresh spinach. I added some onion and a fresh hot pepper. Thank you for the recipe.

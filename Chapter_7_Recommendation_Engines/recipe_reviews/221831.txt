@@ -1,0 +1,37 @@
+Recipe number:
+221831.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-21T00:12:37.73
+helpfulCount:
+0
+userID:
+9353193
+Display Name:
+Wendy Lyons
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+259
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1209820.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall, this was good, but the spices were too subtle in my opinion. Next time, I'll double them and cook the chili peppers earlier instead of adding them at the end. I found it easier to dice the raw potatoes and then boil them for a shorter period of time, and I sliced the okra because the recipe didn't say what to do with it. I didn't use MSG. Update: I added vege broth to the leftovers, and it made a really good soup that enabled the brightness of the tamarind paste to shine. As soup, the amount of spice was just right.

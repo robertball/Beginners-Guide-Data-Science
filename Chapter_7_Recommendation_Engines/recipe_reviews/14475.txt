@@ -1,0 +1,147 @@
+Recipe number:
+14475.txt
+Review:
+Rating:
+5
+dateLastModified:
+2000-11-24T07:51:34.483
+helpfulCount:
+27
+userID:
+212676
+Display Name:
+AALAPATI
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We modified this a bit by adding dried cranberries and blueberries 
+to the other dried fruit while stewing.  Then we mixed the whole batch into 
+a regular fruit salad (canned chunky fruit in natural juices plus fresh apples, 
+oranges, & bananas).  It was easy, fabulous and delicious, and even the little 
+kids loved it; for the first time in 10 years people came back for seconds on the
+fruit salad at Thanksgiving!
+Review:
+Rating:
+4
+dateLastModified:
+2003-11-30T04:20:01.03
+helpfulCount:
+19
+userID:
+841423
+Display Name:
+TARAPORTEE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+30
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I asked my sister to fix this for our Thanksgiving dinner.  I enjoyed the mixture of the fresh and dry fruit.  It might be nice to add some dried cranberries for a little touch of tart.
+Review:
+Rating:
+2
+dateLastModified:
+2004-04-01T14:10:36.293
+helpfulCount:
+17
+userID:
+804007
+Display Name:
+VIVNIDHI
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1680
+favoritesCount:
+1524
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I took a lot of effort at doing exactly what the recipe said. The amount of liquid was too much. Can't say , the recipe tastes bad but it didn't turn out as expected.
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-09T05:45:52.33
+helpfulCount:
+0
+userID:
+9986587
+Display Name:
+gail giddings
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+3684
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1404412.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty! I used it as a side dish with a pork roast and it was wonderful. The only thing that I did differently was, I did add a few dried pears that I had left over from a Christmas Swiss  bread recipe, which complemented the rest of the fruit.  Will definitely make again.

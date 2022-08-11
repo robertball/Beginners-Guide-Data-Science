@@ -1,0 +1,37 @@
+Recipe number:
+13726.txt
+Review:
+Rating:
+5
+dateLastModified:
+2013-12-21T07:12:55.41
+helpfulCount:
+0
+userID:
+3982429
+Display Name:
+John Garland
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+26
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2000450.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fantastic holiday side dish!

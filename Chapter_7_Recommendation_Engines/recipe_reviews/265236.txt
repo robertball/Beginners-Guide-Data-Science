@@ -1,0 +1,37 @@
+Recipe number:
+265236.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-06-06T23:04:05.917
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wasn't sure about the BBQ sauce but it works. Be sure to use one you are familiar with and like though. The one thing I would change next time is the preparation of the avocado. They were hard to eat just sliced up and sliding off of the egg. Next time I'll mash them with some lemon juice and spread them on the bread first and then add the BBQ sauce on top of that.

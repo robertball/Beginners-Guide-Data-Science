@@ -1,0 +1,37 @@
+Recipe number:
+277517.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-04T02:26:32.3
+helpfulCount:
+0
+userID:
+26049040
+Display Name:
+Brettski
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it the other night. I was delish and perfect for my mood. Great dish thank you  !!

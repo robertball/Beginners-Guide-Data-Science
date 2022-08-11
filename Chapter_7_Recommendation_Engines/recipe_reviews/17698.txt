@@ -1,0 +1,73 @@
+Recipe number:
+17698.txt
+Review:
+Rating:
+4
+dateLastModified:
+2000-08-02T17:04:27.57
+helpfulCount:
+3
+userID:
+126013
+Display Name:
+ZELLAN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+72
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a very different type of dessert.  It was very good the way the chocolate and vanilla layers compliment each other.  The preparation is very simple.  This would be great to prepare quickly the night before you have guests.
+Review:
+Rating:
+5
+dateLastModified:
+2000-05-17T20:23:47.82
+helpfulCount:
+1
+userID:
+34845
+Display Name:
+Kathy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband, son and I really enjoyed this recipe.
+It was gone it two days, if it took that long.

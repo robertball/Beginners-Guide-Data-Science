@@ -1,0 +1,72 @@
+Recipe number:
+240712.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-15T02:03:24.8
+helpfulCount:
+1
+userID:
+23831563
+Display Name:
+The Astronomer’s Wife
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is excellent!!  I’ve made it several times.  There is a very similar recipe on the back of the No Yolks Asian noodles package, which I follow.  I do add some thinly sliced chicken or shelled deveined shrimp, which I sauté lightly and keep warm, as a first step, then add back to the skillet in step 3.  I’m not sure why they rinse the noodles in cool water, other than to stop the cooking, but that does take longer to warm everything.  If you time it right, you can do your stir frying of the chicken, and then the vegetables, while the noodles are cooking, then drain and add then right in.  I highly recommend this recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-01T23:43:31.607
+helpfulCount:
+0
+userID:
+6707526
+Display Name:
+Geula Ziva Rapp
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1150554.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I will definitely make it again!!

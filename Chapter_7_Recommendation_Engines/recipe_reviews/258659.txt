@@ -1,0 +1,37 @@
+Recipe number:
+258659.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-22T15:51:55.73
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2465
+favoritesCount:
+2275
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This turned out excellent! I used leg quarters to make it easy on myself. They did wonderful. Neither hubby or myself are big fans of rosemary but it works great in this recipe. It's not overbearing and it blends great with the smoked paprika. Great recipe and 5 stars all the way.

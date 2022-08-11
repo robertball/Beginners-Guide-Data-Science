@@ -1,0 +1,72 @@
+Recipe number:
+277528.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-28T10:35:08.663
+helpfulCount:
+0
+userID:
+26767254
+Display Name:
+Liz Reid
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7527112.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These tasted good. I would have liked the crushed candy cane to have not melted quite so much, leaving craters on the surface of many of the cookies. All in all, I would definitely give these a try again and see if I need to adjust either the time or temperature for baking.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-28T10:09:25.483
+helpfulCount:
+0
+userID:
+15666766
+Display Name:
+Brenda Steele Davis
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2229420.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These cookies are unique.  Loved the different combination of ingredients.

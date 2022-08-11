@@ -1,0 +1,72 @@
+Recipe number:
+246870.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-04-02T21:28:40.037
+helpfulCount:
+1
+userID:
+17349666
+Display Name:
+Nikki McMahoon
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3162167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I only gave this recipe 3 stars because although the food baked well and the consistency was great, the taste just wasnt there (for me). It was very bland despite me adding sweeter ingredients. the blueberries did help the flavor a little. I wouldn't recommend, but if I were to make it again, I'd add a ton more sugar/ sweetners. maybe brown sugar and more maple syrup. Baking it made my house smell wonderful though!
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-08T13:09:08.36
+helpfulCount:
+0
+userID:
+18115196
+Display Name:
+Laura
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+78
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Solid recipe! Definitely serve with warm milk as with all baked oatmeals. I used sweetened coconut flakes and the alternative suggestion of honey in place of syrup. Soaking the oats didn't leave any water to drain out in the morning  so it turned out to be a good moisture. There is no added sugar besides the syrup  so add more if you have a sweet tooth.

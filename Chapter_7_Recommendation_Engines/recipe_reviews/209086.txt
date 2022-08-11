@@ -1,0 +1,74 @@
+Recipe number:
+209086.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-06-19T10:10:02.053
+helpfulCount:
+4
+userID:
+4812650
+Display Name:
+KrisHuck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+166
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614249.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband absolutely loves this!  I use 2 cans of the big pillsbury cinnabon cinnamon rolls and 2 cans of apple pie filling.  Very yummy!
+Review:
+Rating:
+5
+dateLastModified:
+2012-05-07T15:12:33.013
+helpfulCount:
+1
+userID:
+6603772
+Display Name:
+jacobsdm
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for a small group of friends expecting to have some leftover.  The pan was empty in a matter of minutes!
+
+this was really easy to put together and it wasn't too sweet.  Will definately make this again.

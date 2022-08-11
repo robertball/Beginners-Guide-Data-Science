@@ -1,0 +1,37 @@
+Recipe number:
+246828.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-07-11T10:00:32.587
+helpfulCount:
+0
+userID:
+22161158
+Display Name:
+C.M.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Didn't work so well for me.    It was bland, (no salt?), didn't hold together and made far too large a quantity.  (I was suspicious of the ingredient amounts and cut everything down to 25% (except the pinch ingredients),  so I should have had 1 serving. ) It was probably 4 -5 servings.

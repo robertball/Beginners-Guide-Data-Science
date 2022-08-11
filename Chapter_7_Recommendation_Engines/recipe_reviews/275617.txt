@@ -1,0 +1,37 @@
+Recipe number:
+275617.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-24T00:24:35.29
+helpfulCount:
+0
+userID:
+1038552
+Display Name:
+Stephanie Tunney
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+28
+favoritesCount:
+243
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/450015.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty easy to make. But it would be easier to mix the cheeses, pesto and tomatoes together to fill breasts. I will do that next time. I made my pesto homemade, so it took a bit longer to prep than suggested.

@@ -1,0 +1,109 @@
+Recipe number:
+244485.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-27T21:39:06.213
+helpfulCount:
+0
+userID:
+9696324
+Display Name:
+Cwby2nz
+isPro:
+False
+followersCount:
+31
+followingCount:
+0
+madeRecipesCount:
+43
+favoritesCount:
+142
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/871689.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Such a good recipe!  I loved it!  I used a pressure cooker on the roast and it really cut my time down!  I used Hatch Green Chile because I'm from New Mexico and would never use anything else.  I used some italian bread crumbs instead of all of the bread to cut on carbs etc.  Because of that I had to cook it a little bit longer - maybe 15 minutes.  I added a little sour cream and avocado.  YUM!
+Review:
+Rating:
+2
+dateLastModified:
+2015-10-24T20:42:46.52
+helpfulCount:
+0
+userID:
+3481644
+Display Name:
+Candice
+isPro:
+False
+followersCount:
+273
+followingCount:
+0
+madeRecipesCount:
+121
+favoritesCount:
+1732
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4487421.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The cooked roast was delicious! And, I will buy this brand again. It was perfectly seasoned. The Strata on the other hand was nothing special. (I'm very happy the recipe only called for half the roast) It was bland and I felt like it needed something more like a Hollandaise Sauce or pork gravy from the roast to pour over it. It was lackluster. I won't make again.
+Review:
+Rating:
+2
+dateLastModified:
+2015-10-05T02:36:50.16
+helpfulCount:
+0
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This one sounded good on paper, but we were disappointed with the result. I followed as written, though used ground sage as we weren't able to find fresh.  
+I think the egg-milk portion was too much. It did not set up completely, leaving a mushy texture.
+I will say that the Smithfield rotisserie marinated pork loin was delicious!! Next time we'll enjoy it as is!!

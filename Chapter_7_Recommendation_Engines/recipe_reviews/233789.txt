@@ -1,0 +1,113 @@
+Recipe number:
+233789.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-07-13T13:59:51.147
+helpfulCount:
+4
+userID:
+11932152
+Display Name:
+Dimple
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am vegetarian so I substituted the fish with a mock spicy sausage- green onion for yellow onion- also had to sub the yellow and orange peppers for a green bell pepper!! Everything else was the same! Just used what I had at home!! Just the right amount of spice and sweetness!! Thank you for the recipe- my neighbor gave me a bag of fresnos and I had no idea what to do with them-- now I have a better understanding!:)
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-07T04:07:45.137
+helpfulCount:
+2
+userID:
+19975142
+Display Name:
+Maria Bianca Pupillo
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3727583.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I fell in love with this recipe. I've made it twice now, and plan on making it a third time tomorrow. Changes I've made are as follows:
+-after trying it the first time, I now leave out the anchovies. Just didn't like the fishy taste that is noticeable when scraping out the left over juices from the pan, lol.
+-I add in Italian sausage to balance out the meal (love my protein). To fit the circle theme, I boil them on their own first, cut them into circles, and throw em in to the sauce.
+-I couldn't find Fresno chile pepper, so I used a really hot jalapeño...next time using less because it was almost too hot to handle.
+-I just used tomatoes for the tomato component. Whatever I have on hand is what I use (fresh, diced canned, whole canned, or crushed canned) because I don't like pre made sauces.
+
+Five star recipe, people!!
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-10T04:52:59.58
+helpfulCount:
+2
+userID:
+9626188
+Display Name:
+Keeli
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+689
+favoritesCount:
+919
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We found this to be an enjoyable low calorie meal, but I thought the sweet and spicy flavors would be more bold.  Tasted most strongly of canned tomato sauce, but the zucchini, peppers, and pasta were a nice array of textures.  Not something I would make again without a lot of changes, but I really liked the concept.

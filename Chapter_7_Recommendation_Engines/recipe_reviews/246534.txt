@@ -1,0 +1,72 @@
+Recipe number:
+246534.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-19T17:02:30.74
+helpfulCount:
+0
+userID:
+23192455
+Display Name:
+Rodwell Smith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6611513.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It is time I must invest in a larger wok! This recipe is great. My sister's all ate and wanted more. I like spice so I added more red pepper flakes and marinated the shrimp iwith dry lemon- pepper rub while I  prep the vegetables. Very good 5 stars! Thank you.
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-28T18:57:26.187
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I used only orange and yellow bell due to what I had on hand and I chose to use ground pepper instead of the whole peppercorns because they are not pleasant to crunch down on in a dish. This was pretty good but a little heavy on the fish sauce. It screamed freshness and it is one I will make again.

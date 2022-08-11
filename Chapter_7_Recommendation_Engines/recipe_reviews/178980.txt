@@ -1,0 +1,62 @@
+Recipe number:
+178980.txt
+Review:
+Rating:
+4
+dateLastModified:
+12/21/2009
+helpfulCount:
+7
+userID:
+3813243
+Display Name:
+redpepperineverything
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe is okay.  It's fast, so that is nice, but the flavor isn't particularly strong.  If you are looking for a recipe that will cover the taste of the fish, this is probably not for you.    I broiled it instead of grilling it (10ish minutes in a hot oven, without flipping) and it worked fine.
+Review:
+Rating:
+2
+dateLastModified:
+05/20/2012
+helpfulCount:
+4
+userID:
+8217155
+Display Name:
+J
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Made this recipe as written.  I thought it was pretty bland.  Next time I will increase the amount of dijon mustard and perhaps add a drop or two of hot sauce.
+Review:
+Rating:
+4
+dateLastModified:
+02/03/2012
+helpfulCount:
+2
+userID:
+7617790
+Display Name:
+Paul
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is good, maybe next time we will try adding lemon pepper for more taste.  Quick and easy, excellent for a light and tasty meal.
+Review:
+Rating:
+4
+dateLastModified:
+06/11/2011
+helpfulCount:
+1
+userID:
+5991805
+Display Name:
+tc313
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5154844.jpg
+text:
+an excellent, easy to prep, tasty dish

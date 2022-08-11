@@ -1,0 +1,37 @@
+Recipe number:
+273117.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-09-25T19:09:51.9
+helpfulCount:
+1
+userID:
+3795092
+Display Name:
+virgi
+isPro:
+False
+followersCount:
+16
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked the buttery taste but somehow dislike the richness of it.  The quinoa was still a little crunchy, which I like. I will do it again but use a little less butter.

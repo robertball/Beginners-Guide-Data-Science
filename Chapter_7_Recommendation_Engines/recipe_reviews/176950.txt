@@ -1,0 +1,32 @@
+Recipe number:
+176950.txt
+Review:
+Rating:
+1
+dateLastModified:
+08/07/2011
+helpfulCount:
+0
+userID:
+3118095
+Display Name:
+KenaiBlue
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is not a good mix of flavors.  It can't decide whether its an appetizer or dessert!  I made these for a progressive dinner (as an appetizer) and nobody ate them!
+Review:
+Rating:
+4
+dateLastModified:
+09/23/2009
+helpfulCount:
+0
+userID:
+1382720
+Display Name:
+MARANDASTAR
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was a creative take on an empanada.  The banana flavor is very subtle - I added a hint of cayenne pepper for an added kick.  Served with jalapeno jelly.

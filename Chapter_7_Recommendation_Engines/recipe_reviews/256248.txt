@@ -1,0 +1,72 @@
+Recipe number:
+256248.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-25T02:54:48.44
+helpfulCount:
+0
+userID:
+23208466
+Display Name:
+Bob DeGeer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Doubled the recipe and served it with British custard. Excellent & easy!
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-13T01:18:27.25
+helpfulCount:
+0
+userID:
+22984634
+Display Name:
+Candis Adachi
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4776354.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didn't have whole wheat flour or wheat germ so I used regular flour and used wheat bran.  good stuff

@@ -1,0 +1,37 @@
+Recipe number:
+246813.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-09T01:02:06.96
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I couldn't wait to make this recipe when I saw it, so I had it for breakfast! Rosemary and lardo go so well together, and when you melt it on some hot, crusty bread then top it with seasoned tomatoes....mmmmmm......

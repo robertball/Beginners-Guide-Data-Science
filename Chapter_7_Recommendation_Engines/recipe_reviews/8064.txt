@@ -1,0 +1,37 @@
+Recipe number:
+8064.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-05-01T19:31:32.013
+helpfulCount:
+5
+userID:
+2383470
+Display Name:
+*robin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+214
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+sounds yummy.  what's the time and temp when you bake it?

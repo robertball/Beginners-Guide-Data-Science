@@ -1,0 +1,38 @@
+Recipe number:
+274072.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-06-12T01:36:12.65
+helpfulCount:
+1
+userID:
+788444
+Display Name:
+thedailygourmet
+isPro:
+False
+followersCount:
+9054
+followingCount:
+0
+madeRecipesCount:
+613
+favoritesCount:
+985
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7008432.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cooked this in my instant pot. I heated the oil, sautéed the meat, afterwards added the beef broth, and curry paste. I cooked it on high pressure for 10 minutes, did a quick release on the pressure. Then added the remaining ingredients. Cooked for an additional 5 minutes on high pressure. The cooking method was the only thing changed, which I don’t believe compromised the outcome. I was expecting this to be more flavorful, but was disappointed as it was lacking in flavor.
+I think it needs some garlic and some more pop of color.

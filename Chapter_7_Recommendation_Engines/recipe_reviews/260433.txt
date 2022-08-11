@@ -1,0 +1,37 @@
+Recipe number:
+260433.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-11T16:21:33.753
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were excellent! I made another kabob recipe along with this one last night and this one came out on top. Because I was making two different recipes and because there is only two of us, I halved the recipe. I don't know what half of 1/8 teaspoon pomegranate syrup would be but it couldn't be enough to make a difference in my opinion and I sure wasn't going to buy it for that. All of the flavors came together perfectly in this. I'm typically not a fan of allspice but it totally works in this one. This one is a keeper and 5 stars all the way!

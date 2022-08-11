@@ -1,0 +1,107 @@
+Recipe number:
+234118.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-29T21:49:34.11
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+477
+followingCount:
+0
+madeRecipesCount:
+1542
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a very nice soup. Didn't have access to the fresh herbs so I used dried.. still very good. I also pureed this and tried it cold.. tasty that way too
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-12T05:55:35.95
+helpfulCount:
+0
+userID:
+15022203
+Display Name:
+Daniel Russell
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1879819.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+added left over broccoli
+Review:
+Rating:
+5
+dateLastModified:
+2014-09-29T14:49:04.047
+helpfulCount:
+0
+userID:
+12881491
+Display Name:
+Susan Miller
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I LOVE THIS RECIPE IT TASTES SO GOOD BECAUSE AFTER I ADDED THE BROTH I WAITED 5  MINUTES AND ADDED A PINT OF HEAVY WHIPPING CREAM.I PLANNED TO MAKE ANOTHER RECIPE FOR ZUCCHINI SOUP THAT HAD HEAVY WHIPPING CREAM BUT COULDN'T FIND IT ON MY COMPUTER SO I COMBINED THE 2  RECIPES.

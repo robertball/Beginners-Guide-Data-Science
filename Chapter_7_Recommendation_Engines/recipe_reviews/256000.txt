@@ -1,0 +1,72 @@
+Recipe number:
+256000.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-07-19T23:54:50.6
+helpfulCount:
+1
+userID:
+22168077
+Display Name:
+Kate Kwiatkowski
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+57
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So, so yummy!!! I added a dollop of whipped cream and it was perfection. I never thought about putting cinnamon in my milkshake, now I see what I've been missing!
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-10T01:36:17.843
+helpfulCount:
+1
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe has a fall twist on a classic! It's even kid approved because my picky daughter likes it!

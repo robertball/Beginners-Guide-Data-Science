@@ -1,0 +1,72 @@
+Recipe number:
+265790.txt
+Review:
+Rating:
+2
+dateLastModified:
+2018-08-06T23:17:26.623
+helpfulCount:
+0
+userID:
+4141435
+Display Name:
+Kathy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+263
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I just did not like the texture of these cookies. They had a good flavor but the texture was too grainy.
+Review:
+Rating:
+4
+dateLastModified:
+2018-08-02T01:50:08.943
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out good! I wasn't too sure what size to form the log, so I ended up rolling it to about 14" long and I found the cookies were a little thick - next time I'll roll it to approximately 12".  Or another option is to just flatten them a bit when you put them on the baking sheet. The flavor is good, but I might cut back on the salt, or use unsalted butter. Lots of options for swapping out flavors by using different spices and extracts. These aren't very sweet, but I like them that way. I baked these for 12 minutes and they were perfect. I put the extras in the freezer and they are SO good right out of the freezer!

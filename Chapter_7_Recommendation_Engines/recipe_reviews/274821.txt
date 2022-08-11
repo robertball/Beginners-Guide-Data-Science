@@ -1,0 +1,75 @@
+Recipe number:
+274821.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-11T21:51:40.637
+helpfulCount:
+3
+userID:
+26118750
+Display Name:
+Sam Johnson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7029944.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So so easy! The hardest part was waiting for it to cool in the fridge. I separated a small part of the peaches & cream into a ramekin and put it into the fridge so I could test it early. I left the rest to chill overnight. :)
+
+
+I also discovered that a little bit of cinnamon adds so much to the flavor. I agree with Chef John that this dish doesn’t want for sweetness, but go ahead and sprinkle some cinnamon on top! I think any more sugar or vanilla flavoring would be too much. This dish is heavenly as it is.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-07T04:02:34.88
+helpfulCount:
+0
+userID:
+25018215
+Display Name:
+Kandis Wiles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+142
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6312686.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+delicious & easy

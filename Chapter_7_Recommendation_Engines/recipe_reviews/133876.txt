@@ -1,0 +1,107 @@
+Recipe number:
+133876.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-11-26T15:41:32.777
+helpfulCount:
+10
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used 3 bouillon cubes instead of the powder and a little extra cumin and this was a very nice change from rice. Thanks!
+Review:
+Rating:
+4
+dateLastModified:
+2008-09-03T10:29:17.4
+helpfulCount:
+3
+userID:
+1073910
+Display Name:
+Shelly Van Kirk Moran
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+83
+favoritesCount:
+451
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1232065.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good starter recipe. Needs a little more flavor. A little adobo powder would be a great addition.
+Review:
+Rating:
+3
+dateLastModified:
+2011-01-31T06:21:34.897
+helpfulCount:
+1
+userID:
+2765483
+Display Name:
+Carol
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+537
+favoritesCount:
+1765
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/650140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a good change of pace for side dish on Mexican night; however, I agree with the reviewers who say it needs more spice.  I forgot to add some adobe powder as suggested and will give that a try.

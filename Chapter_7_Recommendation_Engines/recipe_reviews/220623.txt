@@ -1,0 +1,72 @@
+Recipe number:
+220623.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-27T23:35:33.56
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+766
+followingCount:
+0
+madeRecipesCount:
+519
+favoritesCount:
+2121
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+5 stars for both flavor and simplicity! I was a little skeptical because of the few seasonings, but this is perfect!  I didn't have time to marinate for 8 hours (poor planning on my part), but even with only 30 mins, this was bursting with flavor! Aside from marinating time, I made this exactly as written.  This didn't make very much marinade - there was no extra for me to drain from the meat before cooking, which was fine.  A nice touch with the added basil!  I added a sprinkle of crushed red pepper at the end for a bit of color.
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-05T23:52:38.84
+helpfulCount:
+0
+userID:
+16050654
+Display Name:
+Catelyn Damon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The flavor was well balanced and over all it was super easy to make. I wouldn't say it was my favorite meal ever, but I would definitely make it again.

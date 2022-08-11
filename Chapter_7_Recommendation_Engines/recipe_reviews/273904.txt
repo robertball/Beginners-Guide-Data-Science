@@ -1,0 +1,47 @@
+Recipe number:
+273904.txt
+Review:
+Rating:
+5
+dateLastModified:
+06/05/2019
+helpfulCount:
+0
+userID:
+kimscookingnow
+Display Name:
+Kim's Cooking Now
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7271788.jpg
+text:
+If you love raspberries you are going to love this! I scaled this down to 4 servings and baked it in a 13" x 4" tart pan for 25 minutes. It's sweet and tart and bursting with raspberry flavor. Loved it!.
+Review:
+Rating:
+5
+dateLastModified:
+07/16/2020
+helpfulCount:
+0
+userID:
+20330996
+Display Name:
+Donna Schienke
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5438179.jpg
+text:
+Wonderful!  Made with raspberries from my garden!
+Review:
+Rating:
+5
+dateLastModified:
+06/06/2020
+helpfulCount:
+0
+userID:
+4971746
+Display Name:
+Renee Birk Gottlieb
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/2496797.jpg
+text:
+Loved it. Divided the ingredients in half. It’s a keeper. Thanks for the recipe!

@@ -1,0 +1,143 @@
+Recipe number:
+276216.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-21T01:52:02.897
+helpfulCount:
+0
+userID:
+8681198
+Display Name:
+Casey Hardin King
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+136
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1456088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really good and simple
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-17T18:05:22.42
+helpfulCount:
+0
+userID:
+18154057
+Display Name:
+Apctaz Smith
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+370
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3648268.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We loved this recipe and I really don't care for cauliflower.  The only change I would make is double the seasoning.
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-15T01:33:37.813
+helpfulCount:
+0
+userID:
+25666287
+Display Name:
+Chris Feldhaus
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+62
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really good and I am not a fan of riced cauliflower. Only recommendation i would suggest is a smaller pan size. Spread this thin it can get a bit hard. I only naked mine 18 minutes so that wouldn't happen.
+Glad I have it a try.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-05T03:21:13.547
+helpfulCount:
+0
+userID:
+10207927
+Display Name:
+bb
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+455
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Everyone loved this recipe. I did the steps a little different with the meat and onions together. I also used a head of cauliflower chopped up small- same taste. Used taco seasoning- it was filling and yummy! :) Will make it again.

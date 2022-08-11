@@ -1,0 +1,73 @@
+Recipe number:
+254341.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-08-19T15:03:02.453
+helpfulCount:
+1
+userID:
+17771694
+Display Name:
+Krissy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The best Chicken Marsala yet!! The prosciutto adds so much velvety flavor. Ive made it according to the recipe numerous times and it turned out perfect.
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-24T23:58:37.737
+helpfulCount:
+0
+userID:
+12391537
+Display Name:
+Susan Bunny Bianchi
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+16
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3354712.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! I followed recipe exactly but added 2 cloves of fresh minced garlic! My family devoured it!
+I served it over fettuccine mixed with pesto (not sure if that is paleo) but it was a hit! Will definetely make this again!

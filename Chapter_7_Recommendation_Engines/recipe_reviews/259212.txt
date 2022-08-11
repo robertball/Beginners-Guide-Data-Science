@@ -1,0 +1,37 @@
+Recipe number:
+259212.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-25T20:22:45.177
+helpfulCount:
+0
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a cute idea and it tastes good too! My daughter loves the Japanese culture and I even had to take her to the Japanese market in our area to get an authentic bento box. This was quick and easy to make!

@@ -1,0 +1,146 @@
+Recipe number:
+78028.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-04-03T21:19:37.157
+helpfulCount:
+15
+userID:
+827351
+Display Name:
+Caroline C
+isPro:
+False
+followersCount:
+243
+followingCount:
+0
+madeRecipesCount:
+2091
+favoritesCount:
+1061
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1944060.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I only made the salad and dressing. I've never been a fan of fruit in salad, and this didn't change my mind - I ended up picking the pears out, and eating them separately. The dressing was pretty good but I didn't care for the oj with the blue cheese. If I were to make it again, I may add a little lemon juice. I would also recommend using white balsamic vinegar as it has a much more mellow flavor. Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2008-09-11T10:55:31.84
+helpfulCount:
+11
+userID:
+160274
+Display Name:
+Kristine Beeson
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+167
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1309474.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a super idea!  It really made a "salad night" into something fun instead of blah.  I added finely sliced red peppers and almonds instead of walnuts.  A handful of craisins made for another fruity touch.
+
+When it came to the dressing, I didn't have orange juice, so I used a tablespoon of lemon juice and about a tablespoon of sugar to make it not so sour.  I also roasted a whole head of garlic and put the cloves in with the dressing at the end and poured the whole mixture over the salad.  
+
+I appreciated that this made a small amount of dressing, so I didn't feel bad tossing it with the salad instead of keeping it on the side as I normally would do.  We'll definitely do this again, thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2013-05-08T17:44:47.283
+helpfulCount:
+8
+userID:
+7853359
+Display Name:
+Joey Joan
+isPro:
+False
+followersCount:
+131
+followingCount:
+0
+madeRecipesCount:
+307
+favoritesCount:
+561
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7645128.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+All around good. I had pineapple yogurt and it was so good. I followed the recipe as written except the yogurt flavor I will make this again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-02T17:46:13.157
+helpfulCount:
+0
+userID:
+15165113
+Display Name:
+Mrs. Z
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+422
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3648405.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a really good salad that can be revised to add or replace ingredients you may not have on hand.  For instance, I didn't have walnuts, so I substituted sunflower seeds.  You could also add chicken or salmon.   The fruits in this salad were a nice touch!

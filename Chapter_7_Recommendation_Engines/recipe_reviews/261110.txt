@@ -1,0 +1,32 @@
+Recipe number:
+261110.txt
+Review:
+Rating:
+3
+dateLastModified:
+11/13/2017
+helpfulCount:
+0
+userID:
+thedailygourmet
+Display Name:
+thedailygourmet
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/7008432.jpg
+text:
+No changes and it s a simple beef stew but lacks flavor. Salt and pepper are staples and herbs should be considered.
+Review:
+Rating:
+5
+dateLastModified:
+05/05/2019
+helpfulCount:
+0
+userID:
+25530820
+Display Name:
+Lora Johnson
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/6612331.jpg
+text:
+I made it. It turned out great

@@ -1,0 +1,112 @@
+Recipe number:
+261379.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-16T00:21:57.64
+helpfulCount:
+10
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made two different spanish rice recipes on the same day and this one had the better flavor hands down. It doesn't turn out very pretty  but it has good flavor. The one thing I will say is that 1 onion and 1 bell pepper is more than plenty. That is what I did and they both still took over the rice. On that note I will double the rice next time and just add more liquid if needed.
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-18T16:44:40.613
+helpfulCount:
+3
+userID:
+23187051
+Display Name:
+Keith
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674167.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent. Everyone loved it.
+Doubled the Rice
+Doubled the Tomato Sauce
+1 1/2 cups water
+3 teaspoons Chilli Powder and Salt
+Definitely add 2 teaspoons Cayenne Pepper
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-26T00:17:01.66
+helpfulCount:
+0
+userID:
+4020090
+Display Name:
+Erin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made a double batch for a pot luck and it was a hit! I brought home less than a serving for leftovers. This recipe is a keeper!

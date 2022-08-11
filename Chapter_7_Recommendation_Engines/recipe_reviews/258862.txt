@@ -1,0 +1,37 @@
+Recipe number:
+258862.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-06-12T13:18:48.587
+helpfulCount:
+0
+userID:
+10252433
+Display Name:
+Joanne Burke
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+20
+favoritesCount:
+1026
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2394013.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fontina and Lobster a perfect match! I  didn't have heavy cream so I used light cream and a roux. Delicious!!

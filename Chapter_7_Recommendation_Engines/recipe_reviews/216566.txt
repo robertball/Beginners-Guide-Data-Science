@@ -1,0 +1,72 @@
+Recipe number:
+216566.txt
+Review:
+Rating:
+1
+dateLastModified:
+2011-12-19T15:50:48.14
+helpfulCount:
+3
+userID:
+6098583
+Display Name:
+Midge
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+305
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Maybe memories of growing up with these cookies added to the appreciation of them. Coming to them fresh, they were expensive, a lot of work, and nothing spectacular. The thick batter was more like thin dough and trying to dip the dates didn't get them coated. If I put more batter on them, it just slid off in the oven. These were just not worth the money and time. I'd rather stuff the dates with walnut halves and roll them in sugar. Sorry.
+Review:
+Rating:
+5
+dateLastModified:
+2012-07-14T11:44:59.25
+helpfulCount:
+0
+userID:
+216714
+Display Name:
+PJ's kitchen
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+357
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674138.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Try adding more heavy cream to make a  pancake like batter.

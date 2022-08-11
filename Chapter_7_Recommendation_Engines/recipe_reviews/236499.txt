@@ -1,0 +1,107 @@
+Recipe number:
+236499.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-05-03T06:49:02.097
+helpfulCount:
+9
+userID:
+3978595
+Display Name:
+Nancy Folck
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+238
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/169.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This was my first time at homemade sauerkraut, and loved how it turned out. I followed the recipe pretty much as written except did not have a carrot. Also, I used my food processor to do a rough chop on the cabbage. I bought a 2 gal crock for it which worked well for one head of cabbage, a one gal. would probably work. Quick, easy, and healthy, it stayed nicely in the fridge in a large lock and lock container. I am making another batch today. Loved it.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-22T03:00:09.27
+helpfulCount:
+1
+userID:
+4185253
+Display Name:
+Lenka McDonald
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Yes, this is how it's made!
+Review:
+Rating:
+4
+dateLastModified:
+2019-10-29T01:07:07.963
+helpfulCount:
+0
+userID:
+5481896
+Display Name:
+Amy Nicholson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome it was great!  I kind of left it a little bigger than thin slices. I like how crunchy it came out!. And it was easy. Love sauerkraut.

@@ -1,0 +1,72 @@
+Recipe number:
+265779.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-17T21:02:33.033
+helpfulCount:
+0
+userID:
+9440748
+Display Name:
+Shelly McEachrin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+174
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5534911.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very easy to make and quite refreshing. I followed the advice of a previous reviewer and only used about 2 tbsp of honey. All in all quite delicious. Especially since I don't have an ice cream maker
+Review:
+Rating:
+3
+dateLastModified:
+2018-07-19T18:27:54.1
+helpfulCount:
+0
+userID:
+3217403
+Display Name:
+Kim
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+101
+favoritesCount:
+1987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/127985.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is pretty good for a quick sorbet. I would definitely only add in the honey 1 tbsp at a time; because if your mangoes were really ripe when frozen, you may not need the full 1/4 cup. I also feel that this could use a little "zing" of some kind. Maybe a little lemon, lime, or pineapple juice would bring out the mango flavor a little more. Overall, not bad, and super quick to throw together. Thank you for the recipe!

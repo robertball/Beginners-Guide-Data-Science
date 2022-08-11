@@ -1,0 +1,72 @@
+Recipe number:
+168097.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-08-02T19:36:51.353
+helpfulCount:
+4
+userID:
+1493085
+Display Name:
+Jessica Paige
+isPro:
+False
+followersCount:
+23
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+319
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/455816.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have been holding onto this recipe for a while and it was definitely worth the wait, wonderful comfort food. I did include the corn for added crunch, sweetness and texture...it complimented the sweetness of the carrot nicely. I did use roasted chicken as opposed to popcorn chicken, as I felt it was a healthier option...though the fried bits would have made it incredible. Thank you ally-gator for sharing. Next time, I might just sprinkle the cheese on top of each portion as I did with the corn.
+Review:
+Rating:
+5
+dateLastModified:
+2009-11-25T19:03:38.813
+helpfulCount:
+4
+userID:
+3933838
+Display Name:
+kathy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Oh, so good! A nice change. Thanks for the great recipe.  Everyone loved it .

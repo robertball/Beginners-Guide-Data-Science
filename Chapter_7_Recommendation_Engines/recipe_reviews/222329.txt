@@ -1,0 +1,37 @@
+Recipe number:
+222329.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-27T17:36:34.783
+helpfulCount:
+1
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5752
+followingCount:
+0
+madeRecipesCount:
+2803
+favoritesCount:
+6001
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+4.27.17  Nothing not to like here, just simple fresh ingredients.  This is a multi-purpose chutney/salsa, and I used it as a topper for some grilled fish.  Very nice.

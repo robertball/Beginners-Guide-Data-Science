@@ -1,0 +1,72 @@
+Recipe number:
+222143.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-08-29T10:23:54.643
+helpfulCount:
+9
+userID:
+6476442
+Display Name:
+Tracey Ferrari Posner
+isPro:
+False
+followersCount:
+152
+followingCount:
+0
+madeRecipesCount:
+288
+favoritesCount:
+1824
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2410134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So good and yet so easy!  Left out the carrots because I didn't have any in the house. Makes  great sandwiches.  You could also use beef for this and it would be delicious!
+Review:
+Rating:
+3
+dateLastModified:
+2015-07-10T19:33:05.88
+helpfulCount:
+0
+userID:
+1324215
+Display Name:
+GRINGORN
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+583
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674168.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed this recipe exactly.  It was very dry.  There may be too much beef broth in this recipe as it almost looked like a soup when done.  I won't be making this again.

@@ -1,0 +1,182 @@
+Recipe number:
+228278.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-08-16T18:44:06.403
+helpfulCount:
+11
+userID:
+26985
+Display Name:
+Denise Kasz Willmarth
+isPro:
+False
+followersCount:
+13
+followingCount:
+0
+madeRecipesCount:
+141
+favoritesCount:
+2156
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5653027.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this using a lot less water, only 2 cups and didn't add ice, just refrigerated after making it. This filled up a blender. Start with 2-3 cups of water then add to taste. Very refreshing!
+Review:
+Rating:
+3
+dateLastModified:
+2014-04-01T14:15:55.46
+helpfulCount:
+1
+userID:
+11486531
+Display Name:
+Zachary Ryan Smith
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2513628.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My take:
+ice
+1c milk
+1slice cantaloupe
+1/2t cinnamon
+drops of vanilla
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-15T16:35:30.973
+helpfulCount:
+0
+userID:
+15429722
+Display Name:
+Roseanne
+isPro:
+False
+followersCount:
+41
+followingCount:
+0
+madeRecipesCount:
+290
+favoritesCount:
+284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2199831.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Had some very ripe cantaloupe and thought I would try this drink.  Very refreshing.  Will definitely be sipping on this in the warm weather.
+Review:
+Rating:
+4
+dateLastModified:
+2015-04-07T17:33:30.193
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8909
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2283
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I found this very refreshing! I did use about 4-5 cups of water, and that was plenty. Hubs added some liquor to his, and he enjoyed it that way as well!
+Review:
+Rating:
+4
+dateLastModified:
+2014-03-15T10:26:46.153
+helpfulCount:
+0
+userID:
+12490821
+Display Name:
+aurora0982
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I also used a lot less water, only two cups. I also used about half the can of milk. It was too sweet and took away from the  cantelope taste. I made into two batches.

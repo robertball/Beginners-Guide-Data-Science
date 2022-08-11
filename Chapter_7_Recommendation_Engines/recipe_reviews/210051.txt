@@ -1,0 +1,145 @@
+Recipe number:
+210051.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-07-25T13:03:32.98
+helpfulCount:
+11
+userID:
+5099252
+Display Name:
+only1rubyeskimo
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am proud to see this recipe from my heritage, my mom was born in Noorvik, Alaska.
+Review:
+Rating:
+4
+dateLastModified:
+2011-01-01T11:30:04.803
+helpfulCount:
+10
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+873
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious soup, but I did have to make some modifications. The recipe, as written, really doesn't call for enough liquid to cook the rice.  I both added liquid AND decreased the rice to one cup. I still needed to add more water before serving as it was no longer really soup. I also added several beef boullion cubes for more depth of flavor.  My stewed tomatoes were very large chunks, so I chopped them into small pieces. I was fresh out of caribou, so I used white-tailed deer venison (plentiful in my area). Thanks for a tasty recipe.
+Review:
+Rating:
+2
+dateLastModified:
+2017-01-20T04:36:14.703
+helpfulCount:
+0
+userID:
+11156302
+Display Name:
+FrThomas Andrew
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6421464.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wish I can give it two ratings, one for directions and the other for taste.
+The directions are VERY POORLY written, I followed it to the "t" and ended up with a rice "glop."  And way too much rice.
+The taste of the "glop" that supposed to be a soup was good.  Kind of remind me of what I had at home in the past.
+I DIDN'T LIKE THE DIRECTIONS!!!
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-19T00:58:26.217
+helpfulCount:
+0
+userID:
+12649513
+Display Name:
+Zduke3
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+337
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very good. I used caribou and bear. Used 1/2 naturally cultivated wild rice and 1/2 brown rice. Loved the earthy flavors with the wild game.

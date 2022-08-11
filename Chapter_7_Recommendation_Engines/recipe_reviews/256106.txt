@@ -1,0 +1,72 @@
+Recipe number:
+256106.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-02-19T19:24:50.297
+helpfulCount:
+4
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made as written except that I chose to grill my steak outdoors. We just like our steak better that way. I read this recipe several times and each time it sounded more odd than the time before. I mean feta and parsley on fajitas? Why not cotija and cilantro? Roasted cucumbers? I kept searching for something else for dinner but kept coming back to this recipe. Why not? These were definitely different but excellent too! I let my steak marinate overnight and it was super tender. The cucumber roasted just fine and the chickpeas had a nice crunch to them which added a nice texture. My husband and I both agree that this one is a keeper!
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-26T16:38:45.253
+helpfulCount:
+0
+userID:
+21639832
+Display Name:
+Christina D
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+22
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved these Mediterranean-inspired tacos! The marinade was straightforward and very tasty. Thanks for the clear directions to cook the flank steak! I didn't have an instant-read thermometer, so I let each side broil for 3.5 minutes on each side for medium-rare. Loved the veggies! Only tweak would be to hold back on some of the oil, my vegies came out a touch greasy. Make this for dinner!

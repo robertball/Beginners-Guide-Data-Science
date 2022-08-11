@@ -1,0 +1,37 @@
+Recipe number:
+246642.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-31T07:08:24.13
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+974
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite delicious. I used fresh soybeans, so  I was able to skip the soaking part. I used gluten free rice noodles. Thank you for the recipe.

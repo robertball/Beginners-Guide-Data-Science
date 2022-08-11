@@ -1,0 +1,72 @@
+Recipe number:
+207299.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-04-14T15:12:27.113
+helpfulCount:
+2
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1663
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wicked. This could become troublesome.
+Review:
+Rating:
+4
+dateLastModified:
+2010-09-06T12:10:25.73
+helpfulCount:
+1
+userID:
+1532140
+Display Name:
+pomplemousse
+isPro:
+False
+followersCount:
+382
+followingCount:
+0
+madeRecipesCount:
+2015
+favoritesCount:
+2753
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/58080.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good.  Bf wasn't impressed with the ice cream I used (which wasn't ice cream at all--it was frozen yogurt) but otherwise he seemed to like it.  I didn't think it had enough ice cream, so I added a couple more scoops (and probably 8,000 more calories!) to bring it closer to the root beer floats I remember as a kid.  Obviously, this is a bit more of an adult version.  thanks for the recipe!

@@ -1,0 +1,37 @@
+Recipe number:
+37855.txt
+Review:
+Rating:
+2
+dateLastModified:
+2004-05-18T18:18:39.763
+helpfulCount:
+2
+userID:
+1082829
+Display Name:
+Candice
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+132
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for a bridal shower, and even through people said they liked it, their was plenty left over. I thought it tasted good, but was too thick.

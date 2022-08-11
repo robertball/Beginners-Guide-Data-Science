@@ -1,0 +1,72 @@
+Recipe number:
+255724.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-08T23:33:14.59
+helpfulCount:
+1
+userID:
+15144931
+Display Name:
+amoli
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+236
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I altered the ingredients to make this a vegan meal but stuck to basic idea. I used vegan mozzarella cheese in place of ricotta and used about 1 cup. I used quinoa in place of rice because it has more moisture. I omitted half and half. it came out great and is very flavorful. It  also presents nice and impresses company.
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-08T01:23:44.21
+helpfulCount:
+0
+userID:
+15187183
+Display Name:
+Renee Arevalos
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1964204.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delicious! I make it all the time now but don't bother to restuff the shells just put it in a bowl!

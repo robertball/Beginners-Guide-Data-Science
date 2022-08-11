@@ -1,0 +1,37 @@
+Recipe number:
+242242.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-06T07:13:55.093
+helpfulCount:
+0
+userID:
+1925566
+Display Name:
+Irish Pixie
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/65027.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These turned out well, and tasty. Sweeter than I would have thought, and less dense. My husband and I really enjoyed them.

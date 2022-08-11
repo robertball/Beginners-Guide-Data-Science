@@ -1,0 +1,37 @@
+Recipe number:
+245078.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-24T21:29:08.377
+helpfulCount:
+0
+userID:
+15242338
+Display Name:
+Shawn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+81
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5885198.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a wonderful switch to traditional pot pie. Comfort food at its best! Instead of kale, I used fresh spinach, and I didn’t have Roma tomatoes on hand so I used a can of Italian diced tomatoes. Very flavorful and filling! My husband loved it, perfect for a chilly afternoon!

@@ -1,0 +1,37 @@
+Recipe number:
+274379.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-20T21:51:51.423
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent and turned out perfectly! I had to make one small change. I could not find mango-peach salsa. I found peach salsa and mango-pineapple though so I bought a jar of each one of them and used those so obviously omitted the can of pineapple. I expected this to be way too sweet (might have been if using straight pineapple) but the cayenne gave it such a kick that the faint sweetness was welcome. The chicken was great in tacos but would be great on a salad too. Definitely a keeper!

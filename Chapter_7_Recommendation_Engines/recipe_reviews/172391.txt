@@ -1,0 +1,72 @@
+Recipe number:
+172391.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-06-26T18:23:34.957
+helpfulCount:
+6
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick way to prepare zucchini. I was unable to find Thai chilis so I used jalapenos and soem red pepper flakes. The black bean sauce was really good in this, but the extra water was a bit much. The zucchini sheds it's own water when cooking so I don't think this much water, if any at all is needed.. It diluted the yummy black bean taste, so I added a bit more at the end. I topped with a few sesame seeds for some exgtra sesame taste and texture
+Review:
+Rating:
+4
+dateLastModified:
+2015-09-13T17:23:40.84
+helpfulCount:
+0
+userID:
+9213312
+Display Name:
+Nicole Tedesco
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+308
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677173.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I over-cooked a zucchini a tad, but still good!  I added a little sesame chicken and it was great!

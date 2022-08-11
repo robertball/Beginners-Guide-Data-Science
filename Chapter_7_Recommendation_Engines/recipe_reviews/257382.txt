@@ -1,0 +1,72 @@
+Recipe number:
+257382.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-01-22T00:19:40.273
+helpfulCount:
+1
+userID:
+23178168
+Display Name:
+Rrrdiderrr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+28
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was definitely a bit more spicy than anticipated even after reviewing the ingredients but it was delectable! Highly recommend if you're looking for an at home Spicy Pork Bulgogi!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-19T00:50:20.06
+helpfulCount:
+0
+userID:
+11705213
+Display Name:
+Sharon Hoffman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+97
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1604857.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so great!  I used thinly sliced pork tenderloin and just regular bbq sauce.  We  had company and everyone  grilled  their own slices at the table on a hot rock that is made for Korean BBQ.  It was delicious.

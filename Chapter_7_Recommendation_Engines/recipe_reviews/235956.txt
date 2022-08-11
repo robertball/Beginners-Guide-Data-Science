@@ -1,0 +1,37 @@
+Recipe number:
+235956.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-07T11:53:55.23
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+522
+favoritesCount:
+2137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Who knew making mustard was so easy!?!? This mustard definitely has some ZING to it, which I loved...almost a horseradish hint to it. I scaled the recipe down to make 8 servings. I let the mixture rest for 4 hours and everything turned out great.  I served this with smoked sausages. It definitely pairs well with meats that have stronger flavors. No need to ever buy fancy mustard again! I will definitely be playing around with this recipe to add different flavors to it.

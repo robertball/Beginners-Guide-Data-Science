@@ -1,0 +1,37 @@
+Recipe number:
+272902.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-18T19:12:45.16
+helpfulCount:
+0
+userID:
+3031597
+Display Name:
+barbara
+isPro:
+False
+followersCount:
+130
+followingCount:
+0
+madeRecipesCount:
+599
+favoritesCount:
+259
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/254187.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used beet greens and collard greens. Came out really well. I sautéed the beat greens first with the garlic, and then put in all the greens. Great recipe to use up all sorts of greens.

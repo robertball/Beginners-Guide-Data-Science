@@ -1,0 +1,37 @@
+Recipe number:
+247448.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-19T22:51:07.067
+helpfulCount:
+1
+userID:
+4167878
+Display Name:
+zackmania
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5462285.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We didn't make sandwhiches but they turned out awesome

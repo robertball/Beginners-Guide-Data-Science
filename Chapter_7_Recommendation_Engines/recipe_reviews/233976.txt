@@ -1,0 +1,72 @@
+Recipe number:
+233976.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-10-17T12:24:04.77
+helpfulCount:
+2
+userID:
+2448319
+Display Name:
+Holiday Baker
+isPro:
+False
+followersCount:
+839
+followingCount:
+0
+madeRecipesCount:
+1768
+favoritesCount:
+5114
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2368134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe really confused me. It was like a really watered down or thin version of an orange julius. It didn't really have any substance. I am not sure what to do with it. I am thinking about saving it to add to smoothies, that need liquid, and where I want a little extra orange flavor so as not to waste the yogurt or orange juice. Only change I made was scaling back the recipe, quite a bit, and subbing plain yogurt to which I added a little agave and vanilla extract for the vanilla yogurt.
+Review:
+Rating:
+3
+dateLastModified:
+2013-10-23T18:41:01.257
+helpfulCount:
+1
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+769
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I cut this recipe down to 1 serving using the Change Servings button: 1.5 cups OJ, 3/4 cup vanilla yogurt (I used Greek), 3/4 large naval orange, 1/8 tsp. cinnamon. Because Blender Woman thought this smoothie was watered down, I decided to start with just 1/2 cup OJ. I'm so glad I stopped there because even with that amount, this smoothie was still rather "weak and thin" and not thick as I expect a smoothie to be.

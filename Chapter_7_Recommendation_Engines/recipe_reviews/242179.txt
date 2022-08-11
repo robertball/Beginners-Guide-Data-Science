@@ -1,0 +1,72 @@
+Recipe number:
+242179.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-16T18:26:23.29
+helpfulCount:
+0
+userID:
+1971456
+Display Name:
+Marci Banes
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+98
+favoritesCount:
+1479
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4655600.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very refreshing smoothy and an excellent Summer drink.  I did substitute the mango for fresh peachs.
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-08T17:24:44.713
+helpfulCount:
+0
+userID:
+4976982
+Display Name:
+lutzflcat
+isPro:
+False
+followersCount:
+5754
+followingCount:
+0
+madeRecipesCount:
+2816
+favoritesCount:
+6006
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445679.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+1.8.17   My fruit was very sweet and perfectly ripe, and I didn't think I needed so much added sugar, so I cut the amount back by more than half.  I loved the contrast of the tart lemon, and I didn't want to lose that with too much sugar (just my personal taste preference).  This doesn't separate, so I think also it would be something that you could make in advance and put in the fridge.  Good refresher and loaded with lovely fruity flavor.

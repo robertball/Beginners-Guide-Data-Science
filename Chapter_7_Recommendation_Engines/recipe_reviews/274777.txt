@@ -1,0 +1,37 @@
+Recipe number:
+274777.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-29T16:31:47.287
+helpfulCount:
+0
+userID:
+1542400
+Display Name:
+jenuwin
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+85
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Changes? No changes, it's perfect! Loved them.

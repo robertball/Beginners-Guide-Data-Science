@@ -1,0 +1,37 @@
+Recipe number:
+274680.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-25T14:41:19.467
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+191
+followingCount:
+0
+madeRecipesCount:
+538
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very flavorful pesto! I'm used to the traditional recipe with basil, pine nuts, etc. This one is a nice change and I love pistachios! I used regular parmesan cheese.

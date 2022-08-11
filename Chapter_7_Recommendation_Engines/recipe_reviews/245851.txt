@@ -1,0 +1,107 @@
+Recipe number:
+245851.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-06T17:44:57.823
+helpfulCount:
+4
+userID:
+17654370
+Display Name:
+Lori Fullilove Marek
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3343257.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Huge hit with my family!  Didn't bother to marinate--just threw it in the oven and baked it.  Put it under the broiler for the final 4-5 minutes.  Yum!
+Review:
+Rating:
+5
+dateLastModified:
+2016-04-11T07:15:06.963
+helpfulCount:
+2
+userID:
+7315885
+Display Name:
+Gloria
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+93
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was delicious.  I followed the recipe except I used 'fire roasted' diced tomatoes, which added a lot of flavor.  I also sprinkled a little feta cheese the last 10 minutes of baking, mostly for color and presentation.  My husband loved it and so did I.
+Review:
+Rating:
+3
+dateLastModified:
+2019-12-05T10:24:12.33
+helpfulCount:
+0
+userID:
+23768088
+Display Name:
+Denyse Pettersson
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+491
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5432861.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It’s an easy way to cook fish but because of the stewed tomatoes it is like a fish soup. The fish is lost in all the liquid and tomatoes. It was less flavorful than I expected. No hint of the bacon grease flavor, so don’t know why it’s in the recipe. The fish would have stewed in the liquid without it. If I make this again I will try it with sliced fresh tomatoes (maybe green tomatoes or tomatillos), with just enough liquid to cook the fish without drowning it—perhaps white wine, tomato juice or Bloody Mary mix. I would also add a spoonful of capers and maybe some olives. The is more a Mediterranean dish than Gulf Coast. I lived near the Gulf Coast in Florida and never saw fish prepared like this.

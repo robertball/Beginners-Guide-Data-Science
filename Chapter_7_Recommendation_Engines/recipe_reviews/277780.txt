@@ -1,0 +1,37 @@
+Recipe number:
+277780.txt
+Review:
+Rating:
+3
+dateLastModified:
+2020-01-24T18:58:14.54
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8917
+followingCount:
+0
+madeRecipesCount:
+1121
+favoritesCount:
+2303
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are very sweet. I halved the recipe and baked them in a 8" x 8" glass pan. They were okay, but I have another maraschino cherry bar recipe that I prefer, so I probably won't make these again.

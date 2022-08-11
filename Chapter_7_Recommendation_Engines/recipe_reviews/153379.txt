@@ -1,0 +1,37 @@
+Recipe number:
+153379.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-03-06T08:58:15.92
+helpfulCount:
+0
+userID:
+2420325
+Display Name:
+Mary Smith
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3251765.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am asked to bring this to almost every party and family gathering.

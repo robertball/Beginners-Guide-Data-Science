@@ -1,0 +1,177 @@
+Recipe number:
+246398.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-08T01:53:24.373
+helpfulCount:
+2
+userID:
+21624451
+Display Name:
+Dan Balinski
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+113
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6445525.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this with organic ground turkey meat.  My family enjoyed it and I would definitely make it again.
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-12T02:53:15.683
+helpfulCount:
+2
+userID:
+1957776
+Display Name:
+Sonja Gardner
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+54
+favoritesCount:
+145
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3687995.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Super tasty!  I halved the recipe, and it was plenty of food for six of us with leftovers.  I used 7 dry individual cup a soup chicken soup packs since I couldn't find the Lipton pack, and it was super moist and flavorful.  I used almost a whole 15 ounce can of tomato sauce, too.  Everyone loved it!
+Review:
+Rating:
+3
+dateLastModified:
+2019-02-24T15:56:31.603
+helpfulCount:
+1
+userID:
+24909404
+Display Name:
+Maxwell Peck
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6237964.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I am not comfortable with the reliability of this recipe.   I followed it exactly with  one exception: I used only 4.2 pounds of meat--although I did use parchment on the bottom  of the skillet.   Even with the reduced amount of meat, in a standard 12" iron skillet the center of my loaf was a full inch above the sides of the pan.  I cannot imagine how big the skillet in the picture must be for the loaf to turn out that far below the edges of the pan.  A skillet that size ain't fitting in my oven.  Even with only 4.2 pounds of meat, 1/4 of the loaf comfortably fed our family of five.  Unless you are feeding a small army or a scout troop, keep that in mind when it comes to quantity.   The flavor was great, although I also take issue with the cooking time.  Even given the huge size of the loaf, it was simply too long--I would estimate by almost 45 minutes.  I had to cover the top with foil to prevent over-browning, and the bottom came out with a very thin and crispy--almost burned--crust.  So the flavor was was great, but I would not follow this recipe too strictly, unless you want to freeze half of it for another 2 meals (again, for a family of 5).
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-17T18:26:49.617
+helpfulCount:
+0
+userID:
+5647049
+Display Name:
+Gayle C
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+84
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6156260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent and clearly makes plenty. Like the crispy edges by using the skillet! It was a lot of measuring so I winged it on a few but got all the major stuff. Turned out great...I didn't realize the time it could take to cook and used convection, which was great.
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-16T00:51:55.56
+helpfulCount:
+0
+userID:
+12299522
+Display Name:
+Eloise Rodas
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it with ground turkey and. cooked it for 1hr 30 min and it was great. Definitely a keeper.

@@ -1,0 +1,72 @@
+Recipe number:
+12864.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-02T21:00:39.32
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9646
+followingCount:
+0
+madeRecipesCount:
+2456
+favoritesCount:
+2255
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Wimped out on the red bell pepper because 3 bell pepper is overkill for the hubby so I used only 2 which were yellow and green. No clue where to get tiger prawn in my area so I just used large raw shrimp. This is good as written but  a couple of shakes of seafood seasoning such as Old Bay and you have great. I served this over leftover beans and yellow rice and it was  a big hit!
+Review:
+Rating:
+4
+dateLastModified:
+2008-04-06T13:45:58.06
+helpfulCount:
+0
+userID:
+2839943
+Display Name:
+johnsons88
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Forgot to cut back the tomato paste/water combo, so it was a little too much tomato.  My own error.  Otherwise very good!

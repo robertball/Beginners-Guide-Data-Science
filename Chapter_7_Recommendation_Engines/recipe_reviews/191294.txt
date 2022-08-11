@@ -1,0 +1,62 @@
+Recipe number:
+191294.txt
+Review:
+Rating:
+5
+dateLastModified:
+08/05/2009
+helpfulCount:
+3
+userID:
+3898127
+Display Name:
+Kim
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe was sooo good.  The pork was incredibly tender, I didn't have yogurt or chicken stock, so I used a container of sourcream and beef stock and it was awesome, one of the best pork recipes I've made.
+Review:
+Rating:
+5
+dateLastModified:
+07/27/2009
+helpfulCount:
+1
+userID:
+3494023
+Display Name:
+Heather
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/241684.jpg
+text:
+Wonderful, my family loves this!
+Review:
+Rating:
+1
+dateLastModified:
+02/25/2010
+helpfulCount:
+0
+userID:
+2775888
+Display Name:
+Nancy S.
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This is very bland, no flavor at all.  The yogurt curdled and made the sauce sour.
+Review:
+Rating:
+3
+dateLastModified:
+08/12/2009
+helpfulCount:
+0
+userID:
+3899133
+Display Name:
+Bill Kinahan
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Tasted like a pork pot roast with carrot dressing. Not a good use of a pork tenderloin.

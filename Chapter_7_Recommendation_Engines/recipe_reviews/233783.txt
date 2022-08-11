@@ -1,0 +1,72 @@
+Recipe number:
+233783.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-10-31T06:55:16.727
+helpfulCount:
+2
+userID:
+844886
+Display Name:
+It's A New Day
+isPro:
+False
+followersCount:
+288
+followingCount:
+0
+madeRecipesCount:
+450
+favoritesCount:
+522
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/615239.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were okay but seemed bland.  I don't think there's enough cheese or pepperoni in them.  I accidentally used all the garlic powder inside the biscuits but that didn't even help boost the flavor.  I think these would be great with a few minor tweaks.
+Review:
+Rating:
+4
+dateLastModified:
+2014-06-10T15:54:29.913
+helpfulCount:
+1
+userID:
+13748930
+Display Name:
+brenna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674154.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+it was really good but I put in more cheese

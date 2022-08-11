@@ -1,0 +1,72 @@
+Recipe number:
+268701.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-20T17:32:56.81
+helpfulCount:
+12
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were good but the shells get dry and rubbery. I think you need to spoon some plain spaghetti sauce over them prior to baking to keep the shells moist. Also, the feta doesn't melt with this. If you want melty cheesy goodness I recommend mozzarella .
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-15T19:12:20.513
+helpfulCount:
+0
+userID:
+16654269
+Display Name:
+Judy Poteet
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+248
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2725836.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Substituted parmesan cheese for feta and used more sauce

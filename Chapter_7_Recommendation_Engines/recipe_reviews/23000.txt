@@ -1,0 +1,109 @@
+Recipe number:
+23000.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-05-22T16:55:08.827
+helpfulCount:
+7
+userID:
+585390
+Display Name:
+Navy_Mommy
+isPro:
+False
+followersCount:
+49
+followingCount:
+0
+madeRecipesCount:
+633
+favoritesCount:
+805
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+An easy, if not awe inspiring spaghetti sauce recipe.  My mother makes a similar dish she calls tomato gravy.  My husband didn't care for the stew meat and stated he prefers hamburger or sausage.  
+
+I added a green pepper and half a red pepper to the sauce with the onions.  I also added fresh basil, oregano, thyme and parsley the last few minutes before serving.
+Review:
+Rating:
+5
+dateLastModified:
+2006-10-14T13:19:33.2
+helpfulCount:
+6
+userID:
+2118051
+Display Name:
+Sammy Styles
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I grew up with this same type of sauce,made by my grandmother its great,I think pork works best in it gives the sauce a great flavor.
+Review:
+Rating:
+4
+dateLastModified:
+2017-03-01T17:33:39.787
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2825
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really good. It's a common way to make ragù in Southern Italy. I added some peas and used it in some arancini as well as on pasta. Thank you for the recipe.

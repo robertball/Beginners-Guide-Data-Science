@@ -1,0 +1,37 @@
+Recipe number:
+221991.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-03-13T00:42:56.81
+helpfulCount:
+1
+userID:
+12442849
+Display Name:
+dgeigerman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! Our version of this recipe added a can of corn and chopped mild smoked sausage we had cooked earlier, which made it super chunky. Thank you!

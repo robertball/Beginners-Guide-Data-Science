@@ -1,0 +1,72 @@
+Recipe number:
+230253.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-11-29T12:33:28.567
+helpfulCount:
+2
+userID:
+2043209
+Display Name:
+Sarah Jo
+isPro:
+False
+followersCount:
+1662
+followingCount:
+0
+madeRecipesCount:
+5561
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/699445.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This pie was actually one of the first holiday pies I ever made when my husband and I first set up house. I can't remember if I saw it on the back of the marshmallow bag or the graham cracker box. When I made this, I actually pressed the pie crust ingredients into a pie dish and baked it for 8 minutes. The directions are very simple to follow and it made a fabulous fluffy chocolate-marshmallow pie. VERY much like S'Mores. We inhaled this pie.
+Review:
+Rating:
+3
+dateLastModified:
+2013-08-19T08:09:16.417
+helpfulCount:
+0
+userID:
+3883699
+Display Name:
+moaa
+isPro:
+False
+followersCount:
+110
+followingCount:
+0
+madeRecipesCount:
+727
+favoritesCount:
+1342
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/586780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a good type of cream pie.  I wasn't ecstatic about it but glad I was able to use our leftover s'mores from our camping trip.  Next time,  I will use cool whip instead of making whipped cream and throw it in the freezer.

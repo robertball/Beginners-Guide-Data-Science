@@ -1,0 +1,72 @@
+Recipe number:
+259746.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-12-12T10:37:40.8
+helpfulCount:
+0
+userID:
+23803275
+Display Name:
+Jeanette Renee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+673
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5455495.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This didn't rise like I expected with so much baking powder in it. Rather dense, but still tasty. I added 1/2 cup of raisins along with the walnuts.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-25T15:21:51.06
+helpfulCount:
+0
+userID:
+12778439
+Display Name:
+Aishakb
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+65
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614259.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a delicious bread that is moist and flavorful. I substituted oat flour for ww and cassava, used arrowroot as the thickener and added a cup of blueberries. Turned out perfect! This will become a regular of mine for family or holidays!

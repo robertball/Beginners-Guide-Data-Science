@@ -1,0 +1,72 @@
+Recipe number:
+245015.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-10-02T12:42:48.233
+helpfulCount:
+1
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+221
+followingCount:
+0
+madeRecipesCount:
+1014
+favoritesCount:
+1340
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just before adding the peaches, I took a tiny taste of the batter and realized, ugh, there's no sugar!  I was a bit surprised by that, because why make a dessert if it isn't sweet?  I added about 1/2 T raw sugar, which helped.  I saw that the other peach cobbler mug recipe on this site was the exact same, except it called for 2 T sugar. With the addition of sugar, I would rate this a 4. Not the best mug dessert out there, but I might make this again... I was thinking for breakfast.
+Review:
+Rating:
+1
+dateLastModified:
+2017-05-26T20:40:59.24
+helpfulCount:
+0
+userID:
+21971305
+Display Name:
+Chloe Campbell
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677179.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Literally horrible! It had absolutely no taste.

@@ -1,0 +1,37 @@
+Recipe number:
+278261.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-29T01:21:28.677
+helpfulCount:
+3
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+768
+followingCount:
+0
+madeRecipesCount:
+523
+favoritesCount:
+2138
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent! A little time-consuming to get everything together, but well worth it. Next time I might use thinly-sliced Gruyere to make things easier to roll and less messy. I think they addition of some finely diced pickles would had a nice touch too. A flavorful dinner that is totally company-worthy! I'd say this is 4 servings, not 6.

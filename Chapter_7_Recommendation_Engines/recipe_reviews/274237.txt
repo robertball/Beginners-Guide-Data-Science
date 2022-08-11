@@ -1,0 +1,72 @@
+Recipe number:
+274237.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-16T01:25:46.86
+helpfulCount:
+0
+userID:
+1786876
+Display Name:
+Wendy Lou
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+228
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I added spices to the mix, rather than the syrup. Turned out excellent!
+Review:
+Rating:
+4
+dateLastModified:
+2019-06-26T16:30:20.72
+helpfulCount:
+0
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+429
+favoritesCount:
+910
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The waffle produced is a very basic pumpkin waffle and as the recipe description states, the flavor comes from the syrup (that is delicious). As written my kids were not huge fans but tweaking a bit with cinnamon and other pumpkin pie spices they liked them.

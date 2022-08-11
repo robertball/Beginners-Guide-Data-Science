@@ -1,0 +1,37 @@
+Recipe number:
+145130.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-05-08T10:19:50.433
+helpfulCount:
+6
+userID:
+2762016
+Display Name:
+Rebecca Inwards
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+88
+favoritesCount:
+297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3427331.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good, but took a while

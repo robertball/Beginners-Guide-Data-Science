@@ -1,0 +1,148 @@
+Recipe number:
+239117.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-28T12:40:16.9
+helpfulCount:
+1
+userID:
+8055240
+Display Name:
+Sarah Bowdidge
+isPro:
+False
+followersCount:
+22
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+69
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2001833.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The butter tarts were really good.  I used brown sugar Splenda Mix, instead of regular brown sugar, so I didn't find it too sweet, as dd the previous reviewer (matter of taste, too.)  The pastry was simple and easy to make and roll, plus turned out nice and flaky.  I would have like the filling to be a bit thinner and runnier (Gooey-er) but that is a minor thing.  Overall, great recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2015-01-20T09:05:01.23
+helpfulCount:
+1
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+39
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I would say more of 4 to 4.5 star recipe. 
+I choose this recipe for the first Canadian Allrecipes Allstar challenge because I had all the ingredients and liked the fact the recipe did not contain corn syrup. 
+I halved the recipe, which yielded 30 3 inch tarts. 
+I used premade tarts shells because I needed to transport them and I find them easier.
+The tarts smelled awesome while baking, just like what you imagine they should smell like. 
+The only complaint and it is a minor one, is my husband found them a little too sweet compared to my usual recipe, but he also said he could easily eat 10 because they are butter tarts after all!
+One recommendation I have would be to streamline the ingredients a little bit e.g. 10 tbsps milk is 2/3 cup 1 2/3 tbsps of vanilla is 5 tsps, it just felt a little awkward.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-17T04:24:35.307
+helpfulCount:
+0
+userID:
+9848760
+Display Name:
+Meal Explorer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+110
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are just like the ones Mom used to make!! YUM YUM
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-29T14:16:14.657
+helpfulCount:
+0
+userID:
+11967419
+Display Name:
+StaceyRM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband said "this is the one! Don't change a thing."

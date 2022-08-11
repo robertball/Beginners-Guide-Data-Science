@@ -1,0 +1,219 @@
+Recipe number:
+270599.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-15T00:58:53.147
+helpfulCount:
+3
+userID:
+15977315
+Display Name:
+Kelly Braz
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2382219.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this recipe with a few changes.
+I used 1 1/2 cups heavy cream
+2tablespoons cocoa powder
+1/8 to 1/4 cup Swerve confectioners sugar
+Teaspoon vanilla
+
+It is perfect!
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-08T20:22:17.563
+helpfulCount:
+2
+userID:
+24643730
+Display Name:
+Sunnie
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not a good flavor.  But I had to use vanilla extract instead of almond.  If anybody else makes this, I would love to hear what they think.  
+Very creamy.   If there were something else to sweeten it with?
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-06T11:35:02.953
+helpfulCount:
+0
+userID:
+13381276
+Display Name:
+Lyn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+137
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4882837.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!  I use a whipping cream and coco powder all the time as my quick go to dessert but adding the almond flavour just takes it to the next level of decadence.
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-05T20:03:46.413
+helpfulCount:
+0
+userID:
+25889536
+Display Name:
+Savanna Dawson
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6865020.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I think I will change to vanilla instead of almond and use less espresso
+Review:
+Rating:
+3
+dateLastModified:
+2019-11-07T02:07:12.313
+helpfulCount:
+0
+userID:
+4013461
+Display Name:
+smrathburn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+225
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/703431.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Will try again without the almond extract
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-21T17:24:33.35
+helpfulCount:
+0
+userID:
+12418842
+Display Name:
+Amanda Nickell
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3862063.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this for the 1st time I change the almond to vanilla we really liked it.

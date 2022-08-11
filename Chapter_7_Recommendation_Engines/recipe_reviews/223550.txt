@@ -1,0 +1,109 @@
+Recipe number:
+223550.txt
+Review:
+Rating:
+4
+dateLastModified:
+2012-07-20T15:35:00.15
+helpfulCount:
+5
+userID:
+8497838
+Display Name:
+BeginnerChef
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+31
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/54.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was very easy to make and tasted great!
+
+I used stevia instead of sugar and served it over some herb-spiced quinoa. Next time I would definitely add some carrots and celery to the cabbage to make the flavours a bit more complex. Definitely something I will make again!
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-16T15:05:44.79
+helpfulCount:
+0
+userID:
+14595668
+Display Name:
+Patricia Curley
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+215
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3627189.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I put a teaspoon of ground ginger in it
+Review:
+Rating:
+3
+dateLastModified:
+2012-07-17T16:33:26.867
+helpfulCount:
+0
+userID:
+9612911
+Display Name:
+country girl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+277
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674156.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tasty, I love cabbage. I am on a low sodium diet. This is great with unsalted butter and salt

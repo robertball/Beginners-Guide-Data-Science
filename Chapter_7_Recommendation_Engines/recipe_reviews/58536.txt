@@ -1,0 +1,72 @@
+Recipe number:
+58536.txt
+Review:
+Rating:
+1
+dateLastModified:
+2006-11-25T11:32:51.603
+helpfulCount:
+22
+userID:
+2179910
+Display Name:
+brandon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614255.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I didnt like this recipe at all, I am a culinary student and tried doing this and it didnt turn out at all.
+Review:
+Rating:
+5
+dateLastModified:
+2011-01-18T05:32:47.093
+helpfulCount:
+6
+userID:
+6370286
+Display Name:
+Sara E.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674130.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loves this recipe and we prepare it every year, especially over the holidays. It is simple and the flavor is incredible and most would never know that it was a goose. Doesn't need to cook as long. Check after an hour and then every 15 minutes. It really is delicious!

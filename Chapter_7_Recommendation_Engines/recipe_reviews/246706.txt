@@ -1,0 +1,72 @@
+Recipe number:
+246706.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-07-12T00:43:18.267
+helpfulCount:
+0
+userID:
+10142285
+Display Name:
+DBLACKE
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+182
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Only had a small amount of hamburger. Cut the recipe in half. I sautéed a red pepper with the onion. Laid the crescent sheet out and put the loaf in the middle. Wrapped it up and sprinkled Everything Bagel over the egg wash. Delicious!
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-09T23:40:14.02
+helpfulCount:
+0
+userID:
+19984214
+Display Name:
+Judith Voll
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+67
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It came out very good...I added more egg & some rice to the meatloaf, was yummy.  Cooked it with cauliflower mashed & baby sweet peas and topped it with fresh mushroom gravy.

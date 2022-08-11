@@ -1,0 +1,72 @@
+Recipe number:
+242060.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-12-31T17:55:56.95
+helpfulCount:
+1
+userID:
+12256477
+Display Name:
+Suzanna Lee Lodewijk
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+80
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4323768.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love these! I use milk instead of cream and cooked quinoa instead of the quinoa flakes. Turn out nicely and they keep well (almost like freak out of the oven) for a couple days after!! ????
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-22T00:31:32.59
+helpfulCount:
+0
+userID:
+16753156
+Display Name:
+Lesley Wise
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4172909.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved these. I used organic Tamarind sugar, just less that a cup. Left over cooked quinoa from dinner and omitted the cream. scooping them with a small scoop for bite sized treats, they were crispy on the outside and soft in the middle. Just perfect.

@@ -1,0 +1,37 @@
+Recipe number:
+275881.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-16T19:40:02.2
+helpfulCount:
+0
+userID:
+7869506
+Display Name:
+Judith Chaney
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+155
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6145199.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I love this, it is delicious but I will leave out the ground cinnamon the next time. It floated on the top initially then sunk to the bottom and got slimy. I’ll add the cinnamon to my coffee grounds like I used to. Or maybe use a cinnamon stick instead of the ground cinnamon.

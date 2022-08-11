@@ -1,0 +1,37 @@
+Recipe number:
+238643.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-04-07T10:25:51.62
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+771
+followingCount:
+0
+madeRecipesCount:
+1675
+favoritesCount:
+3987
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This smoothie turned out an absolutely beautiful color! And since you eat with your eyes first....... Since I used mango that I had in the freezer, I omitted the ice cubes. This smoothie turned out very thick, so I also just used the chia seeds as a garnish on top. A bright color and a fresh taste!

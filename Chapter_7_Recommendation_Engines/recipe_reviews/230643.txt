@@ -1,0 +1,37 @@
+Recipe number:
+230643.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-01-25T22:02:44.187
+helpfulCount:
+0
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was very good.. I made exactly per the recipe.   A couple of comments - I have a very high speed Ninja blender so I was able to get the raw veggies very small in the drink.. but it never did get completely smooth.  I dont think this would work in a traditional blender.. but YMMV.  I tend to prefer a smoother drink so next time I made this, I will add cooked carrot and beet rather than raw

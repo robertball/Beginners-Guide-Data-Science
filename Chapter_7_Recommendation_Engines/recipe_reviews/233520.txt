@@ -1,0 +1,37 @@
+Recipe number:
+233520.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-11-29T01:45:19.217
+helpfulCount:
+0
+userID:
+22322321
+Display Name:
+snackingmachine87
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+68
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've had this all my life, but with some changes. When my grandma makes it it's very similar but without the mandarin and at home we make it with jello, rhubarb, apples, dried fruit, and no plums. You don't really have to make it cook as long as it says, but this recipe is good. Don't be scared to try it.

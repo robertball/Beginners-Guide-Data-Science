@@ -1,0 +1,72 @@
+Recipe number:
+263402.txt
+Review:
+Rating:
+2
+dateLastModified:
+2020-02-02T23:43:04.89
+helpfulCount:
+0
+userID:
+25734016
+Display Name:
+LaLa
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+602
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a lot of work and not very good. I used freshly squeezed orange juice and fresh ginger. I made the breading according to instructions and it was bland. The dipping sauce was just okay.
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-08T01:00:32.653
+helpfulCount:
+0
+userID:
+5853206
+Display Name:
+Rose Murphy
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+129
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2063009.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We liked it very much however I would reduce the amount of sauce. I could not find the Shaoxing wine so I used dry sherry. I also could not find the shichimi togarashi  (Japanese 7 spice) so I used Chinese 5 spice. And sadly I forgot the garlic. So I am looking forward to trying this again and using garlic.

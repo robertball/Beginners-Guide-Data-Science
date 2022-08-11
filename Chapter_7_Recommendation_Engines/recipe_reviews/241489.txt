@@ -1,0 +1,107 @@
+Recipe number:
+241489.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-12T01:33:00.62
+helpfulCount:
+4
+userID:
+15958805
+Display Name:
+Dean Deutscher
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+46
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this recipe as a guide to help get rid of some instant rice I wanted to use up. I used two and a half cups of both instant rice and chicken stock. I made the rice according to the directions on the box, mixing in the rest of the ingredients when I added the rice to the boiling stock. I used hot Italian sausage which gave the dish a good kick.
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-24T15:10:22.55
+helpfulCount:
+2
+userID:
+5176159
+Display Name:
+Will Nevin
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+11
+favoritesCount:
+36
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5430097.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent basic recipe. I substituted sliced sausage links for ease and whole grain rice for yellow rice (hard to find in my area). The pan sizes and type need to be checked, goes from "medium sauce pan" to "skillet" in the recipe (used 8" deep skillet and worked perfectly).
+Review:
+Rating:
+4
+dateLastModified:
+2020-06-10T00:31:24.723
+helpfulCount:
+0
+userID:
+14895564
+Display Name:
+Wendy Works Gibson
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+32
+favoritesCount:
+141
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1807318.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used what I had — all brown rice so it took longer. Also added celery, snap peas, mushrooms, red pepper instead of green.

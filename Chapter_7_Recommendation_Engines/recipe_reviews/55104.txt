@@ -1,0 +1,108 @@
+Recipe number:
+55104.txt
+Review:
+Rating:
+4
+dateLastModified:
+2011-11-28T06:30:20.727
+helpfulCount:
+2
+userID:
+769640
+Display Name:
+Pam Ziegler Lutz
+isPro:
+False
+followersCount:
+873
+followingCount:
+0
+madeRecipesCount:
+891
+favoritesCount:
+2891
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2190197.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were good, but the buiscuits turned out a little dry for my taste. I served them with extra cranberry sauce.
+Review:
+Rating:
+5
+dateLastModified:
+2011-04-09T17:47:05.947
+helpfulCount:
+1
+userID:
+1517287
+Display Name:
+Kristin22
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+51
+favoritesCount:
+171
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674162.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were quick and yummy!  Thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2012-05-27T12:34:29.11
+helpfulCount:
+0
+userID:
+3893641
+Display Name:
+Jodie Tavares
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+90
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5024279.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+these were very tasty, my family loved them!!! I did roll them out a bit thinner than it said to try and get more biscuits out of them.. wouldnt do that again.
+I also added a bit more cheese and brushed tops with butter at the end like suggested in other comments =)

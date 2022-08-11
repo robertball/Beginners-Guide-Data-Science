@@ -1,0 +1,142 @@
+Recipe number:
+237947.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-11-16T12:34:37.433
+helpfulCount:
+5
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious!! I made a batch to share with my Bunco group, and it was a big hit! I added some cranberries to give it a seasonal edge, and I plan to make it again for Thanksgiving.
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-14T22:42:25.68
+helpfulCount:
+0
+userID:
+4375600
+Display Name:
+Beverly Wright-Thompson
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+44
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7725627.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sangria is so delicious! I made a few modifications that gave It a tropical flair since I live In South Florida. Instead of  apples I added chopped strawberries. Instead of plain orange  juice, I added pineapple orange juice!
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-29T12:58:31.833
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+540
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Followed as written! It was great!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-31T23:46:48.417
+helpfulCount:
+0
+userID:
+3401798
+Display Name:
+Lisa Mowery
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+27
+favoritesCount:
+384
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1151082.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This went over really well with my book club - not a drop left.  The only thing I did differently was to limit the rum to 1 cup.  Otherwise, as written and muy delicioso!

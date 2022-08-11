@@ -1,0 +1,37 @@
+Recipe number:
+229407.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-12-15T14:42:52.277
+helpfulCount:
+5
+userID:
+3043057
+Display Name:
+brownidgirl210
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+215
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The first batch I made, I crushed the oreos in a plastic bag with a rolling pin.  The oreos came out too fine, so the second batch I crushed the oreos into large chunks by hand.  When I cut the bark, the larger chunks would fall off the bark.

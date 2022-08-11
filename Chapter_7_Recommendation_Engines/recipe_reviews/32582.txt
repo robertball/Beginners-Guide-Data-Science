@@ -1,0 +1,72 @@
+Recipe number:
+32582.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-02-13T18:34:32.98
+helpfulCount:
+5
+userID:
+3552751
+Display Name:
+Bobbi123
+isPro:
+False
+followersCount:
+14
+followingCount:
+0
+madeRecipesCount:
+561
+favoritesCount:
+1019
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/2549.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Wow - this is a dessert in a glass!  Tasted like an adult, almond milkshake. If you like the flavour of amaretto then this is a recipe for you.
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-10T10:04:21.52
+helpfulCount:
+4
+userID:
+2792037
+Display Name:
+Diane Cullum
+isPro:
+False
+followersCount:
+9
+followingCount:
+0
+madeRecipesCount:
+141
+favoritesCount:
+424
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1555604.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Incredibly yummy! I used vanilla frozen yogurt since that is what I had and mocha Kahlua for the coffee flavored liqueur. I love almond everything and this recipe is perfectly delicious! Thank you Kitchengirl! I'll be having this one again!

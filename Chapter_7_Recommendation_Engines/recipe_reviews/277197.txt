@@ -1,0 +1,37 @@
+Recipe number:
+277197.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-25T18:54:01.223
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+401
+followingCount:
+0
+madeRecipesCount:
+1114
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I make Mexican Wedding Cookies every Christmas and this year I made these because of the interesting twist. I prefer chopped nuts rather than ground. As far as that interesting twist, I prefer them without the orange zest or juice. Thanks for sharing your recipe.

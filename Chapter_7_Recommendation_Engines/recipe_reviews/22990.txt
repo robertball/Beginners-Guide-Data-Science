@@ -1,0 +1,107 @@
+Recipe number:
+22990.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-03-13T17:02:38.167
+helpfulCount:
+7
+userID:
+2314683
+Display Name:
+Abbie W
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+159
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made mocha cupcakes, and they were really good.  I didn't use coffee liqueur, but I used a Dutch chocolate liqueur, and it was very tasty.  They weren't dry at all, but this is probably because I checked them quite frequently, since I didn't know how long they should cook.  I'd definitely make it again, especially for one of my vegan friends!
+Review:
+Rating:
+3
+dateLastModified:
+2006-05-15T10:36:14.06
+helpfulCount:
+7
+userID:
+76482
+Display Name:
+Marcy Ruda Nicholson
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+859
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4314787.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was just ok.  The cake had a nice flavor, but was very dry.  The frosting was good, but it needed a lot of tweaking to get the flavor/consistency right (I just kept adding a little more of everything until it seemed right).  I don't think I'd make this again.
+Review:
+Rating:
+4
+dateLastModified:
+2012-01-10T13:30:12.46
+helpfulCount:
+4
+userID:
+375720
+Display Name:
+MISSMOON
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+200
+favoritesCount:
+899
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/562788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used Bailey's Mint chocolate liquor, as what was on hand. The cake was a "little" dry, because of the burn off, of the alcohol. The frosting recipe was off... it was way too thick, so I ended up mixing in a 1/2 cup of butter and more coffee to the right consistency. Over all the flavors were present.

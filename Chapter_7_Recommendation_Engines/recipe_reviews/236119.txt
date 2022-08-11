@@ -1,0 +1,72 @@
+Recipe number:
+236119.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-03-15T13:51:46.723
+helpfulCount:
+5
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12226
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are for MEAT eaters!  Mine were huge!  Mind you my all beef dogs were big so the hamburger also had to be large.  I 'lightened' them up by only using one slice of bacon and one slice of cheese per burger.  All kidding aside - IF I were to make these again I would either place them on a rack over a lined sheet pan or do them on the grill, indirect.  I used non-stick Reynolds foil on the sheet pan, they did not stick but I did not like them sitting in a pool of grease.  (Yes, I used lean beef)  The 'boys' got a kick out of these!
+Review:
+Rating:
+3
+dateLastModified:
+2014-03-15T15:20:53.86
+helpfulCount:
+2
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+421
+followingCount:
+0
+madeRecipesCount:
+1033
+favoritesCount:
+1847
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The idea is great, but in reality there were some issues- mainly that even in a roasting pan the bacon didn't crisp up.  Kind of gross, soggy bacon wrapped around ground beef.  I'm thinking that pan frying them might solve that issue?  Other than that, neat idea!

@@ -1,0 +1,107 @@
+Recipe number:
+20534.txt
+Review:
+Rating:
+3
+dateLastModified:
+2004-08-17T14:53:39.09
+helpfulCount:
+13
+userID:
+1162260
+Display Name:
+Man Cook
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/169017.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was an excellent base for embellishment.  Without embellishment, it fear it would not have been soup but rather a bland sloppy mess of zucchini, meat and onion. I made sure to add the liquid from the can of tomatoes, fresh chopped garlic, and mushrooms.  Most importantly, I added additional herbs and spices. 1 teaspoon each dried tyme and parsley (fresh is better but double the amount), 1/2 teaspoon salt, pepper to taste, one can of beef broth and about 1/4 cup of water (broth and water actually made it a soup). Last but not least, I added a half teaspoon of cumin.  This really made the soup sing and gave it a backgroud flavor that wasn't over-powering.
+Review:
+Rating:
+4
+dateLastModified:
+2001-07-18T08:28:26.983
+helpfulCount:
+3
+userID:
+395226
+Display Name:
+LOVEBEARS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really Good Soup!!  Will make again.  Great served over rice. Thanks Again Diana
+Review:
+Rating:
+2
+dateLastModified:
+2012-07-27T16:12:27.82
+helpfulCount:
+1
+userID:
+1245064
+Display Name:
+Martha Cochell
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+184
+favoritesCount:
+199
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3677638.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This isn't soup. I added broth and additional seasonings, but it was still just okay.

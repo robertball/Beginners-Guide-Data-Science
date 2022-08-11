@@ -1,0 +1,76 @@
+Recipe number:
+238444.txt
+Review:
+Rating:
+3
+dateLastModified:
+2014-07-22T10:04:18.773
+helpfulCount:
+7
+userID:
+2763962
+Display Name:
+Gabsmom
+isPro:
+False
+followersCount:
+31
+followingCount:
+0
+madeRecipesCount:
+52
+favoritesCount:
+211
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/73996.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Since this recipe didn't have any reviews when I made it I was completely faithful to it. I think that if you make multiple modifications to a recipe then declare it is excellent you are really reviewing your version - not the original.
+
+That said, as written this recipe produces a frittata with a very nice texture. If I were to make it again, I would make these changes to suit my taste: this needs more asparagus, maybe 1/4 cup of parmesan, garlic (sautéed with the onion and mushrooms) and freshly ground black pepper. I think diced black or kalamata olives would be a nice addition too.
+
+I had this with whole wheat toast and fruit, but my husband ate it with leftover sriracha noodles (from this site) and said that it was a great combination. Thank you for sharing your recipe!
+Review:
+Rating:
+4
+dateLastModified:
+2018-04-29T16:28:46.25
+helpfulCount:
+1
+userID:
+21879224
+Display Name:
+Nevada Tom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had some fresh asparagus and this was a wonderful way to use it.  A lot of breakfast casseroles I've tried are so-so but this was really good, especially considering there was no added salt.  The only modification I made was using 8 eggs because I don't have egg beaters and I was too lazy this morning to separate egg whites.  Serve with salsa and a little sour cream, yum!

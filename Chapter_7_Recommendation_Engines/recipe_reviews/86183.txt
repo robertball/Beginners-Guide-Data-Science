@@ -1,0 +1,230 @@
+Recipe number:
+86183.txt
+Review:
+Rating:
+4
+dateLastModified:
+2005-10-19T12:55:44.467
+helpfulCount:
+16
+userID:
+1563544
+Display Name:
+Sugarfoot
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+144
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/204270.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is from topsecretrecipies.com under Soup Nazi
+
+It's really good for an appetizer. Mild flavor. You may need to add more salt and thyme. Adding a little garlic can be fun too.
+Review:
+Rating:
+5
+dateLastModified:
+2008-01-11T06:16:18.367
+helpfulCount:
+5
+userID:
+2578263
+Display Name:
+HammockRider
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+248
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really liked this, and so did The Fam. made it as an appetizer for a "formal" family dinner where new people were introduced to the family and it went over big! I only used 6 cups of water but doubled the half and half. next time I might try heavy cream instead. I offered sour cream,brown sugar and cinnamon as garnishes.
+Review:
+Rating:
+4
+dateLastModified:
+2007-09-23T15:13:32.707
+helpfulCount:
+5
+userID:
+2503577
+Display Name:
+hungrygrr
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614284.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I liked it!
+
+I made some variations because of lack of ingredient, and preference:
+
+Instead of : new ingredient
+tomato sauce & water : tomato juice
+thyme : cayenne, turmeric, onion powder
+
+extra:
+salt, butter
+
+skipped:
+half & half, pepper, cashew
+
+Also, to make it smooth, after simmering for 10 mins, let it cool a bit and pop it in the blender!
+Review:
+Rating:
+1
+dateLastModified:
+2010-12-25T18:52:01.58
+helpfulCount:
+3
+userID:
+5631736
+Display Name:
+dizzydog3894
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+12
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this soup was very bland and uninteresting. the cashews got very soggy and squishy and generally unpleasant. I would not recommend this soup.
+Review:
+Rating:
+3
+dateLastModified:
+2006-11-02T09:42:02.31
+helpfulCount:
+3
+userID:
+2072527
+Display Name:
+Lucy.L
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe was OK but it wasn't very interesting. Also you cannot get half and half in england.
+Review:
+Rating:
+2
+dateLastModified:
+2016-10-17T01:54:58.96
+helpfulCount:
+0
+userID:
+14423262
+Display Name:
+Stephanie Ou
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+58
+favoritesCount:
+156
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1982264.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had difficulty mashing the yam using a fork. I suppose the yam can be baked longer than the specified amount of time. 
+
+I won't be using this recipe again

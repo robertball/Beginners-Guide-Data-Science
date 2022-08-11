@@ -1,0 +1,37 @@
+Recipe number:
+268425.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-14T20:38:06.353
+helpfulCount:
+0
+userID:
+24180125
+Display Name:
+Rider
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+40
+favoritesCount:
+29
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Boy, this was a lot of work! But Boy, was it worth it? YES, YES, YES! This is the BEST Italian Cream Cake I have ever had! It makes quite a big cake so I was able to slice and freeze 1/2 of it. That way whenever I have a taste for this I can just reach into the freezer and be eating this in a couple of hours. I will be making this for an upcoming family get together and I know they will absolutely love it!

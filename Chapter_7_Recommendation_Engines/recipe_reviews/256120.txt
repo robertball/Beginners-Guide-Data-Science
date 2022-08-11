@@ -1,0 +1,37 @@
+Recipe number:
+256120.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-08-13T11:46:35.713
+helpfulCount:
+0
+userID:
+21376169
+Display Name:
+Joseph Southwell
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had to add 1/4 cup flour but other than that it came out great and my Russian wife approves!

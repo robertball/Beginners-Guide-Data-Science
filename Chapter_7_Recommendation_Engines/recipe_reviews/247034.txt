@@ -1,0 +1,72 @@
+Recipe number:
+247034.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-06-01T07:14:02.823
+helpfulCount:
+0
+userID:
+9735794
+Display Name:
+Jaana Smith Bauman
+isPro:
+False
+followersCount:
+97
+followingCount:
+0
+madeRecipesCount:
+92
+favoritesCount:
+139
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1215746.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Interesting flavors! A little too salty for us. Next time I wont add the extra salt and I'd maybe use honey mustard or dijon. Otherwise, interesting take on deviled eggs!
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-12T12:49:07.68
+helpfulCount:
+0
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Fun, simple, different and delicious! We loved this take on deviled eggs. Great combo of flavors...a definite keeper~YUM! Thanks for sharing. :)

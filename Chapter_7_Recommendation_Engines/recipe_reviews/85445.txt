@@ -1,0 +1,92 @@
+Recipe number:
+85445.txt
+Review:
+Rating:
+3
+dateLastModified:
+10/11/2006
+helpfulCount:
+10
+userID:
+2114797
+Display Name:
+Mrs. B
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Yikes. The only reason I gave this 3 stars is because we did eat it instead of going out to dinner but it was a close call. It was very gray flat and smooshy. The rice crispies just vanished into starch.
+Review:
+Rating:
+4
+dateLastModified:
+03/20/2006
+helpfulCount:
+5
+userID:
+1051636
+Display Name:
+BOBBIE9
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+Very good! I made this with puffed wheat instead of rice crispies because it's what I had and it was very tasty. I'm deducting one star because it looks a little gross and it doesn't make a lot.
+Review:
+Rating:
+1
+dateLastModified:
+06/11/2010
+helpfulCount:
+2
+userID:
+4717691
+Display Name:
+smk5197
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe was very disappointing. It had the texture of mush. The only thing that made it edible was adding cheese and hot sauce to mask the flavor.
+Review:
+Rating:
+4
+dateLastModified:
+03/01/2013
+helpfulCount:
+1
+userID:
+7758181
+Display Name:
+annpp
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/766453.jpg
+text:
+I make this quite a bit but use rice noodles instead of rice crispies. Good comfort food.
+Review:
+Rating:
+1
+dateLastModified:
+03/01/2012
+helpfulCount:
+1
+userID:
+6775626
+Display Name:
+fionaismyfriend
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+I did not care for this!
+Review:
+Rating:
+2
+dateLastModified:
+10/12/2006
+helpfulCount:
+0
+userID:
+1111897
+Display Name:
+Cafe Martin
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/8613110.jpg
+text:
+Doesn't make much of a meal.

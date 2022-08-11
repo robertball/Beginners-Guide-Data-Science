@@ -1,0 +1,37 @@
+Recipe number:
+268821.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-11-11T23:51:38.443
+helpfulCount:
+0
+userID:
+1616045
+Display Name:
+Happyschmoopies
+isPro:
+False
+followersCount:
+272
+followingCount:
+0
+madeRecipesCount:
+680
+favoritesCount:
+3415
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2719006.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was an unusual pie and had mixed reviews in my house. It has a very strong almond flavor, so, if you aren't a fan of almond I wouldn't recommend trying this recipe.  I was concerned because there were little bits of marzipan that didn't mix completely with the butter, but, once cooked the small pieces had melted and incorporated with the filling.  I personally wasn't crazy about the texture of the cooked pears and thought the pie was too sweet.  My husband however loved the pie.  I think I might like it better with a cherry filling instead of pear.  We did try the pie room temperature and cold after refrigerating and both agreed we liked the pie better cold.

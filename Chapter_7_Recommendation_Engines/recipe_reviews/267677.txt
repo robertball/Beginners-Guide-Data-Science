@@ -1,0 +1,37 @@
+Recipe number:
+267677.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-11T17:11:24.8
+helpfulCount:
+2
+userID:
+22014140
+Display Name:
+iAm Free
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+23
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5716041.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this the only changes was no carrot and no red cabbage I added peppers instead.  I also added more water because batter was thick after sitting. I cooked mine in a iron skillet and I should have reduced cooking time because it was dry but still taste okay. I will make again just adjust time.

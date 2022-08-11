@@ -1,0 +1,72 @@
+Recipe number:
+231018.txt
+Review:
+Rating:
+1
+dateLastModified:
+2013-02-01T16:52:00.92
+helpfulCount:
+6
+userID:
+10858030
+Display Name:
+jean
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677176.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I have tried many recipes on this site and they have always been very good. However I did not care for  this recipe at all, and neither did my guests.
+Review:
+Rating:
+3
+dateLastModified:
+2014-08-03T07:02:29.963
+helpfulCount:
+1
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a simple recipe, but I think it would benefit from some added ground sausage or beef.  It was a little bland.

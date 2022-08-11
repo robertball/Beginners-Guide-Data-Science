@@ -1,0 +1,72 @@
+Recipe number:
+239872.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-04T15:46:22.837
+helpfulCount:
+2
+userID:
+3500772
+Display Name:
+Sally Koehler Moffitt
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+528
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5120830.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Awesome use for healthy Kale!  Put it over noodles or on chicken, it's really tasty and has a little kick.   Saved it and definitely will make it again.
+Review:
+Rating:
+4
+dateLastModified:
+2015-12-23T17:59:20.147
+helpfulCount:
+2
+userID:
+7506137
+Display Name:
+Lexi Bair
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2602630.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tastes awesome!!

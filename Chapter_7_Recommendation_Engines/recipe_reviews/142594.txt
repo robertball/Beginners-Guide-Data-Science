@@ -1,0 +1,37 @@
+Recipe number:
+142594.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-08-10T01:52:58.78
+helpfulCount:
+12
+userID:
+2440949
+Display Name:
+Daisychain
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This works well but is bery time consuming. Replacing making the sponge with using pre-prepared trifle sponges cuts down preparation time and also reduces the amount of fat. They don't need spreading with the jam mixture either, as the combined fruits are adequate on their own - this also cuts out sugar and calories, a win/win!

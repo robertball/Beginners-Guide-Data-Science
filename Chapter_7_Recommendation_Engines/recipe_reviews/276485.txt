@@ -1,0 +1,37 @@
+Recipe number:
+276485.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-11-04T00:51:43.177
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+456
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sauce is very good and I love all of the vegetables. This was the first time I’ve tried polenta and unfortunately, I’m not really crazy about it. However, I would suggest this as a great recipe for someone who did like polenta. Thank you for a very good and easy recipe.

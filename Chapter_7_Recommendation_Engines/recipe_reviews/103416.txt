@@ -1,0 +1,37 @@
+Recipe number:
+103416.txt
+Review:
+Rating:
+4
+dateLastModified:
+2007-10-29T19:53:20.967
+helpfulCount:
+1
+userID:
+2458445
+Display Name:
+Kimberley Drake Smith
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+16
+favoritesCount:
+241
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4101924.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband, who is an extremely picky eater, gave me strange looks when I brought the ham steak home. But, when he tasted the apricot & mustard glaze this evening, he loved it! The only thing that I did differently was to cook it on the grill. We just moved into a new home and I couldn't find my broiler pan!

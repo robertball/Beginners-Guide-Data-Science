@@ -1,0 +1,72 @@
+Recipe number:
+18928.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-09-20T12:38:18.497
+helpfulCount:
+1
+userID:
+4015908
+Display Name:
+Jessi McAllister
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+158
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1797692.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not a hard liquor girl at all, but it sounded so good I had to try it! I think it would also go well with club soda. It's a sweet hard drink that I think lots of ppl would like. I only gave it 4 stars cuz it did not convert me to hard liquor.
+Review:
+Rating:
+3
+dateLastModified:
+2015-11-23T10:55:03.687
+helpfulCount:
+0
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+247
+followingCount:
+0
+madeRecipesCount:
+545
+favoritesCount:
+1088
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Ever wondered what a liquid banana runt would taste like?  This is it.  I would hazard to cut this with soda water, both for the over the top sweetness and to cut the alcohol a bit.

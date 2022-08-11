@@ -1,0 +1,32 @@
+Recipe number:
+150875.txt
+Review:
+Rating:
+5
+dateLastModified:
+01/26/2009
+helpfulCount:
+22
+userID:
+855519
+Display Name:
+CooperCook
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1011950.jpg
+text:
+This is good and refreshing.  I made them with a little more vodka and lemon juice for personal taste.
+Review:
+Rating:
+5
+dateLastModified:
+07/13/2009
+helpfulCount:
+19
+userID:
+683552
+Display Name:
+LOUDNOYES
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/50930.jpg
+text:
+I enjoy Sea Breezes, but with addition of flavored vodka and lemon it was excellent! Happy Summer!

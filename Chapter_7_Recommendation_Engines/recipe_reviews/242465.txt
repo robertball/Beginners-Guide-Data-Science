@@ -1,0 +1,107 @@
+Recipe number:
+242465.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-05T23:27:15.76
+helpfulCount:
+1
+userID:
+16546857
+Display Name:
+Tori Bastress
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2657051.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Our 9 yr. old  made these for dinner and they were awesome! She used ground turkey in place of the chicken. The nuggets were reminiscent of sausage. We will request these again!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-05T22:37:41.217
+helpfulCount:
+0
+userID:
+25181744
+Display Name:
+Elaine King
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6380295.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We love these chicken nuggets! I can’t remember how many times I’ve made them. I reduced the salt to 1/2 -3/4 tsp.  in the meat mixture but kept the full teaspoon in the coating. We never get tired of them.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-03T21:02:21.78
+helpfulCount:
+0
+userID:
+21830964
+Display Name:
+leiane23
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+48
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I’ve made these twice now because we loved them so much. They are filling and delicious. I added some sriracha to the meat to make the nuggets spicy and I’ll definitely be making them again soon!

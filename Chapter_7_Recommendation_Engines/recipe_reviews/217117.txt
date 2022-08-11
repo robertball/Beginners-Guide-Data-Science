@@ -1,0 +1,107 @@
+Recipe number:
+217117.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-05-08T12:02:00.02
+helpfulCount:
+4
+userID:
+5650701
+Display Name:
+christina ellis
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+use 1/2 sour cream and 1/2 cream cheese. Adds a very lucious flavor and tastes absolutely amazing adding some marinated artichoke hearts and eating with chips or crackers!
+Review:
+Rating:
+5
+dateLastModified:
+2018-11-25T16:11:50.85
+helpfulCount:
+0
+userID:
+13672850
+Display Name:
+Gemma Gemma
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+179
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2201350.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good but i made a few changes I added 1/2 sour cream 1/2 cream cheese also I didn't have green garlic so i used regular works just as good didn't add cilantro as I think it's gross so i added green onion and a little dill...omg amazing
+Review:
+Rating:
+5
+dateLastModified:
+2017-09-23T15:08:13.163
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9649
+followingCount:
+0
+madeRecipesCount:
+2461
+favoritesCount:
+2264
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was simple and yet so good! I used this to dip hot wings in instead of your typical ranch and it worked very nicely with wings. This would be good on many different things. Definitely a keeper!

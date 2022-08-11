@@ -1,0 +1,37 @@
+Recipe number:
+245562.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-12-15T19:16:56.023
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+481
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3231
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good soup. For those wondering about chocolate in the soup, think about mole sauce.. that also has chocolate and is very tasty.  I forgot to buy a red chili so i added red chili flakes..

@@ -1,0 +1,32 @@
+Recipe number:
+101470.txt
+Review:
+Rating:
+4
+dateLastModified:
+05/01/2006
+helpfulCount:
+5
+userID:
+827351
+Display Name:
+Caroline C
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1944060.jpg
+text:
+This recipe certainly satisfied our lunchtime craving for pizza. I used fresh tomatoes, and topped with combinations of pepperoni, ham, mushroom and onion. Delicious!
+Review:
+Rating:
+4
+dateLastModified:
+05/07/2006
+helpfulCount:
+3
+userID:
+802795
+Display Name:
+Chelsey Wolnowski
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/4367.jpg
+text:
+These are so tasty!!! Really flavourful, and so quick and easy. Loved em :)

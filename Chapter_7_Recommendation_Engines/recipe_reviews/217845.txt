@@ -1,0 +1,74 @@
+Recipe number:
+217845.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-15T13:12:37.42
+helpfulCount:
+1
+userID:
+22681595
+Display Name:
+Gabby G
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+40
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5223957.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was so easy and delicious!  My boyfriend raved about it all night.  Although I did do a few things differently (I used half and half rather than heavy cream, used a bag of frozen corn rather than ears, used boneless skinless chicken breasts, added 3 tablespoons of butter to the sweet potato mix, and I put about a teaspoon of salt into the marinade,) I think next time I make it I will add more chili powder, more hot sauce, and maybe some cayenne powder into the marinade.  I also think I would put a dash of chili powder on top of the corn along with the salt and pepper, and might try experimenting with a dash or so of cinnamon in the sweet potato mix.  With these changes, this recipe is certainly deserving of 5 stars!
+
+After I've written all of that I'm craving this meal again.
+Review:
+Rating:
+4
+dateLastModified:
+2017-09-28T01:16:14.317
+helpfulCount:
+1
+userID:
+443640
+Display Name:
+My Hot Southern Mess
+isPro:
+False
+followersCount:
+12438
+followingCount:
+0
+madeRecipesCount:
+432
+favoritesCount:
+912
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6271806.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a pretty tasty meal but it needed a minor tweak to the sweet potatoes and there needs to be a measurement for the oil used in the marinade. I used 1 tablespoon  because it didn't specify. Instead of grilling I did roast my chicken in the oven and it was great. After tasting the sweet potatoes I added 2 TB of butter, and that made them perfect. My husband has already requested for me to make it again. Next time I think I will make it with boneless, skinless chicken breast though.

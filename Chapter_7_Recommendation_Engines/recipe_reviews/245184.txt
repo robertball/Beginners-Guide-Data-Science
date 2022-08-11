@@ -1,0 +1,72 @@
+Recipe number:
+245184.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-29T10:32:53.223
+helpfulCount:
+1
+userID:
+7169754
+Display Name:
+pattiannmarch
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+25
+favoritesCount:
+721
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1863234.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Could not find Pineapple cream cheese, bought plain cream cheese and a can of crushed pineapple, took all the juice and moisture out, mixed the two together, worked out just fine.  Also chopped up the green onions, mixed that also together
+Review:
+Rating:
+4
+dateLastModified:
+2017-12-31T19:50:21.63
+helpfulCount:
+0
+userID:
+20417240
+Display Name:
+Mindzy Simpson
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3936846.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+i didn't realize how good is it. simple... very easy to make and delicious!

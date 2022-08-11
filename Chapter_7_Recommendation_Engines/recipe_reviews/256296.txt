@@ -1,0 +1,110 @@
+Recipe number:
+256296.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-04T19:18:12.34
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so freaking good, I ate it for lunch and dinner. The recipe is flawless. There is nothing to tweak, change or fiddle with. It's perfect as is. All the flavors are a perfect blend and the textures just hit the spot. Thank you for the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-02T21:12:19.873
+helpfulCount:
+2
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+649
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3474
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We thought this was a GREAT breakfast today!  We had extended family over, and we all thought it was very good and that the tomato mixture along with the guacamole made it!  I did use a package seasoning to marinate the steak before grilling it but thought it actually needed a bit more flavor than what that mix imparted.  I'd be tempted next time to visit the nearest Mexican restaurant to pick up some meat!  I had to forego the red pepper flakes because of family members' needs.  This was perfect!  Thanks, b.d.weld!
+Review:
+Rating:
+5
+dateLastModified:
+2017-04-23T16:12:33.88
+helpfulCount:
+1
+userID:
+10248289
+Display Name:
+Clifford Hutson
+isPro:
+False
+followersCount:
+43
+followingCount:
+0
+madeRecipesCount:
+26
+favoritesCount:
+34
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3891120.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Another great recipe provided by Brian Weld for our Hunt's Campaign.  This was amazing.   The only thing I added was a little salt.  Great job Brian
+
+http://allrecipes.com/recipe/256296/carne-asada-breakfast-fries/
+#AllstarsHunts, #AD

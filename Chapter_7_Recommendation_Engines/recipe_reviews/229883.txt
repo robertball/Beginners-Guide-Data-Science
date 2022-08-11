@@ -1,0 +1,37 @@
+Recipe number:
+229883.txt
+Review:
+Rating:
+3
+dateLastModified:
+2012-11-08T04:49:11.193
+helpfulCount:
+5
+userID:
+810172
+Display Name:
+PennPitstop
+isPro:
+False
+followersCount:
+7
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+222
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/724683.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good recipe except next time I will add the fruit and nuts later in the cooking process.  The cranberries came out really chewy, so the brittle is a little hard to eat. I will definitely make this again.

@@ -1,0 +1,107 @@
+Recipe number:
+228387.txt
+Review:
+Rating:
+4
+dateLastModified:
+2015-02-19T02:04:47.507
+helpfulCount:
+1
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2826
+favoritesCount:
+1828
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This sauce is more creamy than zesty but still good. I didn't add salt because I used salted butter however I did followe the method as written. It is a bit runny. I suggest seeding the tomatoes first. I ended up cooking on the stove top after an hour in the oven. Thank you chefsquig for your recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-22T15:31:15.973
+helpfulCount:
+0
+userID:
+10828981
+Display Name:
+Chris Grams
+isPro:
+False
+followersCount:
+12
+followingCount:
+0
+madeRecipesCount:
+152
+favoritesCount:
+492
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used frozen Roma tomatoes from the garden. Easy, tasty but runny so I’m now finishing on stove top. May add tomato paste? And a little honey?
+Review:
+Rating:
+2
+dateLastModified:
+2014-02-02T17:48:24.247
+helpfulCount:
+0
+userID:
+13078502
+Display Name:
+bethanacular
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+WAY too much salt! I had to add a can of tomato paste and a can of tomato sauce just to tone down the saltiness.

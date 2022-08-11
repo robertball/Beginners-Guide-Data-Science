@@ -1,0 +1,47 @@
+Recipe number:
+230333.txt
+Review:
+Rating:
+4
+dateLastModified:
+05/31/2015
+helpfulCount:
+1
+userID:
+6853760
+Display Name:
+Fatima Lojewski
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5854863.jpg
+text:
+It's a great easy beef stew! I added Kale and Sriracha to take this amazing recipe to the next level.
+Review:
+Rating:
+5
+dateLastModified:
+01/27/2015
+helpfulCount:
+1
+userID:
+lizzie
+Display Name:
+Liz Dalton 'Lizzie'
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/1276525.jpg
+text:
+This stew has a lot of flavor! Really enjoyed it on the slightly hot side. Didn't change anything and will make this again with more corn next time.
+Review:
+Rating:
+5
+dateLastModified:
+01/11/2019
+helpfulCount:
+0
+userID:
+23578506
+Display Name:
+addles
+photo:
+https://images.media-allrecipes.com/userphotos/60x60/5980271.jpg
+text:
+Yummy and easy. I used a bag of frozen mixed veggies and cut up the potatoes to put in. Filling on a cold winter night.

@@ -1,0 +1,107 @@
+Recipe number:
+241844.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-04-11T01:57:28.617
+helpfulCount:
+3
+userID:
+2719400
+Display Name:
+sueb
+isPro:
+False
+followersCount:
+266
+followingCount:
+0
+madeRecipesCount:
+911
+favoritesCount:
+10887
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/274670.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Great taste!  Easy to make, even if the rising of the yeast dough takes a while!  I brushed butter on top[ as soon as this bread came out of the oven.  Wonderful recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-08T00:38:25.853
+helpfulCount:
+0
+userID:
+17778393
+Display Name:
+Msgr Louis A Marucci
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+9
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5034722.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this recipe! Tasted just like my grandmothers! Since I am not a lover of Anise flavouring, I eliminated the Anise seeds, And substituted with a half teaspoon of vanilla extract and a half teaspoon of Anise extract. Also, just before baking, I gave each loaf an egg wash, (I mixed 2 egg yolks with 2 teaspoons of water, then brushed each loaf...Makes a great shine) . By the way, my favourite way to eat this is toasted with a little bit of butter.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-22T18:29:48.14
+helpfulCount:
+0
+userID:
+10946097
+Display Name:
+Dave Bressi
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7476188.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm going to try it but nobody is making this with 5 tablespoons of anise seed. surely not black anise which last I purchased was $70 an ounce.

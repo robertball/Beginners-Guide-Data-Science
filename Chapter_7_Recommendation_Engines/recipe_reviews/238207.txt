@@ -1,0 +1,37 @@
+Recipe number:
+238207.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-01-02T07:11:22.653
+helpfulCount:
+2
+userID:
+466670
+Display Name:
+Arizona Desert Flower
+isPro:
+False
+followersCount:
+226
+followingCount:
+0
+madeRecipesCount:
+543
+favoritesCount:
+1086
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2409559.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This needed a ton of pepper.  The preparation was easy, however the taste was overwhelming of 'bottled dressing'.  We definitely prefer a homemade sauce...but in a pinch this works fine!

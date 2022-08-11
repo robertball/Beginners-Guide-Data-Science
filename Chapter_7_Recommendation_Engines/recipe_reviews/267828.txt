@@ -1,0 +1,72 @@
+Recipe number:
+267828.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-09-22T23:34:24.217
+helpfulCount:
+6
+userID:
+3501594
+Display Name:
+Dawn Moon Rigby
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+134
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4395340.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I boiled the potatoes whole instead of grilling them. Too hot for the grill today. My husband loved it. He knows his German potato salad.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-02T22:57:43.17
+helpfulCount:
+2
+userID:
+6341039
+Display Name:
+Susan Stehle
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+37
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677172.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Big hit with my big family.

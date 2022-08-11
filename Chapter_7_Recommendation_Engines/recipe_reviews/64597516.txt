@@ -1,0 +1,45 @@
+Recipe number:
+64597516.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-25T18:29:52.67
+helpfulCount:
+0
+userID:
+20328959
+Display Name:
+Tokla Moreau
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3887594.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Maybe I'm bias but I'm not sure the point of canning since it doesn't last very long
+I wrote this recipe as I had boxes and boxed of tomatoes
+Stewed tomatoes done ... salsa done ... diced tomatoes ... done
+Is it possible to make and can spaghetti sauce?
+I couldn't find a recipe
+I know about acidity levels from all the other canning I've done, I had to figure out how to balance the flavours
+SO .. I did .. and I wrote a recipe
+
+I hope you all enjoy

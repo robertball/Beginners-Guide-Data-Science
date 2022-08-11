@@ -1,0 +1,37 @@
+Recipe number:
+277406.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-29T21:44:21.52
+helpfulCount:
+0
+userID:
+6036902
+Display Name:
+Donna
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious. Not hard but only 3 servings. Not sure what more I would add. Maybe more potatoes.

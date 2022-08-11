@@ -1,0 +1,37 @@
+Recipe number:
+238465.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-07-13T16:06:25.17
+helpfulCount:
+0
+userID:
+21640898
+Display Name:
+Ellbaker16
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It came out mushy and uncooked, so I put it in for longer and they came out burnt on the outside and uncooked in the inside.

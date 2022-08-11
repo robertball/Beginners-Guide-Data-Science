@@ -1,0 +1,72 @@
+Recipe number:
+17844.txt
+Review:
+Rating:
+5
+dateLastModified:
+2005-01-03T10:07:24.077
+helpfulCount:
+11
+userID:
+1310115
+Display Name:
+CRAFTINGMOM06
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family really enjoyed this. It didn't last long. They wanted more. Next time I will make two.
+Review:
+Rating:
+5
+dateLastModified:
+2013-07-13T15:35:16.08
+helpfulCount:
+2
+userID:
+11659572
+Display Name:
+John Bills
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+44
+favoritesCount:
+443
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5413966.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe sounded most like the pie my mother-in-law used to make for us. I made it, and it was spot-on and delicious! The thin chocolate layer on bottom was thick and rich, and the rum custard on top was light and soft, with a very delicate rum flavor. We always had ours on regular pie crust, not graham cracker crust, so that's what I made. We also never used whipped cream, just a few semi-sweet chocolate shavings on top of the rum layer. This pie is plenty decadent without cream or graham cracker crust. My favorite pie - Perfect! I am new to this site, but will try to upload two pictures of the pie as I made it.

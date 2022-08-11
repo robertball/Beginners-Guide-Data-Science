@@ -1,0 +1,72 @@
+Recipe number:
+239926.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-08-28T02:37:59.703
+helpfulCount:
+1
+userID:
+20446347
+Display Name:
+Wendy Z Denney
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3955796.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I'm not a huge cole slaw fan, but this is pretty tasty. I did substitute the mayo for plain, full-fat greek yogurt and it made the dish healthier and creamier.
+Review:
+Rating:
+4
+dateLastModified:
+2015-07-10T18:18:01.133
+helpfulCount:
+1
+userID:
+14702476
+Display Name:
+Allyn Woodman Ritz
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5588644.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I've been making this Hawaiian coleslaw for about 20 years and it's one of our faves.  I use packaged coleslaw mix and leave out the raisins.  Making it the day before you intend to eat it gives time for the flavor to marry.   It's a nice flavor blend of sweet and tart with the added crunch of the chopped almonds. Yummy.

@@ -1,0 +1,107 @@
+Recipe number:
+242261.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-05-08T01:45:15.72
+helpfulCount:
+0
+userID:
+4401713
+Display Name:
+mlkieffer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+49
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674145.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very simple to make and very tasty.  I will make this again. The only changes I made were to use egg whites for part of the eggs.  I'll use more Kale the next time.
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-18T03:20:50.68
+helpfulCount:
+0
+userID:
+8415369
+Display Name:
+cook in progress
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+12
+favoritesCount:
+151
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turned out great!  I added some onion in with the potatoes but other than that, it was exact.  Delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-26T21:25:43.2
+helpfulCount:
+0
+userID:
+22358170
+Display Name:
+Ainz Stellman
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+4
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So yummy! Add bell peppers!

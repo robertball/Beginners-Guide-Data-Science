@@ -1,0 +1,72 @@
+Recipe number:
+258159.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-05-21T15:42:26.18
+helpfulCount:
+6
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9657
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2300
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I had some baby carrots that were close to expiring so I used those instead and just guesstimated on the ratio to the broccoli. I really liked this recipe. I do think you could simplify it by letting your broccoli boil for a minute and then add the carrots for that last minute. That way you could just dump it all out in a colander  and get the cold water running over it. I made as written but spooning all of the broccoli out took quite a bit of time that I don't feel is needed. This is a great recipe and would pair nicely with all kinds of main dishes. Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-02T03:01:10.58
+helpfulCount:
+2
+userID:
+23344310
+Display Name:
+Andrea Q
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5137817.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick, easy and flavorful! kids approved ;)

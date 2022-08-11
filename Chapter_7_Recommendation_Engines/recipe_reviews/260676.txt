@@ -1,0 +1,37 @@
+Recipe number:
+260676.txt
+Review:
+Rating:
+4
+dateLastModified:
+2017-10-27T23:54:10.83
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was good! There are a couple of things I will do differently next time. The sausage needs doubled in my opinion which also means you wouldn't even need the butter the recipe calls. You can save yourself a step and an extra dirty dish too by just leaving the sausage in the skillet while making the gravy. Lastly, you need to plan on a little more time in the oven. 10 minutes worked perfectly for me. This is a good recipe and one I will make for guests.

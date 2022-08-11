@@ -1,0 +1,143 @@
+Recipe number:
+258097.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-28T16:01:19.92
+helpfulCount:
+0
+userID:
+26230856
+Display Name:
+Robyn S
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+30
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7114245.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was awesome as is! The second time I made it I added avocado and made it even better! Love this recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-02T22:37:42.877
+helpfulCount:
+0
+userID:
+22761920
+Display Name:
+Kitty Crystal
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+108
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4688768.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I little plain but very good.
+Review:
+Rating:
+5
+dateLastModified:
+2018-03-22T16:35:35.343
+helpfulCount:
+0
+userID:
+4219519
+Display Name:
+Patti R
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+92
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7504868.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick, easy and delicious. Very filling. I cooked my egg white in a pan I lightly sprayed with Pam and had no aftertaste.  Highly recommend.
+Review:
+Rating:
+5
+dateLastModified:
+2017-08-20T18:09:54.71
+helpfulCount:
+0
+userID:
+9246227
+Display Name:
+manella
+isPro:
+False
+followersCount:
+169
+followingCount:
+0
+madeRecipesCount:
+343
+favoritesCount:
+1302
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6603558.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious:)) Lovely breakfast sandwich, i used a bit of coconut oil to cook the egg whites, i like the flavor. 
+Thank you Molly for the recipe. A keeper for sure...

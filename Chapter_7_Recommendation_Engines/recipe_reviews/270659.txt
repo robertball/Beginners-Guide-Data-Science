@@ -1,0 +1,72 @@
+Recipe number:
+270659.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-04-04T15:20:03.883
+helpfulCount:
+2
+userID:
+11880925
+Display Name:
+Brian A.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+325
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Excellent recipe. Eggs and avocado came out creamy and flavorful.   Good for an elegant lunch or as a light main course for supper. Serve it with a green salad.   Especially good for me as a diabetic because its carbohydrate count is low. It is now on my meal plan rotation.   I would recommend using a large avocado so your egg can fit comfortably in the cavity.  Also seated my avocado halves in a sprayed muffin tin to stabilize them. I did not lose any egg due to spillage.  BTW, the avocado skin is edible much like the skin of a baked potato.
+Review:
+Rating:
+3
+dateLastModified:
+2019-03-31T13:39:10.307
+helpfulCount:
+0
+userID:
+8066668
+Display Name:
+crazycakes
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+32
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674160.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This tasted very good, but there was quite a bit of waste with the egg whites since they all spilled over onto the cookie sheet.

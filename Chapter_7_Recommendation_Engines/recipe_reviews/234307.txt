@@ -1,0 +1,72 @@
+Recipe number:
+234307.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-02-26T11:38:52.143
+helpfulCount:
+0
+userID:
+27027888
+Display Name:
+Jessica Bickford
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7729905.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made it last night. it was good. my husband eat it all up
+Review:
+Rating:
+4
+dateLastModified:
+2014-01-06T12:55:39.48
+helpfulCount:
+0
+userID:
+12854590
+Display Name:
+Alex Bowen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674161.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Threw this together tonight with the leftover pumpkin from the holidays and it is very good! Not too sweet or heavy. I actually threw a graham cracker crumble on top for the last 10 minutes in the oven and it is delicious:)

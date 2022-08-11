@@ -1,0 +1,37 @@
+Recipe number:
+276552.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-31T21:44:57.007
+helpfulCount:
+0
+userID:
+11860847
+Display Name:
+MAWMAW
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+115
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Whole family loved it, added chopped green pepper, celery, and  onion to turkey.  Will be a making this again.

@@ -1,0 +1,37 @@
+Recipe number:
+277322.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-27T01:05:45.217
+helpfulCount:
+1
+userID:
+26541535
+Display Name:
+Dennis Matthew
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7346819.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Overall good recipe and straight forward to make with the Instapot. Definitely added the cayenne pepper at the end for a kick. They were out of sirloin at my grocery store so used a Cajun seasoned ribeye (double meat) instead. Turned out really really good! I may try adding a touch of heavycream next time to the bowl just to see how it is.

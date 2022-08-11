@@ -1,0 +1,37 @@
+Recipe number:
+246574.txt
+Review:
+Rating:
+1
+dateLastModified:
+2018-12-10T20:38:19.313
+helpfulCount:
+4
+userID:
+24714915
+Display Name:
+lynn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614260.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I wouldn’t even give this recipe 1 star, but I had no choice. You have obviously left out some liquid somewhere along the line. I have made these many times with “Jennys recipe and they turn out perfect. Thought I would give your recipe a try, as it makes more. Big mistake. Please revise your liquid amount to add, either with 2 whole eggs, 3 more tablespoons of sour cream and double the rum. As I had to do.Otherwise some people will just end up throwing everything out, as it is very, very dry and won’t form any kind of dough.

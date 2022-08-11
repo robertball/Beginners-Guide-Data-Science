@@ -1,0 +1,107 @@
+Recipe number:
+240827.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-02-25T10:59:37.37
+helpfulCount:
+4
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6892
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3306
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was fun, delicious and messy! I used a buffalo flavored ridged potato chip and that just added another great layer of flavor. Oh, and I didn't have any tater tots, but I did have frozen hash brown patties, so I just used those...worked perfectly! Not that this needs more fat, lol, but this would also be great topped w/ a bit of mayo. This is not something I could eat everyday, but for a treat or when a craving hits I will def be making this again~YUM! Thanks for sharing. :)
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-02T16:55:04.177
+helpfulCount:
+0
+userID:
+15595252
+Display Name:
+dancin bear, retired
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good for something different but worked better for a breakfast egg sandwich. However, if you use a waffle iron, the potatoes would disappear into the crevices. Use an old style waffle iron with the flip plates, one side waffle and one side smooth, using the smooth side or an indoor grill/panini press with the smooth plates.
+Review:
+Rating:
+3
+dateLastModified:
+2018-09-30T19:55:38.273
+helpfulCount:
+0
+userID:
+24068022
+Display Name:
+Carole Walls Henry
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+34
+favoritesCount:
+503
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5638391.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I don't know what went wrong, but the tater tots didn't cook together in the waffle iron to make "bread".

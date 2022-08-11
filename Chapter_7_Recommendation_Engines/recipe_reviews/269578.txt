@@ -1,0 +1,37 @@
+Recipe number:
+269578.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-19T02:28:38.403
+helpfulCount:
+0
+userID:
+18258177
+Display Name:
+Kimani Naaka
+isPro:
+False
+followersCount:
+11
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+6
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3714144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good stuff!!!!

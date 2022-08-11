@@ -1,0 +1,30 @@
+URL:
+https://www.allrecipes.com/personal-recipe/64697026/this-is-a-test-for-title/
+Title:
+This is a test for title Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+wefw
+
+Directions:
+wefweg
+
+Submitter: 
+Nguyen Duc Cuong
+Description: 
+wfw
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+30
+Ready in:
+NA
+Number of servings: 
+3
+Nutritional Facts:
+NA

@@ -1,0 +1,37 @@
+Recipe number:
+240730.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-12-05T02:42:54.35
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2272
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I started out as written but knew that 1/2 cup of alcohol wasn't going to be near enough for 8 cups of milk/cream. You need to double the amount of alcohol at least. As written it just tasted like sweet milk. I would also probably only use 8 eggs next time but that is just me. Over all this was a decent recipe and it was easy but just plan on doubling (or tripling) the amount of booze.

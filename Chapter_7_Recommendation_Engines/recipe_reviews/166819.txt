@@ -1,0 +1,119 @@
+Recipe number:
+166819.txt
+Review:
+Rating:
+4
+dateLastModified:
+2009-11-14T12:13:44.153
+helpfulCount:
+22
+userID:
+4146716
+Display Name:
+Julie A
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+18
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614262.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was wonderful and will make it again.  I made this for a family of 6.  The shanks we tend to get are huge and I cook like to cook them very low & slow (about 3.5 hours). I wish i had kept this in mind when making this dish.  Next time I will add the sweet potato about an hour before serving, not from the start as there were no discernible sweet potatoes left.  I'm also thinking about substituting dried tart cherries for some of the apricots, just to a little more complexity to the flavor.
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-28T22:06:13.613
+helpfulCount:
+0
+userID:
+9731124
+Display Name:
+Debra
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+6
+favoritesCount:
+127
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My husband loved loved this. 
+
+Didn't use sweet potato just bc I didn't have one in the house.
+Used chili paste, probably Asian sourced (we had just moved back from Malaysia)
+Used about double the cumin.
+Extra chicken stock for water.
+Served it with Mark loved loved this first time. 
+
+Didn't use sweet potato.
+Used chili paste, probably Asian
+Used about double the cumin.
+Extra chicken stock for water.
+Served it with pourgouri  and Bulgarian yogurt.
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-11T13:58:30.413
+helpfulCount:
+0
+userID:
+17663876
+Display Name:
+DeannaWrenn
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+20
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+No           but I did use the recipe for veal shanks also and they were also 5 star.  Thank you for asking.

@@ -1,0 +1,37 @@
+Recipe number:
+41061.txt
+Review:
+Rating:
+3
+dateLastModified:
+2002-11-25T16:31:54.107
+helpfulCount:
+2
+userID:
+378799
+Display Name:
+ALLIS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+135
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This seemed like a lot of trouble for not a lot of product. It tasted too oily and I wasn't impressed.

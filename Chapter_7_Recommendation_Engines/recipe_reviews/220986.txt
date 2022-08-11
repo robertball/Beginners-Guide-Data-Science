@@ -1,0 +1,107 @@
+Recipe number:
+220986.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-06-09T23:10:12.043
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+974
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1818
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I scaled down this recipe considerably. I ended up adding a can of diced tomatoes in the end because I couldn't get that "tomato paste" taste to ebb. It is a good base when you eliminate the sugar, I'll give it that. Add some fresh or canned tomatoes and it will please even the pickiest Italian eaters. Thank you teame for your recipe.
+Review:
+Rating:
+3
+dateLastModified:
+2014-11-22T09:42:14.077
+helpfulCount:
+1
+userID:
+14702637
+Display Name:
+Lee Risley Jr.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+100
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1975702.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+a good basic starting point for pizza and spegiti sauce I did the recipe in thirds and had alot
+Review:
+Rating:
+4
+dateLastModified:
+2017-04-28T19:30:14.157
+helpfulCount:
+0
+userID:
+13311602
+Display Name:
+dutchyrose
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+496
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an excellent combination of flavors but needs scaled down. Pork neck bones make a wonderful flavorful sauce if you brown them first in some evoo, add paste, sauce, herbs, a tablespoon of sugar, a little water and simmer for an hour or so. Yum! I would keep garlic and onion amts.

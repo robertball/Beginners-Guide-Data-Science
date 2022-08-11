@@ -1,0 +1,72 @@
+Recipe number:
+263794.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-25T04:34:23.807
+helpfulCount:
+0
+userID:
+4169532
+Display Name:
+Jenny
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+437
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Amazing! Didn’t have smoked paprika so I doubled the cumin. Followed the recipe otherwise and was very pleased with the result. Even my 3 year old loved her steak taco, minus the salsa b/c of the jalapeños. Will definitely make again.
+Review:
+Rating:
+5
+dateLastModified:
+2018-04-18T23:54:08.033
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were excellent! Don't let the long ingredient list in the marinade run you off. They are things you probably already have on hand. The only change I made was to grill the steak. I'm typically not big on salsa with fruit but this went great with the steak.

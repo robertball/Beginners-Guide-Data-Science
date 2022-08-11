@@ -1,0 +1,37 @@
+Recipe number:
+270263.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-02-14T15:33:43.823
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These were excellent! I have never seen canned lentils so instead I "canned" my own using my Instant Pot. The patties are pretty wet and I was afraid of them falling to pieces once they hit the grill so I stuck them in the freezer for 30 minutes to firm them up. Not sure if this was necessary or not but they turned out perfect so I will do that again when I make them next time. I was amazed at how much these looked like hamburgers on the grill and they even had grill marks. We are not vegetarians and still enjoyed these very much. 5 star recipe all the way!

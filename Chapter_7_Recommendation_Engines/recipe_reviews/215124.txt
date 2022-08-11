@@ -1,0 +1,109 @@
+Recipe number:
+215124.txt
+Review:
+Rating:
+5
+dateLastModified:
+2010-08-14T01:44:43.19
+helpfulCount:
+17
+userID:
+5158074
+Display Name:
+Dee Fee
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+119
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I put this up yesterday and was able to get 20 half pints.  I only added 1 teas of cayenne pepper and the rest of the recipe I kept the same.  I tasted it and it is very good.  The consistency is that of apple butter and about the same color.  I think this is going to taste really good with pork chops.
+Review:
+Rating:
+5
+dateLastModified:
+2013-09-13T09:49:11.08
+helpfulCount:
+4
+userID:
+3889264
+Display Name:
+czedwick
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+58
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Imagine A-1 steak sauce with an extra kick.  I make this for my husband, and to give away as gifts; this year I added grated zucchini.
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-11T21:16:35.46
+helpfulCount:
+0
+userID:
+16523510
+Display Name:
+Douglas Pruden
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6086175.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Made this last week since i was out. Made 8 750ml jars (big batch) used my apples and plums from the trees. Holy smoker doodle dandy im using this recipe from now on
+ The only ingrediant i changed was a 3 tbsps of matouks hot sauce, rather than cayene.
+I must say it adds a kick.

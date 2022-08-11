@@ -1,0 +1,37 @@
+Recipe number:
+253152.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-17T22:23:49.843
+helpfulCount:
+0
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8912
+followingCount:
+0
+madeRecipesCount:
+1115
+favoritesCount:
+2284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Delicious! I followed the directions and ended up with "pillow-y" light, cheesy gnocchi! I was a little worried when I started to roll them down my gnocchi board, as the dough was quite a bit stickier than regular potato gnocchi dough that I'm used to working with. I was afraid to add more flour, as I didn't want them to get heavy and tough. I just lightly rolled them down my well floured gnocchi board, not trying to get the "curl" into them, but only some slight indentations, which would help the sauce stick. They turned out so light and tender! I loved using the cottage cheese in place of ricotta too! Thanks Jan, for sharing the recipe!

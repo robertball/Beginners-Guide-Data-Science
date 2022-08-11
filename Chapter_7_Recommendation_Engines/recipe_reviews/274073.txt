@@ -1,0 +1,37 @@
+Recipe number:
+274073.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-17T22:53:31.26
+helpfulCount:
+1
+userID:
+3991009
+Display Name:
+SunnyDaysNora
+isPro:
+False
+followersCount:
+423
+followingCount:
+0
+madeRecipesCount:
+1034
+favoritesCount:
+1861
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5451024.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+So tasty!  The flavor in this is truly exceptional, I'd definitely make sure to include the peanut sauce for the depth of flavor.  I accidentally added a tablespoon of roasted chili dded a tablespoon of roasted chili paste (the jar looked identical to the red curry paste in my fridge) in addition to the other ingredients and I'm glad I did, if you're a fan of heat I'd recommend doing the same (and maybe even adding more!).  The sauce was a little on the thin side and personally I like it a little thicker so I added a small amount of corn starch slurry at the end.  All in all this recipe is fabulous as written and an absolute keeper!

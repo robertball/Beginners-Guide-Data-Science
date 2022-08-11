@@ -1,0 +1,37 @@
+Recipe number:
+240041.txt
+Review:
+Rating:
+1
+dateLastModified:
+2015-01-27T01:11:24.76
+helpfulCount:
+3
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2821
+favoritesCount:
+1826
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I tried three batches of this recipe. I believe there is an issue with the wet/dry ingredients ratio. I tried augmenting the coconut flour in one batch, it burned. I tried adding more coconut milk, mush. I even tried making it like a dough and it was inedible. I was unable to make this recipe as it is written. Thank you cjcuppycake, most of your other recipes have worked well for me, just not this one.

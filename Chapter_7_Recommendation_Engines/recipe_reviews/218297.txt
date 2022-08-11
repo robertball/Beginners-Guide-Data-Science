@@ -1,0 +1,107 @@
+Recipe number:
+218297.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-06-24T21:47:59.313
+helpfulCount:
+13
+userID:
+2205934
+Display Name:
+Terry E.
+isPro:
+False
+followersCount:
+82
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+1176
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1041372.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+At first didn't know how the Pina Colada mix and Beer would settle... but the flavors melt together the same as they do in your mouth! Then with the addition of the sour cream, you will think you have died and gone to Chicken Comfort food Heaven! Don't be afraid of those jalapeno peppers the cream calms the heat and my wife and I agree, this one can't be beat! I paired it up with another new recipe from allrecipes.com  Ms B's Spinach-Topped Tomatoes another great addition to this site...
+Review:
+Rating:
+3
+dateLastModified:
+2011-07-10T20:49:09.143
+helpfulCount:
+4
+userID:
+3429533
+Display Name:
+Lisa H
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+5
+favoritesCount:
+842
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was not bad, but not what I expected at all.  I made this because of the jalapeno part of it and was really disappointed at how sweet it was.  Maybe I should have realized it with the pina colada part, but I was hoping that the flavors would compliment each other somehow.  It makes a lot of sauce, so I quickly made some egg noodles to mix in.  I would recommend some rice or couscous instead--maybe some grilled fruit.  Just remember it's very sweet and I personally didn't even taste the jalapenos.
+Review:
+Rating:
+4
+dateLastModified:
+2012-02-21T16:48:03.343
+helpfulCount:
+2
+userID:
+6857292
+Display Name:
+Angela K Lightfoot
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+94
+favoritesCount:
+609
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1280088.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+very good.....needs more chicken next time, probably double....used tony's for seasoning and heineken beer.  dew was skeptical about the beer but it had a great flavor....he liked.

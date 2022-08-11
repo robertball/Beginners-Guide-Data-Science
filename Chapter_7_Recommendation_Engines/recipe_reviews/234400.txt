@@ -1,0 +1,37 @@
+Recipe number:
+234400.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-01T13:37:41.847
+helpfulCount:
+6
+userID:
+1567216
+Display Name:
+Jamie
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+24
+favoritesCount:
+52
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1494178.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+How cool are these.  Thank you frady.  I made these for a party.  The only difference is that I made the filling with sriracha sauce, Dijon and mayonnaise.  This made the filling orange.  You can make black food coloring by mixing equal parts red, blue and yellow.  The pumpkin in the middle is made of Boisin cheese. Form two pkgs of boisin into a ball.  Add the face (made out of pepperoni) and roll it in finely shredded cheddar.  The stem is made out of the top of a red pepper and the horns are thai chillies.

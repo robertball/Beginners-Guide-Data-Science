@@ -1,0 +1,73 @@
+Recipe number:
+122074.txt
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-11T08:40:50.657
+helpfulCount:
+3
+userID:
+328951
+Display Name:
+Jennifer Baker
+isPro:
+False
+followersCount:
+9973
+followingCount:
+0
+madeRecipesCount:
+330
+favoritesCount:
+701
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3605993.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are DELICIOUS!! They are delicate and lemony, and just a wonderful cookie.
+I used a lemon bakery emulsion instead of extract because I like the flavor better, and baked some with the pistachio topping and some with just sugar.  My toddler loved helping me cut them out with tiny cookie cutters.  5 stars all the way!
+Review:
+Rating:
+5
+dateLastModified:
+2012-01-11T13:37:27.047
+helpfulCount:
+2
+userID:
+2945555
+Display Name:
+Christina
+isPro:
+False
+followersCount:
+6896
+followingCount:
+0
+madeRecipesCount:
+2651
+favoritesCount:
+3309
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4996346.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My mom and I have been making these little gems for a few years now, ever since I got the recipe from Taste of Home's 'Ultimate Cookie Book'. These have become a favortie w/ everyone we've shared them with. LOVE the combo of the pistachio and lemon...it's great for a change as opposed to the usual types of cookies. Lovely recipe and simple too! :)

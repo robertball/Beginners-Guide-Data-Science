@@ -1,0 +1,72 @@
+Recipe number:
+139030.txt
+Review:
+Rating:
+4
+dateLastModified:
+2008-09-02T12:18:58.703
+helpfulCount:
+19
+userID:
+2093455
+Display Name:
+ait0shi
+isPro:
+False
+followersCount:
+49
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+183
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/23828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This reminds me of a dish that I used to eat in Japan. And its real good. If you wanna try something new, this is it. Thank you so much for sharing the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2008-02-25T16:39:32.733
+helpfulCount:
+14
+userID:
+2426927
+Display Name:
+Bess Lyon
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/10.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+Yum! this was a tasty recipe, they went fast... thanks for sharing!

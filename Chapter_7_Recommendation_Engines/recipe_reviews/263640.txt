@@ -1,0 +1,37 @@
+Recipe number:
+263640.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-08T16:33:11.77
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quite delicious. I added extra veggies. Method is a bit complicated so read through very well before you begin. There are ways to streamline and cut total time.

@@ -1,0 +1,36 @@
+URL:
+https://www.allrecipes.com/personal-recipe/64692109/test-recipe/
+Title:
+Test Recipe Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+food
+fooddd
+foooooddd
+foooooodddd
+
+Directions:
+Put food in bowl
+Mix food
+Cook food
+Eat food
+
+Submitter: 
+Olivia
+Description: 
+Food
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+0
+Prep time: 
+5
+Ready in:
+15
+Number of servings: 
+6
+Nutritional Facts:
+NA

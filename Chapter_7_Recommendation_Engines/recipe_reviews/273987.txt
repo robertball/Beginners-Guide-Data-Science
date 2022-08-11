@@ -1,0 +1,72 @@
+Recipe number:
+273987.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-13T01:02:54.45
+helpfulCount:
+0
+userID:
+4250006
+Display Name:
+GrinderCB
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+33
+favoritesCount:
+242
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/362349.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very tasty.  Strongly recommend cooking on LOW 10-12 hours instead of on HIGH for a shorter time.  That's just the best way to cook a pork tenderloin to insure it coming out tender.  Most of the prep is making the sauce but that's very easy.
+Review:
+Rating:
+5
+dateLastModified:
+2019-06-17T21:30:38.57
+helpfulCount:
+0
+userID:
+3651921
+Display Name:
+Beanie VanBuskirk
+isPro:
+False
+followersCount:
+57
+followingCount:
+0
+madeRecipesCount:
+129
+favoritesCount:
+456
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5411254.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is definitely not your ordinary “slow cooker pulled pork”. It’s sweet, spicy, smokey, tangy and oh so delicious!! All of the components really come together to make this recipe a standout, for sure! I made the recipe as is and wouldn’t change a thing! This is definitely a keeper! Thanks for a great recipe!

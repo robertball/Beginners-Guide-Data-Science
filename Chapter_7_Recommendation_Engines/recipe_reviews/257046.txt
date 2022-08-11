@@ -1,0 +1,38 @@
+Recipe number:
+257046.txt
+Review:
+Rating:
+4
+dateLastModified:
+2020-01-24T19:59:10.927
+helpfulCount:
+0
+userID:
+26927750
+Display Name:
+Betina
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614256.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It’s one of the better Sfouf recipe I found online. Made it twice already with only one cup of sugar and 3 tsp Turmeric. It tastes delicious. 
+My only problem is that when I mix it it has the consistency of dough rather then cake batter and once baked it comes out doughy in the center even though I baked it for almost an hour the last time.   Any suggestions?

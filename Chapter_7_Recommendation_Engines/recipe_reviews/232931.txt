@@ -1,0 +1,37 @@
+Recipe number:
+232931.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-07-13T18:10:48.4
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+402
+followingCount:
+0
+madeRecipesCount:
+1116
+favoritesCount:
+3232
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I omitted the dates because I used Bai Cocofusion water which is sweet and delicious on it's own. I used frozen pineapple which I had flash frozen previously and subbed spinach for the dandelion. I did not care for this smoothie which to me did not taste like a pina colada. Thanks for sharing.

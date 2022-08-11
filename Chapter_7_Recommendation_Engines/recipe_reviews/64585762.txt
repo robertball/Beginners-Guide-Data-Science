@@ -1,0 +1,37 @@
+Recipe number:
+64585762.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-04T12:43:19.23
+helpfulCount:
+0
+userID:
+18262691
+Display Name:
+SandyMomOf5
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674146.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was some of the best salmon I've ever had.  The marinade drizzle and fruit salsa pair perfectly with the grilled salmon.  DELISH!!

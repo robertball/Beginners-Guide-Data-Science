@@ -1,0 +1,107 @@
+Recipe number:
+244826.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-06-10T13:58:14.61
+helpfulCount:
+2
+userID:
+9706830
+Display Name:
+birdluv4ever
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+72
+favoritesCount:
+227
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1029336.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this recipe! Instead of coconut water I put in regular water and it was pretty good! Next time, I would also put in ice cubes, as it got a little warm after awhile. Also, I didn't have kiwi or pineapple, but I put bananas and blueberries and strawberries in for a nice flavor. I am also allergic to nuts, so opted out on those. Will make again! Relaxing and filling!
+Review:
+Rating:
+5
+dateLastModified:
+2017-03-29T19:57:40.28
+helpfulCount:
+1
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9161
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used this recipe for the acai base and altered the topping to my taste and what I had on hand. This was my second attempt making a acai bowl and this will now be to go-to recipe! My first attempt went wrong after I put something together based on photos and was way off. This recipe makes a decent amount and is very filling.
+Review:
+Rating:
+4
+dateLastModified:
+2016-01-28T18:06:09.03
+helpfulCount:
+1
+userID:
+6816084
+Display Name:
+Dianne Andruch
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+59
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674164.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used frozen blueberries and fresh pineapple -- it was still deliciious!!!

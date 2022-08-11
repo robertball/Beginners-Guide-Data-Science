@@ -1,0 +1,72 @@
+Recipe number:
+235483.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-10-26T03:11:13.487
+helpfulCount:
+0
+userID:
+16263509
+Display Name:
+htc
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+131
+favoritesCount:
+589
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did not use the cider recipe. But I tried making a cider float because I happen to have just finished making apple cider from fresh apples and it was already warm. I had vanilla ice cream in the freezer. This was so weird but in a good way. I will definitely have this again! thanks!
+Review:
+Rating:
+5
+dateLastModified:
+2015-10-02T13:15:05.837
+helpfulCount:
+0
+userID:
+3000008
+Display Name:
+House of Aqua
+isPro:
+False
+followersCount:
+9159
+followingCount:
+0
+madeRecipesCount:
+793
+favoritesCount:
+1517
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4502428.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so delicious that I've made it several times this week already! This recipe makes the house smell great and it tastes even better! There is something about the warm apple cider with the cold creamy ice cream making this recipe a fun twist on the traditional summer soda floats more appropriate for fall. You can add a drizzle of caramel or a sprinkle of cinnamon on top to jazz it up even more.

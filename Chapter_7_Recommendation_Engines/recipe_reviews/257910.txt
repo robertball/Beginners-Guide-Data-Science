@@ -1,0 +1,216 @@
+Recipe number:
+257910.txt
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-07T22:27:30.36
+helpfulCount:
+1
+userID:
+24637718
+Display Name:
+Will Jones
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+14
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6043631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Quick, easy and delicious!
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-09T16:06:27.73
+helpfulCount:
+0
+userID:
+26133675
+Display Name:
+LMS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674153.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a great new breakfast dish.  Didn’t have sweet potatoes on hand so used russets and used a smoky bacon sea salt rather than regular salt and then added a bit of shredded cheese.  Will definitely put this into our rotation
+Review:
+Rating:
+5
+dateLastModified:
+2020-01-13T21:44:29.76
+helpfulCount:
+0
+userID:
+3639100
+Display Name:
+HUNTER xo JAY
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+122
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7608420.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I was looking for a breakfast recipe with sweet potatoes.  This was perfect!  Simple and tastes delicious!  I did modify it to my liking.  I cubed both potatoes and onion, put in skillet with tiny bit  of olive oil, enough to crisp them.  Added a dash of pink salt & cajun season.  Then I just added two steamed eggs on top.  You can alter this recipe using different ingredients.  I just wanted a healthier version for my personal diet.
+Review:
+Rating:
+5
+dateLastModified:
+2019-12-21T15:04:28.817
+helpfulCount:
+0
+userID:
+36416
+Display Name:
+Terri Pike
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+45
+favoritesCount:
+319
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1993494.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I really loved this and had it for dinner instead of breakfast.   
+
+I had to make a couple changes due to what I had on hand but the basic ingredients were the same.
+You could add/subtract so many things to this, it is very versatile that way!
+I like the other reviewers suggestion of jalapeños and sour cream.  I’ma big fan of those :)
+Review:
+Rating:
+5
+dateLastModified:
+2019-10-06T15:13:57.4
+helpfulCount:
+0
+userID:
+24822321
+Display Name:
+Danielle DuPuis Deaver
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+19
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6177900.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I forgot to take the picture with the eggs in the pan, but I added chopped jalapeños because we like it spicy and we topped it with avocado. Yummmmm
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-16T21:29:20.287
+helpfulCount:
+0
+userID:
+5212790
+Display Name:
+Janice Peiffer
+isPro:
+False
+followersCount:
+4
+followingCount:
+0
+madeRecipesCount:
+45
+favoritesCount:
+690
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1996227.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good and tasty combination

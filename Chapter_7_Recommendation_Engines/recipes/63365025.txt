@@ -1,0 +1,39 @@
+URL:
+https://www.allrecipes.com/personal-recipe/63365025/new-format-glitch-fixes/
+Title:
+new format glitch "fixes" Recipe
+Image:
+https://images.media-allrecipes.com/images/79590.png
+Ingredients:
+ADDING PHOTOS GLITCH
+-use the option from your photos page not the recipe
+-view recipe (you'll need it in "recently viewed")
+-on your photos page.. "click here to submit a photo" -click "submit a recipe photo"
+-select recipe from list and follow prompts
+-crop by clicking & dragging the corners of the frame that appears over the photo
+SEEING YOUR REVIEWS EASILY GLITCH
+-search box for recipe, if not there add it to recipe box
+-click on your star rating to bring up the "edit review" window
+-after editing or reading your review you can delete it or not(obviously)
+
+Directions:
+If there are others let me know and I'll try to add them. Or maybe someone could write a blog.
+
+Submitter: 
+linda2d
+Description: 
+Allrecipes has a good blog up about using the recipe page that is pretty detailed.    This is more for the things that aren't working. If features just seem to not work, try updating your browser and it's add-ons/plugins/etc and contact the site with your hardware/software info to help them get it fixed.
+Categories:
+
+Number of ratings:
+NA
+Number of stars:
+5
+Prep time: 
+10
+Ready in:
+soon?
+Number of servings: 
+100
+Nutritional Facts:
+NA

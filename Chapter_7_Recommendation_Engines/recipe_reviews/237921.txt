@@ -1,0 +1,107 @@
+Recipe number:
+237921.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-01-01T13:08:36.58
+helpfulCount:
+1
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2126
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for brunch on New Year's Day - perfection!  The wine adds so much depth of flavor, as well as the prosciutto and onions.  I used Chardonnay instead of Pinot Grigio bc that's what I had on hand. I'll definitely be making this again. A great way to impress guests! I might try using brie instead of cheddar to change things up. Thanks for the fabulous recipe!
+Review:
+Rating:
+3
+dateLastModified:
+2018-08-15T00:29:46.667
+helpfulCount:
+0
+userID:
+3789134
+Display Name:
+Renee
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+1494
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just okay.
+Review:
+Rating:
+5
+dateLastModified:
+2015-11-14T03:02:15.703
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+977
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A must have for the adult table at your next brunch. This is also a great "brenner" candidate. I used prosciutto crudo seeing that it isn't stated in the ingredients list which to use. I didn't cook it though, just added it in with the cheese at the end. I also used vegan cheddar cheese (from this website) and still it was phenomenal. Add some spicy peppers too and you won't be sorry.

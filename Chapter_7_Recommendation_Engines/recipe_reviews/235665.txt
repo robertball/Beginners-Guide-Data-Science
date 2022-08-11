@@ -1,0 +1,112 @@
+Recipe number:
+235665.txt
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-25T08:00:11.19
+helpfulCount:
+3
+userID:
+4196646
+Display Name:
+Lela
+isPro:
+False
+followersCount:
+351
+followingCount:
+0
+madeRecipesCount:
+173
+favoritesCount:
+2651
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7559577.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The sweet popcorn was easy to make. The sugar syrup was not too hard or too soft. I made some witches'
+ shoes out of black cardstock and scrapbook paper. I added the popcorn to a clear bag and tied it with a ribbon and placed in the witches' shoes.
+Review:
+Rating:
+5
+dateLastModified:
+2014-10-31T15:00:59.91
+helpfulCount:
+1
+userID:
+11599071
+Display Name:
+Jennifer
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+336
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614250.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a very fast and easy popped corn treat! 
+Used two packs of Microwave popcorn (Kettle Corn),
+1 ½ c of M&M peanut butter treats instead of nuts.
+Lots of syrup coating to go all over.
+Very tasty!  Two large cookie sheets!
+Review:
+Rating:
+5
+dateLastModified:
+2018-12-05T00:39:47.697
+helpfulCount:
+0
+userID:
+1452636
+Display Name:
+TUNISIANSWIFE
+isPro:
+False
+followersCount:
+142
+followingCount:
+0
+madeRecipesCount:
+431
+favoritesCount:
+411
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/933710.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+this is very good and a nice change from caramel corn, with many variations to suit your own taste, or in my case-what I had on hand.  I used some mini M&Ms, caramel filled M&M's, peanuts, and raisins.  Easy to make and done in no time.  very nice snack and the M&Ms give it a nice pop of color for the holidays.

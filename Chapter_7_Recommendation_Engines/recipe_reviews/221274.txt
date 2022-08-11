@@ -1,0 +1,37 @@
+Recipe number:
+221274.txt
+Review:
+Rating:
+3
+dateLastModified:
+2013-03-02T09:39:24
+helpfulCount:
+1
+userID:
+8392630
+Display Name:
+Jerbear
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+41
+favoritesCount:
+169
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The "bun" was very dense. Flavor was pretty good.

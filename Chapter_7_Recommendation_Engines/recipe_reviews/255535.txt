@@ -1,0 +1,72 @@
+Recipe number:
+255535.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-01-21T14:44:54.843
+helpfulCount:
+7
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2813
+favoritesCount:
+1822
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is an excellent recipe. I used the flours listed, in their exact amounts.  The method was spot on, down to the timing needed in the oven - 18 minutes exactly. They are very good, and even though it is written that they aren't light and fluffy, don't think they are going to be heavy. Definitely a keeper recipe. Thank you for the recipe.
+Review:
+Rating:
+4
+dateLastModified:
+2017-06-11T03:14:08.573
+helpfulCount:
+1
+userID:
+2191253
+Display Name:
+Marianne
+isPro:
+False
+followersCount:
+648
+followingCount:
+0
+madeRecipesCount:
+821
+favoritesCount:
+3464
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/908828.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made these for my gluten-free family members.  They thought these were pretty good, but that was early on in their quest for something to replace what they used to be familiar with.  I will update this as they are more in tune with their new dietary needs.  They were easy to make, and they seemed pretty good to me though not very crispy.

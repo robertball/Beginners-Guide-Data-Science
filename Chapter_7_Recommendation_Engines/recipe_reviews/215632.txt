@@ -1,0 +1,72 @@
+Recipe number:
+215632.txt
+Review:
+Rating:
+1
+dateLastModified:
+2010-12-04T16:51:13.913
+helpfulCount:
+14
+userID:
+5968985
+Display Name:
+foodguy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/704645.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Nothing in this recipe went well together, in my opinion. I could not even offer a different variation to this.
+Review:
+Rating:
+5
+dateLastModified:
+2014-11-17T07:19:07.21
+helpfulCount:
+0
+userID:
+13582472
+Display Name:
+Brent Salyers
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1649375.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We LOVED this recipe, turned out beautiful to look at, but tasted even better... The Mango Salsa was a BIG hit!!

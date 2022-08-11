@@ -1,0 +1,45 @@
+Recipe number:
+233797.txt
+Review:
+Rating:
+2
+dateLastModified:
+2017-11-26T05:59:52.563
+helpfulCount:
+0
+userID:
+11600692
+Display Name:
+Leonard Eisenstein
+isPro:
+False
+followersCount:
+20
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+167
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3714676.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+PLEN+Y OF CHANGES
+1 1/2 LBS GROUND PORK
+1/2 & 1/4 CUP PANKO BREAD CRUMBS
+2 CLOVES OF GARLIC
+1 CUP SWEE+ CHILI SAUCE
+1/2 +BSP. RICE VINEGAR
+1 +BSP. CORNS+ARCH
+3 +ABLESPOONS WA+ER
+IX-NAY ON EVERY+HING PREVIOUSLY GIVEN FOR INGREDIEN+S.

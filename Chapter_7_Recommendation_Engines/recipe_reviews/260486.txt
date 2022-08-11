@@ -1,0 +1,37 @@
+Recipe number:
+260486.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-01-13T10:04:20.55
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+967
+followingCount:
+0
+madeRecipesCount:
+2804
+favoritesCount:
+1837
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7219827.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Love, love, love buckwheat pancakes and this recipe won’t let you down.  I used a mix that had red sorghum flour and powdered buttermilk. The taste is earthy and flavorful. Thank you for the recipe.

@@ -1,0 +1,72 @@
+Recipe number:
+231904.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-02-22T12:41:41.34
+helpfulCount:
+4
+userID:
+6756833
+Display Name:
+Marc McFarland
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+35
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3346247.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Never having cooked grits before, I was looking for a good, basic recipe to start with.  This was exactly what I was looking for.  Very easy to make, nice flavor, although I did omit the cooking sherry (didn't have any on hand).  I definitely recommend this recipe for anyone wanting a good foundation recipe for cheesy grits.  I will use it again and perhaps change it up with different cheeses, etc.
+Review:
+Rating:
+5
+dateLastModified:
+2018-02-14T02:52:18.83
+helpfulCount:
+1
+userID:
+771248
+Display Name:
+LAUGH11
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+102
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614261.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is theeeee cheese grit recipe!!  I know my cheese grits and this is it!!!!

@@ -1,0 +1,145 @@
+Recipe number:
+238289.txt
+Review:
+Rating:
+5
+dateLastModified:
+2015-03-29T17:03:36.423
+helpfulCount:
+5
+userID:
+442675
+Display Name:
+BLANGE
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+84
+favoritesCount:
+413
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Just made salad this evening and it was great!!
+Easy, fast any a great flavor. Used green Italian olives chopped up and added some chopped fresh basil and red wine vinegar.  Will be a summer favorite for grilling out.
+Could easily be dinner with some crusty bread!!
+Thanks for sharing!
+Review:
+Rating:
+5
+dateLastModified:
+2016-07-04T18:39:05.44
+helpfulCount:
+2
+userID:
+5329130
+Display Name:
+veggiegm
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+53
+favoritesCount:
+810
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674169.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very good!  I used spinach tortellini, grape size tomatoes, a red pepper and Kalamata olives.  It's delicious.
+Review:
+Rating:
+5
+dateLastModified:
+2018-06-17T14:19:36.913
+helpfulCount:
+0
+userID:
+15358331
+Display Name:
+chefielady
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+11
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674133.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+BIG CROWD PLEASER!!  I ADDED SOME CHUNKS OF FRESH MOZZERALLA !
+Review:
+Rating:
+3
+dateLastModified:
+2017-07-20T22:16:13.89
+helpfulCount:
+0
+userID:
+22105560
+Display Name:
+Nikki Harper
+isPro:
+False
+followersCount:
+2
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+1
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614252.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not bad, not great... kind of plain.  The broccoli is a bit too much texture in my opinion.  Needs more of a sauce.

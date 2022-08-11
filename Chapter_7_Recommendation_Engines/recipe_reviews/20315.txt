@@ -1,0 +1,37 @@
+Recipe number:
+20315.txt
+Review:
+Rating:
+3
+dateLastModified:
+2006-12-12T12:25:27.087
+helpfulCount:
+2
+userID:
+1120968
+Display Name:
+LOVIELOVER19
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+376
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/25207.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This takes time to make, but it is worth the effort. The cinnamon ice cream for me, turned out like soft served ice cream. It had an odd flavor. The whiskey ice cream was better, but looked really weird after I cooked it. It didn't look like what ice cream is supposed to. It froze well though. The crumbs were good, but this recipe makes too many crumbs. I would cut it in half. The peach recipe is good even though I used frozen peaches. I would strongly recommend using fresh peaches, but they are not available here in the winter. Overall, it was good, but the ice cream flavors were sort of odd for peach cobbler.

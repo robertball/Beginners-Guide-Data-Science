@@ -1,0 +1,72 @@
+Recipe number:
+265639.txt
+Review:
+Rating:
+2
+dateLastModified:
+2019-09-08T19:52:37.757
+helpfulCount:
+0
+userID:
+2077860
+Display Name:
+JannG
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+38
+favoritesCount:
+143
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674135.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was a very bland appetizer.  Definitely needed more spice for my liking.  Also the appetizers looked runny on the serving platter.  Maybe the zucchini was oil logged from the lemon and oil that was called for in the recipe.
+Review:
+Rating:
+5
+dateLastModified:
+2018-07-17T14:04:58.063
+helpfulCount:
+0
+userID:
+11367939
+Display Name:
+Patrick Swick
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+128
+favoritesCount:
+780
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7419266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+keep on rollin

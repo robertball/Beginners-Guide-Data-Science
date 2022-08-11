@@ -1,0 +1,39 @@
+Recipe number:
+258891.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-06T12:17:44.313
+helpfulCount:
+0
+userID:
+1543289
+Display Name:
+Sharon B
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+85
+favoritesCount:
+75
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677177.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+A very basic breaded pork Chop.   I followed instructions to a "T".   Next time I will add some garlic  and onions powder, with the S&P, to add a bit more flavor.
+Great comfort food which took me back to Grandma's house when I was  a child.
+Thanks for sharing the recipe.

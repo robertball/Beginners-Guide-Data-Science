@@ -1,0 +1,107 @@
+Recipe number:
+241463.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-29T23:50:22.73
+helpfulCount:
+0
+userID:
+8859340
+Display Name:
+SueM
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+161
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674165.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Good flavors, I added mushrooms, don’t be stingy with the lemon & use good fresh sustainable shrimp! I served with/over orzo with more veggies!
+Review:
+Rating:
+5
+dateLastModified:
+2019-03-16T00:05:48.247
+helpfulCount:
+0
+userID:
+17733289
+Display Name:
+Margaret Matthews
+isPro:
+False
+followersCount:
+3
+followingCount:
+0
+madeRecipesCount:
+50
+favoritesCount:
+392
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614242.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This receipt was wonderful
+Review:
+Rating:
+5
+dateLastModified:
+2015-06-30T14:08:53.49
+helpfulCount:
+0
+userID:
+2702518
+Display Name:
+Deb C
+isPro:
+False
+followersCount:
+609
+followingCount:
+0
+madeRecipesCount:
+2238
+favoritesCount:
+2628
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7578631.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a wonderful shrimp recipe that is so quick to make and has great flavor.  I used only red peppers (personal preference) and served it over risotto.  Thanks for sharing!

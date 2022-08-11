@@ -1,0 +1,107 @@
+Recipe number:
+235490.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-08-01T23:03:16.883
+helpfulCount:
+1
+userID:
+13532169
+Display Name:
+Jessica Messina
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+123
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2761975.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+OMG this was amazing! It was yummy and my kids LOVED it. I have one that hates onions and one that hates beans but they gobbled it all up. Just added a pinch of salt then topped it with shredded cheese and dried basil flakes and had grilled cheese on the side!
+Review:
+Rating:
+1
+dateLastModified:
+2016-12-07T20:46:44.553
+helpfulCount:
+0
+userID:
+12641896
+Display Name:
+Ahbro
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+180
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very bland! Will not try this recipe again
+Review:
+Rating:
+2
+dateLastModified:
+2016-11-23T20:55:59.08
+helpfulCount:
+0
+userID:
+3436177
+Display Name:
+Kim Thomas
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+9
+favoritesCount:
+185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4056879.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty bland. Used 1 can diced tomatoes w garlic and basil, 1 can crushed tomatoes. Neither were brand named specified. After warming, I blended all ingredients until smooth. I added more salt, basil, parsley and oregano and melted parm cheese.  Still kind of bland.

@@ -1,0 +1,72 @@
+Recipe number:
+17103.txt
+Review:
+Rating:
+2
+dateLastModified:
+2001-12-15T17:50:09.06
+helpfulCount:
+27
+userID:
+511187
+Display Name:
+LIZCHAO74
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+7
+favoritesCount:
+467
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674151.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Not happy with this salad at all.  Dressing was too mustardy, and the sweetness from the sugar made it taste weird.  I used red onion instead of regular onion (I prefer it for salads).  I won't be making this again.
+Review:
+Rating:
+4
+dateLastModified:
+2009-06-14T16:37:46.347
+helpfulCount:
+5
+userID:
+3352808
+Display Name:
+Matt B.
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/150320.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We enjoyed this, it provided a great way to use the veggies from our CSA box. I omitted the sugar, and added a little cumin. Try it over spinach, or with wild rice. Also great because it really doesn't have anything in it that isn't nutritious; who can beat a dressing made from yogurt?

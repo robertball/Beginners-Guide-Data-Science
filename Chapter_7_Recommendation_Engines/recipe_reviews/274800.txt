@@ -1,0 +1,37 @@
+Recipe number:
+274800.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-01T13:28:21.697
+helpfulCount:
+0
+userID:
+17479205
+Display Name:
+Chef Mo
+isPro:
+False
+followersCount:
+193
+followingCount:
+0
+madeRecipesCount:
+541
+favoritesCount:
+702
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6687890.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are some rich brownies, but that's what a dessert should be! I didn't get a strong coffee taste, but that's okay. I accidentally melted all the chocolate together based on the directions. They still turned out fine. I melted the a scoop of frosting and drizzled on top.

@@ -1,0 +1,72 @@
+Recipe number:
+246039.txt
+Review:
+Rating:
+4
+dateLastModified:
+2016-02-26T07:50:59.357
+helpfulCount:
+1
+userID:
+1057997
+Display Name:
+Kim's Cooking Now
+isPro:
+False
+followersCount:
+8912
+followingCount:
+0
+madeRecipesCount:
+1116
+favoritesCount:
+2284
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7271788.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is so refreshing! Turned out more like a granita than a sorbet really. I garnished it with some candied lemon peel and a sprig of mint. Turned out so pretty. Would make a nice dessert for a dinner party. Thanks for the recipe!
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-16T15:57:56.337
+helpfulCount:
+0
+userID:
+20694589
+Display Name:
+Mark
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+156
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674139.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It's rather tart ... I might play with it a little next time but it was terrific. It took a bit longer to freeze than I expected but it worked well. It was finished in time and that's what was important.

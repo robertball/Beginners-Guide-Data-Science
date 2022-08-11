@@ -1,0 +1,72 @@
+Recipe number:
+218871.txt
+Review:
+Rating:
+5
+dateLastModified:
+2011-11-12T19:47:58.34
+helpfulCount:
+4
+userID:
+2205934
+Display Name:
+Terry E.
+isPro:
+False
+followersCount:
+82
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+1176
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1041372.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very nice flavor, simple healthy choice, next time I'll use more pepperjack. Very easy to make and eveyone loved them.
+Review:
+Rating:
+5
+dateLastModified:
+2013-10-27T09:22:41.323
+helpfulCount:
+0
+userID:
+9029675
+Display Name:
+hmpayne
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+89
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This recipe is delicious! I couldn't find the blue corn tortilla shells at my local store. Instead I used a fresh corn tortilla. For a little heat (which we love), I used a spicy sprout blend! Ahh-maz-ing! The flavor combination was perfect. My husband demanded I make these again for lunch today!

@@ -1,0 +1,72 @@
+Recipe number:
+238727.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-11-12T00:29:48.723
+helpfulCount:
+0
+userID:
+16176562
+Display Name:
+Dave Dehghani
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+3
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2494418.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Turnout better than expected! I followed the recipe to a tee, except I also added a good portion (120g) of shredded cheddar to the mix. Would definitely make again.
+Review:
+Rating:
+5
+dateLastModified:
+2019-01-22T04:37:27.743
+helpfulCount:
+0
+userID:
+1254998
+Display Name:
+Jennifer Lee Dahl
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+63
+favoritesCount:
+380
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/4696358.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is really good!  It had a good texture and flavour that my 7 year old and one year old both loved.  Will make this again for sure!

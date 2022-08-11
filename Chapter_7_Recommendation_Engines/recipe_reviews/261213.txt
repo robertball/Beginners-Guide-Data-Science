@@ -1,0 +1,72 @@
+Recipe number:
+261213.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-11-16T00:41:16.55
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9814
+followingCount:
+0
+madeRecipesCount:
+2612
+favoritesCount:
+2800
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was okay but it needs more. I used this as 1 of the 2 dipping sauces for egg and spring rolls and it really lacked in flavor. Sorry. I think some sesame oil, Sriracha, and rice vinegar would bump this up a lot regardless of what you are using it for.
+Review:
+Rating:
+4
+dateLastModified:
+2018-05-30T01:48:46.58
+helpfulCount:
+0
+userID:
+4687153
+Display Name:
+Belinda
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+292
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674141.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Used stevie instead of sugar, one packet, tasted great. Will definitely make again. Very easy to make.

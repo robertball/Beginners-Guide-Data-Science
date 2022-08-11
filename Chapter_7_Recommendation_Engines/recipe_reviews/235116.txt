@@ -1,0 +1,37 @@
+Recipe number:
+235116.txt
+Review:
+Rating:
+2
+dateLastModified:
+2015-06-26T09:45:24.363
+helpfulCount:
+1
+userID:
+886179
+Display Name:
+BOOKIE 
+isPro:
+False
+followersCount:
+72
+followingCount:
+0
+madeRecipesCount:
+554
+favoritesCount:
+6781
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/global/features/190.gif
+city:
+None
+region:
+None
+country:
+None
+text:
+'Would've liked it better without the salami & I like salami.  Kinda odd with the salami seasonings in with the filling.  I won't make again.

@@ -1,0 +1,37 @@
+Recipe number:
+23844.txt
+Review:
+Rating:
+1
+dateLastModified:
+2017-12-04T23:28:14.73
+helpfulCount:
+0
+userID:
+22874483
+Display Name:
+dobos
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+0
+favoritesCount:
+13
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It was bland. I added salt and pepper to it and black olives to the recipe but it didn’t really have any flavor. I was thinking about adding spinach but i didn’t have any. It probably needed some cheese and maybe chicken... although this is more like a vegetarian dish ???????

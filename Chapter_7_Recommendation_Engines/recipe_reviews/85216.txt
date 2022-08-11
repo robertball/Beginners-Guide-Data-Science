@@ -1,0 +1,72 @@
+Recipe number:
+85216.txt
+Review:
+Rating:
+2
+dateLastModified:
+2005-10-16T20:45:19.25
+helpfulCount:
+5
+userID:
+795270
+Display Name:
+Renee Miller Cooper
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+22
+favoritesCount:
+56
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3739706.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+We didn't like this at all -- the ginger doesn't go well with the winter squash, it totally overwhelmed it.  We ended up tossing the soup.  I think without the ginger it may have been OK, but bland.
+Review:
+Rating:
+5
+dateLastModified:
+2006-11-22T05:50:42.39
+helpfulCount:
+2
+userID:
+1476231
+Display Name:
+Moira
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+15
+favoritesCount:
+157
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/118327.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I loved this soup! I didn't have any pecans and it was just great. Also, I tasted it before I added the heavy whipping cream and next time I make it I will leave it out. It was great either way...creamier with the whipping cream...less fat without. The combination of the apples and the squash were perfect. *One thing...it took longer than I thought to peel the butternut squash!

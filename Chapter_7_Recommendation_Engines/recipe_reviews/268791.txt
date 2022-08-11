@@ -1,0 +1,37 @@
+Recipe number:
+268791.txt
+Review:
+Rating:
+5
+dateLastModified:
+2020-02-21T12:47:51.463
+helpfulCount:
+0
+userID:
+9920663
+Display Name:
+HannahJane0722
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+10
+favoritesCount:
+922
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2783693.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was excellent! I’m a huge maple syrup fan anyways, but with the jalapeño heat the sweetness of the syrup just complimented the salmon. I used jar peppers and marinated probably more than recommend, but followed the rest of the recipe exact and it was so good. We eat salmon a few times a month so this will be in the rotation. I served with cilantro lime rice and a bean medley. Thank you for the recipe!

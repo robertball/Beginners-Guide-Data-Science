@@ -1,0 +1,144 @@
+Recipe number:
+23393.txt
+Review:
+Rating:
+3
+dateLastModified:
+2007-02-11T10:51:38.19
+helpfulCount:
+14
+userID:
+1369301
+Display Name:
+Janis Dee
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+82
+favoritesCount:
+25
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2544064.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was pretty good, but seemed to be missing something.  I will use this recipe again as a starter and add some sausage and spinach.  Thanks for sharing.
+Review:
+Rating:
+4
+dateLastModified:
+2012-09-28T13:57:31.853
+helpfulCount:
+8
+userID:
+797503
+Display Name:
+Lance Mertz
+isPro:
+False
+followersCount:
+8
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+480
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1749816.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Four not five, as it is not extraordinary, but it is good sauce. I mixed the spices up in a sealed container and shook it up before adding the spices to the onion and garlic. Then I added the meat after the spices were fragrant. I cooked it for three hours on high in my crock pot and it came out great.
+Review:
+Rating:
+4
+dateLastModified:
+2011-02-07T12:32:53.1
+helpfulCount:
+5
+userID:
+1860362
+Display Name:
+Terri-Lynn Howell-Schlaiss
+isPro:
+False
+followersCount:
+10
+followingCount:
+0
+madeRecipesCount:
+35
+favoritesCount:
+162
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1215865.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought it was nice. A good hearty sauce, and easily adjustable to your tastes.
+There was no need to be rude, Marty!
+Review:
+Rating:
+5
+dateLastModified:
+2012-03-04T18:56:06.673
+helpfulCount:
+3
+userID:
+776887
+Display Name:
+MSIMMONDS
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+5
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674158.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My family loved this sauce!  I don't understand the negative reviews.  Its as good a beef-sauce recipe I've ever prepaired  Obviously if your looking for sausage or other protein this isn't for you. 
+I highly recommend this as an all family & all age delicious meal.

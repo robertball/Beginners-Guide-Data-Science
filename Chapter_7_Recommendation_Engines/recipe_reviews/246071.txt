@@ -1,0 +1,37 @@
+Recipe number:
+246071.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-28T19:43:00.163
+helpfulCount:
+0
+userID:
+23989420
+Display Name:
+Daniel Miron
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6877397.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I couldn't find green tamarind pods, so i used dried.  I removed them after cooking, as they didn't seem edible.  I think the flavor was right, people may prefer to just use some tamarind paste.  I also probably used the wrong chile, I should have used the birdseye.  Also, no split black lentils available, I skipped them.  Overall, this was enjoyable.  I thought at first it was too tart/bitter, but adding some red pepper flakes to make up for using the wrong chile balanced it nicely.

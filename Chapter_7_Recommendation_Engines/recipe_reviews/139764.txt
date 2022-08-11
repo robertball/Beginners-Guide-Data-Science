@@ -1,0 +1,73 @@
+Recipe number:
+139764.txt
+Review:
+Rating:
+5
+dateLastModified:
+2007-07-01T05:44:33.077
+helpfulCount:
+20
+userID:
+2414104
+Display Name:
+Yoseif A. Leevy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+0
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I must agree this is a fine recipe.
+We used the recipe, however the lamb was cooked out side on the grill, which gave a better taste and was very tender to perfection. Best served with chilled kosher wine.
+Review:
+Rating:
+3
+dateLastModified:
+2008-01-23T15:18:14.643
+helpfulCount:
+13
+userID:
+1354430
+Display Name:
+HanahsMom
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+297
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674140.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I made this for my husband. He thought it had too much of a lemon flavor.

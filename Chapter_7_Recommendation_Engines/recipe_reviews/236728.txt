@@ -1,0 +1,107 @@
+Recipe number:
+236728.txt
+Review:
+Rating:
+4
+dateLastModified:
+2014-10-01T20:10:51.59
+helpfulCount:
+1
+userID:
+51226
+Display Name:
+Linda T
+isPro:
+False
+followersCount:
+479
+followingCount:
+0
+madeRecipesCount:
+1547
+favoritesCount:
+3230
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2367052.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I left out the peas as I didn't have any in the freezer .. otherwise made the burgers as directed. I found out I am not a fan of tahini so when I had the leftovers of these, I used jalapeno ketchup. I preferred this more than the sauce
+Review:
+Rating:
+4
+dateLastModified:
+2016-05-14T18:53:00.48
+helpfulCount:
+0
+userID:
+18021008
+Display Name:
+G Pop
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+3
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674149.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I left out the tahini sauce and used thai satay sauce instead. The burger itself was had a sweet taste and went well with the satay sauce.
+Review:
+Rating:
+3
+dateLastModified:
+2014-08-30T09:16:28.53
+helpfulCount:
+0
+userID:
+8950133
+Display Name:
+freaki007
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+1
+favoritesCount:
+82
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674137.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+was a good veggie burger and texture but had a very, very bland taste and needed too much salt and pepper.

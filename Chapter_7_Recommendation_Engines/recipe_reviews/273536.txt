@@ -1,0 +1,37 @@
+Recipe number:
+273536.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-05-21T00:15:32.283
+helpfulCount:
+0
+userID:
+895249
+Display Name:
+France C
+isPro:
+False
+followersCount:
+767
+followingCount:
+0
+madeRecipesCount:
+520
+favoritesCount:
+2125
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6886266.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is surprisingly addicting! My first bite I thought, nope. But, the more I ate it, the more I wanted! I ended up eating 3 wedges! A unique mix of ingredients, but such a great variation of your typical wedge salad. This does make 4 good size side salads, even though you might think they look small at first.  Use a good quality blue cheese dressing as that will greatly affect the final outcome.  Also, watch the nuts on the grill because they can burn easily. I'm definitely making this again!

@@ -1,0 +1,37 @@
+Recipe number:
+175172.txt
+Review:
+Rating:
+3
+dateLastModified:
+2011-08-03T13:06:55.753
+helpfulCount:
+4
+userID:
+258754
+Display Name:
+Bakeybabe
+isPro:
+False
+followersCount:
+6
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+286
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/1526131.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+It tasted okay andbrought back memories of Grandma's cooking.  However, I can taste the cornstarch even thoughI didn't finished the entire 1 1/2 C.  Over all, it is ok and I finally finished the last piece last week.

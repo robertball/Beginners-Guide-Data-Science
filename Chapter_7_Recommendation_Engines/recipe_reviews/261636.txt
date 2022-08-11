@@ -1,0 +1,72 @@
+Recipe number:
+261636.txt
+Review:
+Rating:
+3
+dateLastModified:
+2017-11-24T02:48:15.257
+helpfulCount:
+3
+userID:
+20218795
+Display Name:
+Danielle Johnson
+isPro:
+False
+followersCount:
+5
+followingCount:
+0
+madeRecipesCount:
+4
+favoritesCount:
+7
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3814835.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+My masa didn’t turn out using this recipe so I used another and used vegetable shortening and used the chicken from this recipe and it turned out great especially for a first time tamale maker
+Review:
+Rating:
+5
+dateLastModified:
+2017-12-04T19:08:18.097
+helpfulCount:
+1
+userID:
+4455834
+Display Name:
+Crema
+isPro:
+False
+followersCount:
+121
+followingCount:
+0
+madeRecipesCount:
+19
+favoritesCount:
+15
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/848248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used fresh organic corn masa from a small tortilla producer in Portland, Oregon. Since it was fresh it needed only a third of the broth. Great recipe!

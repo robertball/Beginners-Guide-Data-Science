@@ -1,0 +1,37 @@
+Recipe number:
+229101.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-12-11T14:05:18.24
+helpfulCount:
+1
+userID:
+11472460
+Display Name:
+Denise
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+197
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5677174.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Tried this recipe and it was good for something different.  Don't know as though I would make again. Still glad I tried it..........

@@ -1,0 +1,37 @@
+Recipe number:
+245158.txt
+Review:
+Rating:
+3
+dateLastModified:
+2015-11-30T10:05:35.087
+helpfulCount:
+0
+userID:
+3100951
+Display Name:
+Paula
+isPro:
+False
+followersCount:
+775
+followingCount:
+0
+madeRecipesCount:
+1677
+favoritesCount:
+3991
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6485780.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I must admit the only reason I made this pizza is because the unusual ingredient of pumpkin intrigued me...and I wanted lunch. I like pumpkin, so I knew it wouldn't be something that just totally disgusted me. But I must say the pumpkin didn't do anything for the pizza. I made it on Joseph's Oat Bran and Whole Wheat Lavash Bread, as is my custom for a single serve pizza and then scaled down the ingredients. I tasted it first and then added salt on the top, which it needed because of the unsalted pumpkin. Not bad, and certainly a way to use up left-over Thanksgiving chicken and canned pumpkin.

@@ -1,0 +1,37 @@
+Recipe number:
+255082.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-07-04T22:19:45.71
+helpfulCount:
+0
+userID:
+3223316
+Display Name:
+Yoly
+isPro:
+False
+followersCount:
+391
+followingCount:
+0
+madeRecipesCount:
+1100
+favoritesCount:
+3185
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/6094790.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I thought this was very refreshing, quick and easy to make. I used regular tonic water since I did not have diet tonic water. I liked that little bit of fizz. Thank you for the recipe.

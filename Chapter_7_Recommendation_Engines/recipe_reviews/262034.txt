@@ -1,0 +1,37 @@
+Recipe number:
+262034.txt
+Review:
+Rating:
+3
+dateLastModified:
+2018-01-10T13:04:41.643
+helpfulCount:
+0
+userID:
+3084624
+Display Name:
+Tammy Lynn
+isPro:
+False
+followersCount:
+223
+followingCount:
+0
+madeRecipesCount:
+1015
+favoritesCount:
+1341
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3542952.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This soup is a decent base as written. I left out the 2 cups of water, as the 32 oz of broth (I used homemade ham stock in place of chicken broth) was enough for me, and I didn't want to water it down. Also, 3 Tablespoons of dried rosemary would have overpowered the whole flavor. I only used 2 teaspoons, and I could still taste it quite well. I added about a teaspoon of garlic powder.

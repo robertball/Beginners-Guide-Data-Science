@@ -1,0 +1,37 @@
+Recipe number:
+258580.txt
+Review:
+Rating:
+3
+dateLastModified:
+2019-01-10T00:10:33.893
+helpfulCount:
+0
+userID:
+5499699
+Display Name:
+Kenboy
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+8
+favoritesCount:
+109
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674152.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Watery, but great potential...   I made it as instructed except for using brown rice and, accordingly, cooking the soup a bit longer.  (We don't eat white rice.)    It was good, but not great.  The next time I will delete the water and the chicken broth to substitute two containers of chicken stock.  If the family vegan is in town, I would substitute vegetable broth instead.  If it's the voracious nephews, I'll add a cup or more of pre cooked chicken.

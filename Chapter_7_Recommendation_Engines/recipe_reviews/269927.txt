@@ -1,0 +1,72 @@
+Recipe number:
+269927.txt
+Review:
+Rating:
+5
+dateLastModified:
+2019-09-09T03:39:06.443
+helpfulCount:
+1
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9654
+followingCount:
+0
+madeRecipesCount:
+2468
+favoritesCount:
+2294
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Perfect! I'm not a fan of pineapple but you don't have to be to love this recipe. You can hardly taste it and its main purpose is to tenderize. The absolute key to this recipe is crisping it up in a skillet as the recipe submitter mentions. I made two different pineapple pulled pork today and hands down this one was the winner. Excellent!
+Review:
+Rating:
+4
+dateLastModified:
+2019-08-01T12:22:20.377
+helpfulCount:
+1
+userID:
+21938210
+Display Name:
+cmach
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+21
+favoritesCount:
+343
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674163.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I used 1 &1/4 lb pork loin as that is what was in my freezer. I was worried about not enough liquid & added a small can of pineapple juice & cut back slightly on red pepper flakes and cumin. We had it over rice and it was great although it could have used a tad more juice- not fatty at all!

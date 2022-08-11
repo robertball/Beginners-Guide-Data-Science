@@ -1,0 +1,72 @@
+Recipe number:
+234001.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-10-21T03:03:44.08
+helpfulCount:
+4
+userID:
+22534868
+Display Name:
+Claire30953
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+14
+favoritesCount:
+24
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5882017.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a good recipe but it could definitely use a few tweaks. So first off, this recipe makes way more than it says it will. For example I set it for 25 servings, I now have 75 cake pops sitting in my refrigerator! I’m not exaggerating and I sat down and counted them and got 75. And that’s with me accidentally ruining some and having to throw them away. In the mixture of cake and frosting, I’m not criticizing anyone who wants to use all the frosting, but I only used about half of the frosting and I felt it was still too much frosting mixed in. Another thing, do NOT leave the chocolate in for 60 seconds at a time, 30 second increments NO exceptions! Lastly, don’t dip the cake pops in chocolate. You are going to have such a thick layer of chocolate it’ll be hard to bite into. Instead I would suggest using a spoon to pour some of the chocolate at the top of the cake pop and never allowing the cake pop to touch the bowl of chocolate. Again not a bad recipe just some things I’ve learned over the years of baking that make this recipe better.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-20T02:17:34.517
+helpfulCount:
+2
+userID:
+7118695
+Display Name:
+Amy Wright Jones
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+36
+favoritesCount:
+105
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5213264.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Very moist cake!  I used white chocolate chips & milk chocolate and both tasted great.  You can freeze up to 30 minutes to help cake hold it's shape while applying the melted chocolate.

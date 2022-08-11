@@ -1,0 +1,72 @@
+Recipe number:
+212612.txt
+Review:
+Rating:
+4
+dateLastModified:
+2010-11-07T04:42:16.483
+helpfulCount:
+3
+userID:
+3837519
+Display Name:
+Gail Hines
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+17
+favoritesCount:
+27
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5614248.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Mmmm Good!  I've made this several times wsith a Texmati brand royal rice blend instead of potatoes and it is always delicious.  The rice adds a nice crunch.  Perfect meal (with a slight twist) for a meat-and-potatoes kind of guy.  The mustard add a great little punch of flavor.  One of my dad's favorites.
+Review:
+Rating:
+5
+dateLastModified:
+2013-01-02T17:41:10.51
+helpfulCount:
+0
+userID:
+8014687
+Display Name:
+Fitzy
+isPro:
+False
+followersCount:
+1
+followingCount:
+0
+madeRecipesCount:
+107
+favoritesCount:
+370
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3694712.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+The pork chops turned out great and everyone thought I slaved over the gravy.  I've made this several times now and it always turns out really good.

@@ -1,0 +1,37 @@
+Recipe number:
+41527.txt
+Review:
+Rating:
+5
+dateLastModified:
+2006-11-03T23:54:16.053
+helpfulCount:
+9
+userID:
+1046205
+Display Name:
+COLEY2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+277
+favoritesCount:
+469
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674155.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+Really good and really easy - brought it to a Halloween party!

@@ -1,0 +1,37 @@
+Recipe number:
+258210.txt
+Review:
+Rating:
+5
+dateLastModified:
+2017-05-31T11:27:26.62
+helpfulCount:
+2
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+976
+followingCount:
+0
+madeRecipesCount:
+2810
+favoritesCount:
+1820
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is a game changer when it comes to the game "how to keep salads interesting".  They give it flavor, crunch, and if you add a little brine and oil, no need for fattening dressings. The honey doesn't make them too sweet, which is a plus for me.  I added a few fresh Thai chilies that I pierced before adding (for extra heat). The purple from the carrots seeps into the brine and is quite beautiful. These will make excellent gifts. Thank you for the recipe.

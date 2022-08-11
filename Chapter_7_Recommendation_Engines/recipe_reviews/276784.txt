@@ -1,0 +1,37 @@
+Recipe number:
+276784.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-12-06T15:13:53.23
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9653
+followingCount:
+0
+madeRecipesCount:
+2464
+favoritesCount:
+2271
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+After reading the recipe over carefully, I knew I was going to have to make a couple of changes. 4 bell peppers to 4 potatoes is way too many bell peppers for our liking. I used half of a red bell and half of a green bell and that was perfect for us. The oil needs scaled back as well. Overall a good recipe with good flavor but I do feel the recipe needs some tweaks.

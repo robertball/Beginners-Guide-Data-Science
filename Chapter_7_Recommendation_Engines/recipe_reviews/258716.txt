@@ -1,0 +1,37 @@
+Recipe number:
+258716.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-12-29T16:38:24.343
+helpfulCount:
+0
+userID:
+3567821
+Display Name:
+Soup Loving Nicole
+isPro:
+False
+followersCount:
+9655
+followingCount:
+0
+madeRecipesCount:
+2469
+favoritesCount:
+2299
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/930778.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I did all of the prep work as directed but once it goes outside and in the smoker hubs takes over. He did the rest as directed except for the temperature. From previous smoking experience he kept the temperature between 250-260 and it still took 7 hours. Not all pork butts are created equal but I do recommend bumping the temperature up on your smoker. With that being said, this turned out great. It was super flavorful and stayed tender and juicy.

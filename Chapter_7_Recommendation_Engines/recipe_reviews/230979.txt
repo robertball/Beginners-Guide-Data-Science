@@ -1,0 +1,37 @@
+Recipe number:
+230979.txt
+Review:
+Rating:
+4
+dateLastModified:
+2013-02-03T19:10:52.78
+helpfulCount:
+3
+userID:
+3936048
+Display Name:
+Baking Nana
+isPro:
+False
+followersCount:
+12226
+followingCount:
+0
+madeRecipesCount:
+999
+favoritesCount:
+2669
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/354665.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was very easy to toss together - it was a little runny at the bottom.  Maybe some cream cheese for part of the mayonnaise?  None the less, the flavor was very nice, not to spicy - creamy cheesy goodness.

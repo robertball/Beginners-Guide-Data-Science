@@ -1,0 +1,109 @@
+Recipe number:
+255898.txt
+Review:
+Rating:
+5
+dateLastModified:
+2016-11-21T03:22:11.05
+helpfulCount:
+2
+userID:
+6476442
+Display Name:
+Tracey Ferrari Posner
+isPro:
+False
+followersCount:
+152
+followingCount:
+0
+madeRecipesCount:
+288
+favoritesCount:
+1825
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/2410134.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+I  sometimes use a canned sloppy Joe  sauce if I'm pressed for time,  but when I do have the time, I make my own.  This is what I did for this recipe.  This recipe is very versatile as you, really can make the filling  that YOU like.
+I will tell you this, it is delicious!  I wasn't able to find the Borden mild chedear shreds, but I did find their  Colby & Monterey Jack Shreds.  Both my husband and I loved it!
+Review:
+Rating:
+5
+dateLastModified:
+2017-10-19T17:11:37.66
+helpfulCount:
+0
+userID:
+10233137
+Display Name:
+Carmen
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+18
+favoritesCount:
+194
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674159.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+One of my family's new favs, so quick and convenient too!
+Review:
+Rating:
+4
+dateLastModified:
+2016-11-21T18:00:37.143
+helpfulCount:
+0
+userID:
+9736194
+Display Name:
+Linda at Bit of Flavor
+isPro:
+False
+followersCount:
+151
+followingCount:
+0
+madeRecipesCount:
+122
+favoritesCount:
+1168
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/962587.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This was a quick and tasty sandwich to make, and the presentation in the scooped out roll kept it fun and neat to eat! 
+I used a mix of half ground turkey and half ground beef, and we were happy with the results!

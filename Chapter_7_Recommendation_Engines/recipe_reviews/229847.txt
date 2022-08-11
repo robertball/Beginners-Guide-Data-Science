@@ -1,0 +1,32 @@
+Recipe number:
+229847.txt
+Review:
+Rating:
+4
+dateLastModified:
+02/02/2013
+helpfulCount:
+3
+userID:
+912065
+Display Name:
+SHALLLES
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This recipe was pretty good. I liked it because it was easy to make.
+Review:
+Rating:
+4
+dateLastModified:
+11/06/2012
+helpfulCount:
+1
+userID:
+10225773
+Display Name:
+Mommy2012
+photo:
+https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png
+text:
+This was the perfect hostess gift. It was easy to make and extremely appreciated by my friends.

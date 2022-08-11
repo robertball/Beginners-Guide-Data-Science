@@ -1,0 +1,72 @@
+Recipe number:
+240664.txt
+Review:
+Rating:
+4
+dateLastModified:
+2019-02-08T16:37:48.793
+helpfulCount:
+0
+userID:
+1567825
+Display Name:
+Buckwheat Queen
+isPro:
+False
+followersCount:
+978
+followingCount:
+0
+madeRecipesCount:
+2829
+favoritesCount:
+1832
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/7744144.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+These are very rich and super chocolatey. Mine crumbled, so we ate them with a fork.
+Review:
+Rating:
+5
+dateLastModified:
+2016-05-20T23:18:59.963
+helpfulCount:
+0
+userID:
+18065170
+Display Name:
+river
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+2
+favoritesCount:
+2
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/5674136.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This is delish u need to make it simply yummy

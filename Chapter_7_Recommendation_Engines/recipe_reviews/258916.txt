@@ -1,0 +1,81 @@
+Recipe number:
+258916.txt
+Review:
+Rating:
+4
+dateLastModified:
+2018-03-12T16:11:46.443
+helpfulCount:
+1
+userID:
+1554570
+Display Name:
+the4taals
+isPro:
+False
+followersCount:
+116
+followingCount:
+0
+madeRecipesCount:
+704
+favoritesCount:
+38
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/3158466.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+If you grew up in the 70's everyone had this recipe in the fridge waiting to be baked! 
+I scaled the recipe to 27 servings which yielded 32 muffins with my #50 scoop, that baked in 22 minutes.
+I did crush the bran flakes with my rolling pin in the bag to make them break down faster.
+I changed the leavening to 4 tsps baking powder and 1 tsp baking soda since I was baking the whole batch right away.
+I used white whole wheat flour for the all purpose.
+I added 1 large orange juiced and zested and a scant 2 cups of chopped dates to the batter.
+My batter was still quite loose so I added an additional 1/4 cup flour and 2 cups bran flakes.
+They are so delicious! Great snacks for March Break and lunches, thanks!
+#AllrecipesAllstarsCanada
+#FacelessNoMore
+Review:
+Rating:
+3
+dateLastModified:
+2017-07-20T20:04:40.247
+helpfulCount:
+0
+userID:
+4083553
+Display Name:
+MrsCookie2
+isPro:
+False
+followersCount:
+0
+followingCount:
+0
+madeRecipesCount:
+13
+favoritesCount:
+370
+recipesCount:
+0
+reviewsCount:
+0
+photo:
+https://images.media-allrecipes.com/userphotos/50x50/335363.jpg
+city:
+None
+region:
+None
+country:
+None
+text:
+This Recipe needs some corrections.... #1 When do you add the Bran that has soaked up the water (I added it after mixing in the flour &buttermilk) and #2. The Bran FLAKES need to be run through a Food Processor in order to be mixed into the batter until smooth... I did that knowing no amount of stirring would break down the flakes to a smooth consistency ... it worked by processing them.
