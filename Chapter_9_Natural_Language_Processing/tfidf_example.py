@@ -8,6 +8,5 @@ corpus = [
 vectorizer = TfidfVectorizer(stop_words='english')
 X = vectorizer.fit_transform(corpus)
 
-print(vectorizer.get_feature_names())
+print(vectorizer.get_feature_names_out())
 print(X.toarray())
-
